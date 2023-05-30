@@ -17,3 +17,7 @@ Other/
 /.idea/
 /scripts/
 /templates/
+
+# sfrpgtools downloads
+monsterData.*.js
+

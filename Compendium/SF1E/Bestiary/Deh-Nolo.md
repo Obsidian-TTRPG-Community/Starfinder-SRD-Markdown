@@ -1,0 +1,19 @@
+---
+aliases: 
+tags: 
+---
+
+# Deh-Nolo
+
+- [cr::14]
+- [combatType::spellcaster]
+- [alignment::CE]
+- [size::large]
+- [type::aberration]
+- [subtype::-]
+- [environment::any]
+- [climate::any]
+- [planet::-]
+- [organization::['solitary']]
+- [source::AA]
+- [page::32]

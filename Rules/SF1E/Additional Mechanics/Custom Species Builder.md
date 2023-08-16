@@ -1,0 +1,278 @@
+---
+aliases: 
+tags: 
+---
+
+# CUSTOM SPECIES BUILDER
+
+**Source** _Interstellar Species pg. 42_  
+The Starfinder Roleplaying Game provides more than 100 playable species to choose from, but it’s missing a particularly fascinating species: the one you’ve yet to create! This article gives you tools and tips for making your own contribution to the galaxy’s panoply of species (while ensuring it’s of an appropriate power level for most games). Of course, you’ll still want to collaborate with your GM and other players to make sure it’s a good fit for your game.  
+
+# A NONLINEAR APPROACH
+
+**Source** _Interstellar Species pg. 42_  
+You’ll see there are numbered steps in the species creation process because there’s no correct order. Sometimes you’ll be first inspired by an idea for an alien culture and home world, then follow with its physiology, both of which then inform its mechanical traits. Or you might come at it from the other direction, finding a fun combination of mechanics that you then justify with an interesting culture and bizarre physiology. Feel free to skip around the process and adjust as you learn more about your species, using what inspires you and ignoring what doesn’t.  
+**Inspiration:** You might want to recreate a species you’ve seen in a movie, novel, or elsewhere—go for it! By the end of the process, your choices will make your re-creation unique.  
+**Questions:** Several sections include questions meant to inspire you; consider as many or few as you find helpful.  
+
+# MECHANICS
+
+**Source** _Interstellar Species pg. 42_  
+When you’re creating a new species, the game mechanics might be at the forefront of your mind, yet many of the most compelling species have mechanics deeply intertwined with their physiology and culture, evoking rich visuals and narratives. If you have specific mechanics you want to use, it’s okay to start there! Don’t be afraid to look at other sections first, such as physiology or home world, and let the decisions you make there inform those mechanics.  
+
+## ABILITY SCORE ADJUSTMENTS
+
+**Source** _Interstellar Species pg. 42_  
+Most playable species have one of two adjustments. First, they might grant a +2 bonus to a single ability score of the character’s choice (like humans). Second, they might grant a +2 bonus to two specific ability scores and a –2 penalty to a third (like vesk). The first option is simplest and recommended.  
+
+## HIT POINTS
+
+**Source** _Interstellar Species pg. 42_  
+Typically, a species grants 4 Hit Points at 1st level. In some cases, you might instead have the species grant 2 (for smaller or frailer creatures) or 6 Hit Points (for especially tough species).  
+
+## SIZE, SPEED, AND SENSES
+
+**Source** _Interstellar Species pg. 42_  
+Most creatures are Medium size, though your species can also be Small or Large. Making a species smaller than Small requires further considerations about how they might interact with a galaxy built for larger creatures, and mechanically Tiny characters usually have 0-foot reach that makes combat difficult. On the other hand, Huge and larger playable species become difficult to incorporate with most parties and adventures; many areas just aren’t big enough to accommodate them! If you create a Large species, their default reach is 5 feet (like that of most Medium creatures), but you might give them a 10-foot reach.  
+The default land speed is 30 feet. A species can have a single additional movement speed, but consider the physiological source of that speed and the environmental pressures that would’ve shaped its evolution. Choose from the following list: burrow 20 feet, climb 20 feet, fly 20 feet (average or clumsy maneuverability), or swim 30 feet. You might also reduce the species’ land speed by 10 feet to increase the additional movement speed by 10 feet.  
+Default vision is explained on page 260 of the Core Rulebook. A species can also have low-light vision as well as either blindsense (emotion, life, scent, sound, thought, or vibration) with a range of 30 feet or darkvision with a range of 60 feet. Again, consider its physiological source and evolutionary reason for existing. You can instead give your species both the sightless universal creature rule and blindsight (emotion, life, scent, sound, thought, or vibration) with a range of 60 feet.  
+Finally, consider how many abilities above you granted your species. If your species has powerful extra senses, an additional movement type, and other perks so far, it might be best to pick one less regular combat or noncombat ability to keep the power level roughly in line with other playable species.  
+
+## CREATURE TYPE
+
+**Source** _Interstellar Species pg. 43_  
+Choosing a creature type is largely thematic, rather than mechanical. Many creature types include additional abilities like darkvision, specific immunities, or other abilities appropriate for NPCs designed using Alien Archive, yet you shouldn’t apply these abilities to your species automatically. Instead, consider them as inspiration. The creature type might inform your species’ abilities, physiology, and culture, or you might choose a creature type that best fits traits you’ve already chosen. You can also roll on Table 2-5: Creature Type on page 46 if you want to select randomly.  
+If your creature is aquatic, you can give it the water breathing universal creature rule. If you do, you can also give it the amphibious universal creature rule.  
+
+## SPECIAL ABILITIES AND WEAKNESSES
+
+**Source** _Interstellar Species pg. 43_  
+Your species should gain several special abilities, which are broadly divided into combat and noncombat abilities. Your species should receive some of each to remain balanced in play against other species. Both categories have stronger abilities (the first 8 options listed on the corresponding table) and numerous regular abilities. Choose either one stronger combat ability or two regular ones, then do the same for noncombat abilities. Don’t choose the same ability more than once. As with all steps, consider the physiological or cultural sources of the ability and feel free to adjust the flavor of it to match your species concept.  
+You can also determine your abilities randomly. If you want to roll on a table for one stronger ability, roll a d8. If you want to roll for two abilities, reroll any results of 8 or less, as well as any duplicate results.  
+Weaknesses are optional, and they don’t grant additional abilities. Example weaknesses appear in Table 2–6: Weaknesses, and you can invent your own, though you should avoid sweeping penalties to AC or d20 rolls. Some weaknesses allow a saving throw (DC equals 13 + 1/2 the level, item level, or CR of the source that triggered the weakness ) to negate their effect.  
+
+## SPECIES VERSUS INDIVIDUAL
+
+**Source** _Interstellar Species pg. 43_  
+It’s important to keep in mind that you’re creating a species, not an individual character (though, of course, the hope is that you and others will create characters of your new species). As such, paint in broad strokes; among individual members of a culture, there will be plenty of exceptions to the overarching trends. Also keep in mind that individual members of the species whose life experience is of an entirely different culture (or cultures) won’t necessarily have strong links to that of their species’ home world.  
+The most interesting part comes when creating a character of your species; you can decide how exposed they were to their home world’s culture and what pieces they strongly identify with and which they might resist.  
+
+## OTHER ABILITIES
+
+**Source** _Interstellar Species pg. 43_  
+It’s often appropriate for a species to have a very specific ability tied to its culture or physiology. While such abilities are beyond the scope of this species builder, which is meant to provide an easy and balanced way to create new species, you can work with your GM to create them, using the abilities presented here as rough guidelines for what’s appropriate.  
+
+# PHYSIOLOGY
+
+**Source** _Interstellar Species pg. 44_  
+n determining the species’s appearance, you can use the tables above, inspirations from other media, or a mashup of both. Regardless, consider how a home world and evolutionary (or other) pressures might have shaped, or continue to shape, its physiology.  
+Consider how members of your species differ in appearance and physiology. What does your species eat? What eats your species? Are there other creatures on their home world, sapient or otherwise, that share similar physiological traits? Do these other creatures have traits that counter or complement your species’ traits? What advantages or challenges might your species face in an environment built for humans?  
+You might have already chosen a creature type in a different step. If not, you can roll a random one on Table 2–5: Creature Type. You might want your creature type to inform your species’ general body shape and exterior, but you can roll on Table 2–3: Body Shape and Exterior for random choices to get some interesting combinations!  
+Likewise, you might know what limbs your species has, but you can also randomly determine those limbs and how many there are by rolling 4d6 and using Table 2–4. The first d6 roll determines the number of upper limbs your species has. The second roll tells you what type of limbs those are. Similarly, the third roll tells you the number of limbs your species uses for locomotion, and the fourth roll tells you what kind they are (though you can just reuse your second result if you want your species’ limbs to be consistent).  
+Note that even a species with 0 or 1 manipulation limbs is still considered to be able to wield two hands’ worth of equipment. If your species has 3 or more limbs, consider giving it the multiarmed universal creature rule as one of its special abilities, though you might decide that one or more limbs are extraneous, vestigial, or otherwise unable to hold and wield objects. Either way, limit the multiarmed ability to 6 or fewer limbs.  
+
+# TABLE 2-1: COMBAT OPTIONS
+
+**Source** _Interstellar Species pg. 44_  
+
+| D100   | NAME                   | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Breath weapon          | As a standard action, this species can breathe a 30-foot cone that deals 1d6 energy damage, of an energy type chosen when you choose this ability. At 3rd level, add 1-1/2 × character level to the damage. A creature in the cone can attempt a Reflex save for half damage (DC = 10 + half the species’ character level + their Constitution modifier). This species can’t use this ability again until they’ve spent a Resolve Point to recover Stamina Points after a 10-minute rest. |
+| 2      | Evasive                | This species gains a +1 bonus to AC.                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 3      | Exceptional fortitude  | This species gains a +1 bonus to Fortitude saving throws.                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 4      | Exceptional will       | This species gains a +1 bonus to Will saving throws.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| 5      | Exceptional reflexes   | This species gains a +1 bonus to Reflex saving throws.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 6      | Extendable limbs       | This species’ reach increases by 5 feet.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 7      | Extra feat             | This species gains an extra combat feat at first level.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 8      | Projectile             | This species can generate and launch a projectile from its body as a ranged attack that targets KAC and deals 1d6 damage; choose whether this is bludgeoning, piercing, or slashing damage when you choose the ability. At 3rd level, add the character level to the damage. Increase the damage by 1d6 at 6th level and every 3 levels thereafter. This species can’t use this ability again until they’ve spent a Resolve Point to recover Stamina Points after a 10-minute rest.       |
+| 9–16   | Alerting presence      | Once per day at the beginning of a combat in which it isn’t surprised, this species can grant allies within 50 feet who can hear it a +4 morale bonus to their initiative checks for that combat.                                                                                                                                                                                                                                                                                         |
+| 17–20  | Amorphous              | This species has the amorphous universal creature rule.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 21–24  | Climbing Master        | This species isn’t flat-footed while climbing and can take 10 on Athletics checks to climb even when in combat or immediate danger.                                                                                                                                                                                                                                                                                                                                                       |
+| 25–28  | Damage reduction       | This species gains damage reduction equal to their base attack bonus. Choose two of the following: bludgeoning, piercing, or slashing. The DR can be overcome by the two chosen damage types.                                                                                                                                                                                                                                                                                             |
+| 29–32  | Defensive aspect       | When this species takes the total defense action, they gain a +6 bonus to their Armor Class instead of the normal +4 bonus, and they also gain the unflankable universal creature rule until the start of their next turn.                                                                                                                                                                                                                                                                |
+| 33–36  | Dexterous movement     | Each time they move their speed, this species can ignore the first square of difficult terrain.                                                                                                                                                                                                                                                                                                                                                                                           |
+| 37–40  | Distracting noise      | As a standard action, this species can use its physiology to create a noise. All creatures within 15 feet that can hear must attempt a Will saving throw (DC = 10 + half the species’ character level + their Wisdom modifier) or gain the off-target condition for 1 round. This is a mind-affecting, sense-dependent ability.                                                                                                                                                           |
+| 41–44  | Elemental affinity     | When this species makes a melee attack, it can change half the damage of that attack to an energy type (acid, cold, electricity, fire, or sonic) chosen when you choose this ability.                                                                                                                                                                                                                                                                                                     |
+| 45–56  | Energy resistance      | Choose acid, cold, electricity, fire, or sonic. This species has resistance 5 to that energy type, and this can stack with one other form of energy resistance. You can gain this ability multiple times, choosing a different energy type each time.                                                                                                                                                                                                                                     |
+| 57–60  | Exceptional resilience | This species gains a +2 bonus to saving throws against either mind-affecting effects or up to three of the following types of effects, chosen when you choose this ability: bleed, charm, death, enchantment, fear, illusion, paralysis, poison, polymorph, sleep, and stunning.                                                                                                                                                                                                          |
+| 61–64  | Ferocious charge       | This species has the ferocious charge universal creature rule.                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 65–68  | Ferocity               | This species has the ferocity universal creature rule.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| 69–72  | Flexible               | This species can move through an area as small as one-half their space without squeezing or one quarter their space when squeezing.                                                                                                                                                                                                                                                                                                                                                       |
+| 73–76  | Mighty grip            | This species gains a +2 species bonus to grapple combat maneuvers and Athletics checks to climb.                                                                                                                                                                                                                                                                                                                                                                                          |
+| 77–80  | Multiarmed             | This species gains the multiarmed (4) universal creature rule.                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| 81–84  | Natural weapons        | This species has the natural weapons universal creature rule, with a kinetic damage type chosen when you choose this option.                                                                                                                                                                                                                                                                                                                                                              |
+| 85–88  | Sheltering             | This species increases the bonuses to AC and Reflex saves granted by partial cover, cover, and improved cover by 1.                                                                                                                                                                                                                                                                                                                                                                       |
+| 89–92  | Speedy                 | One of this species’ speeds increases by 10 feet, chosen when you choose this option.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 93–96  | Sturdy                 | This species gains a +4 bonus to AC against bull rush, disarm, reposition, and trip combat maneuvers.                                                                                                                                                                                                                                                                                                                                                                                     |
+| 97–100 | Warding spines         | This species bristles with thorns, quills, or spikes. A creature attacking the species with a natural weapon or unarmed strike takes 1d4 piercing damage; as a reaction, the species can thrash and add its character level to the damage dealt.                                                                                                                                                                                                                                          |
+
+
+  
+
+# CULTURE
+
+**Source** _Interstellar Species pg. 45_  
+A species’ culture provides social context in which individuals exist. Any given character of your species might fully embrace each cultural value of that overall species, might reject all of them, or—most likely—fall somewhere in between. Of course, any given character might also have grown up disconnected from the traditional culture of their species, adopting another (which you can also create using this system, or you can choose from the many featured in other Starfinder products).  
+Asking yourself questions can prompt exciting ideas that make the culture more engaging and believable. How widespread is your species’ culture? How does your species’ culture look upon those who set off to adventure throughout the galaxy? What traditions are important for those who leave the home world behind to carry on? What holidays does your species’ culture celebrate? How are extraplanar outsiders treated? Are there any idioms or customs that those unfamiliar with the culture would nevertheless immediately understand?  
+
+## CULTURAL ATTRIBUTES
+
+**Source** _Interstellar Species pg. 45_  
+One way to think about your species’ culture is through the presence and interaction of certain cultural attributes—accord, alignment, magic, religion, and technology—as defined (and explored in depth) in other Starfinder products, such as the Starfinder Deck of Many Worlds and Starfinder Galaxy Exploration Manual. Each should be considered the average or tendency of the culture, rather than a set of hard and fast rules that every member of that culture observes.  
+Accord in this context is a measure of a culture’s cooperation, both among individuals and with the galaxy at large. The culture’s predominant alignment shapes many approaches to justice, altruism, and rules. You can use the relative presence or absence of magic, technology, or both to think about how these features have shaped your species’ culture and their interactions with the galaxy. Finally, religion can shape a culture, whether monotheistic, diverse, or purposefully defiant despite a setting where the gods are very real. For an overview of deities and other faiths, see pages 482–493 of the Core Rulebook, and you can find even greater depth and more options on pages 100–123 of Starfinder Galactic Magic. Which faiths are especially prevalent, adored, or detested by your species?  
+
+## VALUES
+
+**Source** _Interstellar Species pg. 46_  
+Beyond the attributes above, you can explore culture through various spectrums, like the examples below. Each presents two ends of that spectrum and a middle ground. Yet these dichotomies can become more engaging if you include major exceptions. For example, a society could believe in unhindered progress… except regarding some sacred, ancient institution.  
+**Tradition/Progress:** Is the culture steeped in history and tradition, constantly looking ahead to the next development or using one to inform the other?  
+**Community/Individual:** Does the culture promote the needs of the many over those of the few, encourage and empower individuals to enrich themselves regardless of the impact on others, or fall somewhere in between?  
+**Liberty/Law:** How tightly does society regulate individual or group behavior, and where does one’s rights end and another’s begin?  
+**Exceptionalism/Universalism:** Does the culture embrace and learn from the galaxy’s diversity, hold itself up as the shining example to the rest of the galaxy, or do a little bit of both?  
+
+# TABLE 2-2: NONCOMBAT OPTIONS
+
+**Source** _Interstellar Species pg. 45_  
+
+| D100 | NAME DESCRIPTION |
+|-----------------------|----------------------|
+| 1                     | Change shape         | As a standard action, a member of this species can assume the appearance of a specific creature of their size. They gain a +10 bonus to Disguise checks to appear as that creature. This ability otherwise functions as disguise self, except the creature can remain in this form indefinitely. The individual chooses their shape change identity at character creation, and a species might be limited to only specific creature categories (such as a Medium humanoid). |
+| 2                     | Easily Augmented     | This species can install an additional augmentation into one system that already has an augmentation.                                                                                                                                                                                                                                                                                                                                                                       |
+| 3                     | Second chance        | Choose a saving throw or two skills. Once per day when this species fails a save or skill check of the chosen type, they can reroll it and use the second result.                                                                                                                                                                                                                                                                                                           |
+| 4                     | Sense through        | This species has the sense through (vision) universal creature rule; this can sense through only one of the following materials, chosen when you choose this ability: smoke, stone, metal, or wood.                                                                                                                                                                                                                                                                         |
+| 5                     | Skill specialization | This species gains a +2 bonus to checks with one or two skills, chosen when you choose this ability.                                                                                                                                                                                                                                                                                                                                                                        |
+| 6                     | Skilled              | This species gains an addition skill rank at 1st level and each level thereafter.                                                                                                                                                                                                                                                                                                                                                                                           |
+| 7                     | Spellcasting         | Choose one 1st-level spell and two 0-level spells from a class’s spell list. This species can cast the 1st-level spell once per day as a spell-like ability and can cast the 0-level spells as at will spell-like abilities. These spells’ caster level is equal to character level.                                                                                                                                                                                        |
+| 8                     | Telepathy            | This species has telepathy with a range of 30 feet.                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| 9–15                  | Aerobatic            | This species gains a +2 bonus to Acrobatics checks and, if able to fly, improves its maneuverability by one step.                                                                                                                                                                                                                                                                                                                                                           |
+| 16–23                 | Camouflaged          | This species gains a +3 bonus to Stealth checks when in a specific biome, chosen when you choose this ability: aquatic, arctic, desert, forest, marsh, mountain, plains, subterranean, urban.                                                                                                                                                                                                                                                                               |
+| 24–31                 | Carrier              | This species increases its carrying capacity by 50%.                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| 32–39                 | Collective           | This species gains a +2 bonus to skill checks for the aid another action. A creature using the aid another action to assist this species’ skill check gains a +2 bonus to their check.                                                                                                                                                                                                                                                                                      |
+| 40–47                 | Communicator         | Choose one of the following: comprehend languages, mindlink, or share language. This species can cast the chosen spell as a spelllike ability once per day, using character level as the caster level.                                                                                                                                                                                                                                                                      |
+| 48–55                 | Eclectic Knowledge   | This species chooses two skills at character creation and adds those to their list of class skills.                                                                                                                                                                                                                                                                                                                                                                         |
+| 56–63                 | Jumper               | This species halves the DC of Athletics checks to jump.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 64–71                 | Limited telepathy    | This species has limited telepathy with a range of 60 feet.                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| 72–79                 | Multicultural        | This species learns an additional language for every even-numbered rank gained in the Culture skill.                                                                                                                                                                                                                                                                                                                                                                        |
+| 80–86                 | No breath            | This species has the no breath universal creature rule.                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 87–93                 | Photosynthesis       | This species can undergo photosynthesis to gain nutrition instead of eating. The species can go without light for 3 days, after which they must attempt Constitution checks to avoid starvation.                                                                                                                                                                                                                                                                            |
+| 94–100                | Rapid recovery       | Once per day, when this species takes a 10-minute rest to regain Stamina Points, they can additionally recover Hit Points as though they’d taken a full night’s rest.                                                                                                                                                                                                                                                                                                       |
+
+
+  
+
+# TABLE 2-3: BODY SHAPE AND EXTERIOR
+
+**Source** _Interstellar Species pg. 45_  
+
+| D4 | SHAPE        | EXTERIOR |
+|----|--------------|----------|
+| 1  | Tall         | Skin     |
+| 2  | Wide         | Scales   |
+| 3  | Round        | Feathers |
+| 4  | Asymmetrical | Slime    |
+
+
+  
+
+# TABLE 2-4: LIMBS
+
+**Source** _Interstellar Species pg. 45_  
+
+| D6 | NUMBER | TYPE      |
+|----|--------|-----------|
+| 1  | 1      | Arm/Leg   |
+| 2  | 2      | Wing      |
+| 3  | 3      | Fin       |
+| 4  | 4      | Tentacle  |
+| 5  | 5+     | Insectile |
+| 6  | 6      | Unusual   |
+
+
+  
+
+# TABLE 2-5: CREATURE TYPE
+
+**Source** _Interstellar Species pg. 45_  
+
+| D12 | TYPE               | DESCRIPTION                                                                                                                        |
+|-----|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Aberration         | A creature with biology that defies reason.                                                                                        |
+| 2   | Animal or vermin   | A creature with relatively straightforward (Earth-like) biology.                                                                   |
+| 3   | Construct          | A magically animated object or artificially constructed creature that attracts a soul.                                             |
+| 4   | Dragon             | A reptilian creature, usually winged, often with magical or otherwise unusual abilities.                                           |
+| 5   | Fey                | A creature with supernatural abilities and connections to nature or to some other force or place.                                  |
+| 6   | Humanoid           | A creature that generally has a humanlike torso, two (or sometimes more) arms, two legs, and one head.                             |
+| 7   | Magical beast      | An animallike creature with supernatural or magical abilities.                                                                     |
+| 8   | Monstrous humanoid | A creature similar to a humanoid but with monstrous or animalistic features.                                                       |
+| 9   | Ooze               | An amorphous or otherwise mutable creature.                                                                                        |
+| 10  | Outsider           | A creature at least partially composed of the essence (but not necessarily the material) of a plane other than the Material Plane. |
+| 11  | Plant              | A creature that’s a plant with a magical, supernatural, or technological source of sentience.                                      |
+| 12  | Undead             | A once-living creature (likely formerly one of the above creature types) animated by magic or advanced technological forces.       |
+
+
+  
+
+# TABLE 2-6: WEAKNESSES
+
+**Source** _Interstellar Species pg. 45_  
+
+| D10 | NAME                       | DESCRIPTION                                                                                                                                                                                                                                                                                       |
+|-----|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1   | Dual nature                | Choose a creature type. For effects targeting creatures by type, this species counts as its creature type and as the chosen creature type (whichever type allows an ability to affect them for abilities that affect only one type, and whichever is worse for abilities that affect both types). |
+| 2   | Light blindness            | This species has the light blindness universal creature rule.                                                                                                                                                                                                                                     |
+| 3   | Limited augmentation       | One of this species’ normal systems for augmentations, chosen when you choose this weakness, can’t hold an augmentation.                                                                                                                                                                          |
+| 4   | Psychic sensitivity        | This species takes a –1 penalty to saving throws against mind-affecting effects and takes +1 damage per damage die from mind-affecting spells, weapons, and other effects.                                                                                                                        |
+| 5   | Susceptible to acid        | When this species takes acid damage, it takes ongoing acid damage equal to its level as if affected by a weapon with the corrode critical hit effect (Fortitude negates).                                                                                                                         |
+| 6   | Susceptible to cold        | When this species takes cold damage, it becomes fatigued for 1 round (Fortitude negates); this doesn’t cause an already fatigued character to become exhausted.                                                                                                                                   |
+| 7   | Susceptible to electricity | When this species takes electricity damage, it becomes staggered for 1 round (Fortitude negates).                                                                                                                                                                                                 |
+| 8   | Susceptible to fire        | When this species takes fire damage, it gains the burning condition that deals damage equal to its level (Fortitude negates).                                                                                                                                                                     |
+| 9   | Susceptible to sonic       | When this species takes sonic damage, it is deafened for 1d4 rounds and has a 10% chance of also being stunned for 1 round (Fortitude negates both effects).                                                                                                                                      |
+| 10  | Uncommon allergy           | Choose a material like silver or saltwater. Contact with at least a handful of the material deals 1d6 damage per round to this species. This effect is negated by the environmental protections built into most armor.                                                                            |
+
+
+  
+
+# TABLE 2-7: BIOMES
+
+**Source** _Interstellar Species pg. 45_  
+
+| D10 | BIOME        |
+|-----|--------------|
+| 1   | Airborne     |
+| 2   | Aquatic      |
+| 3   | Arctic       |
+| 4   | Desert       |
+| 5   | Forest       |
+| 6   | Marsh        |
+| 7   | Mountain     |
+| 8   | Plains       |
+| 9   | Subterranean |
+| 10  | Urban        |
+
+
+  
+
+# HOME WORLD
+
+**Source** _Interstellar Species pg. 46_  
+Most—but not all—species evolve on a single world, shaped by its environmental pressures and events both mundane and magical. As with any other step, you can start here or simply use this framing to consider your species’ past, present, or future. Starfinder offers several ways to create your species’ home world. You can use the Deck of Many Worlds to get a randomly generated world (one of millions of possibilities) with just a few of that accessory’s 100 world cards. You can also use Galaxy Exploration Manual to create a world (or expand on one conceived with the Deck of Many Worlds). Or you can repurposean existing Starfinder world (or even mash up several), pulling from any number of sources, including Starfinder Pact Worlds, Starfinder Near Space, or the backmatter of Adventure Path volumes. Regardless of the method, it’s helpful to explore the interplay between a species and its home world’s physical and cultural characteristics, as the influence is often bidirectional.  
+While your species’ home world likely has numerous biomes, your species likely evolved in and adapted to primarily one or two, which you can pick or roll for on Table 2–7: Biomes.  
+Ask some thought-provoking questions as you go. How did the environment of your species’ home world shape its physiology and culture? How does your species treat the environment: with stewardship and care, fear, or disregard for finite resources? Is there a resource harvested or skill cultivated here that’s of particular value to the greater galaxy?  
+
+# FINAL DETAILS
+
+**Source** _Interstellar Species pg. 47_  
+Here are a few final touches to consider for your species.  
+**Name:** Names can be difficult! Mashing up roots of words related to features of your species can lead to interesting, evocative names. To help weed out any unintended correlations for your species’ name, be sure to say the name out loud, have a friend do the same, and search for it on the internet.  
+**Language:** It can be fun to think about the unique features of your species’ language based on their physiology and culture; most species have a language with the same name as the species’ (or a similar name), but yours might speak only Common, or widely speak several languages, especially if from a home world with several other common sapient species. See page 40 of the Core Rulebook for example languages.  
+**Relative Commonness:** Consider how populous and well-traveled your species is. How recently did your species contact other worlds? How likely are people in the galaxy to know about your species and its home world? How does that inform their interactions?  
+
+# AN EXAMPLE SPECIES
+
+**Source** _Interstellar Species pg. 47_  
+As an example, let’s build a species together. We’ll let the randomness of the dice determine many attributes, but even so, we’ll have plenty of interesting choices to make.  
+Let’s start with a **home world**. While we could repurpose a world from the Starfinder setting, for now let’s just look at Table 2–7: Biomes and say we want a forest world dotted with magical volcanoes. We don’t need much more than that to get started! Looking at the questions in the home world section, we decide our species treats the environment with care and harvests a unique magical obsidian formed by the volcanoes, available only on this world.  
+Now let’s get a sense of what our species looks like using the **physiology** step. Time to let the dice decide! First, we roll on the creature type table and get a 5, so our creature type is fey. Fey can look like almost anything, but it tells us we have a strong connection to some aspect of nature—let’s say those magical volcanoes! Perhaps our species was born of the volcanoes themselves. Now let’s roll on Table 2–3 for our body shape and exterior. We get a 1 and a 3, so our species has a tall body shape and is covered in feathers—perhaps they’re birdlike and glide on the hot air generated by the volcanoes. We’ll roll for our number of locomotion limbs (getting a 2, for 2 limbs), but let’s just pick wings as the limb type to match our concept. For our manipulation limbs, we’ll choose two limbs for symmetry and then roll a 5, giving us insectile limbs.  
+Let’s move on to our species’ **culture**. We might envision them as relatively solitary, at least in adulthood, each charged with the cultivation, protection, and harvesting of a single volcano. Their culture might value tradition, individualism, and liberty. It seems like we have a focus on magic and possibly religion, though there’s probably the presence of at least some technology, in that we want them to harvest magical obsidian.  
+Alright, let’s explore **mechanics**! First, let’s select fire resistance for our volcano-centric species. That’s one combat ability, so let’s roll for the other one. We get a 13 for alerting presence. Let’s say this ability comes from our species’ innate sense of when a volcanic eruption is imminent, upon which they issue a warning call to creatures in the area. For our noncombat ability, let’s pick spellcasting and give our species the ability to cast life bubble once per day and detect magic and psychokinetic hand at will—all handy for a species adapted to a dangerous magical environment.  
+Let’s finish with some **details**. We’ll call our species olca (who speak the Olca language, but not Common) and decide they’re relatively uncommon in the galaxy, mostly content to remain on their home world and trade with visitors.

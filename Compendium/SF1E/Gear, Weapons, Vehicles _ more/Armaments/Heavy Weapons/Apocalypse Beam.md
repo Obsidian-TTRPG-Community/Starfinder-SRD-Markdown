@@ -1,0 +1,43 @@
+---
+aliases: 
+Level: 8 / 14 / 20
+NoteType: Weapon
+Price: varies
+tags: 
+Type: Heavy Weapon
+---
+# APOCALYPSE BEAM
+Defying lasers’ reputation for pinpoint accuracy, an apocalypse beam is a portable artillery laser cannon that, when braced, carves furrows across landscapes and enemy formations alike.
+
+### LASER WEAPONS
+
+Laser weapons emit highly focused beams of light that deal fire damage. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
+
+Laser weapons use various means to concentrate beams of light into deadly intensity. Some focus light through a faceted crystal, while others focus the beam through a chemical cloud or ionized gas.
+
+##  APOCALYPSE BEAM, CORONA
+
+**Source** _Tech Revolution pg. 61_  
+**Level** 8; **Price** 9,500  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 3d6 F; **Range** 60 ft.; **Critical** Burn 1d6  
+**Capacity** 40 charges ; **Usage** 10  
+**Bulk** 2; **Special** Line, sniper (150 ft.), unwieldy
+
+##  APOCALYPSE BEAM, PERIHELION
+
+**Source** _Tech Revolution pg. 61_  
+**Level** 14; **Price** 75,000  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 7d6 F; **Range** 60 ft.; **Critical** Burn 2d6  
+**Capacity** 80 charges ; **Usage** 10  
+**Bulk** 2; **Special** Line, sniper (200 ft.), unwieldy
+
+##  APOCALYPSE BEAM, ZENITH
+
+**Source** _Tech Revolution pg. 61_  
+**Level** 20; **Price** 875,000  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 14d6 F; **Range** 60 ft.; **Critical** Burn 4d6  
+**Capacity** 100 charges ; **Usage** 20  
+**Bulk** 2; **Special** Line, sniper (250 ft.), unwieldy

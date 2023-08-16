@@ -1,0 +1,71 @@
+---
+aliases: 
+cr: 1
+Environment: any
+hp: 17
+modifier: 1
+name: Ixtangi
+statblock: true
+tags: 
+Type: N Medium monstrous humanoid  
+---
+# IXTANGI
+Ixtangis are a species of chameleon-like people, originating from the jungle planet of Doganga in the Vast. The ixtangis’ history on their beautiful, verdant planet is long and painful, and they’ve only recently been saved from the brink of planetary destruction, thriving in floating island-countries that dot Doganga’s skies.
+
+Ixtangis are tall and reptilian, and their default colorations are green, red, blue, or black. Their scales are actually mostly transparent; any colors that ixtangis display result from their manipulation of the liquid crystals beneath their layer of glass-like scales. They are able to change the structure of these crystals and the resultant colors at will and can even become functionally invisible to observers by mimicking the scenery behind them. They have two sets of eyes that are able to move independently from one another, granting them a wide range of vision. Their snouts taper in thick, wedge-like horns, and some ixtangis also have large, bony crests that they like to accessorize with jewelry and precious stones. Their mouths are filled with razor-sharp teeth, and their tongues are long and retractable. Ixtangis have long, flexible tails that end in a scorpion-like stinger. They rarely find themselves using this poisonous barb in modern times, but they may lash out if startled or if they have no other option.
+
+Before the Gap, ixtangis continually fought a planet-threatening disease called the Blighted Bark. This supernatural plague resulted from the ixtangis’ overuse of Doganga’s natural resources. When the ixtangis’ central government finally realized how far they’d pushed Doganga’s ability to support the ixtangis’ continued existence, it commissioned a council of powerful ixtangi spellcasters, known as gleamscales, to push back against the civilization’s overuse of natural resources. Performing an extremely potent, centuries-old ritual passed down through the gleamscales’ literature, the gleamscales intended to replenish the planet’s resources, and—for a few years—it worked.
+
+Little did most ixtangis know, the gleamscales’ rituals made use of evil magic, taken from Abaddon by irresponsible gleamscale progenitors. The ixtangis, who thought themselves successful, rested on their laurels while the malevolent magic from the rituals interacted with the innate magical properties of Doganga’s jungles. This caused the magic to conjure shadowy and sickly vegetation and animals, which then spread this plague, known as the Blighted Bark, to the surrounding regions.
+
+After a decade of the Blighted Bark taking over all of Doganga’s jungles, the ixtangis were at a loss. Their efforts to repel the blight failed, and with no means of leaving the planet, they accepted their fate, resolving to die with their Doganga. Then the Gap happened.
+
+On the other side of this universal amnesia, the majority of ixtangis find themselves living lush and affluent lives in country-sized floating islands. These technological “country ships” levitate hundreds of feet above Doganga’s verdant jungle canopies, and are anywhere from ten to hundreds of miles across. Each of these domed countries carries the name of a nation that was once on Doganga’s surface. Ixtangis scientists and historians attempt (fruitlessly) to figure out how their ancestors not only avoided destruction, but rebounded with a vengeance. The Blighted Bark is all but gone, with only a few manageable outbreaks occurring once every couple of years.
+
+The only ixtangis left on Doganga’s surface are those known as duskdwellers. These unusually pallid ixtangis live and work beneath the shadows of the island-countries hovering above. Mostly industrial workers, duskdwellers live their lives gathering resources not only for their own shadowed settlements, but for the island-countries above who depend on duskdwellers to collect water, wood, stone, and other organic resources. They’re also the foremost breeders of moonlily, a psychotropic flower that blooms only in shadow. Moonlily brewers then grind this flower into a thick paste, which they distill into an alcoholic drink that intoxicates consumers and grants them euphoric visions. Duskdwellers exhibit keen survival skills, using their dinosaur beasts of burden to travel the jungles in search of resources—or better places to settle where the demands of the “highscales” above can’t reach them.
+
+**Source** _Alien Archive 4 pg. 54_
+
+## IXTANGI CR 1
+
+**XP 400**  
+N Medium monstrous humanoid  
+**Init** +1; **Senses** darkvision 60 ft., low-light vision;; **Perception** +9  
+
+### DEFENSE
+
+**HP** 17  
+**EAC** 11; **KAC** 12  
+**Fort** +1; **Ref** +3; **Will** +6  
+
+### OFFENSE
+
+**Speed** 30 ft., climb 20 ft.  
+**Melee** survival knife +5 (1d4+1 S) or tail +5 (1d4+1 P; critical barb poison \[DC 13\])  
+**Ranged** pulsecaster pistol +7 (1d4+1 E nonlethal)
+
+### STATISTICS
+
+**STR** +0; **DEX** +1; **CON** +2; **INT** +1; **WIS** +0; **CHA** +4  
+**Skills** Acrobatics +9, Culture +4, Diplomacy +4, Stealth +9  
+**Languages** Common, Ixtangi  
+**Other Abilities** liquid crystal display (DC 15), unflappable climber  
+**Gear** ixtangi stationwear (functions as estex suit I), pulsecaster pistol with 2 batteries (20 charges each), survival knife
+
+### ECOLOGY
+
+**Environment** any  
+**Organization** solitary, pair, or glimmer (3–10)
+
+### SPECIAL ABILITIES
+
+**Barb Poison (Ex)** If an ixtangi scores a critical hit with their racial natural weapon, their target must succeed at a Fortitude save (DC = 10 + the ixtangi’s Constitution modifier + half the ixtangi’s level ) or gain the flat-footed condition until the end of its next turn. This is a poison effect.  
+**Liquid Crystal Display (Ex)** An ixtangi has an innate ability to change their coloration as a standard action; this produces one of the following effects.  
+_Glimmer:_ The ixtangi flashes their coloration in a display that distracts onlookers. Enemies within 30 feet that can see the ixtangi must succeed at a DC Will save (DC = 10 + the ixtangi’s Charisma modifier + half the ixtangi’s level ) or be fascinated for 1d4 rounds. A creature can be affected by this ability only once per day. This is a mind-affecting effect.  
+_Stealth:_ The ixtangi mimics their surroundings, becoming almost invisible. They gain a +2 racial bonus to Stealth checks to hide until the beginning of their next turn.  
+**Unflappable Climber (Ex)** An ixtangi is an adept climber, using their sticky paw pads, tongue, and prehensile tail to stay stuck to surfaces. An ixtangi is not flat-footed while climbing and can take 10 on Athletics checks to climb even when in combat or immediate danger.
+
+## EXTRA CONTENT
+
+The following extra content was found for this creature:  
+\- Ixtangi Race Entry

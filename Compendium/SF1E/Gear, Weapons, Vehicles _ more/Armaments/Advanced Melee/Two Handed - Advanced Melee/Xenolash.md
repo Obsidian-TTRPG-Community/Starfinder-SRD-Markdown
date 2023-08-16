@@ -1,0 +1,43 @@
+---
+aliases: 
+Hands: Two-Handed
+Level: 4 / 10 / 14 / 18
+NoteType: Weapon
+Price: varies
+tags: 
+Type: Advanced-Melee
+---
+# XENOLASH
+A xenolash is a genetically engineered vine that weeps caustic, quick-hardening sap from the razor-sharp thorns along its length. Because the sap (rather than the weapon itself) entangles creatures, targets are not anchored to the xenolash. Grown in extraordinary conditions by Xenowardens and primarily sold only to those they trust, the plants derive their sustenance and amber-like sap from light, ambient energy, and atmospheric chemicals.  
+
+## XENOLASH, MATURE
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 10; **Price** 17,000  
+**Hands** 2; **Proficiency** Advanced Melee  
+**Damage** 5d4 A & S; **Critical** corrode 2d4  
+**Bulk** 1; **Special** analog, disarm, entangle, reach, trip
+
+##  XENOLASH, IMMATURE
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 4; **Price** 2,430  
+**Hands** 2; **Proficiency** Advanced Melee  
+**Damage** 2d4 A & S; **Critical** corrode 1d4  
+**Bulk** 1; **Special** analog, disarm, entangle, reach, trip
+
+##  XENOLASH, BLOOMING
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 14; **Price** 70,000  
+**Hands** 2; **Proficiency** Advanced Melee  
+**Damage** 9d4 A & S; **Critical** corrode 4d4  
+**Bulk** 1; **Special** analog, disarm, entangle, reach, trip
+
+##  XENOLASH, SEEDED
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 18; **Price** 409,000  
+**Hands** 2; **Proficiency** Advanced Melee  
+**Damage** 9d8 A & S; **Critical** corrode 6d4  
+**Bulk** 1; **Special** analog, disarm, entangle, reach, trip

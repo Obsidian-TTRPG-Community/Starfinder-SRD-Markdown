@@ -1,0 +1,13 @@
+---
+aliases: 
+tags: 
+---
+## SENSE THROUGH
+
+Sense through is the special ability to perceive things beyond an obstacle or barrier that would otherwise block normal senses. It allows a creature to attempt Perception checks into areas that would otherwise lie beyond its senses. Sense through augments a creature’s precise or imprecise senses, rather than replacing them. For example, a creature cannot have a form of sense through based on vision unless it has standard vision. Sense through may be a supernatural power to sense things beyond normal perception or an extraordinary ability representing enhanced senses, and it can be granted by equipment (such as laser microphones and X-ray visors), natural abilities (such as some dragons’ ability to see through smoke), and other effects. Sense through operates out to a range specified in the creature’s description.
+
+A creature with sense through typically perceives using a specific sense, which is indicated in parentheses after the sense through entry in the creature’s statistics. For example, sense through (vision) allows a creature to see through obstacles that would normally block vision. If the indicated sense somehow becomes unusable—for example, if a creature whose vision is augmented by sense through is blinded—the creature loses access to its sense through ability. The typical senses through which creatures with sense through can perceive are emotion, life, scent, sound, hearing, vibration, and vision.
+
+A creature with sense through (vision) is considered to have darkvision to a range of 60 feet unless stated otherwise. This enables the creature to perceive through materials such as armor, briefcases, and other concealing items, meaning the creature can use Perception to search more quickly and easily (searching up to a 20-foot-by-20-foot area in a single round), though such quick searches reveal only things accessible by that sense. If a secret door is concealed behind a material that blocks this ability (see below), a quick search using sense through (vision) would not reveal it.
+
+Some sense through abilities allow a creature to sense through only specific materials. Such materials are indicated in brackets after the associated sense in the sense through entry in the creature’s statistics. For example, sense through (vision \[smoke only\]) allows a creature to see through smoke as if it were not present, but all other obstacles to vision work normally. A sense through ability that works against only a specific material otherwise works like the sense it is associated with, including requiring Perception checks to notice things.

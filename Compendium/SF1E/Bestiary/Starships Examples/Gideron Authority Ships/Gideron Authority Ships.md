@@ -1,0 +1,8 @@
+---
+aliases: 
+tags: 
+---
+# GIDEON AUTHORITY STARSHIPS
+The Gideron Authority’s thirst for intergalactic expansion, however focused and driven it is by discipline and strength through unity, still must be backed by a strong fleet of ships. With this push for a strong space presence, they have encountered the scarcest resource of all: time. Ships take time to build, and the bigger the ship, the longer it takes.  
+The Gideron fleet therefore reflects preferences similar to those of the Authority’s ground troop–based combat: numerous smaller ships rather than one big capital ship, and overwhelming attack strength over defense. Strength in numbers, strength in the offensive. This makes the Gideron Authority fleet a force to be reckoned with, even though it’s a relatively new player on the galactic battlefield. The Authority’s enemies can expect their larger vessels to be rammed and then overrun by swarms of smaller ships. All this in turn makes way for boarding vessels, and a great many ships have fallen after being conquered from the inside by precise and brutal troop strikes.  
+The navy life is a harsh one, and enlisted personnel are expected to give their life for the Authority without question. But the crews of ships that perform well can count on reaching the status of hero quickly and gaining the attendant rewards that come with such a reputation.

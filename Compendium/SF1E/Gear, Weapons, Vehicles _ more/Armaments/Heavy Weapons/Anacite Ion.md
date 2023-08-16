@@ -1,0 +1,52 @@
+---
+aliases: 
+Level: 3 / 8 / 13 / 18
+NoteType: Weapon
+Price: varies
+tags: 
+Type: Heavy Weapon
+---
+# ANACITE ION
+This heavy weapon was designed by Aballonian law-enforcement agencies for capturing criminal constructs without completely destroying them.
+
+### SHOCK WEAPONS
+
+Shock weapons emit powerful electrical blasts that can damage and potentially stun enemies. Ranged versions use a low-power laser to direct these weapons’ electrical arcs. Electrical blasts can also leap to adjacent targets, making the weapons well suited for stunning groups of enemies. In general, tempest shock weapons are the most powerful, followed in descending order by storm, aurora, and static shock weapons.  
+
+##  ANACITE ION CANNON, AURORA
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 8; **Price** 10,900  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 2d10 E; **Range** 45 ft.; **Critical** staggered  
+**Capacity** 40 charges; **Usage** 4  
+**Bulk** 2; **Special** line, lockdown, unwieldy
+
+---
+
+##  ANACITE ION CANNON, STATIC
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 3; **Price** 1,550  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 1d10 E; **Range** 20 ft.; **Critical** staggered  
+**Capacity** 20 charges; **Usage** 2  
+**Bulk** 2; **Special** line, lockdown, unwieldy
+
+##  ANACITE ION CANNON, STORM
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 13; **Price** 52,900  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 4d10 E; **Range** 75 ft.; **Critical** staggered  
+**Capacity** 80 charges; **Usage** 5  
+**Bulk** 2; **Special** line, lockdown, unwieldy
+
+##  ANACITE ION CANNON, TEMPEST
+
+**Source** _Pact Worlds pg. 194_  
+**Level** 18; **Price** 441,000  
+**Hands** 2; **Proficiency** Heavy  
+**Damage** 6d10 E; **Range** 100 ft.; **Critical** staggered  
+**Capacity** 100 charges; **Usage** 10  
+**Bulk** 2; **Special** line, lockdown, unwieldy

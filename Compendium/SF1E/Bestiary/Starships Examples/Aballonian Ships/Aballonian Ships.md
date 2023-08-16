@@ -1,0 +1,10 @@
+---
+aliases: 
+tags: 
+---
+# ABALLONIAN SHIPS
+In the millennia since the disappearance of the First Ones, the mysterious race that founded the first cities on [[Aballon]] and populated them entirely with machines, the anacites have divided themselves into two groups: Those Who Wait and Those Who Become. This latter group maintains fleets of starships, intent upon exploring and colonizing the stars.  
+  
+Manufactured in vast machine factories on [[Aballon]] by companies such as [[Compiler Enterprises]] (often called CompEnt) and [[Pact Worlds & Beyond/Gruppen & Organisationen/Manufacturers/Starship Manufacturers/Multifold Industries|Multifold Industries]], these vessels are created primarily for robotic life. Few have any form of atmosphere or personal comforts, and their controls are often entirely digital, with crew members simply accessing the ship’s systems through specialized data ports. While this might seem to give them a tactical advantage, most Aballonian vessels are designed for exploration and colonization, with defenses almost as an afterthought.  
+  
+By far the most common Aballonian ship is the Autonomous Exploration Vehicle, or AEV. These tiny vessels have only one crew member, usually built into the starship itself. Their primary goal is to travel to new worlds in search of likely planets for colonization, and they accompany larger ships in small swarms. Although capable of acting autonomously, these vessels are often controlled by a Group Defense Frigate, a heavily armed destroyer designed to protect the vastly more important seedships, which carry the necessary equipment to colonize other worlds. Seedships vary greatly in size and configuration, with the smallest transporting only the tools necessary to begin modest ore processing and manufacturing. Over time, even such a small operation can evolve into a self-sustaining colony inhabited entirely by robotic servitors.

@@ -1,0 +1,61 @@
+---
+aliases: 
+Level: 1 / 5 / 10 / 15 / 20
+NoteType: Weapon
+Price: varies
+tags: 
+Type: Sniper-Weapon
+---
+# DIASPORAN RIFLE
+These sleek firearms were developed by the finest sarcesian engineers for use by elite mercenaries. The most common manufacturer is MuniTech, one of the only corporations fully owned and operated by sarcesians. Diasporan rifles are sniper rifles that belong to the laser category.
+
+### LASER WEAPONS
+
+Laser weapons emit highly focused beams of light that deal fire damage. These beams can pass through glass and other transparent physical barriers, dealing damage to such barriers as they pass through. Barriers of energy or magical force block lasers. Invisible creatures don’t take damage from lasers, as the beams pass through them harmlessly. Fog, smoke, and other clouds provide both cover and concealment from laser attacks. Lasers can penetrate darkness, but they don’t provide any illumination.
+
+Laser weapons use various means to concentrate beams of light into deadly intensity. Some focus light through a faceted crystal, while others focus the beam through a chemical cloud or ionized gas.
+
+##  DIASPORAN RIFLE, ADVANCED
+
+**Source** _Alien Archive pg. 99_  
+**Level** 5; **Price** 3,750  
+**Hands** 2; **Proficiency** Sniper  
+**Damage** 2d8 F; **Range** 70 ft.; **Critical** —  
+**Capacity** 20 charges; **Usage** 1  
+**Bulk** 2; **Special** sniper (500 ft.), unwieldy
+
+##  DIASPORAN RIFLE, TACTICAL
+
+**Source** _Alien Archive pg. 99_  
+**Level** 1; **Price** 350  
+**Hands** 2; **Proficiency** Sniper  
+**Damage** 1d8 F; **Range** 70 ft.; **Critical** —  
+**Capacity** 10 charges; **Usage** 1  
+**Bulk** 1; **Special** sniper (250 ft.), unwieldy
+
+##  DIASPORAN RIFLE, ELITE
+
+**Source** _Alien Archive pg. 99_  
+**Level** 10; **Price** 17,000  
+**Hands** 2; **Proficiency** Sniper  
+**Damage** 4d8 F; **Range** 80 ft.; **Critical** —  
+**Capacity** 20 charges; **Usage** 1  
+**Bulk** 2; **Special** sniper (750 ft.), unwieldy
+
+##  DIASPORAN RIFLE, ULTRA
+
+**Source** _Alien Archive pg. 99_  
+**Level** 15; **Price** 110,000  
+**Hands** 2; **Proficiency** Sniper  
+**Damage** 6d8 F; **Range** 80 ft.; **Critical** —  
+**Capacity** 30 charges; **Usage** 1  
+**Bulk** 2; **Special** sniper (1, 000 ft.), unwieldy
+
+##  DIASPORAN RIFLE, IMPERIAL
+
+**Source** _Alien Archive pg. 99_  
+**Level** 20; **Price** 725,000  
+**Hands** 2; **Proficiency** Sniper  
+**Damage** 10d8 F; **Range** 80 ft.; **Critical** —  
+**Capacity** 30 charges; **Usage** 1  
+**Bulk** 2; **Special** sniper (1, 000 ft.), unwieldy

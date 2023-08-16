@@ -1,0 +1,51 @@
+---
+aliases: 
+Hands: One-Handed
+Level: 1 / 8 / 12 / 16 / 19
+NoteType: Weapon
+Price: varies
+tags: 
+Type: Advanced-Melee
+---
+# STARKNIFE
+Four tapered metal blades surround the central ring of a starknife, which can be thrown or used to stab opponents. Accelerated and lightspeed starknives have gas-powered jets that fire when the starknife is wielded. Solid auras surround the blades of a dimensional slice starknife, which are manufactured with cutting-edge metallurgic techniques. In a sintered starknife, the metal blades are replaced with compressed ceramic blades.  
+
+##  STARKNIFE, ACCELERATED
+
+**Source** _Starfinder Core Rulebook pg. 172_  
+**Level** 12; **Price** 40,400  
+**Hands** 1; **Proficiency** Advanced Melee  
+**Damage** 4d8 F & P; **Critical** —  
+**Bulk** L; **Special** powered (capacity 20; usage 1), thrown (30 ft.)
+
+##  STARKNIFE, TACTICAL
+
+**Source** _Starfinder Core Rulebook pg. 172_  
+**Level** 1; **Price** 110  
+**Hands** 1; **Proficiency** Advanced Melee  
+**Damage** 1d4 P; **Critical** —  
+**Bulk** L; **Special** analog, thrown (20 ft.)
+
+##  STARKNIFE, SINTERED
+
+**Source** _Starfinder Core Rulebook pg. 172_  
+**Level** 8; **Price** 9,810  
+**Hands** 1; **Proficiency** Advanced Melee  
+**Damage** 4d4 P; **Critical** —  
+**Bulk** L; **Special** analog, thrown (50 ft.)
+
+##  STARKNIFE, LIGHTSPEED
+
+**Source** _Starfinder Core Rulebook pg. 172_  
+**Level** 16; **Price** 183,400  
+**Hands** 1; **Proficiency** Advanced Melee  
+**Damage** 8d8 F & P; **Critical** —  
+**Bulk** L; **Special** powered (capacity 20; usage 2), thrown (50 ft.)
+
+##  STARKNIFE, DIMENSIONAL SLICE
+
+**Source** _Starfinder Core Rulebook pg. 172_  
+**Level** 19; **Price** 602,200  
+**Hands** 1; **Proficiency** Advanced Melee  
+**Damage** 8d12 P; **Critical** —  
+**Bulk** L; **Special** analog, thrown (80 ft.)

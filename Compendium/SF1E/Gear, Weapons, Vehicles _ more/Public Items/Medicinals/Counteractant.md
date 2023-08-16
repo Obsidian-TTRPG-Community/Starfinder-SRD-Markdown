@@ -1,0 +1,35 @@
+---
+aliases: 
+Category: Medicinal
+Level: 1 / 5 / 10 / 15
+Price: varies 
+tags: 
+Type: Medicinal
+---
+This substance boosts your immune system. If you take or are injected with a counteractant, you gain a bonus equal to the medicinal’s tier to saving throws to end afflictions, and a successful saving throw counts as a number of consecutive saving throws equal to the medicinal’s tier. These benefits last a number of days equal to the medicinal’s tier.  
+
+##  COUNTERACTANT, TIER 1
+
+**Source** _Character Operations Manual pg. 127_  
+**Category** Medicinals  
+**Level** 1;**Price** 75
+
+---
+
+##  COUNTERACTANT, TIER 2
+
+**Source** _Character Operations Manual pg. 127_  
+**Category** Medicinals  
+**Level** 5;**Price** 450
+
+##  COUNTERACTANT, TIER 3
+
+**Source** _Character Operations Manual pg. 127_  
+**Category** Medicinals  
+**Level** 10;**Price** 2,700
+
+##  COUNTERACTANT, TIER 4
+
+**Source** _Character Operations Manual pg. 127_  
+**Category** Medicinals  
+**Level** 15;**Price** 16,200

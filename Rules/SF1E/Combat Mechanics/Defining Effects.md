@@ -1,0 +1,271 @@
+---
+aliases: 
+tags: 
+---
+# DEFINING EFFECTS
+**Source**[_Starfinder Core Rulebook pg. 268_
+
+Whether an effect is created by a class feature, spell, or piece of equipment, it usually has factors such as area, duration, and range that are defined using specific game terms, as well as descriptors that indicate its type of power (and that sometimes affect how it works). The following section describes how effects’ areas, descriptors, durations, ranges, and targets work, and it also gives the mechanical definition of line of effect and line of sight—two factors key to determining whether a character can use a spell or piece of equipment effectively.  
+
+# AREA
+
+**Source** _Starfinder Core Rulebook pg. 268_
+Some effects cover a defined area. Sometimes an effect’s description indicates a specially defined area, but usually an area falls into one of the categories discussed below. Regardless of the shape of the area, you select the point from which the effect originates, but otherwise you don’t control which creatures or objects are affected. The point of origin of an effect is always a grid intersection, meaning the point where four squares touch on a tactical battle map.  
+  
+When determining whether a given creature is within the area of an effect, count out the distance from the point of origin in squares, just as you would do when moving a character or when determining the range for a ranged attack. The only difference is that instead of counting from the center of one square to the center of the next, you must count from intersection to intersection. You can count diagonally across a square, but keep in mind that every second diagonal counts as two squares of distance. If the far edge of a square is within the effect’s area, everything within that square is within the effect’s area. If the effect’s area touches only the near edge of a square, however, things within that square are unaffected by the effect.
+
+## BURST, EMANATION, OR SPREAD
+
+Most effects with an area function as a burst, an emanation, or a spread. In each case, you select the effect’s point of origin and measure its area from that point.
+
+## BURST
+
+A burst effect applies to whatever is in its area when it comes into effect, including creatures that you can’t see. It doesn’t affect creatures with total cover from the burst’s point of origin, and its effects don’t extend around corners. The default shape for a burst effect is a sphere, but some burst effects are specifically described as cone-shaped. A burst’s area defines how far from the point of origin the effect extends.
+
+## EMANATION
+
+An emanation effect functions like a burst, except that the effect continues to radiate from the point of origin for the duration of the effect. Most emanations are cones or spheres.
+
+## SPREAD
+
+A spread effect extends out like a burst, but it can turn corners. You select the point of origin, and the effect spreads out to a given distance in all directions. The effect can extend around corners and into areas that you can’t see. Calculate distance using the actual distance the effect travels, taking into account turns the effect takes and counting around walls and corners, not through them. You must designate the point of origin for such an effect, but you need not have line of effect (see page 271) to the entirety of the effect’s area.
+
+## CONE, CYLINDER, LINE, OR SPHERE
+
+Most effects with an area have a particular shape.
+
+## CONE
+
+A cone-shaped effect extends away from you in a quartercircle in the direction you designate. It starts from any corner of your square and grows wider as it goes. Most cones are either bursts or emanations (see above), and thus won’t go around corners.
+
+## CYLINDER
+
+With cylinder-shaped effects, you select the effect’s point of origin. This point is the center of a horizontal circle at a height designated in the effect’s description, and the effect drops down from the circle, filling a cylinder. A cylinder-shaped effect ignores any obstructions within its area.
+
+## LINE
+
+A line-shaped effect extends away from you in a line in the direction you designate. It starts from any corner of your square and extends to the limit of its range or until it strikes a barrier that blocks line of effect (see page 271). A line-shaped effect applies to all creatures in squares through which the line passes.
+
+## SPHERE
+
+A sphere-shaped effect expands from its point of origin to fill a spherical area. Spheres can be bursts, emanations, or spreads.
+
+## SHAPABLE (S)
+
+If an area or effect entry ends with “(S),” you can shape the effect. A shaped effect or area can have no dimension smaller than 10 feet. The “areas” of many effects are given as cubes to make it easy to model irregular or three-dimensional shapes. Three-dimensional volumes are most often needed to define areas and effects in space.
+
+## OTHER
+
+An effect can have a unique area, as defined in its description.
+
+# AREAS WITH TARGETS
+
+Some effects have areas that target creatures or objects within the specified area. Unlike for targeted effects (see Target on page 272), you do not get to select which creatures are affected; the effect affects all creatures or objects of some kind in the specified area.  
+  
+If an effect restricts which targets are affected (for example, it affects only living creatures), then creatures in the effect’s area that are not of the appropriate type do not count against the number of creatures affected.
+
+## SUBJECTS OF EFFECTS
+
+If an effect targets creatures or objects directly, the result travels with the subjects for the effect’s duration. If an effect targets an area, it stays within that area for its duration; creatures become subject to the effect when they enter the area but are no longer subject to it when they leave.  
+
+# DESCRIPTORS
+
+**Source** [_Starfinder Core Rulebook pg. 269_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+A descriptor is a term that helps define an item, a spell, or another effect in some way. Some effects have more than one descriptor, each of which further refines the ways the effect works and interacts with the world around it, while others have none. Even equipment sometimes has descriptors.  
+  
+The descriptors are as follows: acid, air, calling, chaotic, charm, cold, compulsion, creation, curse, darkness, death, disease, earth, electricity, emotion, evil, fear, fire, force, good, healing, language-dependent, lawful, light, mind-affecting, pain, poison, radiation, scrying, sense-dependent, shadow, sonic, summoning, teleportation, and water.  
+  
+Most of these descriptors have no game effect by themselves; they instead describe how spells or effects interact with certain other spells or effects. Some descriptors provide additional information about how the effect to which they are attached operates, as defined below.
+
+## CALLING
+
+A calling effect transports a creature from another plane to the plane you are on. The effect grants the creature the one-time ability to return to its plane of origin, although the effect might limit the circumstances under which this is possible. Creatures who are called die if they are killed on the new plane. A called creature can’t be dispelled, even if it was called by magical means.
+
+## CHARM
+
+A charm effect changes how the subject views you. This gives you the ability to befriend and suggest courses of action to another creature, but its servitude is not absolute or mindless. Essentially, a charmed character retains free will but makes choices according to a skewed view of the world.  
+  
+A charmed creature retains its original [[Alignment, Infinite Worlds]] and allegiances, generally with the exception that it now regards the person who charmed it as a dear friend and gives great weight to that character’s suggestions and directions. A charmed creature does not volunteer information or tactics that its master doesn’t ask for. A charmed creature never obeys a command that is obviously suicidal or grievously harmful to it.  
+  
+A creature fights friends it had before being charmed only if they threaten its new friend. Even then, it uses the least lethal means at its disposal, for it wishes to resolve the conflict without causing real harm.  
+  
+A charmed creature can attempt an opposed Charisma check against its master in order to resist instructions or commands that would make it do something it wouldn’t normally do even for a close friend. If it succeeds at this check, it decides not to go along with that particular order but remains charmed. If the creature’s master commands it to perform an action that the creature would be vehemently opposed to, it can attempt a new saving throw to break free of its master’s influence altogether.  
+  
+If a charmed creature is openly attacked by the character who charmed it or by that character’s apparent allies, it is automatically freed of the spell or effect.
+
+## COMPULSION
+
+A compulsion effect overrides the subject’s free will in some way, forcing the subject to act in some manner or changing the way its mind works.
+
+## CREATION
+
+A creation effect manipulates matter to create an object or creature in the place the creator designates. If the effect has a duration other than instantaneous, magic or some other energy holds the creation together, but when the duration ends, the created creature or object vanishes without a trace. If the effect has an instantaneous duration, the created object or creature does not depend on any outside energy for its existence, so it lasts indefinitely once created.
+
+## FORCE
+
+A force effect deals full [[Damage]] to incorporeal creatures and blocks their movement. It also blocks the sense through ability.
+
+## LANGUAGE-DEPENDENT
+
+A language-dependent effect uses intelligible language (either audible, visual, or telepathic) as a medium for communication. If you cannot communicate with the target or the target cannot understand what you are communicating, the effect fails to affect that target.
+
+## MIND-AFFECTING
+
+A mind-affecting effect works only against creatures with an Intelligence score of 1 or higher.
+
+## PAIN
+
+A pain effect causes unpleasant sensations but not permanent physical [[Damage]]. Creatures that are immune to effects that require a Fortitude save are immune to pain effects.
+
+## SCRYING
+
+A scrying effect creates an invisible magical sensor that sends you information while the effect lasts. Unless noted otherwise, the sensor has the same sensory abilities that you have naturally, but not any sensory abilities you gain from other spells or technology. The sensor is a separate, independent source of sensory input for you, and thus it functions normally even if you have been [[blinded]] or [[deafened]] or otherwise suffer sensory impairment.  
+  
+A creature can notice a scrying sensor with a successful Perception check (DC = 20 + the spell or effect’s level). The sensor can be dispelled as if it were an active spell. Lead sheeting, force fields, and some exotic materials and magical protections block scrying effects; if that is the case, you can sense that the effect has been blocked.
+
+## SENSE-DEPENDENT
+
+A sense-dependent effect has either audible or visual elements, requiring sight or hearing to have any effect. For this kind of effect to affect that target, you must be able to either see or hear the target, and the target must be able to either see or hear you.
+
+## SHADOW
+
+A shadow effect creates something that is partially real from an amalgamation of extradimensional energy. [[Damage]] dealt by a shadow effect is real.
+
+## SUMMONING
+
+A summoning effect instantly brings a creature or object to a place you designate. When the effect ends or is dispelled, a summoned creature is instantly sent back to where it came from (typically another plane, but not always), but a summoned object is not sent back unless the effect description specifically indicates otherwise. A summoned creature also goes away if it is killed or if its Hit Points drop to 0, but it is not really [[dead]]. It takes 24 hours for the creature to reform in the place from which it was summoned, during which time it can’t be summoned again.  
+  
+When a summoning effect ends and the summoned creature disappears, all spells it has cast expire. A summoned creature cannot use any innate summoning abilities it may have.
+
+## TELEPORTATION
+
+A teleportation effect involves instantaneous travel through the Astral Plane (see page 471). Anything that blocks astral travel also blocks teleportation unless the specific effect notes otherwise, and teleportation effects work within the Drift.  
+
+# DURATION
+
+**Source** [_Starfinder Core Rulebook pg. 270_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+An effect’s duration tells you how long the effect lasts. If a spell, ability, or item has a specific duration and creates one or more effects, those effects last for the duration unless the specific effect notes otherwise.  
+  
+Sometimes an effect is suppressed without being negated or dispelled. When this happens, the effect’s duration is unchanged. It still ends at the same time it would have ended if it had not been suppressed.
+
+## TIMED DURATIONS
+
+Durations are usually measured in rounds, minutes, hours, days, or other increments. When the time of the effect’s duration is up, the energy or force empowering the effect goes away and the effect ends. If an effect’s duration is variable, the duration is rolled secretly by the GM so you don’t know how long the effect will last.  
+  
+Whenever an effect’s duration is expressed in a standard unit that measures time, such as hours, days, or even years, it refers to those units as expressed in Pact Standard Time. Under this scheme, a day has 24 hours of 60 minutes each, and a year has 365 days (or 52 weeks). For more information about time and similar concepts in Starfinder, see Time on page 430.
+
+## INSTANTANEOUS
+
+The effect comes and goes the instant it is created, though its consequences might last longer.
+
+## PERMANENT
+
+The effect remains until is undone through some method, such as by _dispel magic_ for permanent spells.
+
+## CONCENTRATION
+
+When an effect has a duration of concentration, the effect lasts as long as you concentrate on it. Concentrating to maintain an effect is a standard action. Any factor that could break your concentration while you are performing activities that require focus (such as casting a spell) can also break your concentration while you’re maintaining an effect, causing the effect to end. See Concentration and Interrupted Spells on page 331 for more details. You can neither use an effect that requires concentration nor cast a spell while concentrating on an effect. Some effects last for a short time after you cease concentrating—typically 1 round per level, though individual effects may vary as noted in their descriptions.
+
+## DISCHARGE
+
+Occasionally an effect lasts for a set duration, or until it is triggered or discharged.
+
+## TOUCH EFFECTS AND HOLDING THE CHARGE
+
+Some effects, most notably spells, have a range of touch (see Range below) and require an action to activate. In most cases, if you don’t discharge a touch effect on the round you create it, you can postpone the discharge of the effect (also known as holding the charge) indefinitely. You can make touch attacks round after round until the effect is discharged. If you make any other attack, activate another ability, or cast a spell during this time, the touch effect dissipates.  
+  
+Some touch spells allow you to touch multiple targets as part of the spell. You can’t hold the charge of such a spell; you must touch all targets of the spell in the same round that you finish casting the spell.
+
+## DISMISSIBLE (D)
+
+If the duration of a spell or effect ends with “(D),” you can dismiss the effect at will as a standard action. You must be within range of the effect and be able to fulfill the same conditions required to create the effect—such as being able to concentrate to cast a spell or having access to the equipment that created the effect— though you do not actually need to spend the appropriate action. An effect that depends on concentration is dismissible by its very nature, and dismissing it does not take an action, since all you have to do to end the effect is to stop concentrating on your turn.  
+
+# LINE OF EFFECT
+
+**Source** [_Starfinder Core Rulebook pg. 271_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+If a weapon, spell, ability, or item requires an attack roll and has a range measured in feet, it normally requires that you (or whoever or whatever is using the ability) have a line of effect to the target to be effective (subject to GM discretion). A line of effect is a straight, unblocked path that indicates what an attack or ability can affect. A line of effect is blocked by a solid barrier that can stop the effect in question (such as a wall, for most effects), but it is not blocked by purely visual restrictions (such as smoke or darkness). You cannot have line of effect that exceeds planetary range, unless otherwise indicated.  
+  
+You must have a clear line of effect to any creature or object you wish to target or to any space in which you wish to create an effect without an area. For effects with an area, you must have a clear line of effect to the point of origin of the effect. An effect that is a burst, cone, cylinder, or emanation affects only an area, creature, or object within line of effect from its origin (a spherical burst’s center point, a cone-shaped burst’s starting point, the center point of a cylinder’s circle, or an emanation’s point of origin). For definitions of these specific terms, see Area on page 268.  
+  
+If you have a line of effect to some of a target’s space but not all of it, the target has cover (see pages 253–254 for more information about cover). Additionally, an otherwise solid barrier with a hole of at least 1 square foot through it may grant cover rather than total cover against an effect, at the GM’s discretion.  
+
+# LINE OF SIGHT
+
+**Source** [_Starfinder Core Rulebook pg. 271_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+Line of sight is a straight, unblocked path that indicates what you can see. Line of sight is like line of effect, except factors that limit normal vision, such as fog, darkness, and total concealment, can block line of sight. If you can’t see a target for any reason, you do not have line of sight to it, and thus you cannot use effects that require you to have line of sight. You cannot have line of sight that exceeds planetary range unless otherwise indicated.  
+
+# RANGE
+
+**Source** [_Starfinder Core Rulebook pg. 271_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+An effect’s range indicates how far from you it can reach. An effect’s range is the maximum distance from you that the effect can occur, as well as the maximum distance at which you can designate the effect’s point of origin. If any portion of the effect’s area would extend beyond this range, that area is wasted. If a range is based on level, this means caster level for spells, class level for class features, and item level for weapons and equipment. Standard ranges include the following.
+
+## PERSONAL
+
+An effect with a range of personal is limited to and affects your person only.
+
+## TOUCH
+
+If an effect has a range of touch, you must touch a creature or object to affect your target, which requires you to hit with a melee attack roll (against EAC unless the effect says otherwise) if you are touching an unwilling target. A touch effect that deals damage can score a critical hit just as a weapon can. Some touch effects allow you to touch multiple targets. You can touch up to six willing or unconscious targets as part of the activation of such an effect, but all targets of the effect must be touched in the same round that you finish activating the effect. If the effect allows you to touch targets over multiple rounds, touching up to six creatures is a full action.
+
+## CLOSE
+
+An effect with a range of close reaches as far as 25 feet + 5 feet for every 2 levels you have.
+
+## MEDIUM
+
+An effect with a range of medium reaches as far as 100 feet + 10 feet per level you have.
+
+## LONG
+
+An effect with a range of long reaches as far as 400 feet + 40 feet per level you have.
+
+## PLANETARY
+
+An effect with a range of planetary can reach anywhere on the same planet. This also covers targets in orbit around the planet, such as moons and artificial satellites.
+
+## SYSTEM-WIDE
+
+An effect with a range of system-wide can reach anywhere in the same solar system.
+
+## PLANE
+
+An effect with a range of plane can reach anywhere in the same plane of existence.
+
+## UNLIMITED
+
+Some effects, mostly high-level spells, can reach anywhere, even onto other planes. Effects with ranges of unlimited are often very powerful, and they can be difficult or impossible to access until you reach a high level.
+
+## RANGE EXPRESSED IN FEET
+
+Some effects have no standard range category, just a range expressed in feet. In this case, the specific effect lists exactly how far its range extends.
+
+## RANGE INCREMENT
+
+Some effects, especially weapons, have a range increment. The weapon can generate an effect at many multiples of this range, but you take penalties if the target is more than one range increment away (see Range and Penalties on page 245).  
+
+# TARGET
+
+**Source** [_Starfinder Core Rulebook pg. 272_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+Some effects have a target or targets. You use these effects on creatures or objects, as defined by the effect itself. You must have line of effect (see page 271) to the target or targets of an effect you wish to use, and you must specifically choose the target or targets. If the effect takes a certain amount of time to activate (such as the casting time of a spell), you do not have to select your target or targets until you finish activating the effect.  
+  
+For example, if you decide to cast a spell that would affect multiple creatures, you need not choose exactly which creatures it affects until you are done casting it and the spell is about to go into effect. This allows you to avoid casting spells or imposing effects on creatures that might have been taken out of a fight or otherwise incapacitated in the interim between your decision to cast a spell and when you’ve finished casting it and it’s ready to take effect.  
+  
+Some effects restrict which targets can be selected. If an effect targets living creatures, it affects all creatures other than constructs and undead—in other words, biological or technobiological creatures that are alive. (Artificially created beings that are not undead or constructs are considered living for this purpose.) If an effect targets willing or unconscious targets, it affects only those creatures who wish to be affected by it. A creature can declare itself a willing target at any time (even if it’s flat-footed or it isn’t that creature’s turn); this does not use up an action and simply requires, for example, a player to inform another player that his character is a willing target. Other effects allow you to target other categories of creatures or items, such as effects that can specifically target a construct, corpse, or object.  
+  
+Some effects allow you to redirect the effect to new targets or areas after you activate it. Redirecting an effect is a move action that does not provoke attacks of opportunity.
+
+## EFFECTS WITH ATTACK ROLLS
+
+Some targeted effects require an attack roll to hit their target. These effects can score critical hits just as weapons can, and when they do, they deal double damage on a critical hit.  
+  
+If a targeted effect that requires an attack roll lists a duration, it refers to how long the effect lasts on the target (if the attack roll is successful), not how long you have to make an attack.  
+
+# ABILITIES AND SPELL EFFECTS ON LARGE VEHICLES
+
+Most vehicles interact with abilities and spells normally; the effects of an explosive blast on an exploration buggy can be determined using the typical rules, for example.  
+  
+However, if you are on an exceptionally large vehicle, such as a sizable aircraft or a starship, the vehicle effectively becomes a type of terrain, and it interacts with the effects of abilities and spells differently. The GM is the final arbiter of what type of vehicle classifies as terrain, but examples include airships, mobile factory crawlers, ocean liners, space stations, starships, trains, or any vehicle larger than a typical creature that is size Colossal or larger.  
+  
+Consult the following guidelines when using abilities or casting spells on vehicles classified as terrain. For the purposes of abilities and spells, exceptionally large vehicles are not considered objects; instead, their various component parts (bulkheads, consoles, walls, etc.) are considered objects. In general, abilities or spells with a stationary or immovable effect (such as _wall of force_, _zone of truth_, or the entrance to an Akashic mystic’s memory palace) or spells that are anchored to a vehicle (such as _wall of steel_) move with a vehicle and are not fixed to the physical spot where they are used or cast. In this way, effects that originate from a character on a terrain-sized vehicle and target an area on that vehicle move with the vehicle, instead of manifesting in a static spot that the vehicle quickly outpaces.  
+  
+Beyond these guidelines, the exact effects of an ability or spell that originates from a character on an exceptionally large vehicle are up to the GM.

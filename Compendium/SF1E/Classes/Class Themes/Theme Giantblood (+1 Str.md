@@ -1,0 +1,23 @@
+---
+aliases: 
+tags: 
+---
+# THEME GIANTBLOOD (+1 STR)
+**Source** _Near Space pg. 138_  
+Giants’ blood flows through your veins, and you feel a fascination and kinship with these towering beings. You may stand a little taller than most of your kind, and you are capable of great feats of endurance. Like many giantbloods, you likely bear some physical attributes of the specific giants you are descended from. You’ve learned to tap into giants’ great strength and fortitude to perform feats most people of your kind would find difficult, if not impossible.  
+
+## THEME KNOWLEDGE (1ST LEVEL)
+
+You have great respect for giants and know much about their varied societies, cultural traditions, and famous figures. When you attempt a Culture or Life Science check to identify or recall knowledge about giants, their abilities, or the names of famous giants, reduce the DC by 5. Culture is a class skill for you. If it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Culture checks. In addition, you gain an ability adjustment of +1 to Strength at character creation.  
+
+## OVERSIZED EQUIPMENT (6TH LEVEL)
+
+You can use larger pieces of equipment that others of your kind may find bulky and unwieldy. Treat your Strength score as 2 higher for the purposes of wielding weapons and wearing armor. You can use weapons designed for creatures one size category larger than you with a –2 penalty rather than the standard –4 penalty.  
+
+## HURL DEBRIS (12TH LEVEL)
+
+You can exert yourself in a burst of tremendous strength. As a standard action, you can use two free hands to hurl a single piece of debris as a ranged attack with a thrown weapon that targets KAC. Debris is otherwise treated as an improvised weapon that deals 1d6 bludgeoning damage per bulk and has a range increment equal to 5 × your Strength modifier. Debris can be any object with a minimum bulk of 3 and a maximum bulk equal to your Strength modifier + 2, but that object must be unattended or readily torn from the environment (at the GM’s discretion). Picking up such debris is a move action. You can’t use this ability while encumbered or overburdened.  
+
+## SIZE ADVANTAGE (18TH LEVEL)
+
+You delight in towering over others as giants do, and you thrive on feeling large and imposing. You gain a +2 bonus to Intimidate checks against creatures at least one size category smaller than you. In addition, twice per day, after you succeed at an Intimidate check against a significant enemy that is at least one size category smaller than you, you can spend 10 minutes reliving the memory of your success to regain 1 Resolve Point. This doesn’t count as resting to regain Stamina Points.

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# IKESHI
+
+# Ikeshi
+
 > [!infobox|left n-th clean]
 >  [[Ikeshi.png|Spielern zeigen!]]
 > Ikeshtis are a hardy race of lizardfolk native to the deserts and hills of Akiton, and their convoluted life cycle provides the blueprint for their civilization. The physiology and psychology of ikeshtis shift drastically as they go through childhood, adolescence, mating, and one of three adult paths.  
@@ -22,27 +24,27 @@ Riveners are ikeshtis who were unable to find a mate while rutting and lost thei
 **Ability Modifiers** +2 Dex, +2 Int, -2 Wis  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Ikeshtis are Small humanoids with the ikeshti subtype.  
 
-## DESERT SURVIVOR
+## Desert Survivor
 
 An ikeshti can go without water for 3 days plus a number of hours equal to her Constitution score before needing to attempt Constitution checks to avoid nonlethal damage.  
 
-## NATURAL CLIMBER
+## Natural Climber
 
 Ikeshtis have a climb speed of 15 feet.  
 
-## SHED SKIN
+## Shed Skin
 
 As part of the action to attempt the check, an ikeshti can shed a portion of her skin to gain a +4 bonus to Acrobatics checks to escape from grapples, pins, and restraints.  
 
-## SQUIRT BLOOD
+## Squirt Blood
 
 Once per day as a move action (plus one additional time per day for every 5 character levels), an ikeshti can squirt blood from one of his eyes at a foe within 30 feet, making a ranged attack against the target’s KAC. A successful hit grants the next ally who hits that foe the benefit of harrying fire against it (_Starfinder Core Rulebook_ 247).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 2-1/2 to 3-1/2 ft.  
 **Average Weight** 30–90 lbs.  

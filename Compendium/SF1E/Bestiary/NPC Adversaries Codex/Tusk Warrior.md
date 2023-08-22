@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# TUSK WARRIOR
+
+# Tusk Warrior
 
 **XP 6,400**  
 Human soldier  

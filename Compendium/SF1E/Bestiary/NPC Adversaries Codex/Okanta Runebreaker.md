@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# OKANTA RUNEBREAKER
 
+# Okanta Runebreaker
 
 **XP 38,400**  
 CN Medium humanoid (okanta)  

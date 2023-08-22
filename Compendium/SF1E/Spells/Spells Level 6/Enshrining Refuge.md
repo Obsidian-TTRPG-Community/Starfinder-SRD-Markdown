@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# ENSHRINING REFUGE
 
-**Source** _Starfinder Core Rulebook pg. 353_  
-**Classes** Mystic 6, Precog 6, Witchwarper 6  
-**School** abjuration  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
+# Enshrining Refuge
+
+**Source**:: _Starfinder Core Rulebook pg. 353_  
+**Classes**:: Mystic 6, Precog 6, Witchwarper 6  
+**School**:: abjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
 **Area** all creatures in 40-ft. radius burst  
-**Duration** 1 round/level (D)  
-**Saving Throw** Will negates, see text; **Spell Resistance** no
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Will negates, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 All creatures within a 40-foot radius of the spell’s point of origin are protected from violence. Any opponent attempting to directly attack a warded creature, even with a targeted spell, must attempt a Will saving throw. If the opponent succeeds, it can attack that creature normally, though it takes a –2 penalty to attacks against that creature for the duration of the spell. On a failed save, the opponent can’t follow through with the attack, loses that action, and can’t directly attack the warded creature for the duration of the spell. Those not attempting to attack a warded creature remain unaffected.
 

@@ -1,0 +1,83 @@
+---
+aliases: 
+tags: 
+---
+
+# Senses, Vision & light
+
+# Senses
+
+**Source** _Starfinder Core Rulebook pg. 260_  
+Just as actions determine what you can do in combat and movement determines how you get there to do it, senses determine what you can perceive and how. Different alien races might have many different senses, but essentially all senses are separated into precise and imprecise senses. A specific creature’s senses are typically further refined into special abilities that more tightly detail how it perceives. These abilities include blindsight, blindsense, sense through, darkvision, and low-light vision, and the description of these abilities is found in Special Abilities beginning on page 262.
+
+The broad definitions of creatures’ types of senses are below, followed by an explanation of how they function.
+
+## Precise Senses
+
+**Source** _Starfinder Core Rulebook pg. 260_  
+Precise senses allow a creature to perceive the world in nuanced detail. For many creatures, the only precise sense they have is vision. Most other precise senses are collectively referred to as “blindsight,” indicating that they are precise like vision but creatures can use them without needing to see.  
+
+## Imprecise Senses
+
+**Source** _Starfinder Core Rulebook pg. 260_  
+Imprecise senses allow a creature to perceive certain details and clues about the world, which vary depending on the sense, but these are not sufficient for the creature to make out nuanced detail the way a human’s sight does. For many creatures, their nonvisual senses are imprecise. Some creatures have extremely keen imprecise senses that, while still insufficient to provide details like a precise sense would, can greatly help the creatures detect stimuli in the absence of their precise senses; such senses are collectively referred to as “blindsense.”  
+
+## Specific Sensing Mechanisms
+
+**Source** _Starfinder Core Rulebook pg. 260_  
+Creatures with blindsense or blindsight typically perceive using a specific sense mechanism, indicated in parentheses after blindsense or blindsight in the creature’s statistics. If this sense somehow becomes unusable, the creature loses access entirely to its blindsense or blindsight. The typical senses through which creatures can perceive are emotion, life, scent, sound, thought, and vibration.
+
+Specific entries for blindsense, blindsight, and other senses can be found in Special Abilities beginning on page 262.
+
+# The Four States of Awareness
+
+**Source** _Starfinder Core Rulebook pg. 260_  
+In gameplay, there are four different states of awareness that you can have with regard to another creature, which determine, for example, whether you surprise it when you engage it in combat or whether you can target a creature with an attack. These states of awareness are described below.
+
+## Unaware
+
+When you are unaware of another creature, you don’t even know it is present. Generally this occurs because the creature is hidden, you failed your Perception check to notice it, and the creature hasn’t yet performed any actions that would alert you to its presence. You cannot directly attack a creature you are unaware of, but it is subject to area effects.
+
+## Aware of Presence
+
+When you are aware of another creature’s presence, you don’t necessarily know exactly where it is. Typically this occurs when the hidden creature has taken some action that revealed its general presence in the area but has successfully used Stealth since then to hide its exact location. If you have succeeded at a Perception check to notice a creature with an imprecise sense other than blindsense, you are aware of the creature’s presence (if you have blindsense, a successful Perception check means you are aware of the creature’s location; see below). You cannot directly attack a creature if you are only aware of its presence, but it is subject to area effects affecting its location.
+
+In order to directly attack such a creature, you must pinpoint its exact location with an additional Perception check to search (see page 144). If this check is successful and you are using an imprecise sense to pinpoint a creature, you become aware of the creature’s location (see Aware of Location below). If this check is successful and you are using a precise sense to pinpoint a creature, you are observing the creature (see Observing below).
+
+## Aware of Location
+
+When you are aware of a creature’s location, you know exactly where the creature is located, but you still can’t observe the creature with a precise sense such as vision. Generally, this occurs because you have blindsense, or because the creature is hidden but you have succeeded at a Perception check to search for the creature with an imprecise sense. You must at least be aware of a creature’s location in order to directly attack it, though it is considered to have total concealment from you (see page 253). It is, however, subject to area effects affecting that location.
+
+## Observing
+
+When you are observing a creature, you can directly perceive the creature with a precise sense. Generally, this occurs when a creature is visible, when the situation makes it impossible for the creature use Stealth to hide, or when you have succeeded at a Perception check to search for the creature using a precise sense such as blindsight. You must be observing a creature to use a ranged effect that targets a specific creature without requiring an attack roll to hit (such as magic missile). You can also make normal attacks, including ones using ranged abilities, against creatures that you are observing. Again, it is subject to area effects that affect its location.
+
+A creature currently being observed can’t attempt a Stealth check without first breaking that observation. To break observation, the creature must either mask itself from your precise senses (with darkness, fog, invisibility, or the like, but not with effects such as displacement that still leave a clear visual indicator of its location), move somewhere it can’t be observed (a place with cover, for example), or use Bluff to create a distraction to momentarily break your observation of it.
+
+# Dealing with Unseen Creatures
+
+**Source** _Starfinder Core Rulebook pg. 261_  
+If you are unaware of a creature, aware of a creature’s presence, or aware of a creature’s location, that creature is considered to be “unseen” for you. A stationary unseen creature has a +40 bonus to Stealth checks, but this bonus is reduced to +20 if the unseen creature moves (and these bonuses are negated for potential observers with blindsense). An unseen creature benefits from total concealment (50% miss chance) against attacks. In addition, you are considered flat-footed against an unseen creature’s attacks.
+
+If you are unaware of a creature or aware only of its presence, you cannot directly attack it. You must first succeed at a Perception check to search for the creature’s location, which then allows you to become aware of the creature’s location (if using an imprecise sense) or to observe the creature (if using a precise sense). If an unseen creature makes a melee attack against you from a space adjacent to you, you automatically determine its location, though this doesn’t stop it from moving after the attack.
+
+# Vision and light
+
+**Source** _Starfinder Core Rulebook pg. 261_  
+Because the majority of creatures in the Starfinder RPG use vision as their only precise sense, it’s important to determine the limitations of vision.
+
+## Bright light
+
+All characters with vision can see clearly in bright light. Sources of bright light include direct sunlight outdoors, a nearby star shining through a starship viewport, powerful industrial lighting, or any source as bright or brighter than normal sunlight.
+
+## Normal light
+
+Normal light functions just like bright light, but it is less intense. Normal light includes the light conditions underneath a forest canopy during the day, typical indoor lighting, typical lighting on a starship, or the light shed by a star shaman’s starlight form.
+
+## Dim light
+
+In dim light, you can somewhat make out shapes, but you can’t see precise details well at all. Dim light includes moonlight outside at night and bright starlight, or a starship’s emergency backup lights. An area just beyond the range of a light source has dim light. Creatures within an area of dim light have concealment (20% miss chance; see page 253) from creatures without darkvision or the ability to see in darkness. Because dim light is not ideal for observation, if you’re in an area of dim light, you can attempt a Stealth check to conceal yourself from creatures without low-light vision, darkvision, or blindsight. Dim light does not affect creatures with low-light vision, which can see in dim light as if it were normal light.
+
+## Darkness
+
+In darkness, creatures without darkvision effectively have the blinded condition (see page 273). Areas of darkness include an unlit chamber within a structure, most caverns, outside on a moonless night, or the surface of planets with distant or nonexistent stars. Unlike low-light vision and in areas of dim light, darkvision does not work exactly like normal vision in areas of darkness; rather, darkvision works only to a specified range and is in black and white.

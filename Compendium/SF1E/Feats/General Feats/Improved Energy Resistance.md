@@ -5,8 +5,10 @@ Prerequisites: Con 13, character level 10th, energy resistance from a racial tra
 tags: 
 Type: General Feat
 ---
-# IMPROVED ENERGY RESISTANCE
-**Source** _Character Operations Manual pg. 116_  
+
+# Improved Energy Resistance
+
+**Source**:: _Character Operations Manual pg. 116_  
 Your natural resistance to an energy type is more pronounced.
 
 **Prerequisites**: Con 13, character level 10th, energy resistance from a racial trait.

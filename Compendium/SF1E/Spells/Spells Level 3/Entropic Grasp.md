@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# ENTROPIC GRASP
 
-**Source** _Starfinder Core Rulebook pg. 353_  
-**Classes** Precog 3, Technomancer 3, Witchwarper 3  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one nonmagical manufactured object (or the volume of the object within a 3-ft.-radius of the touched point) or one manufactured creature touched each round  
-**Duration** see text  
-**Saving Throw** Fortitude negates (object); **Spell Resistance** no
+# Entropic Grasp
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 353_  
+**Classes**:: Precog 3, Technomancer 3, Witchwarper 3  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one nonmagical manufactured object (or the volume of the object within a 3-ft.-radius of the touched point) or one manufactured creature touched each round  
+**Duration**:: See Text  
+**Saving-Throw**:: Fortitude negates (object);
+**Spell Resistance**:: No
+
+## Description
 
 Any unattended, manufactured (built from component parts, including metal, wood, plastic, glass, and so on) item you touch crumbles into dust, rust, and decay. If the item is so large that it can’t fit within a 3-foot radius, a 3-foot-radius volume of the material is destroyed. This is an instantaneous effect.
 

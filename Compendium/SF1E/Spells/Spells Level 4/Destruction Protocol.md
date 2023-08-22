@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# DESTRUCTION PROTOCOL
 
-**Source** _Starfinder Core Rulebook pg. 348_  
-**Classes** Technomancer 4  
-**School** enchantment  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one non-hostile construct of the technological subtype; see text  
-**Duration** concentration, up to 1 round/level  
-**Saving Throw** none; **Spell Resistance** yes
+# Destruction Protocol
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 348_  
+**Classes**:: Technomancer 4  
+**School**:: enchantment  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one non-hostile construct of the technological subtype; see text  
+**Duration**:: concentration, up to 1 round/level  
+**Saving-Throw**:: None
+**Spell Resistance**:: yes
+
+## Description
 
 Waves of inciting programming ebb from your touch, reprogramming a construct to have murderous intentions toward your enemies. This spell must target a construct that is not already programmed or tasked with harming you. The target construct must have a CR lower than or equal to your level. If the target construct is under the control of another creature, the controlling creature can attempt a Will saving throw (DC = the spell’s DC) to negate this spell’s effect.
 

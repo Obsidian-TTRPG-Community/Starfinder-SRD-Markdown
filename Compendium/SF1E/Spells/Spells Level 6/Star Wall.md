@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# STAR WALL
 
-**Source** _Galactic Magic pg. 83_  
-**Classes** Mystic 6, Witchwarper 6  
-**School** evocation (electricity, fire)  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
+# Star Wall
+
+**Source**:: _Galactic Magic pg. 83_  
+**Classes**:: Mystic 6, Witchwarper 6  
+**School**:: evocation (electricity, fire)  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Effect** charged, radioactive plasma wall up to 20 ft. long/level or a ring with a radius up to 5 ft./2 levels; either form 20 ft. high  
-**Duration** concentration + 1 round/level  
-**Saving Throw** Reflex partial, see text; **Spell Resistance** no
+**Duration**:: concentration + 1 round/level  
+**Saving-Throw**:: Reflex partial, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 An immobile, vertical curtain of glowing, electromagnetically charged gas springs into existence. The wall raises the light level to bright within 20 feet of it, raises the light level to normal within 20 more feet, and raises the light level one step (up to normal) within 20 more feet. A creature within 5 feet of the wall when it appears must succeed at a Reflex save or become blinded for 1 round and dazzled for 1 round thereafter.
 

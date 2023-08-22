@@ -5,8 +5,10 @@ Prerequisites: Base attack bonus +10, Mysticism 10 ranks.
 tags: 
 Type: General Feat
 ---
-# DISPELLING STRIKE
-**Source** _Character Operations Manual pg. 114_  
+
+# Dispelling Strike
+
+**Source**:: _Character Operations Manual pg. 114_  
 You can stab, slice, or smash the magic right off of something— or someone.
 
 **Prerequisites**: Base attack bonus +10, Mysticism 10 ranks.

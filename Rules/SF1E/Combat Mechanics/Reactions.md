@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# REACTIONS
+
+# Reactions
 
 A reaction is a special action you can take even if it’s not your turn, but only after a defined and concrete trigger. You can’t use a reaction before the first time you act in a combat. You can take only one reaction each round; you regain your reaction at the start of your turn.  
   
@@ -10,7 +11,7 @@ Unless their descriptions state otherwise, purely defensive reactions interrupt 
   
 You gain access to most reactions through feats, items, and class features, but an attack of opportunity is a reaction that is universally available to all characters. 
 
-# ATTACK OF OPPORTUNITY
+# Attack of Opportunity
 
 An attack of opportunity is a special melee attack you can make against a target you threaten (usually an adjacent opponent), even if it is not your turn. See Reach and Threatened Squares on page 255 for more details on threatening. You can use your reaction to make an attack of opportunity against an opponent in any of these three cases. 
 

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## ENERGY RESISTANCE
+
+## Energy Resistance
 
 A creature with resistance to energy has the ability to ignore some energy damage of a certain type (acid, cold, electricity, fire, or sonic) per attack. Each resistance ability is defined by what energy type it resists and how much damage is resisted. It doesn’t matter whether the damage is from a mundane or magical source. If an attack deals both kinetic damage and energy damage (such as dealing 3d6 bludgeoning and 1d6 fire damage), energy resistance applies to the energy damage but doesn’t reduce the kinetic damage.
 

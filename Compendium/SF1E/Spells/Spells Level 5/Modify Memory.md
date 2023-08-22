@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# MODIFY MEMORY
 
-**Source** _Starfinder Core Rulebook pg. 366_  
-**Classes** Mystic 5, Precog 5, Witchwarper 5  
-**School** enchantment (compulsion, mind-affecting)  
-**Casting Time** 1 round; see text  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one living creature  
-**Duration** permanent  
-**Saving Throw** Will negates; **Spell Resistance** yes
+# Modify Memory
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 366_  
+**Classes**:: Mystic 5, Precog 5, Witchwarper 5  
+**School**:: enchantment (compulsion, mind-affecting)  
+**Casting-Time**:: 1 round; see text  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one living creature  
+**Duration**:: permanent  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 You reach into the target’s mind and modify up to 5 minutes of its memories in one of the following ways.
 

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Starfinder Alien Character Deck pg. 0_  
+**Source**:: _Starfinder Alien Character Deck pg. 0_  
 
 [[Species_Gnoll.png|Zeigen!]]
 
@@ -31,6 +31,6 @@ Gnolls can attack with a special unarmed strike that deals lethal damage, doesnâ
 
 Each time they move, gnolls can move through the first square of nonmagical difficult terrain at their normal speed.  
 
-## Self-Sufficient
+## Self-sufficient
 
 Gnolls gain a +2 racial bonus to Survival checks.

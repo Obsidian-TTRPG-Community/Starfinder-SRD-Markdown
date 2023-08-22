@@ -2,13 +2,14 @@
 aliases: 
 tags: 
 ---
-# DRIFT LANES
+
+# Drift Lanes
 
 **Source** _Ports of Call pg. 12_  
 The recent Drift Crisis tore at that plane’s very being, and while Triune’s realm has since recovered, it emerged from the ordeal with scars. Known as Drift lanes, these scars represent speedy, especially reliable paths through the Drift, enabling faster travel between specific points and creating a strategically valuable travel network.  
 Following the Drift Crisis, Drift travel has regained its traditional functionality: traveling to Absalom Station once again takes 1d6 days, reaching a Near Space location takes 3d6 days, and accessing the Vast takes 5d6 days, all influenced by the relative number of Drift beacons in the area. However, whether by accident or design, the Crisis left figurative wrinkles across the Drift, and explorers discovered that these wrinkles predictably and speedily connected various points in the galaxy, regardless of the number of Drift beacons nearby. While the galaxy remains accessible primarily through conventional Drift travel, these so-called Drift lanes have created powerful highways, opening new opportunities for travel, trade, and conquest.  
 
-# UNDERSTANDING DRIFT LANES
+# Understanding Drift Lanes
 
 **Source** _Ports of Call pg. 12_  
 Any given point in the galaxy corresponds to a point in the Drift, just not in the same configuration; two spots in the Drift a mile apart could correspond to two points 1,000 light-years apart on the Material Plane. Were the Drift a static plane, reaching the desired point might require light-years of travel—little better than just using conventional thrusters in the galaxy. Fortunately, the Drift isn’t static. It constantly folds in on itself.  
@@ -22,7 +23,7 @@ However, conventional Drift travel has one big advantage: it’s almost untracea
 **New Lanes:** The concept of Drift lanes is new to science. Within a few months, explorers identified many of the major Drift lanes known today, yet new lanes emerge periodically, and indeed, the exact workings of these lanes have yet to be fully understood. Did newly discovered lanes appear more recently than others? If so, what makes new Drift lanes? Is their number finite, or are there countless Drift lanes yet to be found, hiding across the galaxy’s expanse? Are Drift lanes permanent, or might they fade or migrate with time? A few conduits, colloquially called Drift threads, don’t seem to connect to planets, instead linking two unremarkable voids. Are these areas where future worlds might one day exist? Are the threads floating through the Drift until they snag and permanently connect two existing worlds? Or, are they just leftovers from the Crisis, like abandoned genes hiding amid useful DNA? Are they even Drift lanes or some related phenomenon?  
 Testing these hypotheses could take the efforts of a generation. Fortunately, whether it’s universities or organizations like the Starfinder Society promoting science, governments and militaries shoring up defenses, or companies uncovering efficient new ways to extract wealth and deliver goods, there’s no shortage of potential patrons eager to hire explorers and adventurers to locate and chart unknown Drift lanes.  
 
-# USING DRIFT LANES
+# Using Drift Lanes
 
 **Source** _Ports of Call pg. 13_  
 To access a Drift lane, a starship must be outside the atmosphere but within the gravity well of a world at one end of the lane. The starship’s pilot must chart a course to the Drift lane, and lanes are exceptionally easy to navigate to (DC 10 Piloting). As usual, it takes 1 minute for the ship’s Drift engine to activate, during which time the ship’s thrusters can’t be used. If all these conditions are met, the ship enters the Drift on the Drift lane.  

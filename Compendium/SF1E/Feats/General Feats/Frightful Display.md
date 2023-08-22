@@ -5,8 +5,10 @@ Prerequisites: Cha 15, Intimidate 5 ranks, ability to cast spells.
 tags: 
 Type: General Feat
 ---
-# FRIGHTFUL DISPLAY
-**Source** _Character Operations Manual pg. 115_  
+
+# Frightful Display
+
+**Source**:: _Character Operations Manual pg. 115_  
 You unnerve your spell’s victim with odd gestures, cackling laughter, or other effects.
 
 **Prerequisites**: Cha 15, Intimidate 5 ranks, ability to cast spells.

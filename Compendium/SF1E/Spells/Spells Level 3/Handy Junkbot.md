@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# HANDY JUNKBOT
 
-**Source** _Starfinder Core Rulebook pg. 357_  
-**Classes** Technomancer 3  
-**School** transmutation  
-**Casting Time** 1 round  
-**Range** touch  
-**Targets** 1 bulk of inert electronic equipment; see text  
-**Duration** 1 round/level  
-**Saving Throw** none; **Spell Resistance** no
+# Handy Junkbot
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 357_  
+**Classes**:: Technomancer 3  
+**School**:: transmutation  
+**Casting-Time**:: 1 round  
+**Range**:: touch  
+**Targets**:: 1 bulk of inert electronic equipment; see text  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 You turn a pile of technological junk into a robot that can accomplish helpful tasks. You must target inert, nonworking electronic equipment of at least 1 bulk. Valid targets include a large broken computer system, nonworking or unconnected computer or robot parts, a destroyed robot or another such trashed mechanical system, or any related electronic components or combination of the above as long as the junk is found in a large enough quantity.
 

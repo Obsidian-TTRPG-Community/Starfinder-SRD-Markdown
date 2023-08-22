@@ -5,7 +5,9 @@ tags:
 Tier: 18
 Type: Colossal dreadnought (space station)
 ---
-# PYRE SPIKE STATION
+
+# Pyre Spike Station
+
 > [!infobox|locr n-th clean]
 >  [[Starship_PyrePikeStation.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Colossal dreadnought (space station), **Tier** 18
 **Attack (Turret)** laser net (2d6; 5 hexes), linked light particle beams (6d6; 10 hexes)  
 **Power Core** Gateway Ultras (2, 500 PCU each); **Drift Engine** none; **Systems** advanced long-range sensors, crew quarters (good), mk 6 armor, mk 10 defenses, mk 3 trinode computer; **Expansion Bays** cargo holds (45), escape pods (4), hangar bay, hydroponic gardens (2), life boats (3), medical bay, power core housing, recreation suite (gym), recreation suite (HAC), recreation suite (trivid), shuttle bay, synthesis bay; **Modifiers** +3 to any three checks per round, +4 Computers (sensors only); **Complement** 212 (minimum 125, maximum 500)
 
-### CREW
+### Crew
 
 **Captain** Bluff +36 (18 ranks), Diplomacy +31 (18 ranks), gunnery +26 (18th level), Intimidate +31 (18 ranks), Piloting +31 (18 ranks)  
 **Engineers (3 officers, 25 crew)** Engineering +31 (18 ranks)  
@@ -29,7 +31,7 @@ Colossal dreadnought (space station), **Tier** 18
 **Pilot (1 officer, 20 crew)** Piloting +31 (18 ranks)  
 **Science Officers (3 officers, 15 crew)** Computers +31 (18 ranks)
 
-## DESCRIPTION
+## Description
 
 The Golden League’s powerful Akaio family emerged from the Gap in control of Pyre Spike Station, in orbit just beyond Aucturn. Even though they lacked any records for how they built or acquired the station, the Akaios quickly turned it into a lucrative trading hub, an unpoliced refuge for ne’er-do-wells, and the unofficial headquarters for the League. The Akaios’ supremacy lasted until 40 ag, when they executed a risky extortion scheme against Absalom Station, hoping that the ongoing war with the Veskarium would shield them from retaliation. It failed catastrophically. Upon unification a year later, the Pact Worlds dispatched a small armada to neutralize the syndicate. When they arrived, though, Pyre Spike Station’s Akaio leaders were all missing or slain, executed by lesser Golden League families as a peace offering to preserve their autonomy. Since then, the League has lacked any central authority, favoring more dispersed operations to avoid competition and limit retribution.  
   

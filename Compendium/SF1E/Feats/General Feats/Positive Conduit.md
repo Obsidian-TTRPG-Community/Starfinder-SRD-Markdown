@@ -5,8 +5,10 @@ Prerequisites: Con 13.
 tags: 
 Type: General Feat
 ---
-# POSITIVE CONDUIT
-**Source** _Character Operations Manual pg. 117_  
+
+# Positive Conduit
+
+**Source**:: _Character Operations Manual pg. 117_  
 Your body resonates with positive energy, absorbing more benefit than usual from healing effects.
 
 **Prerequisites**: Con 13.

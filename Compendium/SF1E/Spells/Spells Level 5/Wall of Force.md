@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# WALL OF FORCE
 
-**Source** _Starfinder Core Rulebook pg. 384_  
-**Classes** Precog 5, Technomancer 5, Witchwarper 5  
-**School** evocation (force)  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
+# Wall of Force
+
+**Source**:: _Starfinder Core Rulebook pg. 384_  
+**Classes**:: Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: evocation (force)  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
 **Effect** wall with area up to one 10-ft. square/level  
-**Duration** 1 round/level (D)  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 _Wall of force_ creates an invisible wall of pure force. You can form the wall into a flat, vertical plane whose area is up to one 10-foot square per level. The wall must be continuous and unbroken when formed. If its surface is broken by any object or creature, the spell fails.
 

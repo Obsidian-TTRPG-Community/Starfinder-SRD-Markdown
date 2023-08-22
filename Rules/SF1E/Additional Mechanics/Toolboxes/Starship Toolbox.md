@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# STARSHIP TOOLBOX
+
+# Starship Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 152_  
 Use the following tables to help you generate starships quickly.  
@@ -11,7 +12,7 @@ Use the following tables to help you generate starships quickly.
 **Legendary Starships:** Each of this table’s entries showcases a unique legendary starship.  
   
 
-## STARSHIP NAMES
+## Starship Names
 
 | D%     | First Word | Second Word |
 | ------ | ---------- | ----------- |
@@ -69,7 +70,7 @@ Use the following tables to help you generate starships quickly.
   
   
 
-## STARSHIP QUIRKS
+## Starship Quirks
 
 | D20 | Description                                                                                                              |
 | --- | ------------------------------------------------------------------------------------------------------------------------ |
@@ -97,7 +98,7 @@ Use the following tables to help you generate starships quickly.
   
   
 
-## LEGENDARY STARSHIPS
+## Legendary Starships
 
 | D%     | Description                                                                                                                                                                                                                                                                                                                                   |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

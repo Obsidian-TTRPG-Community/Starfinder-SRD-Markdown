@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# TELEKINESIS
 
-**Source** _Starfinder Core Rulebook pg. 380_  
-**Classes** Technomancer 5  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** long (400 ft. + 40 ft./level)  
-**Targets** see text  
-**Duration** concentration (up to 1 round/level) or instantaneous; see text  
-**Saving Throw** none, Will negates (object), see text; **Spell Resistance** yes (object), see text
+# Telekinesis
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 380_  
+**Classes**:: Technomancer 5  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: long (400 ft. + 40 ft./level)  
+**Targets**:: See Text  
+**Duration**:: concentration (up to 1 round/level) or instantaneous; see text  
+**Saving-Throw**:: none, Will negates (object), see text;
+**Spell Resistance**:: yes (object), see text
+
+## Description
 
 You move objects or creatures by concentrating on them. Depending on your desired effect (choose one from below), the spell can perform a variety of combat maneuvers, provide a gentle, sustained force, or exert a single short, violent thrust.
 

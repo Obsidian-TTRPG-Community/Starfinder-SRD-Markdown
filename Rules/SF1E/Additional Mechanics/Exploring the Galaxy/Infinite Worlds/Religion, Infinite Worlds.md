@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# RELIGION
+
+# Religion
 
 **Source** _Galaxy Exploration Manual pg. 116_  
 Nearly every sapient species has asked how the universe functions, where they come from, why they exist, and what comes after their mortal lives end. As they face the unforgiving universe, they tell tales of the things they fear and the extraordinarily powerful heroes (or villains) who vanquish (or are vanquished by) terrifying anthropomorphized monsters. They narrate acts they believe admirable, glorifying those who dedicate their lives to performing great deeds. These tales serve to explain the unexplainable, express a society’s consciousness, warn against harm, and provide hope to persevere in a universe that’s magical, supernatural, terrifying, and hostile but simultaneously wondrous and beautiful. As these tales take on importance, each society forms rituals and traditions to reinforce these messages and preserve their cultural memory. Over time, the original meanings of the tales, rituals, and traditions might become lost as new meanings, perspectives, and beliefs emerge and evolve. All these components coalesce into a ritualized set of organized beliefs and ceremonies focused on a supernatural being or beings, supernatural forces, philosophies, or science, leading to the birth of a religion.  
@@ -15,7 +16,7 @@ Whether characters or worlds are fanatically devout, opposed to the gods, or loc
 Religion can provide moral and ethical codes of behavior for characters as well as motivation to embark on quests and adventures. While certain behavioral or moral tenets might limit a character’s actions, they aren’t meant to limit creativity within the game. Religion within a game can be seen as a way for players to delve into their characters’ roles and worldviews for them to explore the world of the imaginary, which might differ from their real-life perceptions. It’s a way to contemplate not only the sights, smells, and textures a character encounters, but their deeper thoughts, philosophies, and motivations. Religion can give their characters inner strength, a sense of structure, and a connection to others. For any character (player or non-player), religion can also function as a source of power and advantages as well as a set of tenets to carefully navigate while trying to achieve philosophically acceptable goals.  
 With a universe as diverse as Starfinder, players are likely to encounter nearly endless varieties of civilizations with an inexhaustible range of philosophies, religions, and worldviews on universal truths. Characters might come across the worship of deities overseeing domains much like those of ancient Greek and Roman pantheons. Just as likely, they might meet beings with alien bodies and minds whose philosophies and religions seem incomprehensible to humanoids in the Pact Worlds. One of the exciting things about a science fantasy game is the ability to combine seemingly familiar ideologies and traditions of the real world with the fantastical, the unique, and the bizarre. However, it’s important to remain respectful of other people’s imaginations and personal beliefs, and to remember that religion is just one facet of Starfinder’s tapestry of imagination. Starfinder is a fictional fantasy game designed to be played and enjoyed by all peoples.  
 
-## HIGH RELIGION
+## High Religion
 
 **Source** _Galaxy Exploration Manual pg. 118_  
 In a world of high religion, deities actively participate in the planet’s existence and may take form to do so. These gods might battle one another and deliver visions to their faithful. They might be living gods or even mortals elevated to the status of godhood by their people. On some high-religion worlds, the populace might worship deities that don’t (or no longer) exist, yet they worship no less fervently for the lack of divine intervention. A high-religion world might also have multiple religions, each as potent as the others but where none can gain dominance over the entire world. In such a world, zealots are likely numerous and active as they strive to expand their respective faith’s influence.  
@@ -23,7 +24,7 @@ There are varied reasons for why an individual or an entire population might adh
 Imagine a world where religion plays a major role in the evolution of society, a world where immortal gods walk among mortals, granting them supernatural powers and sending them on quests of religious significance. Or, imagine a world where a vast city complex covers nearly the entire surface, its towering spires decorated to venerate the planet’s sovereign, a living deity kept alive for the advancement of technology wielded for the betterment (or the suppression) of its subjects. Perhaps another world recognizes and practices the religions of a thousand cultures, each religious institution competing vigorously for power, dominance, and control of resources. On another world, the majority of the population might feel drawn instinctively to perform particular philosophies that they believe necessary for communal prosperity and harmony.  
 Also consider how a high-religion attribute intersects with the society’s magic rating. In a high-magic society, the faiths’ supernatural power is prevalent, powerful, and potentially accessible to a large array of its inhabitants. In lower-magic societies, a high-religion attribute could represent divine power that’s tightly restricted to an ecclesiastical elite or concentrated entirely in one or more heavily involved deities who dole out only a fraction (if any) of their ample supernatural influence.
 
-### HIGH-RELIGION ADVENTURE HOOKS
+### High-religion Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                     |
 |-----|------------------------------------------------------------------------------------------------------------------------------------|
@@ -51,13 +52,13 @@ Also consider how a high-religion attribute intersects with the society’s magi
 
   
 
-## MEDIUM RELIGION
+## Medium Religion
 
 **Source** _Galaxy Exploration Manual pg. 118_  
 On many worlds, religion plays a significant part in daily life yet typically doesn’t maintain an overriding influence on life, politics, economy, and relations. This distinction doesn’t mean that the adherents to these faiths are any less devout compared to those of high-religion worlds. The faithful of medium‑religion worlds might allocate great structures or complexes for religions to come together, share their philosophies, and learn. However, either their gods don’t require extreme and constant devotion, or the society has developed an equilibrium where its needs accommodate, yet don’t kowtow, to its patrons’ dictums. Alternatively, a world might host numerous religions that all compete for the minds and souls of the faithful. These religious struggles could take place intellectually, ritualistically, or through physical violence. However, the daily lives of the majority of the people are less likely to be influenced by religion compared to everyday economic and political concerns.  
 For example, a space station or planet designated for the inhabitants of multiple worlds to intermingle and cooperate can be a place where religion, though heavily influencing the lives of many residents, has an overall muted impact due to overriding intragalactic political, military, and economic concerns. Another world might have relatively aloof or distant gods. They might grant miracles and power to their priests, and perhaps occasionally listen to the prayers of their devotees, but otherwise intervene little in mortal lives. Perhaps another world regards its heroes and leaders as living gods, thus bestowing upon them great prestige and power, while their society still recognizes them as mortal and fallible, ensuring that their influence never exceeds that commanded by a true deity. Even technology could become the focus of worship if its capabilities surpass the population’s understanding of how some devices function.
 
-### MEDIUM-RELIGION ADVENTURE HOOKS
+### Medium-religion Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                  |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -85,13 +86,13 @@ For example, a space station or planet designated for the inhabitants of multipl
 
   
 
-## LOW RELIGION
+## Low Religion
 
 **Source** _Galaxy Exploration Manual pg. 118_  
 There are also numerous worlds where religion holds little influence. Perhaps the gods are so removed from and uninvolved with the population that the residents of the world are little more to deities than ants are to humans. Religion might never have evolved, isn’t a natural expression of the inhabitants’ psyche, or became illegal following any number of disasters or secular coups. On these worlds, religion, divinely-powered magic, and spiritual practices and traditions are implausible notions—either shocking onlookers due to their taboo status or baffling witnesses due to the faith’s unfamiliar underlying assumptions.  
 Consider when a society’s low-religion attribute manifested. A recent change might mean the inhabitants are actively converting, burying, or destroying old symbols. An ancient change might result in gradual amnesia with inhabitants following traditional holy days and performing prayers, despite not knowing why they continue to do so. Perhaps the populace came to the realization that their world has no gods or that the gods don’t listen. These practices might offer communal solidarity but provide little else.
 
-### LOW-RELIGION ADVENTURE HOOKS
+### Low-religion Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -119,7 +120,7 @@ Consider when a society’s low-religion attribute manifested. A recent change m
 
   
 
-## RELIGION AND SKILL CHECKS
+## Religion and Skill Checks
 
 **Source** _Galaxy Exploration Manual pg. 118_  
 When characters interact with members of their own faith, the GM might give a +2 bonus to Culture or Diplomacy checks based on the circumstance. Likewise, interacting with members of rival faiths (especially those of opposed alignment) might incur a penalty of –2.  

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# BORAI
+
+# Borai
+
 > [!infobox|left n-th clean]
 >  [[Borai.png|Spielern zeigen!]]
 > 
@@ -17,31 +19,31 @@ Some borais embrace their disconcerting aspects, finding employment as terrifyin
 **Ability Modifiers** +2 Con, +2 Cha, -2 Wis  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Borais are Medium undead, but they do not gain normal undead immunities.  
 
-## DARKVISION
+## Darkvision
 
 Borais can see up to 60 feet in the dark.  
 
-## DEATHLY
+## Deathly
 
 For effects targeting creatures by type, borais count as both humanoids and undead (whichever effect is worse). They are immune to negative energy damage and gain a +1 racial bonus to saving throws against disease, exhaustion, fatigue, mind-affecting effects, paralysis, poison, sleep effects, and stunning.  
 
-## LIVING SHELL
+## Living Shell
 
 A borai counts as a living creature for the purposes of what can affect him (such as magic healing). If destroyed, a borai can be brought back to his normal undead state by spells (such as _raise dead_) that restore life to his body as if he were alive.  
 
-## OLD TALENTS
+## Old Talents
 
 Borais’ not-quite-dead bodies still have some of their old racial traits. At character creation, a borai selects one of the following races as his original living form and gains the racial trait indicated in parenthesis for the selected race: android (upgrade slot), human (skilled), kasatha (four-armed), lashunta (limited telepathy), shirren (blindsense), vesk (natural weapons), or ysoki (cheek pouches). A GM can, at her discretion, allow a borai to choose another humanoid race, along with an appropriate racial trait. Additionally, when a borai attempts to disguise himself as a member of his selected race, the DC of his Disguise check is not modified as a result of disguising himself as a different creature type.  
 
-## RESIST ENERGY DRAIN
+## Resist Energy Drain
 
 A borai takes no penalties from energy drain effects, but he can still be destroyed if he accrues more negative levels then he has class levels. After 24 hours, any negative levels a borai has taken are removed without the need for an additional saving throw.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** See Borai entry  
 **Average Weight** See Borai entry  

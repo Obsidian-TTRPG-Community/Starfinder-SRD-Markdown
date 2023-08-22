@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# PRECOG CLASS BUILDS
+
+# Precog Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,113 +16,113 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# APOCALYPSE SEER
+# Apocalypse Seer
 
-## THEME: DREAM PROPHET
+## Theme: Dream Prophet
 
-**Source** ###_Galactic Magic pg. 16_###
+**Source**:: ###_Galactic Magic pg. 16_###
 You are haunted by visions of impending disaster and are acutely aware of the cascading effects of even the most minor actions.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity and Intelligence are your most important ability scores, as they increase the effectiveness of your abilities and spells. Wisdom helps you with social skills.
 
-## ANCHOR
+## Anchor
 
 Doomed future
 
-## TEMPORAL ANOMALIES
+## Temporal Anomalies
 
 Advanced preparation (2nd), I knew you’d say that (5th), Tactical oracle (8th), Desperate rewrite (11th), and Outcome adjustment (14th)
 
-## FEATS
+## Feats
 
 Constant Alert, Extra Resolve, Improved Initiative, Lightning Reflexes, and Oracular Gift
 
-## SKILLS
+## Skills
 
 Bluff, Culture, Diplomacy, Perception, and Sense Motive  
   
 
-# CHRONOMANCER
+# Chronomancer
 
-## THEME: PRIEST
+## Theme: Priest
 
-**Source** ###_Galactic Magic pg. 17_###
+**Source**:: ###_Galactic Magic pg. 17_###
 You draw your ability to manipulate timelines from a magical source.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity and Intelligence are your most important ability scores, as they increase the effectiveness of your abilities and spells. Wisdom helps your understanding of magic.
 
-## ANCHOR
+## Anchor
 
 Chronomancy
 
-## TEMPORAL ANOMALIES
+## Temporal Anomalies
 
 Shunt condition (2nd), Improved shunt condition (5th), Time walk (8th), Greater shunt condition (11th), and Outcome adjustment (14th)
 
-## FEATS
+## Feats
 
 Agile Casting, Mobility, Skill Synergy, Spell Focus, and Spellguard
 
-## SKILLS
+## Skills
 
 Culture, Diplomacy, Mysticism, Perception, and Sense Motive  
   
 
-# TIME TRAVELER
+# Time Traveler
 
-## THEME: SCHOLAR
+## Theme: Scholar
 
-**Source** ###_Galactic Magic pg. 17_###
+**Source**:: ###_Galactic Magic pg. 17_###
 You’re an expert combatant who carries little equipment, yet you’re never unarmed
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity and Intelligence are your most important ability scores, as they increase the effectiveness of your abilities and spells. Wisdom helps your understanding of magic.
 
-## ANCHOR
+## Anchor
 
 Timewarped
 
-## TEMPORAL ANOMALIES
+## Temporal Anomalies
 
 Ephemeral confidant (2nd), Instance analysis (5th), Looped existence (8th), Paradoxical genius (11th), and Offensive rewrite (14th)
 
-## FEATS
+## Feats
 
 Dive for Cover, Iron Will, Quick Draw, Tactful Advisor, and Technomantic Dabbler
 
-## SKILLS
+## Skills
 
 Culture, Diplomacy, Mysticism, Perception, and Sense Motive  
   
 
-# TIME-WORN WARRIOR
+# Time-worn Warrior
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** ###_Galactic Magic pg. 16_###
+**Source**:: ###_Galactic Magic pg. 16_###
 You lived through something you shouldn’t have, dodging time’s inexorable flow and retaining the ability to manipulate timelines.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity and Intelligence are your most important ability scores, as they increase the effectiveness of your abilities and spells. Constitution makes you hardier.
 
-## ANCHOR
+## Anchor
 
 Fragmented past
 
-## TEMPORAL ANOMALIES
+## Temporal Anomalies
 
 Future training (2nd), Time-hardened (5th), Forewarned (8th), Preternatural Strikes (11th), and Time’s Champion (14th)
 
-## FEATS
+## Feats
 
 Blind-Fight, Diehard, Enhanced Resistance, Great Fortitude, and Jet Dash
 
-## SKILLS
+## Skills
 
 Acrobatics, Bluff, Piloting, Sense Motive, and Stealth

@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ZVARR SCOUT
 
+# Zvarr Scout
 
 **XP 400**  
 Zvarr operative  

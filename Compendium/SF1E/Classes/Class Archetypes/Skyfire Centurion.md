@@ -2,20 +2,21 @@
 aliases: 
 tags: 
 ---
-# SKYFIRE CENTURION
 
-**Source** _Pact Worlds pg. 185_  
+# Skyfire Centurion
+
+**Source**:: _Pact Worlds pg. 185_  
 With the advent of the Absalom Pact, the famed Triaxian dragonriders of the Dragon Legion took to the stars and became known as the Skyfire Legion, an elite and highly principled mercenary group that sells its protection to colonists and corporations operating beyond the Pact Worlds, where the Stewards cannot protect them. While many Skyfire legionnaires form a near-telepathic bond with dragonkin copilots, Skyfire centurions train to strengthen this connection even further, leading their allies and facilitating teamwork almost as if the members shared a single mind.
 
 The Skyfire Legion has several training facilities throughout the Pact Worlds where centurions and other legionnaires can hone their skills. Every legionnaire trains with a partner, and centurions undergo additional, stricter regimens to help focus their minds and toughen up their bodies.
 
 Not all members of the Skyfire Legion are centurions, and not all centurions have a dragonkin ally; the same teamwork techniques can be used with any intelligent creatures, even mechanical ones. Characters of all classes can become successful centurions, though most mystics and solarians lack the piloting ability to make full use of centurion abilities. Soldiers gain many combat feats, which makes them terrific centurions, while mechanics who choose their drones as their bonded allies can customize the drones for seamless teamwork.
 
-## ALTERNATE CLASS FEATURES
+## Alternate Class Features
 
 The Skyfire centurion archetype grants alternate class features at 4th, 6th, 9th, and 12th levels.  
 
-## COMBAT BOND (EX) - 4TH LEVEL
+## Combat Bond (EX) - 4TH Level
 
 You can train together with an ally whose Intelligence score is at least 1, forming a combat bond between you and the target creature. This training process takes 1 hour, and you can have only one bonded ally at a time. If you form a new combat bond with a creature, any previously formed combat bond is lost. No creature can be the bonded ally of two centurions.
 
@@ -23,17 +24,17 @@ At 10th level, you can spend 1 Resolve Point to form a combat bond with an ally 
 
 Whenever you gain a bonus from covering fire or harrying fire provided by your bonded ally (or vice versa), the bonus increases to +4. When you are the captain of a ship and successfully use the encourage action on your bonded ally (or vice versa), the bonus granted increases to +4.
 
-## LEND EXPERTISE (EX) - 6TH LEVEL
+## Lend Expertise (EX) - 6TH Level
 
 With just a few words, you can share your training with a bonded ally. As a move action, you can grant your bonded ally a single combat feat you have for 10 rounds, provided your bonded ally can see or hear you. The bonded ally must fulfill the feat’s prerequisites and be able to use the feat. For example, a mechanic’s drone can benefit only from feats that a drone can normally gain. If you have already granted your bonded ally a feat using this ability, the previous feat is lost.  
 
-## CONCENTRATED FIRE (EX) - 9TH LEVEL
+## Concentrated Fire (EX) - 9TH Level
 
 When you and your bonded ally both ready an action to attack the same target and choose the same condition for the readied action, when you and your bonded ally make those attacks, use the highest of the two attack rolls (each attacker applies her own modifiers to the roll). If you and your bonded ally both hit the target, total the damage for both attacks before applying the target’s DR or energy resistances.
 
 In starship combat, when you and your bonded ally both attack the same opponent in the same round with a direct-fire weapon, use the highest of the two attack rolls (each attacker applies her own modifiers to the roll). If you and your bonded ally both hit the target, total the damage for both attacks for the purpose of determining how the target’s Damage Threshold affects the damage.
 
-## PERSEVERANCE (EX) - 12TH LEVEL
+## Perseverance (EX) - 12TH Level
 
 You can perform the first aid task of the Medicine skill as a move action on your bonded ally.
 

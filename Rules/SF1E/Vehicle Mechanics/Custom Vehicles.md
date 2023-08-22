@@ -2,48 +2,49 @@
 aliases: 
 tags: 
 ---
-# CUSTOM VEHICLES
+
+# Custom Vehicles
 
 **Source** _Tech Revolution pg. 76_  
 Vehicles play a crucial role in most modern societies. While mass manufacturers provide many reliable options, the galaxy’s near-infinite challenges call for constant innovation, begetting custom prototypes of every variety. This section provides rules for creating your own custom vehicles, designed for whatever your adventures demand!  
 
-# BUILDING A VEHICLE
+# Building a Vehicle
 
 **Source** _Tech Revolution pg. 76_  
 Designing a new vehicle involves choosing the vehicle’s item level, which determines many of the vehicle’s base statistics. From there, apply several templates to adjust those statistics and make the vehicle fit your concept. Whatever you design, you can augment it further using the vehicle modifications on pages 80–83.  
 The following provides an overview of the vehicle-design process, detailed further in the following pages.  
 
-## STEP 0: VEHICLE CONCEPT
+## Step 0: Vehicle Concept
 
 **Source** _Tech Revolution pg. 76_  
 Before you start designing your vehicle, you should have a clear idea of what the purpose of this vehicle is. Is the vehicle a fast transport, a powerful gunship, or an invulnerable tank? Why was it designed? What task was it created to perform? Who created it? A racing vehicle designed by goblins will sport a very different set of abilities than a Veskarian assault tank.  
 
-## STEP 1: ARRAY
+## Step 1: Array
 
 **Source** _Tech Revolution pg. 76_  
 Choose the level of the vehicle, then locate and use the starting statistics in Table 3–1: Custom Vehicle Array.  
 
-## STEP 2: VEHICLE TYPE GRAFT
+## Step 2: Vehicle Type Graft
 
 **Source** _Tech Revolution pg. 76_  
 Choose and apply one of the vehicle type grafts based on your vehicle’s general shape, such as a cycle, flying vehicle, tank, or walker. Apply any adjustments that template provides. The vehicle type graft has a significant impact on your vehicle’s final statistics.  
 
-## STEP 3: VEHICLE SIZE GRAFT
+## Step 3: Vehicle Size Graft
 
 **Source** _Tech Revolution pg. 76_  
 Determine the vehicle’s size. Choose a vehicle size template and apply any adjustments to your starting statistics. Large vehicles have no adjustments, as Large is the default size for most vehicles. Small creatures sometimes use Medium vehicles.  
 
-## STEP 4 (OPTIONAL): VEHICLE ORIGIN GRAFT
+## Step 4 (OPTIONAL): Vehicle Origin Graft
 
 **Source** _Tech Revolution pg. 76_  
 Is this custom vehicle created by a large corporation for wide distribution, a hand-made vehicle, or an experimental vehicle? You can choose one graft that best describes your vehicle and apply it.  
 
-## STEP 5 (OPTIONAL): SPECIAL GRAFTS
+## Step 5 (OPTIONAL): Special Grafts
 
 **Source** _Tech Revolution pg. 76_  
 The templates in this section describe rarer types of vehicles, such as those that are built from scrap, designed for off-road travel, or include an auto-pilot. Apply up to two of these grafts if they help to describe your vehicle.  
 
-# STEP 1: ARRAY
+# Step 1: Array
 
 **Source** _Tech Revolution pg. 76_  
 The following pages provide base statistics for creating your vehicle, such as AC, speed, and starting price. The level determines the item level of the vehicle and its base statistics, which are modified further in the subsequent steps. Record each of these statistics for the level of your vehicle.  
@@ -85,7 +86,7 @@ The following pages provide base statistics for creating your vehicle, such as A
 
   
 
-## OTHER STATISTICS
+## Other Statistics
 
 **Source** _Tech Revolution pg. 76_  
 Several other statistics, described below, are derived from grafts rather than the vehicle’s level.  
@@ -94,12 +95,12 @@ Several other statistics, described below, are derived from grafts rather than t
 **Special:** Unique effects or prerequisites that apply to the vehicle. **Speed (Full):** The vehicle’s full speed, primarily determined by the vehicle type graft.  
 **Speed (Travel):** The vehicle’s overland speed used for noncombat movement, expressed in miles per hour. Except where otherwise noted, this speed equals the vehicle’s full speed divided by 10.  
 
-# STEP 2: VEHICLE TYPE GRAFT
+# Step 2: Vehicle Type Graft
 
 **Source** _Tech Revolution pg. 77_  
 Chose one or more of the following vehicle type grafts.  
 
-## BOAT (WATER VEHICLE)
+## Boat (WATER VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 These craft enable travel on the surfaces of liquids, such as water, using a wide variety of propulsion methods.  
@@ -107,7 +108,7 @@ These craft enable travel on the surfaces of liquids, such as water, using a wid
 **Cover:** Partial cover; **Speed (Full):** speed × 15  
 **Modifiers:** +0 Piloting, –2 attack (–4 at full speed)  
 
-## CRUISER (LAND VEHICLE)
+## Cruiser (LAND VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 These land vehicles use powerful propulsion methods that enable them to travel at high speeds on open terrain.  
@@ -115,7 +116,7 @@ These land vehicles use powerful propulsion methods that enable them to travel a
 **Cover:** Improved cover; **Speed (Full):** speed × 25  
 **Modifiers:** +0 Piloting, –2 attack (–4 at full speed)  
 
-## CYCLE (LAND VEHICLE)
+## Cycle (LAND VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 Cycles are vehicles that the pilot (and sometimes a passenger) ride directly on top of, and they can have a wide variety of uses.  
@@ -123,7 +124,7 @@ Cycles are vehicles that the pilot (and sometimes a passenger) ride directly on 
 **Cover:** None; **Speed (Full):** speed × 20  
 **Modifiers:** +2 Piloting, –1 attack (–3 at full speed)  
 
-## FAST FLYER (AIR VEHICLE)
+## Fast Flyer (AIR VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 These speedy air vehicles are designed for continuous forward movement and generally have wings and landing gear.  
@@ -132,7 +133,7 @@ These speedy air vehicles are designed for continuous forward movement and gener
 **Speed (Full):** speed × 25  
 **Modifiers:** –1 Piloting, –2 attack (–5 at full speed)  
 
-## HOVERING FLYER (AIR VEHICLE)
+## Hovering Flyer (AIR VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 These slower air vehicles provide maximum maneuverability and are often propelled by large rotors or hover pads.  
@@ -140,7 +141,7 @@ These slower air vehicles provide maximum maneuverability and are often propelle
 **Cover:** Cover; **Speed (Full):** speed × 20  
 **Modifiers:** +0 Piloting, –1 attack (–4 at full speed)  
 
-## SUBMERSIBLE (WATER VEHICLE)
+## Submersible (WATER VEHICLE)
 
 **Source** _Tech Revolution pg. 77_  
 These vehicles can submerge completely in a liquid (usually water) for extended periods, providing access to strange new realms for nonaquatic creatures.  
@@ -149,7 +150,7 @@ These vehicles can submerge completely in a liquid (usually water) for extended 
 **Modifiers:** –2 Piloting, –2 attack (–5 at full speed)  
 **Special:** The submersible can’t take grafts that reduce its cover to less than total cover.  
 
-## TANK
+## Tank
 
 **Source** _Tech Revolution pg. 77_  
 These heavily armored vehicles resist damage, maneuver ponderously, and are rarely available to civilians, though an adventurer with the right connections (legal or not) can certainly procure one.  
@@ -157,7 +158,7 @@ These heavily armored vehicles resist damage, maneuver ponderously, and are rare
 **Cover:** Total cover; **Speed (Full):** speed × 10  
 **Modifiers:** –1 Piloting, –2 attack (–4 at full speed)  
 
-## TRUCK (LAND VEHICLE)
+## Truck (LAND VEHICLE)
 
 **Source** _Tech Revolution pg. 78_  
 These rugged ground vehicles transport passengers or cargo.  
@@ -165,7 +166,7 @@ These rugged ground vehicles transport passengers or cargo.
 **Cover:** Cover; **Speed (Full):** speed × 20  
 **Modifiers:** –1 Piloting, –3 attack (–5 at full speed)  
 
-## WALKER
+## Walker
 
 **Source** _Tech Revolution pg. 78_  
 These relatively slow vehicles use numerous legs to stride over challenging terrain with ease.  
@@ -173,113 +174,113 @@ These relatively slow vehicles use numerous legs to stride over challenging terr
 **Cover:** Improved cover; **Speed (Full):** speed × 10  
 **Modifiers:** +1 Piloting, –2 attack (–6 at full speed)  
 
-# STEP 3: VEHICLE SIZE GRAFT
+# Step 3: Vehicle Size Graft
 
 **Source** _Tech Revolution pg. 78_  
 Apply one of the following grafts based on the vehicle’s size category.  
 
-## MEDIUM
+## Medium
 
 **Source** _Tech Revolution pg. 78_  
 Single-occupant and passenger vehicles of this size cater to Small users, such as goblins, halflings, and ysoki.  
 **Adjustments:** Decrease collision damage by 1 die, increase collision DC by 1. If the Piloting modifier is less than +0, increase it by 1.  
 
-## LARGE
+## Large
 
 **Source** _Tech Revolution pg. 78_  
 This is the most common vehicle size.  
 **Adjustments:** No adjustments.  
 
-## HUGE
+## Huge
 
 **Source** _Tech Revolution pg. 78_  
 Huge vehicles excel at moving sizable cargo and ferrying passengers.  
 **Adjustments:** Increase price by 10%, increase collision damage by 1 die, decrease collision DC by 1, decrease Piloting and attack modifiers by 1, increase passenger limit by 100%.  
 
-## GARGANTUAN
+## Gargantuan
 
 **Source** _Tech Revolution pg. 78_  
 At this scale, vehicles tend to be built for mass transit or heavy freight hauling.  
 **Adjustments:** Increase price by 10%, increase Hit Points by 10%, increase collision damage by 2 dice, decrease collision DC by 2, decrease Piloting and attack modifiers by 1, increase passenger limit by 200%.  
 
-## COLOSSAL
+## Colossal
 
 **Source** _Tech Revolution pg. 78_  
 Only the most massive vehicles are colossal in scope, such as enormous trains and aircraft carriers.  
 **Adjustments:** Increase price by 20%, increase Hit Points by 20%, increase collision damage by 3 dice, decrease collision DC by 3, decrease Piloting and attack modifiers by 2, increase passenger limit by 400%.  
 
-# STEP 4 (OPTIONAL): VEHICLE ORIGIN GRAFT
+# Step 4 (OPTIONAL): Vehicle Origin Graft
 
 **Source** _Tech Revolution pg. 78_  
 While most vehicles are mass-produced after rigorous testing, the following arrays can help express prototypes or experimental vehicles that aren’t ready for mass production yet. They can also represent completely customized, hand-crafted vehicles that are unique in design.  
 
-## EXPERIMENTAL
+## Experimental
 
 **Source** _Tech Revolution pg. 78_  
 Created by mechanical artisans, these one-of-a-kind vehicles are an expression of their creators’ visions.  
 **Adjustments:** Decrease price by 50%, increase modification slots by 1.  
 **Special:** The vehicle must have been created by the experimental vehicle alternate class feature (page 22).  
 
-## FACTORY-MADE
+## Factory-made
 
 **Source** _Tech Revolution pg. 78_  
 Most vehicles are factory-made, use standardized parts for a particular civilization, and are relatively easy to repair, but have little room for creative modification.  
 **Adjustments:** Decrease price by 10%, decrease modification slots by 1 (minimum 1). While in an area where standardized parts are available (such as a major settlement), decrease repair costs by 10% and decrease repair time by 25%.  
 
-## PROTOTYPE
+## Prototype
 
 **Source** _Tech Revolution pg. 78_  
 Design prototype vehicles might represent secret technologies (potentially stolen), yet companies sometimes sell off old prototypes as collectors’ items after their associated technologies are refined, patented, and on the market.  
 **Adjustments:** Increase price by 10%, increase modification slots by 1, increase repair time and repair cost by 20%.  
 
-# STEP 5 (OPTIONAL): SPECIAL GRAFTS
+# Step 5 (OPTIONAL): Special Grafts
 
 **Source** _Tech Revolution pg. 78_  
 The following grafts can help specialize your vehicle. Apply up to two of these grafts.  
 
-## ALL-TERRAIN
+## All-terrain
 
 **Source** _Tech Revolution pg. 78_  
 Designed for off-road travel, these rugged vehicles withstand rough terrain, weather, and abuse like no other.  
   
 **Adjustments:** Increase price by 5%, decrease speed by 5 feet, decrease full speed by 25 feet, decrease attack modifiers by 1. When moving through difficult terrain, this vehicle treats every other space of difficult terrain as a space of normal terrain.  
 
-## AMPHIBIOUS
+## Amphibious
 
 **Source** _Tech Revolution pg. 78_  
 These craft travel just as easily on land or in water.  
 **Adjustments:** Increase price by 10%. The vehicle becomes a land and water vehicle, gaining either a ground speed equal to its swim speed, or vice versa.  
 **Special:** The vehicle must have the boat type graft (page 77) or any type graft that grants a land speed.  
 
-## ARMORED
+## Armored
 
 **Source** _Tech Revolution pg. 78_  
 These robust vehicles are fitted with armored plates or shielding systems that allow them to withstand punishing conditions.  
 **Adjustments:** Increase price by 20%, decrease speed by 10 feet, increase EAC and KAC by 2, increase Hit Points by 10%, increase hardness by 10%, increase cover by 1 step (partial cover becomes cover, cover becomes improved cover, etc.)  
 **Special:** The vehicle can’t have the tank type graft.  
 
-## COMPUTER-ASSISTED CONTROLS
+## Computer-assisted Controls
 
 **Source** _Tech Revolution pg. 78_  
 Your vehicle contains a limited virtual intelligence (page 163) that can control the vehicle for short periods of time.  
 **Adjustments:** Increase price by 5%.  
 **Systems:** The vehicle gains an autopilot with a Piloting bonus equal to 4 + 1-1/2 × the vehicle’s level.  
 
-## HOVER
+## Hover
 
 **Source** _Tech Revolution pg. 79_  
 Your vehicle’s movement is based on hover technology, achieving lift through powerful jets or antigravity fields. These vehicles are relatively fragile, as they need low overall mass to function properly.  
 **Adjustments:** Increase price by 10%, increase speed by 5 feet, decrease EAC and KAC by 1, decrease Hit Points by 20%. The vehicle becomes a land and water vehicle and gains the hover trait to its speeds. It can hover up to 5 feet over surfaces and ignores difficult terrain.  
 **Special:** The vehicle must have the boat type graft (page 77) or any type graft that grants a land speed.  
 
-## HYBRID AIRCRAFT
+## Hybrid Aircraft
 
 **Source** _Tech Revolution pg. 79_  
 These vehicles operate just as effectively on the ground as they do in the air, whether they use extendable wings or jet propulsion.  
 **Adjustments:** Increase price by 15%, increase speed by 10 feet, decrease EAC and KAC by 1, decrease Hit Points by 10%. The vehicle becomes an air and land vehicle, gaining either a land speed equal to its fly speed, or vice versa.  
 **Special:** The vehicle must have a land speed or fly speed.  
 
-## JUNK
+## Junk
 
 **Source** _Tech Revolution pg. 79_  
 These vehicles are made of spare parts and discarded refuse, making for cheap (albeit unreliable) rides.  
@@ -288,26 +289,26 @@ These vehicles are made of spare parts and discarded refuse, making for cheap (a
 _Unstable Engine:_ Once the vehicle becomes broken, its engine explodes in 1d4 rounds (even if it’s been wrecked), dealing 1d6 fire damage in a 10-foot burst around the vehicle; this damage increases to 3d6 for anyone riding the vehicle. At 3rd level and every odd level thereafter, the burst deals an additional 1d6 damage (or an additional 2d6 damage to riders). Creatures can take half damage with a successful Reflex save (DC = the vehicle’s collision DC).  
 **Special:** If you have access to inert electronic and mechanical junk, this graft instead reduces vehicle price by 50%. This requires at least 10 bulk of junk for a Medium vehicle. For each size category larger than Medium, multiply the junk required by 8.  
 
-## LUXURY
+## Luxury
 
 **Source** _Tech Revolution pg. 79_  
 These vehicles are built for comfort and boast amenities like fully adjustable heated seats, chilled beverage holders, and premium sound systems.  
 **Adjustments:** Increase price by 20%, increase attack modifiers by 1 (maximum +0).  
 **Systems:** The vehicle gains a planetary comm unit and an autocontrol with a Piloting bonus equal to 4 + 1-1/2 × the vehicle’s level.  
 
-## RACER
+## Racer
 
 **Source** _Tech Revolution pg. 79_  
 Designed entirely for speed, these vehicles are designed for a single pilot for the purposes of racing or high velocity transportation; they also make excellent stunt fighters.  
 **Adjustments:** Increase speed by 5 feet, decrease Hit Points by 10%, decrease hardness by 20%, decrease passengers by 50%. After recalculating speed, increase full speed by 25%.  
 
-## TRANSPORT
+## Transport
 
 **Source** _Tech Revolution pg. 79_  
 These vehicles tend to be large and ponderous, but are capable of high speeds over long distances.  
 **Adjustments:** Increase overland speed by 20%, decrease piloting modifier by 1, increase passengers by 100%.  
 
-# IMPROVING VEHICLES
+# Improving Vehicles
 
 **Source** _Tech Revolution pg. 79_  
 Sometimes an owner’s own level outpaces their trusty vehicle’s capabilities, and when modifications (pages 80–83) aren’t enough, it’s time for a retrofit that boosts the vehicle’s item level. This often increases the vehicle’s performance and defenses, providing a good way for PCs to keep their vehicle competitive in tactical combat and vehicle chases without having to build or buy a completely new vehicle. The process for upgrading a vehicle varies, depending on whether the vehicle is a custom creation using the rules presented earlier in this chapter, or whether the vehicle is a prebuilt vehicle, such as those found on pages 228–229 of the Core Rulebook. In either case, upgrading a vehicle by one level takes a number of days based on the vehicle’s size: Medium = 1 day, Large = 2 days, Huge = 3 days, Gargantuan = 5 days, and Colossal = 10 days.  

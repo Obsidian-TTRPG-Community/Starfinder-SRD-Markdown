@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# FORCE BLAST
 
-**Source** _Starfinder Core Rulebook pg. 356_  
-**Classes** Mystic 2, Precog 2, Witchwarper 2  
-**School** evocation (force)  
-**Casting Time** 1 standard action  
-**Range** 30 ft.  
+# Force Blast
+
+**Source**:: _Starfinder Core Rulebook pg. 356_  
+**Classes**:: Mystic 2, Precog 2, Witchwarper 2  
+**School**:: evocation (force)  
+**Casting-Time**:: 1 standard action  
+**Range**:: 30 ft.  
 **Area** cone-shaped burst  
-**Duration** instantaneous  
-**Saving Throw** Reflex partial, see text; **Spell Resistance** yes
+**Duration**:: instantaneous  
+**Saving-Throw**:: Reflex partial, see text;
+**Spell Resistance**:: yes
 
-## DESCRIPTION
+## Description
 
 You gather mystical energy and blast it outward in a mighty wave originating from your fingertips, damaging and potentially knocking back your enemies. This spell deals 2d6 damage to each creature in the area unless it succeeds at a Reflex saving throw for half damage.
 

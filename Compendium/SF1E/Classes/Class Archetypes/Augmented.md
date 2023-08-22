@@ -2,30 +2,31 @@
 aliases: 
 tags: 
 ---
-# AUGMENTED
 
-**Source** _Starfinder Armory pg. 143_  
+# Augmented
+
+**Source**:: _Starfinder Armory pg. 143_  
 Although first a caste on Verces, the Augmented have since become a cultural movement of seeking perfection through artificial upgrades—most often cybernetics. The Augmented push the boundaries of cybernetic integration, often appearing as much machine as organic.  
 
-## ALTERNATE CLASS FEATURES
+## Alternate Class Features
 
 The Augmented grants alternate class features at 2nd, 4th, 6th, and 9th levels.  
 
-### FAVORED AUGMENTATION (EX) - 2ND LEVEL
+### Favored Augmentation (EX) - 2ND Level
 
 Select one system of the body for which you can acquire augmentations. When you purchase and install an augmentation with an item level no greater than your character level into that system, you reduce the augmentation’s price by 50%.  
 
-### NESTED AUGMENTATIONS (EX) - 4TH LEVEL
+### Nested Augmentations (EX) - 4TH Level
 
 Whether it’s because your body is especially receptive to modification or you’re able to adjust your modifications to fit alongside one another, you can use more augmentations at once than other creatures can. You can install one additional augmentation into one system that already has an augmentation. You can have no more than two augmentations in that system, even if you have another ability that grants you a similar benefit.  
 
-### SUSTAINED BY SCIENCE (EX) - 6TH LEVEL
+### Sustained by Science (EX) - 6TH Level
 
 Your technological components from augmentations grant you extraordinary resilience. Whenever you spend one or more Resolve Points, you gain an equal number of charges as though your body were a battery with a maximum capacity equal to the number of augmentations you have. You can use these charges to power any device that you own, and any unused charges disappear at a rate of 1 charge per 10 minutes. This excess energy can be used only to directly power an object, and not to recharge a battery or item.
 
 When calculating how many Resolve Points you must spend to stabilize, subtract half your number of augmentations from your maximum Resolve Points. When you spend any Resolve Points to stabilize, you can also attempt a saving throw against one bleeding or burning condition affecting you against the effect’s original DC (or if there was no save, a Fortitude save equal to 10 + the source’s CR). If you succeed at the save, the condition ends.
 
-### OVERCLOCKED SYSTEMS (EX) - 9TH LEVEL
+### Overclocked Systems (EX) - 9TH Level
 
 The fusion between your natural form and your augmentations surpasses either’s intended limits. As a swift action, you can spend 1 Resolve Point to choose one personal upgrade you have and gain a temporary benefit based on the ability score it augments. The benefit increases based on the model type, treating mk 1 as 1, mk 2 as 2, and mk 3 as 3 for the purpose of calculating the effect. At 13th level you can gain the associated benefits for two of your personal upgrades, and at 17th level you can gain the associated benefits for up to three of your personal upgrades. These benefits last for a number of rounds equal to your character level.
 

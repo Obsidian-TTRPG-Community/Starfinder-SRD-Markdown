@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# ESPRASKA
+
+# Espraska
 
 > [!infobox|left n-th clean]
 >  [[Espraksa.png|Spielern zeigen!]]
@@ -21,35 +22,35 @@ An espraksa’s journey can last decades. Most return to Neeroon when they feel 
 **Ability Modifiers** +2 Wis, +2 Cha, -2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Espraksas are Medium humanoids with the espraksa subtype.  
 
-## ESPRAKSA MOVEMENT
+## Espraksa Movement
 
 Espraksas have a land speed of 30 feet and an extraordinary fly speed of 30 feet with average maneuverability.  
 
-## COLD INURED
+## Cold Inured
 
 An espraksa treats severe cold as cold and extreme cold as severe cold (see [Cold Dangers](https://aonsrd.com/Rules.aspx?ID=Environmental%20Rules&Category=Environment)).  
 
-## EMPATHIC
+## Empathic
 
 Espraksas gain a +2 racial bonus to Diplomacy and Sense Motive checks. They take a –2 penalty to saving throws against mind-affecting effects, but the DC of any mind-affecting effect they create is increased by 1.  
 
-## MULTICULTURAL
+## Multicultural
 
 Esprakas learn an additional language for every even-numbered rank gained in the Culture skill.  
 
-## NATURAL WEAPONS
+## Natural Weapons
 
 Espraksa are always considered armed. They can deal 1d3 lethal piercing damage with unarmed strikes and the attack doesn’t count as archaic. Espraksas gain a unique weapon specialization with their natural weapons at 3rd level, allowing them to add 1-1/2 × their character level to their damage rolls with their natural weapons (instead of just adding their character level, as usual).  
 
-## SNATCH
+## Snatch
 
 This functions as the [grab](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Grab) universal creature rule, except the espraksa must hit with two talon attacks during the same turn to grab. Only one talon must hit the target’s KAC + 4 (or + 13) to trigger the free grab (or pin), but both must hit.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 7 to 8 ft.   
 **Average Weight** 125 to 200 lbs.   

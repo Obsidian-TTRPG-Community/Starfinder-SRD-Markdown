@@ -7,7 +7,7 @@ _SFS Note: When you create a dragonkin character, you may select another player'
 
 [[Species_Dragonkin.png|Zeigen!]]
 A dragonkin adventurer may choose not to form a partner bond, or they may choose to form one later in their adventuring career. Once a partner is selected, they may not be replaced unless they are permanently slain._  
-**Source** _Interstellar Species pg. 64_  
+**Source**:: _Interstellar Species pg. 64_  
 Dragonkin are native to the sixth planet in the Pact World system, Triaxus, a tumultuous world of grueling seasons and dangerous environs. Most live bonded to a non-dragonkin partner, using a traditional ritual that creates nigh-unbreakable personal ties that last a lifetime. This connection manifests as reciprocal telepathy, complimentary movements, and other tactical advantages. With the ability to fly and breathe a cone of energy, dragonkin can be quite intimidating to their enemies. Allies know them to be fiercely loyal, empathetic, and adaptable. Like their true dragon cousins, they have the strength and intelligence to face nearly any task, and dragonkin enjoy a variety of occupations throughout the Pact Worlds.  
   
 **Ability Modifiers** +4 Str, -2 Dex  
@@ -94,18 +94,18 @@ Some sample dragonkin names include Gavvixen, Sozrynn, Estrikkon, Dragattsuu, Ra
 
 # Alternate Racial Traits
 
-**Source** _Interstellar Species pg. 67_  
+**Source**:: _Interstellar Species pg. 67_  
 Like any species, dragonkin have traveled far from their native Triaxus and can be found everywhere across the galaxy. Through genetic manipulation, magic, and technology, modern dragonkin often choose to modify their bodies. These changes might be reflected in body type, scale color, or the plumes of energy released by their natural breath weapons.  
 Their innate characteristics are just as variable as their cultures and beliefs. Some dragonkin tower to great heights while others are small by comparison. Some are completely wingless, while others display unusual scale colors that match their temperaments and the energy unleashed by their breath weapons. The following options are appropriate for dragonkin PCs but might be available to other characters at the GM's discretion.
 
 ## ! Compact Form
 
-**Source** _Interstellar Species pg. 67_  
+**Source**:: _Interstellar Species pg. 67_  
 **Prerequisite:** flight species trait  
 **Benefit:** Some dragonkin genetically modify themselves to have smaller, wingless bodies capable of maneuvering through narrow starship corridors. You gain the Tight Fit feat. This replaces flight.
 
 ## ! Variant Breath Weapon
 
-**Source** _Interstellar Species pg. 67_  
+**Source**:: _Interstellar Species pg. 67_  
 **Prerequisite:** breath weapon species trait  
 **Benefit:** At character creation, choose one of the following damage types: acid, bludgeoning, cold, electricity, fire, piercing, slashing, or sonic. Your breath weapon always deals that type of damage.

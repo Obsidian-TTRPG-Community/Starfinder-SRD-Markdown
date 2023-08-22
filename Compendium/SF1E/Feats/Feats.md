@@ -2,17 +2,18 @@
 aliases: 
 tags: 
 ---
-# FEATS
 
-# PREREQUISITES
+# Feats
+
+# Prerequisites
 
 Some feats have prerequisites. A character must have each indicated ability score, feat, base attack bonus, skill, class feature, and other listed quality in order to select or use that feat. She can gain a feat at the same level at which she gains its prerequisites. A character can’t use a feat if she loses a prerequisite, but she doesn’t lose the feat itself. If at a later time she regains the lost prerequisite, she immediately regains full use of the feat that prerequisite enables.
 
-# COMBAT FEATS
+# Combat Feats
 
 Most feats are general, meaning that no special rules govern them as a group. Others are combat feats, which are feats that can be selected as a bonus feat by a soldier. This designation doesn’t restrict characters of other classes from selecting these feats, assuming that they meet the prerequisites.
 
-## FEAT DESCRIPTIONS
+## Feat Descriptions
 
 In the below table, the prerequisites and benefits of the feats are abbreviated for ease of reference. See the specific feat for its full details. The following format is used for all feat descriptions.
 

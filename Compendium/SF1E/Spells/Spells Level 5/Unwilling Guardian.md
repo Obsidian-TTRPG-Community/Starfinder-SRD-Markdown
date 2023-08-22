@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# UNWILLING GUARDIAN
 
-**Source** _Starfinder Core Rulebook pg. 383_  
-**Classes** Technomancer 5, Witchwarper 5  
-**School** enchantment (compulsion, mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./level)  
-**Targets** one creature with CR lower than your level; see text  
-**Duration** 1 round/level (D)  
-**Saving Throw** Will negates; **Spell Resistance** yes
+# Unwilling Guardian
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 383_  
+**Classes**:: Technomancer 5, Witchwarper 5  
+**School**:: enchantment (compulsion, mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./level)  
+**Targets**:: one creature with CR lower than your level; see text  
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 Your overwhelming presence bores into the target’s mind, cowing its will. This turns it into an automaton-like guardian that protects you at all costs. As soon as it is able, the target mindlessly moves along the most direct route toward you and stops when it is within 10 feet of you (provoking attacks of opportunity for movement as normal). If you are being attacked in melee by a creature within 10 feet, the target instead takes the quickest route to intercept that creature from a square within 10 feet of you and attack it on your behalf.
 

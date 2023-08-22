@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# SHADOW WALK
 
-**Source** _Starfinder Core Rulebook pg. 376_  
-**Classes** Mystic 6, Technomancer 6, Witchwarper 6  
-**School** illusion (shadow)  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** up to one Medium creature or vehicle/level  
-**Duration** 1 hour/level (D)  
-**Saving Throw** Will negates (object); **Spell Resistance** yes (object)
+# Shadow Walk
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 376_  
+**Classes**:: Mystic 6, Technomancer 6, Witchwarper 6  
+**School**:: illusion (shadow)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: up to one Medium creature or vehicle/level  
+**Duration**:: 1 hour/level (D)  
+**Saving-Throw**:: Will negates (object);
+**Spell Resistance**:: yes (object)
+
+## Description
 
 To use _shadow walk_, you must be in an area of dim light. You and any creature or vehicle you touch are then transported along a coiling path of shadowstuff to the edge of the Material Plane where it borders the Plane of Shadow. The effect is largely illusory, but the path is quasi-real.
 

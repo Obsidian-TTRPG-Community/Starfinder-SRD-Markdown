@@ -5,7 +5,9 @@ tags:
 Tier: 16
 Type: Gargantuan carrier 
 ---
-# INHERITORWORKS CATHEDRALSHIP
+
+# Inheritorworks Cathedralship
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksCathedralship.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Gargantuan carrier, **Tier** 16
 **Attack (Turret)** laser net (2d6), laser net (2d6)  
 **Power Core** Gateway Ultra (500 PCU); **Drift Engine** Signal Basic; **Systems** advanced long-range sensors, crew quarters (common), mk 5 duonode computer, mk 10 defenses, mk 11 armor; **Expansion Bays** hangar bays (2), medical bay, tech workshop; **Modifiers** +5 any two checks per round, +4 Computers;; **Complement** 145
 
-### CREW
+### Crew
 
 **Captain (plus 1 officer)** Computers +32 (16 ranks), Diplomacy +33 (16 ranks), Engineering +28 (16 ranks), gunnery +25, Intimidate +33 (16 ranks), Piloting +28 (16 ranks)  
 **Engineers (4 officers, 14 crew each)** Engineering +33 (16 ranks)  
@@ -28,6 +30,6 @@ Gargantuan carrier, **Tier** 16
 **Pilot (1 officer, 10 crew)** Piloting +33 (16 ranks)  
 **Science Officers (6 officers, 5 crew each)** Computers +37 (16 ranks)
 
-## DESCRIPTION
+## Description
 
 Massive, grandiose vessels, the Inheritorworks Cathedralships are the pride of the Iomedaean navy. In addition to being capable of carrying 16 Brightswords within its hangars, a Cathedralship has the capital weaponry to be a formidable foe in its own right.

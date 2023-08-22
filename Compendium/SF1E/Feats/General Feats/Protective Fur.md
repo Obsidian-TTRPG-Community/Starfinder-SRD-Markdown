@@ -5,8 +5,10 @@ Prerequisites: Skittermander or ysoki.
 tags: 
 Type: General Feat
 ---
-# PROTECTIVE FUR
-**Source** _Character Operations Manual pg. 117_  
+
+# Protective Fur
+
+**Source**:: _Character Operations Manual pg. 117_  
 Your thick fur protects you from certain environmental hazards and makes you resistant to some types of poisons.
 
 **Prerequisites**: Skittermander or ysoki.

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# MYSTIC CLASS BUILDS
+
+# Mystic Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,113 +16,113 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# CRUSADER CHAPLAIN
+# Crusader Chaplain
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** _Starfinder Core Rulebook pg. 90_
+**Source**:: _Starfinder Core Rulebook pg. 90_
 Your divine power keeps you and your fellow crusaders fighting for the glory of your god.
 
-## ABILITY SCORES
+## Ability Scores
 
 Wisdom is important because it enhances your spells and abilities and allows you to heal more, but you want to keep your Dexterity or Strength equal or higher, depending on your weapon.
 
-## CONNECTION
+## Connection
 
 Healer
 
-## SPELLS
+## Spells
 
 Reflecting Armor (1st), Shield Other (2nd), Haste (3rd), Death Ward (4th), Mass Mystic Cure (5th), Psychic Surgery (6th)
 
-## FEATS
+## Feats
 
 Advanced Melee Weapon Proficiency or Longarm Proficiency, Extra Resolve, Harm Undead, Heavy Armor Proficiency, Weapon Specialization (advanced melee weapons or longarms)
 
-## SKILLS
+## Skills
 
 Intimidate, Medicine, Mysticism  
   
 
-# EMPATH
+# Empath
 
-## THEME: PRIEST
+## Theme: Priest
 
-**Source** _Starfinder Core Rulebook pg. 90_
+**Source**:: _Starfinder Core Rulebook pg. 90_
 You are highly attuned to the emotional states of others, and you often help them work through their troubles.
 
-## ABILITY SCORES
+## Ability Scores
 
 Wisdom is your most important ability score because it enhances your spells, abilities, and skills. A high Dexterity helps you stay out of harm’s way.
 
-## CONNECTION
+## Connection
 
 Empath
 
-## SPELLS
+## Spells
 
 Share Language (1st), Status (2nd), Suggestion (3rd), Discern Lies (4th), Modify Memory (5th), Subjective Reality (6th)
 
-## FEATS
+## Feats
 
 Combat Casting, Skill Focus (Sense Motive), Spell Focus
 
-## SKILLS
+## Skills
 
 Mysticism, Perception, Sense Motive  
   
 
-# STAR SHAMAN
+# Star Shaman
 
-## THEME: SPACEFARER
+## Theme: Spacefarer
 
-**Source** _Starfinder Core Rulebook pg. 91_
+**Source**:: _Starfinder Core Rulebook pg. 91_
 You feel most at home bathed in starlight, traveling throughout the galaxy for your own mysterious purposes.
 
-## ABILITY SCORES
+## Ability Scores
 
 Wisdom is your highest ability score because it enhances your spells and abilities, and Constitution enhances your staying power.
 
-## CONNECTION
+## Connection
 
 Star Shaman
 
-## SPELLS
+## Spells
 
 Wisp Ally (1st), Hurl Forcedisk (2nd), Dispel Magic (3rd), Cosmic Eddy (4th), Call Cosmos (5th), Gravitational Singularity (6th)
 
-## FEATS
+## Feats
 
 Great Fortitude, Improved Great Fortitude, Spell Focus, Toughness
 
-## SKILLS
+## Skills
 
 Mysticism, Perception, Piloting  
   
 
-# XENODRUID
+# Xenodruid
 
-## THEME: XENOSEEKER
+## Theme: Xenoseeker
 
-**Source** _Starfinder Core Rulebook pg. 91_
+**Source**:: _Starfinder Core Rulebook pg. 91_
 You take inspiration from all life, no matter how strange or alien, and see it as sacred.
 
-## ABILITY SCORES
+## Ability Scores
 
 Wisdom is your most important ability score because it enhances your spells and abilities, while Dexterity increases your Armor Class and allows you to take certain feats.
 
-## CONNECTION
+## Connection
 
 Xenodruid
 
-## SPELLS
+## Spells
 
 Share Language (1st), Spider Climb (2nd), Tongues (3rd), Cosmic Eddy (4th), Telepathy (5th), Enshrining Refuge (6th)
 
-## FEATS
+## Feats
 
 Enhanced Resistance, Nimble Moves, Spell Focus
 
-## SKILLS
+## Skills
 
 Life Science, Mysticism, Survival

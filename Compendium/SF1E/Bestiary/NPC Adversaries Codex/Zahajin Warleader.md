@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ZAHAJIN WARLEADER
 
+# Zahajin Warleader
 
 **XP 1,200**  
 Zahajin soldier  

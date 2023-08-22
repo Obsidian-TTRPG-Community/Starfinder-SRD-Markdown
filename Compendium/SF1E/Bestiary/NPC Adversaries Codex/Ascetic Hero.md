@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ASCETIC HERO
+
+# Ascetic Hero
 
 **XP 38,400**  
 Human soldier  

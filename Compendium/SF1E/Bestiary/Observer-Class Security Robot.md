@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Observer-Class Security Robot
+# Observer-class Security Robot
 
 - [cr::1]
 - [combatType::combatant]

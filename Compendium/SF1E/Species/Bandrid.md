@@ -2,10 +2,10 @@
 aliases: 
 tags: 
 ---
-# BANDRID
+
+# Bandrid
 
 > [!infobox|left]
->  [[Bandrid.png|Spielern zeigen!]]
 > 
 Until recently, the small Liavaran shepherd moon named Hibb was believed to be uninhabited. With rolling hills covered in stubby grasslike protrusions and very few bodies of water, Hibb held little of interest for explorers. The moon’s lack of natural resources and the pervasive stench that issued from the ground, which no manner of filtration could suppress, further contributed to Hibb not being colonized by the barathus— or anyone else in the Pact Worlds, for that matter.  
   
@@ -22,55 +22,55 @@ Bantrids have no gender and reproduce via a form of budding that creates tiny ba
 **Ability Modifiers** +2 Dex, +2 Con, -2 Int  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Bantrids are Small aberrations.  
 
-## ANOSMATIC
+## Anosmatic
 
 Bantrids have no sense of smell and are immune to sense-dependent effects that rely on smell.  
 
-## BALANCED
+## Balanced
 
 Bantrids receive a +2 racial bonus to AC against trip combat maneuvers and can stand up from prone as a swift action.  
 
-## DAREDEVIL
+## Daredevil
 
 Bantrids receive a +2 racial bonus to Acrobatics checks.  
 
-## DARKVISION
+## Darkvision
 
 Bantrids can see up to 60 feet in the dark.  
 
-## SWIFT
+## Swift
 
 Bantrids have a land speed of 40 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 3-4 ft.  
 **Average Weight** 70-100 lbs.  
 **Age of Maturity** 8 years  
 **Maximum Age** 70+2d20 years
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Starfinder #31: Waking the Worldseed pg. 53_](https://paizo.com/products/btq022cf?Starfinder-Adventure-Path-31-Waking-the-Worldseed)  
 Some bantrids move in particularly unusual ways.
 
-## HOLLOW ORB
+## Hollow Orb
 
 **Source** [_Starfinder #31: Waking the Worldseed pg. 53_](https://paizo.com/products/btq022cf?Starfinder-Adventure-Path-31-Waking-the-Worldseed)  
 By changing their diet, bantrids can cause their foot-orb to gain hollow, honeycomb-like cells throughout its structure. These bantrids are faster and float more easily in water, but the extra speed comes with a loss of fine control. These bantrids’ land speed increases to 50 feet, and they gain a +2 racial bonus to Athletics checks to swim.  
 This replaces balanced, daredevil, and swift.
 
-## HOTSHOT
+## Hotshot
 
 **Source** [_Starfinder #31: Waking the Worldseed pg. 53_](https://paizo.com/products/btq022cf?Starfinder-Adventure-Path-31-Waking-the-Worldseed)  
 Bantrids have a natural skill for moving carefully at high speeds. With a bit of practice, this makes them magnificent pilots and drivers. Bantrids with this trait gain a +2 racial bonus to Piloting checks.  
 This replaces balanced.
 
-## MAGNETIC ORB
+## Magnetic Orb
 
 **Source** [_Starfinder #31: Waking the Worldseed pg. 53_](https://paizo.com/products/btq022cf?Starfinder-Adventure-Path-31-Waking-the-Worldseed)  
 With proper diet and medication, bantrids can give their footorb a metallic, magnetic core. After sufficient practice, they can direct this magnetic force or even invert it so they can roll along metal walls or ceilings. They gain a climb speed of 30 feet that they can use only on metallic surfaces, and can move across metal surfaces at their land speed, even in zero gravity. They also gain a +2 racial bonus to KAC against bull rush and trip combat maneuvers when standing on a metal surface. Magnetic orbs are heavier than the typical bantrid foot-orb, and the land speed of these bantrids is reduced to 30 feet.  

@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# BIL’DJOOLI HUNTER-KILLER
+
+# BIL’DJOOLI Hunter-killer
+
 **XP 25,600**  
 Bil’djool operative  
 LE Medium aberration (aquatic, bil’djooli)  
@@ -47,19 +49,19 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### CONTAMINATION (EX)
+#### Contamination (EX)
 
 As a bil’djooli elite soldier, but the save DC is 21.
 
-#### GLIMPSE THE TRUTH (EX)
+#### Glimpse the Truth (EX)
 
 This functions as the operative exploit of the same name, save that the bil’djooli hunter- killer may use it five times per day before requiring an 8–hour rest to use it again.
 
-#### JET (EX)
+#### Jet (EX)
 
 As a bil’djooli elite soldier.
 
-#### PHASE SHIFT ESCAPE (EX)
+#### Phase Shift Escape (EX)
 
 A bil’djooli hunter-killer can move through solid matter by converting their matter into out of phase energy for just a moment. As a full action, the bil’djooli can phase through up to 10 feet of solid matter, leaving a clearly visible black stain. This otherwise functions as the operative specialization power of the same name.
 

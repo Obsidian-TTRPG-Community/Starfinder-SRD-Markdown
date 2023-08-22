@@ -5,8 +5,10 @@ Prerequisites: Racial bonus to Dexterity, size Small.
 tags: 
 Type: General Feat
 ---
-# SCURRY
-**Source** _Character Operations Manual pg. 29_  
+
+# Scurry
+
+**Source**:: _Character Operations Manual pg. 29_  
 Your small size affords you superior tactical positioning.
 
 **Prerequisites**: Racial bonus to Dexterity, size Small.

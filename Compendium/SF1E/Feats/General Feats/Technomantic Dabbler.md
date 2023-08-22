@@ -5,8 +5,10 @@ Prerequisites: Intelligence 15, character level 5th, no levels in technomancer.
 tags: 
 Type: General Feat
 ---
-# TECHNOMANTIC DABBLER
-**Source** _Starfinder Core Rulebook pg. 163_  
+
+# Technomantic Dabbler
+
+**Source**:: _Starfinder Core Rulebook pg. 163_  
 You dabble with coding in the language of magic.
 
 **Prerequisites**: Intelligence 15, character level 5th, no levels in technomancer.

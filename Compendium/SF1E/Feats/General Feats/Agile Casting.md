@@ -5,8 +5,10 @@ Prerequisites: Key ability score 15, Dex 15, Mobility, caster level 4th.
 tags: 
 Type: General Feat
 ---
-# AGILE CASTING
-**Source** _Starfinder Core Rulebook pg. 155_  
+
+# Agile Casting
+
+**Source**:: _Starfinder Core Rulebook pg. 155_  
 You can move, cast a spell, and move again before foes react.
 
 **Prerequisites**: Key ability score 15, Dex 15, Mobility, caster level 4th.

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# AFFLICTIONS
+
+# Afflictions
 
 [[Curses]], [[Diseases]], [[Drugs]], and [[Poisons]] can all have effects on a character that continue long past the character’s first exposure. This deterioration in physical or mental health is often represented by what is called a “progression track.” [[Diseases]] and [[Poisons]] each have default progression tracks whose steps have specific rules consequences; [[Drugs]] use the relevant poison track (for example, [[Drugs]] that affect Wisdom use the Wisdom poison track). Some specific afflictions have their own unique progression tracks defined in their stat blocks. [[Curses]] generally do not use progression tracks—their effects continue until they’re cured without progressing through stages.
 

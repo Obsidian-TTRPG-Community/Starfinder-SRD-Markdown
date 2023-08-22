@@ -5,9 +5,10 @@ Prerequisites: At least one spell-like ability that is a level-0 or 1st-level sp
 tags: 
 Type: General Feat
 ---
-#  IMPROVED SPELL-LIKE ABILITY
 
-**Source** _Near Space pg. 131_  
+# Improved Spell-like Ability
+
+**Source**:: _Near Space pg. 131_  
 You have focused on honing your innate magical talents.
 
 **Prerequisites**: At least one spell-like ability that is a level-0 or 1st-level spell, character level 4th.

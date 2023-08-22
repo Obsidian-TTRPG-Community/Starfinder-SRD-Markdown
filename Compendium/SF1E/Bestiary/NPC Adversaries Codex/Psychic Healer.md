@@ -10,7 +10,9 @@ Subtype: Medical Staff
 tags: 
 Type: Bestiary NPC
 ---
-# PSYCHIC HEALER
+
+# Psychic Healer
+
 In many societies, practicing medicine requires extensive (and often formal) education and even certification. Yet the galaxy is a big, dangerous place, and some of the best healers are self-taught, work outside of official networks, or both. Altruism, prestige, or profit motivate most medics to provide life-saving care. However, medics can be villains, with criminals, charlatans, and unethical innovators willing to provide risky surgeries, experimental drugs, or cure-all placebos for the right price.
 
 **CR** 9
@@ -19,13 +21,13 @@ Uplifted bear
 CG Large magical beast  
 **Init** +0; **Senses** low-light vision; **Perception** +22  
 
-### DEFENSE
+### Defense
 
 **HP** 120  
 **EAC** 21; **KAC** 22  
 **Fort** +10; **Ref** +10; **Will** +12; +4 vs. curses  
 
-### OFFENSE
+### Offense
 
 **Speed** 40 ft., climb 20 ft.  
 **Melee** claw +18 (3d4+13 S)  
@@ -36,7 +38,7 @@ CG Large magical beast
 2nd (6/day)—_hold person_ (DC 19), _lesser restoration_ (DC 19), _mystic cure_ (DC 19), _status_ (DC 19)  
 1st (at will)—_command_ (DC 18), _lesser remove condition_, _mystic cure_ (DC 18)
 
-### STATISTICS
+### Statistics
 
 **STR** +4; **DEX** +0; **CON** +0; **INT** +2; **WIS** +6; **CHA** +2  
 **Skills** Bluff +22, Medicine +17, Mysticism +22  
@@ -44,12 +46,12 @@ CG Large magical beast
 **Other Abilities** soothing magic  
 **Gear** lashunta mind mail I, rime subduer with 2 batteries (20 charges each), _mk 3 serum of healing_, advanced medkit
 
-### ECOLOGY
+### Ecology
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Soothing Magic (Su)** When a psychic healer restores Hit Points to a creature, the target also gains a +2 morale bonus to their next saving throw against a curse, mind-affecting, or pain effect attempted in the next 10 minutes.
 
-## DESCRIPTION
+## Description
 
 Psychic healers use magic to unravel curses, banish malevolent spirits, and burn away diseases. These miraculous remedies can make psychic healers into self-serving celebrities or cult leaders. Others are hermits or iconoclasts who disdain social obligations and demand potential clients prove their worth.

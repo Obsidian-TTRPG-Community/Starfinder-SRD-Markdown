@@ -5,8 +5,10 @@ Prerequisites: Con 13.
 tags: 
 Type: General Feat
 ---
-# ENVIRONMENTAL ADAPTATION
-**Source** _Character Operations Manual pg. 114_  
+
+# Environmental Adaptation
+
+**Source**:: _Character Operations Manual pg. 114_  
 You are acclimated to a broad range of environments.
 
 **Prerequisites**: Con 13.

@@ -5,7 +5,9 @@ tags:
 Tier: 3
 Type: Medium explorer
 ---
-# REDSHIFT PLEASURE SAIL
+
+# Redshift Pleasure Sail
+
 > [!infobox|locr n-th clean]
 >  [[Starship_RedshiftPleasureSail.jpg|Spielern zeigen!]]
 > 
@@ -21,13 +23,13 @@ Medium explorer, **Tier** 3
 **Attack (Turret)** flak thrower (3d4)  
 **Power Core** Pulse Green (150 PCU); **Drift Engine** none; **Systems** basic computer, basic short-range sensors, crew quarters (common), mk 5 armor, mk 5 defenses; **Expansion Bays** escape pods, guest quarters (good), recreation suites (HAC, trivid den); **Modifiers** +2 Computers; **Complement** 4
 
-### CREW
+### Crew
 
 **Captain** Computers +15 (3 ranks), Diplomacy +13 (3 ranks), Piloting +8 (3 ranks)  
 **Engineer** Engineering +13 (3 ranks)  
 **Gunner** gunnery +10  
 **Pilot** Piloting +13 (3 ranks)
 
-## DESCRIPTION
+## Description
 
 The most striking feature of a Redshift Pleasure Sail—its enormous solar sail—is more of a throwback to its original, antiquated design than an actually functional system. These luxury vessels are popular with the Pact Worlds' rich and powerful.

@@ -5,7 +5,9 @@ tags:
 Tier: 1
 Type: Tiny Fighter 
 ---
-# INFERNEX BURNING NAIL
+
+# Infernex Burning Nail
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InfernexBurningNail.jpg|Spielern zeigen!]]
 > 
@@ -18,10 +20,10 @@ Tiny fighter, **Tier** 1
 **Attack (Aft)** coilgun (4d4)  
 **Power Core** Micron Ultra (80 PCU); **Drift Engine** none; **Systems** basic short-range sensors, mk1 mononode computer, mk 2 defenses, mk 3 armor; **Expansion Bays** none; **Modifiers** +1 any one check per round, +2 Computers, +1 Piloting; **Complement** 1
 
-### CREW
+### Crew
 
 **Pilot** Computers +7 (1 rank), gunnery +5, Piloting +10 (1 rank)
 
-## DESCRIPTION
+## Description
 
 A standard fighter in the Hellknight navy, an Infernex Burning Nail offers both speed and firepower, though its lack of port and starboard weapons is a known weakness. Burning Nail pilots are trained to compensate for this flaw by employing daring piloting maneuvers.

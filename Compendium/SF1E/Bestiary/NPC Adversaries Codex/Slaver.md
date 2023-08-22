@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# SLAVER
+
+# Slaver
+
 **XP 800**  
 Human soldier  
 NE Medium humanoid (human)  

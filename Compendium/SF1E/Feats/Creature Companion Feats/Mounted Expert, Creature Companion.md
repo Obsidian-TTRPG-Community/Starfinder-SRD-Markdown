@@ -5,8 +5,10 @@ Prerequisites: Combat-Trained Mount, Survival 5 ranks.
 tags: 
 Type: Creature Companion Feat
 ---
-# MOUNTED EXPERT (CREATURE COMPANION)
-**Source** _Alien Archive 3 pg. 140_  
+
+# Mounted Expert (CREATURE COMPANION)
+
+**Source**:: _Alien Archive 3 pg. 140_  
 While mounted, you exhibit exceptional control over not just your creature companion but also yourself.
 
 **Prerequisites**: Combat-Trained Mount, Survival 5 ranks.

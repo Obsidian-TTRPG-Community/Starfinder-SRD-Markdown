@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ANCIENT HIGH PRIESTESS
+
+# Ancient High Priestess
+
 **XP 51,200**  
 Human mystic  
 N Medium humanoid (human)  
@@ -53,11 +55,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### BLOOD OF HEROES (SU)
+#### Blood of Heroes (SU)
 
 Three times per day as a move action, the kalmoc oracle can summon the strength of her ancestors to bolster her own power. She receives a +3 morale bonus on attacks, damage rolls, and +3 to her saving throws against fear effects. These benefits last for 5 rounds.
 
-#### SPIRIT WALK (SU)
+#### Spirit Walk (SU)
 
 Twice per day as a standard action, the kalmoc oracle may become incorporeal and invisible. In this form, she can move in any direction and pass through solid objects. She can take no other action other than to move while in this form. She may remain in this form for 15 rounds but may end it prematurely as a standard action.
 

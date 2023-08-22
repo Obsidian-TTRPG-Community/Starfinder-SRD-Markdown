@@ -5,8 +5,10 @@ Prerequisites: Any racial trait or feat that grants a d20 reroll, character leve
 tags: 
 Type: General Feat
 ---
-# SPOT OF LUCK
-**Source** _Character Operations Manual pg. 32_  
+
+# Spot of Luck
+
+**Source**:: _Character Operations Manual pg. 32_  
 When escaping tight spots, you defy the odds.
 
 **Prerequisites**: Any racial trait or feat that grants a d20 reroll, character level 5th.

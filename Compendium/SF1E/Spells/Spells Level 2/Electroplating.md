@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# ELECTROPLATING
 
-**Source** _Starfinder Armory pg. 157_  
-**Classes** Technomancer 2  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** close  
-**Targets** one melee or projectile weapon/level, no two of which can be more than 30 ft. apart; see text  
-**Duration** 1 round/level  
-**Saving Throw** Fortitude negates (harmless, object); **Spell Resistance** yes (object)
+# Electroplating
 
-## DESCRIPTION
+**Source**:: _Starfinder Armory pg. 157_  
+**Classes**:: Technomancer 2  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: close  
+**Targets**:: one melee or projectile weapon/level, no two of which can be more than 30 ft. apart; see text  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: Fortitude negates (harmless, object);
+**Spell Resistance**:: yes (object)
+
+## Description
 
 When you cast this spell, you create a temporary quantity of silver in a cloud of charged nanoparticles, which you then direct to coat nearby melee or projectile weapons. The target weapons must deal bludgeoning, piercing, or slashing damage or the spell has no effect. For the spell’s duration, the metal plating on the weapons grants them the ability to overcome DR/silver and bypass DR/magic for the spell’s duration.
 

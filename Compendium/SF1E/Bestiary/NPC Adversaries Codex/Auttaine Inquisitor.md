@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# AUTTAINE INQUISITOR
+
+# Auttaine Inquisitor
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 19,200**  

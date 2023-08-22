@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## BLINDSIGHT
+
+## Blindsight
 
 Blindsight is a precise nonvisual sense (or a combination of senses; see page 260) that functions as a more potent version of blindsense. Blindsight operates out to a range specified in the creature’s description.
 

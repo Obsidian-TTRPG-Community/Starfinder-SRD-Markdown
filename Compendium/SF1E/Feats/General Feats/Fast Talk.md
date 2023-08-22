@@ -5,8 +5,10 @@ Prerequisites: Bluff 5 ranks.
 tags: 
 Type: General Feat
 ---
-# FAST TALK
-**Source** _Starfinder Core Rulebook pg. 157_  
+
+# Fast Talk
+
+**Source**:: _Starfinder Core Rulebook pg. 157_  
 You can baffle a foe with chatter to disguise the start of battle.
 
 **Prerequisites**: Bluff 5 ranks.

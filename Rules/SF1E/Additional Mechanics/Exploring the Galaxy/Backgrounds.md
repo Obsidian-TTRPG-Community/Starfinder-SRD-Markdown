@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# BACKGROUNDS
+
+# Backgrounds
 
 **Source** _Galaxy Exploration Manual pg. 9_  
 A character’s home world, life experiences, and relationships can greatly affect their personality and how they interact with the people, places, and situations they encounter. A shirren operative raised on a tranquil nature preserve might be more chipper than if that same character grew up on a planet engaged in interstellar war, or was falsely imprisoned, or regularly consorted with demons. Fleshing out a character’s background can make it easier to understand their motives and get invested in roleplaying them—even just a few details can breathe life into a character, making them more than just a name with statistics. Players are encouraged to work with their GM to integrate the story elements, plot hooks, and important actors of their character’s background into the broader campaign.  
@@ -11,13 +12,13 @@ The following tables contain a variety of narrative-focused, open-ended ideas in
   
 Players are encouraged to use other parts of this book (such as the world-creation system in Chapter 2 and the NPC, Settlement, and Starship Toolboxes starting on page 148) to further detail their associates, families, and homes. Players can tie their characters to locations and organizations established in the Starfinder setting using information presented in the _Starfinder Core Rulebook_, _Starfinder Pact Worlds_, and _Starfinder Near Space_.  
 
-# STEP 1: HOME WORLD
+# Step 1: home World
 
 **Source** _Galaxy Exploration Manual pg. 9_  
 Every character has a home world or origin, whether they were born and raised there, migrated later in life, or fled from it. Every character has a unique place of origin, and some characters might even have more than one. The following table lists ideas for home worlds, including planets, space stations, and societies. Each entry contains a few detailed examples to inspire ideas. Steps for customizing aspects of a home world, such as its environment (atmosphere, biomes, gravity levels, flora, and fauna) or cultural attributes (accord, alignment, magic, religion, and technology) can be found in Chapter 2.  
   
 
-### PLACE OF ORIGIN
+### Place of Origin
 
 | D%     | Description                                                                                                                                                                                                                                                              |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,14 +51,14 @@ Every character has a home world or origin, whether they were born and raised th
 
   
 
-# STEP 2: MAJOR EVENT
+# Step 2: Major Event
 
 **Source** _Galaxy Exploration Manual pg. 10_  
 A character’s unique life experiences shape their personality, inspiring joy, challenging them with hardships, or burdening them with sorrow. Major events might propel a character toward their dreams or upend their life with hardships. The major events in a character’s life can have a significant impact on how they interact with others, as well as perceive themself.  
 The following table lists suggestions for major events your character could have experienced, alongside some examples to spark inspiration. Players are encouraged to customize these suggestions, taking into consideration how these events affected their character’s personality and motivations. Many events serve as catalysts that launch a character into the life of an adventurer. Players can select as many major events as they desire, with the GM’s approval.  
   
 
-### MAJOR EVENT
+### Major Event
 
 | D%     | Description                                                                                                                                                                                                                                                             |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -89,14 +90,14 @@ The following table lists suggestions for major events your character could have
 
   
 
-# STEP 3: INFLUENTIAL ASSOCIATE
+# Step 3: Influential Associate
 
 **Source** _Galaxy Exploration Manual pg. 11_  
 Throughout a character’s life, they’ll be influenced by other people: the people who raised them, inspired them, and hurt them; the people they confided in, competed with, and loved; and the people they fought with, squabbled over, or hurt in turn. This web of personalities pulls on everyone within it, influencing some, repelling others, and providing ample opportunity for adventure.  
 The following table lists influential associates your character might have acquired during their lives alongside suggestions for detailing each connection and the role they might serve in a campaign. These associates include allies, contacts, mentors, and foes. Players should determine the associate’s name, location, and relationship to their character and can use the NPC Toolbox on pages 148–149 to flesh out details. Players are encouraged to work with their GM to incorporate these associates into the wider campaign.  
   
 
-### INFLUENTIAL ASSOCIATE
+### Influential Associate
 
 | D%     | Description                                                                                                                                                                                                                                                                   |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -130,14 +131,14 @@ The following table lists influential associates your character might have acqui
 
   
 
-# STEP 4: PARTY RELATIONSHIPS
+# Step 4: Party Relationships
 
 **Source** _Galaxy Exploration Manual pg. 12_  
 The most important relationship in any campaign is that between the player characters. Building these relationships ahead of time can improve group cohesion and gives the characters reason to find solutions to disagreements and unite despite personality clashes.  
 The following table lists potential relationships your characters might have with one another. The group can select a single entry connecting the whole party, or each party member can choose relationships for as many party members as they wish. Players should select these relationships collaboratively and can customize entries as they see fit for their characters’ visions.  
   
 
-### PARTY RELATIONSHIP
+### Party Relationship
 
 | D%     | Description                                                                                                                                                                                                                                                                                     |
 | ------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

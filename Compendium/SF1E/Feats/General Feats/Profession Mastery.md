@@ -5,8 +5,10 @@ Prerequisites: Cha 13, Int 13, or Wis 13 (see text); Profession (any) 1 rank, cu
 tags: 
 Type: General Feat
 ---
-# PROFESSION MASTERY
-**Source** _Character Operations Manual pg. 25_  
+
+# Profession Mastery
+
+**Source**:: _Character Operations Manual pg. 25_  
 Your deep exploration of the multiple cultures has taught you to use your professional know-how to great effect.
 
 **Prerequisites**: Cha 13, Int 13, or Wis 13 (see text); Profession (any) 1 rank, cultural fascination racial trait.

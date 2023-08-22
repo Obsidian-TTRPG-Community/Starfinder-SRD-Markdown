@@ -5,8 +5,10 @@ Prerequisites: Spell Penetration.
 tags: 
 Type: General Feat
 ---
-# GREATER SPELL PENETRATION
-**Source** _Starfinder Core Rulebook pg. 157_  
+
+# Greater Spell Penetration
+
+**Source**:: _Starfinder Core Rulebook pg. 157_  
 Your spells break through spell resistance much more easily than most.
 
 **Prerequisites**: Spell Penetration.

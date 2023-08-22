@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Vampire, Jiang-Shi
+# Vampire, Jiang-shi
 
 - [cr::6]
 - [combatType::expert]

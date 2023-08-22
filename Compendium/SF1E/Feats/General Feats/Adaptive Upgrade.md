@@ -5,8 +5,10 @@ Prerequisites: Int 19, Engineering 10 ranks.
 tags: 
 Type: General Feat
 ---
-# ADAPTIVE UPGRADE
-**Source** _Character Operations Manual pg. 112_  
+
+# Adaptive Upgrade
+
+**Source**:: _Character Operations Manual pg. 112_  
 You have adjusted one of your armor upgrades to give yourself a few more options.
 
 **Prerequisites**: Int 19, Engineering 10 ranks.

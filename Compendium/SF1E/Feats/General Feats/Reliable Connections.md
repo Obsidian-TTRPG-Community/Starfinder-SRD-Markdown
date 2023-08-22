@@ -5,8 +5,10 @@ Prerequisites: Character level 5th.
 tags: 
 Type: General Feat
 ---
-# RELIABLE CONNECTIONS
-**Source** _Drift Crisis pg. 85_  
+
+# Reliable Connections
+
+**Source**:: _Drift Crisis pg. 85_  
 You can call in favors owed by various connections to get you the equipment you need in a pinch.
 
 **Prerequisites**: Character level 5th.

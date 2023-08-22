@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# PLAINS
+
+# Plains
 
 **Source** _Galaxy Exploration Manual pg. 76_  
 Some plains nestle against venerable mountain ranges or gently slope to meet a glittering sea. Rivers meander across rolling lowlands or carve deep paths through otherwise flattened landscapes. Volcanoes spawn irregular fields of long-cooled lava, and distant, jagged mountains ring isolated plateaus.  
@@ -12,28 +13,28 @@ Life native to the plains adapts to the wide-open spaces and difficult-to-avoid 
 The same conditions that create interesting evolutionary niches can cause trouble for adventurers, who must contend with bizarre storms and howling winds. The psychological elements can be just as difficult. Those unfamiliar with the plains and forced to spend long stretches of time there may become unnerved by isolation, the ever-receding horizon, or the ever-present wind. These same challenges likely make other features stand out all the more, be they solitary waystations or an unlikely social encounter. Other problems—and their causes— are of a larger scale, like ecological degradation from long-term resource extraction or smog settling over a heavily populated intermountain plateau.  
 Systemic problems usually mean sapient populations, and plains are natural population centers. Nomadic peoples follow herds of migratory beasts or windborne plants. Many such biomes are relatively easy to build on or cultivate for industrial agriculture; a busy plains city might sit at the center of concentric rings of multicolored farmland. These cities can also make natural transit hubs, as many are positioned between other metropolises, often because plains peoples were a key part of a planet’s early trade networks. Those networks usually facilitated cultural exchange, meaning plains societies can be important sources of historical or archaeological records. Others might wage war across expansive and familiar terrain, using speed to compensate for a lack of defensible positions. These same conditions could instead lead a society to value diplomacy to defuse threats before they can fully coalesce.  
 
-## PLAINS ADVENTURERS
+## Plains Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 76_  
 Those hailing from plains regions are usually familiar with vast distances and long journeys. They might gain this knowledge in nomadic communities or by working long-haul shipping. Yearly on-foot sojourns across lush subtropical grasslands likely lead to aptitude for Athletics, while hours in the cockpit of a hoverhauler imparts knowledge of Piloting. Some are experienced at reading the sprawling horizon for weather signs. Others earn their livelihoods from the land itself through hunting prairie game or investigating a planet’s natural resources. Both categories make good use of the Survival skill. Resource seekers can be botanists, geologists, surveyors, and other professions that require Life Science and Physical Science skills. The Culture skill helps historians, diplomats, and archeologists; many arable plains make ideal population centers or facilitate transportation and cultural exchange. Given many plains’ lack of easily defensible positions—or the simple need to spot water, food, or shelter— plains adventurers are likely proficient in Perception. Lastly, many cultures have used plains for representing grand figures or establishing striking monuments; such devotees are almost certainly skilled in Mysticism.  
 
-## PLAINS WORLDS
+## Plains Worlds
 
 **Source** _Galaxy Exploration Manual pg. 77_  
 Many plains worlds are likely created by the same forces that form typical plains, but on a global scale. A planet’s molten core may have vented long ago, covering the surface in smooth layers of lava rock, or an atmospheric anomaly might have evaporated a formerly oceanic world’s surface water. Perhaps melt or glaciation from polar ice caps takes the places of alluvial plains. Origins might be stranger still, such as a rhizome hive mind that shapes the world to its needs or an extraplanetary gravitational force that flattened great portions of a world.  
 Shared origin doesn’t have to mean a uniform surface. Uninterrupted wind currents are likely a large part of plains-world ecology, carrying seeds, soil, or even fauna across the globe. These might leave clear physical markers, such as windborne seeds that take root in colossal rivers of plant life that in turn attract migrating herds. The same winds likely interact with the planet’s axial tilt and temperature bands to produce diverse regions; it’s perfectly feasible for arid grasslands, tree-studded savannas, and tundras of bioluminescent lichens to exist on the same largely flat world. Lakes, rivers, and underwater aquifers likewise influence surrounding regions. For instance, subterranean water or a reservoir of homogeneous biomass would enable lush surface growth.  
 
-## PLAINS RULES AND REFERENCE
+## Plains Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 77_  
 River erosion can hide aquatic dangers or create chasms through long erosion, and alpine plains and plateaus might have high altitude conditions; rules for each of these environments can be found on pages 396–397 of the Core Rulebook. With wide open spaces and relatively few features, the storm and wind rules on pages 398–400 of the Core Rulebook can be important factors in a plains adventure. That same expansiveness makes the biome a natural fit for vehicle-based encounters and scenes. The Core Rulebook’s vehicle tactical rules begin on page 278, and vehicle chase rules begin on page 282. Long sight lines and a relative lack of obstacles provide the perfect sniper battleground; sniper weapons can be found on page 79 of this book, as well as in the Core Rulebook and Armory. The following Flip-Mats can be helpful aids for play in a variety of features found on plains: Starfinder Flip-Mat: Ice World, Pathfinder Flip-Mat Classics: Battlefield, Pathfinder Flip-Mat: Giant Lairs, and Pathfinder Flip-Mat Multi-Pack: Ambush Sites.  
 
-## PLAINS TOOLBOX
+## Plains Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 78_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### PLAINS INHABITANTS
+### Plains Inhabitants
 
 | D%     | Sapient          | Threat              |
 |--------|------------------|---------------------|
@@ -63,8 +64,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Vlaka            | Velstrac, anchorite |
 | 97–100 | Witchwyrd        | Void palm           |
 
-
-### PLAINS ADVENTURE HOOKS
+### Plains Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                                            |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -5,7 +5,9 @@ tags:
 Tier: 1/4
 Type: Tiny Racer
 ---
-# KLOKWORX DRONE
+
+# Klokworx Drone
+
 Tiny racer, **Tier** 1/4
 **Speed** 8; **Maneuverability** perfect (turn 0); **Drift** —  
 **AC** 13; **TL** 13  
@@ -14,11 +16,11 @@ Tiny racer, **Tier** 1/4
 **Attack (Turret)** coilgun (4d4)  
 **Power Core** Micron Light (50 PCU); **Drift Engine** none; **Systems** autodestruct system, basic computer, cut-rate short-range sensors, extra weapon mount (turret light); **Modifiers** +2 Piloting; **Complement** —
 
-### CREW
+### Crew
 
 **Captain (this is an automated ship; everything is run by the Onboard Computer instead of crew)** gunnery +3, Piloting +7 (1 rank)
 
-## DESCRIPTION
+## Description
 
 **Automated (Ex)** An Azlanti Klokworx drone has no crew. It has a specialized computer that can perform one pilot action in the helm phase and one gunnery action in the gunnery phase.  
   

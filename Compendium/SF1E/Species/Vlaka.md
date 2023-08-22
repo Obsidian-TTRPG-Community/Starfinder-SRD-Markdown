@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 142_  
+**Source**:: _Interstellar Species pg. 142_  
 
 [[Species_Vlaka.jpeg|Zeigen!]]
 The vlaka home world is dying. The already frigid planet Lajok orbits a fading sun and grows steadily colder each year. Eventually, not even the thick fur of the wolflike vlaka will be able to protect against its bitter chill. But until that day, the vlaka stand together. On a harsh world like Lajok, with a population who has different ways of physically experiencing the world around it, it takes community to survive, and vlakas view their many circles of trust—from family to social circles to crewmates—as both a source of strength and the key to their long-term survival.  
@@ -64,7 +64,7 @@ Within each city, streets and buildings are arranged in concentric rings, each c
   
 The separation of vlaka cities into rings is both a reflection of the important role circles of trust play within vlaka society and a holdover from the days when each city had its own area of expertise. While remnants of that history can still be seen today in the many libraries of Horjan or the repurposed hospitals of Tekir, the loss of years of scientific research with the fall of Falore led to a push for cities to include space for each major area of interest within their walls. Vlakas who can't find room to work within their preferred ring in their current city can either use this as motivation to move elsewhere or build down into the ground. The recent discovery of an extensive existing cave system beneath the city of Aarul has many vlakas debating whether and how this expansion by excavation should continue, with some wanting to preserve and explore the caves and others wanting to seal them off, concerned that further exploration might weaken the structural integrity of the buildings above.
 
-### The Space Between
+### The Space between
 
 While the vast majority of vlakas on Lajok live in cities, a few prefer to explore the frigid land outside of city walls, known as The Space Between. Their reasons vary—some search for new ways to use the planet's resources, some map sites for potential new cities, and still others mark the changes in the planet's climate from year to year. A few from the Circle of Journeys have even attempted to excavate the ruins of Falore in search of the knowledge lost beneath the ice. In recent years, though, many have turned away from overland exploration in favor of exploring the newly discovered Aarul caves, which may hold clues to vlakan survival during The Gap.  
 

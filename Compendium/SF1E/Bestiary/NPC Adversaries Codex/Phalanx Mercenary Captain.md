@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# PHALANX MERCENARY CAPTAIN
 
+# Phalanx Mercenary Captain
 
 **XP 9,600**  
 LN Medium humanoid (phalanx, aether)  

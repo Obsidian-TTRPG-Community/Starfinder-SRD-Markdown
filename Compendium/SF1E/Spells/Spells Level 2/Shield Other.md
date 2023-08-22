@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# SHIELD OTHER
 
-**Source** _Starfinder Core Rulebook pg. 377_  
-**Classes** Mystic 2, Precog 2  
-**School** abjuration  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one creature  
-**Duration** 1 hour/level (D)  
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+# Shield other
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 377_  
+**Classes**:: Mystic 2, Precog 2  
+**School**:: abjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one creature  
+**Duration**:: 1 hour/level (D)  
+**Saving-Throw**:: Will negates (harmless);
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 This spell wards the target and creates a mystic connection between you and the target so that some of its wounds are transferred to you. Casting this spell requires you to spend 1 Resolve Point. The target takes only half damage from all wounds and attacks (including those dealt by special abilities) that deal Hit Point damage, and you take the amount of damage not taken by the target. Only Hit Point damage is transferred in this manner; the target’s Stamina Points are damaged as normal. If you still have Stamina Points, you take the damage to your Stamina Points before Hit Points, as with normal damage.
 

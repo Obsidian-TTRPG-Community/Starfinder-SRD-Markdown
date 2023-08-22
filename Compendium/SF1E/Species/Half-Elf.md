@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# HALF-ELF
+# Half-elf
 
 > [!infobox|left n-th clean]
 >  [[Half-Elf.png|Spielern zeigen!]]
@@ -24,58 +24,58 @@ Most half-elves stand from 5-1/2 to 6-1/2 feet tall and weigh 100–200 pounds. 
 **Ability Modifiers** +2 to any one ability score  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Half-elves are Medium humanoids with both the elf and human subtypes.  
 
-## ADAPTABILITY
+## Adaptability
 
 Half-elves receive Skill Focus as a bonus feat at 1st level.  
 
-## ELVEN BLOOD
+## Elven Blood
 
 Half-elves are immune to magic sleep effects and receive a +2 racial bonus to saving throws against enchantment spells and effects.  
 
-## KEEN SENSES
+## Keen Senses
 
 Half-elves receive a +2 racial bonus to Perception skill checks.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Half-elves can see dim light as if it were normal light. See Vision and Light on page 261.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5-1/2 to 6-1/2 ft.  
 **Average Weight** 100–200 lbs.  
 **Age of Maturity** 20 years  
 **Maximum Age** 125+3d20 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Character Operations Manual pg. 33_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 The offspring of a half-elf and an elf, or an individual with only one non-elven ancestor over several generations, can still display mixed heritage. Even among half-elves who have a human parent, some take after their elven parent, especially those raised among elves. These half-elves have +2 Dexterity, +2 Intelligence, and −2 Constitution in place of the half-elf racial ability adjustments found in the _Starfinder Core Rulebook_.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Character Operations Manual pg. 33_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Not all half-elves display the most common traits found among their kind. Some have features that are a callback to a distant ancestor, while others blend minor elements of their parentage into a new trait.
 
-## CULTURAL CHAMELEON
+## Cultural Chameleon
 
 **Source** [_Character Operations Manual pg. 33_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Half-elves are often highly skilled at fitting in with a broad variety of people and getting others to like them. These half-elves gain a +2 racial bonus to Culture checks. If such a half-elf fails a Diplomacy check to change someone’s attitude, they can reroll the check and take the second result.  
   
 This replaces adaptability.
 
-## DARKVISION
+## Darkvision
 
 **Source** [_Character Operations Manual pg. 33_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Like elves, some half-elves are born with darkvision with a range of 60 feet. When these half-elves are in no light or dim light and they are exposed to bright light, they are dazzled for 1 round.  
   
 This replaces low-light vision.
 
-## HALF-RYPHORIAN
+## Half-ryphorian
 
 **Source** [_Character Operations Manual pg. 33_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Elves and ryphorians mix on Triaxus. Half-ryphorians can have summerborn or winterborn ryphorian features. These halfelves have the elf and ryphorian subtypes, but no human subtype. They also gain resistance 2 to cold and fire, which stacks with one other form of resistance. In conditions of severe cold or heat, they must attempt Fortitude saves only once per hour instead of once every 10 minutes.  

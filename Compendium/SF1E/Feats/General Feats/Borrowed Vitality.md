@@ -5,8 +5,10 @@ Prerequisites: Mysticism 5 ranks.
 tags: 
 Type: General Feat
 ---
-# BORROWED VITALITY
-**Source** _Galaxy Exploration Manual pg. 71_  
+
+# Borrowed Vitality
+
+**Source**:: _Galaxy Exploration Manual pg. 71_  
 By sapping nearby flora, you can protect your own lifeforce.
 
 **Prerequisites**: Mysticism 5 ranks.

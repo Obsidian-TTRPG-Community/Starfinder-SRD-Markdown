@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ZVARR SPELLSNIPER
 
+# Zvarr Spellsniper
 
 **XP 3,200**  
 Zvarr technomancer  

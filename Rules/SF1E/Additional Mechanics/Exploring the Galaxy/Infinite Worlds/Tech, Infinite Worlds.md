@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# TECHNOLOGY
+# Technology
 
 **Source** _Galaxy Exploration Manual pg. 122_  
 The hum of machinery on a factory floor. The gentle whirring of fans inside a computer. Even the flint and steel used to spark a world’s first campfire represents a species’ drive to create something new and harness power. Unlike the spontaneity of magic, technology arises systematically through invention and necessity; each step builds from what came before to overcome the next available obstacle, eventually allowing engineers to reach the stars and infinite worlds beyond. From manufacturing to computing to simply staying warm at night, each culture takes its own path toward greater and greater technological solutions.  
@@ -15,7 +15,7 @@ As technology addresses a society’s basic needs, it just as readily caters to 
 When compared to one that keeps rigidly to tradition, a society with incentive to invent far more likely has a mediumto high-technology attribute. Invention by default introduces something created and new into the world. Whether or not those inventions are welcomed determines how successfully the new technology spreads. A society where luddites quash innovation in favor of traditionalism will see fewer technological advancements on average, whereas societies that celebrate (or even deify) their greatest scientists could drive ravenous discoveries and developments as inhabitants aspire to become the next great innovator. In extreme cases of anti-technological sentiment, major developments might be forced underground or outright destroyed to maintain the status quo—an occurrence that helps explain why Triune’s Signal spread throughout the galaxy yet resulted in no noteworthy advances in some places.  
 No matter a culture’s technology, there are three essential takeaways. First, technology often falls into one of three broad categories—high, medium, and low—addressed in the following pages, along with an even more refined breakdown of tech levels on page 126. Second, even though technological development often follows fairly predictable paths, technological development isn’t strictly linear, instead reflecting a society’s needs and values. Third, technology isn’t shorthand for civilization or sophistication, even for the most mechanically adept or technologically rudimentary societies. With these foundations in place, you’re ready to mix and match countless tech levels to create a wide range of wondrous worlds (all the more so when combined with accord, alignment, magic, and religion attributes)!  
 
-## HIGH TECHNOLOGY
+## High Technology
 
 **Source** _Galaxy Exploration Manual pg. 124_  
 High technology not only conveys the power and capabilities of a society’s technology, but also how readily accessible that technology is. A high-technology society might be defined by space travel, infosphere networks, or advanced computer intelligences. The general populace of these places often enjoys a plethora of electronic amusements, such as virtual reality sports or star system broadcasts. High-technology worlds often develop synthetic life and artificial intelligence, such as androids or sentient robotic organisms. The Pact Worlds and Veskarium both serve as excellent high-technology system examples, yet they’re far from the only ones.  
@@ -24,7 +24,7 @@ Either way, a high-technology society is bound to feel the repercussions of a se
 High technology often helps a species surpass its physical limitations. Planes and space suits allow humans to defy gravity and breathe in inhospitable environments; in a science-fantasy world there are even stranger possibilities. The Burning Archipelago on the surface of the Pact Worlds’ sun has architecture that allows lifeforms to live in an impossibly hot realm; starships carry inhabitants far beyond the worlds where they evolved; and Drift technology puts the whole galaxy within travelers’ reach for a modest investment. Space stations might orbit black holes, defying crushing gravity and time dilation through extraordinary safeguards while scientists collect priceless data. Elsewhere, cloud cities float above methane seas, and entire civilizations thrive amid ceaseless volcanism. With a high-technology attribute, life could exist anywhere, even in the most unlikely places. Of course, whether outsiders can access these settlements is another matter!  
 Technology presents the means for creatures to exceed their worlds’ natural carrying capacities, like how artificial fertilizer and mechanization revolutionize a planet’s agricultural output. Most high-technology societies harness extraordinary manufacturing and material-manipulation capabilities, such as the use of universal polymer base (or UPBs; Core Rulebook 233), that allow citizens to surpass many physical resource limitations. Taken a step further, technologically extraordinary societies might transcend mortal bodies by developing robust networks, where uploaded digital consciousnesses can exist indefinitely without need for sustenance. These uploaded consciousnesses differ from true AI, however, and while the functional differences might seem academic, the questions of life, death, and identity are often crucial to these postcorporeal cultures.
 
-### HIGH-TECHNOLOGY ADVENTURE HOOKS
+### High-technology Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                         |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------|
@@ -52,7 +52,7 @@ Technology presents the means for creatures to exceed their worlds’ natural ca
 
   
 
-## MEDIUM TECHNOLOGY
+## Medium Technology
 
 **Source** _Galaxy Exploration Manual pg. 124_  
 Cultures with a medium-technology attribute have taken important steps in their scientific development. They might exhibit powerful technology in particular areas yet lag behind high-technology worlds in most other disciplines. Citizens of medium-technology worlds can expect their basic needs to be answered via scientific and technological means. These worlds also might be capable of staffed or entirely automated space travel, but would rarely have access to Drift technology. Worlds of medium technology have mostly, if not entirely, analog and archaic weapons and limited access to technological items.  
@@ -62,7 +62,7 @@ Consider inventors’ physiologies and needs. Would a quadruped species intuitiv
 These idiosyncrasies make medium-technology worlds exciting opportunities for first-contact scenarios; these worlds support countless intelligent minds that could readily adopt and adapt the visitors’ technology to explore the stars, and at the same time, these inhabitants might have innovated their own technology in sufficiently strange and advanced ways that are practically unique to galactic culture. Simultaneously these conventions can spark disastrous consequences for societies that can quickly grasp the practical applications of gifted technologies but not their greater ramifications, causing a world war, a breakdown of longstanding cultural norms, or the empowerment of interplanetary invasions. Spacefaring explorers like Starfinders and Weydan’s faithful often exercise protocols to limit cultural and technological shock when meeting unfamiliar species, yet even the best intentions can result in dozens of local disasters and revolutions.  
 One of the most interesting consequences of this is when individuals of these younger species choose to join the galactic community. Adventurers from medium-technology worlds might consider high-tech gear fascinating and wish to learn more, becoming passionate mechanics and technomancers in the process. They might also become invaluable ambassadors, interpreting for medium- and low-technology societies based on shared experience. No matter the profession, anyone hailing from a medium-technology world would needs to be a fast learner to make use of other civilizations’ technologies.
 
-### MEDIUM-TECHNOLOGY ADVENTURE HOOKS
+### Medium-technology Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                   |
 |-----|--------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -90,7 +90,7 @@ One of the most interesting consequences of this is when individuals of these yo
 
   
 
-## LOW TECHNOLOGY
+## Low Technology
 
 **Source** _Galaxy Exploration Manual pg. 125_  
 A low-technology attribute conveys limited technological development—anything from early stone and metal tools to rudimentary mechanization and early electrification. Sciences such as medicine and physics are likely fairly early in their development, and lower tech often introduces challenges to building and maintaining larger urban centers and empires alike.  
@@ -100,7 +100,7 @@ Advanced technology often relies on batteries and ammunition, which can prove di
 Reversed, low technology could present an exciting way to begin a Starfinder campaign, eventually opening up to interplanetary and galactic travel as the PCs secure the essential technology, magic, or both—either by developing it or by scavenging it from outside sources. Page 500 of the Core Rulebook presents guidelines for adapting Pathfinder fantasy roleplaying game concepts into Starfinder, which might represent an exciting and unique way to capture low-tech concepts. Once such characters reach the stars, their backgrounds could shape their strategies and styles: think, mystics who styles themselves as clerics of long-dead deities, vanguard luddites dedicated to destroying the high-tech devices that ravaged their home world, or soldiers who turn outwardly archaic weapons like bows or slings into devastating armaments that can fell towering battle robots.  
 Above all, a low-technology attribute is never the product of inhabitants being wrong or imperfect, merely different. The galaxy’s an extraordinary and diverse place, and every planet, no matter its technology, is full of surprises.
 
-### LOW-TECHNOLOGY ADVENTURE HOOKS
+### Low-technology Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                          |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -128,7 +128,7 @@ Above all, a low-technology attribute is never the product of inhabitants being 
 
   
 
-## TECH CATEGORIES
+## Tech Categories
 
 **Source** _Galaxy Exploration Manual pg. 126_  
 With an area as vast as an entire galaxy, different civilizations possess divergent levels of technological advancement, from archaic to the most cutting-edge. Tech categories are an optional subsystem for determining the types of technology available (or not) on a given world with more nuance than the general distinctions of low, medium, and high.  
@@ -137,7 +137,7 @@ To use this subsystem, first choose the general technology attribute of the worl
 Each category has a descriptive name as well as a list of example technological advancements and items usually available in that category, divided into five groups: space travel, weapons, armor, vehicles, and other. The categories are additive, meaning that technology from lower-tech categories is available in higher categories as well; lower categories don’t have access to technology from higher categories. For example, PCs visiting a Space Age world (category 3) wouldn’t generally be able to find sonic weapons, which are not available until the Digital Age (category 4), but they could purchase flame weapons since those are Industrial Age (category 2) technology. While these tech categories aren’t comprehensive, you can use the examples in the table as guidelines to determine the specific technological items available on a world. For example, holographic technology is a hallmark of the Digital Age (category 4), so a technological item that uses holograms should generally be available in that category.  
 No two worlds are alike, even within the same tech category, so feel free to mix and match specific technological advancements from different categories to match the needs of your campaign. If you want a Space Age world to have powered weapons or for domestic drones to be available in a Digital Age civilization, go for it! Likewise, a world doesn’t necessarily need to advance from one tech category to the next in numerical order. It’s perfectly possible for a Cybernetic Age world to jump directly to the Pre-Drift Age without developing biotech at all. There’s room enough in the galaxy for worlds and civilizations with every possible combination of technological prowess—and this subsystem gives you the tools to create them all!
 
-### TECH CATEGORIES
+### Tech Categories
 
 | Tech Category        | Adventure Hook                                                                                                              | Weapons                                                            | Armor                                           | Vehicles                                        | Other                                                                                                                                                        |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|

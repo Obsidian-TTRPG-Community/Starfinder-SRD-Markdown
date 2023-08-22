@@ -5,8 +5,10 @@ Prerequisites: Cha 13; dragon type, dragon-scaled species ability, or dragonbloo
 tags: 
 Type: General Feat
 ---
-# MINOR DRACONIC FORM
-**Source** _Interstellar Species pg. 87_  
+
+# Minor Draconic Form
+
+**Source**:: _Interstellar Species pg. 87_  
 You have a natural talent for assuming draconic form.
 
 **Prerequisites**: Cha 13; dragon type, dragon-scaled species ability, or dragonblood theme

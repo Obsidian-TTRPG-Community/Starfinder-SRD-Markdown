@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GRIZZLED MERCENARY
 
+# Grizzled Mercenary
 
 **XP 1,200**  
 CN Medium humanoid (human)  

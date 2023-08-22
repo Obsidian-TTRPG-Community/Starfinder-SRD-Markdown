@@ -5,8 +5,10 @@ Prerequisites: Healing channel connection power, mystic level 1st.
 tags: 
 Type: General Feat
 ---
-# HARM UNDEAD
-**Source** _Starfinder Core Rulebook pg. 157_  
+
+# Harm Undead
+
+**Source**:: _Starfinder Core Rulebook pg. 157_  
 You can use your healing channel to harm undead.
 
 **Prerequisites**: Healing channel connection power, mystic level 1st.

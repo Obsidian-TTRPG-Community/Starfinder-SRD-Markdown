@@ -5,9 +5,11 @@ tags:
 Tier: 14
 Type: Gargantuan carrier  
 ---
-# AAC HOARDMASTER
+
+# Aac Hoardmaster
+
 > [!infobox|locr n-th clean]
->  [[Starship_AACHoardmaster.jpg|Spielern zeigen!]]
+> 
 > 
 Gargantuan carrier, **Tier** 14
 **Speed** 4; **Maneuverability** poor (turn 3); **Drift** 1  
@@ -20,7 +22,7 @@ Gargantuan carrier, **Tier** 14
 **Attack (Turret)** laser net (2d6; 5 hexes)  
 **Power Core** Gateway Ultra (500 PCU); **Drift Engine** Signal Basic; **Systems** basic long-range sensors, crew quarters (common), mk 5 armor, mk 5 defenses, mk 3 trinode computer; **Expansion Bays** combat training facility (elite), cargo hold, hangar bays (2), tech workshop; **Modifiers** +3 to any 3 checks per round, +2 Computers (sensors only), –1 Piloting; **Complement** 111 (minimum 75, maximum 200)
 
-### CREW
+### Crew
 
 **Captain** Bluff +25 (14 ranks), Diplomacy +25 (14 ranks), Intimidate +30 (14 ranks), Piloting +26 (14 ranks)  
 **Engineers (3 officers, 10 crew each)** Engineering +30 (14 ranks)  
@@ -28,7 +30,7 @@ Gargantuan carrier, **Tier** 14
 **Pilots (2 officers, 10 crew each)** Piloting +26 (14 ranks)  
 **Science Officers (2 officers, 10 crew each)** Computers +25 (14 ranks)
 
-## DESCRIPTION
+## Description
 
 A product of the Allied Arms Corporation (AAC) of Triaxus, the Hoardmaster is the flagship of the Skyfire Legion’s mercenary fleet. The aptly named carrier can launch over a dozen smaller craft into battle. Designed to operate in tandem with AAC Dyads, this specialized carrier has experienced a surge in popularity during the past 50 years.  
   

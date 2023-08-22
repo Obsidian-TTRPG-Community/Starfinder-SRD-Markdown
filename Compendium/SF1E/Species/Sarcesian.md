@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SARCESIAN
+
+# Sarcesian
+
 > [!infobox|left n-th clean]
 >  [[Sarcesian.png|Spielern zeigen!]]
 > Supposedly descended from the inhabitants of the two planets whose destruction long ago formed the Diaspora asteroid belt, sarcesians have adapted to low-gravity and thinair environments. Standing between 10 and 15 feet tall with bulbous eyes and spindly, elongated limbs, a sarcesian is able to adapt her physiology to survive in space by suspending her respiration and growing a pair of butterfly-like wings made of pure light. The wings act as solar sails, catching currents of radiation to propel her between the handful of inhabited asteroids and space platforms within the Diaspora.  
@@ -14,23 +16,23 @@ Sarcesians who leave the asteroid belt are sometimes hired as mercenaries specia
 **Ability Modifiers** +2 Dex, +2 Cha, -2 Str  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Sarcesians are Large humanoids with the sarcesian subtype and a space and reach of 10 feet.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Sarcesians can see in dim light as if it were normal light.  
 
-## SKILLED
+## Skilled
 
 Sarcesians gain an additional skill rank at 1st level and each level thereafter.  
 
-## VOID FLYER
+## Void Flyer
 
 Sarcesians can go 1 hour without breathing and can exist in a vacuum without suffering the associated environmental effects. When in a vacuum, they automatically grow wings made from pure energy that grant them a supernatural fly speed of 60 feet (average maneuverability) but that work only in a vacuum.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 10-15 ft.  
 **Average Weight** 400–500 lbs.  

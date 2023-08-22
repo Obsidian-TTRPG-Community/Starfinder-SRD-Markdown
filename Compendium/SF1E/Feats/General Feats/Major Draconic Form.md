@@ -5,8 +5,10 @@ Prerequisites: 7th level, Cha 15, Minor Draconic Form
 tags: 
 Type: General Feat
 ---
-# MAJOR DRACONIC FORM
-**Source** _Interstellar Species pg. 87_  
+
+# Major Draconic Form
+
+**Source**:: _Interstellar Species pg. 87_  
 Your inner shapeshifting potential allows you to attain increasingly powerful draconic forms.
 
 **Prerequisites**: 7th level, Cha 15, Minor Draconic Form

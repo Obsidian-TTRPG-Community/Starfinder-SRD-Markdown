@@ -5,8 +5,10 @@ Prerequisites: Pincered LFAN
 tags: 
 Type: General Feat
 ---
-# GRASPING LFAN
-**Source** _Interstellar Species pg. 111_  
+
+# Grasping Lfan
+
+**Source**:: _Interstellar Species pg. 111_  
 You’ve modified the ends of your LFAN to tighten their grip.
 
 **Prerequisites**: Pincered LFAN

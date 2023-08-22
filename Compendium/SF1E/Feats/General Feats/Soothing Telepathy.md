@@ -5,8 +5,10 @@ Prerequisites: Limited telepathy or telepathy.
 tags: 
 Type: General Feat
 ---
-# SOOTHING TELEPATHY
-**Source** _Character Operations Manual pg. 118_  
+
+# Soothing Telepathy
+
+**Source**:: _Character Operations Manual pg. 118_  
 Your psychic abilities bolster your mental defenses, and you can extend that strength to nearby allies.
 
 **Prerequisites**: Limited telepathy or telepathy.

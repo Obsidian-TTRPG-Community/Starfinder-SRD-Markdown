@@ -9,14 +9,14 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# INFLICT PAIN, MASS
 
-**Source** _Starfinder Core Rulebook pg. 361_
-**Classes** Mystic 6  
-**School** enchantment (mind-affecting, pain)  
-**Targets** up to one creature/level, no two of which can be more than 30 ft. apart  
+# Inflict Pain, Mass
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 361_
+**Classes**:: Mystic 6  
+**School**:: enchantment (mind-affecting, pain)  
+**Targets**:: up to one creature/level, no two of which can be more than 30 ft. apart  
+
+## Description
 
 This spell functions as _inflict pain_, except as noted above.  
-  

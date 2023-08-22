@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# MORLAMAW
+
+# Morlamaw
+
 > [!infobox|left n-th clean]
 >  [[Morlamaw.png|Spielern zeigen!]]
 > 
@@ -19,31 +21,31 @@ Arniselle recently attracted visitors from the Pact Worlds, thanks to the planet
 **Ability Modifiers** +2 Con, +2 Cha, -2 Wis  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Morlamaws are Large monstrous humanoids with the aquatic subtype. They have a space and reach of 10 feet.  
 
-## AMPHIBIOUS
+## Amphibious
 
 Morlamaws have both the [amphibious](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Amphibious) and [water breathing](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Water%20Breathing) universal creature rules, allowing them to breathe both water and air normally.  
 
-## COLD RESISTANCE
+## Cold Resistance
 
 Morlamaws are accustomed to swimming in frigid and icy waters; they have cold resistance 5.  
 
-## DARKVISION
+## Darkvision
 
 Morlamaws have darkvision with a range of 60 feet.  
 
-## MORLAMAW MOVEMENT
+## Morlamaw Movement
 
 Morlamaws have a land speed of 20 feet and a swim speed of 40 feet.  
 
-## NATURAL WEAPONS
+## Natural Weapons
 
 Morlamaws are always considered armed. They can deal 1d3 lethal piercing damage with unarmed strikes and the attack doesn’t count as archaic. Morlamaws gain a unique weapon specialization with their natural weapons at 3rd level, allowing them to add 1-1/2 × their character level to their damage rolls with their natural weapons (instead of just adding their character level, as usual).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 10 to 12 ft.   
 **Average Weight** 1,800 to 3,000 lbs.   

@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# HOLOGRAM MEMORY
 
-**Source** _Starfinder Core Rulebook pg. 359_  
-**Classes** Mystic 3, Precog 3  
-**School** divination  
-**Casting Time** 1 full action  
-**Range** touch  
-**Targets** one living or deceased sentient creature; see text  
-**Duration** instantaneous  
-**Saving Throw** Will negates, see text; **Spell Resistance** no
+# Hologram Memory
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 359_  
+**Classes**:: Mystic 3, Precog 3  
+**School**:: divination  
+**Casting-Time**:: 1 full action  
+**Range**:: touch  
+**Targets**:: one living or deceased sentient creature; see text  
+**Duration**:: instantaneous  
+**Saving-Throw**:: Will negates, see text;
+**Spell Resistance**:: No
+
+## Description
 
 You reach into the target’s mind, extract a specific memory, and project that memory into a small hologram that plays in front of you and is visible to all creatures who can see it. The hologram memory can be no longer than 1 minute; if the extracted memory is longer than this, the hologram simply ends. The hologram includes audio as well as visual components, but it does not contain haptic, olfactory, or other components. The hologram typically plays a memory that takes place in a single scene, though it can cut to multiple scenes, if they are accurate to the memory and its length allows. The hologram plays the memory exactly as the target experienced it and from the target’s perspective, so it often lacks context. The target creature must remain quiet and still while the hologram plays or the spell and hologram end.
 

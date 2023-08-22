@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-**Source** _Interstellar Species pg. 84_  
+**Source**:: _Interstellar Species pg. 84_  
 
 [[Species_Kobold.png|Zeigen!]]
 The kobolds known to the Pact Worlds are a witchwarped species. Following the Gap, kobolds seemed notably absent from the Pact Worlds and surrounding systems, and many assumed their departure tied to Golarion's disappearance in some way. However, first-century witchwarping rituals designed to access alternate reality technologies didn't just conjure obscure devices (most of which couldn't function in this multiverse); they also gated in hundreds of reptilian beings who, by all appearances and self-identification, appear to be kobolds. The creatures confidently dispersed throughout the Pact Worlds, taking up residence in empty and previously unknown apartments, clocking into work with unregistered keycards that noted the kobolds' longtime (yet previously unnoticed) employment at various agencies, and otherwise just fitting into niches that mysteriously manifested seamlessly in response to the kobolds' need. Although newer generations of kobolds seem more bound by conventional logic, this first wave's uncanny integration into this reality has stumped historians, scientists, and magical researchers.  
@@ -28,7 +28,7 @@ Kobolds gain a +2 racial bonus to Engineering, Perception, and Physical Science 
 
 Kobolds have darkvision with a range of 60 feet.  
 
-## Dragon-Scaled
+## Dragon-scaled
 
 Kobolds gain energy resistance based on the color of their scales and the dragons they resemble. Black-scaled kobolds, copper-scaled kobolds, and green-scaled kobolds gain acid resistance 5. Blue-scaled kobolds and bronze-scaled kobolds gain electricity resistance 5. Red-scaled kobolds, brass-scaled kobolds, and gold-scaled kobolds gain fire resistance 5. White-scaled kobolds and silver-scaled kobolds gain cold resistance 5. A kobold can stack this natural resistance with one other form of energy resistance.
 

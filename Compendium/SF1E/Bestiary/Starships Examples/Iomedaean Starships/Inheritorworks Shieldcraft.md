@@ -5,7 +5,9 @@ tags:
 Tier: 8
 Type: Medium transport  
 ---
-# INHERITORWORKS SHIELDCRAFT
+
+# Inheritorworks Shieldcraft
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksShieldcraft.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Medium transport, **Tier** 8
 **Attack (Turret)** laser net (2d6), light particle beam (3d6)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Basic; **Systems** advanced mid-range sensors, crew quarters (common), mk 2 trinode computer, mk 6 defenses, mk 7 armor; **Expansion Bays** cargo holds (2), guest quarters (2, common), medical bay; **Modifiers** +2 any three checks per round, +4 Computers, +1 Piloting; **Complement** 6
 
-### CREW
+### Crew
 
 **Captain** Computers +20 (8 ranks), Diplomacy +21 (8 ranks), Engineering +16 (8 ranks), gunnery +15, Piloting +18 (8 ranks)  
 **Engineer** Engineering +21 (8 ranks)  
@@ -27,6 +29,6 @@ Medium transport, **Tier** 8
 **Pilot** Piloting +23 (8 ranks)  
 **Science Officer** Computers +25 (8 ranks)
 
-## DESCRIPTION
+## Description
 
 Iomedaean Shieldcrafts serve as transports for platoons of crusaders journeying to the front in their fight against evil. These soldiers store their suits of powered armor in the ship's cargo bays on the voyage as they await deployment.

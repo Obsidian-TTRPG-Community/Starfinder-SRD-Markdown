@@ -5,8 +5,10 @@ Prerequisites: Character level 5th.
 tags: 
 Type: General Feat
 ---
-# EXTRA RESOLVE
-**Source** _Starfinder Core Rulebook pg. 157_  
+
+# Extra Resolve
+
+**Source**:: _Starfinder Core Rulebook pg. 157_  
 Your resolve is stronger than most.
 
 **Prerequisites**: Character level 5th.

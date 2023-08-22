@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# CONTROL MACHINES
 
-**Source** _Starfinder Core Rulebook pg. 345_  
-**Classes** Technomancer 5  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
-**Targets** constructs of the technological subtype with individual CRs no greater than your level + 1 and a total CR no greater than twice your level, no two of which can be more than 30 ft. apart  
-**Duration** concentration, up to 1 round/level  
-**Saving Throw** Will negates; **Spell Resistance** no
+# Control Machines
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 345_  
+**Classes**:: Technomancer 5  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Targets**:: constructs of the technological subtype with individual CRs no greater than your level + 1 and a total CR no greater than twice your level, no two of which can be more than 30 ft. apart  
+**Duration**:: concentration, up to 1 round/level  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: No
+
+## Description
 
 You wrest control of the target constructs and command them telepathically. You can issue commands to any number of controlled constructs on your turn, beginning when you cast this spell, as part of the concentration required to sustain its duration (a standard action).
 

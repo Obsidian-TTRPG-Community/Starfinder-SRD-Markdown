@@ -2,19 +2,20 @@
 aliases: 
 tags: 
 ---
-# SPACE HAZARDS
 
-**Source** _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
+# Space Hazards
+
+**Source**:: _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 Innumerable threats lurk in the inky spaces between the stars. This section addresses myriad dangers, from potentially civilization-ending events to more localized problems that might affect only a single starship combat. Each subsection presents a particular kind of stellar phenomenon and how you can include them in your game. Many of the hazards included here list damage or attack bonuses that scale based on starship tier—these are to help you provide balanced encounters for your PCs, but you can also set numbers that are higher or lower to better fit the actual danger.  
 
-## STELLAR PHENOMENON
+## Stellar Phenomenon
 
-**Source** _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
+**Source**:: _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 Space contains untold billions of threats, ranging from the inexplicably vast to the unexpectedly deadly. Some are legendary in their lethality, while other unidentified anomalies continue to vex even the most accomplished scientists. Thankfully, space is big enough that most pilots can fly around these threats—that is, unless pursuing pirates, gravitational anomalies, or other dangers turn such caution into a luxury!  
 
-## ASTEROIDS AND DEBRIS
+## Asteroids and Debris
 
-**Source** _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
+**Source**:: _Starship Operations Manual pg. 134_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 Though they’re one of the most mundane aspects of space, chunks of floating rock can nonetheless have a dramatic impact on starship operation and combat. Even clouds of small pebbles can jam engines, throw weapon systems out of alignment, and disrupt sensitive sensor equipment. Larger asteroids, especially with significant velocity, can obliterate smaller starships and cause significant damage to larger ones. The biggest asteroids blot out entire hexes of space, creating obstacles that starships must weave through but can use as cover during combat. Large, stationary asteroids also make good locations for orbital weapon platforms.  
   
 Asteroids generally take up 1 hex on the grid; larger asteroids can be represented by filling two or more adjacent hexes. Traveling through an asteroid’s space is generally possible, but a starship risks taking damage when it does so. A starship’s direct-fire weapons can’t pass through an asteroid’s space, but tracking weapons can move to avoid striking one.  
@@ -35,9 +36,9 @@ If a ship collides with an asteroid or hits it with a starship weapon attack (AC
   
 **Other Debris:** Other solid objects in space such as derelict ships, ice rings, and fields of debris from recent battles can pose similar threats to active starships. Use whatever rules are most analogous to your chosen phenomenon.  
 
-## DAMAGING ZONES
+## Damaging Zones
 
-**Source** _Starship Operations Manual pg. 135_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
+**Source**:: _Starship Operations Manual pg. 135_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 Some areas of space are actively damaging to starships. These damaging zones can represent hazards such as electrically charged nebulae, hull-eating bacteria, or the chaotic corona near the surface of a star. Depending on the nature of the damaging zone, it might encompass part or all of the combat grid, in a variety of shapes and sizes.  
   
 At the end of each round of starship combat, all starships in a damaging zone take damage from the hazard, distributed evenly across all quadrants. As a crew action during the helm phase, a science officer can align the starship’s shields to specifically protect against the active hazard (DC = 10 + 1-1/2 × the starship’s tier), negating any damage to shielded quadrants; quadrants with depleted shields can’t be protected in this way. In general, damaging zones should deal at most roughly 1d6 damage per tier of the PCs’ starship each round.  
@@ -47,9 +48,10 @@ At the end of each round of starship combat, all starships in a damaging zone ta
 **Proton Storm:** Stars can emit streams of high-intensity protons capable of ripping starships apart. To represent a proton storm, draw multiple parallel lines throughout the combat grid, 5 to 10 hexes long and 3 to 5 hexes apart. Starships can fly through these marked areas, and the lines don’t block starship attacks, though tracking weapons that would fly through a proton storm are immediately destroyed. However, the storms represent significant danger: the protons have such high energy that they bypass starship shields. Each time a starship flies through or ends its movement in a marked hex, it takes damage directly to its Hull Points equal to 1d6 + an additional 1d6 for every 2 tiers of the starship.  
   
 **Star Corona:** Flying near a star without specific protection is never a good idea. If unprotected, a starship can take between 1d6 and 20d6 damage each round from the heat given off by a star’s corona, depending on the intensity of the star and the distance to the star’s surface. Some stars also discharge radiation that bypasses normal defenses and can affect the crew on board (see Radiation below).  
-# GRAVITY FIELDS
 
-**Source** _Starship Operations Manual pg. 136_
+# Gravity Fields
+
+**Source**:: _Starship Operations Manual pg. 136_
 Black holes, nearby planetary bodies, unstable magical effects, and neutron stars can create powerful gravity fields that make starship combat challenging.  
   
 Choose a side of the grid to represent the direction of the gravitational pull. At the start of each round, move all starships, tracking weapons, mines, and other relevant objects 1 hex closer to the source of the gravity. If an object starts within 6 hexes of the edge, move it 2 hexes toward the edge. While a starship is moving toward the gravitational source, each hex of movement moves the object an additional hex. While a starship is moving away from the gravitational source, each hex of movement costs 2 hexes instead. Tracking weapons follow the same rules for starships and have their effective speed ratings doubled or halved, as appropriate.  
@@ -58,9 +60,9 @@ Starships that move past the edge of the grid where the gravitational pull origi
   
 For especially strong gravitational fields, the rate at which the hazard pulls could exceed 2 hexes per round. However, starships with a speed of 4 can’t escape such forces, even with a successful divert crew action. Generally, use gravitational pulls of 3 hexes per round or more only if the vessels involved in the starship combat can escape the gravity field.  
 
-# RADIATION
+# Radiation
 
-**Source** _Starship Operations Manual pg. 136_
+**Source**:: _Starship Operations Manual pg. 136_
 Space is full of background radiation from stars, space stations, manufacturing platforms, and stellar novas from far-off star systems. Starship hulls protect against most of this radiation, as do sealed space suits. However, more massive cosmic events produce intense radiation capable of impacting even heavily fortified vessels.  
   
 Radiation is most often adjudicated like a damaging zone (page 135), but instead of dealing damage to the starship, it exposes crew members to radiation as if the ship were hit by a weapon with the irradiate property that lists low (for starship tiers 3 and below), medium (tiers 4–10), high (tiers 11–17), or severe (tiers 18 and up) radiation.  
@@ -73,9 +75,9 @@ Represent this hazard by performing a direct-fire attack against each starship d
   
 **Solar Storm:** These eruptions of radioactive waves can cause electric disruptions and electromagnetic interference in nearby space. When a starship is hit by such a storm, the living occupants are exposed to medium or high radiation. These storms typically last 2 to 8 hours and affect a large area, exposing the entire grid to radiation for the duration of starship combat.  
 
-# COMBINED EFFECTS
+# Combined Effects
 
-**Source** _Starship Operations Manual pg. 136_
+**Source**:: _Starship Operations Manual pg. 136_
 Some galactic effects combine gravity fields, damaging zones, and radiation, making for very dangerous areas for a starship. However, sometimes the PCs’ goals lie in the heart of such treacherous areas of space!  
   
 **Neutron Star:** The collapsed remains of a giant star can form this ultra-dense body featuring extreme heat, gravity, and radiation. Flying near such a star often exposes a starship to as much as 1d8 damage per round per 2 tiers of the starship from the intense heat, high radiation, and strong gravitational pull. This damage occurs at the end of each helm phase and is divided evenly among the ship’s quadrants.  
@@ -84,9 +86,9 @@ Some galactic effects combine gravity fields, damaging zones, and radiation, mak
   
 **Quasar:** This is an ultra-luminous active galactic nucleus. The accelerating ring of gas revolves around a supermassive black hole, releasing energy across the entire electromagnetic spectrum, including bright visible light. Though beautiful to behold, a quasar is enormously dangerous; it emits high levels of radiation and heat, and its black hole has a strong gravitational pull. If a starship approaches the galaxy’s quasar core, use the rules for a neutron star (page 136) except it deals 10 times as much damage. Note that even the most stalwart ships could not survive this hazard for long.  
 
-# OTHER EFFECTS]
+# Other EFFECTS]
 
-**Source** _Starship Operations Manual pg. 137_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
+**Source**:: _Starship Operations Manual pg. 137_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 The far reaches of the galaxy contain a plethora of additional phenomena and anomalies that can have a variety of effects on starships.  
   
 **Nebula:** This large and diffuse area of gas is generally not hazardous to starships, but depending on the exact nature of the nebula, it can cause any number of adverse effects. Represent a nebula with 10–20 contiguous hexes. These hexes might conceal a ship, forcing gunners to use unreliable sensor information to target a starship inside the nebula, which gives attacks against ships in the nebula a 20% miss chance. Alternatively, corrosive gases might eat away at the starship (as hull-eating bacteria on page 135). Or electrical storms may have erupted inside the nebula after being exposed to the technology of a starship, giving the nebula an attack each round against any starships inside (as solar flare on page 136).  
@@ -95,9 +97,9 @@ The far reaches of the galaxy contain a plethora of additional phenomena and ano
   
 **Wormhole:** These anomalies are bridges in space-time, linking two different points in space, two different moments in time, or a combination of the two. When a starship flies through a wormhole, its crew often experiences flying through a tunnel in a luminescent nebula. Mark 2 hexes on the grid that are linked to each other; you can choose either or both locations or determine either or both at random. Whenever a starship enters one of these hexes, it immediately enters the wormhole; remove it from the combat grid. On the next round of starship combat during the helm phase, when it is that starship’s turn to move, it first appears in the linked hex with a random facing.  
 
-# DRIFT PHENOMENA
+# Drift Phenomena
 
-**Source** _Starship Operations Manual pg. 137_
+**Source**:: _Starship Operations Manual pg. 137_
 In addition to the effects listed above, even stranger events can manifest in the Drift. Temporal rifts, wormholes, and proton storms are relatively common occurrences, and large sections of displaced planes often function similarly to asteroids and debris (pages 134–135). Creatures and forces loyal to Triune inhabit the Drift, and their intentions are often unclear; the strange encounters that travelers experience here do little to shed light on the tripartite god’s enigmatic plans.  
   
 **Paraforan School:** When crystalline paraforan fragments (Starfinder Alien Archive 3 76) congregate into a single paraforan in the Drift, they often follow behind starships to consume the energy given off by Drift engines. Sometimes these fragments become overly enthusiastic and slam into a starship while attempting to feed off its latent Drift engine energy. At the beginning of the engineering phase, a paraforan appears in a single hex within 2d4 hexes of a random starship. During the helm phase, the paraforan acts last and moves at a speed of 14 with perfect maneuverability (turn 0) toward the nearest ship with a Drift engine. During the gunnery phase, after all other ships have acted, a paraforan adjacent to a starship can siphon that starship’s Shield Points, reducing that quadrant’s Shield Points by 10.  

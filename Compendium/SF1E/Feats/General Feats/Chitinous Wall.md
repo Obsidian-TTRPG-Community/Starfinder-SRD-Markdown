@@ -5,8 +5,10 @@ Prerequisites: Bulwark species trait
 tags: 
 Type: General Feat
 ---
-# CHITINOUS WALL
-**Source** _Interstellar Species pg. 130_  
+
+# Chitinous Wall
+
+**Source**:: _Interstellar Species pg. 130_  
 Your protective plates can better shield nearby allies.
 
 **Prerequisites**: Bulwark species trait

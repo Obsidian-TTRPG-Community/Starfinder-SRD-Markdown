@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# WATCH CAPTAIN
+
+# Watch Captain
+
 **XP 2,400**  
 Human soldier  
 LN Medium humanoid (human)  
@@ -44,11 +46,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### INTIMIDATING AUTHORITY (EX)
+#### Intimidating Authority (EX)
 
 When a watch captain attempts to demoralize a target, they may exert their authority. If they succeed at their Intimidate check, the target is staggered for 1 round in addition to being shaken. This ability never causes the target to be staggered for more than 1 round. The watch captain may use this ability 4 times before requiring an 8-hour rest to use it again.
 
-#### REQUISITION (EX)
+#### Requisition (EX)
 
 A watch captain has access to almost any sort of equipment through their employer. Once per day, they may gain a specific piece of equipment with a level equal to or less than their CR in 10-60 minutes or a single piece of equipment with a level equal to their CR+1 in 1-6 hours. If the item is not consumable and is destroyed, they may not use this ability again for a number of days equal to the item’s level.
 

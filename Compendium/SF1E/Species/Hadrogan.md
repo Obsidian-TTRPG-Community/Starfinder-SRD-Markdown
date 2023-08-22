@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 72_  
+**Source**:: _Interstellar Species pg. 72_  
 
 [[Species_Hadrogaan.png|Zeigen!]]
 Hadrogaans are renowned for their efficiency with processing information, making optimal decisions, and reacting. Their talents are only possible because they're a symbiotic people: long ago, hadrogaans began implanting living, telepathic crystals into their bodies to survive a natural disaster that ruined their home world, Hadrogess. They've resided on its moons ever since, but they're often found lending their intellect and muscle to allies among the worlds of the Vast. Even a solitary hadrogaan can be a tremendous asset to a crew, as each hadrogaan carries within them a living neural network.  

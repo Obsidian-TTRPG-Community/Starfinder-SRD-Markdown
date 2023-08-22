@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# DIVINE VARIANTS
+
+# Divine Variants
 
 Worshipping a deity often brings spiritual fulfillment and support from a like-minded community. In general, though, a PC’s faith doesn’t impact their abilities directly. For each of the 20 deities featured in the Core Rulebook, the following pages contain not only additional information about the deity’s interests, typical worshippers, sacred sites, and resources their faiths might be able to offer, but they also present several options that can influence a PC’s abilities directly, as well as several ways a deity might express their approval or displeasure, at the GM’s direction.
 
@@ -18,7 +19,7 @@ Worshipping a deity often brings spiritual fulfillment and support from a like-m
 
 Curses: This entry lists open-ended ways that a deity might inflict suffering, especially upon treacherous members of their faith, those who blaspheme the deity, and those who desecrate their sacred sites. As with blessings, the GM determines when these curses happen and what effect they have—anything from momentary inconvenience to an affliction that serves as a lasting adventure hook, depending on the offense’s severity.
 
-# NEW FEAT:  **DIVINE WEAPON**
+# New Feat: **DIVINE WEAPON**
 
 Prerequisites: Worship a deity of an alignment within one step of your own alignment (Core Rulebook 25).
 

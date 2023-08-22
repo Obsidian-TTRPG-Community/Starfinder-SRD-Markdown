@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## SENSE THROUGH
+
+## Sense through
 
 Sense through is the special ability to perceive things beyond an obstacle or barrier that would otherwise block normal senses. It allows a creature to attempt Perception checks into areas that would otherwise lie beyond its senses. Sense through augments a creature’s precise or imprecise senses, rather than replacing them. For example, a creature cannot have a form of sense through based on vision unless it has standard vision. Sense through may be a supernatural power to sense things beyond normal perception or an extraordinary ability representing enhanced senses, and it can be granted by equipment (such as laser microphones and X-ray visors), natural abilities (such as some dragons’ ability to see through smoke), and other effects. Sense through operates out to a range specified in the creature’s description.
 

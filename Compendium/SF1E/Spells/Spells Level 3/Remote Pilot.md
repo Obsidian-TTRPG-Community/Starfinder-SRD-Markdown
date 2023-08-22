@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# REMOTE PILOT
 
-**Source** _Galactic Magic pg. 80_  
-**Classes** Mystic 3, Precog 3, Technomancer 3  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one vehicle with a level no greater than your level + 1  
-**Duration** 1 minute/level  
-**Saving Throw** none; **Spell Resistance** no
+# Remote Pilot
 
-## DESCRIPTION
+**Source**:: _Galactic Magic pg. 80_  
+**Classes**:: Mystic 3, Precog 3, Technomancer 3  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one vehicle with a level no greater than your level + 1  
+**Duration**:: 1 minute/level  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 You transfer a sliver of your consciousness into a vehicle, enabling you to take actions to pilot it remotely. During the spell's duration, you can pilot the vehicle as if you were in it, except you can use your Mysticism skill to pilot the vehicle in place of Piloting. As long as you remotely pilot the vehicle, the vehicle is considered controlled. This spell ends if you lose sight of the vehicle.
 

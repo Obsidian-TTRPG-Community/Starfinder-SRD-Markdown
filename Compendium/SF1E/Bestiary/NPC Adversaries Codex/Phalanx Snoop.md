@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# PHALANX SNOOP
 
+# Phalanx Snoop
 
 **XP 400**  
 LN Medium humanoid (aether, phalanx)  

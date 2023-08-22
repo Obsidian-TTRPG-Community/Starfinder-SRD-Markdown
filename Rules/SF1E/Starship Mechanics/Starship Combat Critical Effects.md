@@ -3,16 +3,17 @@ aliases:
 tags: 
 ---
 
-# STARSHIP COMBAT CRITICAL EFFECTS
+# Starship Combat Critical Effects
+
 **Source** _Starship Operations Manual pg. 42_  
 Just as a gunner’s lucky shot can disable key enemy systems, the rest of the crew can also achieve heroic feats in the heat of battle. Whether it’s a captain’s demands striking just the right nerve, an engineer performing the perfect patch to keep a damaged ship together, or a pilot surpassing their starship’s design specs with an impossible maneuver, the following rules provide critical effects for any crew member who rolls a natural 20 during starship combat. More information on the chief mate, magic officer, and open crew actions can be found on page 146 of the Starfinder Character Operations Manual.  
 
-# ROLLING A NATURAL 20
+# Rolling a Natural 20
 
 **Source** _Starship Operations Manual pg. 42_  
 The following system for critical effects is an optional way to give any crew member the potential to achieve extraordinary results when that officer attempts a starship crew action, rolls a natural 20, and succeeds at the check. Except for minor crew actions, each of the starship crew actions benefits from this critical success in a specific way, either adding a bonus effect to the action’s typical effects or increasing the benefits provided by the successful action. Actions marked with an asterisk appear in this book.  
 
-# CAPTAIN ACTIONS
+# Captain Actions
 
 **Source** _Starship Operations Manual pg. 42_  
 **Demand:** Your demand echoes throughout the starship. You can attempt the demand crew action with the targeted character one additional time during the current starship combat.  
@@ -21,7 +22,7 @@ The following system for critical effects is an optional way to give any crew me
 **Orders:** You orders flow so naturally that you can take one additional captain crew action this turn.  
 **Taunt:** Your strong words push just the right buttons. The penalty your taunt action applies to an enemy ship continues through all three phases of combat instead of just one.  
 
-# CHIEF MATE ACTIONS
+# Chief Mate Actions
 
 **Source** _Starship Operations Manual pg. 42_  
 **Hard Turn:** You’re able to keep up with the pilot’s needs, applying changes with perfect precision. You improve the maneuverability of the ship by one step until the start of the next round.  
@@ -30,7 +31,7 @@ The following system for critical effects is an optional way to give any crew me
 **Maximize Speed:** You’re able to maintain the engines for longer. The speed of your starship increases by 2 until the end of the next round.  
 **Targeting Aid:** You’re able to provide targeting information to all gunners about one specific ship. Choose an enemy starship; all gunners on your starship gain the benefits of the targeting aid crew action for attacks targeting that starship.  
 
-# ENGINEER ACTIONS
+# Engineer Actions
 
 **Source** _Starship Operations Manual pg. 42_  
 **Divert:** For a crucial moment, you far surpass the power core’s potential output. The results of a critical divert action depend on where you decided to send the extra power.  
@@ -43,7 +44,7 @@ _Starship Weapons:_ The augmented weapons run at maximum safe power. For your st
 **Patch:** Your patch was especially robust. If the system takes critical damage again, it removes the patch but doesn’t also apply additional critical damage.  
 **Quick Fix:** Your inspired engineering results in a lasting repair, removing the critical damage condition from the system for 1 day instead of for 1 hour.  
 
-# MAGIC OFFICER ACTIONS
+# Magic Officer Actions
 
 **Source** _Starship Operations Manual pg. 43_  
 **Eldritch Shot:** Your magical energy also augments the damage of your selected weapon’s next attack. On that attack roll, the gunner can treat each damage die roll that results in a 1 this round as having rolled a 2 instead.  
@@ -52,7 +53,7 @@ _Starship Weapons:_ The augmented weapons run at maximum safe power. For your st
 **Psychic Currents:** You manipulate the currents to push your starship along, increasing its speed by 2 until the start of the next turn.  
 **Scrying:** Your divination reveals a weakness in a random quadrant of the targeted starship. The next time one of your starship’s weapons deals damage to the targeted starship’s Hull Points, it has a 25% chance to also deal critical damage to a random system.  
 
-# PILOT ACTIONS
+# Pilot Actions
 
 **Source** _Starship Operations Manual pg. 43_  
 **Audacious Gambit:** Your incredible maneuvering leaves enemy gunners confounded. You gain a +4 circumstance bonus to your ship’s AC and TL until the start of the next round.  
@@ -67,7 +68,7 @@ _Flyby:_ You line up the shot perfectly. The gunner gains a +2 circumstance bonu
 _Ramming Speed:_ You fly your ship fast and true. You gain a +2 circumstance bonus to the gunnery check to ram the target, and if you succeed, you deal additional damage to the target equal to your starship’s tier.  
 _Slide:_ You slide and rotate your starship simultaneously. At the end of the stunt’s movement, your starship can turn once.  
 
-# SCIENCE OFFICER ACTIONS
+# Science Officer Actions
 
 **Source** _Starship Operations Manual pg. 43_  
 **Activate ECM or Rapid Jam:** Your powerful ECM module disrupts enemy targeting computers. Gunners aboard the target starship also take a –2 penalty to gunnery checks during this round.  
@@ -79,7 +80,7 @@ _Slide:_ You slide and rotate your starship simultaneously. At the end of the st
 **Scan:** Your insightful scans reveal a weakness in a random quadrant of the targeted starship. The next time one of your starship’s weapons deals damage to the targeted starship’s Hull Points, it has a 25% chance to also deal critical damage to a random system.  
 **Target System:** Your sensors keep a continuous lock on the enemy starship. The effects of target system last until the start of the next round.  
 
-# OPEN CREW ACTIONS
+# Open Crew Actions
 
 **Source** _Starship Operations Manual pg. 43_  
 **Lead Boarding Party:** Your assault team inflicts devastating damage to a nearby system. You inflict critical damage to an additional starship system, determined randomly.  

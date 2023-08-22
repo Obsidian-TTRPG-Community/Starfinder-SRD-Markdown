@@ -2,17 +2,19 @@
 aliases: 
 tags: 
 ---
-# CLASSES
-**Source** _Starfinder Core Rulebook pg. 126_  
+
+# Classes
+
+**Source**:: _Starfinder Core Rulebook pg. 126_  
 From the cunning [[Operative]] to the deadly [[Soldier]], each core class in the Starfinder Roleplaying Game draws upon a central idea common to many characters found in science fantasy settings. However, there is a vast universe of interesting and useful character concepts beyond those easily represented by the existing classes. Players can emulate some of these concepts by choosing specific class features, selecting an appropriate theme (see page 28), or multiclassing (see page 26) to combine elements from more than one class. However, other concepts demand changes to a character’s focus that are beyond the scope of the standard classes and themes. To encompass these major differences, your character can take an archetype—a set of alternate class features that alters or replaces class features you would otherwise gain at specific levels.  
   
 An archetype is a character concept more specific and involved than a theme, but not as comprehensive or broad as a class. Each archetype represents a significant divergence from the abilities of a typical member of the core classes. Archetypes provide an additional layer of control for players who want to fine-tune their character’s advancement.  
   
 An archetype generally grants abilities that aren’t otherwise available to characters through a class, or it may grant easier access to a specific set of appropriate abilities. In general, these abilities aren’t tied to the background of any one core class or theme and aren’t available to characters via other sources. For example, the phrenic adept archetype (see page 128) could be used for a character who is naturally psychic or who gained psychic powers after being exposed to strange alien technology. Without a similar background or event, other characters can’t gain these powers, making it more appropriate for an archetype than a series of class features.  
 
-## GAINING AN ARCHETYPE
+## Gaining an Archetype
 
-**Source** _Starfinder Core Rulebook pg. 126_  
+**Source**:: _Starfinder Core Rulebook pg. 126_  
 You can gain an archetype when you achieve a new class level in an eligible class matching the earliest level for which the archetype offers an alternate class feature. The archetype is then considered part of the class you gain a level in when you level up. For example, if you are playing an [[Envoy]] interested in being a [[Starfinder Forerunner]], you must select that archetype when you gain your 2nd level of [[Envoy]] (the first level at which the Starfinder forerunner has an alternate class feature). From that point forward, whenever you gain an envoy class level, you should check whether you gain an alternate class feature from the Starfinder forerunner archetype, as well as whether any envoy class features are altered or replaced. When you first gain an archetype, read through all the altered or replaced class features that will affect your character, and note these down; for some classes (especially mystics and technomancers) these changes affect features from levels before or after the levels at which you gain archetype features.  
   
 You cannot add the same archetype to multiple classes if you multiclass. For example, if a 2nd-level vesk envoy has selected the Starfinder forerunner archetype and later decides to multiclass and gain levels in the soldier class, the character cannot add the Starfinder forerunner archetype to his soldier class. Every time he gains soldier levels, he follows the normal character progression. If the character later gains more levels in envoy, that class continues to have the Starfinder forerunner archetype attached to it.  
@@ -21,23 +23,24 @@ You also cannot add more than one archetype to a specific class. For example, on
   
 When an archetype refers to class level, it is referring to the number of levels you have in the class associated with the archetype.  
 
-## ALTERNATE CLASS FEATURES
+## Alternate Class Features
 
-**Source** _Starfinder Core Rulebook pg. 126_  
+**Source**:: _Starfinder Core Rulebook pg. 126_  
 An archetype grants alternate class features that replace or alter class features normally granted by your class at one or more levels. The possible levels at which an archetype might grant an alternate class feature are 2nd, 4th, 6th, 9th, 12th, and 18th. An archetype might grant alternate class features at a few of these levels or at all of them.  
   
 Each class has a specific list of the class features that are altered or replaced, as defined in each class’s replaced class features entry. For example, an envoy who selects the Starfinder forerunner at 2nd level gains the trained for trouble class feature granted by the Starfinder forerunner instead of the envoy improvisation normally gained at 2nd level.  
   
 In some cases, a character gains a class feature at a later level than she would normally, rather than not gain it all. In these cases, a different class feature is generally replaced at the level the delayed class feature is now acquired. For example, a mechanic who has an archetype with a 9th-level alternate class feature does not gain the override class feature until 10th level. When this character’s mechanic class level reaches 10th, she gains the override class feature, but she doesn’t gain the mechanic trick normally gained at that level.  
 
-## OTHER CONSIDERATIONS
+## Other Considerations
 
-**Source** _Starfinder Core Rulebook pg. 126_  
+**Source**:: _Starfinder Core Rulebook pg. 126_  
 While having an archetype may represent your training with or membership in a specific faction, having the archetype is generally not required for you to be considered part of a faction. For example, the Starfinder forerunner (see page 129) is specifically for characters who are part of the Starfinder Society and who have received special training for participation in Starfinder expeditions. However, it is not necessary to take this archetype in order to become a member of the Starfinder Society. The archetype represents only one possible path within the society, not the sole choice for characters tied to that faction.  
   
 Archetypes can generally be added to any class, though some archetypes might note they are available only to specific classes or might have other prerequisites you must meet to select them. For example, an archetype that represents training in a specific magic tradition might be available only to mystics and technomancers, while an archetype designed for devotees of an ancient monastery’s fighting techniques might be available only to solarians and soldiers. An archetype notes in its description whether it has any prerequisites or restrictions.
 
-## CLASS GUIDE
+## Class Guide
+
 **Face**: Envoy, Solarians, Operative, Witchwarper  
 **Skills**: Biohacker, Envoy, Mechanic, Operative, Solarian  
 **Spellcaster**: Mystic, Precog, Technomancer, Witchwarper  

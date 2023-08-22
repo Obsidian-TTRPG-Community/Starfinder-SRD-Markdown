@@ -5,7 +5,7 @@ Assistants:any
 Level: 4
 ---
 # REINCARNATION - LEVEL 4
-**Source** _Galactic Magic pg. 93_  
+**Source**:: _Galactic Magic pg. 93_  
 **Script** Prepare the Area (Mysticism; failure); Invoke Entity (Will; damage, failure); Sacrifice (items and Resolve); Speak the Name (the individual being reincarnated)  
 **Assistants** any  
 **Round Length** 1 hour

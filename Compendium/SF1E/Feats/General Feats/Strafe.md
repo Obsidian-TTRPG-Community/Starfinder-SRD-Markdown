@@ -5,8 +5,10 @@ Prerequisites: Dex 17, Mobility, Shot on the Run, base attack bonus +12.
 tags: 
 Type: General Feat
 ---
-# STRAFE
-**Source** _Galaxy Exploration Manual pg. 51_  
+
+# Strafe
+
+**Source**:: _Galaxy Exploration Manual pg. 51_  
 Your quick reflexes allow you to shoot rapidly from the air.
 
 **Prerequisites**: Dex 17, Mobility, Shot on the Run, base attack bonus +12.

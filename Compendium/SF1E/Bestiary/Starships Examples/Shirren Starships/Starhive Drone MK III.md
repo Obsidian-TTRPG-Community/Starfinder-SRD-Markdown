@@ -5,7 +5,9 @@ tags:
 Tier: 1
 Type: Small light freighter
 ---
-# STARHIVE DRONE MK III
+
+# Starhive Drone Mk Iii
+
 > [!infobox|locr n-th clean]
 >  [[Starship_StarhiveDroneMk2.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Small light freighter, **Tier** 1
 **Attack (Starboard)** light torpedo launcher (2d8)  
 **Power Core** Pulse Brown (90 PCU); **Drift Engine** Signal Basic; **Systems** budget mid-range sensors, crew quarters (basic), mk 2 armor, mk 1 defenses, mk 1 mononode computer; **Expansion Bays** cargo holds (2), escape pods; **Modifiers** +1 any one check per round, +1 Piloting; **Complement** 6
 
-### CREW
+### Crew
 
 **Captain** Computers +5 (1 rank), Diplomacy +5 (1 rank), Engineering +5 (1 rank), gunnery +5  
 **Engineer** Engineering +10 (1 rank)  
@@ -27,6 +29,6 @@ Small light freighter, **Tier** 1
 **Pilot** Piloting +6 (1 rank)  
 **Science Officer** Computers +5 (1 rank)
 
-## DESCRIPTION
+## Description
 
 As befits their name, Drones are extremely common and used as freight, personnel transport, light colonial defense, and more. Despite the ships’ mass production, Starhive takes a natural shirren pride in making sure each ship’s iridescent paint job is unique.

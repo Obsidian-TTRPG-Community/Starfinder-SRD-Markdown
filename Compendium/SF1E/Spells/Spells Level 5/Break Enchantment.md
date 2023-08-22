@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# BREAK ENCHANTMENT
 
-**Source** _Starfinder Core Rulebook pg. 341_  
-**Classes** Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
-**School** abjuration  
-**Casting Time** 1 minute  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** up to one creature per level, no two of which can be more than 30 ft. apart  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+# Break Enchantment
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 341_  
+**Classes**:: Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: abjuration  
+**Casting-Time**:: 1 minute  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: up to one creature per level, no two of which can be more than 30 ft. apart  
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 This spell frees victims from curses, enchantments, and transmutations. _Break enchantment_ can reverse even an instantaneous effect. For each such effect, you attempt a caster level check (1d20 + your caster level, maximum +15) against a DC equal to 11 + the caster level of the effect. Success means that the creature is free of the spell, curse, or effect. For a cursed magic item, the DC of the caster level check is equal to the DC of the curse.
 

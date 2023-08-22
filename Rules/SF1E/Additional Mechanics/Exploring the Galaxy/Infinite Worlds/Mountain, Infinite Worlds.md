@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# MOUNTAIN
+
+# Mountain
 
 **Source** _Galaxy Exploration Manual pg. 72_  
 Never ideal for an easy journey, mountain terrain varies greatly. Mountains can be glorified hillsides with very few trees, extreme ranges spanning thousands of miles coated in dense forest, and desert peaks with brittle climbing conditions relentlessly heated beneath a harsh sun.  
@@ -11,7 +12,7 @@ However, where there is death, there is also great propensity for life. Mountain
 Some mountains stand alone, formidable paragons of the form that hold great mysteries not just at their peaks, but along their jagged crevasses and treacherous rock faces. Others form extensive ranges that stretch for thousands of miles of seemingly endless elevation change, slowing all but the hardiest travelers to a crawl. At their base, mountains might ease into sloping, heavily treed hillsides or vast expanses of shale and eroded boulders.  
 Whatever shape their homes take, sapient inhabitants of mountain biomes turn to technological and magical solutions to mitigate the dangers of mountain living. Whether carving their homes into the rock, constructing elaborate, sturdy-strutted buildings among the cliffs, or even camouflaging their presence with boulder-size, rock-textured dwellings, mountain inhabitants are often as rugged as their surroundings.  
 
-## MOUNTAIN ADVENTURERS
+## Mountain Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 72_  
 Those who live in mountain climes gradually adapt to the lack of oxygen and become acclimated to high-altitude living (Core Rulebook 397), which also serves them well in worlds and environments with thin atmospheres.  
@@ -20,7 +21,7 @@ Between the mines and other precious resources that flow from the mountains, the
 Adventurers who hail from mountains often have hardy Survival skills born of necessity, while Physical Science helps them predict and adapt to their ever-changing circumstances. Those whose culture revolves around the spiritual draw of mountains might be well versed in Mysticism, while others might have a more economic bent, lending themselves well to any number of related Profession skills.  
 New arrivals to mountain regions face a steep learning curve and often rely on technology to fill in the gaps. With these resources required to live, newcomers find themselves operating alone or in small groups, as trusting the wrong people might leave them without the necessary equipment to make it through the next day.  
 
-## MOUNTAIN WORLDS
+## Mountain Worlds
 
 **Source** _Galaxy Exploration Manual pg. 73_  
 The vast majority of terrestrial planets have some kind of mountainous region, though the diversity of their wildlife and landscapes may obscure the common thread which links them. Planets composed entirely of mountains are often lightly populated—usually with small settlements scattered across peaks and valleys—and feature a great range of environments. The valley floor might be hot and extremely wet, while the mountain itself might be fully iced over and dry enough to crack skin. Desert mountains might be the inverse of this, with higher altitudes providing wetter conditions than the valleys.  
@@ -28,19 +29,19 @@ Due to this diversity, flora and fauna have evolved to withstand many unique hur
 A commonality among most mountain worlds is a lack of moisture. Whether such planets are covered in dusty desert or bone-chilling ice, the air is dry and difficult to breathe. Face coverings and breathing apparatuses are necessary to avoid long days of upward crawls that slowly turn lethargic as throats crack and brains starve for oxygen.  
 Mountain worlds often experience outsized tectonic activity, rock slides, and avalanches. The damage caused by even small tremors can be catastrophic for valley cities or hillside homes. Mountainsides can be riddled with the bodies of fallen travelers, climbers, and prospectors. Due to the remoteness and danger of collecting these bodies, they are often left behind without a burial, and it is not uncommon for the undead to roam these vast ranges.  
 
-## MOUNTAIN RULES AND REFERENCE
+## Mountain Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 73_  
 A short but comprehensive set of rules for mountain adventure is available in the Core Rulebook on page 397. This section outlines the different aspects of mountains, from chasms to Perception checks. The Weather and Environmental Rules sections on pages 398–405 of the Core Rulebook also contain several relevant rules, particularly cold dangers and falling.  
 For equipment, the gear clamp (Core Rulebook 231) is useful for keeping items together while climbing, and having gems on hand to trade can help when encountering mountain-dwelling miners who prefer to barter solely in valuable minerals.  
 Perhaps the most famous mountain in the Pact Worlds is Akiton’s Ka, Pillar of the Sky (Pact Worlds 55), which is the site of many spiritual journeys made to its peak and a bustling market at its foot. Extensive and mysterious mountain ranges can be found on many planets, such as Castrovel’s Singing Range (Pact Worlds 36) or on the Liavaran moon Osoro (Pact Worlds 116), where settlements sit on mountaintops emerging from a sea of toxic gases.  
 
-## MOUNTAIN TOOLBOX
+## Mountain Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 74_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### MOUNTAIN INHABITANTS
+### Mountain Inhabitants
 
 | D%     | Sapient          | Threat           |
 |--------|------------------|------------------|
@@ -70,8 +71,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Vlaka            | Thermatrod       |
 | 97–100 | Witchwyrd        | Wolliped         |
 
-
-### MOUNTAIN ADVENTURE HOOKS
+### Mountain Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                                                |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

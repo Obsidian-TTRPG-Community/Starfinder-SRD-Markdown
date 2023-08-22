@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# IRRADIATE
 
-**Source** _Starfinder Core Rulebook pg. 362_  
-**Classes** Mystic 3, Technomancer 3, Witchwarper 3  
-**School** conjuration (creation, disease, poison, radiation)  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
+# Irradiate
+
+**Source**:: _Starfinder Core Rulebook pg. 362_  
+**Classes**:: Mystic 3, Technomancer 3, Witchwarper 3  
+**School**:: conjuration (creation, disease, poison, radiation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Area** 10-ft.-radius spread; see text  
-**Duration** instantaneous  
-**Saving Throw** Fortitude partial, see text; **Spell Resistance** no
+**Duration**:: instantaneous  
+**Saving-Throw**:: Fortitude partial, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 This spell floods the area of effect with dangerous radiation. The strength of the radiation you create depends on your caster level, as detailed below. The central irradiated area is always a 10-foot-radius spread that expands normally per the rules for radiation areas of effect (see page 403). Creatures within the area are exposed to the radiation only once; the radiation does not linger in the area. The saving throw to resist the radiation effects is set by the spell rather than the standard save DC for radiation.
 

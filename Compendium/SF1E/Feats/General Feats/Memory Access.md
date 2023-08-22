@@ -5,8 +5,10 @@ Prerequisites: Construct type, constructed racial trait, exocortex, or head slot
 tags: 
 Type: General Feat
 ---
-# MEMORY ACCESS
-**Source** _Character Operations Manual pg. 116_  
+
+# Memory Access
+
+**Source**:: _Character Operations Manual pg. 116_  
 You can access the physical pathways of even the dimmest memories, whether from previous inhabitants of your body or from your own experiences.
 
 **Prerequisites**: Construct type, constructed racial trait, exocortex, or head slot augmentation.

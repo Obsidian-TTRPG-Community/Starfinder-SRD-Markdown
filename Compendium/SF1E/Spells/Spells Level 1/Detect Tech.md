@@ -9,19 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# DETECT TECH
 
+# Detect Tech
 
-**Source** _Starfinder Core Rulebook pg. 349_  
-**Classes** Technomancer 1  
-**School** divination  
-**Casting Time** 1 standard action  
-**Range** 60 ft.  
+**Source**:: _Starfinder Core Rulebook pg. 349_  
+**Classes**:: Technomancer 1  
+**School**:: divination  
+**Casting-Time**:: 1 standard action  
+**Range**:: 60 ft.  
 **Area** cone-shaped burst  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You detect all technological items (even hybrid items) with charges or that replenish charges in the area, including batteries, power cells, and generators (as well as such items that are on creatures you can see, even if the creatures have hidden those items on themselves). You can’t determine if there are technological items in areas you can’t see, nor can you detect technological traps in this way.
 

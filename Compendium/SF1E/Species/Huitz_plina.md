@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HUITZ'PLINA
+
+# Huitz'plina
 
 > [!infobox|left n-th clean]
 >  [[Huitz'plina.png|Spielern zeigen!]]
@@ -23,31 +24,31 @@ Huitz’plinas reach maturity around 30 and can live over one hundred years each
 **Ability Modifiers** +2 Dex, +2 Wis, -2 Int  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Huitz’plinas are Medium magical beasts.   
 
-## CLIMBER
+## Climber
 
 Huitz’plinas have a climb speed of 20 feet.   
 
-## HUITZ’PLINA SENSES
+## HUITZ’PLINA Senses
 
 Huitz’plinas have blindsense (scent) with a range of 30 feet and darkvision with a range of 60 feet.   
 
-## PREHENSILE TAIL
+## Prehensile Tail
 
 Huitz’plinas’ tails are as effective as a hand at manipulating objects, which allows them to wield and hold up to three hands’ worth of weapons and equipment. This doesn’t increase the number of attacks they can make during combat.   
 
-## PREDREAMING
+## Predreaming
 
 Once per day, a huitz’plina can spend a Resolve Point to receive a hazy vision related to the outcome of an event, goal, or activity as far as a day into the future. This otherwise functions as augury with a 100% chance of successfully receiving a meaningful reply.   
 
-## SPINE ASSAULT
+## Spine Assault
 
 Once per day, after a huitz’plina takes the total defense action and before the start of their next turn, they can take a reaction to launch a barrage of spines in a 20-foot spread centered on themselves. Every other creature in the area must succeed at a Reflex save (DC = 10 + half the huitz’plina’s level + the huitz’plina’s Constitution modifier) or take piercing damage equal to three times the huitz’plina’s level; a successful save halves this damage. 
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4 to 5 ft.  
 **Average Weight** 100 to 200 lbs.  

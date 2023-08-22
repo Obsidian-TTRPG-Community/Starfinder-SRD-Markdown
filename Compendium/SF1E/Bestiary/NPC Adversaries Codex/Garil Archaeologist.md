@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GARIL ARCHAEOLOGIST
+
+# Garil Archaeologist
+
 **XP 2,400**  
 N Medium monstrous humanoid (garil)  
 **Init** +4; **Senses** darkvision 60 ft.; Perception +18
@@ -38,15 +40,15 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### CLIMB
+#### Climb
 
 Garil have a climb speed of 20 feet and a +8 on Athletics checks when climbing.
 
-#### GREGARIOUS (EX)
+#### Gregarious (EX)
 
 When a garil successfully use Diplomacy to win over an individual, that creature takes a –2 penalty on attempts to resist any of the garil’s Charisma\-based skills for the next 24 hours.
 
-#### STUBBORN (EX)
+#### Stubborn (EX)
 
 As a swift action a garil gains a +2 racial bonus on Will saving throws to resist spells and spell-like abilities of the enchantment (charm) and enchantment (compulsion) subschools. Spending 1 Resolve point increases this to a +4 bonus for one round. In addition, if a member of this race fails such a save, it receives another save 1 round later to prematurely end the effect (assuming the spell or spell-like ability has a duration greater than 1 round). This second save is made at the same DC as the first. If the member of the race has a similar ability from another source, it can only use one of these abilities per round but can try the other on the second round if the first reroll ability fails.
 

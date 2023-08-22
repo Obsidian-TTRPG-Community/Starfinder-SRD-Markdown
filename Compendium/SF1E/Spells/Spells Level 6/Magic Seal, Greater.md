@@ -9,17 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# MAGIC SEAL, GREATER
-**Source** _Galactic Magic pg. 77_  
-**Classes** Mystic 6, Precog 6, Technomancer 6, Witchwarper 6  
-**School** abjuration  
-**Casting Time** 1 round  
-**Range** medium (100 ft. + 10 ft./level)  
-**Area** 20-ft.-radius emanation centered on one creature, one unattended object or object you touch, or a point in space  
-**Duration** 1 round/level (D)  
-**Saving Throw** Will negates; **Spell Resistance** yes
 
-## DESCRIPTION
+# Magic Seal, Greater
+
+**Source**:: _Galactic Magic pg. 77_  
+**Classes**:: Mystic 6, Precog 6, Technomancer 6, Witchwarper 6  
+**School**:: abjuration  
+**Casting-Time**:: 1 round  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Area** 20-ft.-radius emanation centered on one creature, one unattended object or object you touch, or a point in space  
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 You create a seal that suppresses magic in an area, which radiates from a creature or an object and moves with that target. An unwilling target can attempt a saving throw against this spell and use its spell resistance, and the sealed area fails to manifest if either defense works. If you target a point, the effect is stationary  
   

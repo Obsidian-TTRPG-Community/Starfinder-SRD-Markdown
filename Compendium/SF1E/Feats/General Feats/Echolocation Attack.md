@@ -5,8 +5,10 @@ Prerequisites: Perception as a class skill.
 tags: 
 Type: General Feat
 ---
-# ECHOLOCATION ATTACK
-**Source** _Character Operations Manual pg. 114_  
+
+# Echolocation Attack
+
+**Source**:: _Character Operations Manual pg. 114_  
 You have learned to use the echo of sonic attacks to locate unseen assailants.
 
 **Prerequisites**: Perception as a class skill.

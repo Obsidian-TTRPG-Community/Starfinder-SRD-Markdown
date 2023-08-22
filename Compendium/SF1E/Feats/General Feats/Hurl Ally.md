@@ -5,8 +5,10 @@ Prerequisites: size Large, Strength 17
 tags: 
 Type: General Feat
 ---
-# HURL ALLY
-**Source** _Interstellar Species pg. 67_  
+
+# Hurl Ally
+
+**Source**:: _Interstellar Species pg. 67_  
 You use your innate strength to launch a smaller ally into the thick of battle.
 
 **Prerequisites**: size Large, Strength 17

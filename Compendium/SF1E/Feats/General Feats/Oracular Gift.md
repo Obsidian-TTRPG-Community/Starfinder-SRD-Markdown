@@ -5,8 +5,10 @@ Prerequisites: Ability to cast _augury_.
 tags: 
 Type: General Feat
 ---
-# ORACULAR GIFT
-**Source** _Character Operations Manual pg. 117_  
+
+# Oracular Gift
+
+**Source**:: _Character Operations Manual pg. 117_  
 You have a particular knack for predicting the future.
 
 **Prerequisites**: Ability to cast _augury_.

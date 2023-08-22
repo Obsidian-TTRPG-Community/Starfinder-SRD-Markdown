@@ -6,8 +6,10 @@ NoteType: Spell
 tags: 
 Type: Ritual 
 ---
-# PANOPTICON - LEVEL 3
-**Source** _Galactic Magic pg. 93_  
+
+# Panopticon - Level 3
+
+**Source**:: _Galactic Magic pg. 93_  
 **Script** Prepare the Space (items), Gather Power (Computers; fatigued, retry), Open the Way (Will; electricity damage, failure)  
 **Assistants** none  
 **Round Length** 1 hour

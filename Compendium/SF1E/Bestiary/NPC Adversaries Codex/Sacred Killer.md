@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# SACRED KILLER
+
+# Sacred Killer
 
 **XP 4,800**  
 Half-orc operative  
@@ -40,11 +41,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### DEATH ATTACK (EX)
+#### Death Attack (EX)
 
 After studying a target for three consecutive rounds as a full action, the sacred killer can make a melee or ranged attack as a death attack. If this attack hits, it is automatically considered a critical hit. The target must also succeed at a DC 18 Fortitude save or be reduced to 0 Hit Points and 0 Stamina Points. Characters with the Legendary Power feat can spend a legendary power point instead of losing Hit Points and Stamina Points.
 
-#### ORC FEROCITY (EX)
+#### Orc Ferocity (EX)
 
 Once per day, a half-orc brought to 0 Hit Points but not killed can fight on for 1 more round. The half-orc drops to 0 HP and is dying (following the normal rules for death and dying) but can continue to act normally until the end of her next turn, when he becomes unconscious as normal. If he takes additional damage before this, he ceases to be able to act and falls unconscious.
 

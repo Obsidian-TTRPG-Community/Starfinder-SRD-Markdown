@@ -5,7 +5,9 @@ tags:
 Tier: 9
 Type: Large heavy freighter 
 ---
-# SANJAVAL REDSUN
+
+# Sanjaval Redsun
+
 > [!infobox|locr n-th clean]
 >  [[Starship_SanjavakRedsun.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Large heavy freighter, **Tier** 9
 **Attack (Aft)** flak thrower (3d4, 5 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** crew quarters (common), extra light weapon mount (aft), mk 5 armor, mk 5 defenses, mk 1 mononode computer, security (biometric locks); **Expansion Bays** cargo holds (6), smuggler compartment, tech workshop; **Modifiers** +1 any one check per round, +1 Piloting; **Complement** 12 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Computers +22 (9 ranks), Engineering +22 (9 ranks), gunnery +15 (9th level), Piloting +18 (9 ranks)  
 **Engineers (4)** Engineering +22 (9 ranks)  
@@ -28,7 +30,7 @@ Large heavy freighter, **Tier** 9
 **Pilots (2)** Piloting +18 (9 ranks)  
 **Science Officer** Computers +17 (9 ranks)
 
-## DESCRIPTION
+## Description
 
 The Sanjaval Spaceflight Systems Redsun-class trader is a study in opportunity costs. On one hand, the heavy freighter contains six expansive cargo holds with removable bulkheads, allowing crews to combine the individual holds into one contiguous, cavernous cargo bay. On the other hand, all of the Redsun’s primary systems, living quarters, and weapons are packed into what little space is left over, making for very cramped living conditions for its crew members. Although it is broad, slow, and ungainly in space, the Redsun makes up for its ponderous performance on long hauls, as its powerful Drift engine cuts typical travel times in half. This speed, along with its prodigious cargo capacity, helps the Redsun stand out from its competitors; as such, it is a favored vessel among independent merchants throughout the Pact Worlds and beyond.  
   

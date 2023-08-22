@@ -9,17 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# DISGUISE SELF
 
+# Disguise Self
 
-**Source** _Starfinder Core Rulebook pg. 350_  
-**Classes** Mystic 1, Precog 1, Technomancer 1, Witchwarper 1  
-**School** illusion  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** 10 minutes/level (D)  
+**Source**:: _Starfinder Core Rulebook pg. 350_  
+**Classes**:: Mystic 1, Precog 1, Technomancer 1, Witchwarper 1  
+**School**:: illusion  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: 10 minutes/level (D)  
 
-## DESCRIPTION
+## Description
 
 You make yourself—and any clothing, armor, weapons, and equipment on you—look different. You can seem up to 1 foot shorter or taller, thin, fat, or in between. You can’t change your creature type (although you can appear as another subtype). Otherwise, the extent of the apparent change is up to you. You could merely add or obscure a minor feature, or you could look like an entirely different person or gender.
 

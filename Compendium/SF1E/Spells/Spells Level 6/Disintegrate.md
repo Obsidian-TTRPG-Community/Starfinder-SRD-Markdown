@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# DISINTEGRATE
 
-**Source** _Starfinder Core Rulebook pg. 350_  
-**Classes** Precog 6, Technomancer 6, Witchwarper 6  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
-**Targets** one creature or object, or up to a 10-ft. cube of nonliving matter  
-**Duration** instantaneous  
-**Saving Throw** Fortitude partial (object); **Spell Resistance** yes
+# Disintegrate
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 350_  
+**Classes**:: Precog 6, Technomancer 6, Witchwarper 6  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Targets**:: one creature or object, or up to a 10-ft. cube of nonliving matter  
+**Duration**:: instantaneous  
+**Saving-Throw**:: Fortitude partial (object);
+**Spell Resistance**:: yes
+
+## Description
 
 Immense power shoots from your finger, with the potential to disintegrate a target where it stands.
 

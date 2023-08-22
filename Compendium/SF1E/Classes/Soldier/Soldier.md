@@ -2,34 +2,36 @@
 aliases: 
 tags: 
 ---
-# SOLDIER
-**Source** _Starfinder Core Rulebook pg. 110_  
+
+# Soldier
+
+**Source**:: _Starfinder Core Rulebook pg. 110_  
 Conflict is an inevitable result of life. On every world that harbors complex living organisms, creatures battle one another for dominance, resources, territory, or ideals. Whether you’ve taken up arms to protect others, win glory, exact revenge, or simply earn a living, you are the perfect embodiment of this truth. You’re an expert at combat of all types but tend to prefer heavy armor and weapons—the bigger, the better. You may be a career soldier, a fresh mercenary recruit, or a lone wolf who rejects authority, but whether rushing in for hand-to-hand combat or firing tactical barrages, you’re a consummate warrior, never hesitating to put yourself in the line of fire to protect your friends.
 
 **Hit Points**: 7  
 **Stamina Points**: 7
 
-## KEY ABILITY SCORE - STR|DEX
+## Key Ability Score - STR|DEX
 
 Your Strength helps you attack up close in melee and carry heavier weapons and armor, while your Dexterity helps you fire weapons from a distance and dodge returning fire, so you should choose either Strength or Dexterity as your key ability score. Once made, this choice cannot be changed. A high Constitution score allows you to soak up more damage.
 
-## CLASS SKILLS
+## Class Skills
 
 The Soldier's class skills are Acrobatics (Dex), Athletics (Str), Engineering (Int), Intimidate (Cha), Medicine (Int), Piloting (Dex), Profession (Cha, Int, or Wis), Survival (Wis).
 
 **Skill Points at each Level**: 4 + Int modifier.
 
-## PROFICIENCIES
+## Proficiencies
 
-### ARMOR
+### Armor
 
 Light armor and heavy armor, shields
 
-### WEAPONS
+### Weapons
 
 Basic and advanced melee weapons, small arms, longarms, heavy weapons, sniper weapons, and grenades
 
-## CLASS FEATURES
+## Class Features
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                      |
 |-------|-------------------|-----------|----------|-----------|------------------------------------------------------------------------------|
@@ -57,40 +59,40 @@ Basic and advanced melee weapons, small arms, longarms, heavy weapons, sniper we
 
   
 
-## PRIMARY FIGHTING STYLE - 1ST LEVEL
+## Primary Fighting Style - 1ST Level
 
 You have a preferred fighting style that represents the type of soldier you are. Each fighting style is composed of various style techniques that you learn as you gain experience. You must pick one fighting style upon taking your first soldier level, and once made, this choice cannot be changed. Descriptions of the fighting styles you can choose from appear on pages 112–115.
 
-## PRIMARY STYLE TECHNIQUE - 1ST LEVEL
+## Primary Style Technique - 1ST Level
 
 At 1st level and every 4 levels thereafter, you gain a style technique unique to your primary fighting style.
 
-## COMBAT FEAT - 2ND LEVEL
+## Combat Feat - 2ND Level
 
 At 2nd level and every 2 levels thereafter, you gain a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as combat feats.
 
 Whenever you gain a new bonus feat, you can also choose to replace one of the bonus feats you have already learned with a different bonus feat. The feat you replace can’t be one that was used as a prerequisite for another feat or other ability. You can change only one feat at any given level, and you must choose whether or not to swap the feat at the time you gain the new bonus feat.
 
-## GEAR BOOST - 3RD LEVEL
+## Gear Boost - 3RD Level
 
 At 3rd level and every 4 levels thereafter, you learn a trick called a gear boost that make you better with a particular type of weapon or armor. Choose from the gear boosts listed below. Some gear boosts require you to reach a certain soldier level to select them; this level is indicated in parentheses after the boost’s name.
 
-## WEAPON SPECIALIZATION (EX) - 3RD LEVEL
+## Weapon Specialization (EX) - 3RD Level
 
 You gain Weapon Specialization as a bonus feat for each weapon type this class grants you proficiency with.
 
-## SECONDARY FIGHTING STYLE - 9TH LEVEL
+## Secondary Fighting Style - 9TH Level
 
 You choose another fighting style. Once you choose this second style, it cannot be changed.
 
-## SECONDARY STYLE TECHNIQUE - 9TH LEVEL
+## Secondary Style Technique - 9TH Level
 
 At 9th level and every 4 levels thereafter, you gain a style technique unique to your secondary fighting style. For the purposes of these style techniques, treat your soldier level as equal to your soldier level – 8.
 
-## SOLDIER’S ONSLAUGHT (EX) - 11TH LEVEL
+## SOLDIER’S Onslaught (EX) - 11TH Level
 
 When you make a full attack, you can make up to three attacks instead of two attacks. You take a –6 penalty to these attacks instead of a –4 penalty.
 
-## KILL SHOT (EX) - 20TH LEVEL
+## Kill Shot (EX) - 20TH Level
 
 As a standard action, you can make a single attack against an enemy. If the attack hits and does not kill your enemy, you can expend 1 Resolve Point to force the creature to succeed at a Fortitude save or die. Once you’ve used this ability on a creature (regardless of whether or not you forced it to attempt a Fortitude save), that creature is immune to your kill shot for 24 hours.

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DRAELIK
+
+# Draelik
+
 > [!infobox|left n-th clean]
 >  [[Draelik.png|Spielern zeigen!]]
 > 
@@ -19,29 +21,29 @@ The few draeliks who don’t follow these entropic beliefs generally leave the K
 **Ability Modifiers** +2 Con, +2 Wis, -2 Cha  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Draeliks are Medium humanoids with the draelik subtype.  
 
-## DARKVISION
+## Darkvision
 
 Draeliks gain darkvision out to 60 feet.  
 
-## DRAELIK MAGIC
+## Draelik Magic
 
 Draeliks gain the spells listed below as spell-like abilities. The caster level for these effects is equal to the draelik’s character level.  
 1/day—_wisp ally_  
 At will—_fatigue_, _ghost sound_  
 
-## LURKER
+## Lurker
 
 Draeliks receive a +4 bonus to Stealth checks in dim light or darker conditions.  
 
-## NECROMANCY RESISTANCE
+## Necromancy Resistance
 
 Draeliks receive a +2 racial bonus to saving throws against necromancy effects.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6–8 ft.  
 **Average Weight** 130–270 lbs.  

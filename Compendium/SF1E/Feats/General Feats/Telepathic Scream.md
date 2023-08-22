@@ -5,8 +5,10 @@ Prerequisites: Intimidate 3 ranks; limited telepathy or telepathy.
 tags: 
 Type: General Feat
 ---
-# TELEPATHIC SCREAM
-**Source** _Character Operations Manual pg. 118_  
+
+# Telepathic Scream
+
+**Source**:: _Character Operations Manual pg. 118_  
 You can create a distressing telepathic scream to unnerve nearby creatures.
 
 **Prerequisites**: Intimidate 3 ranks; limited telepathy or telepathy.

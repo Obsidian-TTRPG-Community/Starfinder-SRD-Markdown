@@ -9,16 +9,17 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# CHEAT TIME
 
-**Source** _Galactic Magic pg. 70_  
-**Classes** Precog 6  
-**School** abjuration  
-**Casting Time** 1 round; see text  
-**Range** personal  
-**Duration** instantaneous  
+# Cheat time
 
-## DESCRIPTION
+**Source**:: _Galactic Magic pg. 70_  
+**Classes**:: Precog 6  
+**School**:: abjuration  
+**Casting-Time**:: 1 round; see text  
+**Range**:: personal  
+**Duration**:: instantaneous  
+
+## Description
 
 You unfetter yourself in time, rapidly performing a variety of actions in the blink of an eye. You can perform up to six actions from the following options, in a combination and order of your choice, though some actions end the spell immediately.
 

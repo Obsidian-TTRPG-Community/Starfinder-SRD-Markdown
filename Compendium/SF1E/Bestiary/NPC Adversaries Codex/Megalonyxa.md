@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# MEGALONYXA
+
+# Megalonyxa
+
 **XP 1,200**  
 Megalonyxa technomancer  
 LG Large monstrous humanoid  
@@ -44,7 +46,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### EFFICIENT SABOTAGE (EX)
+#### Efficient Sabotage (EX)
 
 Once per day when attempting an Engineering check to disable a device, a megaloynxa can roll 1d6 and add the result of the roll as an insight bonus to the check.
 
@@ -57,7 +59,7 @@ The stocky megalonyxa hail from a heavy gravity world. There, they contemplated 
 
 A typical megalonyxa stands about 10 feet tall and weighs 500 pounds.
 
-### RACIAL TRAITS
+### Racial Traits
 
 **Ability Adjustments**: +2 Str, +2 Int, –2 Dex
 

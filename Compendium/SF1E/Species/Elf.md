@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# ELF
+
+# Elf
+
 > [!infobox|left n-th clean]
 >  [[Elf.png|Spielern zeigen!]]
 > Lithe, long-lived humanoids, elves are easily recognized by their pointed ears and pupils so large that their eyes seem to be all one color. Possessed of an inherent bond with the natural world, they tend to subtly take on the coloration of their surroundings over the course of many years and have a deep spiritual regard for nature.  
@@ -22,79 +24,79 @@ Most elves stand 5-1/2 to 6-1/2 feet tall and weigh 100–150 pounds. They’re 
 **Ability Modifiers** +2 Dex, +2 Int, -2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Elves are Medium humanoids with the elf subtype.  
 
-## ELVEN IMMUNITIES
+## Elven Immunities
 
 Elves are immune to magic sleep effects and receive a +2 racial bonus to saving throws against enchantment spells and effects.  
 
-## ELVEN MAGIC
+## Elven Magic
 
 Elves receive a +2 racial bonus to caster level checks to overcome spell resistance. In addition, elves receive a +2 racial bonus to Mysticism skill checks.  
 
-## KEEN SENSES
+## Keen Senses
 
 Elves receive a +2 racial bonus to Perception skill checks.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Elves can see in dim light as if it were normal light. See Vision and Light on page 261.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5-1/2 to 6-1/2 ft.  
 **Average Weight** 100–150 lbs.  
 **Age of Maturity** 100 years  
 **Maximum Age** 350+4d% years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Elves who live off of Castrovel are more open to new experiences and relationships. Castrovelian elves call these wanderers “Forlorn,” doomed to lose friends and loved ones among shorter-lived species. Forlorn elves have ability score adjustments of +2 Dexterity, +2 Charisma, and −2 Wisdom rather than the adjustments found in the _Starfinder Core Rulebook_.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Although some elves have embraced tradition, others have developed cultural and physical adaptations outside the norm.
 
-## ASANAN ELF
+## Asanan Elf
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some Castrovelian elves dwell on Asana, rather than Sovyrian. Lashunta influence—with the aid of elven magic used during the Gap, some scholars say—has caused these elves to develop limited telepathy and lashunta magic, as the lashunta racial traits.  
   
 This replaces elven immunities and elven magic.
 
-## DARKVISION
+## Darkvision
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some elves are born with darkvision with a range of 60 feet. When these elves are in no light or dim light and they are exposed to bright light, they are dazzled for 1 round.  
   
 This replaces low-light vision.
 
-## ELVEN SKEPTIC
+## Elven Skeptic
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Elves were betrayed during the Gap and can be untrusting of others. These elves train to see through deceptions, and gain a +2 racial bonus to Sense Motive checks and saving throws against illusion spells. Once per day, they can roll a Sense Motive check twice and use the better result.  
   
 This replaces elven immunities.
 
-## FORLORN CONNECTION
+## Forlorn Connection
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Despite being called Forlorn, those elves who live among other species are often quite sociable. These elves gain a +2 racial bonus to Diplomacy checks and can cast comprehend languages once per day. At 10th level, they can also cast tongues once per day.  
   
 This replaces elven magic.
 
-## MEMORY GAP
+## Memory Gap
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Many elves were alive when the Gap ended. They have no memory of the details of their relationships and history. This lack of context is a struggle for them, but has toughened their minds. They gain a +2 racial bonus to saving throws against mind-affecting effects.  
   
 This replaces elven immunities.
 
-## WILDERNESS RUNNER
+## Wilderness Runner
 
 **Source** [_Character Operations Manual pg. 31_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Many elves enjoy spending time in unspoiled wilderness. They gain a +2 racial bonus to Survival checks.  

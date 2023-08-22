@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# DETECT THOUGHTS
 
-**Source** _Starfinder Core Rulebook pg. 349_  
-**Classes** Mystic 1, Witchwarper 1  
-**School** divination (mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** 60 ft.  
+# Detect Thoughts
+
+**Source**:: _Starfinder Core Rulebook pg. 349_  
+**Classes**:: Mystic 1, Witchwarper 1  
+**School**:: divination (mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: 60 ft.  
 **Area** cone-shaped emanation  
-**Duration** concentration, up to 1 minute/level  
-**Saving Throw** Will negates, see text; **Spell Resistance** no
+**Duration**:: concentration, up to 1 minute/level  
+**Saving-Throw**:: Will negates, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You detect the surface thoughts of intelligent creatures around you. The amount of information revealed depends on how long you study a particular area or target.
 

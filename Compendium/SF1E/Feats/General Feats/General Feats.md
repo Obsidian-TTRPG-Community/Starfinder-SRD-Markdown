@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# GENERAL FEATS
+
+# General Feats
+
 ``` dataview
 TABLE
 Prerequisites, Benefit

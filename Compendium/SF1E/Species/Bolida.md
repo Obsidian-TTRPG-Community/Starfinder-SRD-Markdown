@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# BOLITA
+
+# Bolita
+
 > [!infobox|left]
 >  [[Bolida.png|Spielern zeigen!]]
 > 
@@ -18,39 +20,39 @@ Bolidas exhibit no discernible sexual dimorphism or gender, and each bolida is c
 **Ability Modifiers** +2 Str, +2 Con, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Bolidas are Medium vermin.  
 
-## BOLIDA MOVEMENT
+## Bolida Movement
 
 Bolidas have a land speed of 30 feet and a burrow speed of 30 feet.  
 
-## BOLIDA SENSES
+## Bolida Senses
 
 Bolidas have blindsense (vibration) with a range of 30 feet, darkvision with a range of 60 feet, and low-light vision.  
 
-## CHITINOUS PLATES
+## Chitinous Plates
 
 Bolidas are covered in metallic plates that grant them a +1 racial bonus to AC.  
 
-## DEFENSIVE BALL
+## Defensive Ball
 
 As a move action, a bolida can roll its body into a nearly impenetrable defensive ball. While rolled up this way, a bolida can only uncurl itself as a move action, take the total defense action, or use its rolling charge ability. If the bolida takes the total defense action, its bonus to AC is increased to +5.  
 
-## FIRE AFFINITY
+## Fire Affinity
 
 Bolidas have resistance to fire 5, which stacks with one other source of fire resistance.  
 
-## LIGHT BLINDNESS
+## Light Blindness
 
 As the [light blindness](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Light%20Blindness) universal creature rule.  
 
-## ROLLING CHARGE
+## Rolling charge
 
 A bolida that is rolled up in a defensive ball can charge without taking the normal charge penalties to the attack roll or its AC, and it gains a +5 circumstance bonus to AC against attacks of opportunity during its movement. It can’t make a melee attack at the end of its movement, but it can instead attempt either a bull rush or reposition combat maneuver against its target with a +4 circumstance bonus to the attack roll. A bolida can’t use this ability again until it takes a 10-minute rest to recover Stamina Points.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6-1/2 to 7-1/2 ft.  
 **Average Weight** 300–400 lbs.  

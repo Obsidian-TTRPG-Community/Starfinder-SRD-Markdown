@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# VANGUARD CLASS BUILDS
+
+# Vanguard Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,113 +16,113 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# EXHIBITION FIGHTER
+# Exhibition Fighter
 
-## THEME: GLADIATOR
+## Theme: Gladiator
 
-**Source** _Character Operations Manual pg. 58_
+**Source**:: _Character Operations Manual pg. 58_
 You are an expert in one or more forms of melee combat, and you gladly display your talents for money.
 
-## ABILITY SCORES
+## Ability Scores
 
 Constitution fuels your Resolve Points and vanguard special abilities, and Dexterity aids with your defense and entropic strike attacks.
 
-## VANGUARD DISCIPLINES
+## Vanguard Disciplines
 
 Entropy shield (2nd), Evasion (2nd), Zero-gravity scuffler (2nd), Blindsense (6th)
 
-## VANGUARD ASPECT
+## Vanguard Aspect
 
 Exergy
 
-## FEATS
+## Feats
 
 Improved Combat Maneuver (disarm), Improved Combat Maneuver (grapple), Weapon Focus (basic melee weapons)
 
-## SKILLS
+## Skills
 
 Acrobatics, Athletics, Medicine, Mysticism, Profession (video personality), Stealth  
   
 
-# HEAVY INFANTRY
+# Heavy Infantry
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** _Character Operations Manual pg. 58_
+**Source**:: _Character Operations Manual pg. 58_
 You are the boots on the ground, holding territory in the thick of the heaviest, most dangerous fighting.
 
-## ABILITY SCORES
+## Ability Scores
 
 After Constitution, you need a high Strength score to benefit make the most of your heavy weapons and advanced melee weapons.
 
-## VANGUARD DISCIPLINES
+## Vanguard Disciplines
 
 Dampen (2nd), Flatten bullets (2nd), Metabolic stability (2nd), Energize (6th)
 
-## VANGUARD ASPECT
+## Vanguard Aspect
 
 Boundary
 
-## FEATS
+## Feats
 
 Heavy Weapon Proficiency, Longarm Proficiency, Weapon Focus (heavy weapons)
 
-## SKILLS
+## Skills
 
 Athletics, Intimidate, Medicine, Perception, Stealth, Survival  
   
 
-# PEACEKEEPER
+# Peacekeeper
 
-## THEME: LAW OFFICER
+## Theme: Law Officer
 
-**Source** _Character Operations Manual pg. 59_
+**Source**:: _Character Operations Manual pg. 59_
 Your job is to keep things calms and quiet, which you do as much with a stern look and reputation as with the potential for violence.
 
-## ABILITY SCORES
+## Ability Scores
 
 Wisdom is extremely important to you when making difficult decisions about legal matters, and Charisma helps you resolve situations without resorting to combat.
 
-## VANGUARD DISCIPLINES
+## Vanguard Disciplines
 
 Curative deconstruction (2nd), Friendly fire (2nd), Guarded combatant (6th), Clothesline (10th)
 
-## VANGUARD ASPECT
+## Vanguard Aspect
 
 Momentum
 
-## FEATS
+## Feats
 
 Improved Initiative, Skill Focus (Culture), Skill Focus (Diplomacy)
 
-## SKILLS
+## Skills
 
 Culture, Diplomacy, Intimidate, Life Science, Perception, Profession (arbiter)  
   
 
-# WARDEN
+# Warden
 
-## THEME: GUARD
+## Theme: Guard
 
-**Source** _Character Operations Manual pg. 59_
+**Source**:: _Character Operations Manual pg. 59_
 You’re ready for trouble, with shields prepared for offense and defense. You can’t benefit from both at once, but you have arms to spare.
 
-## ABILITY SCORES
+## Ability Scores
 
 Constitution is the most important ability score for you, and Strength allows you to carry the extra protective gear you want.
 
-## VANGUARD DISCIPLINES
+## Vanguard Disciplines
 
 Antagonize (2nd), Attracting shield (2nd), Intervene (2nd), Draw fire (6th)
 
-## VANGUARD ASPECT
+## Vanguard Aspect
 
 Reaction
 
-## FEATS
+## Feats
 
 Improved Feint, Greater Feint, Skill Focus (Bluff)
 
-## SKILLS
+## Skills
 
 Athletics, Culture, Diplomacy, Perception, Profession (guard), Survival

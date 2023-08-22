@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# INQUISITOR
+
+# Inquisitor
 
 **XP 1,600**  
 Human mechanic  
@@ -46,7 +47,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### TARGET TRACKING (EX)
+#### Target Tracking (EX)
 
 As a move action, this NPC can designate and track a single foe, gaining a +2 bonus to attack rolls against that target.
 

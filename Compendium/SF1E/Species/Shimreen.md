@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 122_  
+**Source**:: _Interstellar Species pg. 122_  
 
 [[Species_Shimreen.png|Zeigen!]]
 Born on a world wracked by eternal storms, shimreens are autochthonous humanoids composed of glimmering crystal who rose to prominence through tenacity and ingenuity, using magic and technology to adapt to their volatile environment. Now, these ingenious innovators live in idyllic city-states, each encased in a crystal dome that both shields the metropolis and powers the city with the limitless energy of a raging storm.  

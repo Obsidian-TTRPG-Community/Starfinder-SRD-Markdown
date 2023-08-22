@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# DEEPSEA GUARDIAN
+
+# Deepsea Guardian
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 1,600**  

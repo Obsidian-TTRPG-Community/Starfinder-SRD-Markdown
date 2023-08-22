@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# WALL OF EARTH
 
-**Source** _Galactic Magic pg. 86_  
-**Classes** Mystic 3, Witchwarper 3  
-**School** conjuration (creation)  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
+# Wall of Earth
+
+**Source**:: _Galactic Magic pg. 86_  
+**Classes**:: Mystic 3, Witchwarper 3  
+**School**:: conjuration (creation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
 **Effect** earthen wall with area up to one 5-ft. square/level, see text  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 An earthen barrier springs into existence, anchored to surrounding solid surfaces or, at least, supported by a firm foundation. The stress of casting this spell requires you to spend 1 Resolve Point. The wall fails to manifest in any area already occupied by a creature or object, or where it's likely to fall or collapse. However, the wall can fit into any space of surrounding nonliving material if its area is sufficient to do so.
 

@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# PRESCIENCE
 
-**Source** _Character Operations Manual pg. 139_  
-**Classes** Precog 3, Witchwarper 3  
-**School** divination  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one creature  
-**Duration** concentration + 1 round  
-**Saving Throw** Reflex partial; see text; **Spell Resistance** no
+# Prescience
 
-## DESCRIPTION
+**Source**:: _Character Operations Manual pg. 139_  
+**Classes**:: Precog 3, Witchwarper 3  
+**School**:: divination  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one creature  
+**Duration**:: concentration + 1 round  
+**Saving-Throw**:: Reflex partial; see text;
+**Spell Resistance**:: No
+
+## Description
 
 You peer into the future of multiple realities, collating and perceiving actions the target is likely to take. When that target takes an action during the duration, as a reaction you can execute one of the following effects. These effects are resolved after the target declares an intended action but before that action is resolved. The target can attempt a Reflex save to negate your reaction’s effect. If the effect successfully interrupts the target’s action, that action is still expended unless otherwise noted. Once a target has been successfully affected three times by one casting of this spell, the spell ends. You can attempt each effect only once per casting.
 

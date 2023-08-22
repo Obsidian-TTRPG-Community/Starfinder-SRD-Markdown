@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HALFLING
+
+# Halfling
 
 > [!infobox|left n-th clean]
 >  [[Halfling.png|Spielern zeigen!]]
@@ -22,86 +23,86 @@ Most halflings stand 2-1/2 to 3-1/2 feet tall and weigh around 30 pounds. They�
 **Ability Modifiers** +2 Dex, +2 Cha, -2 Str  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Halflings are Small humanoids with the halfling subtype.  
 
-## HALFLING LUCK
+## Halfling Luck
 
 Halflings receive a +1 racial bonus to all saving throws. This bonus increases to +3 against fear effects.  
 
-## KEEN SENSES
+## Keen Senses
 
 Halflings receive a +2 racial bonus to Perception skill checks.  
 
-## SNEAKY
+## Sneaky
 
 Halflings receive a +2 racial bonus to Stealth checks. In addition, halflings reduce the penalty for using Stealth while moving by 5, and reduce the Stealth check penalty for sniping by 10.  
 
-## SURE-FOOTED
+## Sure-footed
 
 Halflings receive a +2 racial bonus to Acrobatics and Athletics skill checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 2-1/2 to 3-1/2 ft.  
 **Average Weight** 25–40 lbs.  
 **Age of Maturity** 20 years  
 **Maximum Age** 100+5d20 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some halflings are naturally stronger and tougher than anyone expects, while others feel an intense desire to compete physically with larger people, distinguishing themselves through extensive strength and endurance training. These stout halflings have +2 Strength, +2 Constitution, and –2 Wisdom rather than the adjustments found in the _Starfinder Core Rulebook_.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Second only to humans in terms of adaptability, halflings make their homes across the galaxy. Also like humans, individual halflings vary greatly from one another, and they can display many traits beyond those normally associated with halflings.
 
-## CUNNING
+## Cunning
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Halflings have a reputation for larceny and guile, and sometimes this reputation is deserved. Halflings with this racial trait gain a +2 bonus to Bluff and Sleight of Hand checks, and Sleight of Hand is a class skill for them.  
   
 This replaces sure-footed.
 
-## DUCK AND COVER
+## Duck and Cover
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Halflings excel at avoiding danger by disappearing into cover. Such halflings have an additional +2 bonus to Reflex saves and Stealth checks whenever they have cover, partial cover, or soft cover.  
   
 This replaces halfling luck.
 
-## NEEDLER
+## Needler
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some halflings are experts at wielding needler pistols to tranquilize and take down larger foes or heal allies. A halfling who has this racial trait can reload projectile weapons with the injection special weapon property as a swift action.  
   
 This replaces sure-footed.
 
-## SKITTISH
+## Skittish
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Halflings are often seen as fearless, but some are instead particularly cautious. Halflings with this racial trait gain a +1 bonus to Initiative checks and to melee attack rolls (+3 total) when flanking. When affected by a fear effect, their land speed increases by 10 feet and they gain a +1 bonus to AC.  
   
 This replaces surefooted and halfling luck.
 
-## SPACEFARER
+## Spacefarer
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 As a product of generations spent in low- or zero-gravity environments, some halflings have elongated skeletons and stand a full head taller than others of their species. These halflings can be mistaken for humans of short stature, but they still exhibit the enlarged feet and hands and the pointed ears characteristic of halflings. Halflings who have this racial trait take no penalty to Disguise checks when attempting to appear human or Medium in size.  
   
 This replaces keen senses.
 
-## TALESPINNER
+## Talespinner
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Halflings love adventure and travel almost as much as they enjoy spinning tales about their trials and tribulations—tales they use to entertain allies and strangers, as well as to disarm their enemies. Halflings who have this racial trait gain a +2 bonus to Bluff skill checks, and Bluff is a class skill for them. They also gain a +2 bonus to Diplomacy checks to change the attitudes of others with entertaining tales.  
   
 This replaces keen senses and sure-footed.
 
-## WINSOME
+## Winsome
 
 **Source** [_Character Operations Manual pg. 35_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some halflings seem able to charm anyone, through a combination of endearing behavior and physical proportions that lead other species to view them as young and cute. Although such halflings might not be any kinder or friendlier, they nevertheless maximize the benefit of this mistaken impression. These halflings gain a +2 bonus to Bluff checks and to Diplomacy checks to change the attitude of indifferent creatures.  

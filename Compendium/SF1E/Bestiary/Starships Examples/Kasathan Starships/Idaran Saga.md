@@ -5,7 +5,9 @@ tags:
 Tier: 13
 Type: Huge cruiser 
 ---
-# IDARAN SAGA
+
+# Idaran Saga
+
 > [!infobox|locr n-th clean]
 >  [[Starship_IdaranSaga.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Huge cruiser, **Tier** 13
 **Attack (Turret)** persistent particle beam (10d6; 20 hexes)  
 **Power Core** Gateway Heavy (400 PCU); **Drift Engine** Signal Basic; **Systems** adamantine alloy armor, advanced long-range sensors, crew quarters (good), mk 9 armor, mk 9 defenses, mk 2 tetranode computer; **Expansion Bays** cargo holds (2), medical bay, shuttle bays (2), tech workshop; **Modifiers** +2 to any 4 checks per round, +4 Computers (sensors only); **Complement** 89 (minimum 20, maximum 100)
 
-### CREW
+### Crew
 
 **Captain** Bluff +23 (13 ranks), Computers +23 (13 ranks), Diplomacy +23 (13 ranks), Engineering +23 (13 ranks), gunnery +19 (13th level), Piloting +23 (13 ranks)  
 **Engineers (2 officers, 15 crew each)** Engineering +23 (13 ranks)  
@@ -28,7 +30,7 @@ Huge cruiser, **Tier** 13
 **Pilot** Piloting +23 (13 ranks)  
 **Science Officers (2 officers, 10 crew)** Computers +28 (13 ranks)
 
-## DESCRIPTION
+## Description
 
 Upon arriving in the Pact Worlds, the kasathas of the Idari realized that the small, aging escort fleet that had ushered the colony ship from their home world was outclassed and outgunned by their new neighbors’ starships. Developed as a cornerstone of this new navy, the Saga is a versatile battle cruiser that has played a critical role in maintaining kasathan interests and supplementing Steward forces in times of war.  
   

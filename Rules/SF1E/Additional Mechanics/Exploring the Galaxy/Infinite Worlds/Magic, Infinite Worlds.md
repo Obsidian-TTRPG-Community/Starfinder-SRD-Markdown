@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# MAGIC
+# Magic
 
 **Source** _Galaxy Exploration Manual pg. 108_  
 The galaxy spins in magic. Species manifest this truth in various ways, from bizarre supernatural powers to spellcasting to magic-infused objects. This pervasive field of eldritch energy ebbs and flows in regions and even on entire worlds. Though magic manifests in near-infinite ways, its underlying functions seldom vary in such extremes as to change the way it works from the expected norm. Exceptions exist, though they’re difficult to explain or predict in general terms.  
@@ -18,7 +18,7 @@ Magic can combine with other randomizing elements to create juxtapositions and s
 Of course, magic can prove dangerous as well; levels of eldritch energy, whether planet-wide or regional, could be a hazard rather than an advantage. Raw magic rarely endangers life directly, but it can produce conditions that do. Such paranormal forces might come from natural concentrations or from planar forces. Extraplanar influence can create magical anomalies or conversely arise as a symptom of such oddities— for example, an elemental plane’s interaction with a magical world produces especially powerful spell gems.  
 Magic is change, whether defying the natural order or enhancing it, and can be used in a science fantasy setting to justify the improbable or strange. The right magic can protect something ancient from decay; it might allow beings and objects to remain hidden or, by that merit, uncover them. Changes in magic can explain the emergence or reemergence of certain forces, or the powers that once suppressed them. Adventurers wielding magic or magic items who visit a world untouched by magic might find themselves in positions of inordinate power and responsibility.  
 
-## HIGH MAGIC
+## High Magic
 
 **Source** _Galaxy Exploration Manual pg. 110_  
 The presence of high magic can have profound effects on culture. It might lead to more magic in practice, which changes the way society operates. High magic can also be a source of harm, chaos, or both. This danger could come from magical creatures, interactions of magical fields, and more. Even if an abundance of magic isn’t actively harmful, it can still cause erratic, unpredictable results upon using magic.  
@@ -28,7 +28,7 @@ Just having more magic available can mean more reliance on magic. In such places
 Another possible source of high magic comes from the influence of other planes. Extraplanar traits can be inherently magical. When they intrude on the Material Plane, their magical influences and inhabitants might intrude, too. Such incursions likely won’t be beneficial for Material Plane inhabitants.  
 High magic also makes for magical beings without planar influences. People, plants, and beasts with spell-like and supernatural abilities are more common. A magical population can make a world more stable. More often, though, a variety of magical beings can create a hostile environment with monsters that menace civilization. For such creatures, high magic could be like how oxygen is on some worlds, providing fuel for incredible growth and power. To live on or even explore such a world can present a constant struggle against overwhelming odds.
 
-### HIGH-MAGIC ADVENTURE HOOKS
+### High-magic Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                            |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -56,7 +56,7 @@ High magic also makes for magical beings without planar influences. People, plan
 
   
 
-## MEDIUM MAGIC
+## Medium Magic
 
 **Source** _Galaxy Exploration Manual pg. 110_  
 One might assume a medium-magic world is like any other planet in the galaxy: a mix of magic and technology. That’s widely true. However, as the Pact Worlds show, variation exists even at this level of “normal” magic.  
@@ -65,7 +65,7 @@ Instead of being a homogeneous zone, a medium-magic world might have access to h
 Perhaps the world was once high in magic, but the magic was throttled somehow. The main question is: why? Secondary questions are: what, who, and how? What would be the consequences of these fonts being uncapped? Various factions might want to encourage or oppose the release of magic. Such a situation could lead to a whole campaign, especially if characters must deal with initial consequences (for example, the awakening of magical creatures) before learning that the release of magic is the problem. Similarly, a spellcaster PC might have been drawn to, or even unlocked some portion of, that otherwise untapped magic.  
 Similar issues might emerge from natural cycles of magic diminishing or increasing a world to medium magic. Magic users could lose their places of dominance, or they might seize power long denied them. This change could herald war, political disintegration, and religious crises as well as the dissolution of age-old manifestations or uses of magic. Magical creatures might go extinct, while new ones rapidly emerge. Geographic upheaval and shifts in the biosphere can even alter the weather, breed new diseases, harm food production, and destroy living space; forced migration and other disasters could follow. Any of these changes might alter sapient species as well, costing them the magical talents they relied on or activating latent powers.
 
-### MEDIUM-MAGIC ADVENTURE HOOKS
+### Medium-magic Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                      |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -93,7 +93,7 @@ Similar issues might emerge from natural cycles of magic diminishing or increasi
 
   
 
-## LOW MAGIC
+## Low Magic
 
 **Source** _Galaxy Exploration Manual pg. 111_  
 Causes of low magic can vary. In some cases, a region simply undergoes a temporary downturn in available magic, such as a star system whose magic comes from a comet that passes through only once every few decades. Rather than a lack of magic, low magic in a world might instead result from some force that actively consumes or warps magic so that it doesn’t function as reliably or powerfully as expected, such as a planet whose moon is an immense creature parasitizing the world’s otherwise ambient energies. In any case with an irregular or diminished magical supply, inhabitants evolve and learn to deal without magic. Even if the environment experiences a periodic glut of supernatural power, that magic functions as a luxury more than as a necessity.  
@@ -103,7 +103,7 @@ Whatever the case, a world’s inhabitants likely consider magic some combinatio
 Magic could also be a tradition so prestigious that it’s closely guarded by elites. Alternatively, magic might be considered so hazardous or corrupting that the society recruits pariahs to train as mages in service to the comparably pure populace. Wherever magic potential exists, though, there’s inevitably someone willing, able, or conscripted to practice it.  
 This control can stem from authorities—whether the government, the priesthood, or otherwise—such as an ancient, traditional order of mage hunters or wizards who hoard these powers. Any of these groups might suppress magic in an artificial but overarching way, using edifices, policies, or devices devoted to keeping magic from everyday life, much like the fonts mentioned for medium-magic worlds. These places or tools make obvious targets for dissidents who want to make magic free, resulting in a conflict like a cold war, a secret insurgency, or an open rebellion.
 
-### LOW-MAGIC ADVENTURE HOOKS
+### Low-magic Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,7 +131,7 @@ This control can stem from authorities—whether the government, the priesthood,
 
   
 
-## ENHANCED OR IMPEDED MAGIC
+## Enhanced or Impeded Magic
 
 **Source** _Galaxy Exploration Manual pg. 111_  
 The easiest way to simulate variable magic in your game is to treat magic as enhanced or impeded. Enhanced magic functions at a higher caster level, typically 2 higher. Much higher than that could become too powerful for the PCs’ level. Impeded magic can function with unexpected side effects, or even opposite than intended. Particularly impeded magic might require a spellcaster to succeed at a caster level check (DC = 15 + the spell’s level) to cast the spell at all. Failure results in the spell failing while the spell slot used is still consumed. For spells cast from magic items, instead use a Will saving throw (DC = 10 + twice the spell level).  

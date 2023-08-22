@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GNOLL LIEUTENANT
 
+# Gnoll Lieutenant
 
 **XP 1,600**  
 Gnoll envoy  

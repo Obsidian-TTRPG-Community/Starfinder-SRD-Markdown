@@ -5,8 +5,10 @@ Prerequisites: Dex 14, Str 14, Dive Bomb, base attack bonus +7.
 tags: 
 Type: General Feat
 ---
-# IMPROVED DIVE BOMB
-**Source** _Galaxy Exploration Manual pg. 51_  
+
+# Improved Dive Bomb
+
+**Source**:: _Galaxy Exploration Manual pg. 51_  
 Your attacks from above are powerful enough to drive your foes into the ground.
 
 **Prerequisites**: Dex 14, Str 14, Dive Bomb, base attack bonus +7.

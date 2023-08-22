@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# SPRY AMBUSHER
+
+# Spry Ambusher
 
 **XP 800**  
 Gnome (feychild) solarian  

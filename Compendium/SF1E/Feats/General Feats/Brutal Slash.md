@@ -5,8 +5,10 @@ Prerequisites: Str 17, Dex 13, base attack bonus +6, Rending Slash
 tags: 
 Type: General Feat
 ---
-# BRUTAL SLASH
-**Source** _Interstellar Species pg. 135_  
+
+# Brutal Slash
+
+**Source**:: _Interstellar Species pg. 135_  
 You use your finely honed natural attacks to rend an enemy to pieces.
 
 **Prerequisites**: Str 17, Dex 13, base attack bonus +6, Rending Slash

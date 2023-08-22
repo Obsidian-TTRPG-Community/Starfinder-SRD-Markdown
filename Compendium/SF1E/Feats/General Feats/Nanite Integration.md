@@ -5,8 +5,10 @@ Prerequisites: Character level 3rd, constructed racial trait or construct type.
 tags: 
 Type: General Feat
 ---
-# NANITE INTEGRATION
-**Source** _Character Operations Manual pg. 17_  
+
+# Nanite Integration
+
+**Source**:: _Character Operations Manual pg. 17_  
 Nanites responsible for maintaining your constructed body have been upgraded, and a subset of them has been reprogrammed to perform incredible feats.
 
 **Prerequisites**: Character level 3rd, constructed racial trait or construct type.

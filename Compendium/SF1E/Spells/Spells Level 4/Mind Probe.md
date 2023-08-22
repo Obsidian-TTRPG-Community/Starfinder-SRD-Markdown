@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# MIND PROBE
 
-**Source** _Starfinder Core Rulebook pg. 365_  
-**Classes** Mystic 4, Precog 4  
-**School** divination (mind-affecting)  
-**Casting Time** 1 minute  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one creature  
-**Duration** 1 round/level (D)  
-**Saving Throw** Will negates, see text; **Spell Resistance** yes
+# Mind Probe
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 365_  
+**Classes**:: Mystic 4, Precog 4  
+**School**:: divination (mind-affecting)  
+**Casting-Time**:: 1 minute  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one creature  
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Will negates, see text;
+**Spell Resistance**:: yes
+
+## Description
 
 You gain access to the target’s memories and knowledge, and you can pry the information you want from them involuntarily.
 

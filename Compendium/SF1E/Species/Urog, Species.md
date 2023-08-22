@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 138_  
+**Source**:: _Interstellar Species pg. 138_  
 
 [[AA1_Urog.png|Zeigen!]]
 Outside of their home world of Dykon, urogs have a reputation as brash know-it-alls who stay engaged only while a topic interests them. Within Dykon's society, their lives of careful study show how they truly engage: sharing knowledge, avoiding the waste of precious energy by keeping conversations short, and leaving topics that require nuance to subject-area experts. However, not all urogs call Dykon home; at least one concentrated settlement of urogs on Akiton primarily worship Oras as they expand their understanding of silicon-based life. Urogs often make valuable members of starship crews as well, especially those who enjoy optimizing navigational routes.  
@@ -30,7 +30,7 @@ An urog who is in contact with a crystalline or metallic surface can detect the 
 
 Urogs can communicate telepathically with any creatures within 30 feet with whom they share a language.  
 
-## Low-Light Vision
+## Low-light Vision
 
 Urogs can see in dim light as if it were normal light.  
 

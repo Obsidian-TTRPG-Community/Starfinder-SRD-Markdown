@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# CUTTHROAT LAWYER
 
+# Cutthroat Lawyer
 
 **XP 3,200**  
 Half-elf  

@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Ghoran Flora-Shaper
+# Ghoran Flora-shaper
 
 - [cr::6]
 - [combatType::expert]

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 146_  
+**Source**:: _Interstellar Species pg. 146_  
 
 [[AA4_Worlanisi.png|Zeigen!]]
 Worlanisi are charming and intrepid nomads, and love to travel for years at a time, valuing the journey more than the destination. They're outdoorsy, competitive, and welcoming to strangers. Due to their small stature and blue skin, worlanisi appear deceptively delicate. They are slight but strong humanoids with four arms and horn-cones on either side of their head. These horn-cones once let them use their psychic powers to stalk prey across Worlan, but this use has since atrophied. Modern horn-cones allow worlanisi to communicate telepathically and wield luck like no other species in the galaxy. Unfortunately, the horn-cones also amplify incoming and outgoing psychic energy with a painful reverberation.  

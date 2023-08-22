@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# PENTHE DREAMWALKER
+
+# Penthe Dreamwalker
 
 **XP 400**  
 Penthe mystic  

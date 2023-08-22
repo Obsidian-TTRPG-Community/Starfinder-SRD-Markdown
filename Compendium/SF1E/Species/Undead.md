@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# UNDEAD
+
+# Undead
+
 > [!infobox|right]
 >  [[Undead.jpeg|Spielern zeigen!]]
 > 

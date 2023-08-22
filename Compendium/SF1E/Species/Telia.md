@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# TELIA
+
+# Telia
+
 > [!infobox|left n-th clean]
 >  [[Telia.png|Spielern zeigen!]]
 > Of all the species known to the Pact Worlds, the tortoise-like telias have perhaps the most complex relationship with the Gap. They are long-lived creatures—most live to be 1,000—and their vast experience has taught them that memory is mutable and (for other species) fleeting, so the Gap is to them just an exaggeration of this constant truth. Whereas elves, many of whom also lived through the Gap, might stew over memories of a betrayal lost to the Gap, a telia is generally glad for the opportunity to let go of a similar grievance, imagining the many possibilities of what might have taken place in their own past.  
@@ -18,31 +20,31 @@ Telias originated on Pygos, the only inhabited planet in its Near Space system, 
 **Ability Modifiers** +2 Con, +2 Wis, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Telias are Medium monstrous humanoids.  
 
-## DARKVISION
+## Darkvision
 
 Telias have darkvision with a range of 60 feet.  
 
-## ERUDITE
+## Erudite
 
 Telias gain a +2 racial bonus to Culture and Engineering checks.  
 
-## FLASHBACK
+## Flashback
 
 Once per day, a telia can reroll a failed Intelligence-based skill check.  
 
-## RETRACT
+## Retract
 
 A telia that takes the total defense action gains a +6 bonus to their Armor Class instead of the usual +4 bonus, and they also gain the [unflankable](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Unflankable)universal creature rule until the start of their next turn.  
 
-## TELIA MOVEMENT
+## Telia Movement
 
 Telias have a land speed of 25 feet and a swim speed of 20 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4 to 5 ft.   
 **Average Weight** 100 to 300 lbs.   

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DRONE
+
+# Drone
+
 **Description Source**: Starfinder Core Rulebook pg. 74  
 If you choose the drone option for your artificial intelligence, you begin play with a robotic drone that you design. See Building Your Drone below for instructions on creating your drone.
 
@@ -12,13 +14,13 @@ Like most constructs, a drone cannot recover from damage on its own. If a drone 
 
 If your drone is ever destroyed or lost, you retain its mind and all its subroutines in your custom rig and can replace its body for free using your custom rig after 24 hours of uninterrupted work. You can take a single 8-hour rest during each 24 hours spent working, but any other interruption greater than a moment of conversation requires you to add 12 hours to the time required to rebuild your drone. In addition, every time you gain a mechanic level, you can rebuild your drone from scratch with the same amount of work, allowing you to change any or all of the choices you made for your drone (including ability scores, chassis, feats, mods, and skills).
 
-## BUILDING YOUR DRONE
+## Building Your Drone
 
 Building a drone is a multistep process. First, choose the drone’s chassis, which along with your mechanic level determines its base statistics. Next, choose your drone’s special abilities and feats. Finally, select your drone’s modifications (“mods”), which grant your drone additional abilities and allow you to fully customize it.
 
 Other than those aspects determined by your drone’s chassis and mods, the exact details of your drone’s appearance and personality are up to you.
 
-## DRONE CHASSIS
+## Drone Chassis
 
 Each drone has one of three chassis types that determines its size, starting statistics, and initial mods, as well as the drone’s overall look and theme. These chassis types are combat, hover, and stealth, and they are presented on page 75. Each is organized as follows, using the terms below.
 
@@ -32,7 +34,7 @@ Each drone has one of three chassis types that determines its size, starting sta
 -   **Bonus Skill Unit**: Some chassis come programmed with knowledge of a skill that is a part of the chassis itself. This skill is a class skill for your drone, and it gains a number of ranks in that skill equal to your mechanic level. Your drone can use this skill while not under your direct control. This skill is in addition to the skill gained via the drone’s skill unit ability (see page 76). You can’t change this skill unit when you gain levels or when you rebuild your drone unless you choose a new chassis. If a chassis does not have a bonus skill unit entry, it gains no bonus skill units.
 -   **Initial Mods**: Each chassis comes with initial drone mods that are a part of the chassis itself. These are in addition to the mods a drone gains by level. You can’t change these mods when you gain levels or rebuild your drone unless you choose a new chassis. The list of mods appears on page 77.
 
-## DRONE BASE STATISTICS
+## Drone Base Statistics
 
 Your drone’s abilities are determined by your mechanic level (or the level you assign to it through your control net ability) and the mods you select for your drone. The below table determines many of the base statistics for your drone. These base statistics modify the starting statistics determined by the drone’s chassis. The terms used in the table are as follows.
 
@@ -73,43 +75,43 @@ Your drone’s abilities are determined by your mechanic level (or the level you
 
   
 
-## DRONE SPECIAL ABILITIES
+## Drone Special Abilities
 
 Your drone gains the following abilities at the levels indicated.
 
-## BASIC MODS - 1ST LEVEL
+## Basic Mods - 1ST Level
 
 You can choose any of the mods on the basic mod list whenever your drone gains a new mod. Unless otherwise specified, you cannot install a single mod more than once. The list of basic mods appears starting on page 77.
 
-## LIMITED AI (EX) - 1ST LEVEL
+## Limited Ai (EX) - 1ST Level
 
 Each round on your turn, after you have acted, your drone can take either a move action or a standard action to attack (your drone doesn’t make a separate initiative roll). You must be able to issue simple commands to your drone, but you don’t have to spend actions to issue these commands. To receive these commands, your drone must be able to see or hear you or be within range of your custom rig. If you become unconscious or otherwise unresponsive, or if your drone is ever out of range, your drone cannot take any actions until you are again able to command it or it is once more within range.
 
-## MASTER CONTROL (EX) - 1ST LEVEL
+## Master Control (EX) - 1ST Level
 
 As a move action, you can directly control your drone. This allows the drone to take both a move action and any standard action this turn (one from your control, and one from its limited AI). If you also take a swift action, your drone can take a swift action as well, or it can combine its actions into a full action. Your drone must be able to see or hear you, or be within range of your custom rig, for you to directly control your drone.
 
-## SKILL UNIT (EX) - 1ST LEVEL
+## Skill Unit (EX) - 1ST Level
 
 Choose one of the following skills: Acrobatics, Athletics, Computers, Engineering, Perception, or Stealth. This is a class skill for your drone, and it gains a number of ranks in the chosen skill equal to your class level. Your drone can use this skill when not under your direct control. You can change your drone’s skill unit whenever you rebuild your drone from scratch. Additionally, whenever you are directly controlling your drone, it can use any of your skill ranks if you wish, assuming it has the appropriate tools to do so (a drone without manipulator arms cannot use Engineering to disable a device, for example).
 
-## EXPERT AI (EX) - 7TH LEVEL
+## Expert Ai (EX) - 7TH Level
 
 Your drone’s AI has grown more sophisticated, giving it a more robust combat routine when not under your direct control. Each round on your turn, the drone can take a move action, take a standard action to attack, or make a full attack (this last option allows it to shoot more than once if it has the necessary weapons to do so). The drone takes a –6 penalty to full attacks made without your direct control instead of the normal –4 penalty. Like limited AI, you must still be conscious and within range.
 
-## UPGRADED POWER CORE (EX) - 10TH LEVEL
+## Upgraded Power Core (EX) - 10TH Level
 
 Your drone gains a pool of Resolve Points equal to 1 per 2 levels it has (minimum 1). Your drone can spend 1 Resolve Point to make a full attack without requiring your direct control and at only the normal –4 penalty for a full attack instead of the –6 penalty. Your drone regains Resolve Points after a full 8-hour rest as normal.
 
-## ADVANCED MODS - 11TH LEVEL
+## Advanced Mods - 11TH Level
 
 You can choose from any of the mods on the advanced mod list whenever your drone gains a new mod (in addition to those from the basic mod list). Your drone must always have at least 5 mods from the basic list before you can add any advanced mods, even if you rebuild your drone after it gains this ability. The list of advanced mods appears on pages 78–79.
 
-## TRUE AI (EX) - 20TH LEVEL
+## True Ai (EX) - 20TH Level
 
 Your drone’s AI can act with complete autonomy. Each round on your turn, your drone can take a full suite of actions (either a full action or else a move action, a standard action, and a swift action) without requiring your direct control, and it makes full attacks without your direct control with the normal –4 penalty. You don’t need to issue commands to your drone for it to take actions. You must still directly control the drone for it to use your skill ranks.
 
-## DRONE FEATS
+## Drone Feats
 
 When choosing feats for your drone, you can choose from the following:
 

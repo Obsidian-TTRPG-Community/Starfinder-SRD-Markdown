@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# RAISE DEAD
 
-**Source** _Starfinder Core Rulebook pg. 370_  
-**Classes** Mystic 5, Precog 5, Witchwarper 5  
-**School** conjuration (healing)  
-**Casting Time** 1 minute  
-**Range** touch  
-**Targets** one dead creature  
-**Duration** instantaneous  
-**Saving Throw** none, see text; **Spell Resistance** yes (harmless)
+# Raise Dead
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 370_  
+**Classes**:: Mystic 5, Precog 5, Witchwarper 5  
+**School**:: conjuration (healing)  
+**Casting-Time**:: 1 minute  
+**Range**:: touch  
+**Targets**:: one dead creature  
+**Duration**:: instantaneous  
+**Saving-Throw**:: none, see text;
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 You restore life to a deceased creature. You can raise a creature that has been dead for no longer than 1 day per caster level. In addition, the target’s soul must be free and willing to return. If the target’s soul is not willing to return, the spell fails; therefore, a target that wants to return to life receives no saving throw against this spell. Casting this spell requires you to create a complex representation of the target deceased creature, worth at least 5,000 credits, to serve as a beacon for the creature’s soul. This object is consumed when you cast the spell.
 

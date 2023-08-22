@@ -5,8 +5,10 @@ Prerequisites: You gain the natural weapons universal creature rule, dealing pie
 tags: 
 Type: General Feat
 ---
-# PINCERED LFAN
-**Source** _Interstellar Species pg. 111_  
+
+# Pincered Lfan
+
+**Source**:: _Interstellar Species pg. 111_  
 You’ve developed sharpened, retractable pincers at the ends of your LFAN tendrils, turning them into lethal weapons.
 
 **Prerequisites**: LFAN species trait

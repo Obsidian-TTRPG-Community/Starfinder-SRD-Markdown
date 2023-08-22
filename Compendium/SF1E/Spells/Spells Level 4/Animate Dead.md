@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# ANIMATE DEAD
 
-**Source** _Starfinder Core Rulebook pg. 340_  
-**Classes** Mystic 4, Precog 4, Technomancer 4  
-**School** necromancy  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one or more corpses  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+# Animate Dead
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 340_  
+**Classes**:: Mystic 4, Precog 4, Technomancer 4  
+**School**:: necromancy  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one or more corpses  
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 This spell turns corpses into undead creatures that obey your spoken commands. The undead can be made to follow you, or they can be made to remain in place and attack any creature (or a specific kind of creature) entering the area. They remain animated until they are destroyed. A destroyed undead can’t be animated again.
 

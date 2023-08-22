@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# CONVOY DRIVER
+
+# Convoy Driver
 
 **XP 400**  
 Human soldier  

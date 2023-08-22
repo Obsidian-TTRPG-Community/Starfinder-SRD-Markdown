@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DIRINDI
+
+# Dirindi
+
 > [!infobox|left n-th clean]
 >  [[Dirindi.png|Spielern zeigen!]]
 > Cosmopolitan Arkanen, prominent among Liavara’s many moons, prides itself on being home to one of the most learned and urban populations in the Pact Worlds. Arkanen home to two sapient species with a deeply intertwined history: dirindis and [sazarons](https://aonsrd.com/Races.aspx?ItemName=Sazaron). The two species co-govern their world and work on most major enterprises collaboratively. Dirindis provide creativity, optimism, and ideas, while the scholarly sazarons make sure projects stay on schedule and on budget. The two species get along well, complementing each other’s strengths and respecting each other’s differences.  
@@ -18,26 +20,26 @@ Parallel to but separate from the dirindi population on Arkanen is that of the m
 **Ability Modifiers** +2 Dex, +2 Cha,-2 Wis  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Dirindi are Medium humanoids with the dirindi subtype.  
 
-## CONVIVIAL
+## Convivial
 
 Dirindis know a number of bonus languages equal to twice their Intelligence bonus, half of which must be chosen from either the prevalent languages on page 41 of the Starfinder Core Rulebook or the racial languages their allies speak. They also gain a +2 racial bonus to Diplomacy checks.  
 
-## DIRINDI SENSES
+## Dirindi Senses
 
 Dirindis have blindsight (electricity) with a range of 60 feet and low-light vision. They gain a +2 racial bonus to Perception checks.  
 
-## ELECTRICAL AFFINITY
+## Electrical Affinity
 
 Dirindis have resistance 5 to electricity, and they gain the following spell-like abilities. The caster level for these effects is equal to the dirindi’s level.  
   
 1/day—[_jolting surge_](https://aonsrd.com/SpellDisplay.aspx?ItemName=jolting%20surge)   
 At will—[_energy ray_](https://aonsrd.com/SpellDisplay.aspx?ItemName=energy%20ray) (electricity only)
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4-1/2 to 5 ft.   
 **Average Weight** 100 to 180 lbs.   

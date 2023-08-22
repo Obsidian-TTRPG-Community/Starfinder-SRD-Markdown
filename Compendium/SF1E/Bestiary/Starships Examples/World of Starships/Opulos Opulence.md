@@ -5,7 +5,9 @@ tags:
 Tier: 5
 Type: Small shuttle
 ---
-# OPULOS OPULENCE
+
+# Opulos Opulence
+
 > [!infobox|locr n-th clean]
 >  [[Starship_OpulusOpulence.jpg|Spielern zeigen!]]
 > 
@@ -18,14 +20,14 @@ Small shuttle, **Tier** 5
 **Attack (Turret)** laser net (2d6; 5 hexes)  
 **Power Core** Arcus Heavy (130 PCU); **Drift Engine** Signal Major; **Systems** budget short-range sensors, crew quarters (luxurious), extra weapon mount (turret), mk 5 armor, mk 5 defenses, mk 3 trinode computer; **Expansion Bays** cargo hold, guest quarters (luxurious), recreation suite (HAC); **Modifiers** +3 to any 3 checks per round, +1 Piloting; **Complement** 4 (minimum 1, maximum 4)
 
-### CREW
+### Crew
 
 **Captain** Computers +11 (5 ranks), Diplomacy +11 (5 ranks), Engineering +11 (5 ranks), gunnery +10 (5th level), Piloting +12 (5 ranks)  
 **Engineer** Computers +11 (5 ranks), Engineering +11 (5 ranks)  
 **Gunner** gunnery +10 (5th level)  
 **Pilot** gunnery +10 (5th level), Piloting +17 (5 ranks)
 
-## DESCRIPTION
+## Description
 
 The Opulence is a bespoke luxury vessel manufactured by the Opulos corporation. Most citizens of the Pact Worlds can recite the annoying but catchy “Opulos means opulence” advertising campaign by heart, though few can afford the product. Opulence yachts are marketed as playthings of the glitterati—wealthy dilettantes, celebrities, CEOs, and government officials who need to travel frequently and in style.  
   

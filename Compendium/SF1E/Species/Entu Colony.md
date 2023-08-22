@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# ENTU COLONY
+
+# Entu Colony
 
 > [!infobox|left n-th clean]
 >  [[Entu Colony.png|Spielern zeigen!]]
@@ -17,34 +18,34 @@ Entu fungi of all kinds seek constant exposure to emotion and thought to thrive,
 **Ability Modifiers** +2 Int, +2 Cha, -2 Str  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Entu colonies are Small oozes.   
 
-## AMORPHOUS
+## Amorphous
 
 The creature’s body is malleable and shapeless. It doesn’t take double damage from critical hits, but it’s affected by critical hit effects normally.   
 
-## ENTU COLONY SENSES
+## Entu Colony Senses
 
 An entu colony has blindsight (emotion) with a range of 60 feet.   
 
-## LIMITED OOZE BENEFITS
+## Limited Ooze Benefits
 
 Entu colonies gain a +2 racial bonus on saving throws against illusion, paralysis, poison, polymorph, sleep, and stunning effects, unless the effect specifies that it’s effective against oozes.   
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Entu colonies have limited telepathy with a range of 30 feet.   
 
-## TACTICAL SYMBIOSIS
+## Tactical Symbiosis
 
 Once per day as a standard action, an entu colony can temporarily merge a portion of themself with a willing non-entu colony creature they’ve telepathically communicated with and can touch. This symbiosis lasts until the beginning of the entu colony’s next turn; during this time the entu colony can’t take any actions but can use each of the following abilities once. A creature can benefit from only one tactical symbiosis at a time.  
 _Cellular Restoration:_ Restore a number of Hit Points to the host equal to twice the entu colony’s CR or level.  
 _Improve Condition:_ Grant the host an additional save against an ongoing affliction with a +2 circumstance bonus.  
 _Synaptic Pulse:_ Grant the host a +2 circumstance bonus to Reflex saves until the entu colony’s next turn.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 3 to 4 ft.  
 **Average Weight** 300 to 500 lbs.  

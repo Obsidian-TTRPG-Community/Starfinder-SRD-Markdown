@@ -5,7 +5,9 @@ Prerequisites: Limited telepathy racial trait.
 tags: 
 Type: General Feat
 ---
-# EXTENDED TELEPATHY
+
+# Extended Telepathy
+
 *Source** _Pact Worlds pg. 191_  
 You have expanded your latent telepathic powers.
 

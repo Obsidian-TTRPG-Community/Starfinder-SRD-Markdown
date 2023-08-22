@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 130_  
+**Source**:: _Interstellar Species pg. 130_  
 
 [[AA2_Trox.png|Zeigen!]]
 Trox are communal arthropods from Nchak, one of Liavara's moons. However, in their dedication to the Forever Queen Hylax, they ensure the group's success never overshadows individuals' desires, passions, and pursuits. Trox are fiercely loyal to whatever they commit themselves to, including other creatures and idealistic causes.  

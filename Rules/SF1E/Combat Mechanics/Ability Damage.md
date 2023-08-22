@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# ABILITY DAMAGE
+
+# Ability Damage
 
 Some monsters can cause ability damage, which penalizes one or more of your ability scores. This can add up quickly, so you need to track the total ability damage you’ve taken to each ability score.  
   
@@ -17,17 +18,17 @@ Reductions to your ability score modifier from ability damage affect skill check
 **Constitution**: Fortitude saves. You also lose a number of Stamina Points equal to your level for every 2 damage you have taken to Constitution. For example, if you’re 4th level and you took 5 Constitution damage, you’d lose 8 SP.  
 **Wisdom**: Will saves.
 
-# ABILITY PENALTIES
+# Ability Penalties
 
 Sometimes you might take a penalty to ability checks or to an ability score, rather than ability damage. These penalties affect your modifier the same way as damage, but they are only temporary and can’t result in your falling unconscious or dying.
 
-# ABILITY DRAIN
+# Ability Drain
 
 More severe than ability damage, ability drain reduces your ability score permanently. Note that this affects your score directly instead of penalizing your modifier, so 1 ability drain changes your modifier if your original ability score was even, but not if it was odd. Modify all statistics related to the ability’s new value. This might make you lose skill ranks along with Resolve Points, Stamina Points and other bonuses gained from having a high ability score. If you take ability drain in the middle of a battle, the GM might have you treat it as damage until after the fight so recalculating your statistics doesn’t slow the game. Ability drain doesn’t heal naturally but can be healed by the _restoration_ spell.  
   
 In general, if any ability score is reduced to 0 from ability drain, you fall unconscious. If that score is Constitution, you instead immediately die.
 
-# NEGATIVE LEVELS
+# Negative Levels
 
 If you have 1 or more negative levels, you take certain penalties and might even die. For each negative level you have, you take a cumulative –1 penalty to your ability checks, your AC, attack rolls (including combat maneuvers), saving throws, and skill checks. In addition, you reduce your current and total Hit Points and Stamina Points by 5 for each negative level you have. You are also treated as 1 level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level you have. If you are a spellcaster, you do not lose any spell slots as a result of negative levels. If your negative levels equal your total character level (or CR, for monsters), you die.  
   

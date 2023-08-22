@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Colour Out Of Space
+# Colour out of Space
 
 - [cr::10]
 - [combatType::expert]

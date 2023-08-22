@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# CAMPAIGN DESIGN
+
+# Campaign Design
 
 **Source** _Galaxy Exploration Manual pg. 136_  
 Often a GM creates their setting with a specific campaign in mind; perhaps the GM has decided the PCs are members of an interstellar organization devoted to science and peacekeeping that travels the galaxy discovering new planets, and so the GM tailors the setting to fit that premise. But the mark of a good setting is the ability to support more than one campaign, and many GMs find it rewarding to set all their campaigns in a single setting that expands as each campaign ends and the next begins.  
@@ -23,7 +24,7 @@ Having players participate in sandbox development can be a tremendous boon. If y
 Finally, don’t hesitate to simply ask the players at the end of a gaming session where they intend to go next; they’re usually more than happy to tell you where they intend to go and what they intend to do so you can prepare accordingly. This gives you opportunity to prepare their next adventure location between gaming sessions.  
 One of the hallmarks of a sandbox game is travel. Your PCs will often be moving from one world or region to another, and while you can often gloss over travel time, the relative frequency of this travel can nevertheless pose some unique challenges. You can make that travel time feel more meaningful by encouraging the players to use the downtime rules from Starfinder Character Operations Manual to pursue long term projects and track their day-to-day experiences while traveling aboard ship. The Drift Encounters Toolbox on page 146 includes a list of encounters for starships in the Drift, which helps to make journeys more memorable while also potentially reinforcing the idea that traveling though the Drift gets exponentially more hazardous as the journey goes on. You can also look for ways to bring the adventure to the PCs; perhaps the PCs brought something dangerous aboard, they have a stowaway, or a passenger has a secret agenda.  
 
-# NPCS IN SANDBOX CAMPAIGNS
+# Npcs in Sandbox Campaigns
 
 **Source** _Galaxy Exploration Manual pg. 136_  
 Because the PCs are frequently on the move in sandbox adventures, it can be difficult to build a strong supporting cast. Every planet, region, or adventure locale has its own NPCs whom the PCs might only barely get to know before they’ve once again moved on. You have multiple ways to help build your setting’s supporting cast.  
@@ -31,12 +32,12 @@ First, remember your home base. PCs in Starfinder regularly need to return to so
 Recurring NPC factions and organizations can provide continuity across locations, even as their member NPCs come and go. A rival captain from another planet’s military might appear only once, but they’re just the temporary face of an evil empire represented by different enemies over the course of the campaign. Corporations, religious institutions, and schools all make excellent factions that can be represented by many different individuals on different worlds.  
 It’s important to remain flexible with your NPCs. Start by giving each NPC a distinguishing trait (see the NPC Toolbox on page 148); roleplay them the best you can on the PCs’ initial interaction with that NPC; pay attention to which NPCs the players engage with most, and then develop those NPCs in more detail.  
 
-# DEEPER SECRETS
+# Deeper Secrets
 
 **Source** _Galaxy Exploration Manual pg. 137_  
 In designing your setting, you’ve thought about the secrets of every important NPC, location, and object (page 134). Secrets are key to making your campaign come to life and feel like more than just a string of unrelated adventure locations. As the PCs travel from one region to the next, build relationships with NPCs at their home base and elsewhere, and investigate the world, they’ll uncover clues to these mysteries. As with NPCs, you really can’t predict ahead of time which clues the PCs will find compelling, but eventually your PCs will smell a mystery and begin a concentrated effort to unravel it—when they do, that’s when you really have a campaign. Each secret leads to more clues which leads to more secrets. Inevitably, the PCs will overlook clues, forget about them or lose interest in them. Other clues will reveal secrets simply too dangerous for the PCs at their current level. But as the PCs gain in power and ability, they will return to those secrets and pursue them again, slowly creating a story for themselves out of the sandbox you made for them.  
 
-## EXAMPLE: ALQET CAMPAIGNS
+## Example: Alqet Campaigns
 
 **Source** _Galaxy Exploration Manual pg. 137_  
 When Joan made the PCs’ home base an enormous starship with a mission in Alqet, she had initially assumed the PCs would be “assigned” to Alqet by commanding officers. But on reflection, Joan realizes this premise doesn’t necessarily give the PCs much latitude when it comes to deciding where they go and what they do. After all, their superior officers are right there on the starship, and would presumably be giving orders. She retools the campaign, making the PCs an archaeological research team. Now, as their own bosses, they can more easily explore any planet they want. They’re still brought to the system by an enormous starship, and they have quarters there if they want to use them, but Commander O’Brien doesn’t actually have any authority over them.  

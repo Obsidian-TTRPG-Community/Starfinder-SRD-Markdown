@@ -5,8 +5,10 @@ Prerequisites: Eternal hope or ecstatic joy racial trait, character level 5th.
 tags: 
 Type: General Feat
 ---
-# DIVERSE CONDITIONING
-**Source** _Character Operations Manual pg. 32_  
+
+# Diverse Conditioning
+
+**Source**:: _Character Operations Manual pg. 32_  
 Your broad experience has made you better at avoiding danger.
 
 **Prerequisites**: Eternal hope or ecstatic joy racial trait, character level 5th.

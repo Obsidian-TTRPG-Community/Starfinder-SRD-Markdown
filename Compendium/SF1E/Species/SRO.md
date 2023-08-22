@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 126_  
+**Source**:: _Interstellar Species pg. 126_  
 
 [[Species_SRO.png|Zeigen!]]
 Unlike androids, SROs aren't built to closely emulate any specific living creature's form or function, but instead fill the same limitless number of niches as non-sapient machines do, from performing rote tasks to running vast operations too extensive for most biological minds to comprehend. Many SROs are unique constructs, built individually to perform some specific task and only developing a soul after hundreds of cycles of self-programming to be better at that task. Others are specific members of entire classes of robots that happened to achieve the specific complexity needed to become self-aware, even when many of the same make and model haven't. SROs who are part of a series of robots that all gain self-awareness are among the least common types, and even those who have such beginnings often modify themselves beyond the point of recognition.  
@@ -30,7 +30,7 @@ An SRO has an internal, integrated standard datajack and comm unit. If an SRO is
 
 SROs are immune to bleed, disease, death effects, poison, nonlethal damage, and sleep effects unless those effects specify they affect constructs. SROs can be affected by effects or spells that normally target only humanoids, but receive a +4 racial bonus to saving throws against such effects. SROs can eat and drink, though they don’t need to, and they must recharge their internal batteries by entering an off-line mode that is similar to sleep for 8 hours every day. SROs do not breathe or suffer the normal environmental effects of being in a vacuum.
 
-# About the SRO
+# About the Sro
 
 ## Physical Description
 

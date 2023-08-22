@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DROW
+
+# Drow
+
 > [!infobox|left n-th clean]
 >  [[Drow.png|Spielern zeigen!]]
 > With purple skin and white hair, drow are physically beautiful but merciless. Common drow form the majority of civilian and military forces and are governed by more powerful drow nobles. This strictly matriarchal culture leaves few opportunities for a common male, and training as an enforcer for a noble house or arms dealer is one of only a few ways a drow male can secure a somewhat comfortable life—if not necessarily a long one.  
@@ -18,19 +20,19 @@ A drow noble scion of a powerful arms-dealing house might lead a branch of the f
 **Ability Modifiers** +2 Dex, +2 Cha, -2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Drow are Medium humanoids with the elf subtype.  
 
-## DARKVISION
+## Darkvision
 
 Drow have darkvision with a range of 60 feet.  
 
-## DROW IMMUNITIES
+## Drow Immunities
 
 Drow are immune to magical sleep effects and receive a +2 racial bonus to saving throws against enchantment spells and effects.  
 
-## DROW MAGIC
+## Drow Magic
 
 Drow gain the following spell-like abilities. The caster level for these effects is equal to the drow’s level.  
   
@@ -40,15 +42,15 @@ In addition, drow count as having the Minor Psychic Power feat for the purpose o
   
 **Limning Light:** As a standard action, a drow noble can cause all creatures and objects in a 5-foot-radius burst to shed a pale glow. Creatures outlined by the limning light take a –20 penalty to Stealth checks and don’t benefit from the concealment usually provided by darkness. If an affected creature is benefiting from an effect such as invisibility, all others within line of sight of it become aware of its location (see page 260 of the Starfinder Core Rulebook). This effect lasts for a number of minutes equal to the drow level. This ability has a range of 100 feet.  
 
-## KEEN SENSES
+## Keen Senses
 
 Drow receive a +2 racial bonus to their Perception checks.  
 
-## LIGHT BLINDNESS
+## Light Blindness
 
 A drow exposed to bright light is blinded for 1 round, and dazzled as long as she remains in areas of bright light.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5-1/2 to 6-1/2 ft.  
 **Average Weight** 100–150 lbs.  

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# STARSHIP SHIELD MECHANICS
+
+# Starship Shield Mechanics
 
 **Source** _Starfinder Core Rulebook pg. 302_  
 While almost every ship has simple navigational shielding to prevent damage from tiny bits of debris, this protection does little to stop a starship from being damaged by lasers, missiles, and larger impacts. To defend against such threats, a ship has energy shields. Projectors mounted around the ship create a barrier that absorbs damage from attacks. Each attack reduces the number of Shield Points (SP) in a given arc until that arc’s shields are depleted, after which point all further damage in that arc reduces the ship’s Hull Points. See Damage on page 304 for more information. Shield Points regenerate over time and can eventually be used again, but this regeneration occurs only when the ship is not in combat or otherwise taking damage. Shields must be attached to a functional power core in order to regenerate; the rate of regeneration is listed in the table below.  

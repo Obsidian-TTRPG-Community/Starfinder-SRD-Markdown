@@ -5,8 +5,10 @@ Prerequisites: Character level 9th.
 tags: 
 Type: General Feat
 ---
-# JINX
-**Source** _Interstellar Species pg. 147_  
+
+# Jinx
+
+**Source**:: _Interstellar Species pg. 147_  
 You have learned to tweak the luck of not just your allies, but your enemies as well. By changing an enemy’s fate at a critical moment, you can deny them a moment of victory.
 
 **Prerequisites**: Character level 9th.

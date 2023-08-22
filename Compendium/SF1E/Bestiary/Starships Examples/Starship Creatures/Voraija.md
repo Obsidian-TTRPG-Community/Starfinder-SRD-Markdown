@@ -5,9 +5,10 @@ tags:
 Tier: 1/2
 Type: N Small starship magical beast
 ---
-# VORAIJA
 
-**Source** _Alien Archive 4 pg. 134_
+# Voraija
+
+**Source**:: _Alien Archive 4 pg. 134_
 
 N Small starship magical beast, **Tier** 1/2 
 **Speed** 10; **Maneuverability** perfect (turn 0); **Drift** —  
@@ -20,18 +21,18 @@ N Small starship magical beast, **Tier** 1/2
 **Power Core** voraija heart (90 PCU); **Drift Engine** none; **Systems** basic computer, basic medium-range sensors, mk 1 armor, mk 1 defenses, extra weapon mount (aft arc); **Expansion Bays** none  
 **Other Abilities** living starship, pod synergy, void adaptation
 
-### CREW
+### Crew
 
 **Gunner (1 action)** gunnery +3 (1st level)  
 **Pilot (1 action)** Piloting +10 (1 rank)  
 **Science Officer (1 action)** Computers +4 (1 rank)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any gas giant or vacuum  
 **Organization** solitary, pair, or pod (3–30)
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Living Starship (Ex)** A voraija is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take crew actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the following table to determine the effects when the voraija takes critical damage.  
 
@@ -45,7 +46,7 @@ N Small starship magical beast, **Tier** 1/2
 **Pod Synergy (Ex)** Members of a voraija pod communicate through microwave calls and can coordinate their attacks as a group. Treat all damage from vocalization attacks as if it came from a single attack for the purpose of overcoming a target’s damage threshold. In addition, a pod of three or more voraijas can choose to roll a single Piloting check during the helm phase to determine their movement order, gaining a +1 circumstance bonus to the check for every three participating voraijas (maximum +5); each participating voraija uses the check’s result.  
 **Spines (Ex)** A voraija’s fins and body bristle with defensive spines. When rammed by an enemy or struck by an attack whose maximum range is 1 hex, the voraija deals 1d4 damage to the attacker.
 
-## DESCRIPTION
+## Description
 
 The gregarious, cetacean-like creatures known as voraijas grow to lengths of 100 feet or more. Though rarely glimpsed in their void migrations, pods of these graceful beasts cavort effortlessly through the vacuum, singing to each other in microwave concerts that reverberate through starship hulls and light up planetary sensors. Their migrations, erratic and ponderous, trace paths across the stars such that a pod might only return to a system once every few centuries. On entering a system, voraijas swim up the solar wind currents in search of gas giant planets where they can rest and give birth. They often remain in these planets for months or even years, where they protect their young. Once the young voraijas can travel, the pod then spends several more months touring the system, sounding out each planet and moon with powerful microwave bursts to sense what has changed since their last visit.
 

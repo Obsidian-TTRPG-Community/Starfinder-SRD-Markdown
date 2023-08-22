@@ -2,16 +2,17 @@
 aliases: 
 tags: 
 ---
-# MEDIC
 
-**Source** _Character Operations Manual pg. 105_  
+# Medic
+
+**Source**:: _Character Operations Manual pg. 105_  
 Many medical professionals staff hospitals and clinics, often specializing in a particular form of ailment or injury. Others are doctors for hire, working for rich or secretive clients with rare conditions or a history of putting themselves in harm’s way. Some medics dedicate their lives to helping the poor, while a few make a living providing care to criminals with deep pockets.  
 
-## ALTERNATE CLASS FEATURES
+## Alternate Class Features
 
 The medic archetype grants alternate class features at 2nd, 9th, and 18th levels.  
 
-## DOCTOR (EX) - 2ND LEVEL
+## Doctor (EX) - 2ND Level
 
 You gain a number of special abilities related to the Medicine skill and healing, as noted below.
 
@@ -22,7 +23,7 @@ You gain a number of special abilities related to the Medicine skill and healing
 
   
 
-## MEDICAL SPECIALIST (EX) - 9TH LEVEL
+## Medical Specialist (EX) - 9TH Level
 
 Your medical mastery continues to improve; you gain the following abilities.
 
@@ -32,7 +33,7 @@ Your medical mastery continues to improve; you gain the following abilities.
 
   
 
-## BACK FROM THE BRINK (EX) - 18TH LEVEL
+## Back from the Brink (EX) - 18TH Level
 
 You can restore life to a dead creature you can touch, provided the creature wasn’t slain by a death effect or turned into an undead, and its body wasn’t destroyed, significantly mutilated, disintegrated, and so on. You must have access to a medkit and use this ability within 1 minute of the creature’s death. Doing so requires 1 minute of uninterrupted work (a full action that provokes attacks of opportunity each round for 10 rounds). This ability cannot bring back constructs, elementals, outsiders, undead, or creatures that have died of old age. The target’s soul must be free and willing to return.  
 The revived target has 1 Hit Point, and any ability scores reduced to 0 are raised to 1. You close all mortal wounds and repair lethal damage, but you restore no missing parts. The creature has a temporary negative level for 24 hours, and it returns with no Resolve Points, no Stamina Points, and no spell slots remaining, regaining those as normal after resting. If the creature died because of an affliction (for example, an affliction with an end state of death), move that affliction one step back on the progression track. The creature continues to suffer from any disease, drugs, or poisons still in its system when it revives.

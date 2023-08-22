@@ -2,34 +2,36 @@
 aliases: 
 tags: 
 ---
-# ENVOY
-**Source** _Starfinder Core Rulebook pg. 60_  
+
+# Envoy
+
+**Source**:: _Starfinder Core Rulebook pg. 60_  
 You make your way in the universe with a charming smile, quick wit, and keen sense of self-preservation, and excel at getting others to do what you want. You might be a trickster, hustler, or con artist, or you might serve as an actor, ambassador, or businessperson, paving the way for negotiation through kind words or the occasional dirty trick. You are often the group’s strategist, using your quick wit and tactical acumen to push your friends to greater heights. You may also be skilled in diplomacy, serving as the face for a starship crew, talking your way into restricted systems or gaining audiences with local politicians or warlords.
 
 **Hit Points**: 6  
 **Stamina Points**: 6
 
-## KEY ABILITY SCORE - CHA
+## Key Ability Score - Cha
 
 Your Charisma helps you succeed in many social situations and makes a number of your improvisations more effective, so Charisma is your key ability score. A high Dexterity score can make you a better ranged combatant, while a high Intelligence score improves all of your skills.
 
-## CLASS SKILLS
+## Class Skills
 
 The Envoy's class skills are Acrobatics (Dex), Athletics (Str), Bluff (Cha), Computers (Int), Culture (Int), Diplomacy (Cha), Disguise (Cha), Engineering (Int), Intimidate (Cha), Medicine (Int), Perception (Wis), Piloting (Dex), Profession (Cha, Int, or Wis), Sense Motive (Wis), Sleight of Hand (Dex), Stealth (Dex).
 
 **Skill Points at each Level**: 8 + Int modifier.
 
-## PROFICIENCIES
+## Proficiencies
 
-### ARMOR
+### Armor
 
 Light armor
 
-### WEAPONS
+### Weapons
 
 Basic melee weapons, grenades, small arms
 
-## CLASS FEATURES
+## Class Features
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                |
 |-------|-------------------|-----------|----------|-----------|--------------------------------------------------------|
@@ -57,7 +59,7 @@ Basic melee weapons, grenades, small arms
 
   
 
-## ENVOY IMPROVISATION - 1ST LEVEL
+## Envoy Improvisation - 1ST Level
 
 As you gain experience, you learn envoy improvisations—little tricks that bolster allies, confound enemies, or change the ebb and flow of battle using guile, inspiration, or luck. You learn your first envoy improvisation at 1st level, and you learn an additional improvisation at 2nd level and every 2 levels thereafter. The list of envoy improvisations appears here.
 
@@ -65,25 +67,25 @@ If an improvisation allows you to grant an effect to an ally, you cannot grant y
 
 Some envoy improvisations are language-dependent, mind-affecting, sense-dependent, or some combination of any or all of these. These terms are defined here.
 
-## EXPERTISE - 1ST LEVEL
+## Expertise - 1ST Level
 
 You are an expert at dealing with challenges that test your skills, be the challenges social or otherwise. At 1st level, when attempting a Sense Motive check, you can roll 1d6 (your expertise die) and add the result of the roll to your check as an insight bonus. You can use this and other expertise abilities as long as you have at least 1 Resolve Point remaining. At 5th level, anytime you roll your expertise die, you gain a +1 bonus to the result. At 9th, 17th, and 20th levels, this bonus increases by 1. At 13th level, you roll 1d8 as your expertise die instead of 1d6.
 
 Beginning at 9th level, you have even greater expertise with skills to which you can add your expertise die that you have also selected with the Skill Focus feat. For each such skill, once per day when rolling your expertise die to add to that skill, you may roll the expertise die twice and take the better of the two results.
 
-## SKILL EXPERTISE - 1ST LEVEL
+## Skill Expertise - 1ST Level
 
 At 1st level and every 4 levels thereafter, you can use expertise with one additional class skill. You must have at least 1 rank in a skill to select it, and it must come from the following list: Bluff (Cha), Computers (Int), Culture (Int), Diplomacy (Cha), Disguise (Cha), Engineering (Int), Intimidate (Cha), and Medicine (Int).  
 
-## EXPERTISE TALENT - 3RD LEVEL
+## Expertise Talent - 3RD Level
 
 At 3rd level and every 4 levels thereafter, you choose an expertise talent, which gives you an extra option when using a skill with which you have expertise. The list of expertise talents appears here.  
 
-## WEAPON SPECIALIZATION - 3RD LEVEL
+## Weapon Specialization - 3RD Level
 
 You gain the Weapon Specialization feat as a bonus feat for each weapon type with which this class grants you proficiency.  
 
-## TRUE EXPERTISE - 20TH LEVEL
+## True Expertise - 20TH Level
 
 You gain total mastery over one of your envoy improvisations and can use it with but a thought. When you gain this ability, choose one improvisation you know that has an effect when you spend 1 Resolve Point.
 

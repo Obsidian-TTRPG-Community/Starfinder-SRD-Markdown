@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 52_  
+**Source**:: _Interstellar Species pg. 52_  
 
 [[Species_Astriapi.png|Zeigen!]]
 Astriapis are an arthropodan species who awoke from the Gap to find themselves the inheritors of a planet-spanning megalopolis, full of amazing feats of technomancy and bioengineering. Led by the descendants of warrior-priest revolutionaries, astriapi society is heavily regimented with each astriapi assigned a role in the study and maintenance of an immensely complex planet-spanning system whose surface of understanding the species has only scratched. As space travel carried astriapis far beyond the bustle of Colveare, some individuals find themselves subverting the roles they’ve been assigned and more broadly questioning the wisdom of their Hierarch leaders.  

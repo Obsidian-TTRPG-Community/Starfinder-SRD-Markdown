@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# BIL’DJOOLI NAVARCH
+
+# BIL’DJOOLI Navarch
+
 **XP 102,400**  
 Bil’djool mystic  
 LE Medium aberration (aquatic, bil’djooli)  
@@ -60,11 +62,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### CONTAMINATION (EX)
+#### Contamination (EX)
 
 As a bil’djooli elite soldier, but the save DC is 24.
 
-#### JET (EX)
+#### Jet (EX)
 
 As a bil’djooli elite soldier.
 

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# IJTIKRI
+
+# Ijtikri
 
 > [!infobox|left n-th clean]
 >  [[Ijtikri.png|Spielern zeigen!]]
@@ -23,23 +24,23 @@ Ijtikris clashed with the vesk most strongly over ancient ruins that predate ijt
 **Ability Modifiers** +2 Con, +2 Wis, -2 Int  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Ijtikris are Medium aberrations.  
 
-## DARKVISION
+## Darkvision
 
 Ijtikris have darkvision with a range of 60 feet.  
 
-## HARDENED MANTLE
+## Hardened Mantle
 
 Ijtikris have a +4 racial bonus on saving throws against critical hit effects. In addition, they reduce the damage they take from a critical hit by an amount equal to their character level or CR + their Constitution bonus to a minimum of 1 unless reduced by other means.  
 
-## IJTIKRI MOVEMENT
+## Ijtikri Movement
 
 An ijtikri has a swim speed of 30 feet, and when crawling, an ijtikri can move at half their land speed. An ijtikri gains [Kip Up](https://aonsrd.com/FeatDisplay.aspx?ItemName=Kip%20Up) as a bonus feat without meeting that feat’s prerequisites.  
 
-## MINERAL SIGNATURE
+## Mineral Signature
 
 Ijtikri traits vary based on where the individual developed, granting a +2 racial bonus to a skill, as well as a spell-like ability usable once per day. Caster level equals the ijtikri’s level or CR. The skill and spell-like ability are as follows:   
   
@@ -47,35 +48,35 @@ _Indigo_: Stealth, [_keen senses_](https://aonsrd.com/SpellDisplay.aspx?ItemNam
 _Crimson_: Diplomacy, [_share language_](https://aonsrd.com/SpellDisplay.aspx?ItemName=share%20language)   
 _Gray_: Survival, [_wisp ally_](https://aonsrd.com/SpellDisplay.aspx?ItemName=wisp%20ally)
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5 to 6 ft.   
 **Average Weight** 80 to 160 lbs.   
 **Age of Maturity** 2 years  
 **Maximum Age** 40+2d20 years years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Near Space pg. 131_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Most ijtikris have the racial ability adjustments detailed in Alien Archive 3, but some exceptions are noted below. These have the listed ability score adjustments, rather than the standard adjustments of +2 Constitution, +2 Wisdom, –2 Intelligence.
 
-## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") BATTLEBORN
+## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") Battleborn
 
 **Source** [_Near Space pg. 131_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 A few ijtikris develop a physical might and a talent for combat thought to be part of their people’s genetic past. This genetic adaptation has come to the fore again as the ijtikris respond to threats. A battleborn ijtikri’s ability score adjustments are +2 Strength, +2 Constitution, and −2 Intelligence.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Near Space pg. 131_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Ijtikris are highly varied in physiology. Their life cycle also allows for their bodies to take advantage of natural metamorphic capabilities without the usual drawbacks.
 
-## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") AMPHIBIOUS
+## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") Amphibious
 
 **Source** [_Near Space pg. 131_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Some ijtikris never grow out of their juvenile stage’s water adaptations, which on Vesk-2 is seen as a fine alternative to being fully adapted to land. Such an ijtikri has the amphibious trait and the aquatic subtype, as well as a swim speed of 40 feet. The ijtikri also has a better sense of their body in three-dimensional space, and when they are off-kilter, they don’t take the normal penalties to attacks and don’t gain the flat-footed condition.  
 This replaces ijtikri movement.
 
-## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") MINERAL SIGNATURE
+## ![](HTTPS://AONSRD.COM/IMAGES/PATHFINDERSOCIETYSYMBOL.GIF "PFS LEGAL") Mineral Signature
 
 **Source** [_Near Space pg. 131_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Ijtikris take up a signature from the environment they developed in, causing differing structural manifestations and coloration. Those not raised on Vesk-2 can be bathed in admixtures that mimic their home world’s environment. Otherwise they might develop unique traits based on the local environment. The following are a few alternative mineral signatures, each of which alters the mineral signature racial trait.  

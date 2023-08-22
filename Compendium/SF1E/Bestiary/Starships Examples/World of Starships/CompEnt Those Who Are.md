@@ -5,7 +5,9 @@ tags:
 Tier: 17
 Type: Colossal dreadnought (colony ship)
 ---
-# COMPENT THOSE WHO ARE
+
+# Compent Those Who Are
+
 > [!infobox|locr n-th clean]
 >  [[Starship_CompentThoseWhoAre.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Colossal dreadnought (colony ship), **Tier** 17
 **Attack (Turret)** light particle beam (3d6; 10 hexes), linked light torpedo launchers (4d8; 20 hexes), tactical nuclear missile launcher (5d8; 20 hexes)  
 **Power Core** Gateway Ultra (500 PCU); **Drift Engine** Signal Basic; **Systems** advanced short-range sensors, crew quarters (common), mk 6 armor, mk 6 defenses, mk 3 trinode computer; **Expansion Bays** arcane laboratory, cargo holds (40), conference room, medical bay, physical science lab, shuttle bay, tech workshop; **Modifiers** +3 to any 3 checks per round, –2 to Piloting, +4 Computers (sensors only); **Complement** 328 (minimum 125, maximum 500)
 
-### CREW
+### Crew
 
 **Captain** Diplomacy +29 (17 ranks), gunnery +25 (17th level), Intimidate +29 (17 ranks), Piloting +29 (17 ranks)  
 **Engineers (3 officers, 40 crew each)** Engineering +34 (17 ranks)  
@@ -29,7 +31,7 @@ Colossal dreadnought (colony ship), **Tier** 17
 **Pilot (1 officer, 15 crew)** Piloting +27 (17 ranks)  
 **Science Officers (4 officers, 25 crew each)** Computers +29 (17 ranks)
 
-## DESCRIPTION
+## Description
 
 Compiler Enterprises (CompEnt) isn’t known for building starships with extreme firepower, but its latest design represents a major departure from that reputation. The company hasn’t officially acknowledged the dreadnought Those Who Are or addressed why it set off bristling with weaponry, but its construction suggests an alarming change in CompEnt’s mission.  
   

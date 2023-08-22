@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# GRAVITY TETHER
 
-**Source** _Galactic Magic pg. 75_  
-**Classes** Mystic 3, Technomancer 3, Witchwarper 3  
-**School** transmutation (electricity)  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one or two creatures  
-**Duration** 1 round/level  
-**Saving Throw** Reflex partial, see text; **Spell Resistance** yes
+# Gravity Tether
 
-## DESCRIPTION
+**Source**:: _Galactic Magic pg. 75_  
+**Classes**:: Mystic 3, Technomancer 3, Witchwarper 3  
+**School**:: transmutation (electricity)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one or two creatures  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: Reflex partial, see text;
+**Spell Resistance**:: yes
+
+## Description
 
 By manipulating electromagnetic forces acting on your target, you change its movements. Attempt a melee attack against EAC. If you attempt a full attack, you can target two creatures. On a hit, your target takes 5d8 electricity damage and must attempt a Reflex save. On a failure, the target treats any square it moves farther from you as difficult terrain for the duration. A successful save ends the spell on the target.
 

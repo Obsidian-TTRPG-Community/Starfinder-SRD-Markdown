@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GLADIATOR CHAMPION
+
+# Gladiator Champion
+
 **XP 4,800**  
 NE Medium humanoid (human)  
 **Init** +6; Perception +16
@@ -43,7 +45,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### SHOW-OFF (EX)
+#### Show-off (EX)
 
 A gladiator can spend a move action to perform a trick, mock their opponent, or otherwise rile up a crowd. They gain a +1 morale bonus to attack rolls, damage rolls, EAC, KAC, and saving throws against a single creature they can see. This ability has no effect if there is no crowd of 10 or more creatures to impress.
 

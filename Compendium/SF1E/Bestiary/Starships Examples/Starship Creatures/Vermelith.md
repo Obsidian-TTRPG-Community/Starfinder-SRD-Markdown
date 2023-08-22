@@ -5,9 +5,10 @@ tags:
 Tier: 9
 Type: N Huge starship magical beast
 ---
-# VERMELITH
 
-**Source** _Alien Archive 2 pg. 130_
+# Vermelith
+
+**Source**:: _Alien Archive 2 pg. 130_
 
 N Huge starship magical beast, **Tier** 9 
 **Speed** 4; **Maneuverability** poor (turn 3); **Drift** —  
@@ -20,12 +21,12 @@ N Huge starship magical beast, **Tier** 9
 **Power Core** vermelith heart (150 PCU); **Drift Engine** none; **Systems** mk 5 defenses, mk 8 armor; **Expansion Bays** swallow starship  
 **Other Abilities** encyst, extreme resistance, living starship, void adaptation
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Bite (Ex)** A vermelith can use its bite only against a ship in an adjacent hex. If the vermelith deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 28 Piloting check to break free of the jaws. While holding a starship in its jaws, the vermelith can’t move, turn, or use its gravity gun, but it can make tail attacks or attempt to bite or swallow the same starship. The vermelith and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
 
@@ -48,7 +49,7 @@ N Huge starship magical beast, **Tier** 9
 
 **Tail Whip (Ex)** A vermelith can use its tail whip only against a starship in an adjacent hex. This attack has the ripper special property.
 
-## DESCRIPTION
+## Description
 
 Vermeliths are silicon-based worms of various sizes, but the titanic, starship-eating variety commands the most attention. These worms are lithotrophs that eat rock and metal. They dwell in asteroid fields, comet heads, dust clouds, and small moons.
 
@@ -62,6 +63,6 @@ Adult vermeliths spend much of their time asleep, conserving energy and digestin
 
 Mature vermeliths average 1,200 feet long, but these worms continue growing throughout their lives. Truly ancient vermeliths can be Colossal and threaten the largest starships.
 
-## VERMELITH STARSHIPS
+## Vermelith Starships
 
 A slain vermelith’s shell makes an excellent starship frame, with a hull that mitigates deleterious electromagnetic effects and provides a distinctive starship profile. A frame derived from a vermelith uses the head and a portion of the body, so this structure is smaller than the full worm. Larger vermeliths can provide materials for larger frames.

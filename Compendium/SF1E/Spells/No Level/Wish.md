@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`" 
 Witchwarper: 
 ---
-# WISH
 
-**Source** _Starfinder Core Rulebook pg. 385_  
-**Classes** Technomancer —  
-**School** universal  
-**Casting Time** 1 standard action  
-**Range** see text  
+# Wish
+
+**Source**:: _Starfinder Core Rulebook pg. 385_  
+**Classes**:: Technomancer —  
+**School**:: universal  
+**Casting-Time**:: 1 standard action  
+**Range**:: See Text  
 **Area, Effect, or Targets** see text  
-**Duration** see text  
-**Saving Throw** see text; **Spell Resistance** see text
+**Duration**:: See Text  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: see text
 
-## DESCRIPTION
+## Description
 
 By simply speaking aloud, you can alter reality to better suit you. Even _wish_, however, has its limits. A _wish_ spell can produce any one of the following effects.
 

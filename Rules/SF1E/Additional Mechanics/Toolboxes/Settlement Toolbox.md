@@ -2,6 +2,7 @@
 aliases: 
 tags: 
 ---
+
 # Settlement Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 150_  

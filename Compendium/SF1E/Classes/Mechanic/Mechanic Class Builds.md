@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# MECHANIC CLASS BUILDS
+
+# Mechanic Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,121 +16,121 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# COMBAT TECHNICIAN
+# Combat Technician
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** {text}_Starfinder Core Rulebook pg. 80_  
+**Source**:: {text}_Starfinder Core Rulebook pg. 80_  
 No target is too large or armored for you and your drone to take down.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity is your most important ability score because you need it to hit, and Intelligence enhances your skills and pool of Resolve Points.
 
-## ARTIFICIAL INTELLIGENCE
+## Artificial Intelligence
 
 Combat Drone
 
-## MECHANIC TRICKS
+## Mechanic Tricks
 
 Energy Shield (2nd), Boost Shield (8th), Resistant Energy (8th), Improved Resistant Energy (14th)
 
-## DRONE MODS
+## Drone Mods
 
 Extra Ammo (1st), Energy Shield (11th)
 
-## FEATS
+## Feats
 
 Weapon Focus (longarms), Weapon Proficiency (longarms), Weapon Specialization (longarms)
 
-## SKILLS
+## Skills
 
 Computers, Engineering, Medicine, Perception, Piloting  
   
 
-# ENHANCED COMMANDO
+# Enhanced Commando
 
-## THEME: BOUNTY HUNTER
+## Theme: Bounty Hunter
 
-**Source** _Starfinder Core Rulebook pg. 80_  
+**Source**:: _Starfinder Core Rulebook pg. 80_  
 You have augmented your body and mind to turn yourself into a fighting machine.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity is your most important ability score because you need it to hit, and Intelligence gives you more Resolve Points.
 
-## ARTIFICIAL INTELLIGENCE
+## Artificial Intelligence
 
 Exocortex
 
-## MECHANIC TRICKS
+## Mechanic Tricks
 
 Overcharge (2nd), Overclocking (2nd), Hyperclocking (8th), Improved Overcharge (8th), Superior Overcharge (14th), Ultraclocking (14th)
 
-## FEATS
+## Feats
 
 Improved Initiative, Toughness, Weapon Focus (longarms)
 
-## SKILLS
+## Skills
 
 Athletics, Engineering, Perception  
   
 
-# SABOTEUR
+# Saboteur
 
-## THEME: OUTLAW
+## Theme: Outlaw
 
-**Source** _Starfinder Core Rulebook pg. 81_  
+**Source**:: _Starfinder Core Rulebook pg. 81_  
 You use stealth and technical skills to take down unjust institutions.
 
-## ABILITY SCORES
+## Ability Scores
 
 Intelligence is your most important ability score because it enhances your skills and ability DCs; Dexterity increases your AC.
 
-## ARTIFICIAL INTELLIGENCE
+## Artificial Intelligence
 
 Stealth Drone
 
-## MECHANIC TRICKS
+## Mechanic Tricks
 
 Hack Directory (2nd), Ghost Intrusion (8th), Saboteur (14th)
 
-## DRONE MODS
+## Drone Mods
 
 Camera (1st), Invisibility Field (11th)
 
-## FEATS
+## Feats
 
 Skill Focus (Computers), Skill Focus (Engineering), Skill Synergy (Sleight of Hand and Stealth)
 
-## SKILLS
+## Skills
 
 Computers, Physical Science  
   
 
-# STARSHIP ENGINEER
+# Starship Engineer
 
-## THEME: SPACEFARER
+## Theme: Spacefarer
 
-**Source** _Starfinder Core Rulebook pg. 81_  
+**Source**:: _Starfinder Core Rulebook pg. 81_  
 You know your starship like no one else and seem able to push the vessel beyond its limits.
 
-## ABILITY SCORES
+## Ability Scores
 
 Intelligence is important because it increases your pool of Resolve Points and enhances your skills; Dexterity allows you to be more effective in combat.
 
-## ARTIFICIAL INTELLIGENCE
+## Artificial Intelligence
 
 Exocortex
 
-## MECHANIC TRICKS
+## Mechanic Tricks
 
 Quick Patch (2nd), Quick Repair (2nd), Engineer's Eye (8th), Mod Tinkerer (14th)
 
-## FEATS
+## Feats
 
 Grenade Proficiency, Technomantic Dabbler, Weapon Focus (longarms)
 
-## SKILLS
+## Skills
 
 Computers, Engineering, Perception, Physical Science, Piloting

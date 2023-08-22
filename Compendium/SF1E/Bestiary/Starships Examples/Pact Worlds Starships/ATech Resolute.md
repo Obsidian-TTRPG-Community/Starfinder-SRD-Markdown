@@ -5,7 +5,9 @@ tags:
 Tier: 8
 Type: Large heavy freighter  
 ---
-# ATECH RESOLUTE
+
+# Atech Resolute
+
 > [!infobox|locr n-th clean]
 >  [[Starship_AtechResolute.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Large heavy freighter, **Tier** 8
 **Attack (Turret)** light plasma torpedo launcher (3d8; 20 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Basic; **Systems** basic medium-range sensors, crew quarters (common), fortified hull (steel composite), mk 4 armor, mk 4 defenses, mk 2 duonode computer; **Expansion Bays** cargo holds (6), escape pods, medical bay; **Modifiers** +2 to any two checks per round, +2 Computers (sensors only); **Complement** 19 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Bluff +16 (8 ranks), Diplomacy +16 (8 ranks), gunnery +14 (8 level), Intimidate +16 (8 ranks), Piloting +16 (8 ranks)  
 **Engineer (1 officer, 6 crew)** Engineering +21 (8 ranks)  
@@ -29,7 +31,7 @@ Large heavy freighter, **Tier** 8
 **Pilot (1 officer, 3 crew)** Piloting +16 (8 ranks)  
 **Science Officer** Computers +16 (8 ranks)
 
-## DESCRIPTION
+## Description
 
 The ATech Resolute is a simple, sturdy ship with a bold personality and a beloved subculture. AbadarCorp first commissioned the Resolute over a century ago to meet its growing need for a deep space freighter that didn’t need an escort. An especially troubling surge in piracy had made the conglomerate’s colonial ambitions far too costly not to take more direct action. The answer came in the form of this blocky, golden hulk that, no matter how hard it was battered, wouldn’t give up the fight. To some customers’ chagrin, the same durability makes the factory-installed amenities difficult to upgrade; while the austere interior plastics are undeniably hardy, their most polite critics often describe them as “discouragingly industrial.”  
   

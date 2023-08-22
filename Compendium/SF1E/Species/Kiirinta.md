@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 _SFS Note: Kiirinta PCs should use the rules from this book for their move speed and ability DCs, not the scenario in which they originally appeared._  
-**Source** _Alien Archive 4 pg. 63_  
+**Source**:: _Alien Archive 4 pg. 63_  
 Kiirintas are small fey who resemble moths. They have brightly colored wings and six legs.  
   
 **Ability Modifiers** +2 Dex, +2 Int, -2 Wis  

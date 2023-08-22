@@ -5,7 +5,9 @@ tags:
 Tier: 13
 Type: N Medium starship outsider  
 ---
-# ALINOISOS
+
+# Alinoisos
+
 N Medium starship outsider, **Tier** 13
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** —  
 **AC** 27; **TL** 24  
@@ -14,19 +16,19 @@ N Medium starship outsider, **Tier** 13
 **Attack (Forward)** meteor (5d6; 10 hexes), molten fist (2d4×10; 10 hexes)  
 **Attack (Turret)** meteor (5d6; 10 hexes), meteor (5d6; 10 hexes)
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +23 (13 ranks)  
 **Gunners (4 actions)** gunnery +19 (13th level)  
 **Pilot (1 action)** Piloting +29 (13 ranks)  
 **Science Officer (1 action)** Computers +23 (13 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Gravitational Adjustment (Ex)** Every 1d4 rounds, just before or after it moves during the helm phase, an alinoisos can push or pull a starship to an empty hex either further away or closer.  
   
@@ -42,7 +44,7 @@ N Medium starship outsider, **Tier** 13
 
 † An alinoisos’s brain doesn’t gain critical damage conditions.
 
-## DESCRIPTION
+## Description
 
 An alinoisos is a nebulous aeon tasked with maintaining the balance between light and gravity, and it attempts to neutralize any imbalances it perceives by any means necessary and with no concern for ethics or morality.  
   

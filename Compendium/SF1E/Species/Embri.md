@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# EMBRI
+
+# Embri
 
 > [!infobox|left n-th clean]
 >  [[Embri.png|Spielern zeigen!]]
@@ -21,60 +22,60 @@ The diabolic taint on embri society is pervasive, yet subtle. For example, the e
 **Ability Modifiers** +2 Con, +2 Int, -2 Cha  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Embri are Medium aberrations.  
 
-## DARKVISION
+## Darkvision
 
 Embri have darkvision with a range of 60 feet.  
 
-## MASKED EMOTIONS
+## Masked Emotions
 
 An embri loses its immunity to charm effects and its +2 racial bonus to saving throws against enchantment spells and effects when it isn’t wearing a mask over its face. In addition, while unmasked, it must roll twice for any Sense Motive check it attempts and take the lower result.  
 
-## SHIELDED THOUGHTS
+## Shielded Thoughts
 
 Embri are immune to magical charm effects and receive a +2 racial bonus to saving throws against enchantment spells and effects.  
 
-## WARY
+## Wary
 
 Embri gain a +2 racial bonus to Sense Motive checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 3-1/2 to 4-1/2 ft.  
 **Average Weight** 150–250 lbs.  
 **Age of Maturity** 8 years  
 **Maximum Age** 60+1d20 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Embri spawn upon strict schedules set by their bureaucrats and social engineers, who carefully regulate a new embri’s traits. The following embri groups, each engineered for a specific purpose, have unique ability score adjustments, instead of the standard adjustments of +2 Constitution, +2 Intelligence, –2 Charisma.
 
-## EMISSARY
+## Emissary
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Trained for diplomatic service offworld from the moment of their spawning, embri emissaries are raised in isolated ambassadorcreches to instill social loyalty and guard their thoughts against the dangerously individualistic societies they will encounter in their careers. An embri emissary’s ability adjustments are +2 Intelligence, +2 Charisma, –2 Strength.
 
-## PRECEPTOR
+## Preceptor
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 The devils who secretly manipulate embri sometimes steal young embri to indoctrinate them in the subterranean tunnels occupied by devils and their servants. At adulthood, these embri preceptors return to the surface with positions of authority and clear directions about how to modify embri culture to be even closer to the diabolic blueprint. An embri preceptor’s ability adjustments are +2 Dexterity, +2 Wisdom, –2 Constitution.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Despite the control that embri leaders attempt to place over all aspects of life, some embri display adaptations or mutations that set them apart. In a society where deviance of any kind is suspect, such embri often must conceal their differences or live their lives on the run. The following alternate racial traits represent some of these changes.
 
-## BIO-OBSERVANT (EX)
+## Bio-observant (EX)
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Embri who learn to watch for physiological cues rather than emotional ones can excel at identifying maladies in others. Such embri gain a +2 racial bonus to Medicine checks.  
 This replaces wary.
 
-## FLESHBOUND MASK (EX)
+## Fleshbound Mask (EX)
 
 **Source** [_Near Space pg. 128_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Some embri’s flesh grows up and around their masks. For such embri, being unmasked exposes raw nerves and inflicts constant painful distraction. While such an embri has its mask removed, it has a –2 penalty to ability checks and skill checks and must roll all Reflex saving throws twice and take the lower result.  

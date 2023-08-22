@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# ENTU SYMBIOTE
+
+# Entu Symbiote
 
 > [!infobox|left n-th clean]
 >  [[Entu Symbiote.png|Spielern zeigen!]]
@@ -17,35 +18,35 @@ Entu fungi of all kinds seek constant exposure to emotion and thought to thrive,
 **Ability Modifiers** +2 Int  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Entu symbiotes are Small, Medium, or Large animals with the entu symbiote subtype.   
 
-## ENTU SYMBIOTE SENSES
+## Entu Symbiote Senses
 
 An entu symbiote has blindsense (emotion) with a range of 30 feet and low-light vision.   
 
-## EXTRASENSORY PERCEPTION
+## Extrasensory Perception
 
 The mycelia integrated into an entu symbiote’s nervous system allow them to perceive ambient thoughts and emotion. They gain a +2 racial bonus to Perception and Sense Motive checks.   
 
-## LIMITED AUGMENTATIONS
+## Limited Augmentations
 
 The only augmentations that can be installed in an entu symbiote’s brain are datajacks and the mechanic’s custom rig.   
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Entu symbiotes have limited telepathy with a range of 30 feet.   
 
-## NATURAL WEAPONS
+## Natural Weapons
 
 Entu symbiotes have the natural weapons universal creature rule with a kinetic damage type chosen at character creation.   
 
-## SYMBIOTIC ENHANCEMENT
+## Symbiotic Enhancement
 
 At character creation, an entu symbiote chooses a fly speed (Ex, average), burrow speed, climb speed, or swim speed, matching thematically the type of animal on which the entu symbiote is based. The entu symbiote has that speed with a value of 20 feet. 
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** Varies by animal  
 **Average Weight** Varies by animal  

@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Crest-Eater
+# Crest-eater
 
 - [cr::4]
 - [combatType::combatant]

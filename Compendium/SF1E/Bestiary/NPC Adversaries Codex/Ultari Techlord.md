@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ULTARI TECHLORD
+
+# Ultari Techlord
+
 **XP 409,600**  
 Ultari technomancer  
 LE Medium outsider (evil, extraplanar, lawful)  
@@ -52,7 +54,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### TELEPATHIC DRAIN (SU)
+#### Telepathic Drain (SU)
 
 As above, but the Will DC is 29.
 

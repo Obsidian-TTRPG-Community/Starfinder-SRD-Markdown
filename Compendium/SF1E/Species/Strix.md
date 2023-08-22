@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# STRIX
+
+# Strix
+
 > [!infobox|left n-th clean]
 >  [[Strix.png|Spielern zeigen!]]
 > With their ebon feathers, murky eyes, and massive wings spreading behind them like angels’ pinions, strix are imposing people to anyone not familiar with their kind. Pre-Gap accounts speak of a small and usually isolationist population of strix on vanished Golarion. Today, strix still tend to keep to themselves, especially in the race’s most concentrated population in the Pact Worlds: a mysterious spire called Qidel, Aerie of the Sun, on [[Verces]].  
@@ -16,31 +18,31 @@ Though they share little about their home culture even with trusted friends, str
 **Ability Modifiers** +2 Dex, +2 Int, -2 Cha  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Strix are Medium humanoids with the strix subtype.  
 
-## DARKVISION
+## Darkvision
 
 Strix can see up to 60 feet in the dark.  
 
-## NIGHTBORN
+## Nightborn
 
 Strix gain a +2 racial bonus to Perception and Stealth checks in dim light or darkness.  
 
-## STRIX MOBILITY
+## Strix Mobility
 
 Strix have a land speed of 20 feet and an extraordinary fly speed of 30 feet with average maneuverability.  
 
-## SUSPICIOUS
+## Suspicious
 
 Strix receive a +2 racial bonus to saving throws against illusion spells and effects.  
 
-## TINKERER
+## Tinkerer
 
 Strix have a natural eye for technology and can craft such items at incredible speed. It takes a strix a base time of 2 hours to craft a technological item.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5-6 ft.  
 **Average Weight** 115-150 lbs.  

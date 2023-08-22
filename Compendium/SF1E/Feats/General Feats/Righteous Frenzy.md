@@ -5,8 +5,10 @@ Prerequisites: Frenzy species trait
 tags: 
 Type: General Feat
 ---
-# RIGHTEOUS FRENZY
-**Source** _Interstellar Species pg. 130_  
+
+# Righteous Frenzy
+
+**Source**:: _Interstellar Species pg. 130_  
 Your furious defense of injured friends transforms you into a conduit for divine power, likely Hylax’s, but perhaps that of some other patron.
 
 **Prerequisites**: Frenzy species trait

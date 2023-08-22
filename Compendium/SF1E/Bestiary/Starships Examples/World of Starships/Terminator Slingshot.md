@@ -5,7 +5,9 @@ tags:
 Tier: 7
 Type: Large heavy freighter
 ---
-# TERMINATOR SLINGSHOT
+
+# Terminator Slingshot
+
 > [!infobox|locr n-th clean]
 >  [[Starship_TerminatorSlingshot.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Large heavy freighter, **Tier** 7
 **Attack (Starboard)** laser net (2d6; 5 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** budget short-range sensors, crew quarters (luxurious), mk 3 armor, mk 3 defenses, mk 1 trinode computer; **Expansion Bays** cargo holds (5), smuggler compartments (2), thrusters primer; **Modifiers** +1 to any 3 checks per round; **Complement** 7 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Computers +14 (7 ranks), Engineering +14 (7 ranks), gunnery +12 (7th level), Intimidate +19 (7 ranks), Piloting +14 (7 ranks)  
 **Engineers (2)** Engineering +14 (7 ranks)  
@@ -28,7 +30,7 @@ Large heavy freighter, **Tier** 7
 **Pilot** Piloting +19 (7 ranks)  
 **Science Officers (2)** Computers +14 (7 ranks)
 
-## DESCRIPTION
+## Description
 
 Like many Vercite ships, the Slingshot is notable for its combination of speed and luxury, despite being designed for hauling freight rather than transporting elite clientele. For seasoned personnel, serving aboard a Slingshot—where every crew member has their own stateroom with a full-sized bed and a bathroom with a private shower—may be the most comfortable job they’ve ever had. In addition to these comforts, the Slingshot is famed for its flight performance. Thruster upgrades enable these starships to accelerate from a dead stop to maximum speed in seconds. Cautious merchants love this feature almost as much as the smugglers and pirates who delight in repurposing these vessels for ambushes do.  
   

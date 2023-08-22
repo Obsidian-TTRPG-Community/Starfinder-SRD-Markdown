@@ -2,12 +2,13 @@
 aliases: 
 tags: 
 ---
-# BUILDING MECHS
+
+# Building Mechs
 
 **Source** _Tech Revolution pg. 94_  
 Mechs show up in a wide range of forms and functions, not only varying by manufacturer but also as a result of their crew, faction, or world of origin. Regardless of the wide variety of appearances or particular abilities, mechs all share a set of statistics that govern their operation, and any number of different mechs can be built following the same step-by-step process.  
 
-# UNDERSTANDING MECHS
+# Understanding Mechs
 
 **Source** _Tech Revolution pg. 96_  
 Mechs and their base frames are described using stat blocks that include a number of pieces of information. Each statistic listed in a mech or mech frame statblock is defined below. Explanations for how to calculate a mech’s various statistics appear in the final step of Building a Mech (pages 97–98).
@@ -37,25 +38,25 @@ Mechs and their base frames are described using stat blocks that include a numbe
 
   
 
-## OTHER MECH FEATURES
+## Other Mech Features
 
 **Source** _Tech Revolution pg. 96_  
 The following apply to all mechs.  
 **Carrying Capacity:** A mech can carry its equipment, operators, cargo hold contents, and small loads without tracking carrying capacity. A mech becomes encumbered when carrying an amount of bulk equal to or greater than 20 × its Strength modifier and becomes overburdened when carrying an amount of bulk equal to or greater than 40 × its Strength modifier.  
 **Computer:** A mech houses a personal comm unit and a tier 1 computer that primarily coordinates the mech’s movements and systems. The computer’s tier increases by 1 at mech tier 4 and every 4 tiers thereafter. The superior computer upgrade (page 108) can enhance the computer’s performance.  
 
-# BUILDING A MECH
+# Building a Mech
 
 **Source** _Tech Revolution pg. 97_  
 This section details the steps to creating a customized mech. No matter the size, form, or intended function, each mech is created using the same process, which involves purchasing features such as frames, limbs, and armaments that modify the mech’s statistics, provide additional actions, or augment the mech’s functions. The result could be an agile skirmisher, an armor-plated quadruped brimming with missiles, or many other possibilities.  
 A mech sheet is provided on page 165.  
 
-## STEP 1: CONCEPTUALIZE
+## Step 1: Conceptualize
 
 **Source** _Tech Revolution pg. 97_  
 Start by deciding what kind of mech you’re designing, with a general idea of its purpose and required number of operators.  
 
-## STEP 2: ALLOCATE MECH POINTS
+## Step 2: Allocate Mech Points
 
 **Source** _Tech Revolution pg. 97_  
 As a group, your party has a pool of Mech Points (MP) with which to create one or more mechs, with each PC contributing a number of points to the pool based on their level (see Table 4–1: Mech Points per PC, below). The group can then pool or divvy up these MP as they see fit to create one or more mechs, whether it be a single-pilot mech for each PC, one assembled mech for the whole party (page 92), or a combination of mechs in between. No one mech can be built using more than three times the MP of any other mech in the group.  
@@ -63,7 +64,7 @@ The party determines a mech’s tier based on the number of MP they assign to th
 For example, a group of four 5th-level PCs would have a total of 300 MP and an APL of 5. They could create one mech with the 300 MP, and although its maximum tier would be 6, the PCs would have lots of leftover MP to spend on additional features for it. Alternatively, they might create three tier-5 mechs. If each PC wanted their own single-pilot mech, they might instead split the MP evenly, each spending 75 MP to create their own tier-4 mech.  
 At the GM’s discretion, the mechs the PCs build might be more or less powerful than these guidelines suggest.
 
-### TABLE 4-1: MECH POINTS PER PC
+### Table 4-1: Mech Points per Pc
 
 | PC Level | MP Per PC |
 | -------- | --------- |
@@ -90,7 +91,7 @@ At the GM’s discretion, the mechs the PCs build might be more or less powerful
 
   
 
-### TABLE 4-2: MINIMUM MECH POINTS
+### Table 4-2: Minimum Mech Points
 
 | Mech Tier | Minimum MP |
 | --------- | ---------- |
@@ -117,42 +118,42 @@ At the GM’s discretion, the mechs the PCs build might be more or less powerful
 
   
 
-## STEP 3: SELECT FRAME
+## Step 3: Select Frame
 
 **Source** _Tech Revolution pg. 97_  
 Each mech has a frame, a reinforced torso that houses its power core, operators, and various systems. A mech’s frame determines its size category, crew complement, Hit Points, frame slots, auxiliary slots, speed, EAC, KAC, and hardness. Each frame costs a number of MP based on the mech’s tier. Frames are listed beginning on page 98.  
 
-## STEP 4: SELECT LIMBS
+## Step 4: Select Limbs
 
 **Source** _Tech Revolution pg. 97_  
 Each mech includes a set of upper limbs and lower limbs. Unless your mech has a special ability that allows it to install an exceptional number of limbs, each mech includes only one set of upper limbs and one set of lower limbs, and each set can affect the mech’s Hit Points, speed, weapon slots, attack modifiers, EAC, and KAC. Upper limbs and lower limbs are listed on page 101.  
 
-## STEP 5: SELECT POWER CORE
+## Step 5: Select Power Core
 
 **Source** _Tech Revolution pg. 97_  
 A mech’s power core determines how much power it can store and generate, measured in Power Points (PP), which allow the mech to perform exceptional actions. Power cores are listed on page 102.  
 
-## STEP 6: SELECT WEAPONS
+## Step 6: Select Weapons
 
 **Source** _Tech Revolution pg. 97_  
 A mech can mount as many weapons as it has frame slots, upper limb slots, and lower limb slots. A weapon’s level determines its damage and MP cost; each weapon also gains a simple template based on its type that can affect its damage, range, and special abilities. A mech must either mount or hold any weapons in its available weapon slots. Weapons are listed starting on page 103.  
 
-## STEP 7: SELECT AUXILIARY SYSTEMS
+## Step 7: Select Auxiliary Systems
 
 **Source** _Tech Revolution pg. 97_  
 Each mech frame provides auxiliary slots, each of which can accommodate one auxiliary system to provide additional capabilities. These systems don’t cost additional MP. Auxiliary systems are listed beginning on page 106.  
 
-## STEP 8: SELECT UPGRADES
+## Step 8: Select Upgrades
 
 **Source** _Tech Revolution pg. 97_  
 If you have leftover Mech Points, you can spend them on miscellaneous upgrades, such as a frame reinforcement that provides additional HP or an enhancement to the mech’s speed. Upgrades are listed on page 108.  
 
-## STEP 9: ADD DETAILS
+## Step 9: Add Details
 
 **Source** _Tech Revolution pg. 97_  
 Finally, determine your mech’s remaining statistics using the information in Mech Statistics (page 98) and record them on the mech sheet (page 165). You might also want to give your mech a name, quirks, a physical description, and so on.  
 
-# MECH STATISTICS
+# Mech Statistics
 
 **Source** _Tech Revolution pg. 98_  
 Use the following table and formulas to generate a mech’s statistics. Note that some mech components, such as upgrades, might further modify these statistics.  
@@ -173,7 +174,7 @@ Tier (+ Strength modifier [see Table 4–3] for melee attacks)
 **Strength Modifier**  
 Strength modifier (see Table 4–3) + bonus from frame  
 
-### TABLE 4-3: MECH STATISTICS BY TIER
+### Table 4-3: Mech Statistics by Tier
 
 | Tier | SP  | Hardness Bonus | Base AC | Base Save Bonus | Base Attack Bonus | Strength Modidier |
 | ---- | --- | -------------- | ------- | --------------- | ----------------- | ----------------- |
@@ -200,23 +201,23 @@ Strength modifier (see Table 4–3) + bonus from frame
 
   
 
-# FRAME
+# Frame
 
 **Source** _Tech Revolution pg. 98_  
 A mech’s armored torso comprises its frame, which not only houses essential machinery but also determines the mech’s size and the number of operators it can accommodate. A mech’s frame also affects many of its statistics, such as EAC, KAC, and hardness. Each frame’s cost is based on the mech’s tier. The base frames that follow are organized by category.  
 
-# LOWER LIMBS
+# Lower Limbs
 
 **Source** _Tech Revolution pg. 101_  
 A mech’s lower limbs typically take the form of legs, though hover pads and tank treads are common alternatives. A mech is limited to a single set of lower limbs. Lower limbs modify a variety of the mech’s statistics and might grant additional movement options or provide additional uses for Power Points.  
 
-# UPPER LIMBS
+# Upper Limbs
 
 **Source** _Tech Revolution pg. 101_  
 A mech’s upper limbs typically represent a pair of arms, though they can be found in other forms, such as multiple limbs or even mechanical tentacles. A mech is limited to a single set of upper limbs. Upper limbs modify a variety of the mech’s statistics and may provide additional uses for Power Points.  
 Some upper limbs have attack modifiers marked with an asterisk (*). Choose either the melee or ranged attack modifier and increase it by 1 when you purchase these upper limbs.  
 
-# POWER CORE
+# Power Core
 
 **Source** _Tech Revolution pg. 102_  
 A mech’s power core generates all the energy necessary to pilot the mech and operate its major functions. Each power core also generates some excess energy, measured as Power Points (PP; see page 113), which an operator can expend to enhance the mech’s performance and execute extraordinary maneuvers. Each power core has: a rate, representing the number of PP it generates at the end of its turn; an initial value, representing the number of PP a mech has when it begins an encounter; and a maximum (shown in parentheses), representing the maximum PP the core can store during combat. A mech can use only a single power core.  
@@ -225,7 +226,7 @@ Optionally, a power core can acquire one power core template that modifies some 
 Cost: A mk 0 power core (dynamo or eternal) is free. Every other power core costs a number of MP equal to the power core’s mk rating multiplied by the mech’s tier. For example, a mk 3 eternal core for a tier 9 mech costs 27 MP.  
   
 
-## TABLE 4–4: POWER CORES
+## Table 4–4: Power Cores
 
 | **Power Core** | **Rate** | **Initial (Maximum)** |
 | -------------- | -------- | --------------------- |
@@ -242,7 +243,7 @@ Cost: A mk 0 power core (dynamo or eternal) is free. Every other power core cost
 
   
 
-# WEAPONS
+# Weapons
 
 **Source** _Tech Revolution pg. 102_  
 Engineers have designed and adapted a wide range of weapons for mechs to use. Each weapon combines two factors—the weapon’s level and a weapon template—to determine its statistics and MP cost. Mech weapons use many of the same rules as standard weapons (Core Rulebook 168), including damage types, targeting Armor Class, damage, range, critical hits, capacity, usage, and weapon special properties.  
@@ -255,7 +256,7 @@ Mech weapons also use the following key statistics.
 **Power Point:** Many weapons have a special ability that the mech can only perform by expending one or more Power Points; the number of PP used is listed in parentheses.  
 **Cost:** This is the cost of the weapon in MP. Each weapon’s cost is based on the weapon’s level.  
 
-### TABLE 4-5: WEAPON DAMAGE
+### Table 4-5: Weapon Damage
 
 | Level | Low Damage | Medium Damage | High Damage | Extreme Damage |
 | ----- | ---------- | ------------- | ----------- | -------------- |
@@ -282,25 +283,25 @@ Mech weapons also use the following key statistics.
 
   
 
-# AUXILIARY SYSTEMS
+# Auxiliary Systems
 
 **Source** _Tech Revolution pg. 106_  
 Auxiliary systems can provide mechs with an array of additional features, from augmenting the machine’s already impressive performance to granting completely unique abilities. Most auxiliary systems cost no Mech Points, but some systems have special requirements that a mech must fulfill to install them.  
 
-# MECH UPGRADES
+# Mech Upgrades
 
 **Source** _Tech Revolution pg. 108_  
 If you have leftover MP—which is especially likely for a mech with many operators—you can spend them on miscellaneous upgrades, representing further specialization of your mech’s technology. These options are relatively expensive for the benefit they provide, so it’s often best to upgrade a mech’s frame, limbs, and other features first.  
 **Cost:** These upgrades have a scaling cost. The first time a specific upgrade is purchased, use the listed cost. Each additional time the same upgrade is purchased for the mech, increase the upgrade’s cost per tier by 1; this increase is cumulative. For example, the fleet upgrade costs a number of Mech Points equal to 2 × the mech’s tier the first time it’s purchased, 3 × tier the second time, 4 × tier the third time, and so on.  
 
-# REFITTING AND UPGRADING MECHS
+# Refitting and Upgrading Mechs
 
 **Source** _Tech Revolution pg. 108_  
 In some campaigns, the PCs might have access to the same mechs over time. In this case, as the PCs’ character levels increase, so too do their mechs become more powerful, granting them additional Mech Points with which they can upgrade their machines (see Table 4–1: Mech Points per PC on page 97). These additional points could represent salvage gathered after their battles, an arrangement with a vendor who secures new gear for them, or even ongoing support from a military patron. The GM might require PCs to visit a safe workshop before spending these new MP—especially if the PCs perform major overhauls like replacing several mechs with one larger mech—but this process shouldn’t impact the campaign much.  
 In addition to gaining additional MP, gaining levels can increase the party’s Average Party Level, which can increase their mechs’ maximum tier. Increasing the tier can impact the mech’s attack modifiers, skill modifiers, Strength modifier, AC, and more.  
 **Refitting Mechs:** If the PCs want to change their mechs’ features before gaining additional MP (for example, replacing one auxiliary system with another that costs the same or fewer MP), they can do so at a safe workshop or other facility, given enough time. Refitting a component typically takes 4d6 hours, and refitting a mech’s frame typically takes 1d4 days. Completely changing or rebuilding a mech rarely takes more than a week.  
 
-# BUILDING NPC MECHS
+# Building Npc Mechs
 
 **Source** _Tech Revolution pg. 109_  
 As a GM, you can create mech combatants to challenge the PCs using the rules in the Building a Mech section on page 97. When doing so, calculate a mech’s challenge rating by adding 2 to its CR if it has one operator, 3 to the CR if it has 2–3 operators, and 4 to the CR if it has 4 or more operators. Assume an operator’s Piloting ranks equal the mech’s tier. Be aware that mechs designed in this way have statistics best suited for PCs, and as a result, such mechs have fewer Hit Points, stronger defenses, lower attack bonuses, and slightly lower damage per attack than a creature of comparable CR.  

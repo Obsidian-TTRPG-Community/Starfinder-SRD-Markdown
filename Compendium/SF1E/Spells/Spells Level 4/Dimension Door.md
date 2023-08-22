@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# DIMENSION DOOR
 
-**Source** _Starfinder Core Rulebook pg. 349_  
-**Classes** Precog 4, Technomancer 4, Witchwarper 4  
-**School** conjuration (teleportation)  
-**Casting Time** 1 standard action  
-**Range** long (400 ft. + 40 ft./level)  
-**Targets** you and touched objects or touched willing or unconscious creatures  
-**Duration** instantaneous  
-**Saving Throw** none, Will negates (object); **Spell Resistance** no, yes (object)
+# Dimension Door
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 349_  
+**Classes**:: Precog 4, Technomancer 4, Witchwarper 4  
+**School**:: conjuration (teleportation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: long (400 ft. + 40 ft./level)  
+**Targets**:: you and touched objects or touched willing or unconscious creatures  
+**Duration**:: instantaneous  
+**Saving-Throw**:: none, Will negates (object);
+**Spell Resistance**:: No, yes (object)
+
+## Description
 
 You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired—whether by simply visualizing the area or by stating its direction. You can bring along objects as long as their weight doesn’t exceed your maximum load. You can also bring up to four additional willing or unconscious Medium or smaller creatures (carrying gear or objects up to their maximum load) or their equivalent. A Large creature counts as two Medium creatures, and a Huge creature counts as two Large creatures. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. After using this spell, you can’t take any other actions until your next turn (and each creature traveling with you can’t take any other actions until its next turn).
 

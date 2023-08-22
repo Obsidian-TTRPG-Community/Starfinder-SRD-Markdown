@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SETTLEMENT QUALITIES
+
+# Settlement Qualities
+
 The following are just a few of the possible qualities a settlement might have.
 
 **Academic**: It is often easier to do research in this settlement, which is home to a large school, research facility, or great repository of knowledge.
@@ -27,7 +29,8 @@ The following are just a few of the possible qualities a settlement might have.
 
 **Technologically Underdeveloped**: The technology used by the settlement is less advanced than that found elsewhere.
 
-# SETTLEMENT GOVERMENTS
+# Settlement Goverments
+
 The following are just a few of the ways a settlement might be governed.
 
 **Anarchy**: A lack of structured government or laws leads to a settlement where nearly anything goes.

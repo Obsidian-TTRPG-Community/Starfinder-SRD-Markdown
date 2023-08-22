@@ -5,8 +5,10 @@ Prerequisites: Str 13, Intimidate 1 rank, ferocious charge universal creature ru
 tags: 
 Type: General Feat
 ---
-# STARTLING CHARGE
-**Source** _Interstellar Species pg. 135_  
+
+# Startling charge
+
+**Source**:: _Interstellar Species pg. 135_  
 You use your charge mainly to frighten your enemies rather than to attack them directly.
 
 **Prerequisites**: Str 13, Intimidate 1 rank, ferocious charge universal creature rule

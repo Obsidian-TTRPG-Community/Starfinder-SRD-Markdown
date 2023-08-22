@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# AUTOPILOT
 
-**Source** _Galactic Magic pg. 68_  
-**Classes** Technomancer 3, Witchwarper 3  
-**School** conjuration  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one vehicle  
-**Duration** 1 hour/level  
-**Saving Throw** none; **Spell Resistance** no
+# Autopilot
 
-## DESCRIPTION
+**Source**:: _Galactic Magic pg. 68_  
+**Classes**:: Technomancer 3, Witchwarper 3  
+**School**:: conjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one vehicle  
+**Duration**:: 1 hour/level  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 You install an AI into a vehicle that can control the vehicle in place of an actual pilot. During the spell's duration, you can engage or disengage the autopilot AI as a swift action. You can input a destination into the autopilot AI as a move action, and the autopilot AI attempts to reach that location if doing so is possible.
 

@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Plasma ooze
+# Plasma Ooze
 
 - [cr::16]
 - [combatType::combatant]

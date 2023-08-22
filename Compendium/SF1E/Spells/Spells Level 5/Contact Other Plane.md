@@ -9,16 +9,17 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# CONTACT OTHER PLANE
 
-**Source** _Starfinder Core Rulebook pg. 344_  
-**Classes** Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
-**School** divination  
-**Casting Time** 10 minutes  
-**Range** personal  
-**Duration** concentration  
+# Contact other Plane
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 344_  
+**Classes**:: Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: divination  
+**Casting-Time**:: 10 minutes  
+**Range**:: personal  
+**Duration**:: concentration  
+
+## Description
 
 You send your mind to another plane of existence (an Elemental Plane or some plane further removed) in order to receive advice and information from powers there. The powers reply in a language you understand, but they resent such contact and give only brief answers to your questions. All questions are answered with “Yes,” “No,” “Maybe,” “Never,” “Irrelevant,” or some other one-word answer.
 

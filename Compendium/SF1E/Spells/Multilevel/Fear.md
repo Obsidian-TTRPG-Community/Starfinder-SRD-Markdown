@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 1-4
 ---
-# FEAR
 
-**Source** _Starfinder Core Rulebook pg. 354_  
-**Classes** Mystic 1-4, Witchwarper 1-4  
-**School** enchantment (emotion, fear, mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** see text  
-**Targets** see text  
-**Duration** see text  
-**Saving Throw** Will partial; **Spell Resistance** yes
+# Fear
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 354_  
+**Classes**:: Mystic 1-4, Witchwarper 1-4  
+**School**:: enchantment (emotion, fear, mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: See Text  
+**Targets**:: See Text  
+**Duration**:: See Text  
+**Saving-Throw**:: Will partial;
+**Spell Resistance**:: yes
+
+## Description
 
 With a single mental nudge, you can unlock one or more targets’ deepest nightmares. A target that succeeds at its Will saving throw against this spell is shaken for 1 round.
 

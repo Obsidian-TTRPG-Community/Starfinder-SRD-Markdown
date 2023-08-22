@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# TAVERN CHAMPION
+
+# Tavern Champion
+
 **XP 800**  
 N Medium humanoid (orc)  
 **Init** +2; **Senses** darkvision 60 ft.; Perception +8
@@ -41,11 +43,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### BLUSTER (EX)
+#### Bluster (EX)
 
 As a move action, a tavern champion can brag about their own abilities or hurl a stinging insult at an opponent. If they succeed at a Bluff check with a DC equal to 15 + their target’s CR, they gain a +1 to hit and a +1 to damage their target for 1 round.
 
-#### ORC FEROCITY (EX)
+#### Orc Ferocity (EX)
 
 Once per day, a half-orc brought to 0 Hit Points but not killed can fight on for 1 more round. The half-orc drops to 0 HP and is dying (following the normal rules for death and dying) but can continue to act normally until the end of her next turn, when she becomes unconscious as normal. If she takes additional damage before this, she ceases to be able to act and falls unconscious.
 

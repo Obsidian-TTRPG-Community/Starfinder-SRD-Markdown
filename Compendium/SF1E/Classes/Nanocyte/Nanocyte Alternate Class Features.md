@@ -2,10 +2,12 @@
 aliases: 
 tags: 
 ---
-# NANOCYTE ALTERNATE CLASS FEATURES
 
-## ELDRITCH NANITES (SU)
-**Source** _Galactic Magic pg. 26_  
+# Nanocyte Alternate Class Features
+
+## Eldritch Nanites (SU)
+
+**Source**:: _Galactic Magic pg. 26_  
 **Class** Nanocyte
 
 Your nanites are heavily enchanted, limiting their ability to replicate technology but enabling them to weave magical effects at your direction. Your nanite array becomes a supernatural ability. You can’t learn or create major forms with your gear array, and the number of minor forms you know how to create is reduced by half (rounded down). You gain a special fourth nanite array called an eldritch array, which manifests as your nanites hovering close to your body, ready to produce magical effects. Your eldritch array grants you a +1 enhancement bonus to saving throws against spells and spell-like abilities.  

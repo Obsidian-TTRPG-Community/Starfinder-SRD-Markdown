@@ -2,35 +2,36 @@
 aliases: 
 tags: 
 ---
-# BIOHACKER
 
-**Source** _Character Operations Manual pg. 40_  
+# Biohacker
+
+**Source**:: _Character Operations Manual pg. 40_  
 You’re fascinated by science in all its many facets. You understand that the fundamentals of biology, chemistry, physics, and other disciplines can help you exploit your enemies’ weaknesses and bolster your allies. You might be studious and methodical about your research, pushing your mind to the limit in search of discovery, or you might be a daring experimenter, improvising concoctions and stumbling upon grand revelations. Either way, you use your knowledge of several fields of scientific study to aid your allies, whether in the thick of battle or in crafting a perfect plan.
 
 **Hit Points**: 6  
 **Stamina Points**: 6
 
-## KEY ABILITY SCORE - INT|WIS
+## Key Ability Score - INT|WIS
 
 Your Intelligence helps you learn about the sciences, while your Wisdom helps you interpret facts and apply them to real-world situations. You should choose either Intelligence or Wisdom as your key ability score. Once made, this choice cannot be changed. A high Dexterity can help you better aid your allies and hinder your foes with your ranged biohacks.
 
-## CLASS SKILLS
+## Class Skills
 
 The Biohacker's class skills are Bluff (Cha), Computers (Int), Culture (Int), Diplomacy (Cha), Engineering (Int), Life Science (Int), Medicine (Int), Perception (Wis), Physical Science (Int), Profession (Cha, Int, or Wis), Sense Motive (Wis), Sleight of Hand (Dex).
 
 **Skill Points at each Level**: 4 + Int modifier.
 
-## PROFICIENCIES
+## Proficiencies
 
-### ARMOR
+### Armor
 
 Light armor
 
-### WEAPONS
+### Weapons
 
 Basic melee weapons, small arms, and grenades
 
-## CLASS FEATURES
+## Class Features
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                |
 |-------|-------------------|-----------|----------|-----------|----------------------------------------------------------------------------------------|
@@ -58,7 +59,7 @@ Basic melee weapons, small arms, and grenades
 
   
 
-## CUSTOM MICROLAB (EX) - 1ST LEVEL
+## Custom Microlab (EX) - 1ST Level
 
 You have created a small, customized kit consisting of medical supplies, testing materials, and pharmaceutical compounds, which you can use to evaluate medical conditions and perform several additional tasks described below. You can configure your custom microlab to take the shape of anything that can fit in your hand or similar appendage. Alternatively, you can add it to an armor upgrade slot or to an augmentation system in your brain or an arm; it never takes up an armor upgrade slot or occupies a system in your body, so you can still use that slot or system for an armor upgrade or augmentation as normal. You must have your custom microlab on your person to use it, but you can configure it so it doesn’t need to be in your hand to function.
 
@@ -72,7 +73,7 @@ At 5th level, your custom microlab can function as an advanced medkit. At 9th le
 
 If your custom microlab is damaged, destroyed, lost, or stolen, you can kitbash a new one from any medkit or chemalyzer with 1 hour of work. You can have only one custom microlab at a time. If you create a new custom microlab, your old one functions as a normal item of whatever type you made it from.
 
-## BIOHACKS (EX) - 1ST LEVEL
+## Biohacks (EX) - 1ST Level
 
 As part of your custom microlab, you keep a specialized micropharmacy of catalysts, nanites, and specialized chemicals, plus a small mixing apparatus and syringes. You can use these components to quickly fashion biohacks: specialized solutions that produce different effects. In living targets, your biohacks alter normal biological processes; in nonliving creatures, they emulate biochemistry via complex chemical compounds. You can use biohacks to boost your allies or inhibit your foes. Your biohacks produce their effects only when you inject a creature with them (see below), and only you know how to make and administer them properly—a biohack that leaves your possession becomes inert until you pick it up again.
 
@@ -86,7 +87,7 @@ The materials you use to create biohacks are inert until you activate them. Once
 
 Biohacks come in two varieties: boosters and inhibitors. At 1st level, you know the basic boosters and inhibitors listed below, the minor boosters and inhibitors that follow, and the unique booster and inhibitor granted by your primary field of study. As you increase in level, you can also devise theorems to learn special biohacks, in addition to gaining biohacks from a secondary and a tertiary field of study. Additionally, most fields of study eventually provide you with breakthroughs: special biohacks described in their entries.
 
-## BASIC BOOSTER
+## Basic Booster
 
 A basic booster biohack aids a creature in one manner or another. The effect lasts for a number of rounds equal to your key ability score modifier (minimum 1 round) unless it states otherwise. You begin play knowing this basic booster biohack; when you use it, select an effect:
 
@@ -94,7 +95,7 @@ A basic booster biohack aids a creature in one manner or another. The effect las
 -   The target gains a +2 enhancement bonus to skill checks.
 -   The target gains a +10-foot enhancement bonus to their speed. If the creature has more than one movement type, choose one to receive this bonus.
 
-## BASIC INHIBITOR
+## Basic Inhibitor
 
 A basic inhibitor biohack hinders a creature’s physiology or material function. The effect of an inhibitor lasts for a number of rounds equal to 3 + your key ability score modifier (minimum 1 round) unless it states otherwise. You begin play knowing this basic inhibitor biohack; when you use it, select an effect:
 
@@ -104,49 +105,49 @@ A basic inhibitor biohack hinders a creature’s physiology or material function
 
 A creature can be affected by only one of your basic inhibitors at a time, though it could be under the effects of multiple basic inhibitors originating from multiple biohackers. If you affect a creature with a different basic inhibitor while a previous inhibitor is still in effect, the effects of the previous inhibitor end.
 
-## MINOR BIOHACKS
+## Minor Biohacks
 
 You can create minor biohacks from less powerful (and more stable) pharmaceuticals, nanites, and catalysts, and you can add them to any attack you make with an injection weapon that does not already have another biohack added to it. You don’t need to activate the materials for minor biohacks in advance, and using them does not count against the maximum number of biohacks you can have ready at one time. Minor biohacks are otherwise used as and function as basic booster and basic inhibitor biohacks, and they count as such biohacks for the purposes of interactions with other abilities (such as spark of ingenuity).  
 
-### MINOR BOOSTER
+### Minor Booster
 
 Using a minor booster biohack allows you to attempt some Medicine checks on targets you affect so long as the target is within range of your custom microlab. This doesn’t require any additional time or action beyond making the attack. The tasks you can attempt with such a Medicine check depend on your level, and they don’t have the duration of normal booster biohacks.
 
 At 1st level, you can attempt a Medicine check to administer first aid. At 3rd level, you can attempt a Medicine check to treat drugs or poison, though on a successful check, the target gains a +4 bonus only on the next saving throw it attempts against the drug or poison, and that saving throw must occur within the next hour. At 6th level you can attempt a Medicine check to treat disease, though on a successful check, the target gains a +4 bonus only to the next saving throw it attempts against the disease, and that saving throw must occur within the next hour.
 
-### MINOR INHIBITOR
+### Minor Inhibitor
 
 A minor inhibitor biohack imposes a slight hindrance on a target: the target takes a –1 penalty to attack rolls for a number of rounds equal to 3 + your key ability score.
 
-## INJECTION EXPERT (EX) - 1ST LEVEL
+## Injection Expert (EX) - 1ST Level
 
 You are proficient with weapons with the injection weapon special property, as long as the weapon has not gained that weapon special property through a weapon fusion, spell, class feature, or similar ability or effect. At 2nd level, you gain a +1 bonus to attack rolls with these weapons. At 9th level, that bonus increases to +2, and at 18th level it increases to +3.
 
 When you hit an ally with such a weapon, you can avoid dealing damage to that ally, while still affecting the ally with the biohack booster or inhibitor, drug, medicinal compound, poison, serum, or other substance that was loaded into the injection weapon. When you fire a weapon with the injection special property and you have multiple types of ammunition loaded into the weapon, you choose which type of ammunition you fire when you attempt the attack.
 
-## PRIMARY FIELD OF STUDY (EX) - 1ST LEVEL
+## Primary Field of Study (EX) - 1ST Level
 
 Your primary field of study represents your scientific specialty. Choose your primary field of study upon taking your first level in biohacker—once made, this choice cannot be changed. A field of study grants you a unique booster and inhibitor, many of which work only on living creatures (not objects or creatures with the unliving universal creature rule) and have special properties and descriptors explained in their entries. At 5th level, you gain the breakthrough for your field of study.
 
-## SCIENTIFIC METHOD (EX) - 1ST LEVEL
+## Scientific Method (EX) - 1ST Level
 
 You have an innate mental gift, and a special way of approaching problems that lets you surpass normal researchers and scholars. If your key ability score is Intelligence, you have a studious mind. If your key ability score is Wisdom, you have an instinctive mind. Your scientific method affects your spark of ingenuity class feature (see below), and may impact how some other class features function, as noted in those abilities.
 
-## STUDIOUS
+## Studious
 
 Your mind is a fortress of information that can rarely be breached. You gain a +1 bonus to Will saving throws. This bonus increases to +2 at 3rd level, +3 at 8th level, and +4 at 16th level. You also gain a +1 insight bonus to Life Science, Medicine, and Physical Science checks. This bonus increases by 1 at 3rd level, and every 4 levels thereafter. Additionally, you can add your Intelligence modifier instead of your Wisdom modifier to Perception and Sense Motive checks.
 
-## INSTINCTIVE
+## Instinctive
 
 You can quickly intuit the connections between things and often act instinctively on those connections, gaining knowledge and aptitude without always being able to say how you picked it up. Select two skills—once made, this choice cannot be changed. You gain a bonus rank in each of these two skills at every level, as well as a +1 insight bonus to checks using these skills. This bonus increases by 1 at 3rd level and every 4 levels thereafter. Additionally, you can add your Wisdom modifier instead of your Intelligence modifier to Life Science, Medicine, and Physical Science checks.
 
-## THEOREM (EX) - 2ND LEVEL
+## Theorem (EX) - 2ND Level
 
 As you gain experience, you devise theories about the way the universe works. Some theorems you can apply to yourself, altering your physiological structure to gain specific benefits, while others require the use of your custom microlab or other equipment or add additional options for your biohacks.
 
 You learn your first theorem at 2nd level, and you gain an additional theorem every 2 levels thereafter. If a theorem allows an opponent a saving throw to resist its effects, the DC is equal to 10 + half your biohacker level + your key ability score modifier. If a theorem requires an opponent to attempt a skill check, the DC is equal to 10 + 1-1/2 × your biohacker level + your key ability score modifier. Unless otherwise specified, you can’t learn a theorem more than once. Once you learn a theorem, that choice cannot be changed.
 
-## SPARK OF INGENUITY (EX) - 3RD LEVEL
+## Spark of Ingenuity (EX) - 3RD Level
 
 Possible permutations and offshoots of your formulas constantly run through your mind. Once per day, you can alter one of your biohacks to work in a different way, determined by your scientific method. You can do this one additional time per day at 9th level and at 15th level.
 
@@ -154,23 +155,23 @@ If you are a studious biohacker, you can expend two uses of your biohack ability
 
 If you are an instinctive biohacker, when using a booster biohack, you can remove one of the following conditions, in addition to the booster’s normal effects: dazzled, fascinated, or shaken. If you are at least 9th level, you can instead add the off-target condition as one of the effects imposed by any of your inhibitors, or you can remove any one of the following conditions with any of your boosters: dazzled, deafened, fascinated, fatigued, off‑target, shaken, or sickened. Alternatively, you can add the dazzled condition to the effects imposed by any of your inhibitor biohacks. This effect lasts the length of the inhibitor’s duration.
 
-## WEAPON SPECIALIZATION (EX) - 3RD LEVEL
+## Weapon Specialization (EX) - 3RD Level
 
 You gain the Weapon Specialization feat as a bonus feat for each weapon type this class grants you proficiency with. For weapons you have gained proficiency with only through the injection expert class feature, rather than the normal Weapon Specialization benefit, you instead add half your character level to damage you deal with those weapons.
 
-## SECONDARY FIELD OF STUDY (EX) - 7TH LEVEL
+## Secondary Field of Study (EX) - 7TH Level
 
 You choose a secondary field of study, which must be different from your primary field of study. Once made, this choice cannot be changed. You gain the unique booster and inhibitor biohacks for that field of study. At 11th level, you gain the breakthrough for your secondary field of study. When discussing your eduction, your secondary field of study is often referred to as your “minor.”
 
-## TERTIARY FIELD OF STUDY (EX) - 13TH LEVEL
+## Tertiary Field of Study (EX) - 13TH Level
 
 You choose a third field of study, which must be different from your primary and secondary fields of study. Once made, this choice cannot be changed. You gain the unique booster and inhibitor biohacks for that field of study. At 17th level, you gain the breakthrough for your tertiary field of study.
 
-## RESOLVE ANALYSIS (EX) - 19TH LEVEL
+## Resolve Analysis (EX) - 19TH Level
 
 Whenever you use your spark of ingenuity class feature, you regain 1 Resolve Point, up to your normal maximum.
 
-## SUPERSERUM (SU) - 20TH LEVEL
+## Superserum (SU) - 20TH Level
 
 At 20th level, you have developed the formula for a superserum that can create powerful changes in a target. You can create two superserums per day. Your superserums are a special type of biohack, and you prepare them as part of the 10 minutes required to create your normal biohacks for the day. Your superserum produces one of the following effects; as with all biohacks, you decide on this effect as part of the attack or action you take to inject a creature with the biohack.
 

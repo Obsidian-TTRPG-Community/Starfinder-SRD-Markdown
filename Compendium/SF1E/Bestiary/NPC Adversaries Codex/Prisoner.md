@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# PRISONER
+
+# Prisoner
+
 **XP 600**  
 N Medium humanoid (human)  
 **Init** +1; Perception +9
@@ -34,7 +36,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### PRISON INSIGHT (EX)
+#### Prison Insight (EX)
 
 A prisoner can impart secrets of a prison they have inhabited, granting a +4 bonus when using the aid another action to help an ally with Diplomacy, Perception and Survival checks within that prison. A prisoner can also draw a map of a prison, might have information about other prisoners, or know which guards are corrupt.
 

@@ -5,8 +5,10 @@ Prerequisites: Profession (vidgamer) 7 ranks.
 tags: 
 Type: General Feat
 ---
-# VIDGAME AFICIONADO
-**Source** _Alien Archive 4 pg. 25_  
+
+# Vidgame Aficionado
+
+**Source**:: _Alien Archive 4 pg. 25_  
 Through dedication, you’ve honed your skill at games and employed them in your daily life.
 
 **Prerequisites**: Profession (vidgamer) 7 ranks.

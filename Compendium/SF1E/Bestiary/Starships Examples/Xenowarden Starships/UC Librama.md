@@ -5,7 +5,9 @@ tags:
 Tier: 5
 Type: Small biomechanical shuttle
 ---
-# UC LIBRAMA
+
+# Uc Librama
+
 > [!infobox|locr n-th clean]
 >  [[Starship_UCLibrama.jpg|Spielern zeigen!]]
 > 
@@ -18,13 +20,13 @@ Small biomechanical shuttle, **Tier** 5
 **Attack (Aft)** flak thrower (3d4; 5 hexes)  
 **Power Core** Arcus Ultra (150 PCU); **Drift Engine** Signal Major; **Systems** advanced long-range sensors, crew quarters (good), extra light weapon mount (aft), mk 4 armor, mk 5 defenses, mk 2 tetranode computer, security (anti-hacking systems, biometric locks); **Expansion Bays** hydroponic garden, science lab (general); **Modifiers** +2 to any 4 checks per round, +4 Computers (sensors only), +2 Piloting; **Complement** 3 (minimum 1, maximum 4)
 
-### CREW
+### Crew
 
 **Captain** Bluff +11 (5 ranks), Diplomacy +16 (5 ranks), gunnery +10 (5th level), Piloting +13 (5 ranks)  
 **Engineer** Engineering +11 (5 ranks  
 **Science Officer** Computers +16 (5 ranks)
 
-## DESCRIPTION
+## Description
 
 Designed for preliminary exploration and long-range analysis of new and distant planets and civilizations, the Librama, a biomechanical starship model  
   

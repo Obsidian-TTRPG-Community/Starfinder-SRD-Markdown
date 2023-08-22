@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# ABALLONIAN SHIPS
+
+# Aballonian Ships
+
 In the millennia since the disappearance of the First Ones, the mysterious race that founded the first cities on [[Aballon]] and populated them entirely with machines, the anacites have divided themselves into two groups: Those Who Wait and Those Who Become. This latter group maintains fleets of starships, intent upon exploring and colonizing the stars.  
   
 Manufactured in vast machine factories on [[Aballon]] by companies such as [[Compiler Enterprises]] (often called CompEnt) and [[Pact Worlds & Beyond/Gruppen & Organisationen/Manufacturers/Starship Manufacturers/Multifold Industries|Multifold Industries]], these vessels are created primarily for robotic life. Few have any form of atmosphere or personal comforts, and their controls are often entirely digital, with crew members simply accessing the ship’s systems through specialized data ports. While this might seem to give them a tactical advantage, most Aballonian vessels are designed for exploration and colonization, with defenses almost as an afterthought.  

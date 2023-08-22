@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ERAHTHI ALCHEMIST
+
+# Erahthi Alchemist
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 400**  

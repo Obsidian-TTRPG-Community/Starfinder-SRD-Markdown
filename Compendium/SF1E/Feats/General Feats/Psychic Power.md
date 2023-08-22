@@ -5,7 +5,7 @@ Benefit: Select one of the following 1st-level spells: _comprehend languages_, _
 
 ---
 # PSYCHIC POWER
-**Source** _Starfinder Core Rulebook pg. 160_  
+**Source**:: _Starfinder Core Rulebook pg. 160_  
 You have a natural psychic ability.
 
 **Prerequisites**: Cha 13, Minor Psychic Power, character level 4th.

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SHAKALTA
+
+# Shakalta
+
 > [!infobox|left n-th clean]
 >  [[Shakalta.png|Spielern zeigen!]]
 >  
@@ -21,47 +23,47 @@ Shakaltas average 6-1/2 feet in height and weigh about 100 pounds. Shakaltas liv
 **Ability Modifiers** +2 Wis, +2 Cha, -2 Int  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Shakaltas are Medium humanoids with the shakalta subtype.  
 
-## AURA OF LIGHT
+## Aura of light
 
 The light level increases by one step within 10 feet of a shakalta. If the shakalta’s body is mostly covered, such as by opaque armor, this light diminishes to a 5-foot radius. Complete covering can douse the light.  
 
-## BONDED SOULS
+## Bonded Souls
 
 Two souls bond to form an adult shakalta. Each soul has its own awareness, identity, and personality, but each can communicate with the other and access the other’s thoughts and memories. When these souls bond, they create one shared permanent physical body out of coherent energy. Each day, after the shakalta rests to regain daily-use abilities, one soul takes active control of the body, which might change slightly in appearance to match the active personality. The other soul is still present but becomes mostly inactive, able to communicate only with the active soul. The inactive soul is also beyond the reach of other outside communication and mind-affecting effects. If a shakalta dies, both souls leave the shared body, but the bonded pair counts as one soul for [_raise dead_](https://aonsrd.com/SpellDisplay.aspx?ItemName=raise%20dead) and similar life-restoring effects.  
 
-## DUAL-CLASSED
+## Dual-classed
 
 A shakalta must [multiclass](https://aonsrd.com/Rules.aspx?ID=Multiclassing&Category=Leveling%20Up) into two classes, one for each soul. The shakalta must alternate between the two classes whenever they gain a new level. A shakalta can never have more than one level of difference between these two classes. A shakalta who uses a [_mnemonic editor_](https://aonsrd.com/HybridItems.aspx?ItemName=Mk%201&Family=Mnemonic%20Editor) must still follow these restrictions.  
 
-## ENERGY BODY
+## Energy Body
 
 As beings of coherent energy, shakaltas are immune to disease and poison. Shakaltas don’t need to breathe, and they are immune to the normal environmental effects of being in a vacuum, including cosmic rays.  
 
-## SHAKALTA TELEPATHY
+## Shakalta Telepathy
 
 Shakaltas have limited telepathy with a range of 30 feet. However, they are receptive to other shakaltas’ telepathy, extending the range at which they can communicate with each other in this way to 90 feet.  
 
-## PSYCHIC SHUNT
+## Psychic Shunt
 
 Once per day, as a reaction when a shakalta fails a saving throw against a mind-affecting effect, the active soul can divert the effect to the inactive soul. The active soul is unaffected by the effect, but for the duration of that effect, the shakalta has the off-target condition and takes a –2 penalty to skill checks. While a mind-affecting effect is diverted to the inactive soul, spells can be cast to end the effect as if the whole shakalta were affected by it. If the souls switch active states while either is affected by a mind-affecting effect, the shakalta gains a new saving throw against those effects.  
 
-## SHAKALTA MAGIC
+## Shakalta Magic
 
 A shakalta can cast [_dancing lights_](https://aonsrd.com/SpellDisplay.aspx?ItemName=dancing%20lights) and [_energy ray_](https://aonsrd.com/SpellDisplay.aspx?ItemName=energy%20ray) (electricity or fire only) at will.  
 
-## SKILL SYNERGY
+## Skill Synergy
 
 Shakaltas gain [Skill Synergy](https://aonsrd.com/FeatDisplay.aspx?ItemName=Skill%20Synergy) as a bonus feat.  
 
-## STAR SUSTENANCE
+## Star Sustenance
 
 Shakaltas gain sustenance from the light of stars, and they don’t need water, although they can eat and drink if they wish. A shakalta can go without such light, which starship and space station lights can duplicate, for 1 day plus a number of hours equal to their Constitution score, after which they must attempt Constitution checks [as if going without water](https://aonsrd.com/Rules.aspx?ID=Environmental%20Rules&Category=Environment).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5-1/2 to 7-1/2 ft.   
 **Average Weight** 75 to 125 lbs.   

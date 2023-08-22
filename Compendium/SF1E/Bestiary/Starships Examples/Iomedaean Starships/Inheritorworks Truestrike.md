@@ -5,7 +5,9 @@ tags:
 Tier: 1/3
 Type: Tiny interceptor
 ---
-# INHERITORWORKS TRUESTRIKE
+
+# Inheritorworks Truestrike
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksTruestrike.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny interceptor, **Tier**  1/3
 **Attack (Forward)** linked gyrolasers (2d8; 5 hexes)  
 **Power Core** Micron Heavy (70 PCU); **Drift Engine** none; **Systems** basic computer, budget short-range sensors, mk 1 defenses; **Expansion Bays** none; **Modifiers** +2 Piloting; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** gunnery +3 (1st level), Piloting +11 (1 rank)
 
-## DESCRIPTION
+## Description
 
 The Truestrike is a wily short-range interceptor designed to frustrate and confuse the enemy. This sleek, lightweight ship represents one of Inheritorworks’ smallest and most aerodynamic designs. Though not as fast as the Brightsword, the Truestrike is far more agile, especially for a skilled pilot. New pilots often complain about the oversensitivity of the craft’s controls, however, noting that Truestrikes are easy to maneuver but difficult to keep steady.  
   

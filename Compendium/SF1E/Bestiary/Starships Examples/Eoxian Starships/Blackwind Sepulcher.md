@@ -5,7 +5,9 @@ tags:
 Tier: 5
 Type: Medium Transport 
 ---
-# BLACKWIND SEPULCHER
+
+# Blackwind Sepulcher
+
 > [!infobox|locr n-th clean]
 >  [[Starship_BlackwindSepulcher.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Medium transport, **Tier** 5
 **Attack (Turret)** light torpedo launcher (2d8), light torpedo launcher (2d8)  
 **Power Core** Pulse White (140 PCU); **Drift Engine** Signal Booster; **Systems** basic computer, basic long-range sensors, crew quarters (common), mk 5 armor, mk 6 defenses; **Expansion Bays** cargo holds (5); **Modifiers** +2 Computers; **Complement** 6
 
-## CREW
+## Crew
 
 **Captain** gunnery +10, Intimidate +11 (5 ranks), Piloting +11 (5 ranks)  
 **Engineer** Engineering +16 (5 ranks)  
@@ -28,6 +30,6 @@ Medium transport, **Tier** 5
 **Pilot** Piloting +11 (5 ranks)  
 **Science Officer** Computers +13 (5 ranks)
 
-## DESCRIPTION
+## Description
 
 Sepulchers are easily recognized by their dome-like bridge canopy, which resembles an eerie red eye. Though employed by plenty of private Eoxian corporations, their intimidating bone spurs make it hard to forget the ships’ origin (and still common use) as troop transport for undead marines.

@@ -5,8 +5,10 @@ Prerequisites: darkvision and low-light vision
 tags: 
 Type: General Feat
 ---
-# DRACONIC SENSES
-**Source** _Interstellar Species pg. 67_  
+
+# Draconic Senses
+
+**Source**:: _Interstellar Species pg. 67_  
 You can detect even very slight movements nearby.
 
 **Prerequisites**: darkvision and low-light vision

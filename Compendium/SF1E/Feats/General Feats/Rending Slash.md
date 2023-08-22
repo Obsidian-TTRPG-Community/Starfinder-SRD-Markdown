@@ -5,8 +5,10 @@ Prerequisites: Str 13, Dex 13, natural weapons (s) species trait
 tags: 
 Type: General Feat
 ---
-# RENDING SLASH
-**Source** _Interstellar Species pg. 135_  
+
+# Rending Slash
+
+**Source**:: _Interstellar Species pg. 135_  
 You viciously tear into an opponent’s flesh, leaving behind deep, jagged wounds.
 
 **Prerequisites**: Str 13, Dex 13, natural weapons (s) species trait

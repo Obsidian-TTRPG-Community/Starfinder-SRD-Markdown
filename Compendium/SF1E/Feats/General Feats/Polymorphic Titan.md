@@ -5,8 +5,10 @@ Prerequisites: 17th level, you know the polymorph spell as a 6th-level spell, an
 tags: 
 Type: General Feat
 ---
-# POLYMORPHIC TITAN
-**Source** _Interstellar Species pg. 87_  
+
+# Polymorphic Titan
+
+**Source**:: _Interstellar Species pg. 87_  
 You can transform into utterly enormous creatures.
 
 **Prerequisites**: 17th level, you know the polymorph spell as a 6th-level spell, and you have at least one Huge predetermined polymorph form.

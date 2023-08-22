@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# COSMIC EDDY
 
-**Source** _Starfinder Core Rulebook pg. 346_  
-**Classes** Mystic 4, Witchwarper 4  
-**School** evocation  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
+# Cosmic Eddy
+
+**Source**:: _Starfinder Core Rulebook pg. 346_  
+**Classes**:: Mystic 4, Witchwarper 4  
+**School**:: evocation  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Area** 20-ft.-radius spread  
-**Duration** 1 round/level (D)  
-**Saving Throw** Reflex partial, see text; **Spell Resistance** yes
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Reflex partial, see text;
+**Spell Resistance**:: yes
 
-## DESCRIPTION
+## Description
 
 You pull dormant mystical energy from the land and objects around you and use it to create a swirling eddy that batters your foes and can hinder their movement. The eddy deals 4d6 bludgeoning damage to each creature in the area. Additionally, creatures in the area are knocked prone and are reduced to half speed while the spell is in effect. A creature that succeeds at a Reflex save takes only half damage and is not knocked prone, but it is still reduced to half speed. Flying creatures within the eddy’s area must attempt an Acrobatics check to fly (DC equals the spell’s save DC) each round. Failure means the creature cannot move for that round.
 

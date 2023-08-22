@@ -5,7 +5,9 @@ tags:
 Tier: 3
 Type: Tiny fighter
 ---
-# IDARAN KERIS
+
+# Idaran Keris
+
 > [!infobox|locr n-th clean]
 >  [[Starship_IdaranKeris.jpg|Spielern zeigen!]]
 > 
@@ -19,12 +21,12 @@ Tiny fighter, **Tier** 3
 **Attack (Aft)** laser net (2d6; 5 hexes)  
 **Power Core** Pulse Black (120 PCU); **Drift Engine** Signal Basic; **Systems** basic medium-range sensors, mk 4 armor, mk 4 defenses, mk 2 duonode computer; **Modifiers** +2 to any 2 checks per round, +2 Computers (sensors only), +1 Piloting; **Complement** 2 (minimum 1, maximum 2)
 
-### CREW
+### Crew
 
 **Gunner** Engineering +8 (3 ranks), gunnery +7 (3rd level)  
 **Pilot** Computers +8 (3 ranks), gunnery +7 (3rd level), Piloting +14 (3 ranks)
 
-## DESCRIPTION
+## Description
 
 At the Doyenate’s urging, Idari Crucible Works designed the Keris as a versatile and sustainable long-range fighter. The ship’s distinctive teardrop shape, downswept wings, and golden cockpit canopy combine familiar hallmarks of kasathan shipbuilding with the innovative features represented in Idari Crucible Works’ newer models. Unlike most craft of its size, the Keris’s cockpit contains seating and controls that allow the pilot and gunner to sit next to one another, rather than in tandem. Operators agree that the spacious design is a welcome alternative to the typical arrangement, and the roomy crew space is particularly prized for its comfort during long-distance missions.  
   

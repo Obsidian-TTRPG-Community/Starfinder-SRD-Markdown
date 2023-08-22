@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HALF-ORC
+
+# Half-orc
 
 > [!infobox|left n-th clean]
 >  [[Half-Orc.png|Spielern zeigen!]]
@@ -19,58 +20,58 @@ Most half-orcs stand from 5 to 7 feet tall and weigh 130–200 pounds. They’re
 **Ability Modifiers** +2 to any one ability score  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Half-orcs are Medium humanoids with both the human and orc subtypes.  
 
-## DARKVISION
+## Darkvision
 
 Half-orcs can see up to 60 feet in the dark.  
 
-## INTIMIDATING
+## Intimidating
 
 Half-orcs receive a +2 racial bonus to Intimidate skill checks.  
 
-## ORC FEROCITY
+## Orc Ferocity
 
 Once per day, a half-orc brought to 0 Hit Points but not killed can fight on for 1 more round. The half-orc drops to 0 HP and is dying (following the normal rules for death and dying) but can continue to act normally until the end of his next turn, when he becomes unconscious as normal. If he takes additional damage before this, he ceases to be able to act and falls unconscious.  
 
-## SELF-SUFFICIENT
+## Self-sufficient
 
 Half-orcs receive a +2 racial bonus to Survival skill checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–7 ft.  
 **Average Weight** 130–200 lbs.  
 **Age of Maturity** 14 years  
 **Maximum Age** 60+2d10 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Character Operations Manual pg. 34_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 The drow of Apostae have trained half-orcs under their “care” to perform logistics and observation under drow supervision. Rather than the half-orc ability adjustments found in the _Starfinder Core Rulebook_, these half-orcs have +2 Intelligence, +2 Wisdom, and −2 Charisma.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Character Operations Manual pg. 34_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Most half-orcs in the Pact Worlds have half-orc parents, but different bloodlines can produce differing features. Many half-orcs use tech, magic, or a combination to modify themselves or their offspring, producing unusual results.
 
-## ARMOR EASE
+## Armor Ease
 
 **Source** [_Character Operations Manual pg. 34_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Half-orcs on Apostae can be trained to wear armor at an early age. They reduce the armor check penalty of any armor they wear by 1 and the speed penalty by 5 feet.  
   
 This replaces orc ferocity.
 
-## PROFESSIONAL FOCUS
+## Professional Focus
 
 **Source** [_Character Operations Manual pg. 34_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Especially on Apostae, half-orcs are educated by the drow to be an expert in a particular vocation, filling that role throughout their lives. Such half-orcs gain Profession as a class skill. In addition, these half-orcs gain 1 additional skill rank per level, but this rank must be invested in the Profession skill.  
   
 This replaces intimidating.
 
-## STEELSKIN
+## Steelskin
 
 **Source** [_Character Operations Manual pg. 34_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some half-orcs have tough skin due to years in harsh conditions, extreme training, or as the result of body modifications. They gain DR 1/—. At character level 10th, this increases to DR 2/—. This DR stacks with one other form of DR.  

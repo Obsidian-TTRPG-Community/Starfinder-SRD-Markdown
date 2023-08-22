@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# HELLKNIGHT STARSHIPS
+
+# Hellknight Starships
+
 Few vessels inspire more dread than a Hellknight ship. Built to be both technologically superior and fiercely intimidating, these craft are sleek, black, and festooned with forbidding horns, infernal insignia, and spikes—much like the armor and gear of their crew. More often than not, those who find themselves facing off against the Hellknights surrender before even a single shot is fired, hoping to curry favor with the ruthless law-keepers.  
   
 Above all else, the Hellknights use their vessels as a means of maintaining order in the vast depths of space. The majority of their ships are constructed by the Hellknight-owned Infernex Inc., which has a massive shipyard near the sun that some say is directly connected to Hell, with enslaved devils enchanting ship components at the whim of Hellknight signifer technicians.  

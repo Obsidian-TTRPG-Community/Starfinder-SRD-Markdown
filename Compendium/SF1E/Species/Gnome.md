@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# GNOME
+
+# Gnome
 
 > [!infobox|left n-th clean]
 >  [[Gnome.png|Spielern zeigen!]]
@@ -21,69 +22,69 @@ Most gnomes stand between 3 and 3-1/2 feet tall and weigh around 40 pounds. They
 **Ability Modifiers** +2 Con, +2 Cha, -2 Str (Feychild) or +2 Con, +2 Int, -2 Str (Bleachling)  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Gnomes are Small humanoids with the gnome subtype.  
 
-## CURIOUS
+## Curious
 
 Gnomes receive a +2 racial bonus to Culture checks.  
 
-## DIMORPHIC
+## Dimorphic
 
 A feychild gnome gains +2 Charisma, while a bleachling receives +2 Intelligence.  
 
-## ETERNAL HOPE
+## Eternal Hope
 
 Gnomes receive a +2 racial bonus to saving throws against fear effects. Once per day, after rolling a 1 on a d20, the gnome can reroll and use the second result (see page 243).  
 
-## GNOME MAGIC
+## Gnome Magic
 
 Gnomes gain the following spell-like abilities (see page 262): 1/day—_dancing lights_, _ghost sound_, and _token spell_. The caster level for these effects is equal to the gnome’s character level. In addition, gnomes get a +2 racial saving throw bonus against illusion spells and effects.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Gnomes can see in dim light as if it were normal light. See Vision and Light on page 261.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 3 to 3-1/2 ft.  
 **Average Weight** 30–50 lbs.  
 **Age of Maturity** 40 years  
 **Maximum Age** 200+3d% years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some gnomes have strong ties to a specific planet, its lands, or the caves beneath. These earthier gnomes, called gneblins, are less sturdy than their kin, but they have a much stronger will. Gneblins have +2 Wisdom and –2 Strength, plus the benefits of the dimorphic racial trait, rather than the usual gnome racial ability adjustments found in the _Starfinder Core Rulebook_.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Gnomes descend from creatures of another plane. These fey-born humanoids had subspecies even before the Gap. Now dozens of gnome ethnicities exist, each with unique traits.
 
-## DRIFTBORN
+## Driftborn
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some gnomes feel an eerie call to the Drift, rather than to the First World or the Bleaching. These driftborn gnomes have lithe builds and skin with shifting, iridescent patterns. They also have an intense and instinctual awareness of their bodies and their position in space. They gain +2 Dexterity.  
   
 This replaces dimorphic.
 
-## ECSTATIC JOY
+## Ecstatic Joy
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Some gnomes exult in their own effort and seem inured to pain. These gnomes gain a +2 racial bonus to saves against pain effects. Once per day when they roll a natural 20 on an attack roll, skill check, or saving throw, they gain a rush of adrenaline that grants them a +1 morale bonus to attack rolls, saving throws, and skill checks for 2 rounds.  
   
 This replaces eternal hope.
 
-## SOCIAL INTUITION
+## Social Intuition
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Gnomes who spend their lives among people in a fixed culture can be less curious, but they gain an inherent ability to read people. These gnomes have a +2 racial bonus to Sense Motive checks.  
   
 This replaces curious.
 
-## WORKING RELATIONS
+## Working Relations
 
 **Source** [_Character Operations Manual pg. 32_](https://paizo.com/products/btq01yef?Starfinder-Character-Operations-Manual)  
 Certain gnomes satisfy their curiosity about other people by working among them in varied capacities. Such gnomes gain a +1 racial bonus to Profession checks and can attempt Profession checks untrained.  

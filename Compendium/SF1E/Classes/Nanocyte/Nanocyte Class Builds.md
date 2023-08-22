@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# NANOCYTE CLASS BUILDS
+
+# Nanocyte Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,57 +16,57 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# BATTLE HOST
+# Battle Host
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** _Tech Revolution pg. 17_
+**Source**:: _Tech Revolution pg. 17_
 You’re an expert combatant who carries little equipment, yet you’re never unarmed.
 
-## ABILITY SCORES
+## Ability Scores
 
 Constitution gives you more Resolve Points and keeps you healthy in a fight, and Strength lets you hit harder with your melee weapons.
 
-## PRIMARY NANITE FACULTY
+## Primary Nanite Faculty
 
 Obliteration
 
-## NANOCYTE KNACKS
+## Nanocyte Knacks
 
 Abundant nanites (2nd), Heavy armor edge (2nd), Adaptable weaponry (10th), Group dispersal (10th), Rapid reshape (10th)
 
-## FEATS
+## Feats
 
 Adaptive Fighting, Enhanced Resistance, Improved Initiative, Opening Volley, Penetrating Attack
 
-## SKILLS
+## Skills
 
 Acrobatics, Athletics, Intimidate, Perception  
   
 
-# LIVING PLAGUE
+# Living Plague
 
-## THEME: DEATH TOUCHED
+## Theme: Death Touched
 
-**Source** _Tech Revolution pg. 17_
+**Source**:: _Tech Revolution pg. 17_
 Your nanites represent an invisible weapon that disintegrates obstacles from the inside out.
 
-## ABILITY SCORES
+## Ability Scores
 
 Constitution is your most important ability score because it empowers your nanite abilities. Strength helps you hit your enemies.
 
-## PRIMARY NANITE FACULTY
+## Primary Nanite Faculty
 
 Infestation
 
-## NANOCYTE KNACKS
+## Nanocyte Knacks
 
 Abundant nanites (2nd), Swarm strike (2nd), Hungry nanites (6th), Feasting nanites (10th), Charge vampire (14th), Menacing pall (14th)
 
-## FEATS
+## Feats
 
 Cleave, Lung Puncture, Improved Unarmed, Strike Toughness
 
-## SKILLS
+## Skills
 
 Life Science, Sleight of Hand, Perception, Stealth

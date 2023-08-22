@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 _SFS Note: Replace the text of the Psychic Linguist ability as follows (changes are in bold): Thyrs gain a +2 species bonus to Culture checks. Once per day, a thyr can cast comprehend languages as a spell-like ability. At 10th level, a thyr can **additionally** cast tongues as a spell-like ability **once per day**. Their caster level equals their character level._  
-**Source** _Ports of Call pg. 22_  
+**Source**:: _Ports of Call pg. 22_  
 
 [[Species_Thyr.webp|Zeigen!]]
 Thyrs are intelligent oozes composed of buoyant gas who wear containment suits to protect themselves and interact with the world around them.  

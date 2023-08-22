@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Starfinder Alien Character Deck pg. 0_
+**Source**:: _Starfinder Alien Character Deck pg. 0_
 
 [[Species_Grippli.png|Zeigen!]]
 Gripplis are small humanoids that resemble brightly colored tree frogs. Gripplis have had access to advanced technology for only a relatively short time, as interstellar trade has transformed their traditional hunting and gathering culture. Gripplis are still rare in the wider galaxy, but more and more of them are embracing modern technology, and they’re eager to explore the galaxy and meet its inhabitants.  

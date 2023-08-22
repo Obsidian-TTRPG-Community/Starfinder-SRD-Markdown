@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# CHANNEL THE OUTER SPHERE
 
-**Source** _Galactic Magic pg. 69_  
-**Classes** Mystic 6  
-**School** conjuration  
-**Casting Time** 1 round; see text  
-**Range** medium (100 ft. + 10 ft./level)  
+# Channel the Outer Sphere
+
+**Source**:: _Galactic Magic pg. 69_  
+**Classes**:: Mystic 6  
+**School**:: conjuration  
+**Casting-Time**:: 1 round; see text  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Area** cylinder (30-ft. radius, 100 ft. high)  
-**Duration** concentration, up to 1 round/level  
-**Saving Throw** Reflex half, see text; **Spell Resistance** no
+**Duration**:: concentration, up to 1 round/level  
+**Saving-Throw**:: Reflex half, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You weaken the border between one of the outer planes and the area, drawing concentrated planar essence down to the battlefield in beams of volatile energy. A beam is a vertical line, 5 feet wide, from the top of the spell's area to the bottom, and it deals 4d8 damage to each creature in the beam. When you cast this spell and each time you concentrate on it, you can call down a damaging beam within the spell's area. A creature in the area of a beam can attempt a Reflex saving throw to halve the damage dealt by this spell. Creatures that fail this saving throw can suffer further ill effects, as noted.
 

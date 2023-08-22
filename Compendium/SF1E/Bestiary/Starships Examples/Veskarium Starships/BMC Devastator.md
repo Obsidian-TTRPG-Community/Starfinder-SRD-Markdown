@@ -5,7 +5,9 @@ tags:
 Tier: 14
 Type: Gargantuan carrier
 ---
-# BMC DEVASTATOR
+
+# Bmc Devastator
+
 > [!infobox|locr n-th clean]
 >  [[Starship_DMCDevestator.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Gargantuan carrier, **Tier** 14
 **Attack (Turret)** linked light particle beams (6d6; 10 hexes)  
 **Power Core** Gateway Heavy (400 PCU); **Drift Engine** Signal Basic; **Systems** basic computer, budget long-range sensors, crew quarters (common), mk 7 armor, mk 6 defenses; **Expansion Bays** hangar bays (2; 16 BMC Maulers), shuttle bay (BMC Predator); **Complement** 150 (minimum 75, maximum 200)plus 50 Mauler and Predator pilots
 
-### CREW
+### Crew
 
 **Captain** Diplomacy +25 (14 ranks), Engineering +25 (14 ranks), gunnery +20 (14th level), Intimidate +30 (14 ranks), Piloting +25 (14 ranks)  
 **Engineers (5 officers, 12 crew each)** Engineering +25 (14 ranks)  
@@ -28,7 +30,7 @@ Gargantuan carrier, **Tier** 14
 **Pilot (1 officer, 5 crew)** Piloting +30 (14 ranks)  
 **Science Officers (2 officers, 5 crew each)** Computers +25 (14 ranks)
 
-## DESCRIPTION
+## Description
 
 The Veskarium is not generally known for its subtlety, and neither are the starships of the Blood Mountain Clans. This trend is perhaps best exemplified by the BMC Devastator, which brings the unflinching boldness of the vesk to new heights. Designed as a smaller, faster, and cheaper carrier-focused alternative to the mighty Vindicas Tyrant, the Devastator is a newer design developed during the Swarm War. In contrast to most carrier designs that are intended to project power from a relatively safe distance, the Devastator is designed to get up close and personal.  
   

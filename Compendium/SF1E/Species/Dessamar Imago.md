@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DESSAMAR IMAGO
+
+# Dessamar Imago
+
 > [!infobox|left n-th clean]
 >  [[Dessemar Imago.png|Spielern zeigen!]]
 > Dessamars are humanoid natives of Koshoria, a world bathed in violet magical auras in Azlanti space. While adults resemble bipedal butterflies, dessamars hatch from eggs as tiny larvae that grow as they mature. Azlanti call the larvae “instars,” due to an error in a first-contact report. Instars eat magic plants, so their flesh is coated with hallucinogenic powder, muddling the senses of would-be predators with guilt-tinged visions. Instars are sapient, and older larvae are encouraged to explore the world on their own so they can discover their path in life before their metamorphosis into an adult. Once the larvae feel ready, they feast enough to double their size before spinning magical cocoons. About two weeks later, a dessamar adult, called an imago, emerges. Occasionally, instars refuse to transform. Though most dessamars accept older instars, adults often encourage such larvae to seek physical maturity.  
@@ -18,37 +20,37 @@ A typical dessamar adult is around 5 feet tall and weighs only 60 pounds. A deve
 **Ability Modifiers** +2 Wis, +2 Cha, -2 Str  
 **Hit Points** 3
 
-## SIZE AND TYPE
+## Size and Type
 
 Imagos are Medium humanoids with the dessamar subtype.  
 
-## DESSAMAR MAGIC
+## Dessamar Magic
 
 Dessamars have the spell-like abilities below, with a caster level equal to the dessamar’s level.   
 1/day—[_charm person_](https://aonsrd.com/SpellDisplay.aspx?ItemName=charm%20person)   
 At will—[_detect magic_](https://aonsrd.com/SpellDisplay.aspx?ItemName=detect%20magic), [_telepathic message_](https://aonsrd.com/SpellDisplay.aspx?ItemName=telepathic%20message)  
 
-## DESSAMAR SENSES
+## Dessamar Senses
 
 Dessamars have blindsense (scent) with a range of 30 feet, as well as low-light vision.  
 
-## DREAM SKILL
+## Dream Skill
 
 Each time an imago rests for 8 hours, they can choose one skill to gain a +1 racial bonus, losing any previous bonus from this ability.  
 
-## FRAGILE LIMBS
+## Fragile Limbs
 
 An imago’s four arms, two legs, and six wings are fragile. The imago takes a –2 penalty to saves against severe wound and wound critical hit effects against these limbs. Extra arms don’t allow an imago to make more attacks than normal, and an imago can hold objects of only light or negligible bulk in one hand, allowing it to hold up to four such objects at the ready. An imago treats one-handed objects of greater than light bulk as two-handed. Two-handed objects of 2 bulk require three hands, and objects of 3 bulk or more require four hands.  
 
-## IMAGO MOVEMENT
+## Imago Movement
 
 Imagos have a land speed of 20 feet and an extraordinary fly speed of 20 feet with average maneuverability.  
 
-## TWINKLE
+## Twinkle
 
 Once per day as a move action, a dessamar can teleport 40 feet. The dessamar can’t bring other creatures along, and if a solid body occupies the arrival point, the ability fails without expending its daily use. This ability otherwise functions as the [_dimension door_](https://aonsrd.com/SpellDisplay.aspx?ItemName=dimension%20door) spell.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4-1/2 to 5-1/2 ft.   
 **Average Weight** 45 to 80 lbs.   

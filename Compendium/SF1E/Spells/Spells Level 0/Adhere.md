@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# ADHERE
 
-**Source** _Galactic Magic pg. 67_  
-**Classes** Technomancer 0, Witchwarper 0  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one object  
-**Duration** varies; see text  
-**Saving Throw** see text; **Spell Resistance** no
+# Adhere
 
-## DESCRIPTION
+**Source**:: _Galactic Magic pg. 67_  
+**Classes**:: Technomancer 0, Witchwarper 0  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one object  
+**Duration**:: varies; see text  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: No
+
+## Description
 
 You create a molecular bond between an object you touch (bulk up to 1 + your caster level) and another object or a surface that object is touching. Pulling the object free of that surface then requires a Strength check against the spell's save DC, although you can dismiss it by touching the object again. If moving or opening the object already requires a Strength check, you increase the DC of that check by half your key ability score bonus. If the adherence is broken, the spell ends. Otherwise, the magic is permanent.
 

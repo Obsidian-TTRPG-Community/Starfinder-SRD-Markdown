@@ -5,7 +5,8 @@ tags:
 Tier: 7
 Type: N Huge starship vermin
 ---
-# STELLAR PROTOZOA
+
+# Stellar Protozoa
 
 N Huge starship vermin, **Tier** 7 
 **Speed** 8; **Maneuverability** poor (turn 3); **Drift** —  
@@ -18,18 +19,18 @@ N Huge starship vermin, **Tier** 7
 **Power Core** stellar protozoa nucleus (250 PCU); **Drift Engine** none; **Systems** mk 4 armor, mk 5 defenses; **Expansion Bays** none  
 **Other Abilities** biotic weapons, draining aura, living starship, void adaptation
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +15 (7 ranks)  
 **Gunner (1 action)** gunnery +12 (7th level)  
 **Pilot (1 action)** +18 (7 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary, pair, or swarm (3–6)
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Biotic Weapons (Ex)** A stellar protozoa’s flexible body grants its particle beam the broad arc special property. See the Starship Weapons page for cytoplasm weapons.
 
@@ -44,7 +45,7 @@ N Huge starship vermin, **Tier** 7
 
 **Swallow Starship (Ex)** If a stellar protozoa’s stellar membrane attack deals Hull Point damage to a target, that vessel is pulled into the stellar protozoa’s body. The protozoa can hold one Large ship, two Medium ships, four Small ships, or eight Tiny ships. A vessel takes 4d4 damage each time it starts a round of starship combat inside the stellar protozoa (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise). A swallowed starship can still attack, and the protozoa’s interior has AC 14, TL 14, and DT 0. However, at such close range, starship weapons deal half their damage to the firing ship through a combination of blowback and the protozoa’s physical reactions. If a swallowed starship deals 20 Hull Points to the protozoa’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a Piloting check (DC 20, or DC 25 if the protozoa has no hole in it). On a failure, the starship remains within the protozoa.
 
-## DESCRIPTION
+## Description
 
 Stellar protozoans are single-celled organisms larger than some space stations. Mindless and voracious, these creatures move through space draining energy and consuming matter.
 
@@ -58,6 +59,6 @@ When a stellar protozoa absorbs sufficient food, its nucleus grows and splits in
 
 Stellar protozoans instinctively avoid gravity wells and donft venture near stars or planets.a tendency that canny pilots can use to escape the creaturesf attention. Although a stellar protozoa isnft capable of entering or exiting the Drift on its own, travelers have spotted the creatures floating in Drift space, likely unable to leave after being pulled into the extraplanar realm by some other force.
 
-## CYTOPLASM WEAPONS
+## Cytoplasm Weapons
 
 Daring bioengineers can recover cytoplasm from a destroyed stellar protozoa and fashion it into a starship weapon, using a starship’s computers to simulate the nucleus’s commands to the amorphous goo. If the PCs defeat a protozoa, a successful DC 20 Life Science check allows them to salvage enough cytoplasm to add either the light or heavy cytoplasm launcher to a starship when the group has the Build Points available. The GM can also make these weapons available on the open market.

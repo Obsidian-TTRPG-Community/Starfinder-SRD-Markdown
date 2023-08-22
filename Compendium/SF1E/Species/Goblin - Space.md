@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# GOBLIN, SPACE
+
+# Goblin, Space
 
 > [!infobox|left n-th clean]
 >  [[Goblin - Space.png|Spielern zeigen!]]
@@ -21,27 +22,27 @@ The physical differences between space goblins and their cousins from Golarion (
 **Ability Modifiers** +4 Dex, -2 Cha  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Space goblins are Small humanoids with the goblinoid subtype.  
 
-## DARKVISION
+## Darkvision
 
 Space goblins have darkvision with a range of 60 feet.  
 
-## FAST
+## Fast
 
 Space goblins are fast for their size and have a base speed of 35 feet.  
 
-## SCROUNGER
+## Scrounger
 
 Space goblins receive a +2 racial bonus to Engineering, Stealth, and Survival checks.  
 
-## TINKER
+## Tinker
 
 As a move action, a space goblin can remove the penalties associated with the broken condition from a single piece of equipment until the start of his next turn. The item then becomes unusable for 10 minutes (and retains the broken condition after that until it is fixed).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 3–4 ft.  
 **Average Weight** 30–40 lbs.  

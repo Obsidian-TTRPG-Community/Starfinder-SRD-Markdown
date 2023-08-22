@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SZANDITE COLLECTIVE STARSHIPS
+
+# Szandite Collective Starships
+
 By the time Triune revealed Drift engine technology via the Signal, the Szandite Collective had been collaborating for centuries. They designed their starships to accommodate myriad alien physiologies, knowing they would spend years together among the stars. The starships’ engine rooms and control interfaces are the epitome of adaptive design. Szandite Collective ships vary in appearance, but almost all of them approximate collections of various geometric shapes—such as cubes, prisms, pyramids, and polyhedrons—that make them immediately recognizable.  
 The Collective recognizes that its aversion to armed conflict and relative lack of experience with advanced weapons has the potential to leave its starships vulnerable during expeditions, so they emphasize defense systems, scanners, and shields in their ships’ designs. Otherwise, their vessels are specifically designed to further their goals of discovery, exploration, and research. The Collective sends Farseers to gather and report information, even equipping them with extensive mobile laboratories to conduct remote research operations as necessary. Heavily shielded Vaultships study and transport artifacts, including massive chunks of szandite crystal that fill entire cargo holds. Metropolis ships carry and protect other starships and their crews between the Collective home worlds, and some of these massive ships are especially equipped to make diplomatic or exploratory journeys to other populated systems.  
 A peculiar aspect of Szandite Collective ships is their modular nature. The Collective designed technology that allowed their ships to be taken apart, combined, separated, or rebuilt over a period of several days or weeks, allowing them to adapt the configuration and function of their ships and fleets as needed without needing a space station or dock to do so.

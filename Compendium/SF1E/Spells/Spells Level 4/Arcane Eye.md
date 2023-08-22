@@ -9,14 +9,15 @@ Witchwarper:
 ---
 # ARCANE EYE
 
-**Source** _Starfinder Core Rulebook pg. 340_  
-**Classes** Precog 4, Technomancer 4  
-**School** divination (scrying)  
-**Casting Time** 10 minutes  
-**Range** planetary  
+**Source**:: _Starfinder Core Rulebook pg. 340_  
+**Classes**:: Precog 4, Technomancer 4  
+**School**:: divination (scrying)  
+**Casting-Time**:: 10 minutes  
+**Range**:: planetary  
 **Effect** magical sensor  
-**Duration** 1 minute/level (D)  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: 1 minute/level (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
 ## DESCRIPTION
 

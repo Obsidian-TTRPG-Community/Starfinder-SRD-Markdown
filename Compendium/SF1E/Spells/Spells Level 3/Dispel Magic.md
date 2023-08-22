@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# DISPEL MAGIC
 
-**Source** _Starfinder Core Rulebook pg. 351_  
-**Classes** Mystic 3, Precog 3, Technomancer 3, Witchwarper 3  
-**School** abjuration  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
-**Targets** one creature, object, spell, or spellcaster  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+# Dispel Magic
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 351_  
+**Classes**:: Mystic 3, Precog 3, Technomancer 3, Witchwarper 3  
+**School**:: abjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Targets**:: one creature, object, spell, or spellcaster  
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 You can use _dispel magic_ to end one ongoing spell that has been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, or to counter another spellcaster’s spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can’t be defeated by _dispel magic_. _Dispel magic_ can dispel (but not counter) spell-like abilities just as it does spells. The effect of a spell with an instantaneous duration can’t be dispelled.
 
@@ -36,14 +38,14 @@ You can choose to automatically succeed at your dispel check against any spell y
 
 **Counter**: You can use the energy of _dispel magic_ to disrupt the casting of other spells. First, select an opponent and take the ready action (see page 249) to cast _dispel magic_ when that target casts a spell. This is considered a purely defensive action. When that readied action is triggered, you cast _dispel magic_ and must attempt a dispel check (1d20 + your caster level) to counter the other spellcaster’s spell. The DC is equal to 11 + the other spellcaster’s caster level. If the check is successful and the target is in range, the spell fails and has no result.
 
-##  DISPEL MAGIC, GREATER
+## Dispel Magic, Greater
 
-**Source** _Starfinder Core Rulebook pg. 352_  
-**Classes** Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
-**School** abjuration  
+**Source**:: _Starfinder Core Rulebook pg. 352_  
+**Classes**:: Mystic 5, Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: abjuration  
 **Targets or Area** one creature, object, spell, or spellcaster; or a 20-ft.-radius burst  
 
-## DESCRIPTION
+## Description
 
 This spell functions like _dispel magic_, except it can end more than one spell on a target and it can be used to target multiple creatures. You choose to use _greater dispel magic_ in one of three ways: a targeted dispel, an area dispel, or a counter.
 

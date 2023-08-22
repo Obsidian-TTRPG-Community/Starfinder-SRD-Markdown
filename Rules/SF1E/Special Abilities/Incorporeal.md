@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## INCORPOREAL
+
+## Incorporeal
 
 An incorporeal creature doesn’t have a physical body. It is immune to all nonmagical kinetic attacks. All energy attacks and magical kinetic attacks deal half damage (50%) to it. An incorporeal creature takes full damage from other incorporeal creatures and effects, as well as from all force effects. Corporeal spells and effects that do not cause damage have only a 50% chance of affecting an incorporeal creature. An incorporeal creature is immune to critical hits.
 

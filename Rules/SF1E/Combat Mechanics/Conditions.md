@@ -128,7 +128,7 @@ You are entranced. While you have the fascinated condition, you stand or sit qui
 **Source** _Starfinder Core Rulebook pg. 276_  
 You can neither run nor charge, and you take a –1 penalty to your Armor Class, attack rolls, melee damage rolls, thrown weapon damage rolls that add Strength to damage, Reflex saving throws, initiative checks, and Strength- and Dexterity-based skill and ability checks. The amount of bulk you can carry without becoming encumbered is reduced by 1. If you are already fatigued and would gain the fatigued condition, you lose the fatigued condition and are exhausted for the total duration of all fatiguing effects. After 8 hours of complete rest, you are no longer fatigued.
 
-## Flat-Footed
+## Flat-footed
 
 **Source** _Starfinder Core Rulebook pg. 276_  
 At the start of a combat, if you are surprised, you are flat-footed until you become aware of combat and have had a chance to act. Many other effects can cause you to become flat-footed. You take a –2 penalty to your AC and cannot take reactions while flat-footed.
@@ -155,14 +155,14 @@ You are bound, sleeping, unconscious, or otherwise completely at an opponent’s
 **Source** _Starfinder Core Rulebook pg. 276_  
 You are experiencing stomach distress. You can’t attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action you can take is a single move action per turn.
 
-## Off-Kilter
+## Off-kilter
 
 **Source** _Starfinder Core Rulebook pg. 276_  
 You are disoriented and floating in zero gravity. You can’t take move actions to move your speed, crawl, or take a guarded step. You are flat-footed and take a –2 penalty to attack rolls.  
   
 You must use a method of propulsion to right yourself or grab a stabilizing object such as a wall or ladder (usually as a move action) in order to end this condition. See Zero Gravity on page 402 for more information.
 
-## Off-Target
+## Off-target
 
 **Source** _Starfinder Core Rulebook pg. 276_  
 Your battle concentration is thrown off. You take a –2 penalty to attack rolls while off-target.

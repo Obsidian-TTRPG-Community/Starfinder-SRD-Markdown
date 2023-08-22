@@ -2,17 +2,18 @@
 aliases: 
 tags: 
 ---
-# SPECIAL ABILITIES
+
+# Special Abilities
 
 **Source** _Starfinder Core Rulebook pg. 262_  
 A number of creatures and characters with a variety of classes gain the use of special abilities. These abilities range from ones that can be activated in a way similar to spells to more static abilities that grant special senses or traits.  
 
-# EXTRAORDINARY, SPELL-LIKE, AND SUPERNATURAL ABILITIES
+# Extraordinary, Spell-like, and Supernatural Abilities
 
 **Source** _Starfinder Core Rulebook pg. 262_  
 Many abilities available to characters or monsters are classified as extraordinary, spell-like, or supernatural. Depending on which category they fall into, these abilities function as described below.
 
-## EXTRAORDINARY ABILITIES (EX)
+## Extraordinary Abilities (EX)
 
 Extraordinary abilities are nonmagical. They cannot be disrupted in combat as spells can, they are not subject to dispelling, and they function normally in areas where magic is suppressed or negated. Despite not qualifying as magical, some extraordinary abilities may break the laws of physics.
 
@@ -22,7 +23,7 @@ The DC of an extraordinary ability is typically equal to 10 + half the level of 
 
 Extraordinary abilities are often denoted with the abbreviation “Ex” in parentheses next to the ability’s name.
 
-## SPELL-LIKE ABILITIES (SP)
+## Spell-like Abilities (SP)
 
 Spell-like abilities are magical abilities that function very much like spells do (see Casting Spells starting on page 330). The main difference is that you gained the ability through a different means than normal spellcasters gain spells. A spell-like ability has a casting time of a standard action unless noted otherwise in the ability or spell description. Usually, a spell-like ability either can be used a specific number of times per day, can be used at will, or can affect a creature constantly. If a spell requires an expenditure of credits or Resolve Points as part of its casting, a creature that can cast the spell as a spell-like ability does not need to pay such costs. Creatures with spell-like abilities that can be made permanent still must pay any costs and take the listed amount of time to do so. In all other ways, a spell-like ability functions just like a spell.
 
@@ -34,7 +35,7 @@ Just as for spells, a spell-like ability’s caster level determines the ability
 
 Spell-like abilities are often denoted with the abbreviation “Sp” in parentheses next to the ability’s name.
 
-## SUPERNATURAL ABILITIES (SU)
+## Supernatural Abilities (SU)
 
 Supernatural abilities are magical but differ from spells in key ways. Unlike spells, which can be interrupted while being cast, supernatural abilities can’t be disrupted in combat. They aren’t subject to spell resistance or _dispel magic_, but they don’t function in areas where magic is suppressed or negated.
 
@@ -44,7 +45,7 @@ The DC of a supernatural ability is typically equal to 10 + half the level of th
 
 Supernatural abilities are often denoted with the abbreviation “Su” in parentheses next to the ability’s name.
 
-# REGAINING DAILY-USE ABILITIES AND SPELLS
+# Regaining Daily-use Abilities and Spells
 
 **Source** _Starfinder Core Rulebook pg. 262_  
 Some abilities have a limited number of uses per day. To regain uses of these abilities, 24 hours must have passed since you last regained uses of your abilities, and you must have rested for 8 continuous hours during that period.

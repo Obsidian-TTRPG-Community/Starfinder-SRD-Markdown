@@ -6,8 +6,10 @@ NoteType: Spell
 tags: 
 Type: Ritual 
 ---
-# GATE - LEVEL 6
-**Source** _Galactic Magic pg. 92_  
+
+# Gate - Level 6
+
+**Source**:: _Galactic Magic pg. 92_  
 **Script** Prepare the Space (Engineering or Mysticism; failure), Gather Power (Mysticism; dazed for 1 hour, failure), Shape Power (Engineering or Mysticism; fatigued, retry), Release Power (Mysticism; electricity damage, retry), Open the Way (Will; the gate opens to a random location for a random duration, both determined by the GM)  
 **Assistants** any  
 **Round Length** 1 day

@@ -2,11 +2,13 @@
 aliases: 
 tags: [44:]
 ---
-# ASPECTS
-**Source** _Character Operations Manual pg. 53_  
+
+# Aspects
+
+**Source**:: _Character Operations Manual pg. 53_  
 The following are the most commonly adopted vanguard aspects. ##  Apocalypse
 
-**Source** _Galactic Magic pg. 36_  
+**Source**:: _Galactic Magic pg. 36_  
 You embody the cataclysmic distortion and acceleration of natural entropy when exposed to reality-warping magic.
 
 **Aspect Insight (EX)**: You gain Improved Combat Maneuver (grapple) as a bonus feat and a +2 insight bonus to Mysticism checks.
@@ -29,9 +31,9 @@ _Improved_: The damage increases to twice your vanguard level. You can roll 1d6 
 
 **Aspect Finale (Su)**: When you’re affected by a hostile spell that you have identified with a Mysticism check, you can spend 3 Entropy Points as a reaction to reflect some of the magic back at the spellcaster (Fortitude negates), causing them to also be affected by the spell as though they were one of its original targets.
 
-##  BOUNDARY
+## Boundary
 
-**Source** _Character Operations Manual pg. 53_  
+**Source**:: _Character Operations Manual pg. 53_  
 You embody the forces that keep a system separated from its surroundings, isolating the reach of its entropy.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (sunder) as a bonus feat and a +2 insight bonus to Perception checks.
@@ -44,9 +46,9 @@ _Improved_: Each ally within 30 feet can instead use your mitigate ability twice
 
 **Aspect Finale (Su)**: When you use your mitigate ability, it applies to all attacks against you until the end of your next turn. This doesn’t apply to allies using it as a result of your aspect catalyst.
 
-##  CASCADE
+## Cascade
 
-**Source** _Character Operations Manual pg. 54_  
+**Source**:: _Character Operations Manual pg. 54_  
 You embody a single change in the balance of a system’s entropy that cascades into additional, progressively greater changes.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (sunder) as a bonus feat and also a +2 insight bonus to Acrobatics checks.
@@ -59,9 +61,9 @@ _Improved_: Each foe within 30 feet must succeed at a Reflex saving throw or gai
 
 **Aspect Finale (Su)**: When you damage a target with your entropic strike, as a reaction you can spend 1 Entropy Point to either apply a –2 penalty to that target’s AC, saving throws, or attack rolls (your choice), or halve the value of all DR and energy resistance the target has. These penalties do not stack, but you can apply different penalties to a single target with multiple hits. The effect lasts until you apply one of these effects to a new target or until the end of your next turn. If you successfully damage a target that has one of these penalties, the penalty’s duration is extended until the end of your next turn.
 
-##  DISOBEDIENCE
+## Disobedience
 
-**Source** _Starfinder Allies Against the Eye pg. 48_  
+**Source**:: _Starfinder Allies Against the Eye pg. 48_  
 You embody the social entropy that occurs within societal systems when participants within social hierarchies become dissatisfied and rebel against it.
 
 **Aspect Insight (Ex)**: You gain Improved Feint as a bonus feat and a +2 insight bonus to Diplomacy checks. Select one of your class skills; that skill is no longer a class skill for you, but you gain Bluff as a class skill instead. At 5th level, you gain a +2 bonus when you use Bluff to feint in combat.
@@ -74,9 +76,9 @@ _Improved_: Each foe within 10 feet must succeed at a Will save or be confused f
 
 **Aspect Finale (Su)**: As a reaction when you hit a target with your entropic strike, and that target is suffering a penalty due to your successful use of Bluff, Diplomacy, or Intimidate (for example, if you have performed a successful feint or demoralized them), you can spend 1 Entropy Point to deal 1d4 Intelligence and Charisma damage to the target, but this effect can’t lower the target’s Intelligence or Charisma below 1.
 
-##  EXERGY
+## Exergy
 
-**Source** _Character Operations Manual pg. 54_  
+**Source**:: _Character Operations Manual pg. 54_  
 You embody the total amount of potential work the energy in a system can perform when accessed by entropy.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (trip) as a bonus feat and a +2 insight bonus to Intimidate checks.
@@ -89,9 +91,9 @@ _Improved_: The additional damage is 1d6 per vanguard level.
 
 **Aspect Finale (Su)**: When you hit a foe with your entropic strike and the attack roll is a natural 18 or 19 (meaning the d20 shows an 18 or 19), you can apply one critical hit effect of that attack to your target, but you do not double the damage. This critical hit effect is treated as a critical hit for purposes of abilities that affect critical hits. If you roll a natural 20, the normal critical hit rules apply instead.
 
-##  INDETERMINACY
+## Indeterminacy
 
-**Source** _Drift Crisis pg. 47_  
+**Source**:: _Drift Crisis pg. 47_  
 You embody the fundamentally random nature of subatomic particles, including their instability, interactions, variations, and the unseen connections between them.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (reposition) as a bonus feat and a +2 insight bonus to Bluff checks.
@@ -104,9 +106,9 @@ _Improved_: When the effect ends, any creature in contact with a floor, wall, or
 
 **Aspect Finale (Su)**: As a reaction when you are dealt damage by a melee attack, you can spend 1 Entropy Point to rip the matter colliding with you from this plane and send it to another. This deals damage to the weapon that damaged you, or to your attacker if the weapon was a natural or unarmed attack, as if you hit it with your entropic strike.
 
-##  INEVITABLE
+## Inevitable
 
-**Source** _Starfinder Allies Against the Eye pg. 43_  
+**Source**:: _Starfinder Allies Against the Eye pg. 43_  
 You embody the inevitability of a universe slowly but methodically decaying to its ultimate state of total entropy.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (disarm) as a bonus feat and a +2 insight bonus to Intimidate checks.
@@ -119,9 +121,9 @@ _Improved_: The frequency of the radiation sickness is now 1/hour.
 
 **Aspect Finale (Su)**: When you score a critical hit with your entropic strike, you can spend 1 Entropy Point to unleash a torrent of entropic energy; if you do, enemies within 15 feet of you take damage as if they’d been hit by your entropic strike (though the damage isn’t doubled for your critical hit).
 
-##  INVERSION
+## Inversion
 
-**Source** _Character Operations Manual pg. 54_  
+**Source**:: _Character Operations Manual pg. 54_  
 You embody the role chaos plays within entropy, sometimes temporarily reversing its natural progression.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (reposition) as a bonus feat and a +2 insight bonus to Medicine checks.
@@ -134,9 +136,9 @@ _Improved_: All allies other than yourself within 60 feet regain Hit Points equa
 
 **Aspect Finale (Ex)**: As a reaction when you fail a saving throw, you can spend 1 or more Entropy Points to reroll that saving throw. You gain a bonus to this saving throw equal to the number of Entropy Points you spend.
 
-##  MOMENTUM
+## Momentum
 
-**Source** _Character Operations Manual pg. 55_  
+**Source**:: _Character Operations Manual pg. 55_  
 You embody energy states that are preserved in ongoing motion, isolated from entropy
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (bull rush) as a bonus feat and a +2 insight bonus to Culture checks.
@@ -149,9 +151,9 @@ _Improved_: Targeted creatures that fail their Fortitude saves are also knocked 
 
 **Aspect Finale (Sp)**: You can cast _telekinetic projectile_ at will as a spell-like ability. Rather than dealing the spell’s normal damage, both the target and the projectile take damage as if you hit them with your entropic strike. Additionally, you can spend 2 Entropy Points to cast _telekinesis_ as a spell-like ability, but only using its combat maneuver option.
 
-##  OBSOLESCENCE
+## Obsolescence
 
-**Source** _Tech Revolution pg. 36_  
+**Source**:: _Tech Revolution pg. 36_  
 You embody the entropic force of being left behind by the progress of others. You know that all good things must inevitably end, replaced by superior innovations.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (disarm) and a +2 insight bonus to Engineering checks.
@@ -164,9 +166,9 @@ _Improved_: Each enemy within 20 feet instead has two of their items malfunction
 
 **Aspect Finale (Su)**: When you use your mitigate ability to reduce damage you take from a weapon within 30 feet, you can cause that weapon to become incomprehensibly outdated until the end of the attacker’s next turn (Fortitude negates). An outdated weapon gains the archaic weapon special property and takes a –2 penalty to attack rolls. Once affected, a weapon becomes immune to this ability for 24 hours.
 
-##  REACTION
+## Reaction
 
-**Source** _Character Operations Manual pg. 55_  
+**Source**:: _Character Operations Manual pg. 55_  
 You embody the change entropy brings about through biological, chemical, and molecular reactions, such as rust and rot.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (dirty trick) as a bonus feat and a +2 insight bonus to Physical Science checks.
@@ -179,16 +181,16 @@ _Improved_: One target of your choice within this ability’s range is also naus
 
 **Aspect Finale (Su)**: You can spend 2 Entropy Points as a reaction to expose a creature you injure to entropic toxin. The save DC is determined as normal for an aspect ability. Once you apply this poison to a target, the target is immune to further applications of your entropic toxin for 24 hours.
 
-### ENTROPIC TOXIN
+### Entropic Toxin
 
 **Type** poison (injury, special); **Save** Fortitude (DC varies)  
 **Track** choose Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma (special); **Frequency** 1/round for 3 rounds  
 **Effect** The target cannot progress beyond impaired/stiffened on the progression track.  
 **Cure** 1 save
 
-##  REBOUND
+## Rebound
 
-**Source** _Galactic Magic pg. 36_  
+**Source**:: _Galactic Magic pg. 36_  
 You embody energy’s ability to spring back, arresting and even reversing entropy’s flow to restore recently scattered matter.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (disarm) as a bonus feat and a +2 insight bonus to Diplomacy checks.
@@ -201,9 +203,9 @@ _Improved_: You can make one attack with your entropic strike against an ally wh
 
 **Aspect Finale (Su)**: As a reaction when you regain stamina or hit points, you can spend 1 or more Entropy Points to replicate half of this effect on allies within 30 feet. You effect a number of allies equal to the number of Entropy Points you spend. Stamina and Hit Points regained from this ability can’t be further replicated or increased in any way.
 
-##  REGRESSION
+## Regression
 
-**Source** _Tech Revolution pg. 36_  
+**Source**:: _Tech Revolution pg. 36_  
 You embody the inevitable collapse of advancement to make way for simpler things, making you an agent of the inevitable step back that accompanies every two steps forward.
 
 **Aspect Insight (Ex)**: You gain Improved Combat Maneuver (sunder) and a +2 insight bonus to Survival checks.

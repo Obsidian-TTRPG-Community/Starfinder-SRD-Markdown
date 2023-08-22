@@ -5,8 +5,10 @@ Prerequisites: Cha 13, Intimidate 1 rank
 tags: 
 Type: General Feat
 ---
-# RALLYING ROAR
-**Source** _Interstellar Species pg. 135_  
+
+# Rallying Roar
+
+**Source**:: _Interstellar Species pg. 135_  
 You’ve honed your voice to echo over the battlefield.
 
 **Prerequisites**: Cha 13, Intimidate 1 rank

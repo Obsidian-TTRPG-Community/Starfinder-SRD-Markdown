@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Mi-Go High Priest
+# Mi-go High Priest
 
 - [cr::11]
 - [combatType::spellcaster]

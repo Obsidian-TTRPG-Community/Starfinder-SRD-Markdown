@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# KRANG BLADE
 
+# Krang Blade
 
 **XP 1,600**  
 Krang soldier  

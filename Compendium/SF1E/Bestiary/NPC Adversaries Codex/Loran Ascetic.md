@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# LORAN ASCETIC
+
+# Loran Ascetic
 
 **XP 1,600**  
 LN Medium outsider (aquatic)  
@@ -37,11 +38,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### FLURRY OF BLOWS (EX)
+#### Flurry of Blows (EX)
 
 A loran can make a flurry of blows as a full-attack action. When doing so, they may make one additional attack, taking a –2 penalty on all of their attack rolls. Lorans deal their normal unarmed damage for all successful attacks made with flurry of blows
 
-#### KI CONTROL (SU)
+#### Ki Control (SU)
 
 Lorans have a pool of 3 resolve points they can use to accomplish amazing feats. As long as they have at least 1 resolve point, they can use it to power their ki control. Ki control allows their unarmed attacks to be treated as magic weapons for the purpose of overcoming damage reduction. By spending 1 resolve point, a loran can do one of the following:
 
@@ -51,11 +52,11 @@ Lorans have a pool of 3 resolve points they can use to accomplish amazing feats.
 
 Each of these powers is activated as a swift action.
 
-#### NATURAL WEAPONS (EX)
+#### Natural Weapons (EX)
 
 Due to their culture of martial discipline, Lorans are always considered armed and their unarmed strike does not count as archaic.
 
-#### SLOW FALL (SU)
+#### Slow Fall (SU)
 
 A loran in an environment with atmosphere can slow its fall. This is a supernatural ability that functions as per flight cast at 1st level.
 

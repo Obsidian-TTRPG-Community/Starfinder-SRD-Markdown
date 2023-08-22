@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# MARSH
+
+# Marsh
 
 **Source** _Galaxy Exploration Manual pg. 68_  
 Wet, smelly, and buzzing with flies—the stereotypical marsh is hardly an attractive destination. But this image ignores the breadth of how wetlands manifest and overlooks the incredible biodiversity of alien quagmires, where the possibilities of life remain virtually endless.  
@@ -12,28 +13,28 @@ Common features of Earth-like marshes can become wild and strange when encounter
 Thankfully, marshes present as many opportunities as dangers. Only a rain forest surpasses a wetland’s biodiversity, and those animal, plant, and fungal resources can be the key to unlocking medical discoveries or simply represent a lucrative delicacy that wealthy patrons would pay well to acquire. While marshes are quick to swallow ruins and hide even the largest starship wrecks, their still waters inhibit decay in a way that makes excavating them one of the best ways to understand the past. And as an imposing biome that most civilizations hesitate to invade, a marsh can be an invaluable sanctuary for those who need to escape the hustle and bustle (and perhaps the arrest warrants) of modern society.  
 Water shapes life in the wetlands—both through the abundance of moisture and also the seasonal periods when the ground becomes more dry. The most successful inhabitants straddle the line between being fully terrestrial or aquatic. Even nimble arboreal specialists like monkeys and cats must become adequate swimmers. Broad feet keep larger inhabitants from sinking irreversibly into the mud, allowing mid-sized sauropods, bovines, and pachyderms to graze on any foliage that can survive being submerged for months at a time. Many bogs and fens have poor soil nutrients, which drives plants to evolve carnivorous strategies to meet their needs. In an alien environment, these plants can grow to immense size, able to consume virtually any animal they encounter. Sapient non-aquatic inhabitants must contend with the constant wet conditions. For most, that means constructing elevated living spaces—such as woven tree houses built on sturdy platforms—creating floating settlements, or just selectively draining parts of the marsh to reclaim dry land. For aquatic species, seasonal droughts remain a bigger concern, inspiring the creation of artificial reservoirs that remain submerged year-round. Both kinds of sapient creatures benefit from dredging deep channels to form watery highways, with carefully maintained marshes transforming into webs of transit and aquaculture over generations.  
 
-## MARSH ADVENTURERS
+## Marsh Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 68_  
 Wetlands are fertile grounds for culture, research, and life. Farmers, fishers, biologists, and mariners are all excellent backgrounds for prospective adventurers raised in and around marshes, though more remote regions could as easily attract smugglers, fugitives, or even luddites who disdain the inexorable march of spaceflight and technology. Growing up in the wetlands hones an adventurer’s movement skills to navigate slippery banks and deep water, possibly represented by Athletics and Acrobatics. The wide range of poisonous, disease-bearing, and outright carnivorous organisms paired with the ample natural resources also means that skills like Life Science and Survival are key to reaching maturity.  
 
-## MARSH WORLDS
+## Marsh Worlds
 
 **Source** _Galaxy Exploration Manual pg. 69_  
 Wetlands are common on terrestrial worlds, yet only a rare few planets are covered entirely by this biome. Such planets often have flat topography that’s conducive to supporting standing water and spongy soils, kept inundated either by consistent precipitation, powerful tides that draw water over vast estuaries, or both. On such worlds, even the rare mountain chains are low, creating rain shadows that channel water into low-lying areas while valleys accumulate steep fens. Because of the diverse range of wetlands, a single-biome planet can support countless varieties of life based on the nuances of drainage, elevation, and soil type, with regional boundaries defined by where bog transitions into swamp, lagoon, or river. Conventional continents might not exist, with dry land instead consisting of peat accumulations a hundred feet thick or greater.  
 While sapient beings might clear and manage vast aquaculture fields, some animals might dam key waterways and create lakes, while others tear game trails through thick swamps that are then used by countless other organisms. Where societies rise, the combination of perishable materials and unstable foundations mean that ruins swiftly disappear. On tectonically active planets covered by peat and other fuel, lava could spark subsurface fires that slowly burn their way across the world, creating smoldering underground hellscapes that burst upward to consume an entire region before dying out, making way for new growth.  
 
-## MARSH RULES AND REFERENCE
+## Marsh Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 69_  
 Starfinder already provides numerous rules that befit marsh adventures. Basic information appears on pages 397–398 of the Core Rulebook, with an emphasis on navigating shallow bogs and deep bogs. Check out the cover rules on pages 253–254 of the Core Rulebook, as a combination of water and a swamp’s woody vegetation should give creatures in these environments plenty of natural defenses. On those same pages, see the concealment rules to incorporate sheets of hanging moss, mazes of grass, and low-lying boughs into firefights. Wetlands can quickly enter deeper water, where suffocation and drowning (Core Rulebook 404) and underwater combat (Core Rulebook 405) come into play, and marshes often attract disease-spreading creatures that can leave creatures fighting off afflictions (Core Rulebook 414–419).  
 
-## MARSH TOOLBOX
+## Marsh Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 70_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### MARSH INHABITANTS
+### Marsh Inhabitants
 
 | D%     | Sapient         | Threat              |
 | ------ | --------------- | ------------------- |
@@ -63,8 +64,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Vilderaro       | Vracinea            |
 | 97–100 | Wrikreechee     | Writher swarm       |
 
-
-### MARSH ADVENTURE HOOKS
+### Marsh Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                        |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

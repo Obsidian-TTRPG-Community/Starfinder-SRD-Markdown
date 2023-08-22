@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# TECH-BONDED RIGGER
+
+# Tech-bonded Rigger
 
 **XP 400**  
 CG Medium humanoid (human)  
@@ -35,7 +36,7 @@ STATISTICS
 **Other Abilities** artificial intelligence (drone), custom rig  
 **Gear** estex suit I, basic handaxe, tactical semi-auto pistol
 
-##### STEALTH DRONE
+##### Stealth Drone
 
 **Size** Small
 

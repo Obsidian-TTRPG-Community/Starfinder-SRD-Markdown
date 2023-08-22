@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SPATHINAE
+
+# Spathinae
+
 > [!infobox|left n-th clean]
 >  [[Spathinae.png|Spielern zeigen!]]
 > Spathinae are an insectile species occupying several worlds in the Vast. Individually, these creatures have significant physical variety, resembling wasps, mantises, and moths, among others. Each inch-long spathinae is much like the insect it resembles, but thousands organize themselves to form a biological and neural network. The result is a colony that operates much like a single sapient creature. Such a colony is like a swarm and refers to themselves in the plural, but their consciousness is specific, with one personality and set of memories. The colony can alter their shape.  
@@ -22,35 +24,35 @@ Most societies treat spathinae colonies as individuals, with the rights and obli
 **Ability Modifiers** +2 Dex, +2 Wis, -2 Con  
 **Hit Points** 3
 
-## SIZE AND TYPE
+## Size and Type
 
 Spathinae colonies are Medium monstrous humanoids.  
 
-## SHAPABLE
+## Shapable
 
 Given 1 minute, a spathinae colony can alter their shape. The colony can form and control up to four limbs. If the spathinae colony loses a limb, they can use this ability to “regrow” the limb. At least two of these limbs must be used for locomotion, or the colony’s land speed is reduced by 10 feet. If the colony has multiple limbs that operate like arms and hands, they can hold more objects at the ready, but they can’t make additional attacks. A spathinae colony can alter their shape to use armor and gear normally designed for almost any Small or Medium creature. However, a spathinae colony wearing [armor not adjusted for them](https://aonsrd.com/Rules.aspx?ID=Armor&Category=Equipment) or powered armor can use neither their swarm flexibility ability nor the colony’s natural fly speed.  
 
-## SPATHINAE DEFENSES
+## Spathinae Defenses
 
 A spathinae colony has a +2 racial bonus to saving throws against bleed, critical hit effects, paralysis, sleep, and stunning. An effect that states it has a greater effect on swarms works on a spathinae colony as if they were a swarm. However, the [swarm defenses](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Swarm%20Defenses) universal creature rule does not apply to spathinae colonies.  
 
-## SPATHINAE MOVEMENT
+## Spathinae Movement
 
 A spathinae colony has a land speed of 30 feet and an extraordinary fly speed of 20 feet with average maneuverability.  
 
-## SPATHINAE SENSES
+## Spathinae Senses
 
 A spathinae colony has blindsense (vibration) with a range of 30 feet and darkvision with a range of 60 feet.  
 
-## SWARM FLEXIBILITY
+## Swarm Flexibility
 
 A spathinae colony has [compression](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Compression) and gains a +4 racial bonus to KAC against bull rush, grapple, reposition, and trip combat maneuvers. In addition, the colony can always take 10 on the escape and tumble tasks of the Acrobatics skill and gains a +4 racial bonus to Acrobatics checks for those tasks.  
 
-## VERMINLIKE
+## Verminlike
 
 For effects targeting creatures by type, a spathinae colony counts as both monstrous humanoid and vermin (whichever type allows an ability to affect them for abilities that affect only one type, and whichever is worse for abilities that affect both types). The spathinae also gains a +2 racial bonus to saving throws against mind-affecting effects.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5 to 6 ft.   
 **Average Weight** 50 to 80 lbs.   

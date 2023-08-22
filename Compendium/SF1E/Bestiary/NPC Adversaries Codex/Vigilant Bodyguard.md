@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# VIGILANT BODYGUARD
 
+# Vigilant Bodyguard
 
 **XP 600**  
 Human solarian  
@@ -46,15 +46,15 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### BLACK HOLE (SU)
+#### Black Hole (SU)
 
 This functions as the solarian stellar revelation of the same name. As a standard action, the vigilant bodyguard can pull any number of creatures within 20 feet closer. Each target must succeed a DC 11 Fortitude saving throw or be pulled 10 feet towards the vigilant bodyguard.
 
-#### DARK MATTER (SU)
+#### Dark Matter (SU)
 
 This functions as the solarian stellar revelation of the same name. As a move action, the vigilant bodyguard can gain DR 1/— until he leaves graviton mode.
 
-#### SUPERNOVA (SU)
+#### Supernova (SU)
 
 This functions as the solarian stellar revelation of the same name. As a standard action, the vigilant bodyguard can deal 3d6 fire damage to all creatures within 10 feet. A creature that succeeds on a DC 11 Reflex saving throw takes half damage.
 

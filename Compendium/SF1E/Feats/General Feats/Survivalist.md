@@ -5,8 +5,10 @@ Prerequisites: Self-sufficient racial trait.
 tags: 
 Type: General Feat
 ---
-# SURVIVALIST
-**Source** _Character Operations Manual pg. 34_  
+
+# Survivalist
+
+**Source**:: _Character Operations Manual pg. 34_  
 You know how to live off the land.
 
 **Prerequisites**: Self-sufficient racial trait.

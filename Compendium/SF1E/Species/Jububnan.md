@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# JUBUBNAN
+
+# Jububnan
+
 > [!infobox|left n-th clean]
 >  [[Jububnan.png|Spielern zeigen!]]
 > Jububnans resemble human-sized toads that stand on a single stout leg. Their coloration varies widely, often with neon splashes and splotches of darker colors. They maneuver by deftly hopping at the speed at which many humanoids walk, and they rarely remain motionless, instead preferring to gently sway when they must stay in a single spot for prolonged periods. Jububnans can inhale deeply, expanding their bodies to almost three times their normal size. Most jububnans stand between 5 and 6 feet tall and weigh about 200 pounds, though puffed jububnans can be as tall as 10 feet.  
@@ -16,31 +18,31 @@ Thanks to jububnans’ ability to reproduce rapidly, their normally solitary spe
 **Ability Modifiers** +2 Dex, +2 Con, -2 Str  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Jububnans are Medium monstrous humanoids.   
 
-## DARKVISION
+## Darkvision
 
 Jububnans have darkvision with a range of 60 feet.   
 
-## ASTONISHING BALANCE
+## Astonishing Balance
 
 A jububnan can move 10 feet instead of 5 when taking a crawl action. A jububnan also gains a +4 racial bonus to AC against bull rush and trip combat maneuvers.   
 
-## JUBUBNAN MOVEMENT
+## Jububnan Movement
 
 Jububnans have a land speed of 30 feet and a swim speed of 30 feet.   
 
-## PUFF UP
+## Puff up
 
 As a move action, a jububnan can increase to Large size and gain a reach of 10 feet. If the physical space the jububnan is in can’t accommodate their new size, the ability fails. The jububnan can maintain this size for up to 10 minutes before they must revert to their normal size; this does not take an action. The jububnan can’t use this ability again until they take a 10-minute rest to regain Stamina Points.   
 
-## WANDERER’S PLUCK
+## WANDERER’S Pluck
 
 Jububnans have tenacious spirits that allow them to thrive while alone. When an effect allows a jububnan to reroll an attack roll, saving throw, or skill check, they gain a +2 racial bonus to that reroll. 
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5 to 6 ft.  
 **Average Weight** 150 to 250 lbs.  

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DROMADA
+
+# Dromada
+
 > [!infobox|left n-th clean]
 >  [[Dromada.png|Spielern zeigen!]]
 > 
@@ -22,31 +24,31 @@ Dromada adventurers or mercenaries are extremely rare, as dromadas who choose su
 **Ability Modifiers** +2 Dex, +2 Wis, -2 Cha  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Dromadas are Medium magical beasts.  
 
-## ALERT THE HERD
+## Alert the Herd
 
 Once per day at the beginning of a combat in which it isn’t surprised, a dromada can emit a deep moan that alerts its herd to nearby danger, granting allies within 50 feet who can hear it a +4 morale bonus to their initiative checks for that combat.  
 
-## BOLT
+## Bolt
 
 When a dromada takes the run full action, they can move up to five times their speed, change direction once during the movement, and cross difficult terrain (though such terrain requires extra movement as normal).  
 
-## DROMADA SENSES
+## Dromada Senses
 
 Dromadas have darkvision with a range of 60 feet and low-light vision.  
 
-## SAVORY
+## Savory
 
 A dromada hit by a creature’s bite attack takes a –2 penalty to AC against further bite attacks from the same creature. This effect lasts 1 week and applies only once per creature.  
 
-## SWIFT
+## Swift
 
 Dromadas have a land speed of 40 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4-1/2 to 5-1/2 ft.   
 **Average Weight** 150 to 250 lbs.   

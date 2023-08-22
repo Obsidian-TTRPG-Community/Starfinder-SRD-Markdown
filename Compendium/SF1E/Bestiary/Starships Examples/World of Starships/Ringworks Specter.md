@@ -5,7 +5,9 @@ tags:
 Tier: 16
 Type: Gargantuan battleship
 ---
-# RINGWORKS SPECTER
+
+# Ringworks Specter
+
 > [!infobox|locr n-th clean]
 >  [[Starship_RingworksSpecter.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Gargantuan battleship, **Tier** 16
 **Attack (Turret)** heavy laser cannon (4d8; 10 hexes)  
 **Power Core** Gateway Ultra (500 PCU); **Drift Engine** Signal Basic; **Systems** advanced long-range sensors, crew quarters (luxurious), mk 8 armor, mk 7 defenses, mk 3 trinode computer; **Expansion Bays** cargo hold, drop pod, escape pods, guest quarters (luxurious), medical bay, passenger seating, quantum defender, recreation suite (trivid den); **Modifiers** +3 to any 3 checks per round, +4 Computers (sensors only), +1 Piloting; **Complement** 163 (minimum 100, maximum 300)
 
-### CREW
+### Crew
 
 **Captain** Computers +28 (16 ranks), Diplomacy +28 (16 ranks), Engineering +28 (16 ranks), gunnery +23 (16th level), Intimidation +28 (16 ranks), Piloting +29 (16 ranks)  
 **Engineers (3 officers, 15 crew each)** Engineering +28 (16 ranks)  
@@ -29,7 +31,7 @@ Gargantuan battleship, **Tier** 16
 **Pilot (1 officer, 10 crew)** Piloting +29 (16 ranks)  
 **Science Officers (3 officers, 15 crew each)** Computers +33 (16 ranks)
 
-## DESCRIPTION
+## Description
 
 The product of a decade of Ringworks research and development, the Specter represents the first known successful use of quantum defender technology on a capital ship. Previous efforts, notably by firms on Eox and in the Veskarium, avoided losses by designing semiautomated test models flown by virtual intelligences. These test vessels invariably self-destructed, merged with an asteroid or other piece of solid matter, or vanished forever.  
   

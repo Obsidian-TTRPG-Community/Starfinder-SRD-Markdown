@@ -5,7 +5,9 @@ tags:
 Tier: 4
 Type: Small light freighter
 ---
-# NORIKAMA RELIANT
+
+# Norikama Reliant
+
 > [!infobox|locr n-th clean]
 >  [[Starship_NorikamaDropship.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Small light freighter, **Tier** 4
 **Attack (Starboard)** tactical nuclear missile launcher (5d8; 20 hexes)  
 **Power Core** Pulse Green (150 PCU); **Drift Engine** Signal Booster; **Systems** advanced long-range sensors, crew quarters (common), mk 3 duonode computer, mk 4 armor, mk 4 defenses; **Expansion Bays** cargo holds (3)*; **Modifiers** +3 to any two checks per round, +4 Computers (sensors only), +2 Piloting; **Complement** 5 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Computers +10 (4 ranks), Engineering +10 (4 ranks), gunnery +9 (4th level), Intimidate +10 (4 ranks), Piloting +12 (4 ranks)  
 **Engineer** Engineering +15 (4 ranks)  
@@ -28,7 +30,7 @@ Small light freighter, **Tier** 4
 **Pilot** Piloting +12 (4 ranks)  
 **Science Officer** Computers +10 (4 ranks)
 
-## DESCRIPTION
+## Description
 
 _* 6 Build Points are available for customizing the expansion bays in this versatile ship._  
   

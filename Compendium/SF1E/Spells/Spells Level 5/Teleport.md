@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# TELEPORT
 
-**Source** _Starfinder Core Rulebook pg. 381_  
-**Classes** Precog 5, Technomancer 5, Witchwarper 5  
-**School** conjuration (teleportation)  
-**Casting Time** 1 standard action  
-**Range** 2,000 miles  
-**Targets** you and touched objects and other touched willing or unconscious creatures  
-**Duration** instantaneous  
-**Saving Throw** none, Will negates (object); **Spell Resistance** no, yes (object)
+# Teleport
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 381_  
+**Classes**:: Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: conjuration (teleportation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: 2,000 miles  
+**Targets**:: you and touched objects and other touched willing or unconscious creatures  
+**Duration**:: instantaneous  
+**Saving-Throw**:: none, Will negates (object);
+**Spell Resistance**:: No, yes (object)
+
+## Description
 
 This spell instantly transports you to a designated destination within 2,000 miles. Interplanar and interplanetary travel is not possible, and neither is travel between two moving starships during combat, though you might be able to teleport to a planet’s surface from an orbiting starship. You can bring along objects as long as their weight doesn’t exceed your maximum bulk limit. You can also bring up to five additional willing or unconscious Medium or smaller creatures (carrying gear or objects up to its maximum load) or their equivalent. A Large creature counts as two Medium creatures, and a Huge creature counts as four Medium creatures. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you. As the caster, you need not attempt a saving throw, nor is spell resistance applicable to you. Only objects held or in use by another creature receive saving throws and benefit from spell resistance.
 

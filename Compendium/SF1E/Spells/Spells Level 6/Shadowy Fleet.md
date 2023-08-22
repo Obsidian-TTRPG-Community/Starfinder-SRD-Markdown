@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# SHADOWY FLEET
 
-**Source** _Starfinder Core Rulebook pg. 376_  
-**Classes** Technomancer 6  
-**School** illusion (shadow)  
-**Casting Time** 1 standard action  
-**Range** long (400 ft. + 40 ft./level)  
+# Shadowy Fleet
+
+**Source**:: _Starfinder Core Rulebook pg. 376_  
+**Classes**:: Technomancer 6  
+**School**:: illusion (shadow)  
+**Casting-Time**:: 1 standard action  
+**Range**:: long (400 ft. + 40 ft./level)  
 **Area** 60-ft. radius  
-**Duration** 1 round/level  
-**Saving Throw** Will disbelief and Reflex half, see text; **Spell Resistance** yes
+**Duration**:: 1 round/level  
+**Saving-Throw**:: Will disbelief and Reflex half, see text;
+**Spell Resistance**:: yes
 
-## DESCRIPTION
+## Description
 
 You create a powerful vision of a fleet of hostile starships overhead that appears to rain fiery laser shots mercilessly at your enemies. The ships appear to be 1,000 feet overhead and target a 60-foot-radius area that you designate on the ground. You can’t cast this spell indoors unless you are within a structure that a fleet of starships could believably fit within.
 

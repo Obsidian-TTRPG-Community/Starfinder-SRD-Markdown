@@ -5,8 +5,10 @@ Prerequisites: Diplomacy 5 ranks.
 tags: 
 Type: General Feat
 ---
-# FRIENDS IN LOW PLACES
-**Source** _Galaxy Exploration Manual pg. 91_  
+
+# Friends in Low Places
+
+**Source**:: _Galaxy Exploration Manual pg. 91_  
 Your winning and adaptable personality gains you access to less-reputable professional services.
 
 **Prerequisites**: Diplomacy 5 ranks.

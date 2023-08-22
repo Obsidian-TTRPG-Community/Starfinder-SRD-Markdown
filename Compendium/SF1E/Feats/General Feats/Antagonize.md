@@ -5,8 +5,10 @@ Prerequisites: Diplomacy 5 ranks, Intimidate 5 ranks.
 tags: 
 Type: General Feat
 ---
-# ANTAGONIZE
-**Source** _Starfinder Core Rulebook pg. 155_  
+
+# Antagonize
+
+**Source**:: _Starfinder Core Rulebook pg. 155_  
 You know how to make foes extremely angry with you.
 
 **Prerequisites**: Diplomacy 5 ranks, Intimidate 5 ranks.

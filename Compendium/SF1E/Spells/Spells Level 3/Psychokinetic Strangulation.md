@@ -9,19 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# PSYCHOKINETIC STRANGULATION
 
+# Psychokinetic Strangulation
 
-**Source** _Starfinder Core Rulebook pg. 370_  
-**Classes** Mystic 3  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one creature that breathes  
-**Duration** concentration up to 1 round/level  
-**Saving Throw** Fortitude partial, see text; **Spell Resistance** yes
+**Source**:: _Starfinder Core Rulebook pg. 370_  
+**Classes**:: Mystic 3  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one creature that breathes  
+**Duration**:: concentration up to 1 round/level  
+**Saving-Throw**:: Fortitude partial, see text;
+**Spell Resistance**:: yes
 
-## DESCRIPTION
+## Description
 
 You manipulate the mystical energy around a creature’s throat into a viselike grip, potentially choking the life out of your victim.
 

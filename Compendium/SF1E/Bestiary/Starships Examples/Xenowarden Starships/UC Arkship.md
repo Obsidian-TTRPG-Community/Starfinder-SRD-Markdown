@@ -5,7 +5,9 @@ tags:
 Tier: 10
 Type: Large biomechanical destroyer
 ---
-# UC ARKSHIP
+
+# Uc Arkship
+
 > [!infobox|locr n-th clean]
 >  [[Starship_UCArkship.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Large biomechanical destroyer, **Tier** 10
 **Attack (Turret)** laser net (2d6)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** advanced mid-range sensors, crew quarters (common), mk 2 tetranode computer, mk 6 defenses, mk 9 armor; **Expansion Bays** cargo bays (2), hive bays (2); **Modifiers** +2 any four checks each round, +4 Computers; **Complement** 10
 
-### CREW
+### Crew
 
 **Captain** Computer +23 (10 ranks), Diplomacy +24 (10 ranks), gunnery +16, Intimidation +19 (10 ranks), Piloting +19 (10 ranks)  
 **Engineers (3)** Engineering +24 (10 ranks)  
@@ -29,6 +31,6 @@ Large biomechanical destroyer, **Tier** 10
 **Pilot** Piloting +24 (10 ranks)  
 **Science Officers (2)** Computer +28 (10 ranks)
 
-## DESCRIPTION
+## Description
 
 Though they are composed of several UC Pod ships fused together, UC Arkships have a single sentience that acts in a very protective manner toward its component vessels. A crew must learn to comfort an Arkship when these pods are lost in battle.

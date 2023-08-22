@@ -2,10 +2,13 @@
 aliases: 
 tags: 
 ---
-# HACKING REFERENCE
+
+# Hacking Reference
+
 > [!attention] HACK SYSTEM
 > **Source** [_Starfinder Core Rulebook pg. 139_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
 > You can use Computers to hack a computer system to which you don’t already have access. Hacking a computer system typically takes one full action per tier of the computer system. You can cut this time in half (to a minimum of one full action) for every 5 by which you increase the DC of the Computers check. If you succeed at the check, you gain access to any part of the computer that is not behind a firewall (see page 217). This allows you to use the basic functions of the computer and to make further checks that require you to have access. Accessing parts of a computer behind a firewall requires an additional Computers check for each firewall.
+
 ## Access Unsecured System (p. 138)
 
 This is the only Computers check that can be performed untrained
@@ -67,7 +70,7 @@ You cannot Take 20 on any of these checks
 
 **1** Using Computers or Engineering
 
-## Tools (p. 209, 214, 219, 221; Pact Worlds p. 190, 199)
+## Tools (p. 209, 214, 219, 221; Pact Worlds P. 190, 199)
 
 |Name|Level|Price|Bulk/Other|Bonus/Other|
 |---|---|---|---|---|
@@ -107,8 +110,6 @@ The following skill checks can only be performed with a Take 20 if you have acce
 |Profession|Recall Knowledge|
 
 **1** Also requires being trained in Computers
-
-
 
 ## Modules
 
@@ -221,7 +222,7 @@ Increases the overall DC of the Computers check to hack the computer. A computer
 |9|40,000|80,000|120,000|160,000|
 |10|80,000|160,000|240,000|320,000|
 
-### Self-Charging Upgrade (p. 216)
+### Self-charging Upgrade (p. 216)
 
 This upgrade allows a computer to function for up to 1 week on internal power. Multiple purchases of this upgrade extend the time by 1 additional week.
 

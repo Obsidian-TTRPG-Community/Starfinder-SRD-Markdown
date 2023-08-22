@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# REACH & THREATENED SQUARES
+
+# Reach & Threatened Squares
 
 Your reach is the distance at which you can attack foes in melee combat. If you are wielding a melee weapon or are otherwise capable of making a melee attack (e.g., if you have your own natural weapons), you threaten all squares into which you can make a melee attack, even when it is not your turn (the exception is unarmed strikes—if you’re making unarmed strikes, you don’t threaten other squares). Generally, that means you threaten all squares adjacent to your space, including diagonally. An enemy that takes certain actions while in a square you threaten provokes an attack of opportunity from you (see page 248).  
   

@@ -5,7 +5,9 @@ tags:
 Tier: 1/2
 Type: Tiny interceptor
 ---
-# NORIKAMA DEFREX
+
+# Norikama Defrex
+
 > [!infobox|locr n-th clean]
 >  [[Starship_NorikamaDefrex.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny interceptor, **Tier** 1/2
 **Attack (Forward)** coilgun (4d4; 20 hexes)  
 **Power Core** Micron Heavy (70 PCU); **Drift Engine** Signal Basic; **Systems** basic computer, cut-rate sensors, mk 3 armor, mk 2 defenses; **Expansion Bays** none; **Modifiers** –2 Computers (sensors only), +1 Piloting; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** gunnery +3 (1st level), Piloting +10 (1 rank)
 
-## DESCRIPTION
+## Description
 
 One of Norikama Syndicate’s highest grossing starships to date, the Defrex is a scrappy personal fighter capable of taking a beating while dishing out punishment in kind. With a hull modeled on BMC’s infamous Hellion, comfortable seating inspired by Redshift’s Desiris, thrusters ripped off the award-winning Liavaran racer Essence, and extra armor plating around its vital systems, the Defrex outsold all of the ships it emulated, turning a huge profit for Norikama. Still sold today, the Defrex is a wedge-shaped ship with cockpit windows shaped like a toothy, open maw and spiked armor plating running along its top and aft hull. The ship’s silhouette invokes the snarling visage of its namesake, the defrex, a fierce and respected mammalian predator found on Vesk-2.  
   

@@ -9,17 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# COMMAND
-**Source** _Starfinder Core Rulebook pg. 343_  
-**Classes** Mystic 1  
-**School** enchantment (compulsion, language-dependent, mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one living creature  
-**Duration** 1 round  
-**Saving Throw** Will negates; **Spell Resistance** yes
 
-## DESCRIPTION
+# Command
+
+**Source**:: _Starfinder Core Rulebook pg. 343_  
+**Classes**:: Mystic 1  
+**School**:: enchantment (compulsion, language-dependent, mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one living creature  
+**Duration**:: 1 round  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 You give the target one of the following commands, which it obeys to the best of its ability at its earliest opportunity. If the target can’t carry out your command on its next turn, the spell automatically fails.  
   

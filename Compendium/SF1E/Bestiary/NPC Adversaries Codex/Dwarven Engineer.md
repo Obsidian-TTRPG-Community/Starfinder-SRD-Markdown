@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# DWARVEN ENGINEER
+
+# Dwarven Engineer
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 1,200**  

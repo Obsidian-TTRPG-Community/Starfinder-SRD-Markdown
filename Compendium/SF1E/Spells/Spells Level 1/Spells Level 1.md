@@ -3,7 +3,8 @@ aliases:
 tags: 
 ---
 
-# SPELLS LEVEL 1
+# Spells Level 1
+
 ``` dataview
 TABLE
 School, Mystic, Precog, Techomancer, Witchwarper

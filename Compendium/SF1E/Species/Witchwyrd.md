@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# WITCHWYRD
+
+# Witchwyrd
+
 > [!infobox|left n-th clean]
 >  [[Witchwyrd.png|Spielern zeigen!]]
 > 
@@ -24,31 +26,31 @@ Witchwyrds often travel with a crew of loyal humanoid mercenaries hired from wor
 **Ability Modifiers** +2 Cha, +2 Int, -2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Witchwyrds are Medium monstrous humanoids.  
 
-## ABSORB FORCE
+## Absorb Force
 
 As a reaction, a witchwyrd can use any number of its free hands to catch magic missiles (from the spell of the same name) fired at it. Doing so absorbs the missile and manifests as a glowing nimbus around that hand (which is no longer considered free). The energy lasts 6 rounds or until it is used to create an additional force bolt (see below). To use this ability, the witchwyrd must be aware of the incoming magic missile and cannot be flat-footed.  
 
-## DARKVISION
+## Darkvision
 
 Witchwyrds have darkvision with a range of 60 feet.  
 
-## FORCE BOLT
+## Force Bolt
 
 Witchwyrds can cast _magic missile_ as a spell-like ability once per day. For every two magic missiles caught using its absorb force ability, a witchwyrd can use its force bolt ability an additional time each day.  
 
-## FOUR-ARMED
+## Four-armed
 
 Witchwyrds have four arms, which allows them to wield and hold up to four hands’ worth of weapons and equipment. While their multiple arms increase the number of items they can have at the ready, it doesn’t increase the number of attacks they can make during combat.  
 
-## HAGGLER
+## Haggler
 
 Witchwyrds are known as skilled traders and negotiators throughout the galaxy and the planes. They receive a +2 racial bonus to Bluff and Diplomacy checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6–8 ft.  
 **Average Weight** 200–400 lbs.  

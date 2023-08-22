@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# BRENNERI
+
+# Brenneri
 
 > [!infobox|left n-th clean]
 > [[Brenneri.png|Spielern zeigen!]]
@@ -23,31 +24,31 @@ Though brenneris’ natural empathy for the emotional journeys of others usually
 **Ability Modifiers** +2 Con, +2 Cha, -2 Int  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Brenneris are Medium humanoids with the brenneri subtype.  
 
-## ASTUTE
+## Astute
 
 Brenneris gain a +2 racial bonus to Diplomacy and Sense Motive checks.  
 
-## DARKVISION
+## Darkvision
 
 Brenneris have darkvision with a range of 60 feet.  
 
-## FAVORED OBJECT
+## Favored Object
 
 A brenneri can designate any object they own of negligible bulk as a favored object. Once per day, when a brenneri spends a Resolve Point and takes a 10 minute rest to regain Stamina Points, they can focus on a favored object during the rest and recover Hit Points equal to half their level (minimum 1).  
 
-## HOLD BREATH
+## Hold Breath
 
 Brenneris can hold their breath for 10 minutes, and taking actions does not reduce this duration (see [Suffocation and Drowning](https://aonsrd.com/Rules.aspx?ID=Environmental%20Rules&Category=Environment)).  
 
-## SWIMMER
+## Swimmer
 
 Brenneris have a swim speed of 20 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4-1/2 to 5-1/2 ft.   
 **Average Weight** 100 to 200 lbs.   

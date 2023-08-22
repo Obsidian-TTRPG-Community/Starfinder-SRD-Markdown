@@ -2,27 +2,28 @@
 aliases: 
 tags: 
 ---
-#  ARMOR STORM
 
-**Source** _Starfinder Core Rulebook pg. 113_  
+# Armor Storm
+
+**Source**:: _Starfinder Core Rulebook pg. 113_  
 The armor storm fighting style focuses on using armor as a weapon by maximizing the damage of armor-based weapons while withstanding enemy fire. You learn to increase the effectiveness of attacks made with your armor and to add equipment normally beyond your armor’s capacity.
 
-## HAMMER FIST (EX) - 1ST LEVEL
+## Hammer Fist (EX) - 1ST Level
 
 You treat any unarmed strike you make while wearing heavy or powered armor as being made with a battleglove (see page 187) with an item level equal to or lower than your soldier level, and you calculate damage for these attacks as if you had the melee striker gear boost (see page 112). If you have the melee striker gear boost, you gain a +2 bonus to damage rolls with your unarmed strikes when using this ability. These unarmed strikes don’t benefit from other abilities that apply specifically to unarmed strikes (such as the Improved Unarmed Strike feat).  
 
-## ENHANCED TANK (EX) - 5TH LEVEL
+## Enhanced Tank (EX) - 5TH Level
 
 You gain the Powered Armored Proficiency feat and access to improved armor. This might be the result of your own engineering abilities or a powerful patron giving you gear not available to the general public. You can add one more upgrade to your armor than its normal maximum number of upgrade slots. If you add this bonus upgrade to heavy armor, you can select an upgrade normally limited to powered armor. An upgrade placed in this bonus slot costs half the normal credit amount and sells for 10% of the reduced cost. If you move an upgrade from this bonus slot to another slot, you must pay the difference between the upgrade’s reduced cost and its normal cost.  
 
-## SMASH THROUGH (EX) - 9TH LEVEL
+## Smash through (EX) - 9TH Level
 
 While you are wearing heavy armor or powered armor, you gain a +4 bonus to attack rolls to perform a bull rush combat maneuver (see page 246). If you successfully push the target back 10 feet or more, you can also damage the target with an unarmed strike (and can use your hammer fist ability when doing so).  
 
-## MOBILE ARMY (EX) - 13TH LEVEL
+## Mobile Army (EX) - 13TH Level
 
 You become a master of all weapons associated with your armor. You deal 1d6 additional damage with any attack from a weapon that is part of your armor, including unarmed strikes using the hammer fist ability and weapons that have been attached to your armor as an armor upgrade. The additional damage is of the same type as the weapon’s normal type. Also, while wearing heavy or powered armor, you gain a +2 bonus to your KAC against combat maneuvers.  
 
-## ON THE BOUNCE (EX) - 17TH LEVEL
+## On the Bounce (EX) - 17TH Level
 
 You learn to control your armor with such ease, you are actually more maneuverable in it than out of it. While wearing heavy armor or powered armor, you can move up to your speed when you make a full attack. You can move before or after all your attacks, but not both. If you have the Shot on the Run feat, you can divide your movement to move both before and after making a full attack as long as all the attacks are ranged attacks. If you have the Spring Attack feat, you can divide your movement to move both before and after making a full attack as long as all the attacks are melee attacks. If you have both feats, your attacks can be any combination of melee and ranged attacks.

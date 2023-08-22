@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DRONE CHASSIS
+
+# Drone Chassis
+
 Each drone has one of three chassis types that determines its size, starting statistics, and initial mods, as well as the drone’s overall look and theme. These chassis types are combat, hover, and stealth, and they are presented below. Each is organized as follows, using the terms below.
 
 -   **Size**: This is the base size of your drone. Regardless of the mods you give your drone, its size does not change.
@@ -17,12 +19,12 @@ Each drone has one of three chassis types that determines its size, starting sta
 
   
 
-##  ARTILLERY DRONE
+## Artillery Drone
 
-**Source** _Tech Revolution pg. 25_
+**Source**:: _Tech Revolution pg. 25_
 Often built with a low profile to avoid return fire, an artillery drone is a mobile weapons platform strong enough to support the heaviest of ranged armaments. Its heavily armored core belies its exceptional agility and mechanical precision, allowing the drone to perch atop precarious vantage points and make tiny adjustments to line up the perfect shot.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Medium  
 **Speed** 30 ft.  
@@ -33,12 +35,12 @@ Often built with a low profile to avoid return fire, an artillery drone is a mob
 **Ability Increases** Strength, Dexterity  
 **Initial Mods** weapon proficiency (heavy), weapon mount (x2)
 
-##  COMBAT DRONE
+## Combat Drone
 
-**Source** _Starfinder Core Rulebook pg. 75_
+**Source**:: _Starfinder Core Rulebook pg. 75_
 Bigger than other chassis options, the combat drone moves along the ground and is outfitted with wheels, tracks, legs, or a similar form of propulsion. This drone is designed specifically for battle. It has an armored body and multiple weapon mounts, allowing it to pack a variety of armaments.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Medium  
 **Speed** 30 ft.  
@@ -49,12 +51,12 @@ Bigger than other chassis options, the combat drone moves along the ground and i
 **Ability Increases** Strength, Dexterity  
 **Initial Mods** reductive plating, weapon mount or melee weapon arm (up to 2 in any combination), weapon proficiency
 
-##  HOVER DRONE
+## Hover Drone
 
-**Source** _Starfinder Core Rulebook pg. 75_
+**Source**:: _Starfinder Core Rulebook pg. 75_
 The hover drone is the smallest chassis and is equipped with miniature hoverjets or similar aerial propulsion (legs or wheels provide propulsion on land). This drone can fly and avoid obstacles but isn’t very stealthy. A hover drone with melee weapon arms or weapon mounts can use weapons designed for Small or Medium creatures without penalty.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Tiny  
 **Speed** 30 feet, fly 30 feet (perfect)  
@@ -66,12 +68,12 @@ The hover drone is the smallest chassis and is equipped with miniature hoverjets
 **Bonus Skill Unit** Acrobatics  
 **Initial Mods** flight system (x2, included in its speed), weapon mount
 
-##  PROTOCOL DRONE
+## Protocol Drone
 
-**Source** _Tech Revolution pg. 25_
+**Source**:: _Tech Revolution pg. 25_
 Often built to resemble a sapient species, the protocol drone is an adept translator and negotiator programmed to sense and adapt to a wide variety of social situations and domestic tasks.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Small  
 **Speed** 30 ft.  
@@ -83,12 +85,12 @@ Often built to resemble a sapient species, the protocol drone is an adept transl
 **Bonus Skill Unit** Culture, plus either Bluff, Diplomacy, Intimidate, or Sense Motive  
 **Initial Mods** linguistic module, manipulator arms, negotiator protocol (the negotiator protocol mod’s Charisma bonus is already included above)
 
-##  SAGE DRONE
+## Sage Drone
 
-**Source** _Tech Revolution pg. 25_
+**Source**:: _Tech Revolution pg. 25_
 Among the smallest of all drones, the sage drone is an ambulatory supercomputer designed to analyze its surroundings and provide real-time advice. The drone readily identifies and reacts to danger, proving an adept combatant despite its lightweight frame and minimal armor.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Tiny  
 **Speed** 30 ft.  
@@ -100,11 +102,12 @@ Among the smallest of all drones, the sage drone is an ambulatory supercomputer 
 **Bonus Skill Unit** Two of the following: Computers, Culture, Life Science, Mysticism, Physical Science, Profession  
 **Initial Mods** internal database, skill subroutine (the skill subroutine mod’s Intelligence bonus is already included above), weapon mount
 
-##  STEALTH DRONE
-**Source** _Starfinder Core Rulebook pg. 75_
+## Stealth Drone
+
+**Source**:: _Starfinder Core Rulebook pg. 75_
 Sleek and covered in a light-absorbing alloy, the stealth drone prowls along the ground on multiple small legs, silenced wheels, an air cushion, or some similar form of propulsion. This drone specializes in stealth and infiltration and can vanish almost entirely from sight as long as it remains perfectly still.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Small  
 **Speed** 40 ft., climb 20 ft.  
@@ -116,12 +119,12 @@ Sleek and covered in a light-absorbing alloy, the stealth drone prowls along the
 **Bonus Skill Unit** Stealth  
 **Initial Mods** climbing claws, reactive camouflage, weapon mount
 
-##  STORMSCOUT DRONE
+## Stormscout Drone
 
-**Source** _Interstellar Species pg. 24_
+**Source**:: _Interstellar Species pg. 24_
 Compact and resilient, the stormscout drone was developed on Shimrinsara to survive deadly weather and even direct lightning strikes—defenses that make them popular across the galaxy for entering dangerous areas, collecting samples for scientific examination, and recording their surroundings.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Small  
 **Speed** 30 ft.  
@@ -132,12 +135,12 @@ Compact and resilient, the stormscout drone was developed on Shimrinsara to surv
 **Ability Increases** Dexterity, Intelligence  
 **Initial Mods** camera, conductive plating, manipulator arms, resistance (electricity)
 
-##  TUNNEL DRONE
+## Tunnel Drone
 
-**Source** _Interstellar Species pg. 24_
+**Source**:: _Interstellar Species pg. 24_
 Reinforced to shrug off falling debris and rescue cave-in victims, the tunnel drone uses a combination of digging apparatuses, sensors, and heavy limbs to detect, access, and (if necessary) subdue subterranean objectives.  
 
-### STARTING STATISTICS
+### Starting Statistics
 
 **Size** Medium  
 **Speed** 30 ft., burrow 15 ft.  

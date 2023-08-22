@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# ORC
+
+# Orc
+
 > [!infobox|left n-th clean]
 >  [[Orc.png|Spielern zeigen!]]
 > Orcs are rare, although records suggest they were numerous on lost Golarion. Today, they can be found in greatest numbers on Apostae, where most are drow-held slaves. Over the ages, however, some orcs have gained freedom, creating formidable armed clans on Apostae and a few other worlds in the galaxy, though many free orcs of Apostae remain second-class citizens who still serve the drow as mercenaries, technicians, and laborers.  
@@ -22,31 +24,31 @@ An orc has large and imposing tusks that jut from her mouth, as well as pointed 
 **Ability Modifiers** +4 Str, –2 Cha  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Orcs are Medium humanoids with the orc subtype.  
 
-## CONDITIONED FOCUS
+## Conditioned Focus
 
 Due to her conditioning, an orc can choose one skill that becomes a class skill for her. If the chosen skill is a class skill from the class she takes at 1st level, she instead gains a +1 bonus to checks with that skill. In addition, due to her confidence with that skill, once per day, before she attempts a check with the chosen skill, the orc can grant herself a +2 bonus to that check.  
 
-## DARKVISION
+## Darkvision
 
 Orcs have darkvision with a range of 60 feet.  
 
-## FIERCE SURVIVALIST
+## Fierce Survivalist
 
 Orcs receive a +2 racial bonus to Intimidate and Survival checks.  
 
-## LIGHT SENSITIVITY
+## Light Sensitivity
 
 An orc is dazzled as long as she remains in an area of bright light.  
 
-## ORC FEROCITY
+## Orc Ferocity
 
 Once per day, an orc brought to 0 Hit Points but not killed can fight on for 1 more round. The orc drops to 0 HP and is dying (following the normal rules for death and dying) but can continue to act normally until the end of his next turn, when he becomes unconscious as normal. If he takes additional damage before this, he ceases to be able to act and falls unconscious.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–7 ft.  
 **Average Weight** 145–320 lbs.  

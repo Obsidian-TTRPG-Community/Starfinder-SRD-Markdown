@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ULTARI PATRICIAN
 
+# Ultari Patrician
 
 **XP 2,400**  
 Ultari envoy  
@@ -46,7 +46,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### TELEPATHIC DRAIN (SU)
+#### Telepathic Drain (SU)
 
 As above, but the Will DC is 20.
 

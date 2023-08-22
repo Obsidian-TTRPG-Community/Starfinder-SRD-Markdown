@@ -5,8 +5,10 @@ Prerequisites: Str 13.
 tags: 
 Type: General Feat
 ---
-# HAULER
-**Source** _Character Operations Manual pg. 115_  
+
+# Hauler
+
+**Source**:: _Character Operations Manual pg. 115_  
 Through a combination of sheer power, practiced posture, and conscientious load balancing, you can carry more than most.
 
 **Prerequisites**: Str 13.

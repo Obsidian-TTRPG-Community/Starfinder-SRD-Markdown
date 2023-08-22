@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# CONTROL ATMOSPHERE
 
-**Source** _Pact Worlds pg. 204_  
-**Classes** Mystic 4, Witchwarper 4  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** medium  
+# Control Atmosphere
+
+**Source**:: _Pact Worlds pg. 204_  
+**Classes**:: Mystic 4, Witchwarper 4  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium  
 **Area** 30-ft.-radius spread  
-**Duration** 10 minute/level  
-**Saving Throw** Fortitude partial (see text); **Spell Resistance** no
+**Duration**:: 10 minute/level  
+**Saving-Throw**:: Fortitude partial (see text);
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You can alter the atmosphere within the spell’s area to cause it to become more like the atmosphere of another planet. You can alter one aspect of the atmosphere—its corrosiveness, density, or toxicity. The possible effects of each of these changes are detailed below.
 

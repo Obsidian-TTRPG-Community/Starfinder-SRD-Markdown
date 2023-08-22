@@ -5,7 +5,9 @@ tags:
 Tier: 3
 Type: Small light freighter
 ---
-# MULTIFOLD G7 AUTOHAULER
+
+# Multifold G7 Autohauler
+
 > [!infobox|locr n-th clean]
 >  [[Starship_MutlifoldAutohauler.jpg|Spielern zeigen!]]
 > 
@@ -20,11 +22,11 @@ Small light freighter, **Tier** 3
 **Attack (Starboard)** light laser cannon (2d4; 5 hexes)  
 **Power Core** Pulse Black (120 PCU); **Drift Engine** Signal Booster; **Systems** antihacking systems, basic short-range sensors, mk 5 armor, mk 5 defenses, mk 3 mononode computer; **Expansion Bays** cargo holds (3); **Modifiers** +3 to any 1 check per round, +2 Computers (sensors only), +2 Piloting; **Complement** 0 (minimum 0, maximum 6)
 
-### CREW
+### Crew
 
 **On-Board Computer** Bluff +8 (3 ranks), Computers +8 (3 ranks), Engineering +8 (3 ranks), gunnery +7 (3rd level), Piloting +15 (3 ranks), Sense Motive +8 (3 ranks)  
 
-## SPECIAL ABILITIES
+## Special Abilities
 
 **Automated (Ex)** An Autohauler has no crew, though it has a virtual intelligence (VI) that can perform most crew actions. The VI can perform captain, engineer, gunner, pilot, and science officer actions as if it had a crew of five.  
   

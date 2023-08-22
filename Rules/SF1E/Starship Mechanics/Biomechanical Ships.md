@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# BIOMECHANICAL SHIPS
+
+# Biomechanical Ships
 
 The ships of the Xenowardens are not so much constructed as they are grown in orbital nurseries. Unique blends of technology and nature, they’re capable of healing themselves over time and responding to threats in ways unlike any other vessel. These abilities cannot be added to other vessels and, as of yet, no one else in the Pact Worlds has managed to unlock the secrets of their creation.  
   

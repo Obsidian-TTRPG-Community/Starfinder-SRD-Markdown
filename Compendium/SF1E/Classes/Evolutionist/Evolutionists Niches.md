@@ -2,14 +2,15 @@
 aliases: 
 tags: 
 ---
-# EVOLUTIONISTS NICHES
 
-**Source** _Interstellar Species pg. 14_  
+# Evolutionists Niches
+
+**Source**:: _Interstellar Species pg. 14_  
 The following are the most common evolutionist niches. 
 
-## ELDRITCH
+## Eldritch
 
-**Source** _Interstellar Species pg. 14_  
+**Source**:: _Interstellar Species pg. 14_  
 You intend to gradually metamorphose into a fantastical or extraplanar being. Magical energy flows through your veins and deflects spells, yet the more you embrace this influence, the more toxic the mundane world becomes to you.
 
 **Augmentation Type**: Magitech  
@@ -26,9 +27,9 @@ You intend to gradually metamorphose into a fantastical or extraplanar being. Ma
 **Arcane Leap (10th level)**: As a move action, you instantly teleport to any space within your line of effect within 30 feet. When you activate your spell bending adaptation, you can spend 1 additional MP to activate this ability as part of that reaction, teleporting to any space within 30 feet that is within or adjacent to the spell’s target or area of effect.  
 **Niche Metamorphasis (20th level)**: Your creature type becomes your choice of dragon, fey, or outsider. You become immune to one of the following damage types: acid, cold, electricity, fire, or sonic.
 
-##  MECHANIZED
+## Mechanized
 
-**Source** _Interstellar Species pg. 14_  
+**Source**:: _Interstellar Species pg. 14_  
 Your personal journey will transform you from mortal into machine. When stressed, your body begins replacing parts of you with mechanized armor.
 
 **Augmentation Type**: Cybernetics  
@@ -40,9 +41,9 @@ If you have 3 or more MP you become increasingly robotic. You’re treated as bo
 **Rapid Reboot (10th level)**: As a standard action, you can reset and repair your cybernetic loadout, emerging recharged. Until the beginning of your next turn, you’re flat-footed and the value of your niche instinct’s damage reduction doubles. At the beginning of your next turn, you can end one of your ongoing adaptations to gain a number of MP equal to the MP you spent to activate that adaptation (maximum 2 MP). So long as you gain at least 1 MP in this way, you also regain Stamina Points equal to twice your evolutionist level.  
 **Niche Metamorphasis (20th level)**: Your creature type becomes construct. You gain immunity to fatigue and exhaustion.
 
-##  SEPULCHRAL
+## Sepulchral
 
-**Source** _Interstellar Species pg. 15_  
+**Source**:: _Interstellar Species pg. 15_  
 You strive to attain undead immortality on your own terms. While unliving energies strengthen your body and grant you supernatural power over life and death, you develop unnatural hungers that drive you to violence. If not controlled, your transformation might tear your body apart at the seams.
 
 **Augmentation Type**: Necrografts  
@@ -55,9 +56,9 @@ Once you use this adaptation, you can’t use it again until you rest for 10 min
 **Spectral Step (10th level)**: You can spend 2 MP as a move action to become incorporeal and gain a fly speed of 30 feet with perfect maneuverability until the beginning of your next turn. As part of this action, you can also fly up to 15 feet. When this effect would end, you can extend the duration by 1 round by spending 2 MP, plus an additional MP for each previous round you have extended this effect.  
 **Niche Metamorphasis (20th level)**: Your creature type becomes undead. You gain immunity to death effects and negative levels.
 
-##  VITAL
+## Vital
 
-**Source** _Interstellar Species pg. 15_  
+**Source**:: _Interstellar Species pg. 15_  
 Your body, a riot of biological potential, longs to become some extraordinary flora, fauna, or chimeric creature. Rampant life energy heals your wounds, yet your thoughts become equally impulsive and direct.
 
 **Augmentation Type**: Biotech  

@@ -5,8 +5,10 @@ Prerequisites: Worship a deity of an alignment within one step of your own align
 tags: 
 Type: General Feat
 ---
-# DIVINE BLESSING
-**Source** _Pact Worlds pg. 190_  
+
+# Divine Blessing
+
+**Source**:: _Pact Worlds pg. 190_  
 Your benefit is determined by the deity you worship.
 
 _Abadar_: When you make an attack as a standard action against a chaotic fey or chaotic outsider, your attack ignores any one form of DR, resistance, or immunity to damage the target has (your choice).

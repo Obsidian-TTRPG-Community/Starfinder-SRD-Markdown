@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# OKANTA PILOT
+
+# Okanta Pilot
 
 **XP 400**  
 NG Medium humanoid (okanta)  
@@ -39,15 +40,15 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### ACE PILOT (EX)
+#### Ace Pilot (EX)
 
 This okanta soldier is a piloting prodigy, gaining a +5 insight bonus to Piloting checks.
 
-#### CHALLENGE (EX)
+#### Challenge (EX)
 
 As a standard action, an okanta pilot can taunt an enemy within 60 feet by attempting an Intimidate check at the same DC as a check to demoralize that enemy. If he succeeds, the enemy must target the pilot for their actions until the beginning of the pilot’s next turn, to the exclusion of any other activities.
 
-#### FEARLESS SURGE (EX)
+#### Fearless Surge (EX)
 
 An okanta pilot can use his reaction to being targeted by a fear effect to gain a +4 racial bonus on the saving throw against it. If he succeeds, he also gains a +2 racial bonus to Will saving throws until the start of his next turn. Once he has used fearless surge, he can’t use it again until he has taken a 10-minute rest.
 

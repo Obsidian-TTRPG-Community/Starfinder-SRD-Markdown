@@ -2,16 +2,17 @@
 aliases: 
 tags: 
 ---
-# FREE TRADER
 
-**Source** _Character Operations Manual pg. 103_  
+# Free Trader
+
+**Source**:: _Character Operations Manual pg. 103_  
 A free trader is an independent contractor who buys, sells, and makes a living hauling freight. Most free traders own or work on a starship, buying surplus commodities on the cheap and traveling to distant worlds where those same commodities command good prices. Free traders sometimes band together into a small merchant company, with members acting as guards, engineers, and other specialists organized under a single manager. Everyone shares the profits. If they are lucky, one good cargo run make them rich, but for most, it’s a hardknock life that means barely scraping by.  
 
-## ALTERNATE CLASS FEATURES
+## Alternate Class Features
 
 The free trader archetype grants an alternate class feature at 2nd level, but this feature improves over multiple class levels.  
 
-## MERCHANT SAVVY (EX) - 2ND LEVEL
+## Merchant Savvy (EX) - 2ND Level
 
 You know how to find cargo that needs hauling, buy it cheap, identify good markets, then sell for a profit. Three times per day when you attempt one of the following skill checks, you can reroll the d20 before the outcome is revealed.
 

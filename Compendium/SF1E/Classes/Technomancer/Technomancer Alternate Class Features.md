@@ -2,19 +2,21 @@
 aliases: 
 tags: [30:]
 ---
-# TECHNOMANCER ALTERNATE CLASS FEATURES
 
-# DRONE TECHNOMANCY
+# Technomancer Alternate Class Features
 
-**Source** Tech Revolution pg. 34
+# Drone Technomancy
+
+**Source**:: Tech Revolution pg. 34
 **Class** Technomancer
 
 You have created an extraordinary new life powered by your technomancy, providing you a skilled companion at the cost of your overall magical potential. You gain a drone artificial intelligence, using your technomancer level as your mechanic level. If you have additional levels in a class that provides you a drone artificial intelligence, you add them together to the determine the effectiveness of your drone. You gain one fewer spell slot per day of each level.
 When you learn new magic hacks, you can choose to select any of the following mechanic tricks as though they were magic hacks, using your technomancer level as your mechanic level to qualify for these tricks: drone meld, extra drone mod, hyperclocking, mod tinkerer, overclocking, repair drone, and ultraclocking.
 This alters spells and replaces spell cache and cache capacitor.
 
-# IMMORTAL TUTOR
-**Source** _Galactic Magic pg. 34_  
+# Immortal Tutor
+
+**Source**:: _Galactic Magic pg. 34_  
 **Class** Technomancer
 
 You’ve learned technology from extraplanar experts. Choose one of the following categories that best fits your immortal tutor: aeon, celestial, elemental, fiend, inevitable, or protean. You gain the benefits associated with that tutor.  
@@ -24,9 +26,9 @@ This replaces spell cache and cache capacitor.
 
 ---
 
-##  AEON
+## Aeon
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 You have learned reality-warping mathematics from the cosmos’s faceless custodians.  
 **Spell:** Flight  
 **First Lesson:** When you make an attack that would deal a damage type you have not dealt since the beginning of your last turn, you gain a +1 circumstance bonus to the attack roll.  
@@ -35,9 +37,9 @@ You have learned reality-warping mathematics from the cosmos’s faceless custod
 
 ---
 
-##  CELESTIAL
+## Celestial
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 Benevolent outsiders showed you the miracle’s sacred tech.  
 **Spell:** Summon creature (agathion, angel, archon, and azata only)  
 **First Lesson:** You gain DR/evil with a value equal to 1-1/2 × the spell’s level (rounded down).  
@@ -46,9 +48,9 @@ Benevolent outsiders showed you the miracle’s sacred tech.
 
 ---
 
-##  ELEMENTAL
+## Elemental
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 A powerful elemental patron honed your fundamentals. Choose an elemental type for your patron: air, earth, fire, or water.  
 **Spell:** Summon creature (elementals only)  
 **First Lesson:** You gain a special movement speed based on your patron’s type. Air grants a 20-foot fly speed (average maneuverability). Earth grants a 15-foot burrow speed. Fire grants a +20-foot enhancement bonus to your land speed. Water grants a 30-foot swim speed.  
@@ -57,9 +59,9 @@ A powerful elemental patron honed your fundamentals. Choose an elemental type fo
 
 ---
 
-##  FIEND
+## Fiend
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 You’ve learned technological exploits from evil outsiders.  
 **Spell:** Summon creature (daemon, demon, and devil only)  
 **First Lesson:** You gain DR/good with a value equal to 1-1/2 × the spell’s level (rounded down).  
@@ -68,9 +70,9 @@ You’ve learned technological exploits from evil outsiders.
 
 ---
 
-##  INEVITABLE
+## Inevitable
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 _SFS Note: Replace the adamantine shot spell in the Inevitable Immortal Tutor Alternate Class Feature for Technomancers with magic missile._  
 The precision of Axis formed the foundation of your studies.  
 **Spell:** Adamantine shot  
@@ -80,27 +82,27 @@ The precision of Axis formed the foundation of your studies.
 
 ---
 
-##  PROTEAN
+## Protean
 
-**Source** _Galactic Magic pg. 34_  
+**Source**:: _Galactic Magic pg. 34_  
 You learned to innovate your technomancy to keep pace with the Maelstrom’s everchanging criteria and physics.  
 **Spell:** Polymorph (self only)  
 **First Lesson:** When you cast a spell or make an attack that deals acid, cold, electricity, fire, or sonic damage, you can choose to replace that damage with one of the five damage types selected at random. If you do so, you can reroll one of the damage dice and use the second result.  
 **Second Lesson:** You reduce the damage you take from a critical hit by twice your technomancer level and gain a +2 bonus on saving throws against the attack’s critical hit effects.  
 **Third Lesson:** Your form becomes extremely fluid. You gain the compression ability (Alien Archive 153), can move through difficult terrain as though it were normal terrain, and gain a +3 circumstance bonus to KAC and saving throws against attacks of opportunity and effects that would grapple or entangle you.
 
-# JUNK TECHNOMANCY
+# Junk Technomancy
 
-**Source** Tech Revolution pg. 34
+**Source**:: Tech Revolution pg. 34
 **Class** Technomancer
 
 Your magic easily recycles technological refuse into useful tools, literally making another’s trash into your treasure. You gain junk armor and junksword as 1st-level spells known. When you gain the ability to cast technomancer spells of a higher level, you add the next higher level of junk armor and junksword to your list of spells known. You immediately lose the lower level version of these two spells and replace them with one spell known for that lower spell level. Once per day, you can cast junk armor or junksword as a spell of the highest technomancer spell level that you can cast without expending a spell slot. When you cast junk spells—including any spells that specifically create or manipulate junk, such as junk armor, handy junkbot, or other spells as the GM’s discretion—you treat your technomancer caster level as 1 higher than normal.
 At 3rd level, your techlore class feature grants its insight bonus to your Engineering checks rather than to Computers checks; it still grants you an insight bonus to Mysticism checks. At 6th level, armor you create or enhance with junk armor gains one armor upgrade slot. When you create a junksword, you can simultaneously place a weapon fusion seal into it whose item level cannot exceed half the spell’s caster level; the fusion seal is harmlessly returned to your hand when the spell ends.
 This alters spells and techlore, and it replaces spell cache and cache capacitor.
 
-# CACHE AUGMENTATION (EX)
+# Cache Augmentation (EX)
 
-**Source** Character Operations Manual pg. 92
+**Source**:: Character Operations Manual pg. 92
 **Class** Technomancer
 
 Your studies of the fundamental forces of the galaxy have enabled you to enhance one of your body’s systems to benefit from the energy of stored spells. You might have been bestowed this augmentation by an order of technomancers, implanted the augmentation into yourself as part of your research, or witnessed part of your body undergo a technomantic apotheosis that left you with the ability to cast spells. Your cache augmentation takes the form of any cybernetic augmentation or magitech augmentation (Starfinder Armory 90) of your choice with an item level of 1. Each time you gain a level, the item level of your augmentation increases by 1, and you can replace it with a different augmentation with an item level equal to your technomancer level or lower. This augmentation counts toward the total number of augmentations you can have implanted into each of your body’s systems as normal.
@@ -115,10 +117,10 @@ These enhancement bonuses count as part of the effects of your cache augmentatio
 
 This replaces spell cache and cache capacitor.
 
-# CACHE HACKS (SU)
+# Cache Hacks (SU)
 
 _SFS Note: Remove baleful polymorph as a 6th-level spell option; the rest of Genehacker’s Cache is legal for play_  
-**Source** _Character Operations Manual pg. 92_  
+**Source**:: _Character Operations Manual pg. 92_  
 **Class** Technomancer
 
 At 6th level, you can acquire a cache hack, a fundamental shift in the focus of your spell cache that alters the spells you can cast with the cache capacitor class feature. Choose one of the cache hacks described below; your cache capacitor can hold the listed spells instead of those described on page 120 of the Core Rulebook.
@@ -129,9 +131,9 @@ Aside from the change in the spell list and the changes listed above, your cache
 
 ---
 
-##  DEVASTATOR'S CACHE
+## Devastator's Cache
 
-**Source** _Character Operations Manual pg. 92_  
+**Source**:: _Character Operations Manual pg. 92_  
 The devastator uses their technomancy not for fame, fortune, or glory. Instead, the devastator use their spells to lay waste to their enemies.  
 **First Slot (6th Level):** _jolting surge_\*, _magic missile_\*, _overheat_\*, _supercharge weapon_\*.  
 **Second Slot (12th Level):** _caustic conversion_\*, _directed denial of strength attack_\*, _inject nanobots_\*, or _logic bomb_\*.  
@@ -139,9 +141,9 @@ The devastator uses their technomancy not for fame, fortune, or glory. Instead, 
 
 ---
 
-##  GENEHACKER'S CACHE
+## Genehacker's Cache
 
-**Source** _Character Operations Manual pg. 92_  
+**Source**:: _Character Operations Manual pg. 92_  
 _SFS Note: Remove baleful polymorph as a 6th-level spell option_  
 The genehacker uses their spell cache to fundamentally alter organisms, be it themselves, their allies, or their foes.  
 **First Slot (6th Level):** _baleful polymorph_\* (1st level), _keen senses_, _life bubble_, or _polymorph_ (1st level).  
@@ -150,9 +152,9 @@ The genehacker uses their spell cache to fundamentally alter organisms, be it th
 
 ---
 
-##  HOLOGRAPHIC ARTIST'S
+## Holographic Artist's
 
-**Source** _Character Operations Manual pg. 92_  
+**Source**:: _Character Operations Manual pg. 92_  
 The holographic artist uses their spell cache to paint the world around them with dazzling holograms and creatures that others can't help but believe.  
 **First Slot (6th Level):** _disguise self_, _holographic image_ (1st level), _summon creature_ (1st level), or _unseen servant_.  
 **Second Slot (12th Level):** _holographic image_ (2nd level or lower), _invisibility_\*, _mirror image_\*, or _summon creature_ (2nd level or lower).  
@@ -160,9 +162,9 @@ The holographic artist uses their spell cache to paint the world around them wit
 
 ---
 
-##  JUNKER'S CACHE
+## Junker's Cache
 
-**Source** _Character Operations Manual pg. 92_  
+**Source**:: _Character Operations Manual pg. 92_  
 The junker uses their spell cache to build incredible weapons, armor, and machines from scrapped parts.  
 **First Slot (6th Level):** _detect tech_, _junk armor_ (1st level), _junksword_\* (1st level), or _supercharge weapon_\*.  
 **Second Slot (12th Level):** _junksword_\* (2nd level or lower), _microbot assault_\*, or _recharge_\*.  
@@ -170,9 +172,9 @@ The junker uses their spell cache to build incredible weapons, armor, and machin
 
 ---
 
-## OFFICER’S CACHE
+## OFFICER’S Cache
 
-**Source** _Starfinder Puppets Without Strings pg. 50_  
+**Source**:: _Starfinder Puppets Without Strings pg. 50_  
 An officer draws on their cache to satisfy a variety of tactical options in the field.  
 **First Slot (6th Level):** _comprehend languages_, _junksword_\* (1st level), _summon creature_ (1st level), or _supercharge weapon_\*  
 **Second Slot (12th Level):** _invisibility_\*, _junksword_\* (2nd level or lower), _school spirit_, or _summon creature_ (2nd level or lower)  
@@ -180,9 +182,9 @@ An officer draws on their cache to satisfy a variety of tactical options in the 
 
 ---
 
-## SCHOLAR’S CACHE
+## SCHOLAR’S Cache
 
-**Source** _Starfinder Puppets Without Strings pg. 50_  
+**Source**:: _Starfinder Puppets Without Strings pg. 50_  
 The scholar uses their spell cache to further their studies.  
 **First Slot (6th Level):** _Akashic download_, _comprehend languages_, _identify_\*, or _unseen servant_  
 **Second Slot (12th Level):** _Akashic tutor_ (2nd level or lower), _hoverdisk_, _instant upgrade_\*, or _school spirit_  
@@ -190,9 +192,9 @@ The scholar uses their spell cache to further their studies.
 
 ---
 
-##  SPYMASTER’S CACHE
+## SPYMASTER’S Cache
 
-**Source** _Galactic Magic pg. 35_  
+**Source**:: _Galactic Magic pg. 35_  
 The spymaster uses their spell cache for infiltration, hiding their tracks, and uncovering secrets.  
 **First Slot (6th Level):** comprehend languages, disguise self, erase\*, or mental silence  
 **Second Slot (12th Level):** invisibility to technology\*, knock\*, manipulate tech\*, or osmose\*  
@@ -200,18 +202,18 @@ The spymaster uses their spell cache for infiltration, hiding their tracks, and 
 
 ---
 
-##  TECHNOWITCH’S CACHE
+## TECHNOWITCH’S Cache
 
-**Source** _Galactic Magic pg. 35_  
+**Source**:: _Galactic Magic pg. 35_  
 _SFS Note: Replace the incompetence spell in the Technowitch Cache Hack with mental silence._  
 The technowitch bends reality to their whims with their spell cache, creating a world molded to their desires.  
 **First Slot (6th Level):** flight (1st level), incompetence\*, lifting frame\*, or polymorph (1st level)  
 **Second Slot (12th Level):** command undead\*, flight (2nd level or lower), polymorph (2nd level or lower), or spider climb  
 **Third Slot (18th Level):** flight (3rd level or lower), remote pilot\*, phantom cycle, or polymorph (3rd level or lower)
 
-# HACK CAPACITOR (SU)
+# Hack Capacitor (SU)
 
-**Source** Character Operations Manual pg. 92
+**Source**:: Character Operations Manual pg. 92
 **Class** Technomancer
 
 You can adjust your magical knowledge, granting you the ability to hack your spellcasting in unexpected ways. Select three magic hacks that you do not have but whose prerequisites you meet. As a move action, you can gain the benefit of one of these magic hacks for 1 minute. You can use this ability multiple times each day, but each time you use it after the first in a single day, you must spend 1 Resolve Point. If you use hack capacitor again before the duration expires, you replace the previous magic hack with the new choice. If a magic hack you chose with hack capacitor has a daily use limitation, any uses of any magic hack from your hack capacitor count toward the hack’s daily limit. Each time you gain a technomancer level, you can replace one magic hack you selected with this ability with another choice.

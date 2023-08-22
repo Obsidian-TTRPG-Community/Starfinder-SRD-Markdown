@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SHIPMIND STARSHIPS
+
+# Shipmind Starships
+
 A shipmind is an ooze of thick, bubbling yellowish liquid. Unlike many oozes, this biological entity relies on a bizarre symbiosis with technology to survive. The creature lives in a container made of crystalline material and inorganic components, which serves the ooze like a shell. Outside this container, a shipmind is vulnerable and doomed to die, but this limited existence is little hindrance to a shipmind, since its sole purpose is to pilot starfaring vessels that serve the Dominion of the Black.  
   
 Dominion starships are bizarre amalgamations of organic and inorganic components. Strange membranes hold bulkheads and the hull together. Fibrous material resembling muscles and connective tissue work some of the ships’ mechanical components, such as doors, while a web of nerve-like cables carry power and data, and networks of tubules carry various fluids. At the center of this network in the largest Dominion ships is a shipmind, connected to everything through disturbingly organic cables.  

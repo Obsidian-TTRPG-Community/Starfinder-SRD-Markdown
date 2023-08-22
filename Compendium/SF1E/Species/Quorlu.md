@@ -72,7 +72,7 @@ Sharing these aspects of being is important to quorlus, so communal groups calle
 Quorlus' high valuation of connection and seeking common ground makes them great explorers and diplomats. They also seek belonging, always searching for would-be kindred mates among other peoples. Although it's rare for non-quorlus to join quorlu kindreds, it's common for quorlus outside their society to form kindred-like ties. However, quorlus give their private ideals high priority and are unlikely to remain in relationships that force them to compromise their beliefs too often.  
 When it comes to personal expression, quorlus are open, curious, and communal while simultaneously elevating individual inclinations. Quorlus often decorate their portable possessions as well as their bodies, tailoring their diet of minerals, crystals, and salts to gain an excess of a substance to use for bodily expression. They can also extrude minerals to change their skin and shell color over a long period of time. They love music, holographic or illusory art, and other artistic experiences, especially fleeting ones.
 
-### Growing Up Quorlu
+### Growing up Quorlu
 
 Quorlus reproduce and rear children communally. Quorlus who wish to give birth mingle their internal plasma with kindred mates and other beloved quorlus to create egg-like nodules that contain the silicon genetic material from several quorlus. Exact parentage is irrelevant in quorlu culture, but quorlus still note heritage for historic and medical reasons. Kindreds have communal nurseries, where caretakers watch over nodules until they hatch, after which kindred members take in the infant for rearing. Quorlu children
 

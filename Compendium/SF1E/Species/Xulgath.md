@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 _SFS Note: A xulgath’s pheromone cloud ability does not affect themselves, and is negated by environmental protections as an inhaled hazard._  
-**Source** _Ports of Call pg. 23_  
+**Source**:: _Ports of Call pg. 23_  
 
 [[Species_Xulgath.png|Zeigen!]]
 Xulgaths are reptilian humanoids who originated on lost Golarion.  

@@ -10,8 +10,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# AETHER SOLDIER
 
+# Aether Soldier
 
 **XP 400**  
 LG Medium humanoid (human)  

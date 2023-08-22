@@ -5,8 +5,10 @@ Prerequisites: Ability to cast spells, character level 3rd.
 tags: 
 Type: General Feat
 ---
-# SPELL FOCUS
-**Source** _Starfinder Core Rulebook pg. 162_  
+
+# Spell Focus
+
+**Source**:: _Starfinder Core Rulebook pg. 162_  
 Through careful study, you have developed methods to make your spells harder to resist.
 
 **Prerequisites**: Ability to cast spells, character level 3rd.

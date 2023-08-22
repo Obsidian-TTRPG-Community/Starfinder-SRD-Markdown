@@ -2,10 +2,12 @@
 aliases: 
 tags: 
 ---
-# WITCHWARPTER ALTERNATE CLASS FEATURES
 
-# INFINITE TECH (SU)
-**Source** _Tech Revolution pg. 38_  
+# Witchwarpter Alternate Class Features
+
+# Infinite Tech (SU)
+
+**Source**:: _Tech Revolution pg. 38_  
 **Class** Witchwarper
 
 As a full action, you can expend a witchwarper spell slot of 1st level or higher to conjure from a parallel existence one suit of light armor, one basic melee weapon, or one small arm that functions only for you. Conjured gear has an item level equal to your caster level and comes fully loaded with ammunition (if it uses ammo) or a fully charged battery (if it uses charges). The item persists until you dismiss it as a standard action, until it’s more than 10 feet away from you for more than a minute, or until its duration runs out, after which it fades back to its original reality. Any additional components incorporated into the item (such as spare ammunition) harmlessly drop into the item’s space when the item disappears.  
@@ -26,9 +28,9 @@ Conjured gear gains additional benefits based on the level of the spell slot exp
 **6th (weapon):** As 5th level, but your weapon’s base damage increases to 1d8 (for energy damage) or 1d10 (for kinetic damage).  
 The infinite tech class feature replaces infinite worlds.
 
-# INFINITY LASH (SU)
+# Infinity Lash (SU)
 
-**Source** _Galactic Magic pg. 38_  
+**Source**:: _Galactic Magic pg. 38_  
 **Class** Witchwarper
 
 As a move action, you can form a whiplike strand of energy whose strikes tear away slivers of matter and replace them with alternate reality analogues to painful effect. This infinity lash functions as a magical one-handed basic melee weapon that disappears if it ever leaves your hand. It deals 1d4 slashing damage and has the analog and reach special properties.  
@@ -40,9 +42,9 @@ As a move action while holding your infinity lash, you can expend a witchwarper 
 **5th:** As 4th level, plus your infinity lash gains the enfeeble critical hit effect.  
 **6th:** As 5th level, plus when you score a critical hit, you can select two critical hit effects to apply to the target. Infinity lash replaces infinite worlds.
 
-# PLUNDERER OF WORLDS (SU)
+# Plunderer of Worlds (SU)
 
-**Source** _Drift Crisis pg. 49_  
+**Source**:: _Drift Crisis pg. 49_  
 **Class** Witchwarper
 
 Much as the Drift tears away pieces of other planes, you snag extraplanar energies from the Great Beyond. Twice per day as a standard action, you can project a random plane’s features into a nearby space. Roll on Table 1–2 to determine which plane is affected. After determining the plane, you choose where this planar bubble appears, filling a 10-foot‑radius emanation within 100 feet of you. A planar bubble lasts a number of rounds equal to your witchwarper level. You can’t dismiss the bubble, though you can have more than one in existence at once. At 4th, 10th, and 16th levels, you can create one additional planar bubble per day.  
@@ -73,9 +75,9 @@ At 16th level, you can expend a 6th-level spell slot as a standard action to end
 | 85–90  | Water                                                          | cold, water       | fire              | cold or water subtype | fire subtype          |
 | 91–100 | Roll twice and apply both planar effects to the planar bubble. |
 
-# PROJECTED (SU)
+# Projected (SU)
 
-**Source** Galactic Magic pg. 38
+**Source**:: Galactic Magic pg. 38
 **Class** Witchwarper
 
 You’ve irrevocably drawn yourself from another reality into this one. You don’t belong here, and this reality has trouble reconciling your presence. However, you’ve learned to exploit your inconsistent density, size, and sheer existence.

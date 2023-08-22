@@ -5,7 +5,9 @@ tags:
 Tier: 9
 Type: Huge bulk freighter
 ---
-# HIVONYX TITAN HAULER
+
+# Hivonyx Titan Hauler
+
 > [!infobox|locr n-th clean]
 >  [[Starship_HivonyxTitanHauler.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Huge bulk freighter, **Tier** 9
 **Attack (Turret)** heavy plasma torpedo launcher (3d8), heavy plasma torpedo launcher (3d8)  
 **Power Core** Nova Ultra (300 PCU); **Drift Engine** Signal Basic; **Systems** basic long-range sensors, crew quarters (common), mk 5 armor, mk 5 defenses, mk 3 mononode computer; **Expansion Bays** cargo holds (5), escape pods (5); **Modifiers** +3 any one check per round, +2 Computers; **Complement** 35
 
-### CREW
+### Crew
 
 **Captain** Bluff +17 (9 ranks), Computers +19 (9 ranks), Diplomacy +17 (9 ranks), Engineering +17 (9 ranks), gunnery +15, Intimidate +17 (9 ranks), Piloting +17 (9 ranks)  
 **Engineer (1 officer, 15 crew)** Engineering +17 (9 ranks)  
@@ -27,6 +29,6 @@ Huge bulk freighter, **Tier** 9
 **Pilot (1 officer, 2 crew)** Piloting +22 (9 ranks)  
 **Science Officer (1 officer, 2 crew)** Computers +19 (9 ranks)
 
-## DESCRIPTION
+## Description
 
 Despite its formidable array of weapons and sensors, the Titan Hauler is optimized for freight, carrying huge loads within its beetle-like frame. Its partially organic nature aids in this capacity, as sphincter doors and expandable chambers can resize themselves to accommodate any cargo.

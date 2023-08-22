@@ -9,16 +9,17 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# AUGURY
 
-**Source** _Starfinder Core Rulebook pg. 340_  
-**Classes** Mystic 2, Precog 2, Witchwarper 2  
-**School** divination  
-**Casting Time** 1 minute  
-**Range** personal  
-**Duration** instantaneous  
+# Augury
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 340_  
+**Classes**:: Mystic 2, Precog 2, Witchwarper 2  
+**School**:: divination  
+**Casting-Time**:: 1 minute  
+**Range**:: personal  
+**Duration**:: instantaneous  
+
+## Description
 
 Casting _augury_ can tell you whether a particular action will bring good or bad results for you in the immediate future. Casting this spell takes intense personal focus and requires you to spend 1 Resolve Point.
 

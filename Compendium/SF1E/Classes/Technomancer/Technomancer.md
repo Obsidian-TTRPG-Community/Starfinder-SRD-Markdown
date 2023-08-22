@@ -2,34 +2,37 @@
 aliases: 
 tags: 
 ---
-# TECHNOMANCER
-**Source** _Starfinder Core Rulebook pg. 118_  
+
+# Technomancer
+
+**Source**:: _Starfinder Core Rulebook pg. 118_  
 To the uninitiated, magic and technology are completely unrelated, but you know there are more correlations between the two than most suspect. Magic and technology are just tools, and when combined into one discipline, called technomancy, they can be far more powerful than one or the other on its own. You utilize tech to empower, harness, and manipulate magic, and you wield magic to augment, control, and modify technology. You are an expert at hacking the underlying structure of the universe itself, bending the laws of science and nature to your will. Your technomancy—which is gained from scientific study and experimentation—manipulates the physical world, weaves illusions, allows you to peer through time and space, and if necessary, can blast a foe into atoms.
 
 **Hit Points**: 5  
 **Stamina Points**: 5
 
-## KEY ABILITY SCORE - INT
+## Key Ability Score - Int
 
 Your Intelligence determines your spellcasting ability, the saving throw DCs of your spells, and the number of bonus spells you can cast per day, so Intelligence is your key ability score. Also, a high Dexterity score can help you fire your weapons more accurately and dodge incoming attacks.
 
-## CLASS SKILLS
+## Class Skills
 
 The Technomancer's class skills are Computers (Int), Engineering (Int), Life Science (Int), Mysticism (Wis), Physical Science (Int), Piloting (Dex), Profession (Cha, Int, or Wis), Sleight of Hand (Dex).
 
 **Skill Points at each Level**: 4 + Int modifier.
 
-## PROFICIENCIES
+## Proficiencies
 
-### ARMOR
+### Armor
 
 Light armor
 
-### WEAPONS
+### Weapons
 
 Basic melee weapons, small arms
 
-## CLASS FEATURES
+## Class Features
+
 | &nbsp; | Spells Per Day    |
 |--------|-------------------|
 | Level  | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                         | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -57,7 +60,7 @@ Basic melee weapons, small arms
 
   
 
-## SPELLS KNOWN
+## Spells Known
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |-------|---|-----|-----|-----|-----|-----|-----|
@@ -84,7 +87,8 @@ Basic melee weapons, small arms
 
   
 
-## SPELLS
+## Spells
+
 | Bonus Spells Per Day (By Spell Level) |
 |---------------------------------------|
 | Int Score                             | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
@@ -113,29 +117,29 @@ You can cast any technomancer spell you know at any time, assuming you have not 
 
 You can also decipher magical inscriptions that would otherwise be unintelligible or, as a full action, identify any spells encoded in a spell gem. This does not normally invoke the magic contained within, although it may do so in the case of a cursed or trapped spell gem.
 
-## SPELL CACHE (SU) - 1ST LEVEL
+## Spell Cache (SU) - 1ST Level
 
 As the culmination of your early study of the fundamental forces of the galaxy, you have created a spell cache that allows you to store and access spells. Your spell cache could be a device such as a handheld computer or technological implant; an item such as a ring or staff; or a symbol such as a brand, tattoo, or other permanent modification to your body. While you don’t need your spell cache to cast your spells, once per day, you can activate your spell cache to cast any one spell you know and are capable of casting, even if you’ve expended all your spell slots for that spell’s level.
 
 If your spell cache is damaged, it is restored to full Hit Points the next time you regain your daily allotment of spell slots. If the spell cache is lost or destroyed, you can replace it after 1 week with a special ritual that takes 8 hours to complete.
 
-## MAGIC HACK - 2ND LEVEL
+## Magic Hack - 2ND Level
 
 You have carefully studied the forces that define magic and can manipulate them. You learn your first magic hack at 2nd level, and you learn an additional magic hack every 3 levels thereafter. When casting a spell, you can apply no more than one magic hack that affects the attributes of a spell (such as distant spell or extended spell). If a magic hack allows a saving throw to resist its effects, the DC is equal to 10 + half your technomancer level + your Intelligence modifier. The list of magic hacks appears starting on page 120.
 
-## SPELL FOCUS - 3RD LEVEL
+## Spell Focus - 3RD Level
 
 You gain Spell Focus as a bonus feat.
 
-## TECHLORE (EX) - 3RD LEVEL
+## Techlore (EX) - 3RD Level
 
 You rewire your mind to give you greater insight into the nature of magic and technology. You gain a +1 insight bonus to Computers and Mysticism checks. This bonus increases by 1 at 6th level and every 3 levels thereafter.
 
-## WEAPON SPECIALIZATION (EX) - 3RD LEVEL
+## Weapon Specialization (EX) - 3RD Level
 
 You gain the Weapon Specialization feat as a bonus feat for each weapon type this class grants you proficiency with.
 
-## CACHE CAPACITOR (SU) - 6TH LEVEL
+## Cache Capacitor (SU) - 6TH Level
 
 You expand your spell cache into a cache capacitor. As part of regaining your spells each day, you can cast a single spell into your spell cache and have it affect you continuously for 24 hours. The cache capacitor can hold any of the following spells: _detect radiation_, _disguise self_, _keen senses_, or _unseen servant_. You must know a spell to store it in your cache capacitor. When you cast the spell into your cache capacitor, you expend the spell slot normally and make any decisions required for that spell, but the duration doesn’t expire for 24 hours. If the spell in your cache capacitor is dispelled or dismissed, you can spend 5 minutes of uninterrupted concentration to reestablish it, keeping the same decisions you made when you cast it, and gaining whatever duration the spell had remaining. You can’t exchange the stored spell for another spell until you again regains your spells.
 
@@ -143,11 +147,11 @@ At 12th level, your cache capacitor gains a second slot that can hold _darkvisio
 
 At 18th level, your cache capacitor gains a third slot that can hold _arcane sight_, _flight_ (spell level 3rd or lower), _see invisibility_, or _tongues_.
 
-## RESOLVE ATTUNEMENT (EX) - 19TH LEVEL
+## Resolve Attunement (EX) - 19TH Level
 
 You recover Resolve Points when you use powerful magic. Each time you cast a 6th-level spell, you regain 1 Resolve Point, up to your normal maximum. This applies only to spells you cast using your normal 6th-level spell slots, not to those you cast using magic items or other methods such as fuse spells.
 
-## FUSE SPELLS (EX) - 20TH LEVEL
+## Fuse Spells (EX) - 20TH Level
 
 You can combine lower-level spell slots to cast higher-level spells. As part of casting a spell, you can spend 1 Resolve Point to exchange a number of unused spell slots for a single spell slot of a higher level; this expends the lower-level spell slots. Add up the levels of the expended slots to determine which higher level of spell you can cast (maximum 6th). For instance, you could exchange three 1st-level slots to cast a 3rd-level spell, or you could exchange two 3rd-level slots to cast a 6th-level spell. If you combine spell slots to cast a 6th-level spell, it doesn’t count as such for resolve attunement.
 

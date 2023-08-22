@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# VERCITE STARSHIPS
+
+# Vercite Starships
+
 The stars have always been a second home to the people of Verces, who explored the depths of space in their dirigible aetherships before many worlds even mastered the wheel. While the Augmented are still among the most common Vercite explorers, the pleasures of space travel are now enjoyed by those of any caste, as long as they have the credits to pay for it.  
   
 Verces is home to several of the most prominent and versatile ship manufacturers in the Pact Worlds, most notably Ringworks Industries, yet its original aethership designs never completely faded away. Instead, dramatic evolutions of these ancient vessels became the modern aetherships, high-end luxury craft known for their style and comfort, whose amenities often come at the cost of armaments and defenses. These vessels are designed for recreation and flagrant displays of status, whether that’s jetting around in a Terminator-brand Star Drake racer or boarding one of the elite Opulos cruise ships that take guests on voyages to view amazing astronomical phenomena and once-in-a-lifetime cosmic events.  

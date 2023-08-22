@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# SKILLCHECK DC'S
+
+# Skillcheck Dc's
 
 | Difficulty     | Adjustment     |
 | -------------- | -------------- |

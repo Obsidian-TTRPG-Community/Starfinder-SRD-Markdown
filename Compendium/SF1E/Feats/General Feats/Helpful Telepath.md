@@ -5,8 +5,10 @@ Prerequisites: Communalism or hive defense racial trait, limited telepathy or te
 tags: 
 Type: General Feat
 ---
-# HELPFUL TELEPATH
-**Source** _Character Operations Manual pg. 25_  
+
+# Helpful Telepath
+
+**Source**:: _Character Operations Manual pg. 25_  
 You’re able to provide uncanny support to your allies.
 
 **Prerequisites**: Communalism or hive defense racial trait, limited telepathy or telepathy racial trait.

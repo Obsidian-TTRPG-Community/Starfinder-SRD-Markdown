@@ -5,8 +5,10 @@ Prerequisites: Perception 6 ranks
 tags: 
 Type: General Feat
 ---
-# OPERATIC SHATTER
-**Source** _Interstellar Species pg. 99_  
+
+# Operatic Shatter
+
+**Source**:: _Interstellar Species pg. 99_  
 Through observation and experimentation, you can determine the exact pitch to shatter glass with your voice—and sturdier objects with your spells and weapons.
 
 **Prerequisites**: Perception 6 ranks

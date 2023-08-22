@@ -9,19 +9,21 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# WONDER WARP
+
+# Wonder Warp
 
 _SFS Note: Replace the baleful polymorph effect with the confused condition._  
-**Source** _Galaxy Exploration Manual pg. 115_  
-**Classes** Mystic 4, Technomancer 4, Witchwarper 4  
-**School** evocation  
-**Casting Time** 1 standard action  
-**Range** 30 ft.  
+**Source**:: _Galaxy Exploration Manual pg. 115_  
+**Classes**:: Mystic 4, Technomancer 4, Witchwarper 4  
+**School**:: evocation  
+**Casting-Time**:: 1 standard action  
+**Range**:: 30 ft.  
 **Area** 60-ft.-radius sphere centered on you  
-**Duration** 1 round/level (D)  
-**Saving Throw** varies, see text; **Spell Resistance** varies, see text
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: varies, see text;
+**Spell Resistance**:: varies, see text
 
-## DESCRIPTION
+## Description
 
 You alter the magical forces in the area near you into an unpredictable field of eldritch entropy, potentially causing a number of effects both positive and negatives for those who find themselves in the area.  
 When you cast this spell, and each time you start your turn during the duration of the spell, roll d% on the following table. Each time there’s a new effect, you can attempt a Will saving throw. If you succeed, you can choose the targets affected by the warped magic. Otherwise, the effect affects all creatures (and sometimes objects) in the area, including you, as described. If the effect is a spell, the spell’s normal parameters (including saves to avoid its effects) apply, except for duration.  

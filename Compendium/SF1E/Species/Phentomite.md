@@ -19,27 +19,27 @@ The Pact Worlds only recently made contact with phentomites. AbadarCorp has cons
 **Ability Modifiers** +2 Dex, +2 Wis, –2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Phentomites are Medium humanoids with the phentomite subtype.  
 
-## ACCLIMATED
+## Acclimated
 
 Phentomites are [acclimated to thin atmospheres and high altitudes](https://aonsrd.com/Rules.aspx?ID=Atmospheres&Category=Environment), and they count as Small creatures for the purpose of [slow suffocation](https://aonsrd.com/Rules.aspx?ID=Environmental%20Rules&Category=Environment).  
 
-## DARKVISION
+## Darkvision
 
 Phentomites have darkvision with a range of 60 feet.  
 
-## HEAT TRACKER
+## Heat Tracker
 
 As a full action, a phentomite can alter her vision to detect the latent heat trails left by passing creatures. This allows the phentomite to use the Perception skill to perform the follow tracks task of the Survival skill and also functions as the [tracking](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Tracking) universal creature rule. While this ability is active, the phentomite takes a –1 penalty to Reflex saving throws. The phentomite can deactivate this ability as a move action.  
 
-## NATURAL AGILITY
+## Natural Agility
 
 Phentomites gain a +3 racial bonus to Athletics checks to climb or jump.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6-8 ft.  
 **Average Weight** 130–220 lbs.  

@@ -5,8 +5,10 @@ Prerequisites: Con 13, any species that grants at least 6 Hit Points at 1st leve
 tags: 
 Type: General Feat
 ---
-# HIBERNATE
-**Source** _Interstellar Species pg. 135_  
+
+# Hibernate
+
+**Source**:: _Interstellar Species pg. 135_  
 You can enter a deep, meditative state to heal yourself of wounds and infirmities.
 
 **Prerequisites**: Con 13, any species that grants at least 6 Hit Points at 1st level

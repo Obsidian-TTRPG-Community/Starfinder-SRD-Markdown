@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Patrol-Class Security Robot
+# Patrol-class Security Robot
 
 - [cr::4]
 - [combatType::combatant]

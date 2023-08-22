@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# RESTORATION
 
-**Source** _Starfinder Core Rulebook pg. 374_  
-**Classes** Mystic 4, Precog 4  
-**School** conjuration (healing)  
-**Casting Time** 3 rounds  
-**Range** touch  
-**Targets** one creature  
-**Duration** instantaneous  
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+# Restoration
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 374_  
+**Classes**:: Mystic 4, Precog 4  
+**School**:: conjuration (healing)  
+**Casting-Time**:: 3 rounds  
+**Range**:: touch  
+**Targets**:: one creature  
+**Duration**:: instantaneous  
+**Saving-Throw**:: Will negates (harmless);
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 This spell functions as _lesser restoration_, except it also removes temporary negative levels or 1 permanent negative level. You must spend 5 Resolve Points when casting this spell to remove a permanent negative level. This spell can’t be used to remove more than 1 permanent negative level from a target in a 1-week period.  
   

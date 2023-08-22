@@ -9,17 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# FLUIDITY OF FORM
-**Source** _Galactic Magic pg. 74_  
-**Classes** Mystic 3, Technomancer 3, Witchwarper 3  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one willing or unconscious creature  
-**Duration** 1 round/level  
-**Saving Throw** Fortitude negates (harmless); **Spell Resistance** yes (harmless)
 
-## DESCRIPTION
+# Fluidity of Form
+
+**Source**:: _Galactic Magic pg. 74_  
+**Classes**:: Mystic 3, Technomancer 3, Witchwarper 3  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one willing or unconscious creature  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: Fortitude negates (harmless);
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 Drawing upon the ever-shifting chaos of the Maelstrom, you free the target from the shackles of their form. Each round at the start of their turn, the target must select one of the following benefits they gain for that round. They can't select the same benefit on two consecutive rounds.  
   

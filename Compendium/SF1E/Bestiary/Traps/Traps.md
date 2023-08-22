@@ -4,31 +4,31 @@ tags:
 ---
 Ancient alien ruins and corporate offices alike are rife with traps and defense mechanisms meant to protect valuable goods, personnel, and information. Additionally, adventuring characters sometimes encounter situations that, while not intentionally set up as traps, are just as dangerous—an unshielded power conduit in a damaged ship could prove deadly to those who aren’t careful, as could an unbalanced grav plate that might fling the unwary into a wall at high speeds. Whether the presentation of such dangers is intentional, accidental, or simply situational, all are represented using the same set of rules.
 
-# DETECTING A TRAP
+# Detecting a Trap
 
-**Source** _Starfinder Core Rulebook pg. 410_  
+**Source**:: _Starfinder Core Rulebook pg. 410_  
 A character can search for traps using the search task of the Perception skill. Compare the searching character’s Perception check result to the trap’s Perception DC. On a success, the character detects the trap.  
 
-# TRIGGERING A TRAP
+# Triggering a Trap
 
-**Source** _Starfinder Core Rulebook pg. 410_  
+**Source**:: _Starfinder Core Rulebook pg. 410_  
 All traps have a defined trigger. If the characters fail to locate a trap while exploring an area, the trap might be triggered by a standard part of traveling, such as stepping on a floor plate or moving through a magical sensor. Some traps instead have touch triggers. These traps trigger only when a character deliberately takes an action that directly manipulates the environment—by opening a door or pulling a chain, for example.  
 
-# DISABLING A TRAP
+# Disabling a Trap
 
-**Source** _Starfinder Core Rulebook pg. 410_  
+**Source**:: _Starfinder Core Rulebook pg. 410_  
 Characters can attempt to disable analog and technological traps with the Engineering skill, magical traps with the Mysticism skill, and most hybrid traps with either skill. Some traps require other skills to deactivate—for example, if a trap is controlled by a computer system’s control module, characters must use the Computers skill to hack the control module to prevent the computer from triggering the trap. For some traps, more than one skill can be used to disable them; often, these skill checks have different DCs and different results (which may not entirely disable the trap). Other traps require multiple skill checks to completely deactivate. The skills required to disable a trap (and the method of deactivation) are listed in the trap’s stat block.  
   
 A character must first detect a trap in order to attempt to disable it, since only through observing particular details about the trap can the character know the proper countermeasures. Even if a trap has already been triggered, characters can still attempt to deactivate the trap. Some traps no longer pose a danger once they’ve been triggered, but the PCs might be able to stop the trap’s ongoing effects, if any. Other traps might not have ongoing effects, but reset over a period of time; characters can still attempt to disable the trap during this time.  
 
-# GAINING EXPERIENCE
+# Gaining Experience
 
-**Source** _Starfinder Core Rulebook pg. 410_  
+**Source**:: _Starfinder Core Rulebook pg. 410_  
 Characters gain experience points (XP) for overcoming a trap, whether they disable it, detect and then avoid it, or simply endure its effects. The XP for a trap is equal to the XP for a monster of the same CR (see Table 11–3: Experience Point Awards on page 390).  
 
-# ELEMENTS OF A TRAP
+# Elements of a Trap
 
-**Source** _Starfinder Core Rulebook pg. 410_  
+**Source**:: _Starfinder Core Rulebook pg. 410_  
 Traps are presented in stat blocks with the following information; entries marked “optional” appear only if relevant.
 
 -   **Name and CR**: This shows the trap’s name and CR.
@@ -57,9 +57,9 @@ Traps are presented in stat blocks with the following information; entries marke
 
   
 
-# DESIGNING A TRAP
+# Designing a Trap
 
-**Source** _Starfinder Core Rulebook pg. 411_  
+**Source**:: _Starfinder Core Rulebook pg. 411_  
 To design a new trap, decide what CR you want the trap to have and consult Table 11–14: Trap Statistics on page 412 for guidance on the various statistics of a trap at that CR. These are only guidelines, however. Feel free to adjust a trap’s statistics, though you should avoid changing these numbers to values corresponding to a CR more than 2 higher or lower than the trap’s CR.
 
 -   **Perception and Disable DCs**: All traps require Perception and disable DCs. If the trap requires multiple checks to disable, use the DC for a trap with a CR 2 lower than your trap. If the trap has a bypass mechanism, use this DC for detecting and disabling the bypass as well.
@@ -70,7 +70,7 @@ To design a new trap, decide what CR you want the trap to have and consult Table
 -   **Attack and Damage**: The table lists the trap’s attack bonus and its average damage, if any, but consider reducing this damage if a trap has multiple attacks or affects multiple targets.
 -   **Save DC**: If a trap affects its victims by means of an area effect, a spell, a poison, or another special ability, use the listed DC for the appropriate saving throw.
 
-# TRAP STATISTICS
+# Trap Statistics
 
 | CR  | Perception DC | Disable DC | Initiative | EAC/KAC | Good Save | Poor Save | HP  | Attack | Damage   | Save DC |
 |-----|---------------|------------|------------|---------|-----------|-----------|-----|--------|----------|---------|
@@ -96,7 +96,7 @@ To design a new trap, decide what CR you want the trap to have and consult Table
 | 19  | 48            | 43         | +27        | 32/36   | +22       | +19       | 413 | +34    | 16d12+60 | 26      |
 | 20  | 50            | 45         | +28        | 34/38   | +23       | +20       | 463 | +35    | 16d12+75 | 27      |
 
-# EXAMPLE TRAPS
+# Example Traps
 
 | Trap                      | CR  |
 | ------------------------- | --- |

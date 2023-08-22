@@ -6,9 +6,9 @@ Tier: 7
 Type: Large destroyer
 ---
 
-# VINDICAS PUNISHER
+# Vindicas Punisher
 
-**Source** _Near Space pg. 122_  
+**Source**:: _Near Space pg. 122_  
 Large destroyer, **Tier** 7 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** 2  
 **AC** 22; **TL** 21  
@@ -18,7 +18,7 @@ Large destroyer, **Tier** 7
 **Attack (Turret)** coilgun (4d4; 20 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** basic computer, budget short-range sensors, crew quarters (common), mk 6 armor, mk 6 defenses; **Expansion Bays** brig, cargo hold, guest quarters (2, common); **Complement** 6 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Engineering +14 (7 ranks), gunnery +12 (7th level), Intimidate +14 (7 ranks), Piloting +14 (7 ranks)  
 **Engineer** Engineering +14 (7 ranks)  
@@ -26,6 +26,6 @@ Large destroyer, **Tier** 7
 **Pilot** Piloting +19 (7 ranks)  
 **Science Officer** Computers +14 (7 ranks)
 
-## DESCRIPTION
+## Description
 
 Punishers are fast and relatively sleek, allowing them to chase down high-value targets no matter where their prey flies.

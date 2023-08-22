@@ -5,8 +5,10 @@ Prerequisites: Intimidate 3 ranks.
 tags: 
 Type: General Feat
 ---
-# FRIGHTENING INJECTION
-**Source** _Character Operations Manual pg. 115_  
+
+# Frightening Injection
+
+**Source**:: _Character Operations Manual pg. 115_  
 You accompany your injections with a promise of terrible effects that shakes your target’s resolve.
 
 **Prerequisites**: Intimidate 3 ranks.

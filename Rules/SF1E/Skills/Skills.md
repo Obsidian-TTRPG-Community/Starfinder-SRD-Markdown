@@ -2,11 +2,12 @@
 aliases: 
 tags: 
 ---
-# SKILLS
+
+# Skills
 
 Whether you are a battle-hardened soldier who can freeze a foe’s blood with a glance, a garrulous envoy who can blend into any social situation, or a brilliant technomancer with knowledge about every subject in the galaxy, skills represent some of your most fundamental abilities. At 1st level, you start with a number of skill ranks determined by your class, representing your initial training, and you gain more skill ranks as you gain levels, allowing you to improve in skills you already have or gain new ones.  
 
-# ACQUIRING SKILLS
+# Acquiring Skills
 
 **Source** _Starfinder Core Rulebook pg. 132_  
 Each level, including 1st level, you gain a number of skill ranks. The number you gain is determined by the class chosen for that level (as noted on the chart below), adjusted by your Intelligence modifier (though you always gain a minimum of 1 skill rank per level). For instance, if you create a 1st-level technomancer with an Intelligence score of 18, you gain 8 skill ranks per level: 4 ranks from the technomancer class and 4 more ranks because your Intelligence modifier is +4.  
@@ -28,7 +29,7 @@ Each class also features a number of favored skills, called class skills (see Ta
 
   
 
-# SKILL CHECKS
+# Skill Checks
 
 **Source** _Starfinder Core Rulebook pg. 132_  
 No matter how skilled you become, when using skills, success is rarely certain. To determine whether you succeed when using a skill, you attempt a skill check: roll 1d20 and add your total skill bonus to the roll. Your total skill bonus includes the following.
@@ -58,7 +59,7 @@ The table that begins the following page summarizes the differences between trai
 
 \* Armor check penalties apply to most Strength- and Dexterity-based skill checks.
 
-### TAKE 10
+### Take 10
 
 Most of the time, you attempt skill checks while under pressure or during times of great stress. Other times, the situation is more favorable, making success more certain.  
   
@@ -66,17 +67,17 @@ When you are not in immediate danger or distracted, the GM might allow you to ta
   
 Unless you have an ability that states otherwise, you cannot take 10 during a combat encounter. Also, you can’t take 10 when the GM rules that a situation is too hectic or that you are distracted, and taking 10 is almost never an option for a check that requires some sort of crucial effect as a key part of the adventure’s story.
 
-### TAKE 20
+### Take 20
 
 When you have plenty of time to devote to a skill’s task and that task has no adverse effect upon failure, the GM might rule that you can take 20 on that skill check. This is similar to taking 10, but instead of assuming your roll was a 10, you assume it’s a 20.  
   
 Taking 20 means you are making multiple attempts at the task until you get it right. It also assumes that you are failing many times before you succeed. Taking 20 typically takes 20 times as long as attempting a single check would take (usually 2 minutes for a skill that takes a standard action to perform).
 
-### AID ANOTHER
+### Aid Another
 
 The GM might rule that you can help someone succeed at a skill check by performing the same action and attempting a skill check as part of a cooperative effort. To do so, you must attempt your skill check before the creature you want to help, and if you succeed at a DC 10 check, that creature gains a +2 bonus to his check, as long as he attempts the check before the end of his next turn. At the GM’s discretion, only a limited number of creatures might be able to aid another. You cannot take 10 or take 20 on an aid another check, but you can use aid another to help a creature who is taking 10 or 20 on a check.  
 
-# IDENTIFY CREATURES
+# Identify Creatures
 
 **Source** _Starfinder Core Rulebook pg. 132_  
 You can use certain skills to identify creatures. The skill used to identify each creature type is listed below and in the individual skill descriptions. A successful skill check allows you to recall a useful piece of information about a specific creature, such as its special powers or vulnerabilities. For every 5 points by which the result of your check exceeds the DC, you recall another piece of useful information. You can attempt untrained skill checks to identify a creature if the DC is 10 or less. You can take 20 on a check to identify a creature, but only if you have a means of performing research, such as access to an information network like a planetary infosphere or a downloaded data set (see page 430); this typically takes 2 minutes.  
@@ -114,7 +115,7 @@ The list of creature types below indicates which skill is used to identify each 
 
   
 
-# RECALL KNOWLEDGE
+# Recall Knowledge
 
 **Source** _Starfinder Core Rulebook pg. 133_  
 You can use certain skills to recall knowledge about specific topics. The topics a given skill relates to are detailed in the individual skill descriptions. A successful skill check allows you to answer questions about the topic in question. You can attempt untrained skill checks to recall knowledge if the DC is 10 or less. You can take 20 on this check, but only if you have a means of researching, such as access to an information network or downloaded data set (see page 430); this typically takes 2 minutes.  
@@ -135,7 +136,7 @@ The specific topics and the skills you use to recall knowledge about them are li
 
   
 
-# SKILLS AND STARSHIP COMBAT
+# Skills and Starship Combat
 
 **Source** _Starfinder Core Rulebook pg. 134_  
 Whether you’re attempting a complicated flying maneuver, patching a power core, or scanning enemy vessels, skills are a vital part of the system that governs combat between starships.  
@@ -152,7 +153,7 @@ When choosing your skills, you might want to keep in mind which role you’d lik
 
   
 
-# SKILL DESCRIPTIONS
+# Skill Descriptions
 
 **Source** _Starfinder Core Rulebook pg. 134_  
 This section explains each skill, including common uses and tasks, typical modifiers, and sometimes even established DCs. Your GM may require or allow you to use skills for tasks other than those listed here. For a complete summary of skills, see Table 5—1 above.  

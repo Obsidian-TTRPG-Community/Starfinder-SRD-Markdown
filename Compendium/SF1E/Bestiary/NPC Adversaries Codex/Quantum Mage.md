@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# QUANTUM MAGE
+
+# Quantum Mage
+
 **XP 4,800**  
 Human mystic  
 N Medium humanoid (human)  
@@ -52,15 +54,15 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### SPATIAL FOLDING (SP)
+#### Spatial Folding (SP)
 
 The quantum mage can teleport up to maximum 240 feet per day as a standard action. He may continue to teleport until his daily amount is exhausted. This teleportation must be used in 5-foot increments and this movement does not provoke an attack of opportunity. He may bring other willing and adjacent creatures that he is aware of but must expend an equal amount of distance for each additional creature.
 
-#### SPATIAL SHIFT (SU)
+#### Spatial Shift (SU)
 
 Three times per day, the quantum mage can teleport to a nearby space as a swift action as if using dimension door. The mage must be able to see the space he moves into and cannot take another creature with him. He can move a maximum of 30 feet.
 
-#### SUPERPOSITION AWARENESS (SU)
+#### Superposition Awareness (SU)
 
 The quantum mage can sense when a creature or object teleports or moves to or from another plane or dimension (for example through the use of spells like ethereal jaunt, plane shift, shadow walk), within a 120-foot radius centered on himself. Furthermore, he knows the approximate direction and distance from himself. This awareness is not blocked by walls or other obstacles unless the area is specifically warded from divination effects and abilities. This ability ceases once the effect ends. For example, the mage may become aware of a creature teleporting into the area, but his ability to sense the creature ends immediately after they arrive. The quantum mage can also sense the ongoing presence of active effects of a similar nature (for example, an active teleportation portal).
 

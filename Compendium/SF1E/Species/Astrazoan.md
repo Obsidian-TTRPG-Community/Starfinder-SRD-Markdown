@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 50_  
+**Source**:: _Interstellar Species pg. 50_  
 
 [[Species_Astrozoan.png|Zeigen!]]
 With unclear origins and no home world to call their own, astrazoans have dispersed throughout the Pact Worlds and beyond to join the galaxy’s cosmopolitan tapestry. However, astrazoans only rarely show their true forms to non-astrazoans. Instead, most live their lives as humans, lashuntas, vesk, and other creatures of the Pact Worlds, preferring a semblance of anonymity and not wanting to shock their neighbors’ humanoid sensibilities with astrazoans’ peculiar appearances. After centuries of Drift travel and trade, most humanoids are accustomed to extremely varied life-forms, yet the astrazoan tradition of polite secrecy persists.  

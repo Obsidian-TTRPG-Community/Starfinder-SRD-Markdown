@@ -5,7 +5,7 @@ Benefit: When performing a race action with a vehicle, you can attempt a Pilotin
 In addition, when you force a vehicle to race unsafely, you can roll twice for the Piloting check and take the better result. If you still fail this check, you stop short (as the pilot action), changing the vehicle’s heading up to 90 degrees rather than crashing or spinning out.
 ---
 # STREET RACER
-**Source** _Galaxy Exploration Manual pg. 91_  
+**Source**:: _Galaxy Exploration Manual pg. 91_  
 You’ve picked up the talent of drifting around tight city curves and can perform this maneuver whenever you pilot a vehicle.
 
 **Prerequisites**: Piloting 2 ranks.

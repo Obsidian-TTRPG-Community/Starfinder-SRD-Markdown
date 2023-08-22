@@ -9,16 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# SEE INVISIBILITY
 
-**Source** _Starfinder Core Rulebook pg. 376_  
-**Classes** Mystic 2, Precog 2, Technomancer 2, Witchwarper 2  
-**School** divination  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** 10 minutes/level (D)  
+# See Invisibility
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 376_  
+**Classes**:: Mystic 2, Precog 2, Technomancer 2, Witchwarper 2  
+**School**:: divination  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: 10 minutes/level (D)  
+
+## Description
 
 You can see any invisible or ethereal objects or beings within your range of vision, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible and invisible or ethereal creatures.
 

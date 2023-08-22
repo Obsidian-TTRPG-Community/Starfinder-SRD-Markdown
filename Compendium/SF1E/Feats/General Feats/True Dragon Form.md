@@ -5,8 +5,10 @@ Prerequisites: 15th level, Cha 17, Major Draconic Form
 tags: 
 Type: General Feat
 ---
-# TRUE DRAGON FORM
-**Source** _Interstellar Species pg. 87_  
+
+# True Dragon Form
+
+**Source**:: _Interstellar Species pg. 87_  
 You can transform into a truly awe-inspiring dragon.
 
 **Prerequisites**: 15th level, Cha 17, Major Draconic Form

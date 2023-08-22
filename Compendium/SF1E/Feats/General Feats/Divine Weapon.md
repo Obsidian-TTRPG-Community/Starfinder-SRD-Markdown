@@ -5,8 +5,10 @@ Prerequisites: Worship a deity of an alignment within one step of your own align
 tags: 
 Type: General Feat
 ---
-# DIVINE WEAPON
-**Source** _Galactic Magic pg. 99_  
+
+# Divine Weapon
+
+**Source**:: _Galactic Magic pg. 99_  
 You gain bonuses to your deity's favorite weapon.
 
 **Prerequisites**: Worship a deity of an alignment within one step of your own alignment.

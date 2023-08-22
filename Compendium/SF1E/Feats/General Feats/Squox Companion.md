@@ -8,7 +8,7 @@ Your Tiny squox companion can share your space and end its movement there. Outsi
 In addition, your adorable companion is distracting. While it is in your space, you gain a +1 insight bonus to Bluff checks to feint. If your squox is in your space or within 10 feet of you, you can instead gain this insight bonus to Bluff checks to create a diversion, which can allow you or your squox to attempt to hide (your choice of which when you attempt the Bluff check).
 ---
 # SQUOX COMPANION
-**Source** _Alien Archive 2 pg. 119_  
+**Source**:: _Alien Archive 2 pg. 119_  
 Your squox is a well-trained companion.
 
 **Prerequisites**: You own a trained squox that has an attitude of friendly or helpful toward you.

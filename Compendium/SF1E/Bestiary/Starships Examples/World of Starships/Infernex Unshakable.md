@@ -5,7 +5,9 @@ tags:
 Tier: 2
 Type: Tiny interceptor
 ---
-# INFERNEX UNSHAKABLE
+
+# Infernex Unshakable
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InfernexUnshakable.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny interceptor, **Tier** 2
 **Attack (Forward)** light particle beam (3d6; 10 hexes), light ship tether (2d6; 1 hex)  
 **Power Core** Pulse Gray (100 PCU); **Drift Engine** Signal Booster; **Systems** advanced short-range sensors, crew quarters (common), mk 5 armor, mk 5 defenses, mk 2 mononode computer, security (biometric locks, computer countermeasures [alarm, feedback]); **Modifiers** +2 to any one check per round, +4 Computers, Piloting +1; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** Computers +7 (2 ranks), Engineering +7 (2 ranks), gunnery +6 (2nd level), Piloting +12 (2 ranks)
 
-## DESCRIPTION
+## Description
 
 Whereas Burning Nail-class vessels are the Hellknights’ favored light fighters for pitched battles, the Unshakable’s design is specialized for smaller bounty-hunting operations, surgical strikes in dangerous territory, and solo scouting missions to identify new threats. With substantial armor for such a small ship, the Unshakable is able to close distance rapidly and assault even light freighters—a signature tactic. Standard operating procedure for such missions involves the Hellknight pilot then boarding their prey to subdue the crew singlehandedly.  
   

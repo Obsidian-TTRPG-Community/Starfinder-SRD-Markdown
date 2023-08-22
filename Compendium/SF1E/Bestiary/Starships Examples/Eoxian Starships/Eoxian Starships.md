@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# EOXIAN STARSHIPS
+
+# Eoxian Starships
+
 Unlike many Pact Worlds, Eox has never fully offered its ship technology to the wider market—nor is anyone particularly eager for them to. That’s because Eoxian ships are grotesque, baroque blendings of technology and strange magic, designed specifically for the comfort of their undead users. Atmosphere is an unnecessary inconvenience for most elebrians, and thus many Eoxian ships are open to the void in places, their hulls shaped like the rib cages of great beasts. (In some cases, this is actual truth, with walls or ornaments built from the bones of some of the largest creatures to wander the planes, but more often these frames are made of hardened ceramic or nanocarbon.) Unshielded reactors flood engineering levels with devastating radiation, galleys and sleeping quarters are rarely required, and skeletal repair crews and fire teams skitter along the outer hulls even in the hottest dogfights without so much as a safety line, heedless of the void yawning above their heads. Small wonder, then, that only the Bone Sages and their subjects would fly such monstrosities.  
   
 Of all the starship styles presented here, Eoxian-style ships are those most strongly associated with the race that developed them, and they are primarily owned by elebrians and other undead, whether they be government officials, private citizens, or members of the rogue Corpse Fleet—the exiled branch of the Eoxian Navy that now preys on citizens of the Pact Worlds. Yet, Eoxian ships retrofitted to accommodate living creatures are favored by some criminal organizations and mercenaries looking to intimidate their foes, or smugglers hoping that no one will bother—or dare—to interfere with what appears to be a Bone Sage courier ship. And of course, like any sensible plutocrats, the Bone Sages maintain ships capable of safely transporting and defending their many living servants and business partners from other worlds.  

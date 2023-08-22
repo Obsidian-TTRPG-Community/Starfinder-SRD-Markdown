@@ -5,8 +5,10 @@ Prerequisites: Cha 19, Bluff 10 ranks.
 tags: 
 Type: General Feat
 ---
-# DEADLY BOAST
-**Source** _Character Operations Manual pg. 113_  
+
+# Deadly Boast
+
+**Source**:: _Character Operations Manual pg. 113_  
 You can make an upcoming attack or effect sound so terrifying and dangerous that its targets are actually more likely to be affected by it.
 
 **Prerequisites**: Cha 19, Bluff 10 ranks.

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# COMBAT FEATS
+
+# Combat Feats
+
 ``` dataview
 TABLE
 Prerequisites, Benefit

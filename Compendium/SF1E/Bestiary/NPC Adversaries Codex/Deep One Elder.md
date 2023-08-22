@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# DEEP ONE ELDER
+
+# Deep One Elder
+
 **XP 38,400**  
 CE Gargantuan monstrous humanoid (aquatic)  
 **Init** +5; **Senses** darkvision 60 ft., low-light vision; Perception +24  
@@ -45,27 +47,27 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### DEEP DWELLER (EX)
+#### Deep Dweller (EX)
 
 Deep ones are immune to damage from water pressure; their bodies are capable of instantly adjusting to different water depths or even the surface with ease.
 
-#### DEVASTATING STRIKE (EX)
+#### Devastating Strike (EX)
 
 An elder deep one ignores the first 10 points of hardness when it damages an object with its claws. A creature struck with a critical hit from an elder deep one’s claw must succeed at a DC 22 Fortitude save or be stunned for 1 round. The save DC is Strength– based.
 
-#### DEIFIC (SU)
+#### Deific (SU)
 
 An elder deep one can grant divine spells to its worshipers. Granting spells does not require any specific action on the elder deep one’s behalf. Elder deep ones grant access to the domains of Chaos, Evil, Madness, and Water. Their symbols vary, but their favored weapon is the claw.
 
-#### IMMORTAL (EX)
+#### Immortal (EX)
 
 A deep one does not age. Barring death from violence, disease, or misadventure, a deep one can live forever. Deep ones are immune to effects that cause magical aging.
 
-#### MIND REFLECTION (EX)
+#### Mind Reflection (EX)
 
 Any mind-affecting effect that fails to affect an elder deep one is reflected back on the source, treating the elder deep one as the controller and source of the spell.
 
-#### STAGGERING PRESENCE (EX)
+#### Staggering Presence (EX)
 
 This ability functions as frightful presence, except that a creature that fails its save is also staggered as long as it remains in the area of effect, and for an additional 1d6 rounds after leaving that area. This is a mind-affecting fear effect.
 

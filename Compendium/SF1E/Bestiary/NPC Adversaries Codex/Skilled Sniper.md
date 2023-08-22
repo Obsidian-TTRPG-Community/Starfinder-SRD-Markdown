@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# SKILLED SNIPER
 
+# Skilled Sniper
 
 **XP 600 each**  
 Half-elf operative  

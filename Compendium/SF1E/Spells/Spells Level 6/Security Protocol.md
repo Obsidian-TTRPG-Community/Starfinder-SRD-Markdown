@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# SECURITY PROTOCOL
 
-**Source** _Character Operations Manual pg. 140_  
-**Classes** Technomancer 6  
-**School** abjuration  
-**Casting Time** 30 minutes  
-**Range** see text  
-**Targets** one building or starship up to 200 sq. ft./level in size; see text (D)  
-**Duration** 2 hours/level  
-**Saving Throw** see text; **Spell Resistance** see text
+# Security Protocol
 
-## DESCRIPTION
+**Source**:: _Character Operations Manual pg. 140_  
+**Classes**:: Technomancer 6  
+**School**:: abjuration  
+**Casting-Time**:: 30 minutes  
+**Range**:: See Text  
+**Targets**:: one building or starship up to 200 sq. ft./level in size; see text (D)  
+**Duration**:: 2 hours/level  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: see text
+
+## Description
 
 You protect one building or starship you are within by outfitting it with various technological and magical effects. This spell can protect a contiguous area delineated by walls or other enclosed structures, such as part of a large indoor complex, but you must designate the area along the walls or other significant partitions that separate rooms and corridors—the area cannot protect only part of any room or hallway.  
 Once cast, this spell creates the following effects. Effects that allow saving throws or spell resistance say so. Spell effects are treated as if you had cast that spell at your caster level, have a save DC equal to this spell’s, and last as long as this spell does.  

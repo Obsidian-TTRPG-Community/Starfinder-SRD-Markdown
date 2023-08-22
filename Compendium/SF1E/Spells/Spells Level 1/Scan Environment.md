@@ -9,17 +9,18 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# SCAN ENVIRONMENT
 
-**Source** _Character Operations Manual pg. 23_  
-**Classes** Mystic 1, Precog 1, Technomancer 1, Witchwarper 1  
-**School** divination  
-**Casting Time** 1 minute  
-**Range** 1 mile/level  
+# Scan Environment
+
+**Source**:: _Character Operations Manual pg. 23_  
+**Classes**:: Mystic 1, Precog 1, Technomancer 1, Witchwarper 1  
+**School**:: divination  
+**Casting-Time**:: 1 minute  
+**Range**:: 1 mile/level  
 **Area** emanation with radius of 1 mile/level centered on you  
-**Duration** concentration, up to 1 minute/level  
+**Duration**:: concentration, up to 1 minute/level  
 
-## DESCRIPTION
+## Description
 
 You analyze the naturally occurring environment in the area, learning the state of the atmosphere, biomes, and gravity. You do not learn the location of or direction to these conditions, only their presence. However, after concentrating for a time, you can learn the following additional information.
 

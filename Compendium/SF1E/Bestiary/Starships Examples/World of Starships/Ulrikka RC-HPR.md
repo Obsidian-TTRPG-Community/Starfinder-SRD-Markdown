@@ -5,7 +5,9 @@ tags:
 Tier: 4
 Type: edium transport 
 ---
-# ULRIKKA RC-HPR
+
+# Ulrikka Rc-hpr
+
 > [!infobox|locr n-th clean]
 >  [[Starship_UlrikaRCHPR.jpg|Spielern zeigen!]]
 > 
@@ -19,14 +21,14 @@ Medium transport, **Tier** 4
 **Attack (Turret)** linked mining lasers (4d6; 5 hexes)  
 **Power Core** Pulse Green (150 PCU); **Drift Engine** none; **Systems** advanced short-range sensors, crew quarters (common), mk 4 armor, mk 4 defenses, mk 2 mononode computer; **Expansion Bays** cargo holds (3), escape pods, physical science lab; **Modifiers** +2 to any 1 check per round, +4 Computers (sensors only), +2 Piloting; **Complement** 4 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Computers +10 (4 ranks), Diplomacy +10 (4 ranks), gunnery +9 (4th level), Intimidate +10 (4 ranks), Piloting +12 (4 ranks)  
 **Engineer** Engineering +15 (4 ranks)  
 **Gunner** gunnery +9 (4th level)  
 **Pilot** Piloting +12 (4 ranks)
 
-## DESCRIPTION
+## Description
 
 The RC-HPR, colloquially known as the rock hopper, is a stockstandard dwarven mining ship that’s been widely adopted by other operations since. Although sizable, the starship’s small enough to fit into (and more importantly, get out of) tight spots in crowded asteroid fields, jagged planetoid surfaces, and other dangerous regions bearing valuable minerals. Its combination of agility and pokey speed have earned the RC-HPR—an abbreviation for Retrieval Craft (High-Potential Resources)—its endearing and somewhat derisive name. Rock hoppers are so dependable and efficient that many expeditions use much larger Drift-capable ships to transport them to job sites in Near Space or the Vast, often at great expense. Such ventures generate considerable buzz, and the payloads are inevitably worth fortunes. At least one such expedition famously disappeared, inspiring treasure hunters to seek the missing trove and its accompanying mining fleet.  
   

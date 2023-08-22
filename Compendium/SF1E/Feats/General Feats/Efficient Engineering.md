@@ -5,8 +5,10 @@ Prerequisites: Int 15, Engineering 5 ranks
 tags: 
 Type: General Feat
 ---
-# EFFICIENT ENGINEERING
-**Source** _Interstellar Species pg. 71_  
+
+# Efficient Engineering
+
+**Source**:: _Interstellar Species pg. 71_  
 Your experience and industriousness enable you to dramatically streamline your crafting projects.
 
 **Prerequisites**: Int 15, Engineering 5 ranks

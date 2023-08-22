@@ -5,7 +5,9 @@ tags:
 Tier: 18
 Type: CN Huge starship ooze  
 ---
-# CEREBREX
+
+# Cerebrex
+
 CN Huge starship ooze, **Tier** 18 
 **Speed** 4; **Maneuverability** perfect (turn 0); **Drift** —  
 **AC** 30; **TL** 27  
@@ -16,19 +18,19 @@ CN Huge starship ooze, **Tier** 18
 **Attack (Starboard)** globules (7d8; 10 hexes)  
 **Attack (Turret)** globules (7d8; 10 hexes), tethers (2d10×10; 10 hexes)
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +31 (18 ranks)  
 **Gunners (5 actions)** gunnery +26 (18th level)  
 **Pilot (1 action)** Piloting +28 (18 ranks)  
 **Science Officer (1 action)** Computers +36 (18 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Intelligence Drain (Su)** Once per combat, instead of taking actions during the engineering phase, a cerebrex can force up to five creatures on a starship within 7 hexes of it to each attempt a DC 25 Will saving throw, taking 2 Intelligence damage on a failure. The cerebrex regains 50 Hull Points for every creature that fails this check. This is a mind-affecting effect.  
   
@@ -44,7 +46,7 @@ CN Huge starship ooze, **Tier** 18
 
 † A cerebrex’s nucleus doesn’t gain critical damage conditions.
 
-## DESCRIPTION
+## Description
 
 From afar, a cerebrex looks like a distant constellation of stars connected by glowing, fiery tethers—but this immense ooze is no stationary star system. Rather, cerebrexes are sentient, space-dwelling oozes that are relatively intelligent. These gargantuan creatures travel the galaxy in search of clusters of sapient life to feast upon. But sapience is more than just a tantalizing beacon for a cerebrex; this ooze has evolved the strange ability to metabolize both the physical matter of its food and a fragment of its prey’s sapience.  
   

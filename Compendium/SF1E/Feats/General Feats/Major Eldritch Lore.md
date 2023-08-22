@@ -5,8 +5,10 @@ Prerequisites: Key ability score 23, Eldritch Lore, Greater Eldritch Lore, Lesse
 tags: 
 Type: General Feat
 ---
-# MAJOR ELDRITCH LORE
-**Source** _Character Operations Manual pg. 116_  
+
+# Major Eldritch Lore
+
+**Source**:: _Character Operations Manual pg. 116_  
 You have learned a broad range of additional powerful magic.
 
 **Prerequisites**: Key ability score 23, Eldritch Lore, Greater Eldritch Lore, Lesser Eldritch Lore, Minor Eldritch Lore, caster level 16th, 16 levels in a class with a class spell list.

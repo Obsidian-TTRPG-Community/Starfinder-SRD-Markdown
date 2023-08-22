@@ -9,13 +9,15 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# DISCHARGE, GREATER
-**Source** _Starfinder Core Rulebook pg. 350_  
-**Classes** Technomancer 6  
-**School** abjuration  
+
+# Discharge, Greater
+
+**Source**:: _Starfinder Core Rulebook pg. 350_  
+**Classes**:: Technomancer 6  
+**School**:: abjuration  
 **Targets or Area** one creature or technological object, or a 20-ft.-radius burst  
 
-## DESCRIPTION
+## Description
 
 This spell functions as _discharge_, except it can discharge multiple technological objects. You can use it in one of two ways: an area discharge or a targeted discharge.  
   

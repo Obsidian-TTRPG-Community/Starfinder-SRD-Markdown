@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# SPEAK WITH DEAD
 
-**Source** _Starfinder Core Rulebook pg. 378_  
-**Classes** Mystic 3, Precog 3, Witchwarper 3  
-**School** necromancy (language-dependent)  
-**Casting Time** 10 minutes  
-**Range** 10 ft.  
-**Targets** one dead creature  
-**Duration** 1 minute/level  
-**Saving Throw** Will negates, see text; **Spell Resistance** no
+# Speak with Dead
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 378_  
+**Classes**:: Mystic 3, Precog 3, Witchwarper 3  
+**School**:: necromancy (language-dependent)  
+**Casting-Time**:: 10 minutes  
+**Range**:: 10 ft.  
+**Targets**:: one dead creature  
+**Duration**:: 1 minute/level  
+**Saving-Throw**:: Will negates, see text;
+**Spell Resistance**:: No
+
+## Description
 
 You grant the semblance of life to a corpse, allowing it to answer questions. You can ask up to six questions. The corpse’s knowledge is limited to what it knew during life, including the languages it spoke. Answers are brief, cryptic, or repetitive, especially if the creature would have opposed you in life.
 

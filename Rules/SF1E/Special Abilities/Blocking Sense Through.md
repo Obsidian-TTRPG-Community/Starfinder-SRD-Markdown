@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## BLOCKING SENSE THROUGH
+
+## Blocking Sense through
 
 Some sense through abilities (generally those of a magical nature) cannot penetrate specific materials. This is indicated in brackets after the associated sense in the sense through entry in the creature’s statistics. For example, a lycanthrope with sense through (scent \[blocked by silver\]) can smell through walls—but not through even a thin layer of silver.
 

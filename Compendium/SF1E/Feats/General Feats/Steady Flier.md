@@ -5,8 +5,10 @@ Prerequisites: Acrobatics 5 ranks.
 tags: 
 Type: General Feat
 ---
-# STEADY FLIER
-**Source** _Galaxy Exploration Manual pg. 51_  
+
+# Steady Flier
+
+**Source**:: _Galaxy Exploration Manual pg. 51_  
 Through focused training, you can fly through inclement conditions with ease.
 
 **Prerequisites**: Acrobatics 5 ranks.

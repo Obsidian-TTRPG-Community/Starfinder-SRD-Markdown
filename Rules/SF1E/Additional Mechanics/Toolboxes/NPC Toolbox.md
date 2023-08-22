@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# NPC TOOLBOX
+
+# Npc Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 148_  
 Use the following tables to help you generate nonplayer characters quickly.  
@@ -10,7 +11,7 @@ Use the following tables to help you generate nonplayer characters quickly.
 **NPC Quirks:** This table provides memorable characteristics a Starfinder NPC might have, whether they’re an alien a PC is meeting for the first time or they’re a character from a PC’s background (see Step 3: Influential Associate on page 11).  
   
 
-## NPC NAME AND SPEICIES
+## Npc name and Speicies
 
 | D%     | Name       | Species        |
 | ------ | ---------- | -------------- |
@@ -68,7 +69,7 @@ Use the following tables to help you generate nonplayer characters quickly.
   
   
 
-## NPC QUIRKS
+## Npc Quirks
 
 | D%  | Description                                                                         |
 | --- | ----------------------------------------------------------------------------------- |

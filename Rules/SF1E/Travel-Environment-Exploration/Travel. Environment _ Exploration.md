@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# EXPLORATION
+
+# Exploration
 
 Exploration-focused adventures and campaigns often take place on a single uninhabited or previously uncontacted world, or in a system of such worlds. Exploring a world whose inhabitants are willing to interact with outsiders and who have some degree of technological advancement can be as easy as getting the proper permissions to land your starship, buying a map, and booking a guided tour. In such places, you’ll often be able to use a large settlement as a base of operations. There, you might hire guides, purchase or rent terrestrial transportation, and stock up on the necessities of exploration before setting out, as you would in any major settlement of the Pact Worlds.  
 Even without these benefits, you are likely to have enough information from whatever led you to the world in the first place, or from your exploration from orbit, to have a general location from which to begin your exploration. A relatively small terrestrial world still contains uncountable lifetimes’ worth of adventure in its millions of square miles. You’re likely to focus on key areas of interest in your exploration, rather than make a comprehensive mapping of a world’s every rock and tree.  

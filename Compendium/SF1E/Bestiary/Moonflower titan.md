@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Moonflower titan
+# Moonflower Titan
 
 - [cr::16]
 - [combatType::combatant]

@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# CHARM PERSON
 
-**Source** _Starfinder Core Rulebook pg. 342_  
-**Classes** Mystic 1, Witchwarper 1  
-**School** enchantment (charm, mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one humanoid creature  
-**Duration** 1 hour/level  
-**Saving Throw** Will negates; **Spell Resistance** yes
+# Charm Person
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 342_  
+**Classes**:: Mystic 1, Witchwarper 1  
+**School**:: enchantment (charm, mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one humanoid creature  
+**Duration**:: 1 hour/level  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 This charm makes a humanoid creature regard you as its trusted friend and ally (treat the target’s attitude as friendly). If the creature is currently being threatened or attacked by you or your allies, however, it receives a +5 bonus to its saving throw.
 

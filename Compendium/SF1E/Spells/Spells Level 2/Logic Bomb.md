@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# LOGIC BOMB
 
-**Source** _Starfinder Core Rulebook pg. 364_  
-**Classes** Technomancer 2  
-**School** abjuration  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one computer system or module  
-**Duration** 1 day/level or until triggered  
-**Saving Throw** see text; **Spell Resistance** see text
+# Logic Bomb
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 364_  
+**Classes**:: Technomancer 2  
+**School**:: abjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one computer system or module  
+**Duration**:: 1 day/level or until triggered  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: see text
+
+## Description
 
 You infuse one computer system or module with protective energy, inuring it against attempts to access it.
 

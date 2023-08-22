@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# SPELL HUNTER
 
+# Spell Hunter
 
 **XP 2,400**  
 Dwarven soldier  
@@ -44,7 +44,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### CHARGE ATTACK (EX)
+#### Charge Attack (EX)
 
 A dwarven spell hunter can make a charge without the charge penalties and can substitute a bull rush for the melee attack at the end of the charge.
 

@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# CHLORVIAN JUSTICE
+
+# Chlorvian Justice
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 2,400**  

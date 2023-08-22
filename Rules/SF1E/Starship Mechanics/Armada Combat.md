@@ -2,20 +2,21 @@
 aliases: 
 tags: 
 ---
-# ARMADA COMBAT
+
+# Armada Combat
 
 **Source** _Starship Operations Manual pg. 58_  
 When multibillion-credit organizations or nations go to war, standard starship combat quickly becomes too crowded. In armada combat, the PCs control an entire navy and make decisions that affect hundreds or even thousands of lives. PCs can use armadas to handle challenges with extraordinary stakes, from settling a dispute over a moon to defending an entire star system. This section presents rules for these massive combats, with players controlling smaller units within engagements to defeat enemy combatants, protect targets, disable the enemy flagship, or more.  
   
 Armada combat borrows many familiar elements from smaller-scale starship combat, such as navigating a hex grid, movement speed, and PC checks, but also incorporates unique elements to account for this grander scale of starship combat.  
 
-# BUILDING AN ARMADA
+# Building an Armada
 
 **Source** _Starship Operations Manual pg. 58_  
 Each armada is created using the same process. An armada’s tier typically matches the PCs’ average party level, and the armada gains a number of Build Points (BP) based on its tier, with which it acquires fleets and special abilities for those fleets. Each fleet costs a number of BP based on its tier, size, and special abilities, all of which contribute to the fleet’s power level. Except at the GM’s discretion, the maximum tier of any fleet in an armada is the armada’s tier + 1. Appoint one of these fleets as the armada’s flagship (page 60), which provides the armada additional benefits.  
   
 
-### TABLE 2–14: ARMADA BUILD POINTS
+### Table 2–14: Armada Build Points
 
 | TIER | ARMADA BUILD POINTS | TIER | ARMADA BUILD POINTS |
 | ---- | ------------------- | ---- | ------------------- |
@@ -32,12 +33,12 @@ Each armada is created using the same process. An armada’s tier typically matc
 
   
 
-# CHALLENGES
+# Challenges
 
 **Source** _Starship Operations Manual pg. 58_  
 Most armada encounters should be against armadas of lower tiers, as evenly matched armadas are likely to both suffer catastrophic damage. Use the following table as a guideline.
 
-### TABLE 2–15: CALCULATING ARMADA CHALLENGE
+### Table 2–15: Calculating Armada Challenge
 
 | DIFFICULTY  | OPPOSITION ARMADA TIER |
 | ----------- | ---------------------- |
@@ -51,7 +52,7 @@ Most armada encounters should be against armadas of lower tiers, as evenly match
   
 **XP Awards:** PCs should earn experience points for defeating enemy armadas, following the same rules as for earning XP for starship combat (Core Rulebook 390).  
 
-# BUILDING A FLEET
+# Building a Fleet
 
 **Source** _Starship Operations Manual pg. 58_  
 The statistics and definitions below define a fleet’s capabilities.  
@@ -84,7 +85,7 @@ The statistics and definitions below define a fleet’s capabilities.
   
 **Special Abilities:** These are the fleet’s additional properties that modify its statistics or provide additional options in combat. Most special abilities cost additional BP and can be applied only to particular fleet types, as shown in Table 2–18 on page 60.
 
-### TABLE 2–16: FLEET COSTS
+### Table 2–16: Fleet Costs
 
 | TIER | SMALL BP COST | MEDIUM BP COST | LARGE BP COST |
 | ---- | ------------- | -------------- | ------------- |
@@ -109,7 +110,7 @@ The statistics and definitions below define a fleet’s capabilities.
 | 19   | 58            | 77             | 95            |
 | 20   | 60            | 80             | 100           |
 
-### TABLE 2–17: FLEET DAMAGE
+### Table 2–17: Fleet Damage
 
 | TIER | SMALL DAMAGE | MEDIUM DAMAGE | LARGE DAMAGE |
 | ---- | ------------ | ------------- | ------------ |
@@ -136,53 +137,53 @@ The statistics and definitions below define a fleet’s capabilities.
 
   
 
-## BASE FLEET CLASSES
+## Base Fleet Classes
 
 **Source** _Starship Operations Manual pg. 59_  
 A fleet’s class establishes what types of starships comprise it, as well as its base statistics.  
 
-### CAPITAL-CLASS FLEET
+### Capital-class Fleet
 
 **Source** _Starship Operations Manual pg. 59_  
 Consisting of a single immense starship, a capital fleet boasts heavy armor and utterly devastating weapons. However, these ponderous starships are slow to maneuver, and they struggle to fend off tiny attackers.
 
-### CAPITAL FLEET
+### Capital Fleet
 
 **Speed** 4 hexes; **Maneuverability** average (+0 Piloting, turn 2)  
 **Strong** destroyer; **Weak** fighter  
-**Range** 5 hexes  
+**Range**:: 5 hexes  
 **Special Ability Access:** array, damage threshold, EMP, flagship, point defense, self-destruct, superweapon  
 
-### DESTROYER-CLASS FLEET
+### Destroyer-class Fleet
 
 **Source** _Starship Operations Manual pg. 59_  
 Consisting of a handful of Large or larger starships, a destroyer-class fleet balances raw firepower and armor with maneuverability and versatility. Destroyer fleets often boast an array of mid-sized weapons well-suited for eliminating numerous, smaller targets.
 
-### DESTROYER FLEET
+### Destroyer Fleet
 
 **Speed** 5 hexes; **Maneuverability** good (+1 Piloting, turn 1)  
 **Strong** fighter; **Weak** capital  
-**Range** 4 hexes  
+**Range**:: 4 hexes  
 **Special Ability Access:** array, boarders, EMP, flagship, gravity mines, point defense, self-destruct  
 
-### FIGHTER-CLASS FLEET
+### Fighter-class Fleet
 
 **Source** _Starship Operations Manual pg. 59_  
 Consisting of a dozen or more Medium or smaller starships, a fighter squadron is unparalleled in speed and agility. The fighters’ numbers can quickly overwhelm larger targets.
 
-### FIGHTER FLEET
+### Fighter Fleet
 
 **Speed** 6 hexes; **Maneuverability** perfect (+2 Piloting, turn 0)  
 **Strong** capital; **Weak** destroyer  
-**Range** 3 hexes  
+**Range**:: 3 hexes  
 **Special Ability Access:** agile, boarders, bombers, EMP, flagship, interceptors, self-destruct  
 
-## SPECIAL ABILITIES
+## Special Abilities
 
 **Source** _Starship Operations Manual pg. 59_  
 When creating or upgrading an armada, you can enhance one or more fleets with special abilities to expand their abilities or shore up their weaknesses. Each special ability increases a fleet’s BP cost by the amount listed, and a fleet can add only those special abilities allowed by its fleet type.
 
-### TABLE 2–18: SPECIAL ABILITIES
+### Table 2–18: Special Abilities
 
 | SPECIAL ABILITY  | BP COST | FLEET TYPE         |
 | ---------------- | ------- | ------------------ |
@@ -222,7 +223,7 @@ When creating or upgrading an armada, you can enhance one or more fleets with sp
   
 **Superweapon:** When attacking, this fleet can activate a superweapon that takes a –2 penalty to its gunnery check but, if it hits, deals additional damage equal to the fleet’s tier and critical damage. Once activated, a superweapon can’t be fired again until the end of the next round.  
 
-# OFFICERS
+# Officers
 
 **Source** _Starship Operations Manual pg. 60_  
 In armada combat, the PCs are officers who direct their fleets, and they can fill major roles to influence the encounters in special ways. Each officer must be assigned to a specific fleet in the armada. A fleet can support any number of officers (though never more than one of any role at a time), and a fleet does not need an officer to function. An officer grants their assigned fleet a passive benefit based on their officer bonus (see below), and each officer can also perform one special action per round to affect a fleet or the battlefield. Officers who perform the direct, scan, target, or taunt actions during the helm phase do so immediately before or after moving the fleet to which they’re assigned.  
@@ -235,7 +236,7 @@ For armada combat checks that an officer must attempt to perform special actions
   
 **Changing Roles:** At the beginning of each round, any officers can change their roles, though an armada can have only one admiral, and a fleet can have only one of any given officer role. An officer can move to an adjacent fleet by expending their action at the beginning of the engineering phase.  
 
-## ADMIRAL
+## Admiral
 
 **Source** _Starship Operations Manual pg. 60_  
 You direct the overall flow of battle, delivering key orders, timing fleet movements, and providing motivation at opportune moments. The role of admiral does not necessarily mean that you outrank the other officers or control their actions, but as the armada’s leader, you are in a position to influence your forces in unique ways. An armada can only have a single admiral.  
@@ -250,7 +251,7 @@ You direct the overall flow of battle, delivering key orders, timing fleet movem
   
 **Taunt (Helm Phase):** You harangue or mislead an enemy fleet. Attempt a check against an enemy fleet’s AC. If you succeed, that fleet takes a penalty equal to 1 + half your officer bonus to all checks until the beginning of the next helm phase. Whether or not you succeed, you can’t successfully taunt that fleet again for the rest of the combat.  
 
-## CHIEF CASTER
+## Chief Caster
 
 **Source** _Starship Operations Manual pg. 61_  
 You and your crew oversee the mystical rites of your fleet.  
@@ -265,7 +266,7 @@ You and your crew oversee the mystical rites of your fleet.
   
 **Precognition (Engineering Phase):** You and your crew predict enemy movements. Attempt a DC 10 flat check. If you succeed, your admiral rolls 1d4 and adds the result to their next check to determine the order in which fleets move during the helm phase.  
 
-## CHIEF ENGINEER
+## Chief Engineer
 
 **Source** _Starship Operations Manual pg. 61_  
 You command your fleet’s engineering corps, oversee repairs, and make crucial calls on when to exceed starships’ recommended performance limits.  
@@ -278,7 +279,7 @@ You command your fleet’s engineering corps, oversee repairs, and make crucial 
   
 **Repair (Engineering Phase):** Choose a fleet and attempt a check against the fleet’s AC. If you succeed, choose one of the fleet’s critical damage conditions; you direct the onboard engineers’ repairs, and the fleet ignores that critical damage condition for 1 round, plus 1 additional round for every 5 by which your check exceeded the fleet’s AC.  
 
-## CHIEF TECHNICIAN
+## Chief Technician
 
 **Source** _Starship Operations Manual pg. 61_  
 You oversee your fleet’s computers and scientists as they direct scanners and hack enemy systems.  
@@ -299,7 +300,7 @@ _3. Officers:_ The names and roles of the fleet’s officers.
   
 **Target (Helm Phase):** Choose an allied fleet and an enemy fleet within range, then attempt a check against the enemy fleet’s AC. If you succeed, until the end of the round, the allied fleet gains a +1 untyped bonus to gunnery checks against the enemy fleet, and the allied fleet’s gunnery checks against the target deal critical damage on a 19 or 20.  
 
-## COMMANDER
+## Commander
 
 **Source** _Starship Operations Manual pg. 62_  
 You oversee a fleet directly, ensuring optimal performance. **Associated Skills:** Diplomacy, Intimidation, or Piloting  
@@ -310,12 +311,12 @@ You oversee a fleet directly, ensuring optimal performance. **Associated Skills:
   
 **Duel (Gunnery Phase):** You direct your starship to engage with an enemy officer’s starship within 3 hexes—or if your target is a capital fleet, you lead your starship in a daring attack on the enemy vessel’s bridge. Attempt a check against the enemy fleet’s AC + 5. You gain a +5 untyped bonus to this check if your armada has identified the fleet’s officers, and you gain an additional +5 untyped bonus if the targeted fleet also uses the duel action against your fleet. If you succeed and your fleet’s attack that round deals damage to the enemy fleet, the target gains the communications critical damage condition (see Table 2–20 until the end of the next round. If your attack would deal critical damage to the fleet, one of the fleet’s officers is incapacitated and provides no benefits for the remainder of the combat.  
 
-# RUNNING ARMADA COMBAT
+# Running Armada Combat
 
 **Source** _Starship Operations Manual pg. 62_  
 As armada combat begins, the GM decides how far apart the armadas are from each other (3d6+5 hexes is a good default), and typically each armada can determine how its fleets are arranged so long as they maintain this distance from the enemy forces.  
 
-## ROUNDS AND PHASES
+## Rounds and Phases
 
 **Source** _Starship Operations Manual pg. 62_  
 As in starship combat, each round of armada combat is divided into three phases that don’t correspond to an exact amount of time: engineering, helm, and gunnery. Fleets perform specific actions in each phase, and officers can contribute only during certain phases based on their roles.  
@@ -323,7 +324,7 @@ As in starship combat, each round of armada combat is divided into three phases 
 **1. Engineering:** During this phase, fleets prepare for their next maneuvers by repairing damage, restoring shields, and priming weapons. At the end of this phase, each fleet also automatically regains a limited number of SP based on their maximum SP values (see the table below).  
   
 
-### TABLE 2–19: SHIELD POINT REGENERATION
+### Table 2–19: Shield point Regeneration
 
 | MAXIMUM SP | SP REGAINED |
 | ---------- | ----------- |
@@ -339,12 +340,12 @@ As in starship combat, each round of armada combat is divided into three phases 
   
 **3. Gunnery:** During this phase, fleets fire their weapons. Except for free attacks or bonus attacks from the array special ability, each fleet can attack only once per round. Fleets attack in any order, but the effects of gunnery actions are all applied simultaneously at the end of the round, meaning all fleets can fire, even if they take enough damage to be disabled during the phase. After damage is applied, if there are still combatants engaged in the combat, the next round begins, starting with a new engineering phase.  
 
-## MOVING
+## Moving
 
 **Source** _Starship Operations Manual pg. 62_  
 Fleets move and maneuver in much the same way as starships do in standard starship combat (Core Rulebook 317), including the rules for making turns, moving through other fleets (as though they were starships), and measuring firing arcs. Speed functions in the same way but does not provide a modifier to Piloting checks. A fleet can freely attempt one of the following stunts at the listed Piloting DCs as part of its movement: back off (DC = 10 + 1/4 × the fleet’s tier), flip and burn (DC = 15 + 1/4 × the fleet’s tier), flyby (DC = the enemy fleet’s AC), slide (DC = 10 + 1/4 × the fleet’s tier), or turn in place (no check). Any free attack performed during a flyby stunt deals half damage.  
 
-## ATTACKING
+## Attacking
 
 **Source** _Starship Operations Manual pg. 62_  
 When a fleet attacks another fleet, that action is resolved with a gunnery check during the gunnery phase. You make a fleet attack using the following procedure.  
@@ -359,7 +360,7 @@ When a fleet attacks another fleet, that action is resolved with a gunnery check
 
 **3. Deal Damage:** Apply damage from an attack to a fleet’s SP first, and any remaining damage to its HP. A fleet takes more or less damage from enemy fleets against which it’s weak or strong, respectively (page 58). If a fleet is reduced to 0 or fewer HP, it is disabled and floats in the direction it’s facing at half speed until repaired (after combat) or destroyed. If a fleet’s total HP damage exceeds twice its HP, it is destroyed.  
 
-## MORALE AND CRITICAL DAMAGE
+## Morale and Critical Damage
 
 **Source** _Starship Operations Manual pg. 63_  
 Incoming damage can devastate fleets’ group cohesion and equipment, represented by morale and critical damage, respectively.  
@@ -370,7 +371,7 @@ When a fleet is routed, any allied fleets within 2 hexes that have half of their
   
 **Critical Damage:** A fleet takes critical damage whenever a gunnery check results in a natural 20 on the die and the attack deals at least 1 damage to the fleet’s HP. It also takes critical damage when it’s reduced to half its maximum HP. When critical damage is scored, the attacking fleet should roll 1d6 on the table below to determine which system is disrupted.
 
-### TABLE 2–20: CRITICAL DAMAGE
+### Table 2–20: Critical Damage
 
 | D6  | SYSTEM         | EFFECT                                                                                         |
 | --- | -------------- | ---------------------------------------------------------------------------------------------- |

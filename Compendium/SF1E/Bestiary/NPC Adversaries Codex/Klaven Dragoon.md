@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# KLAVEN DRAGOON
 
+# Klaven Dragoon
 
 **XP 38,400**  
 Klaven human soldier  

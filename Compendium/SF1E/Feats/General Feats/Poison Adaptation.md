@@ -5,8 +5,10 @@ Prerequisites: Con 11.
 tags: 
 Type: General Feat
 ---
-# POISON ADAPTATION
-**Source** _Character Operations Manual pg. 117_  
+
+# Poison Adaptation
+
+**Source**:: _Character Operations Manual pg. 117_  
 Your body is especially resistant to toxins.
 
 **Prerequisites**: Con 11.

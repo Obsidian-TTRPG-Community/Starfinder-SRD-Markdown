@@ -5,7 +5,9 @@ tags:
 Tier: 2
 Type: Tiny fighter
 ---
-# INHERITORWORKS BRIGHTSWORD
+
+# Inheritorworks Brightsword
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksBrightsword.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny fighter, **Tier** 2
 **Attack (Aft)** light laser cannon (2d4)  
 **Power Core** Arcus Light (75 PCU); **Drift Engine** Signal Basic; **Systems** advanced mid-range sensors, basic computer, mk 5 defenses, mk 7 armor; **Expansion Bays** none; **Modifiers** +4 Computers; **Complement** 2
 
-### CREW
+### Crew
 
 **Gunner** gunnery +8  
 **Pilot** Computers +11 (2 ranks), Piloting +12 (2 ranks)
 
-## DESCRIPTION
+## Description
 
 An Inheritorworks Brightsword's main weapon—a light plasma cannon— is mounted within a blade-shaped housing in the front of the vessel. This imposing feature acts as a deterrent to enemy ships when they spot a wave of Brightswords streaking through the sky.

@@ -5,7 +5,8 @@ tags:
 Tier: 10
 Type: CN Huge starship aberration
 ---
-# ZOAPHORIX
+
+# Zoaphorix
 
 CN Huge starship aberration, **Tier** 10 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** —  
@@ -17,18 +18,18 @@ CN Huge starship aberration, **Tier** 10
 **Attack (Starboard)** seeds (4d6; 10 hexes)  
 **Attack (Turret)** seeds (4d6; 10 hexes), tentacles (1d8×10; 10 hexes)
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +24 (10 ranks)  
 **Gunners (3 actions)** gunnery +15 (10th level)  
 **Pilot (1 action)** Piloting +20 (10 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Expelled Tendril (Ex)** During the gunnery phase, a zoaphorix can expel one of its tendrils with a deploy drone gunner action; this functions as a weapon with the deployed special property. A zoaphorix tendril has an AC and TL of 22 and 20 HP.  
   
@@ -41,6 +42,6 @@ CN Huge starship aberration, **Tier** 10
   
 **Microbial Infestation (Ex)** A zoaphorix carries myriad bizarre bacteria within its microbiome. These bacteria don’t harm the zoaphorix but can quickly eat through starships. If a zoaphorix deals Hull Point damage to an adjacent target in its forward arc, the target is infected with hull-eating bacteria that deal 3d6 damage per turn.
 
-## DESCRIPTION
+## Description
 
 The few who have escaped a zoaphorix’s clutches have described it as resembling an upturned jellyfish with a mass of knotted, phosphorescent tentacles and smaller tendrils trailing along underneath. A zoaphorix hunts by expelling seeds and some of its tendrils to harry its prey, then attacking with its remaining tentacles to wear away at the vessel’s hull with its microbes. Once expelled, a zoaphorix tendril will grow to a full zoaphorix over several months if not slain. Though a somewhat instinctive predator, a zoaphorix is far from an unintelligent creature. It views itself as the guardian deity of the lesser creatures that make up its form, and it hunts ships it believes will be good “gifts” for its microbiome. Ironically, this tendency often leads it to pick more dangerous fights, risking the very biome it aims to protect. Zoaphorixes are typically solitary, traversing space until they find suitable gifts. Although capable of communicating with their prey, they rarely bother to do so.

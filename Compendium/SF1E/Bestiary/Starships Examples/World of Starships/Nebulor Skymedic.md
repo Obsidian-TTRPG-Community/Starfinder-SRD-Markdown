@@ -5,7 +5,9 @@ tags:
 Tier: 1
 Type: Tiny racer
 ---
-# NEBULOR SKYMEDIC
+
+# Nebulor Skymedic
+
 > [!infobox|locr n-th clean]
 >  [[Starship_NebulorSkymedic.jpg|Spielern zeigen!]]
 > 
@@ -16,12 +18,12 @@ Tiny racer, **Tier** 1
 **Shields** basic 30 (forward 8, port 7, starboard 7, aft 8)  
 **Power Core** Arcus Light (75 PCU); **Drift Engine** Signal Basic; **Systems** basic medium-range sensors, mk 3 armor, mk 3 defenses, mk 1 mononode computer, mk 1 skill expander, virtual intelligence (tier 1); **Expansion Bays** medical bay; **Modifiers** +1 to any 1 check per round, +1 Piloting; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** Engineering +5 (1 rank), Piloting +11 (1 rank)  
 **VI** Computers +7 (1 rank), Medicine +7 (1 rank), Piloting +8 (1 rank)  
 
-## SPECIAL ABILITIES
+## Special Abilities
 
 Dedicated Design The Nebulor Skymedic can support a medical bay despite its base frame not typically accommodating expansion bays.  
   

@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Ikeshti Brood-Minder
+# Ikeshti Brood-minder
 
 - [cr::2]
 - [combatType::spellcaster]

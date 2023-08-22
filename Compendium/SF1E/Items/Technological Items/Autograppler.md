@@ -1,0 +1,31 @@
+---
+aliases: 
+Level: 4 / 9
+price: 
+tags: 
+Type: Technological Item
+---
+
+# Autograppler
+
+The autograppler is a high-power version of the standard tethering device and functions as a grappler, with one key exception: the autograppler houses a powerful winch that can retract its attached cable line, pulling its user along the cable.  
+**Basic (Level 4):** You can toggle the autograppler’s winch to retract its cable as a move action, during which time the items usage rating increases to 3/minute. The device is strong enough to pull a Medium or smaller user up inclines at a speed of 20 feet per round, as if the user were climbing. If used to target a smaller object, the winch can also drag or hoist an object whose bulk is 10 or less; increase your bulk carried by an equal amount while moving an object in this way. If you successfully grapple a creature with the autograppler and activate the winch, you can attempt a reposition combat maneuver against the target with a +2 circumstance bonus, but only to move the target closer to you. If you fail the maneuver’s melee check by 5 or more, you lose your grip on the autograppler, which lands in a space between you and the target 1d4 × 5 feet away from you.  
+**Advanced (Level 9):** This functions as a basic autograppler except its winch is strong enough to pull targets that are Large or smaller. It retracts its attached cable at a speed of 40 feet per round and can hoist objects of up to 20 bulk.  
+
+## Autograppler, Advanced
+
+**Source**:: _Tech Revolution pg. 46_  
+**Level** 9;
+**Price**::  12800  
+**Capacity**:: 40; **Usage** 1/minute  
+**Hands** —; **Bulk** L
+
+---
+
+## Autograppler, Basic
+
+**Source**:: _Tech Revolution pg. 46_  
+**Level** 4;
+**Price**::  2000  
+**Capacity**:: 40; **Usage** 1/minute  
+**Hands** —; **Bulk** L

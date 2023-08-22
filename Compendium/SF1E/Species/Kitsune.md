@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Starfinder Alien Character Deck pg. 0_  
+**Source**:: _Starfinder Alien Character Deck pg. 0_  
 
 [[Species_Kitsune.png|Zeigen!]]
 Kitsune are a species of shapechangers with two forms: an anthropomorphic fox (their true form) and an attractive humanoid. Kitsune have a well-deserved reputation as duplicitous tricksters, but they are good-natured and value friendship and loyalty.  
@@ -26,6 +26,6 @@ As a standard action, a kitsune can assume the appearance of a specific single M
 
 Kitsune gain the following spell-like abilities: 3/day—_dancing lights_, At will—_token spell_. The caster level for these effects is equal to the kitsune’s character level.  
 
-## Low-Light Vision
+## Low-light Vision
 
 Kitsune have low-light vision.

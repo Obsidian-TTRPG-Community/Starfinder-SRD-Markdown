@@ -3,7 +3,9 @@ aliases:
 modifier: 
 tags: 
 ---
-# NPC ADVERSARIES CODEX
+
+# Npc Adversaries Codex
+
 ```dataview
 TABLE cr as "CR", type as "TYPE"
 FROM "Bestiary/NPC Adversaries Codex"

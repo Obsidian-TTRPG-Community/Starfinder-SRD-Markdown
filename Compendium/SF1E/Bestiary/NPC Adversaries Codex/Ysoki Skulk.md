@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# YSOKI SKULK
 
+# Ysoki Skulk
 
 **XP 600**  
 Ysoki operative  
@@ -40,6 +40,6 @@ STATISTICS
 
 STATISTICS
 
-#### DISTRACTING STRIKES (EX)
+#### Distracting Strikes (EX)
 
 A creature that takes damage from a skaardorn skulk’s melee attacks must succeed at a DC 13 Fortitude save or be nauseated for 1 round.

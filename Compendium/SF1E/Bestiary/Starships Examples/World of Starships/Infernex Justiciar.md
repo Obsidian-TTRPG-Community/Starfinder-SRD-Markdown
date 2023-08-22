@@ -5,7 +5,9 @@ tags:
 Tier: 11
 Type: Large destroyer (colony ship)
 ---
-# INFERNEX JUSTICIAR
+
+# Infernex Justiciar
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InfernexJusticar.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Large destroyer (colony ship), **Tier** 11
 **Attack (Turret)** light particle beam (3d6; 10 hexes)  
 **Power Core** Core Gateway Heavy (400 PCU); **Drift Engine** Signal Basic; **Systems** advanced mid-range sensors, crew quarters (good), mk 4 armor, mk 6 defenses, mk 2 duonode computer; **Expansion Bays** brigs (2), cargo holds (4), combat training facility (specialized), drive shadow projector, guest quarters (luxury, 2), launch tube, life boats, medical bay; **Modifiers** +2 to any four checks per round, +2 Computers; **Complement** 18 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Bluff +20 (11 ranks), Diplomacy +20 (11 ranks), Intimidate +25 (11 ranks), Piloting +18 (11 ranks)  
 **Engineer (1 officer, 3 crew)** Engineering +20 (11 ranks)  
@@ -28,7 +30,7 @@ Large destroyer (colony ship), **Tier** 11
 **Pilot (1 officer, 2 crew)** Piloting +20 (11 ranks)  
 **Science Officer (1 officer, 3 crew)** Computers +20 (11 ranks)
 
-## DESCRIPTION
+## Description
 
 Hellknights steadfastly enforce the laws of legitimate states, but where lawlessness reigns, the Justiciar’s jurisdiction begins. At least, that is the precept written into the Hellknights’ codes, and in typical fashion, they follow this mission mercilessly and without exception.  
   

@@ -5,8 +5,10 @@ Prerequisites: Blindsense (scent), blindsight (scent), or Survival 5 ranks
 tags: 
 Type: General Feat
 ---
-# CHEMICAL TRAIL
-**Source** _Interstellar Species pg. 71_  
+
+# Chemical Trail
+
+**Source**:: _Interstellar Species pg. 71_  
 You can imprint and interpret scent-related messages.
 
 **Prerequisites**: Blindsense (scent), blindsight (scent), or Survival 5 ranks

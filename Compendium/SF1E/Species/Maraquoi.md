@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 88_  
+**Source**:: _Interstellar Species pg. 88_  
 
 [[Species_Maraquoi.png|Zeigen!]]
 Native to Marata, one of Bretheda's moons, maraquoi traditionally based their societies around a semi-nomadic, hunter-gatherer lifestyle. Unlike many species common to the Pact Worlds, their genders are centered on a septenary system with all seven participants playing a different role in reproduction. Maraquoi culture therefore developed amid a complex web of kinship and tribal affiliations, which defused violence and drove a deep respect for life in all its forms. However, outside philosophies, technologies, and commercial interests have challenged maraquoi identity and lifestyles, with Marata's denizens recently wrestling with pronounced isolationist sentiment.  
@@ -22,7 +22,7 @@ Maraquoi sense sound through their skin rather than with ears, gaining blindsens
 
 Maraquoi have a climb speed of 20 feet.  
 
-## Low-Light Vision
+## Low-light Vision
 
 Maraquoi have low-light vision.  
 

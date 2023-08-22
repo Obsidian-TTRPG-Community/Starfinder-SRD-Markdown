@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 80_  
+**Source**:: _Interstellar Species pg. 80_  
 
 [[Species_Kalo.png|Zeigen!]]
 Kalos resemble humans covered in tiny scales with bulbous glowing eyes and large fins running down their flanks to connect their arms and legs. They evolved close to the seafloor of the icy Brethedan moon Kalo-Mahoi, clustering around the moon's life-giving geothermal vents. Since the adaptation of Drift travel, kalos have built their cities into fabulous spectacles as a way of welcoming other species to their home. Those kalos who travel abroad often thrive as artists or as mercenaries specialized in underwater and zero-g combat.  

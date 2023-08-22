@@ -9,15 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# MENTAL MUSCLE
-**Source** _Interstellar Species pg. 63_  
-**Classes** Mystic 2, Precog 2, Technomancer 2, Witchwarper 2  
-**School** transmutation  
-**Casting Time** 1 swift action  
-**Range** personal  
-**Duration** 1 round  
 
-## DESCRIPTION
+# Mental Muscle
+
+**Source**:: _Interstellar Species pg. 63_  
+**Classes**:: Mystic 2, Precog 2, Technomancer 2, Witchwarper 2  
+**School**:: transmutation  
+**Casting-Time**:: 1 swift action  
+**Range**:: personal  
+**Duration**:: 1 round  
+
+## Description
 
 You channel your mental mastery as magic that directly reinforces your body, allowing you to perform brief physical feats as acts of willpower. You gain one of the following three benefits of your choice.  
 **Smart Strength:** You apply your Intelligence modifier in place of your Strength modifier for melee or thrown weapon attack rolls, melee damage rolls, ability checks, and skill checks.  

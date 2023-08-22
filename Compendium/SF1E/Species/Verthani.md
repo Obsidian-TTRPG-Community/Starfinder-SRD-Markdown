@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# VERTHANI
+
+# Verthani
+
 > [!infobox|left n-th clean]
 >  [[Verthani.png|Spielern zeigen!]]
 > Verthani, the primary inhabitants of Verces, were some of the earliest humanoids in the Pact Worlds system to build spacefaring vessels—a response to the struggle to survive in the harsh conditions of their tidally locked planet.  
@@ -22,27 +24,27 @@ Verthani culture is a model of independent, democratic cooperation. Forced to li
 **Ability Modifiers** +2 Con, +2 Int, -2 Str  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Verthani are Medium humanoids with the verthani subtype.  
 
-## EASILY AUGMENTED
+## Easily Augmented
 
 Verthani have spent a long time implanting devices into their bodies. A verthani can install an additional augmentation (cybernetics only) into one system that already has an augmentation.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Verthani have low-light vision.  
 
-## SKILL FOCUS
+## Skill Focus
 
 Verthani are highly skilled, though individually they tend to focus on a particular discipline. Verthani gain Skill Focus as a bonus feat.  
 
-## SKIN MIMIC
+## Skin Mimic
 
 Verthani can manipulate the pigments in their skin at will and with astonishing precision, creating bright decorative patterns or deceptive camouflage. A verthani who stays stationary for 1 round gains a +10 racial bonus to Stealth checks (this bonus doesn’t stack with the _invisibility_ spell or similar effects). If the verthani takes any action, he loses this bonus until he once again spends 1 round remaining still. A verthani wearing clothing or armor that covers more than one-quarter of his body can’t use this ability. 
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 7-9 ft.  
 **Average Weight** 200–350 lbs.  

@@ -6,8 +6,10 @@ NoteType: Spell
 tags: 
 Type: Ritual 
 ---
-# SUMMON ELEMENTAL - LEVEL 1
-**Source** _Galactic Magic pg. 93_  
+
+# Summon Elemental - Level 1
+
+**Source**:: _Galactic Magic pg. 93_  
 **Script** varies  
 **Assistants** up to 1 per level of the ritual  
 **Round Length** 10 minutes

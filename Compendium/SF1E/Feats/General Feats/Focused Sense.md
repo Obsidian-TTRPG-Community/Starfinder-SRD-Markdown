@@ -5,8 +5,10 @@ Prerequisites: Blindsense.
 tags: 
 Type: General Feat
 ---
-# FOCUSED SENSE
-**Source** _Character Operations Manual pg. 115_  
+
+# Focused Sense
+
+**Source**:: _Character Operations Manual pg. 115_  
 You can sharpen an imprecise sense to detect things with precision at closer range.
 
 **Prerequisites**: Blindsense.

@@ -5,8 +5,10 @@ Prerequisites: Life Science 5 ranks.
 tags: 
 Type: General Feat
 ---
-# TAILORED SERUM
-**Source** _Character Operations Manual pg. 118_  
+
+# Tailored Serum
+
+**Source**:: _Character Operations Manual pg. 118_  
 You can modify a _serum of healing_ to synergize with your target’s genetic code.
 
 **Prerequisites**: Life Science 5 ranks.

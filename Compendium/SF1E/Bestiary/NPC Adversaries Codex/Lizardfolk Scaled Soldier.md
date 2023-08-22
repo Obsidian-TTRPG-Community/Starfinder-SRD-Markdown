@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# LIZARDFOLK SCALED SOLDIER
+
+# Lizardfolk Scaled Soldier
 
 **XP 1,200**  
 Lizardfolk fighter 4  

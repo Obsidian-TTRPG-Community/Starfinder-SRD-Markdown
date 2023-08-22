@@ -1,0 +1,33 @@
+---
+aliases: 
+Category: Personel Items
+Level: 1
+price: 
+tags: 
+Type: Personel Items
+---
+Maps come in all shapes and sizes, and in varying degrees of quality as well. Most maps are digital files that can be downloaded onto a computer, but physical maps are also available. The prices listed on Table 1–31 are for both digital or physical maps. There are two broad categories of maps: survey and navigational. In addition, maps differ based on the size of the area they cover: local maps depict an area up to 1,000 square miles, regional maps depict an area up to 10,000 square miles, planetary maps depict an entire planet, and system-wide maps depict an entire star system.
+
+A map grants you a circumstance bonus to Survival checks perform the orienteering task or Piloting checks to navigate within the region detailed by the map; survey maps grant a +1 bonus, and navigational maps grant a +2 bonus. You gain the bonus for using a map only if you are traveling directly through the area depicted by the map. For instance, you gain no bonus from a planetary map when navigating on foot through the streets of a settlement, but you would gain the bonus when plotting a course to a different location on that planet.
+
+## Map, Navigational
+
+**Source**:: _Starfinder Armory pg. 130_  
+**Category** Personal Items (Map)  
+**Level**:: 1**Price** 80
+
+### Description
+
+Navigational maps are based on detailed explorations. They are extremely accurate and have in-depth detail on the detailed region’s features.
+
+---
+
+## Map, Survey
+
+**Source**:: _Starfinder Armory pg. 130_  
+**Category** Personal Items (Map)  
+**Level**:: 1**Price** 20
+
+### Description
+
+Survey maps are usually made when an area is first discovered and surveyed. They describe the general shape and features of the region but lack detail and precision.

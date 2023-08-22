@@ -5,8 +5,10 @@ Prerequisites: Diversion.
 tags: 
 Type: General Feat
 ---
-# CONTRIVE
-**Source** _Drift Crisis pg. 85_  
+
+# Contrive
+
+**Source**:: _Drift Crisis pg. 85_  
 You distract a target, allowing an ally to slip their hand into the mark’s pocket.
 
 **Prerequisites**: Diversion.

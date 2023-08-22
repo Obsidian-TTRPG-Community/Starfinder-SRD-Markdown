@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# GHOST SOUND
 
-**Source** _Starfinder Core Rulebook pg. 356_  
-**Classes** Mystic 0, Precog 0, Technomancer 0, Witchwarper 0  
-**School** illusion  
-**Casting Time** 1 standard action  
-**Range** close (25 ft. + 5 ft./2 levels)  
+# Ghost Sound
+
+**Source**:: _Starfinder Core Rulebook pg. 356_  
+**Classes**:: Mystic 0, Precog 0, Technomancer 0, Witchwarper 0  
+**School**:: illusion  
+**Casting-Time**:: 1 standard action  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
 **Effect** illusory sounds  
-**Duration** 1 round/level (D)  
-**Saving Throw** Will disbelief; **Spell Resistance** no
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Will disbelief;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You create a volume of sound that rises, falls, recedes, approaches, or remains fixed. You choose what type of sound this spell creates when casting it and cannot thereafter change the sound’s basic character.
 

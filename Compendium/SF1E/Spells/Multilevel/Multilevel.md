@@ -1,12 +1,15 @@
 ---
-aliases: 
-tags: 
+aliases:
+  - Multilevel Spells
+tags:
+  - sf1e/spells
 ---
 
-# MULTILEVEL SPELLS
+# Multilevel Spells
+
 ``` dataview
 TABLE
 School, Mystic, Precog, Techomancer, Witchwarper
-FROM "Codex/Spells/Multilevel"
+FROM #sf1e/spells/multilevel
 SORT Level ASC
 ```

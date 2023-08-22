@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GNOLL PACKLORD
+
+# Gnoll Packlord
 
 **XP 6,400**  
 CE Medium humanoid (gnoll)  

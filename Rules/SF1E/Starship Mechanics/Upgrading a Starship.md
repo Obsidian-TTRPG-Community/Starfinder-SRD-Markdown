@@ -2,18 +2,19 @@
 aliases: 
 tags: 
 ---
-# UPGRADING A STARSHIP
+
+# Upgrading a Starship
 
 As the PCs go on adventures and gain experience, they need an increasingly powerful starship to face tougher challenges. When the characters’ Average Party Level increases, so does the tier of their starship (see Table 9–1: Starship Base Statistics on page 294). The PCs receive a number of Build Points equal to the Build Points listed for their starship’s new tier – those listed for its previous tier, which they can use to upgrade their starship. For example, a group whose APL increases from 2 to 3 receives 20 BP that the PCs can use to upgrade their starship. This could represent salvage gathered during their exploits, an arrangement with a spacedock, or called-in favors from a wealthy patron. Some GMs might require PCs to visit a safe, inhabited world before they can spend these Build Points, but this shouldn’t be allowed to impact the campaign too much.  
   
 Also remember that at tier 4 and every 4 tiers thereafter, the starship gains an increase in Hull Points equal to the HP increment listed for its base frame.  
 
-# REFITTING SYSTEMS
+# Refitting Systems
 
 **Source** _Starfinder Core Rulebook pg. 305_  
 If the PCs want to alter their starship before receiving additional Build Points (for instance, replacing a weapon with one that costs fewer Build Points or consumes less PCU), they can do so at a friendly spaceport (or safe landing zone) given enough time. If they replace a system or option with one that costs fewer Build Points, they can immediately spend the excess Build Points. Refitting a single system or starship weapon usually takes 1d4 days.  
 
-# UPGRADING SYSTEMS
+# Upgrading Systems
 
 **Source** _Starfinder Core Rulebook pg. 305_  
 PCs with Build Points to spare can replace a system or weapon with one that costs more Build Points by paying only the difference in cost between the two systems. If the cost is the same, the system can be upgraded for free, but the crew should keep the amount of PCU the starship’s power core produces in mind so they don’t exceed their power budget. When upgrading a weapon, remember that the starship’s frame starts with a certain number and type of weapon mounts (but see New Weapon Mounts below). Installing a single upgrade usually takes 1d4 days.  
@@ -22,7 +23,7 @@ PCs can’t upgrade the base frame of their starship. They can rebuild their sta
   
 Buying a whole new starship is a process that can take between 1d4 days and 1d4 months, depending on whether the PCs are purchasing a used starship from a spacedock or having a custom vessel built from scratch.  
 
-# NEW WEAPON MOUNTS
+# New Weapon Mounts
 
 **Source** _Starfinder Core Rulebook pg. 305_  
 Greater dangers means the PCs will require more powerful weapons in order to survive and triumph. Unless they begin flying around with an escort of armed battlecruisers, the weapons they start with will eventually become inadequate. Bigger weapons require the correct weapon mounts, however.  

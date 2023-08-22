@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# GHORAN
+
+# Ghoran
 
 > [!infobox|left n-th clean]
 >  [[Ghoran.png|Spielern zeigen!]]
@@ -17,57 +18,57 @@ Many ghorans are withdrawn around flesh-and-blood creatures. They often prefer t
 **Ability Modifiers** All ghorans gain –2 Intelligence and +2 Charisma at character creation. Sapling ghorans are short and slender (+2 Dexterity at character creation). Oakling ghorans are tall and dense (+2 Constitution at character creation).  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Ghorans are plants. Sapling ghorans are Small plants, while oakling ghorans are Medium plants.  
 
-## DELICIOUS
+## Delicious
 
 Ghorans take a –2 penalty to attack rolls and Acrobatics checks to escape a grapple against a creature that uses the grab ability with a bite natural weapon.  
 
-## LIMITED PLANT BENEFITS
+## Limited Plant Benefits
 
 Despite being plant creatures, ghorans don’t gain the standard immunities associated with creatures of the plant type. Instead, they gain a +2 racial bonus on saving throws against mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning effects, unless the effect specifies that it is effective against plants.  
 
-## PAST-LIFE KNOWLEDGE
+## Past-life Knowledge
 
 Choose two skills from the following list: Computers, Culture, Engineering, Life Science, Medicine, Mysticism, Physical Science, and Profession (each Profession chosen separately). The ghoran adds the chosen skills to their list of class skills or gains a +2 racial bonus to checks with those skills if they are already class skills.  
 
-## PHOTOSYNTHESIS
+## Photosynthesis
 
 Ghorans undergo photosynthesis to gain nutrition instead of eating (although they can eat if they so wish).  
   
 A ghoran can go without light (either sunlight or UV light, such as from starships) for 3 days, after which they must attempt Constitution checks to avoid [starvation](https://aonsrd.com/Rules.aspx?ID=Environmental%20Rules&Category=Environment).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–6 ft.  
 **Average Weight** 120–180 lbs.  
 **Age of Maturity** 2 years  
 **Maximum Age** 200+1d% years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Near Space pg. 129_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Ghorans have begun to see varying phenotypes among their kind. These alternate ghorans have the listed ability scores and size, rather than a ghoran’s normal +2 Charisma, –2 Intelligence, and +2 to Strength or Dexterity (for Medium oaklings and Small saplings, respectively).
 
-## WILLOWER
+## Willower
 
 **Source** [_Near Space pg. 129_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Willower ghorans reproduce from a ghorus seed and grow into a tall frame. Though the Gap consumed many of the details of their birth, the first of these ghorans sprouted from the first kinwoods. Willowers are Medium plants and have an ability score adjustment of +2 Intelligence.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Near Space pg. 129_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 The kinwoods have long shepherded Ghorus Prime’s ecology, influencing the genetic development of its numerous plant species. This includes the ghorans themselves, who exhibit a range of physiological traits.
 
-## MAGICAL TALENT
+## Magical Talent
 
 **Source** [_Near Space pg. 129_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Some ghorans inherit magical aptitude from their ancestors. Ghorans with this trait gain a +2 racial bonus to Mysticism checks, and they can use _detect magic_ and _psychokinetic hand_ at will as spell-like abilities.  
 This replaces past-life knowledge.
 
-## PSYCHOSYNTHESIS
+## Psychosynthesis
 
 **Source** [_Near Space pg. 129_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Instead of light, some ghorans’ outer layers are sensitive to thoughts and emotions. Ghorans with this trait gain limited telepathy with a range of 30 feet. Additionally, they can avoid starvation by spending at least 8 total hours a day within 120 feet of a creature that doesn’t have the unliving trait and that has an Intelligence and Wisdom score of at least 10.  

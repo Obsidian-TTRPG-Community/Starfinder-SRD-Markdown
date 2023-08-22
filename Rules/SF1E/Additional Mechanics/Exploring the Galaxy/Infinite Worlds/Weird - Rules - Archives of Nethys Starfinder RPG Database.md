@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# WEIRD
+
+# Weird
 
 **Source** _Galaxy Exploration Manual pg. 92_  
 Sucking marshes, desiccating deserts, frigid tundra, and crushing ocean depths may seem the height of inhospitable terrain to new explorers, yet such relatively mundane terrestrial biomes represent only a fraction of the galaxy’s impossibilities.  
@@ -11,7 +12,7 @@ In a science fantasy setting, weird biomes exist in part to provide a counterpoi
 Given their dangers, why hazard even approaching these worlds? In the case of living worlds, visitors might have no choice; these planets and colossal creatures often hunt down nearby starships, space stations, and whole worlds to consume or corrupt in the perpetuation of their million-year life cycles. Those who survive this predation often establish the beachheads for future exploration. What’s more, alighting on such a beast’s surface might be the only way for heroes to neutralize the behemoth and save their own homes.  
 More often, weird realms hide many of the setting’s greatest secrets: lifeless tracts preserve ancient knowledge for eons, tremendous living worlds are inimitable biological case studies, regions with aberrant physics might prove a critical testing ground for the next great technologies, and time-locked sanctums hypothetically exist where clues from the Gap survive into the modern era. In other cases, eccentric realms promise extraordinary resources. Intense pressures cause crushing atmospheres to rain diamonds. Magically warped nuclear fission yields supernatural elements key to building ever more powerful computers. Certain inorganic lifeforms might even photosynthesize raw UPBs, fulfilling that fanciful dream of money growing on trees. Through a combination of physics and magic, anything is possible, and each possibility is a scientific treasure, attracting unconventional adventurers with the promise of novelty and riches.  
 
-## WEIRD INHABITANTS
+## Weird Inhabitants
 
 **Source** _Galaxy Exploration Manual pg. 92_  
 Where life exists in weird biomes, always consider how the creatures navigate, subsist, breath, reproduce, and survive. After all, even an utterly alien realm benefits from internal logic that makes its oddities more plausible. What’s more, these inhabitants might view PCs as the truly unnatural beings, establishing an unsettling dynamic for first-contact encounters.  
@@ -19,29 +20,29 @@ Native species are often as strange as the terrain itself, and by necessity, suc
 Inhabitants who originate offworld must have advanced technology, magic, or utter fortitude to survive, and they rarely settle these realms as a first choice. Instead, exile, desperation, or refuge drive immigration, and many of these creatures suffer in inhospitable surroundings that will never truly be home. Aucturn’s toxicity illustrates the trend, as any cultists and exiles who don’t choke in the toxic atmosphere inevitably mutate beyond recognition.  
 Most ominous of all are those creatures that can’t thrive in a weird biome’s current conditions—yet like seeds awaiting rain, these organisms can unfurl or hatch if the status quo changes, potentially creating an even stranger ecosystem!  
 
-## WEIRD ADVENTURERS
+## Weird Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 92_  
 Player characters are exceptional, and no origin’s more exceptional than growing up on a weird world. These planets rarely appeal to mainstream residents, instead attracting an eclectic mix of the desperate, the academic, and the opportunistic—all shaped into rugged survivors by the experience. The “sea legs” of a child raised on an immense living creature’s surface give them extraordinary balance, represented by Acrobatics skill, and for those living worlds that can listen, learning the planet’s language and honing one’s Diplomacy can outright avert earthquakes. On volcanic worlds, freshly hardened rock formations can block paths, and a keen eye is critical to spotting solid ground, requiring capable Athletics, Perception, and Physical Science training. The weirder the world, the more likely magic is involved, and Mysticism is often more valuable than Life Science or Survival when navigating enchanted turf.  
 
-## WEIRD WORLDS
+## Weird Worlds
 
 **Source** _Galaxy Exploration Manual pg. 93_  
 Weird biomes defy expectation; they tend to feel most natural when experienced in isolation, with an entire world being uniformly weird, rather than including an eccentric ecosystem on an otherwise mundane planet. Any monolithically weird world becomes a study in what-ifs. If a planet isn’t roughly spherical, how might that affect gravity? If a planet is truly dead, does it lack a magnetic field that would deflect cosmic rays? If a planet is largely molten, does it instead have an overwhelming electromagnetic field? For a living planet, does it need to feed or respire, and if so, how does that drive its weather? For utterly bizarre realms, does matter consist of completely alien elements or operate under aberrant physics?  
 Unpacking all the potential ramifications isn’t necessary when presenting a weird world; however, the GM should prepare at least three of these consequences as a way of illustrating the weirdness and making the world more believable. Thick skeletons could allow the native fauna to weather unexpectedly heavy gravity. Creatures on a dead world might shelter underground during the day to avoid irradiation, emerging at night to compete for ever-dwindling resources on the dying surface. Their counterparts on a molten world might be silicon-based or soar high above the lava, with visitors’ computer equipment malfunctioning almost immediately from overwhelming radiation. A living planet might exhale regularly, blasting air from crater-sized geysers that travelers exploit with sturdy gliders, reaching lofty ecosystems sustained by these updrafts.  
 Even where a world’s explanation is “it’s magic,” it needs an underlying logic. Identify and apply that logic consistently, and even the most bizarre planet can come alive—sometimes literally!  
 
-## WEIRD RULES AND REFERENCE
+## Weird Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 93_  
 Nearly anything can be true on a weird world, which affords a GM vast freedom in deciding which rules to apply from a vast array of possibilities. These planets might be utterly hostile to life, in which case abnormal atmospheres are ideal—anything from the corrosive, toxic, and strange atmospheres on pages 395–396 of the Core Rulebook to no atmosphere at all. Erratic orbits, rapid rotation, and worse could beget extreme weather, using the rules on pages 398–400 as a starting point. Gravity (pages 401–402) could range from extreme to erratic, applying inconsistently across some worlds. Even terrestrial worlds, partly warmed by radioactive decay in their cores, might weep radiation (pages 403–404) across whole continents. For those worlds where physics simply doesn’t work as expected, the physical and mental disease tracks (pages 414–415) can represent explorers’ gradual degradation. Most crucially, remember that weird worlds are exactly that: weird. If ever there’s a time to apply strange circumstances, modify existing rules, or invent your own, this is it.  
 
-## WEIRD TOOLBOX
+## Weird Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 94_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### WEIRD INHABITANTS
+### Weird Inhabitants
 
 | D%     | Sapient            | Threat                |
 |--------|--------------------|-----------------------|
@@ -71,8 +72,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Shirren            | Undead minion         |
 | 97–100 | Urog               | Vermin, necropede     |
 
-
-### WEIRD ADVENTURE HOOKS
+### Weird Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                                      |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

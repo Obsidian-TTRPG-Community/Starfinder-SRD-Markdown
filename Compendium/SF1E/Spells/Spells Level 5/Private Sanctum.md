@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# PRIVATE SANCTUM
 
-**Source** _Starfinder Core Rulebook pg. 369_  
-**Classes** Precog 5, Technomancer 5, Witchwarper 5  
-**School** abjuration  
-**Casting Time** 10 minutes  
-**Range** close (25 ft. + 5 ft./2 levels)  
+# Private Sanctum
+
+**Source**:: _Starfinder Core Rulebook pg. 369_  
+**Classes**:: Precog 5, Technomancer 5, Witchwarper 5  
+**School**:: abjuration  
+**Casting-Time**:: 10 minutes  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
 **Area** one 30-ft. cube/level (S)  
-**Duration** 24 hours (D)  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: 24 hours (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.
 

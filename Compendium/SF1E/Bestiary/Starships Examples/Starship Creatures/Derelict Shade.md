@@ -5,7 +5,9 @@ tags:
 Tier: 4
 Type: NE Small starship undead
 ---
-# DERELICT SHADE
+
+# Derelict Shade
+
 NE Small starship undead, **Tier** 4 
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** —  
 **AC** 19; **TL** 16  
@@ -15,19 +17,19 @@ NE Small starship undead, **Tier** 4
 **Attack (Aft)** soul fragments (3d4; 10 hexes)  
 **Attack (Turret)** soul fragments (3d4; 10 hexes)
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +10 (4 ranks)  
 **Gunners (2 actions)** gunnery +9 (4th level)  
 **Magic Officer (1 action)** Mysticism +15 (4 ranks)  
 **Pilot (1 action)** Piloting +10 (4 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Ghosts in the Machine (Ex)** A derelict shade’s weaponry carries fragments of its crew’s souls. If the derelict shade deals Hull Point damage to an enemy ship, these fragments infect the ship’s systems and cause one randomly determined system to gain the glitching condition until the end of the next round, regardless of the amount of damage dealt. If the damage dealt would already give the system the glitching condition, it instead gains the malfunctioning condition until the end of the next round. A system that is already malfunctioning or wrecked is not affected.  
   
@@ -44,6 +46,6 @@ NE Small starship undead, **Tier** 4
   
 **Shadeswarm (Ex)** When using its teleportation ability to appear adjacent to a starship that has no shields remaining in one or more quadrants, a derelict shade can attempt a check using its gunnery bonus as part of using its teleportation. If the result is equal to or greater than the adjacent ship’s AC, any living crew members aboard the starship are swarmed by spirits from the derelict shade. Each affected creature must succeed at a DC 11 Will save or be unable to act until after the next round’s helm phase.
 
-## DESCRIPTION
+## Description
 
 On occasion, when an entire starship crew is killed upon destruction of their starship—whether by accident or malice—a derelict shade forms from the remains. Although derelict shades are not true ghosts, as the crew members’ souls do move on, the terror of their last moments causes fragments of their souls to combine and rise as a single creature, taking the form of their old ship. Cunning and cruel, a derelict shade seeks only to inflict on other ships the same pain that it suffered. Though it stays away from larger fleets, it eagerly attacks lone ships that it views as easy prey; if destroyed, such ships often give rise to derelict shades themselves.

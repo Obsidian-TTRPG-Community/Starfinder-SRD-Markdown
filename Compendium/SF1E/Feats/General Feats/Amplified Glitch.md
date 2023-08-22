@@ -5,8 +5,10 @@ Prerequisites: Computers 3 ranks, Intimidate 3 ranks.
 tags: 
 Type: General Feat
 ---
-# AMPLIFIED GLITCH
-**Source** _Starfinder Core Rulebook pg. 155_  
+
+# Amplified Glitch
+
+**Source**:: _Starfinder Core Rulebook pg. 155_  
 You can create sudden distractions with technological devices.
 
 **Prerequisites**: Computers 3 ranks, Intimidate 3 ranks.

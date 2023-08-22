@@ -2,34 +2,36 @@
 aliases: 
 tags: 
 ---
-# WITCHWARPER
-**Source** _Character Operations Manual pg. 60_  
+
+# Witchwarper
+
+**Source**:: _Character Operations Manual pg. 60_  
 Most people believe that reality is limited to their physical surroundings. You know the truth: that everything around you is merely a thin veil draped across the infinite tapestry of existence. Your reality is a palimpsest, with all possible worlds and all alternate existences at your disposal. Through your magic and force of personality, you can peer into these time lines and pull from them as you see fit, using their dimensional echoes to twist and reshape your own world.
 
 **Hit Points**: 5  
 **Stamina Points**: 5
 
-## KEY ABILITY SCORE - CHA
+## Key Ability Score - Cha
 
 Your Charisma score determines your spellcasting ability, the saving throw DCs of your spells, and the number of bonus spells you can cast per day, so Charisma is your key ability score. A high Dexterity score can help you fire weapons more accurately and dodge incoming attacks.
 
-## CLASS SKILLS
+## Class Skills
 
 The Witchwarper's class skills are Acrobatics (Dex), Bluff (Cha), Culture (Int), Diplomacy (Cha), Intimidate (Cha), Mysticism (Wis), Physical Science (Int), Profession (Cha, Int, or Wis).
 
 **Skill Points at each Level**: 4 + Int modifier.
 
-## PROFICIENCIES
+## Proficiencies
 
-### ARMOR
+### Armor
 
 Light armor
 
-### WEAPONS
+### Weapons
 
 Basic melee weapons, small arms, and grenades
 
-## CLASS FEATURES
+## Class Features
 
 | &nbsp; | Spells Per Day    |
 |--------|-------------------|
@@ -58,7 +60,7 @@ Basic melee weapons, small arms, and grenades
 
   
 
-## SPELLS KNOWN
+## Spells Known
 
 | Level | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
 |-------|---|-----|-----|-----|-----|-----|-----|
@@ -86,7 +88,7 @@ Basic melee weapons, small arms, and grenades
 
   
 
-## SPELLS
+## Spells
 
 | Bonus Spells Per Day (By Spell Level) |
 |---------------------------------------|
@@ -116,7 +118,7 @@ You can cast any witchwarper spell you know at any time, assuming you have not y
 
 You can also decipher magical inscriptions that would otherwise be unintelligible or, as a full action, identify any spells encoded in a spell gem. This does not normally invoke the magic contained within, although it may do so in the case of a cursed or trapped spell gem.
 
-## INFINITE WORLDS (SU) - 1ST LEVEL
+## Infinite Worlds (SU) - 1ST Level
 
 As a standard action, you can create a bubble of altered reality, projecting elements of parallel existences into your current universe. You expend a witchwarper spell slot of 1st level or higher to create an environmental effect, such as summoning fog or thick vines from other realities, which lasts for a number of rounds equal to your class level unless specified otherwise. Alternatively, you can create an instantaneous effect, such a flash of fire from an explosion that occurred in a parallel universe. The particular effects depend on the level of the spell slot expended.
 
@@ -147,7 +149,7 @@ The environmental and instantaneous effects you can create by sacrificing a witc
 -   **5th (Environmental):** Creatures in the area move and act normally despite being encumbered, entangled, exhausted, fatigued, off kilter, paralyzed, staggered, or hindered by another effect that reduces activity or speed, such as the slow spell. Within the area, creatures can’t be grappled or otherwise bound, and they automatically succeed at escaping from being grappled, pinned, or bound. Also, creatures ignore effects from the environment, such as from being underwater or in zero gravity, when moving and attacking. If a creature ignores an ongoing effect due to being in the area, the ongoing effect’s duration continues to elapse, and the effect resumes normally if the creature leaves the area or this effect ends.
 -   **6th (Environmental):** You reduce the hardness of objects within the area by 50% (Fortitude negates), or increase their hardness by 10 (to a maximum of double their normal hardness).
 
-## PARADIGM SHIFT - 2ND LEVEL
+## Paradigm Shift - 2ND Level
 
 Paradigm shifts represent your ability to briefly install pieces of alternate realities into your own, subtly or radically changing your surroundings for a time. You learn your first paradigm shift at 2nd level, and an additional paradigm shift every 3 levels thereafter. Unless otherwise stated, the effects of a paradigm shift last for a number of rounds equal to your witchwarper level. If a paradigm shift allows a saving throw to resist its effects, the DC is equal to 10 + half your witchwarper level + your Charisma modifier.
 
@@ -155,25 +157,25 @@ Starting at 4th level, your ability to shuffle these realities improves. Upon ga
 
 The list of paradigm shifts appears following the class features.
 
-## COMPOUND SIGHT (SU) - 3RD LEVEL
+## Compound Sight (SU) - 3RD Level
 
 You can sift through many realities, gaining understanding of a task by seeing it attempted dozens of different ways. Choose a skill. You gain a +1 insight bonus to checks using that skill. This bonus increases by +1 at 6th level and every 3 levels thereafter. You can change your chosen skill every time you gain a witchwarper level. At 9th level, you become more adept with your compound sight and can choose two skills to apply it to.
 
-## WEAPON SPECIALIZATION (EX) - 3RD LEVEL
+## Weapon Specialization (EX) - 3RD Level
 
 You gain the Weapon Specialization feat as a bonus feat for each weapon type this class grants you proficiency with.
 
-## ALTERNATE OUTCOME (SU) - 6TH LEVEL
+## Alternate Outcome (SU) - 6TH Level
 
 You can use your grasp of other realities to swap an outcome in your current existence with that of a more favorable reality. As a reaction once per day, you can reroll one attack roll, saving throw, ability check, or skill check that you attempt. Alternatively, you can expend a use of this ability as a reaction to cause a critical hit against you or an ally within 100 feet to instead be a normal hit.
 
 You gain one additional daily use of this ability at 12th level and again at 18th level.
 
-## UNFOLD EXISTENCES (SU) - 19TH LEVEL
+## Unfold Existences (SU) - 19TH Level
 
 You have nearly unlimited insight into all possible worlds and can pluck power from them as you deem necessary. Select five paradigms shifts you don’t know but whose prerequisites you meet. These paradigm shifts must not require your level to be higher than 8th. You can use the selected paradigm shifts a total number of times per day equal to your Charisma modifier.
 
-## REALITY STUTTER (SU) - 20TH LEVEL
+## Reality Stutter (SU) - 20TH Level
 
 Your force of will can infuse reality itself, changing key aspects of existence around you. You can spend 1 Resolve Point to use any paradigm shift you know. This doesn’t take an action, but you must use this ability on your turn unless the paradigm shift can be used as a reaction. If the paradigm shift requires a reaction, you still can’t use it unless the stated trigger has occurred, but using it does not expend your reaction for the round. If the paradigm shift requires you to spend Resolve Points to use it, you must still spend those Resolve Points in addition to that spent to use this ability. You can use reality stutter only once per turn. You can use the unfold existences ability in conjunction with reality stutter; doing so expends a daily use of unfold existences as normal.
 

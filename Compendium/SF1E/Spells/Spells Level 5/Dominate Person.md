@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# DOMINATE PERSON
 
-**Source** _Starfinder Core Rulebook pg. 352_  
-**Classes** Mystic 5  
-**School** enchantment (compulsion, mind-affecting)  
-**Casting Time** 1 round  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one humanoid  
-**Duration** 1 day/level; see text  
-**Saving Throw** Will negates; **Spell Resistance** yes
+# Dominate Person
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 352_  
+**Classes**:: Mystic 5  
+**School**:: enchantment (compulsion, mind-affecting)  
+**Casting-Time**:: 1 round  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one humanoid  
+**Duration**:: 1 day/level; see text  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 You fire a bright purple ray at your target, making a ranged attack against your target’s EAC, but you can add your key ability score bonus to this attack instead of your Dexterity modifier if it is higher.
 

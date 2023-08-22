@@ -5,8 +5,10 @@ Prerequisites: Mysticism 3 ranks.
 tags: 
 Type: General Feat
 ---
-# SPELLGUARD
-**Source** _Character Operations Manual pg. 118_  
+
+# Spellguard
+
+**Source**:: _Character Operations Manual pg. 118_  
 You can ward an ally against a spell at the cost of your own mystical defenses.
 
 **Prerequisites**: Mysticism 3 ranks.

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# REPTOID
+
+# Reptoid
+
 > [!infobox|left n-th clean]
 >  [[Reptoid.png|Spielern zeigen!]]
 > Reptoids are masters of disguise and deception, who use their shapechanging abilities to infiltrate countless other societies, impersonating influential individuals and seeking positions of power within their target culture. The number of reptoids hidden within any given society is unknown, as in addition to their exceptional espionage and infiltration skills, the creatures also have psychic magic that allows them to cover their tracks and ensure cooperation from their enemies.  
@@ -16,27 +18,27 @@ As might be expected, reptoids are secretive about the end goals of their infilt
 **Ability Modifiers** +2 Str, +2 Cha, -2 Dex  
 **Hit Points** 5
 
-## SIZE AND TYPE
+## Size and Type
 
 Reptoids are Medium humanoids with the reptoid and shapechanger subtypes.  
 
-## CHANGE SHAPE
+## Change Shape
 
 Once per day, a reptoid can assume the appearance of a specific single Medium humanoid. The reptoid always takes this specific form when using this ability. The reptoid gains a +10 racial bonus to Disguise checks to appear as that type of humanoid. This ability otherwise functions as per disguise self, and lasts for 10 minutes × the reptoid’s character level. A reptoid can select a new humanoid form by spending 1 week preparing for the change, but can then no longer assume the previous form.  
 
-## COLD-BLOODED
+## Cold-blooded
 
 Reptoids receive a +2 racial bonus on saving throws against mind-affecting effects and poisons.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 A reptoid can see in dim light as if it were normal light.  
 
-## NATURAL WEAPONS
+## Natural Weapons
 
 Reptoids are always considered to be armed when they are not using their change shape ability. They can deal 1d3 lethal slashing damage with unarmed strikes, and the attack does not count as archaic. Reptoids gain a unique weapon specialization with their natural weapons at 3rd level, allowing them to add 1-1/2 × their character level to their damage rolls for their natural weapons (instead of adding just their character level, as usual).
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–6 ft.  
 **Average Weight** 100–180 lbs.  

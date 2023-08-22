@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# HETZUUD AGENT
+
+# Hetzuud Agent
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 3,200**  

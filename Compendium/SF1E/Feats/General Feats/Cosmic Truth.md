@@ -5,8 +5,10 @@ Prerequisites: Wis 15, Bluff 5 ranks, Mysticism 5 ranks.
 tags: 
 Type: General Feat
 ---
-# COSMIC TRUTH
-**Source** _Character Operations Manual pg. 113_  
+
+# Cosmic Truth
+
+**Source**:: _Character Operations Manual pg. 113_  
 You can reveal one of the mysterious underpinnings of the universe you’ve learned in your travels, forcing a creature to grapple with the implications.
 
 **Prerequisites**: Wis 15, Bluff 5 ranks, Mysticism 5 ranks.

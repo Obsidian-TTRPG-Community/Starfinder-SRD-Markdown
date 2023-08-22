@@ -1,0 +1,10 @@
+---
+aliases: 
+tags: 
+---
+
+# Hellknight Mechs
+
+In the grand Hellknight tradition, the sworn paragons of infernal law build their mechs with the intent to subdue their foes first through intimidation, and all those they can’t cow are crushed beneath the gauntlet. Nearly all Hellknight mechs feature superior armor and wield frightening analogs of archaic weapons. Most are designed for solo or pair operation, making these mechs essentially empowered suits of armor that reflect the Hellknights’ typical uncompromising adherence to tradition and rules. Each Hellknight order has a unique visual appearance for their mechs to distinguish from those of other orders.  
+Flayers are statuesque representations of the Hellknight ideal: a bipedal suit of armor equipped with shields and melee weapons modeled after swords, chainwhips, maces, or scourges. After some embarrassing early defeats, newer variations of the Flayer also incorporate ranged weapons into their design.  
+Some models, however, such as the awe-inspiring Hellhound, completely break these guidelines. What began as a controversial experiment might be the future of Hellknight mechs. Indeed, the new Hellhound line is quickly surpassing other models in popularity. Aesthetically, the Hellhound looks similar to its namesake with its tank-like chassis resting on four powerful legs. Its upper limbs are retractable shields that can block incoming attacks or merge to form a maw that spews bursts of flame. Unlike its bipedal counterparts, the Hellhound can accommodate an entire squad of operators.

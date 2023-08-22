@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# STARSHIP DEFLECTOR SHIELDS MECHANICS
+
+# Starship Deflector Shields Mechanics
 
 **Source** _Starship Operations Manual pg. 20_  
 Whereas conventional starship shields absorb attacks entirely until they are depleted, some engineers insist that shields are most effective when deflecting attacks, blunting their force or causing them to miss entirely. Deflector shield technology reduces damage from incoming attacks and increases a starship’s AC and TL, though each successive attack depletes the shields’ defensive potential. Deflector shields and conventional shields create fields that interfere with each other, so only one of these two defenses can be installed on a starship.  

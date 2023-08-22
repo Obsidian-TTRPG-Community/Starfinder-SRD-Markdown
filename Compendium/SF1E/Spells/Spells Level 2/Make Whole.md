@@ -9,15 +9,16 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# MAKE WHOLE
 
-**Source** _Starfinder Core Rulebook pg. 364_  
-**Classes** Precog 2, Technomancer 2, Witchwarper 2  
-**School** transmutation  
-**Range** close (25 ft. + 5 ft./2 levels)  
-**Targets** one object of up to 1 bulk/level or one construct of any size  
+# Make Whole
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 364_  
+**Classes**:: Precog 2, Technomancer 2, Witchwarper 2  
+**School**:: transmutation  
+**Range**:: close (25 ft. + 5 ft./2 levels)  
+**Targets**:: one object of up to 1 bulk/level or one construct of any size  
+
+## Description
 
 This spell functions as _mending_, except it restores 5d6 Hit Points when cast on an object or construct creature.
 

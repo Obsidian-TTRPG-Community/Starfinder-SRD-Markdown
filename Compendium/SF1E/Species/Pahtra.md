@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 96_  
+**Source**:: _Interstellar Species pg. 96_  
 
 [[Species_Pahtra.png|Zeigen!]]
 Pahtras are adapted to life on their home planet of Pulonis, a world wracked with magnetic storms and inhabited by titanic flora and wildlife. To rise to these challenges, pahtras took a different path from many galactic species: unconventional technology and ironclad traditions focused on combat. Their conquest by the vesk and subsequent exposure to the Pact Worlds has caused a social revolution of sorts, with younger pahtras rejecting the paths forced on them by pahtra elders. The legacy of the past still holds strong however, and the pahtras most people encounter are those soldiers who have access to the intense physical conditioning required to venture into a universe where everything weighs twice as much.  
@@ -83,43 +83,43 @@ Some sample pahtra names include Cahnex, Fetenekku, Hafsoumei, Ifset, Jeviish, K
 
 # Alternate Ability Adjustments
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 While pahtras’ reputation as swift and charismatic warriors is well earned, exceptions have always been common in pahtra culture. These pahtras are often assigned to specific social roles based on their perceived potential, though younger pahtras are beginning to resist this practice. The following pahtras have these listed ability score adjustments instead of the standard adjustments of +2 Dexterity, +2 Charisma, −2 Strength.
 
-## ! Hunter-Killer
+## ! Hunter-killer
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 Pahtras raised on planets with standard gravity often develop the powerful musculature of born predators and are sometimes nicknamed hunter-killers due to their lethal efficiency. A hunter-killer pahtra’s ability adjustment is +2 Strength.
 
 ## ! Krreyvash
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 The pahtra rebels known as the Krreyvash have turned to extreme methods in their fight against the Veskarium. The Krreyvash subject themselves to experimental bio-engineering that grants them exceptional strength and reflexes but ravages their bodies. A Krreyvash pahtra’s ability adjustments are +2 Strength, +2 Dexterity, –2 Constitution.
 
 ## ! Wise One
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 Certain pahtras show unusual insight or physical features that signify them as likely to receive wisdom from supernatural forces, according to pahtra tradition. These wise ones are given rigorous training regimes by elders and other wise ones in order to become strong in both body and mind. A wise one pahtra’s ability adjustments are +2 Constitution, +2 Wisdom, −2 Strength.
 
 # Alternate Racial Traits
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 While most pahtras have the standard pahtra racial traits detailed in Alien Archive 2, specific individuals dedicate their lives into developing uncommon abilities, represented by the following alternate racial traits.
 
 ## ! Blindsense
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 Some pahtras rely less on their vision, instead detecting their environment via whiskers that are sensitive to air currents and vibrations. A pahtra with this alternate racial trait has blindsense (vibration) with a range of 30 feet and low-light vision.  
 This replaces pahtra senses.
 
 ## ! Natural Weapons
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 Pahtras can develop especially deadly claws that rake and rend with startling effectiveness. A pahtra with this alternate racial trait has natural weapons that function like those of vesk, except the pahtra’s natural weapons deal slashing damage.  
 This replaces talented.
 
 ## ! Parasite Sense
 
-**Source** _Near Space pg. 133_  
+**Source**:: _Near Space pg. 133_  
 Some pahtras are sensitive to odors that indicate the presence of invasive bodies. A pahtra with this alternate racial trait gains a +2 bonus to checks to detect, treat, or remove diseases and parasites that infest another creature. As a full action, the pahtra can try to determine if an adjacent creature it can smell is diseased with a DC 30 Perception check. The DC of this check is reduced by 5 for each step along the disease track the creature is.  
 This replaces nimble.

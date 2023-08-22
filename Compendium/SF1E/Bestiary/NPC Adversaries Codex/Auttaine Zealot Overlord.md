@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# AUTTAINE ZEALOT OVERLORD
+
+# Auttaine Zealot Overlord
+
 **XP 204,800**  
 Auttaine technomancer  
 LE Medium humanoid (half-construct, human)
@@ -49,11 +51,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### LEGENDARY SURGE
+#### Legendary Surge
 
 Roth has a pool of 5 legendary power points. When he rolls a d20, he can spend a legendary power point as a reaction after the results are revealed to add 1d6 to the result of the roll. This can change the outcome of the roll.
 
-#### LEGENDARY RECONSTRUCTION (EX)
+#### Legendary Reconstruction (EX)
 
 When Roth is reduced to zero hit points, he can spend a legendary power point (see Legendary Surge) to rebuild and rewire his body, immediately healing 120 hit points and permanently changing his creature type permanently to construct (gaining the construct immunities defensive ability). He can use this ability once per day, but the change in creature type is permanent.
 

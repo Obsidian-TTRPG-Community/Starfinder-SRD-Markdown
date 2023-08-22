@@ -5,7 +5,9 @@ tags:
 Tier: 2
 Type: Medium Explorer
 ---
-# SWORD-CLASS ATTACK VESSEL
+
+# Sword-class Attack Vessel
+
 [[Starship_AttackVessel.jpeg|Spielern zeigen!]]
 Medium explorer, **Tier** 2 
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** 1  
@@ -18,7 +20,7 @@ Medium explorer, **Tier** 2
 **Attack (Turret)** coilgun (4d4; 20 hexes)  
 **Power Core** Arcus Heavy (130 PCU); **Drift Engine** Signal Basic; **Systems** basic medium-range sensors, crew quarters (common), mk 1 mononode computer, mk 2 armor; **Expansion Bays** cargo holds (2), medical bay, recreation suite (gym); **Modifiers** +1 to any one check per round, +2 Computers (sensors only), +1 Piloting; **Complement** 6 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Computers +7 (2 ranks), Diplomacy +7 (2 ranks), Engineering +7 (2 ranks), gunnery +6 (2nd level), Intimidate +12 (2 ranks), Piloting +7 (2 ranks)  
 **Engineer** Engineering +7 (2 ranks)  
@@ -26,6 +28,6 @@ Medium explorer, **Tier** 2
 **Pilot** Piloting +7 (2 ranks)  
 **Science Officer** Computers +7 (2 ranks)
 
-## DESCRIPTION
+## Description
 
 The sleek and streamlined Sword Class Attack Vessel is designed as much for intimidation as it is for combat prowess—and it excels in both.

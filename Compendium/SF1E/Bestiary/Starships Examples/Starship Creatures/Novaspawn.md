@@ -5,9 +5,10 @@ tags:
 Tier: 8
 Type: N Huge starship aberration
 ---
-# NOVASPAWN
 
-**Source** _Alien Archive pg. 84_
+# Novaspawn
+
+**Source**:: _Alien Archive pg. 84_
 
 N Huge starship aberration, **Tier** 8 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** —  
@@ -22,12 +23,12 @@ N Huge starship aberration, **Tier** 8
 **Power Core** novaspawn heart (250 PCU); **Drift Engine** none; **Systems** mk 6 armor, mk 5 defenses; **Expansion Bays** none  
 **Other Abilities** living starship, no breath
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Living Starship (Ex)** While a novaspawn is a living creature, it is so immense that it functions as a starship (and thus engages in only starship combat). Though it has no crew, it can still take engineer, gunner, and pilot actions (one of each, in the appropriate phases) using the skill bonuses listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Assume it has 8 ranks in the Engineering and Piloting skills and a base attack bonus of +8. Use the following table to determine the effects when a novaspawn takes critical damage. The novaspawn’s brain doesn’t take critical damage conditions.
 
@@ -40,17 +41,17 @@ N Huge starship aberration, **Tier** 8
 
 **Tentacles (Ex)** The gigantic tentacles dangling from a novaspawn’s forward arc are powerful enough to grab a starship and hold it in place, making it easier for the novaspawn to blast the vessel with its particle beam. A novaspawn can make a tentacles attack only against a Large or smaller starship that is in its forward firing arc and in a hex adjacent to the novaspawn. If the attack deals Hull Point damage to the target, that vessel can’t move unless its pilot succeeds at a DC 27 Piloting check as an action during the helm phase. A starship that is immobilized in this way takes a -2 penalty to its AC and Target Lock.
 
-## DESCRIPTION
+## Description
 
 Novaspawn are rare, enormous creatures of silicon and steellike flesh that live in the vacuum of space. They feed on cosmic radiation and travel with a purpose that no scientist has been able to fully fathom. No one is certain where they come from or exactly how long they live. However, scholars have discovered records that hint that at the end of a novaspawn’s life cycle, it undergoes a devastating transformation to become a new star. This phenomenon has been named “solar parturition,” though no currently living mortal has seen it occur. Most speculate that the process would burn nearby planets to cinders and irrevocably alter the climate of others farther away.
 
 Novaspawn are generally peaceful, and they often react to outside stimuli in ways that most people don’t understand. However, if antagonized, one of these spacefaring creatures can devastate smaller starships with ease, as its crystalline protrusions can convert internal electrical currents into blasts of energy much like those of standard laser cannons. A novaspawn also generates its own protective shields using its aberrant biology, which some believe is as much magical as it is scientific.
 
-## OLDER NOVASPAWN
+## Older Novaspawn
 
 The stat block above represents a novaspawn in an early stage of its maturation—such a novaspawn is still older than some civilizations. Older novaspawn can grow to Colossal starship size, dwarfing even the mightiest of warships. Novaspawn of such size are foes of a much higher tier, and their armaments function as capital weapons.
 
-## SOLAR PARTURITION (CR 14)
+## Solar Parturition (CR 14)
 
 In rare occasions, a novaspawn that is ill or under malign influences undergoes the process of parturition dangerously close to an inhabited planet or immobile space station. While the process isn’t instantaneous, it still doesn’t leave enough to time to evacuate an entire world or crowded facility and get the residents to a safe distance (at least several hundred thousand miles away). However, all is not lost for these unfortunate souls. A group of adventurers brave enough to face a series of demanding challenges can stop a novaspawn’s parturition before its completion.
 

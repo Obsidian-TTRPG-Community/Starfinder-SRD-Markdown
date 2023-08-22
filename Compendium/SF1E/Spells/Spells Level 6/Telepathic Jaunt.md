@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# TELEPATHIC JAUNT
 
-**Source** _Starfinder Core Rulebook pg. 381_  
-**Classes** Mystic 6  
-**School** conjuration (teleportation)  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** you and touched objects and other touched willing or unconscious creatures  
-**Duration** instantaneous  
-**Saving Throw** none, Will negates (object); **Spell Resistance** no, yes (object)
+# Telepathic Jaunt
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 381_  
+**Classes**:: Mystic 6  
+**School**:: conjuration (teleportation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: you and touched objects and other touched willing or unconscious creatures  
+**Duration**:: instantaneous  
+**Saving-Throw**:: none, Will negates (object);
+**Spell Resistance**:: No, yes (object)
+
+## Description
 
 _Telepathic jaunt_ thrums along the mental connection you have with a creature with which you currently have an active telepathic bond via your mystic telepathic bond class feature (but not via the _telepathic bond_ spell), and it instantly teleports you to that creature. This spell teleports you to a random, unoccupied square adjacent to the creature with which you have the telepathic bond. If no such square is available, you teleport to the closest eligible square; if the nearest eligible square is more than 50 feet away from the creature, this spell fails.
 

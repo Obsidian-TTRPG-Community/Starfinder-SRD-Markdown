@@ -2,37 +2,38 @@
 aliases: 
 tags: 
 ---
-# MECH COMBAT
+
+# Mech Combat
 
 **Source** _Tech Revolution pg. 112_  
 mechs take multiple actions each round to move, attack, and activate abilities. See Chapter 8 of the Starfinder Core Rulebook for tactical combat rules.  
 The biggest differences in mech combat are size and action economy. Mechs are immense, capable of controlling large spaces, traveling quickly, and even affecting vast areas with their attacks. Mech control systems also allow multiple operators to act in concert, enabling many mechs to perform a host of actions on their turns.  
 
-# SCALE
+# Scale
 
 **Source** _Tech Revolution pg. 112_  
 Mechs are designed to function seamlessly on the same battle maps of 5-foot-by-5-foot squares commonly used for Starfinder tactical combat. However, for mech encounters over larger areas or against larger foes, it works well to treat each of these squares as a 10-foot-by-10-foot area instead. Most mech size and distance values are divisible by 10; in rare cases where a range or size value is divisible by 5 but not by 10, round the value down to the nearest value divisible by 10. Thus, a Huge mech that would occupy a 15-foot-by-15-foot space would occupy a single square using a 10-foot scale, and a Huge mech’s reach would be 10 feet (one square) rather than 15 feet.  
 
-# MECH OPERATORS
+# Mech Operators
 
 **Source** _Tech Revolution pg. 112_  
 Each mech can accommodate one or more operators who share control over the mech’s movement, armaments, and other systems. Operators share a pool of actions and work together to control their machine (see Mech Actions below). Each mech requires a minimum number of operators to function and has a maximum number of operators it can accommodate.  
 A character can enter an allied or unattended mech in an adjacent space as a full action, becoming one of that mech’s operators. An operator can exit a mech as a full action, emerging into any empty space adjacent to the mech. At the GM’s discretion, an unattended mech can require an operator to succeed at a Computers check to hack it in order to initially gain control of that mech (DC = 20 + 1-1/2 × the mech’s tier).  
 A mech blocks line of effect to and from its operators. If a mech is destroyed (see Taking Damage on page 114), additional damage dealt to the mech is instead dealt to a random operator inside; that operator can attempt a DC 20 Reflex save to take half damage.  
 
-## STATISTICS AND MODIFIERS
+## Statistics and Modifiers
 
 **Source** _Tech Revolution pg. 112_  
 A mech’s actions represent a combination of its operators’ skill and its own sophisticated machinery, and some of the modifiers a mech uses when performing actions reflect this union. When an operator grants a mech an action, the mech uses that operator’s relevant bonus or skill ranks to help calculate the mech’s total modifier. If more than one operator contributes to the same action—such as two operators working together to grant their mech a full action—the mech uses the higher of the two operators’ statistics when calculating its modifier. See page 98 for how to calculate most of a mech’s statistics.  
 **Initiative Modifier:** A mech’s initiative modifier equals the lowest initiative modifier among its operators (minimum +0). A mech’s minimum initiative modifier increases by 1 at tier 5 and every 5 tiers thereafter.  
 **Skill Modifiers:** A mech’s skill check modifier equals 5 + half its tier; for Athletics checks, also add the mech’s Strength modifier. When an operator grants their mech an action and the mech performs a skill check as part of that action, the mech can use the operator’s ranks in that skill (instead of half the mech’s tier) to determine its modifier. When performing a Strength- or Dexterity-based skill check, a mech can instead use its operator’s ranks in Piloting to determine the mech’s skill modifier.  
 
-# MECHS AREN’T OBJECTS
+# Mechs AREN’T Objects
 
 **Source** _Tech Revolution pg. 112_  
 Unless otherwise specified, mechs do not count as objects for spells and abilities that affect objects.  
 
-# MECH ACTIONS
+# Mech Actions
 
 **Source** _Tech Revolution pg. 112_  
 A mech’s available actions per turn depend on the number of operators currently controlling it. While at least one operator is controlling it, a mech can take one move action per turn and one reaction per round.  
@@ -41,7 +42,7 @@ For example, if a mech has four operators, and each takes a full action to grant
 **Skills:** A mech with at least one operator can take the appropriate action, if any, to attempt an Acrobatics, Athletics, or Perception skill check, or else an Intimidate check to demoralize. Some frames and auxiliary systems allow mechs to use additional skills; see page 112 for calculating a mech’s skill modifiers.  
 **Guarded Step:** When using the guarded step action, a mech can move up to 10 feet without provoking an attack of opportunity.  
 
-## POWER POINTS
+## Power Points
 
 **Source** _Tech Revolution pg. 113_  
 Each mech’s power core (page 102) provides it ample energy to move and fight while also generating excess power—measured in Power Points (PP)—that the mech can exploit to supercharge its systems. A mech’s power core determines how many PP it begins each encounter with, how many it can store at a time, and how many it generates at the end of each turn. Many auxiliary systems, weapons, and other components have special abilities that require expending PP to function.  
@@ -52,7 +53,7 @@ In addition, several Power Points abilities available to all mechs can be used w
 **Replenish (2 PP):** Activate this ability when regaining Shield Points. The number of SP the mech recovers increases by 1d8. This increases by an additional 1d8 at tier 5 and every 5 tiers thereafter.  
 **Resist (1 PP):** Before attempting a saving throw, the mech can activate this ability to roll 1d4 and add the result as a resistance bonus to the saving throw.  
 
-## SPECIAL MECH ACTIONS
+## Special Mech Actions
 
 **Source** _Tech Revolution pg. 113_  
 In addition to the actions detailed in Chapter 8 of the Core Rulebook, mechs can perform the following special actions.  
@@ -63,7 +64,7 @@ The mech can use this ability to grab and throw a creature or moving vehicle wit
 If the mech scans a mech or object, the mech attempts a Computers check; against an unattended mech or object, the DC is 10, and against a wielded object or piloted mech, the DC equals 10 + the target’s tier or item level. If it succeeds, the mech identifies two of the following pieces of information about the mech or object (operator’s choice): its hardness, maximum Hit Points, resistances (if any), EAC, KAC, number of passengers or operators, Strength DC to break, speed, full speed (vehicle only), systems or auxiliary systems, or weapons. For every 5 by which the Computers check exceeds the DC, the mech identifies one additional piece of information.  
 Repeated scans reveal little information unless the mech expends additional energy. Each additional attempt to scan a target requires the mech expend 1 PP for each previous time the mech has attempted to scan that target within the last hour.  
 
-# TAKING DAMAGE
+# Taking Damage
 
 **Source** _Tech Revolution pg. 114_  
 A mech typically has a combination of Hit Points (HP) and Shield Points (SP) that collectively represent how much damage it can sustain before taking penalties or ceasing to function altogether. When a mech takes damage, the damage is first applied to its Shield Points. If its SP are reduced to 0, its shields become inactive until the beginning of the mech’s next turn; for any excess damage, reduce the damage by the mech’s hardness (if any) and apply the remaining damage to the mech’s Hit Points.  
@@ -71,7 +72,7 @@ At the start of its turn, a mech regains a number of Shield Points equal to its 
 If a mech is reduced to 0 Hit Points, it is wrecked. A wrecked mech can’t perform actions, including sustaining its altitude or depth if airborne or underwater; such mechs typically fall or sink, taking damage as normal. A wrecked mech’s operators aren’t necessarily in danger, though a mech wrecked in a precarious location could be perilous. A wrecked mech can be repaired (see Repairing Damage on page 115).  
 If a mech ever takes damage that exceeds twice its Hit Points, it’s destroyed and can’t be repaired.  
 
-## SYSTEM FAILURE
+## System Failure
 
 **Source** _Tech Revolution pg. 114_  
 As a mech takes damage, its various components can malfunction or become outright inoperable. Whenever a mech is reduced to two-thirds its remaining Hit Points, and again when it’s reduced to one-third its remaining Hit Points, it experiences system failure. To determine which component is affected, roll 1d20 and consult the table below.  
@@ -99,7 +100,7 @@ When a mech’s power core first gains the malfunctioning condition and again wh
 When the cockpit gains the malfunctioning condition, half of the operators (rounded up) take bludgeoning damage equal to 1d8 × the mech’s tier; they can attempt a Reflex saving throw to halve the damage (DC = 15 + half the mech’s tier). When the cockpit gains the inoperable condition, each of the operators takes the bludgeoning damage above (Reflex half). In addition, the operators’ controls become unreliable; the first time each turn that an operator uses a full action to pilot the mech, there’s a 50% chance that the mech doesn’t gain an action. Either effect lasts until the beginning of the mech’s next turn.  
 **Tracking System Failure:** The mech sheet on page 165 includes a section for tracking a mech’s systems’ conditions.  
 
-## REPAIRING DAMAGE
+## Repairing Damage
 
 **Source** _Tech Revolution pg. 115_  
 When a mech combat encounter is over, a mech’s operators can repair damage dealt to their mech, provided it hasn’t been destroyed or lost.  

@@ -9,16 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# ARCANE SIGHT
 
-**Source** _Starfinder Core Rulebook pg. 340_  
-**Classes** Precog 3, Technomancer 3, Witchwarper 3  
-**School** divination  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** 1 minute/level (D)  
+# Arcane Sight
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 340_  
+**Classes**:: Precog 3, Technomancer 3, Witchwarper 3  
+**School**:: divination  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: 1 minute/level (D)  
+
+## Description
 
 This spell allows you to see magic sources within 120 feet of you. The effect is similar to that of a detect magic spell, but arcane sight does not require concentration and discerns information more quickly.
 

@@ -2,12 +2,13 @@
 aliases: 
 tags: 
 ---
-# SUBGENRES
+
+# Subgenres
 
 **Source** _Galaxy Exploration Manual pg. 140_  
 Science fiction comes in many variations and categories; the subgenres discussed here all make great use of the sandbox nature of this book. They change the default cultural attributes (page 47) of a Starfinder campaign and often involve travel to many locations in varied environments. Many feature protagonists with agency, who decide for themselves where they’re going to go and what they’re going to do, while others send their protagonists on a wild ride through time, space, or the multiverse.  
 
-# CYBERPUNK
+# Cyberpunk
 
 **Source** _Galaxy Exploration Manual pg. 140_  
 **Related Media:** _Mirrorshades_ (anthology), _The Matrix_ (film), _Person of Interest_ (TV series), _Robocop_ (film)  
@@ -15,7 +16,7 @@ This genre involves urban decay and hacker protagonists battling soulless corpor
 Urban biomes are common settings in cyberpunk, though that doesn’t mean the heroes won’t find themselves adventuring in some eccentric billionaire’s mountaintop villa or orbital mansion. In a traditional cyberpunk setting, technology can be high, though often inaccessible to ordinary people. Magic can be low or nonexistent, but the genre often crosses over with urban fantasy, which includes spellcasters and fantasy creatures on city streets. Competing corporations, not governments, run everything and accord is low. The PCs probably approach the game world as chaotic antiheroes, surrounded by lawful evil tech billionaires and megacorporations. Mechanics—and technomancers, if your setting has medium or high magic—hold the keys to the digital realm and are in high demand. Biohackers install cybernetic and biotech augmentations and push the edges of medical science. Megacorps and failing nation-states hire mercenary soldiers and assassin operatives. Religion is likely low, though some settings link virtual reality to religion in interesting ways.  
 One of the most identifiable themes of the cyberpunk genre is the relationship between the human body and machines. Augmentations remain prevalent in these stories, and many other pieces of equipment—melee weapons and armor, for example—might be replaced or enhanced by augmentations in these stories. You might even consider allowing characters to have more than the usual limit of augmentations installed in their bodies. Augmentations are likely much more common in cyberpunk settings, both in terms of availability and prevalence among both PCs and NPCs.  
 
-# HARD SCIENCE FICTION
+# Hard Science Fiction
 
 **Source** _Galaxy Exploration Manual pg. 140_  
 **Related Media:** _2001: A Space Odyssey_ (film and novel), _Arrival_ (novel and film), _The Expanse_ (novels and TV series)  
@@ -25,7 +26,7 @@ Adventures in a hard science fiction campaign are more realistic and grounded in
 Technology is high or medium and extrapolated from current real-world science, so drones, projectile weapons, artificial intelligence, pharmaceuticals, and genetic engineering are especially prevalent. There is almost never magic in such settings. Other attributes, such as accord and religion, are highly variable and depend on the types of conflict you want to emphasize—hard science fiction is often based on modern trends, and you can use these trends to determine how you change those measurements.  
 Envoys lead these expeditions as representatives of planetary governments and corporations, hiring veteran soldiers from the ranks of the armed forces. Operatives fly independent spacecraft around the solar system with the help of trusty mechanic copilots. Creatures found in the Alien Archives must often be modified to fit within the thematic constraints of a hard science fiction game. For example, species such as pahtras, vlakas, and ysoki might instead become genetically engineered humans.  
 
-# HIGH SCIENCE FANTASY
+# High Science Fantasy
 
 **Source** _Galaxy Exploration Manual pg. 141_  
 **Related Media:** _Jack Kirby’s Fourth World_ (comics), _She-Ra_ (TV series)  
@@ -34,7 +35,7 @@ The PCs probably pursue a quest that leads them from one world to another, each 
 High science fantasy settings are defined by their high magic and high religion; mystics, solarians, witchwarpers, and vanguards might be more commonplace than operatives and soldiers. Technology, though less common in everyday life, is still high—a soldier can wield a plasma doshko, though such a weapon is rare enough to be distinctive. This technology is sometimes based on arcane or disproved scientific theories from real-world history; for example, magical galleons might sail the luminiferous aether, and flame weapons could be fueled by phlogiston. You might modify armor and other equipment from the Starfinder Armory to better fit the genre; for example, instead of donning high-tech armor, most soldiers don enchanted or hybrid plate mail (with the same stats and other benefits as standard Starfinder heavy armor). Alternatively, technology could be so advanced that it is indistinguishable from magic; a mystic might incorporate a disintegrator pistol into their staff, for example. In such settings, mechanics and technomancers are among the few who understand and operate computers, so they occupy a special role as guardians or keepers of technology, perhaps sought out by magic-wielding heroes ignorant of such topics.  
 High science fantasy embraces extremes of alignment and archetypal fantasy tropes; the heroes are chaotic good freedom fighters waging war against a tyrannical lawful evil necromancer who lives on a planet shaped like an enormous skull, for example. The PCs delve into vast subterranean chambers, where they face devils, dragons, undead, and other creatures drawn from fantasy literature and mythology. Some so-called monsters are actually sapient creatures who have been mistaken for mythical beasts; nuars, for example, may have given rise to the myth of minotaurs, while vesk are called “lizardfolk” by outsiders. On some worlds, accord can be high, as each planet is dominated by a single kingdom, wizard’s guild, church, or empire. But there is always at least one planet, perhaps even the central planet from which most of the PCs originate, that is fractured into many different realms and where accord is low. Space replaces the wilderness of a traditional fantasy setting and is a place for bandits, reclusive wizards, and wandering monsters.  
 
-# MILITARY
+# Military
 
 **Source** _Galaxy Exploration Manual pg. 142_  
 **Related Media:** _Battlestar Galactica_ (TV series), _David Weber’s Honorverse_ (novels), _Elizabeth Moon’s Vatta’s War_ (novels), _Metal Gear Solid_ (video game)  
@@ -44,7 +45,7 @@ Military campaigns give the PCs and your adventure a lot of structure. Rather th
 The nature of the antagonist is key to any military campaign, and you will want to devote time and effort to creating or adapting the enemy forces for the PCs to oppose. You will need various enemy creatures to ensure the PCs face a wide range of foes, as well as some recognizable and colorful enemy commanders whom PCs can love to hate.  
 Many military campaigns are based on an invasion timeline: First, the enemy appears unexpectedly and has a tremendous early victory. Then, as the PCs are forced to retreat, the enemy scores additional successes, and new enemies are introduced. In the third stage, the PCs rally, recruiting new allies or depriving the enemy of its primary strength to turn the tables on the enemy. Finally, the enemy wagers everything on a desperate plan to win the war, and only the PCs stand in the way. Through each of these stages, the PCs are moving from world to world, fighting in a variety of biomes and facing a diverse cast of foes. The war itself may seem unending, but the constant variety of unusual environments and strange creatures keeps the campaign feeling fresh.  
 
-# PARALLEL WORLDS
+# Parallel Worlds
 
 **Source** _Galaxy Exploration Manual pg. 143_  
 **Related Media:** _The Man in the High Castle_ (novel and TV series), _Sliders_ (TV series), _Star Trek’s Mirror Universe stories_ (TV series)  
@@ -55,7 +56,7 @@ How do the PCs travel from world to world, and how much control over their trave
 A parallel-worlds campaign is all about adjusting the attributes that describe a world, changing them from one game to the next. The PCs might travel from a world that is notable for high religion and accord, for example, to a parallel version that has low religion and accord. To the PCs, one of these worlds might be the “right” one, and changing the “wrong” one to be more like home is impossible. Instead, the PCs must survive long enough to escape or even do some good while they’re there. As the PCs travel from one world to the next, they might encounter distorted reflections of recurring NPCs whose alignments have changed to their opposite, so the PCs might help reflections of their enemies and battle reflections of their friends—or even themselves!  
 Parallel world stories can also come about from time-travel stories that lead to characters changing history; see Time Travel on page 145 for more on these types of campaigns.  
 
-# PLANETARY SURVIVAL
+# Planetary Survival
 
 **Source** _Galaxy Exploration Manual pg. 143_  
 **Related Media:** _Kim Stanley Robinson’s Mars trilogy_ (novels), _Lost in Space_ (TV series), _The Martian_ (film and novel), _Nicola Griffith’s Ammonite_ (novel)  
@@ -64,7 +65,7 @@ A planetary-survival game—especially one in which the PCs are stranded on a si
 For campaigns in which the PCs are constantly on the move, their starship becomes their home base, and every different world they land on has new attributes, environments, and people. The biome inhabitants and adventure hook tables in Chapter 2 will help you prepare these new elements every session. As the PCs use up their initial store of resources, they will need to discover and extract resources from the planet they find themselves stranded on. This can lead to technology levels changing over time; consult the optional tech categories on page 126 when the PCs, for example, have no way to repair their disintegrator weapons, but find crystals that allow them to develop new laser weaponry instead.  
 One of the best things about a planetary-survival story is that it has a clear conclusion. When the evolving story of PCs stranded on an alien world—or traveling the stars in search of home—starts to wear thin, you can end the campaign in a satisfying manner as the PCs finally find a way off the world, whether they used problem-solving, found some miraculous technology that brings them home, or managed to signal a passing rescue ship. You can even run planetary survival as one part of a longer campaign, in which the heroes begin in some other genre, are stranded on a dangerous planet for a few levels, and then escape to seek vengeance on whoever stranded them in the first place.  
 
-# POSTAPOCALYPTIC
+# Postapocalyptic
 
 **Source** _Galaxy Exploration Manual pg. 144_  
 **Related Media:** _Fallout series_ (video game), _Mad Max series_ (film), _N. K. Jemisen’s Broken Earth series_ (novels), _Nnedi Okorafor’s Who Fears Death_ (novel), _Thundarr the Barbarian_ (TV series), _The Walking Dead_ (comic and TV series)  
@@ -73,7 +74,7 @@ The postapocalyptic genre has a natural story arc. At first, the heroes are just
 One of the first things you want to decide is how the apocalypse happened. The answer should inform the details of your setting. For example, while most postapocalyptic worlds have low or no magic, you might decide civilization was destroyed by a poorly cast ritual that caused magic to violently erupt into the world, making it high magic but destroying civilization. Regardless, survivors of the apocalypse get by with low tech, if they have any tech at all. Some settlements— and the PCs—have limited access to medium-tech items like guns and vehicles. You could link high technology to the cause of your apocalypse; perhaps the people who ruined the planet left weapons behind that the PCs can find, or the apocalypse was so long ago that those who remain mistakenly think high‑tech items are magical. There are no working starships, but there might be a crash site with a wrecked starship that would make for an excellent high-level dungeon. What are the environmental ramifications of your apocalypse? If the world is now an irradiated wasteland, the PCs can use the options for desert adventurers on page 60, but if a nuclear winter has overtaken the planet, maybe the PCs should come from an arctic biome instead (page 56).  
 Accord is low, and chaotic is the dominant alignment, even within “organized” areas such as settlements. Everyone is dependent on their jury-rigged machines, so the mechanic and technomancer (if there’s magic in your setting) becomes the super star. Soldiers and operatives lead perilous missions into the wasteland or defend the settlement from dangerous mutants and monsters, while envoys and mystics use the leadership system (page 100) to attract bands of desperate, half-starved followers. Biohackers might serve their communities as trustworthy physicians, fighting off the plague and treating deadly wounds, but they might also be living in the wasteland, creating mutants and conducting cruel experiments.  
 
-# SPACE WESTERN
+# Space Western
 
 **Source** _Galaxy Exploration Manual pg. 144_  
 **Related Media:** _Battle Beyond the Stars_ (film), _Firefly_ (TV series), _The Mandalorian_ (TV series), _Outland_ (film), _Mike Resnick’s Santiago_ (novel)  
@@ -81,7 +82,7 @@ You can add robots, lasers, and spaceships to any genre, but the space western s
 The space western game’s emphasis on the wilderness will give you many opportunities to use the various biomes described in this book, from the harsh heat of a desert planet to a mountain world’s snowy peaks. Any of these places could be home to mining camps, humble farms, or boom towns, all of which you can generate with tools in Settlement Toolbox on page 150. Soldiers are the most common character class and a common background, with veterans of some past war venturing into the wilderness where their skills are still useful, and envoys, operatives, and mechanics are also plentiful. Magic, however, is mysterious and dangerous, something even gunslingers avoid, so you will find the low-magic rules helpful. Technology might be a mix of archaic and modern, with black powder and rust mixing with lasers and androids.  
 As you run a space western game, bear in mind that the western genre has traditionally been home to many harmful tropes, none of which have a place in a game of Starfinder. Remember, while a space western game may have roots in the western, it also takes place in a fictional science fantasy setting. This offers a great opportunity to leave behind the harmful stereotypes of the past; just remain wary of these insidious tropes creeping their way back into your space western game.  
 
-# TIME TRAVEL
+# Time Travel
 
 **Source** _Galaxy Exploration Manual pg. 145_  
 **Related Media:** _Back to the Future trilogy_ (films), _Connie Willis’s Doomsday Book_ (novel), _Doctor Who_ (TV series), _Time Bandits_ (film)  

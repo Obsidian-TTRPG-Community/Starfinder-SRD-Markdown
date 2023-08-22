@@ -5,8 +5,10 @@ Prerequisites: Change form species trait or Disguise 5 ranks.
 tags: 
 Type: General Feat
 ---
-# SHIFTER’S EYE
-**Source** _Interstellar Species pg. 51_  
+
+# SHIFTER’S Eye
+
+**Source**:: _Interstellar Species pg. 51_  
 Your mastery of disguises has made you adept at spotting impostors.
 
 **Prerequisites**: Change form species trait or Disguise 5 ranks.

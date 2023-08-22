@@ -5,8 +5,10 @@ Prerequisites: Acrobatics 3 ranks.
 tags: 
 Type: General Feat
 ---
-# FREE RUNNER
-**Source** _Galaxy Exploration Manual pg. 91_  
+
+# Free Runner
+
+**Source**:: _Galaxy Exploration Manual pg. 91_  
 You’re used to nimbly navigating constructed environments.
 
 **Prerequisites**: Acrobatics 3 ranks.

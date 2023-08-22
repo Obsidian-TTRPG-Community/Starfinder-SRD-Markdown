@@ -5,8 +5,10 @@ Prerequisites: Life Science or Physical Science 5 ranks.
 tags: 
 Type: General Feat
 ---
-# APT MENTOR
-**Source** _Near Space pg. 132_  
+
+# Apt Mentor
+
+**Source**:: _Near Space pg. 132_  
 Headteachers are prestigious scholars who have become revered experts in their fields after decades of dedication. Like these famous osharu scholars, you pride yourself in exuding not only confidence but warmth, which helps you mentor others in their fields.
 
 **Prerequisites**: Life Science or Physical Science 5 ranks.

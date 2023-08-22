@@ -5,8 +5,10 @@ Prerequisites:
 tags: 
 Type: General Feat
 ---
-# EFFORTLESS AEROBATICS
-**Source** _Galaxy Exploration Manual pg. 51_  
+
+# Effortless Aerobatics
+
+**Source**:: _Galaxy Exploration Manual pg. 51_  
 You’re particularly graceful while airborne.
 
 **Benefit**: When flying, it costs you no additional feet of movement to turn 45 degrees or ascend. At the GM’s discretion, maneuvering in high-wind conditions might still require additional feet of movement to turn or ascend.

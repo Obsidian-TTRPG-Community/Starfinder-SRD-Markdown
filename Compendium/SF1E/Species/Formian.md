@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 68_  
+**Source**:: _Interstellar Species pg. 68_  
 
 [[Species_Formian.png|Zeigen!]]
 The unification of the formian species and the formation of the Colonies transformed their society from a collection of warring hives into an ever-advancing industrial collective with complex social hierarchies. Despite a strict caste system that endures to this day, a great deal of value is placed on the health and well- being of individuals.  
@@ -80,6 +80,6 @@ Arkichi, Chakik, Gruuk, Kachigig, Krik, Trrikit't, and Urkai.
 
 # Alternate Racial Traits
 
-**Source** _Interstellar Species pg. 71_  
+**Source**:: _Interstellar Species pg. 71_  
 Some formians develop functional wings that are segmented and partly fold into grooves in the carapace between the shoulders when not in use. Known as alates, these winged individuals are often reproductive formians who travel widely to establish new colonies. After mating, these formians typically lose their wings and become queens, retiring from their adventures for the good of their burgeoning hive. For a variety of reasons, though, alates might retain their wings permanently. Although adept fliers, these formians’ carapaces are notably softer than average and lack most of the typical defensive protrusions. Formian alates have an extraordinary fly speed of 30 feet with average maneuverability.  
 This replaces natural weapons and sonic resistance.

@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# SNUFF LIFE
 
-**Source** _Starfinder Core Rulebook pg. 377_  
-**Classes** Mystic 6, Precog 6  
-**School** necromancy (death)  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
-**Targets** up to one creature/2 levels, no two of which can be more than 30 ft. apart  
-**Duration** instantaneous  
-**Saving Throw** Fortitude partial, see text; **Spell Resistance** yes
+# Snuff Life
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 377_  
+**Classes**:: Mystic 6, Precog 6  
+**School**:: necromancy (death)  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Targets**:: up to one creature/2 levels, no two of which can be more than 30 ft. apart  
+**Duration**:: instantaneous  
+**Saving-Throw**:: Fortitude partial, see text;
+**Spell Resistance**:: yes
+
+## Description
 
 You twist the essence of life that flows through your targets, snuffing the spark out of weaker creatures and debilitating or disabling others. This spell’s effects depend on each target’s CR.
 

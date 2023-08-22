@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# CONTROL GRAVITY
 
-**Source** _Starfinder Core Rulebook pg. 345_  
-**Classes** Mystic 6, Technomancer 6, Witchwarper 6  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
+# Control Gravity
+
+**Source**:: _Starfinder Core Rulebook pg. 345_  
+**Classes**:: Mystic 6, Technomancer 6, Witchwarper 6  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Area** up to one 10-ft. cube/2 levels (S)  
-**Duration** 1 round/level (D)  
-**Saving Throw** Fortitude negates, see text; **Spell Resistance** no
+**Duration**:: 1 round/level (D)  
+**Saving-Throw**:: Fortitude negates, see text;
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You can control gravity in an area, causing it to reverse, become zero-g, or become extremely strong. A creature or object within the area that succeeds at its saving throw is unaffected (though if it stays in the area, it must succeed at a new save each round or become affected), but it might still suffer secondary effects (such as an object flying up from reversed gravity, or an object falling upon it when the spell ends). You choose how to have this spell affect gravity when you cast it, and you cannot change it without recasting the spell. If two _control gravity_ spells affect the same area, they negate each other in the area of overlap.
 

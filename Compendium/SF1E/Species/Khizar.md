@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# KHIZAR
+
+# Khizar
+
 > [!infobox|left n-th clean]
 >  [[Khizar.png|Spielern zeigen!]]
 > Plantlike humanoids, the solemn khizars live in harmony with the natural environment, and many strive to protect the wilderness areas they inhabit. While this often brings them into conflict with other species and cultures, khizars are eager to learn about others’ ways in an effort to understand them.  
@@ -16,31 +18,31 @@ Khizars have a strong sense of individuality, but they maintain no gender or cul
 **Ability Modifiers** +2 Con, +2 Wis, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Khizars are Medium humanoids with the khizar and plantlike subtypes.  
 
-## CARBONIC RESPIRATION
+## Carbonic Respiration
 
 Khizars breathe in carbon dioxide and exhale oxygen. In situations of slow suffocation, a khizar reduces the effective number of creatures consuming air by two, unless no oxygen-breathing creatures are present.  
 
-## EVERGREEN
+## Evergreen
 
 For effects targeting creatures by type, khizars count as both humanoids and plants. They receive a +2 racial bonus to saving throws against mind-affecting effects, paralysis, poison, sleep effects, and stunning, unless the effect specifies that it works against plants. Khizars can go without food for three times longer than other humanoids as long as they are exposed to natural sunlight for at least 4 hours per day.  
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Khizars can communicate telepathically with any creatures within 30 feet with whom they share a language.  
 
-## NATURAL EMPATHY
+## Natural Empathy
 
 Khizars have an empathic understanding of the natural world, giving them a +2 racial bonus to Life Science and Survival checks. Additionally, they can use their limited telepathy to communicate with non-mindless creatures of the plant type without sharing a common language.  
 
-## SENSES AND SPEECH
+## Senses and Speech
 
 Khizars have no eyes or visual senses, other than the ability to perceive the presence or absence of light. Khizars have blindsense (vibration) and blindsight (life), each with a range of 30 feet. Khizars can’t speak and can communicate only via telepathy.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6-7 ft.  
 **Average Weight** 150- 250 lbs.  

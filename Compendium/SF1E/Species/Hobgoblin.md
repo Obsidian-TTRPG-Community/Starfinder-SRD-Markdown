@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HOBGOBLIN
+
+# Hobgoblin
 
 > [!infobox|left n-th clean]
 >  [[Hobgoblin.png|Spielern zeigen!]]
@@ -23,66 +24,66 @@ A typical hobgoblin is 5 feet tall and weighs 160 pounds.
 **Ability Modifiers** +2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Hobgoblins are Medium humanoids with the goblinoid subtype.  
 
-## BATTLE HARDENED
+## Battle Hardened
 
 Hobgoblins are trained for combat from an early age, and they quickly learn that a foe can do much more than just hurt you. Hobgoblins gain a +1 racial bonus to AC against combat maneuvers.  
 
-## DARKVISION
+## Darkvision
 
 Hobgoblins have darkvision with a range of 60 feet.  
 
-## FEARSOME
+## Fearsome
 
 Hobgoblins gain a +2 racial bonus to Intimidate checks.  
 
-## SNEAKY
+## Sneaky
 
 Hobgoblins gain a +2 racial bonus to Stealth checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4–6 ft.  
 **Average Weight** 150–250 lbs.  
 **Age of Maturity** 14 years  
 **Maximum Age** 60+2d10 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Though most hobgoblins match the ability score adjustments presented in Starfinder Alien Archive 2, they are also very adaptive, which has allowed them to settle worlds less habitable for other species. As a result, hobgoblins who successfully adapt to these different, harsh conditions develop divergent qualities. Such hobgoblins have ability score adjustments as listed below, instead of the standard adjustment of +2 Dexterity.
 
-## HARDWORLDER
+## Hardworlder
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Many hobgoblins have settled on higher-gravity worlds, sometimes in an intentional effort to strengthen their offspring through hardship. A hardworlder hobgoblin’s ability score adjustment is +2 Strength.
 
-## WARHOB
+## Warhob
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Rather than claim a home world or settle in any one permanent location, some hobgoblins form permanent roving military bands, filling various battle roles from birth to old age and moving from one war to the next. In this harsh life, only the tough survive. Some hire out as mercenaries, while others are essentially pirate raiders, creating nothing of their own. A warhob hobgoblin’s ability score adjustment is +2 Constitution.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 As hobgoblins continue to expand and adapt, taking any steps necessary to ensure success and survival, an increasing percentage of hobgoblin populations includes outliers with uncommon abilities.
 
-## ARMOR TRAINING
+## Armor Training
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Hobgoblins have a close relationship with their kanabo kin and learn from them whenever they can. When wearing armor, hobgoblins gain a +1 racial bonus to AC.  
 This replaces battle hardened.
 
-## SCIENCE OF WAR
+## Science of War
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Hobgoblin engineers are valued for their skill in building the engines of war. Hobgoblins with this racial trait gain a +2 racial bonus to Engineering checks.  
 This replaces sneaky.
 
-## THIRD EYE
+## Third Eye
 
 **Source** [_Near Space pg. 130_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 With the ban on magic lifted, some Hobgoblin clans have attempted magical experimentation to augment themselves to the extreme. Hobgoblins with this racial trait gain a small, third eye on their forehead, gain low-light vision, and can use _supercharge weapon_ once per day as a spell-like ability.  

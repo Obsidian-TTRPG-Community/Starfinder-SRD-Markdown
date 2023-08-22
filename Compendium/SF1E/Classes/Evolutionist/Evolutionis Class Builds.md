@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# EVOLUTIONIST CLASS BUILDS
+
+# Evolutionist Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,113 +16,113 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-## BROADLEAF BATTLER
+## Broadleaf Battler
 
-### THEME: WILD WARDEN
+### Theme: Wild Warden
 
-**Source** _Interstellar Species pg. 19_  
+**Source**:: _Interstellar Species pg. 19_  
 You tap into the potential of the green wilds to protect allies and overwhelm enemies with outbursts of overgrowth.
 
-### EVOLUTIONARY FOCUS
+### Evolutionary Focus
 
 Packmaster
 
-### NICHE
+### Niche
 
 Vital
 
-### EVOLUTIONIST ADAPTATIONS
+### Evolutionist Adaptations
 
 Dazzling outburst (2nd), Area strike (6th), Forceful outburst (10th), Controlled transformation (14th)
 
-### FEATS
+### Feats
 
 Barricade, Iron Will, Bodyguard, Medical Expert
 
-### SKILLS
+### Skills
 
 Acrobatics, Perception, Culture, Stealth  
   
 
-## CRYPT CUSTODIAN
+## Crypt Custodian
 
-### THEME: DEATH TOUCHED
+### Theme: Death Touched
 
-**Source** _Interstellar Species pg. 19_  
+**Source**:: _Interstellar Species pg. 19_  
 Your intimacy with death grows with each passing day. You know how to invoke its power in yourself and others—for good or ill.
 
-### EVOLUTIONARY FOCUS
+### Evolutionary Focus
 
 Combat
 
-### NICHE
+### Niche
 
 Sepulchral
 
-### EVOLUTIONIST ADAPTATIONS
+### Evolutionist Adaptations
 
 Resistant form (2nd), Fearsome outburst (6th), Enhanced resistance (10th),Violent outburst (14th)
 
-### FEATS
+### Feats
 
 Deadly Aim, Great Fortitude, Diehard, Minor Psychic Power
 
-### SKILLS
+### Skills
 
 Culture, Perception, Intimidate, Stealth  
   
 
-## ELDRITCH CHAMPION
+## Eldritch Champion
 
-### THEME: PRIEST
+### Theme: Priest
 
-**Source** _Interstellar Species pg. 18_  
+**Source**:: _Interstellar Species pg. 18_  
 You’re blessed by a deity to become much more than what you started out as, transforming into a practical scion of that greater power.
 
-### EVOLUTIONARY FOCUS
+### Evolutionary Focus
 
 Augmentation
 
-### NICHE
+### Niche
 
 Eldritch
 
-### EVOLUTIONIST ADAPTATIONS
+### Evolutionist Adaptations
 
 Distant strikes (2nd), Extraordinary sense (6th), Augmented potential (10th), Pinpoint sense (14th)
 
-### FEATS
+### Feats
 
 Far Shot, Improved Initiative, Mobility, Shot on the Run
 
-### SKILLS
+### Skills
 
 Acrobatics, Mysticism, Culture, Stealth  
   
 
-## SCRAPPER
+## Scrapper
 
-### THEME: ROBOTICIST
+### Theme: Roboticist
 
-**Source** _Interstellar Species pg. 18_  
+**Source**:: _Interstellar Species pg. 18_  
 At each opportunity you become more and more mechanical, upgrading your biological components into technological ones.
 
-### EVOLUTIONARY FOCUS
+### Evolutionary Focus
 
 Augmentation
 
-### NICHE
+### Niche
 
 Mechanized
 
-### EVOLUTIONIST ADAPTATIONS
+### Evolutionist Adaptations
 
 Versatile strike (2nd), Enhanced mobility (6th), Extreme mobility (10th), Explosive strike (14th)
 
-### FEATS
+### Feats
 
 Deadly Aim, Suppressive Fire, Fleet, Toughness
 
-### SKILLS
+### Skills
 
 Computers, Perception, Intimidate, Survival

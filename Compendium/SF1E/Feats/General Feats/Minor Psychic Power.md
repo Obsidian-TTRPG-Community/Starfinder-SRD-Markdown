@@ -5,8 +5,10 @@ Prerequisites: Cha 11.
 tags: 
 Type: General Feat
 ---
-# MINOR PSYCHIC POWER
-**Source** _Starfinder Core Rulebook pg. 160_  
+
+# Minor Psychic Power
+
+**Source**:: _Starfinder Core Rulebook pg. 160_  
 You have a minor natural psychic ability.
 
 **Prerequisites**: Cha 11.

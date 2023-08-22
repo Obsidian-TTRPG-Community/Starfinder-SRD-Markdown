@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# AUTTAINE DETECTIVE
+
+# Auttaine Detective
+
 **XP 25,600**  
 Auttaine technomancer  
 N Medium humanoid (half-construct, human)  

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Alien Archive pg. 124_  
+**Source**:: _Alien Archive pg. 124_  
 
 [[AA1_Wrikreechee.png|Zeigen!]]
 Spindly and deliberate, wrikreechees are chitinous filter feeders who bear as much a resemblance to mollusks as they do to airbreathing humanoids. Their two lower limbs are robust, capable of clinging to jagged surfaces for extended periods, while their forelimbs bear dozens of long, fibrous whiskers that fan out like baleen to catch passing food particles. These forelimbs each also bear a set of three grasping claws, with which a wrikreechee can manipulate objects, tools, and weapons.  

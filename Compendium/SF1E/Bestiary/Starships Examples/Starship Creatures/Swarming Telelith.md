@@ -5,7 +5,8 @@ tags:
 Tier: 2
 Type: N Small starship magical beast
 ---
-# SWARMING TELELITH
+
+# Swarming Telelith
 
 N Small starship magical beast, **Tier** 2
 **Speed** 12; **Maneuverability** perfect (turn 0); **Drift** —  
@@ -16,18 +17,18 @@ N Small starship magical beast, **Tier** 2
 **Attack (Turret)** hurl debris (4d4)  
 **Power Core** small telelith heart (120 PCU); **Drift Engine** none; **Systems** mk 4 armor, mk 4 defenses; **Expansion Bays** none
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +12 (2 ranks)  
 **Gunner (1 action)** gunnery +6 (2nd level)  
 **Pilot (1 action)** Piloting +13 (2 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum or the Drift  
 **Organization** solitary, pair, or knot (3–12)
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Auto-Destruct (Ex)** When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
 
@@ -44,7 +45,7 @@ N Small starship magical beast, **Tier** 2
 
 **Slam (Ex)** A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
 
-## DESCRIPTION
+## Description
 
 Teleliths, often called “living asteroids,” look like irregular rock chunks dozens to hundreds of feet across. Difficult to distinguish from ordinary asteroids tumbling through space, teleliths are silicon-based entities with a rudimentary intelligence and a predilection for disguise. Teleliths feed on metal and are particularly drawn to dense or highly refined materials, such as those found in space stations and starships. Although some teleliths are scavengers, drifting lazily through asteroid fields to feed on metal-rich finds, others are ambush predators. Such teleliths lurk amid asteroids, wreckage, or other debris, waiting to launch themselves at passing vessels.
 

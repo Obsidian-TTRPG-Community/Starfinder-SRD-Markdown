@@ -5,7 +5,9 @@ tags:
 Tier: 15
 Type: Gargantuan battleship
 ---
-# NORIKAMA VALKYRIE
+
+# Norikama Valkyrie
+
 > [!infobox|locr n-th clean]
 >  [[Starship_NorikamaValkyrie.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Gargantuan battleship, **Tier** 15
 **Attack (Turret)** particle beam (8d6; 20 hexes)  
 **Power Core** Gateway Heavy (400 PCU); **Drift Engine** Signal Basic; **Systems** budget long-range sensors, crew quarters (luxurious), mk 10 armor, mk 10 defenses, mk 1 trinode computer; **Expansion Bays** cargo holds (2), conference and meeting rooms, hangar bay, recreation suite (gym); **Modifiers** +1 to any three checks per round, +1 Piloting; **Complement** 222 (minimum 100, maximum 300)
 
-### CREW
+### Crew
 
 **Captain** Bluff +26 (15 ranks), Diplomacy +31 (15 ranks), gunnery +22 (15th level), Intimidate +26 (15 ranks), Piloting +27 (15 ranks)  
 **Engineers (3 officers, 35 crew each)** Engineering +26 (15 ranks)  
@@ -29,7 +31,7 @@ Gargantuan battleship, **Tier** 15
 **Pilot (1 officer, 6 crew)** Piloting +32 (15 ranks)  
 **Science Officers (2 officers, 4 crew)** Computers +26 (15 ranks)
 
-## DESCRIPTION
+## Description
 
 Tired of being snubbed and dismissed by elites within the Veskarium, Norikama Syndicate recently launched a starship entirely of its own design: the Valkyrie. A capable battleship with deadly armaments; a bronze-tinted armored hull; and a sophisticated blue, white, and black interior, the Valkyrie is a sleek, stylish ship capable of holding its own on a battlefield. Designed to bring respect and legitimacy to Norikama and silence dismissive rumors regarding the company’s reputation for manufacturing shoddy knock-offs, the Valkyrie is making a splash throughout the Pact Worlds. Immediately adopted by peace-keeping organizations, mercenary groups, and organized crime syndicates, the Valkyrie has been touted as a masterpiece of fusion design, combining the best features of various cultures and styles in a way that’s fresh, bold, and forward-thinking.  
   

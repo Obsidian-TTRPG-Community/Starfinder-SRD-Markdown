@@ -5,8 +5,10 @@ Prerequisites: Life Science 1 rank, Medicine 1 rank, Physical Science 1 rank.
 tags: 
 Type: General Feat
 ---
-# MEDICAL EXPERT
-**Source** _Starfinder Core Rulebook pg. 159_  
+
+# Medical Expert
+
+**Source**:: _Starfinder Core Rulebook pg. 159_  
 You are an expert at medical science and caring for the ill.
 
 **Prerequisites**: Life Science 1 rank, Medicine 1 rank, Physical Science 1 rank.

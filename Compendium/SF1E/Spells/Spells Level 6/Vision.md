@@ -9,16 +9,17 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# VISION
 
-**Source** _Starfinder Core Rulebook pg. 384_  
-**Classes** Mystic 6, Precog 6  
-**School** divination  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** see text  
+# Vision
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 384_  
+**Classes**:: Mystic 6, Precog 6  
+**School**:: divination  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: See Text  
+
+## Description
 
 You pose a question about some person, place, or object while casting this spell. If the person or object is at hand or if you are in the place in question and you succeed at a caster level check (1d20 + your caster level, DC 20), you receive a vision about that person, place, or object. The information gained includes everything available about the target that could be discovered by spending weeks in dedicated research with excellent-quality but standard reference works.
 

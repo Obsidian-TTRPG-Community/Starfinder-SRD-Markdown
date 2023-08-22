@@ -5,8 +5,10 @@ Prerequisites: Base attack bonus +4.
 tags: 
 Type: General Feat
 ---
-# ENHANCED RESISTANCE
-**Source** _Starfinder Core Rulebook pg. 157_  
+
+# Enhanced Resistance
+
+**Source**:: _Starfinder Core Rulebook pg. 157_  
 You have trained your body to resist a particular type of damage.
 
 **Prerequisites**: Base attack bonus +4.

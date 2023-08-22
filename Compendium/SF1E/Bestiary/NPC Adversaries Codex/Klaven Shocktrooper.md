@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# KLAVEN SHOCKTROOPER
 
+# Klaven Shocktrooper
 
 **XP 600**  
 Klaven soldier  

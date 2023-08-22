@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# PRYING EYES
 
-**Source** _Starfinder Core Rulebook pg. 370_  
-**Classes** Precog 5, Technomancer 5  
-**School** divination  
-**Casting Time** 1 minute  
-**Range** 1 mile  
+# Prying Eyes
+
+**Source**:: _Starfinder Core Rulebook pg. 370_  
+**Classes**:: Precog 5, Technomancer 5  
+**School**:: divination  
+**Casting-Time**:: 1 minute  
+**Range**:: 1 mile  
 **Effect** 20 magical sensors  
-**Duration** 1 hour/level (D); see text  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: 1 hour/level (D); see text  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You create 20 semitangible, visible magical orbs called “eyes.” These eyes move out, scout around, and return as you direct them when casting the spell. Each eye can see 120 feet (normal vision only) in all directions.
 

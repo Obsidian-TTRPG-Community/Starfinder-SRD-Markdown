@@ -9,14 +9,15 @@ Witchwarper:
 ---
 # AWAKEN COMPUTER
 
-**Source** _Character Operations Manual pg. 133_  
-**Classes** Technomancer 4  
-**School** transmutation  
-**Casting Time** 10 minutes  
-**Range** touch  
-**Targets** one computer  
-**Duration** instantaneous  
-**Saving Throw** no (object); **Spell Resistance** no (object)
+**Source**:: _Character Operations Manual pg. 133_  
+**Classes**:: Technomancer 4  
+**School**:: transmutation  
+**Casting-Time**:: 10 minutes  
+**Range**:: touch  
+**Targets**:: one computer  
+**Duration**:: instantaneous  
+**Saving-Throw**:: no (object);
+**Spell Resistance**:: No (object)
 
 ## DESCRIPTION
 

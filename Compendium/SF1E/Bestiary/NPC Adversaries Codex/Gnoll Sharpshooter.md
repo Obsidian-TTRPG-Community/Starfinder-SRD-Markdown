@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GNOLL SHARPSHOOTER
 
+# Gnoll Sharpshooter
 
 **XP 800**  
 Gnoll soldier  

@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Interstellar Species pg. 56_  
+**Source**:: _Interstellar Species pg. 56_  
 
 [[Species_Cephalume.png|Zeigen!]]
 In 1 AG, Pact Worlds scientists emerging from the Gap discovered a data file detailing a bizarre species that swam in methane but had a plantlike physiology, which kept living symbiotes but built homes out of the bodies of their own dead, and communicated solely through bioluminescence. Scholars assumed cephalumes were a thought experiment, the result of a brainstorming session by creative xenobiologists imagining what might be possible. Then came the Signal, and soon after, the first cephalume explorers arrived at Absalom Station in one of their own starships, modified to travel through the Drift. Cephalumes were real after all.  

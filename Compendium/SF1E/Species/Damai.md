@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# DAMAI
+
+# Damai
+
 > [!infobox|left n-th clean]
 >  [[Damai.png|Spielern zeigen!]]
 > 
@@ -26,51 +28,51 @@ The average damai has gray skin, stands 6 feet tall, and weighs around 175 pound
 **Ability Modifiers** +2 Cha, +2 Dex, -2 Wis  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Damais are Medium humanoids with the damai subtype.  
 
-## LOW-LIGHT VISION
+## Low-light Vision
 
 Damais have low-light vision.  
 
-## SCRAPPY
+## Scrappy
 
 Generations of living together in underground shelters and under the constant threat of enormous creatures have taught damais to work together against all odds. Once per day, as long as an ally is within 10 feet, a damai can reroll a failed attack roll or saving throw.  
 
-## SURVIVOR
+## Survivor
 
 Damais have ingrained survivalist senses and gain a +2 racial bonus to Stealth and Survival checks. This bonus increases to +3 when a damai is underground.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–7 ft.  
 **Average Weight** 100–250 lbs.  
 **Age of Maturity** 14 years  
 **Maximum Age** 80+2d20 years
 
-# ALTERNATE ABILITY ADJUSTMENTS
+# Alternate Ability Adjustments
 
 **Source** [_Near Space pg. 127_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 The majority of damais have the ability adjustments found on page 33 of Alien Archive 2, as these adjustments represent overall trends for damais across the galaxy. However, some damais deviate from these generalities, whether from a unique upbringing or due to an individual’s idiosyncrasies. One such group of damais is represented below. They have the listed ability score adjustments, instead of the standard adjustments of +2 Charisma, +2 Dexterity, −2 Wisdom.
 
-## CEREBRAL
+## Cerebral
 
 **Source** [_Near Space pg. 127_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Though many damais rely on strong personality to pursue their fortunes, some find themselves naturally more capable in soaking up knowledge, and they apply it to practical use in their daily lives. Damai legend claims that these cerebral, frail members of their species, once far more numerous, were responsible for the magnificent advancements in science, technology, and magic that far predated Daimalko’s Awakening. A cerebral damai’s ability adjustments are +4 Intelligence, –2 Constitution.
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Near Space pg. 127_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 While most damais have the standard racial traits detailed on page 33 of Alien Archive 2, specific individuals sometimes have unique abilities, represented by the following alternate racial traits. Damais with the empathic imprint trait are most likely to become Guardians, as described on page 74 of this book and page 464 of the Starfinder Core Rulebook.
 
-## BRAZEN BRAVADO
+## Brazen Bravado
 
 **Source** [_Near Space pg. 127_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Many damais rely on their incredible force of personality and in-the-moment ingenuity to get themselves out of scrapes, rather than on the survival skills common among their fellows. Damais with this racial trait gain a +2 racial bonus to Bluff and Sense Motive checks. In addition, when they aid another creature using one of these skills, the aid another bonus they provide increases to +3.  
 This replaces survivor.
 
-## EMPATHIC IMPRINT
+## Empathic Imprint
 
 **Source** [_Near Space pg. 127_](https://paizo.com/products/btq01zud?Starfinder-RPG-Near-Space)  
 Some damais are born with an innate connection to the feelings and moods of those around them, and they can focus this empathy to glean insights that others normally could not. Once per day, a damai with this racial trait can cast mindlink as a spelllike ability. The caster level for this effect equals the damai’s level.  

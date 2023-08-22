@@ -5,8 +5,10 @@ Prerequisites: Cha 11.
 tags: 
 Type: General Feat
 ---
-# MINOR STAGE MAGIC
-**Source** _Pact Worlds pg. 191_  
+
+# Minor Stage Magic
+
+**Source**:: _Pact Worlds pg. 191_  
 Entertainers and icons from entertainment houses such as the Hamisfore Theatorium on Absalom Station to Eox’s Halls of the Living understand the importance of showmanship. From a famous mentor or through your own inventiveness, you have developed a minor magical trick to entertain or distract.
 
 **Prerequisites**: Cha 11.

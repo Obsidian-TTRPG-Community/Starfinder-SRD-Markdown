@@ -3,12 +3,12 @@ aliases:
 tags: 
 ---
 
-# CARGO
+# Cargo
 
 **Source** _Ports of Call pg. 166_  
 The life of an independent trader isn’t an easy one. On paper, the career is simple: get a ship, get a crew, get cargo, and get paid. Nothing ever goes as planned, however—starships break down or get caught in firefights, a journey through the Drift turns out far more dangerous than anyone expected, sellers charge too much, and naturally, buyers pay too little. But the prospect of danger and uncertainty make for an exciting Starfinder campaign! The following optional rules provide a new way to structure a campaign for independent merchant PCs flying a starship of their own, buying, moving, and selling cargo in the Pact Worlds, Near Space, and the Vast. These rules are especially useful in sandbox-style campaigns; see chapter 3 of the Starfinder Galaxy Exploration Manual for more on designing and running sandbox adventures.  
 
-# ALTERNATIVE BUILDING POINTS
+# Alternative Building Points
 
 **Source** _Ports of Call pg. 166_  
 The focus of these new rules alters the way PCs obtain Build Points (BP) for building and upgrading starships. In the standard rules, BP are a pool that constantly increases as the PCs level up. Build Points are never lost; if the PCs’ starship is completely destroyed, they can just use their BP to purchase a new starship when the GM allows it. However, in the cargo subsystem, Build Points become a form of currency. The PCs spend BP on their starship and cargo and earn BP when they sell that cargo.  
@@ -17,7 +17,7 @@ The Starfinder Core Rulebook includes some guidelines for how the PCs can acquir
 In the rules presented here, Build Points represent the party’s business capital. That capital has many components, including the PCs’ available credit, loans they’ve taken out, and assets they might use as collateral. This capital is used to make big purchases—lots of cargo or starship modifications, often with the help of financing from a bank or other establishment.  
 To begin, the PCs receive a number of Build Points as determined by their Average Party Level (APL) as noted in Table 9–1: Starship Base Statistics on page 294 of the Core Rulebook. They should use those BP to build their starship as usual, keeping in mind that their vessel will need plenty of room for cargo and that they’ll need a few BP to purchase that cargo.  
 
-# GALACTIC TRADE BASICS
+# Galactic Trade Basics
 
 **Source** _Ports of Call pg. 166_  
 The PCs will earn most of their Build Points by hauling cargo from one world to another. See page 171 for other ways the PCs can receive BP.  
@@ -30,17 +30,17 @@ A cargo job can be broken into several steps.
 
   
 
-## FIND CARGO
+## Find Cargo
 
 **Source** _Ports of Call pg. 166_  
 Cargo in the Starfinder setting is standardized into lots, each massing 25 tons; a single lot of cargo fits into one of a starship’s cargo holds. The PCs can easily tell the maximum number of lots they can transport by counting the number of cargo holds on their vessel. Finding cargo to buy is a downtime activity as detailed in the sidebar on page 168. For more on downtime activities, see page 150 of the Starfinder Character Operations Manual.  
 
-### CARGO TYPE
+### Cargo Type
 
 **Source** _Ports of Call pg. 166_  
 When the PCs successfully find a cargo to purchase, you determine the type of cargo, usually for the needs of your campaign. Alternatively, you can randomly determine the type of cargo by rolling a d20 on the table below.
 
-### TABLE 3-1:CARGO TYPES
+### Table 3-1:CARGO Types
 
 | d20 | Cargo                                                         |
 |-----|---------------------------------------------------------------|
@@ -68,17 +68,17 @@ When the PCs successfully find a cargo to purchase, you determine the type of ca
 
   
 
-### SHIPPING OR SPECULATION?
+### Shipping or Speculation?
 
 **Source** _Ports of Call pg. 167_  
 Player characters are usually more than simple delivery drivers, hired to move bulk cargo along well-established routes for a flat fee. Instead, when the PCs purchase cargo, it will generally be up to them to find a place to sell it. However, at your discretion, the seller can give the PCs a tip as to where they might offload the cargo they just bought. This is a good tactic for players who are only just starting to interact with this system or for groups who only want to dip their toes into the trading game. In such a case, the PCs don’t need to use the find buyer downtime activity (page 169) and receive an amount of BP per cargo lot chosen by you.  
 
-### DESTINATION
+### Destination
 
 **Source** _Ports of Call pg. 167_  
 If you’ve decided that the cargo’s seller gives the PCs an idea of where to sell those goods, you can choose that destination based on the needs of your campaign (especially if the players have expressed interest in going to a specific place). Alternatively, you can randomly determine the general destination by rolling a d10 on the table below.
 
-### TABLE 3-2: DESTINATIONS
+### Table 3-2: Destinations
 
 | D10  | Destination                                                               |
 |------|---------------------------------------------------------------------------|
@@ -90,13 +90,13 @@ If you’ve decided that the cargo’s seller gives the PCs an idea of where to 
 
   
 
-## DETERMINE COMPLICATION
+## Determine Complication
 
 **Source** _Ports of Call pg. 167_  
 Once the PCs find cargo, but before they commit to purchasing it, you should determine what makes this particular job unusual. This complication is up to you and can range from the seller trying to unload vermin-infested cargo on the PCs to a buyer who wants the goods for illegal purposes. How the PCs deal with each complication—if they discover it at all—is up to them.  
 To randomly determine a complication, roll a d20 on the table below, keeping the result a secret. You can tweak a result for the needs of your campaign, and if you’ve rolled the same result from the table a few times, consider throwing out that entry and substituting one of your own! If a complication requires a skill check, the DC for that check equals 15 + 1-1/2 × the party’s APL. Usually, only one PC should be given the chance to attempt this check. A complication that the PCs can be made aware of before purchasing the cargo is marked with an asterisk (\*), and some complications modify the cargo’s buy or sell price.
 
-### TABLE 3-3: RANDOM COMPLICATIONS
+### Table 3-3: Random Complications
 
 | D20 | Complications      |
 |-----|--------------------|
@@ -141,28 +141,28 @@ To randomly determine a complication, roll a d20 on the table below, keeping the
 **Uncommon Tongue\*:** The seller of the cargo speaks an unusual language, chosen by the GM or determined randomly from “Other Languages” (Core Rulebook 41). If the PCs can’t find a way to communicate with them, no sale.  
 **Vermin\*:** The cargo is infested with tiny or smaller creatures. A PC discovers them with a successful Life Sciences check. If found before purchase, reduce the buy price by 2 BP per lot and spend 1 day fumigating. If found after purchase, reduce sell price by 2 BP per lot; additionally, the vermin may infest the ship.  
 
-## TRANSPORT
+## Transport
 
 **Source** _Ports of Call pg. 169_  
 The next step is for the PCs to get the cargo onto their starship and transport it to a place where it can be sold. In general, the farther the PCs take the cargo, the more it’s worth. This factors into the cargo’s sell price, which is determined when the PCs try to sell it (see below).  
 
-### CARGO HANDLING
+### Cargo Handling
 
 **Source** _Ports of Call pg. 169_  
 Loading or unloading a single lot into a starship cargo hold takes 1 hour for one person using a cargo lifter (Starfinder CoreRulebook 204) or similar equipment. Without such equipment, loading the same lot takes 8 hours of labor; multiple people can work together to reduce this time. For example, it takes 4 hours for two people without major equipment to load a single lot into a cargo hold. While the PCs will usually be able to take their time, a complication might mean that every hour counts!  
 The PCs will also have to unload the cargo once they reach the world where they want to sell it, but this generally occurs while at least one of the crew engages in the find buyer downtime activity.  
 
-## MAKE THE SALE
+## Make the Sale
 
 **Source** _Ports of Call pg. 169_  
 When the PCs have reached the area where they want to try to sell their cargo, finding a buyer is a downtime activity, as detailed in the “Find Buyer” sidebar. Certain complications might make this more difficult, but once a buyer is found, you need to determine the sale price.  
 
-### CARGO SELL PRICE
+### Cargo Sell Price
 
 **Source** _Ports of Call pg. 169_  
 First, determine the base sell price of a cargo by rolling a d8; if you roll an 8, roll again once and add the new result to 8. This result is modified by the distance traveled (as noted on the table below) and any complications, in that order, resulting in a sale price per lot (minimum 1 BP per lot). Finally, the results of the PCs’ find buyer downtime activity might also alter this price.
 
-### TABLE 3-4: TRANSPORT MODIFIERS
+### Table 3-4: Transport Modifiers
 
 | Travel Time | Destination                                                               | Base Sell Price Modifier |
 |-------------|---------------------------------------------------------------------------|--------------------------|
@@ -171,13 +171,12 @@ First, determine the base sell price of a cargo by rolling a d8; if you roll an 
 | 3d6 days    | A world in Near Space                                                     | No change                |
 | 5d6 days    | A world in the Vast                                                       | +1 BP/lot                |
 
-
-# SPENDING BUILD POINTS
+# Spending Build Points
 
 **Source**_Ports of Call pg. 169_  
 The following section expands on the rules for spending Build Points and includes some obligatory expenditures (like upgrading the PCs’ starship so they can take on bigger jobs and bigger threats), as well as new options (like a comfortable lifestyle or the hiring of employees). The PCs can hold onto as many unspent BP as they like.  
 
-## EXPANSION
+## Expansion
 
 **Source**_Ports of Call pg. 169_  
 The PCs can spend BP to hire agents, professional representatives, and even full-time employees who work for them. They can even buy another starship and hire crew to haul cargo as part of their overall business. When the PCs hirepersonnel to expand their business, you decide the NPCs’ stats (though usually, an NPC has a total skill bonus in a handful of skills equal to 4 + 1-1/2 × their CR). They are generally loyal to the PCs but won’t risk their lives. If treated poorly, they might leave the PCs’ service. Employees hired by the PCs agree to a 1-year contract; at the end of that term, the PCs must renew this contract or the NPC leaves their service.  
@@ -185,7 +184,7 @@ The PCs can spend BP to hire agents, professional representatives, and even full
 **System-Wide Representative:** A system-wide representative is similar to a planetary agent but will travel to any world in a single star system (such as the Pact Worlds system). A system-wide representative costs BP equal to twice the representative’s CR, which can be no higher than the party’s APL.  
 **Starship:** The PCs can use their BP to buy another starship. This starship can’t be higher in tier than the party’s APL – 2 and is likely to be much lower. The PCs must spend additional BP equal to 5 × the starship’s tier to hire an NPC crew to run this starship; each crew member has a CR equal to the starship’s tier, and they follow the PCs’ instructions when it comes to buying, transporting, and selling cargo, as well as the day-to-day operations of the starship. All the BP earned by this second ship goes to the party’s pool of BP, and the PCs are responsible for the other costs of any additional starships they own.  
 
-## INSURANCE
+## Insurance
 
 **Source**_Ports of Call pg. 170_  
 The PCs can insure their starship or cargo, so that if their starship is destroyed or their cargo is lost, they can recover some or all of the value. Starship insurance policies cost a number of BP equal to a percentage of their starship’s total BP value at time of purchase (see below). An insurance policy remains in effect for 1 year; after this time, the PCs must buy a new policy (at a higher price if their starship has increased in BP value). If the PCs’ starship is completely destroyed while the policy is in effect, the PCs receive a percentage of the ship’s BP value in payment. The rest of the BP the PCs spent on their starship are lost!  
@@ -193,40 +192,40 @@ Starship insurance policies are rated bronze, silver, and gold. A bronze insuran
 To insure cargo, the PCs can buy a policy for 10% of the cargo’s buy price (minimum 1 BP). If the cargo is lost and not delivered, and the PCs can prove that they weren’t negligent or didn’t steal the cargo, they’re repaid BP equal to the cargo’s buy price.  
 The PCs can have only one insurance policy per starship and per each cargo.  
 
-## LIFESTYLE
+## Lifestyle
 
 **Source**_Ports of Call pg. 170_  
 The PCs can spend BP to live the good life. There are two degrees of lifestyle expenditure: comfortable and luxurious. These degrees assume a group of 4 PCs; you can adjust the costs for larger and smaller groups as you see fit.  
 **Comfortable:** The party spends 1 BP to live comfortably for 1 month on a single world or space station. The PCs reside in spacious lodgings decorated to their taste, have access to stylish personal transportation, and enjoy their favorite entertainments. They partake in high-quality food and drink whenever they wish and attire themselves in fashionable and flattering clothing. This lifestyle doesn’t impart any mechanical benefits to the characters.  
 **Luxurious:** The party spends 5 BP to live in luxury for 1 month on a single world or space station. The PCs reside in fabulous homes in an elite neighborhood; they have multiple forms of personal transportation, including custom-made vehicles and antiques, and their wardrobe is full of unique fashions made for them by famous designers (equivalent to formal wear). A large staff of professionals—housekeepers, gardeners, personal tailors, groomers, and chauffeurs—see to everyday chores the PCs don’t wish to concern themselves with (each professional is a professional freelancer with a skill bonus equal to the party’s APL). When they wish to be entertained, they have tickets to all the most exclusive galas and parties, or they hire legendary performers and throw the party themselves. This lifestyle doesn’t impart any mechanical benefits to the characters.  
 
-## UPGRADES
+## Upgrades
 
 **Source**_Ports of Call pg. 171_  
 The PCs can spend BP on their starship if they have the time and facilities required to make such upgrades (Starfinder CoreRulebook 305). Using this system, the total BP value of the PCs’ starship can be no more than 5% higher than the value listed for its tier in Table 9-1: Starship Base Statistics on page 294 of the Core Rulebook.  
 For example, a group of 1st-level PCs have a tier 1 starship on which they’ve spent a total of 52 Build Points (saving the rest to purchase cargo). As they accumulate BP by selling cargo, they can spend at most 5 BP to upgrade their starship, raising its BP value to 57 (5% more than the 55 BP used to normally create a tier 1 starship). When their APL rises to 2, this group can upgrade their starship further, but not to a value higher than 78 BP (because a tier 2 starship is normally created with 75 BP). The PCs still can’t spend more than 1,000 BP on their starship when their APL reaches 20th.  
 
-## DOWNGRADES
+## Downgrades
 
 **Source**_Ports of Call pg. 171_  
 Due to bad luck or mishandling of cargo, the PCs might end up with no spare BP to keep the cycle of buying and selling going. In such cases, you can reward the PCs with BP as treasure (see below) to get them back on track, but if you want to be less generous, the PCs can sell parts of their starship to acquire BP. There’s no added cost to do this; for instance, if the PCs want to hock their vessel’s coilgun, they receive the weapon’s full BP cost of 6.  
 
-# RUNNING THE SYSTEM
+# Running the System
 
 **Source**_Ports of Call pg. 171_  
 The cargo subsystem helps to generate short adventures for cargo-hauling PCs, as there’s always a chance of something going wrong during what (at first) seemed like a simple cargo delivery. It also works hand-in-hand with a sandbox-style campaign, as the PCs will be traveling from world to world looking to buy low and sell high.  
 
-## SESSION ZERO
+## Session Zero
 
 **Source**_Ports of Call pg. 171_  
 Before beginning a game using this subsystem, make sure your players are interested in engaging in the life of freelance merchants—an occupation they hold alongside their adventures delving into alien ruins or fighting back against an evil empire. Free trader PCs aren’t beholden to any one patron and can go where they please, but this subsystem does involve additional bookkeeping, and some groups may feel strongly about that requirement.  
 
-## GMING EXPECTATIONS
+## Gming Expectations
 
 **Source**_Ports of Call pg. 171_  
 On average, the PCs will need to complete three to four cargo transport jobs to gain enough BP to upgrade their starship to the next tier. As the group advances in level, they might need to complete a few extra transport jobs per tier, depending on their market savvy and whether or not they’ve switched to a larger frame that can hold more cargo.Of course, during this time, the PCs should be having adventures and earning XP in the usual way (by overcoming skill-based challenges, defeating enemies, and from story-based rewards) so that the group’s APL keeps approximate pace with the amount of BP they can invest in their starship. At your discretion, you can reward the PCs with XP as if they had overcome an easy encounter (Core Rulebook 390) upon selling their cargo; this XP should be in addition to any XP they earn from encounters that emerge from complications.  
 
-## OTHER SOURCES OF BUILD POINTS
+## Other Sources of Build Points
 
 **Source**_Ports of Call pg. 171_  
 This subsystem assumes that the PCs earn their BP only from transporting and selling cargo. However, at your discretion, you can reward them with BP as treasure from particular encounters (such as a raid on a smuggling operation’s warehouse) or as salvage from starship combat encounters (such as a fight against a rogue Corpse Fleet ship). In the former case, the PCs might have to transport the BP to their ship much in the same way as loading cargo (count 4 BP as a lot of cargo for these purposes), and in the latter case, the PCs can spend a day salvaging BP from a defeated vessel equal to that starship’s tier.

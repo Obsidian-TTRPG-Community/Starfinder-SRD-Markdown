@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# FLANKING
+
+# Flanking
 
 **Source** Starfinder Core Rulebook pg. 254
 When making a melee attack, you gain a +2 bonus to attack rolls if your opponent is threatened (see page 255) by another creature on its opposite border or opposite corner. Only a creature that threatens the opponent can grant this bonus, and your bonus from flanking can never be higher than +2. Creatures with a reach of 0 feet can’t flank an opponent.  

@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# CAREFUL INITIATE
+
+# Careful Initiate
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 200**  
@@ -45,11 +47,11 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### BLACK HOLE (SU)
+#### Black Hole (SU)
 
 This functions as the solarian stellar revelation of the same name. As a standard action, the careful initiate can pull any number of creatures within 20 feet closer. Each target must succeed a DC 9 Fortitude saving throw or be pulled 10 feet towards the careful initiate.
 
-#### SUPERNOVA (SU)
+#### Supernova (SU)
 
 This functions as the solarian stellar revelation of the same name. As a standard action, the careful initiate can deal 2d6 fire damage to all creatures within 10 feet. A creature that succeeds a DC 9 Reflex saving throw takes half damage.
 

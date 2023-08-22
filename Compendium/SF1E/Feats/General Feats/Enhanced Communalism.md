@@ -5,8 +5,10 @@ Prerequisites: Character level 5th, communalism racial trait.
 tags: 
 Type: General Feat
 ---
-# ENHANCED COMMUNALISM
-**Source** _Character Operations Manual pg. 24_  
+
+# Enhanced Communalism
+
+**Source**:: _Character Operations Manual pg. 24_  
 You’re able to benefit from your allies’ presence more often.
 
 **Prerequisites**: Character level 5th, communalism racial trait.

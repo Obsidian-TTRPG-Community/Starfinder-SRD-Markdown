@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Deh-Nolo
+# Deh-nolo
 
 - [cr::14]
 - [combatType::spellcaster]

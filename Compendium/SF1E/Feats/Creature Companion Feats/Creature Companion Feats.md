@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# CREATURE COMPANSIONS
+
+# Creature Compansions
 
 Regardless of the way you gain a creature companion, granting your companion additional actions requires the Creature Companion Adept feat. You can become progressively better at working with your creature companion by taking subsequent creature companion feats.
 

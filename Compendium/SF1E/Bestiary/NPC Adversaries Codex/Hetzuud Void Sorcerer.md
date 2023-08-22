@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# HETZUUD VOID SORCERER
 
+# Hetzuud Void Sorcerer
 
 **XP 6,400**  
 Hetzuud mystic  

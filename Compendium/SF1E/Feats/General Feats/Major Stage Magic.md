@@ -5,8 +5,10 @@ Prerequisites: Cha 15, Minor Stage Magic, Stage Magic, character level 7th.
 tags: 
 Type: General Feat
 ---
-# MAJOR STAGE MAGIC
-**Source** _Pact Worlds pg. 191_  
+
+# Major Stage Magic
+
+**Source**:: _Pact Worlds pg. 191_  
 You wield illusions that misdirect, deceive, or entertain an audience.
 
 **Prerequisites**: Cha 15, Minor Stage Magic, Stage Magic, character level 7th.

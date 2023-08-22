@@ -5,8 +5,10 @@ Prerequisites: Strength 13, LFAN species trait
 tags: 
 Type: General Feat
 ---
-# MULTITUDINOUS LFAN
-**Source** _Interstellar Species pg. 111_  
+
+# Multitudinous Lfan
+
+**Source**:: _Interstellar Species pg. 111_  
 Your LFAN’s tendrils can lift heavy loads that unbalance you.
 
 **Prerequisites**: Strength 13, LFAN species trait

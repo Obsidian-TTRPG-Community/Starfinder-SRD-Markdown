@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# URBAN
+# Urban
 
 **Source** _Galaxy Exploration Manual pg. 88_  
 Whether a metropolis of pristine edifices or a deteriorating slum, an urban biome is defined by its inhabitants as much as its environment. Usually populated to the extreme, urban settlements overwhelm their visitors with a cast of foreboding characters that fill narrow alleys and lively plazas alike.  
@@ -12,29 +12,29 @@ Even if the streets are named and the ship decks numbered, urban environments mo
 Urban biomes are sometimes infused with their local ecosystem, and many settlements across the galaxy have less-than-hospitable locations. Your rich metropolis may rest at the bottom of an ocean with aquatic residents, float on islands in the sky, or be buried under a mountain. Some cities take advantage of locations with no atmosphere or places that lack natural terrestrial structures entirely, such as outposts on orbital bodies or dozens of starships linked together to form makeshift cities in the deadest parts of space. The primary residents of urban areas determine the area’s unique architecture, resulting in cities built for giants or scaled down for minuscule sapient creatures. Urban areas often allow technology to flourish, from AI deeply integrated into the environment to entirely non-biological residents. The possibility for the location of an urban settlement is limited only by the ingenuity of the people that populate it (or originally created it), and its structure is a reflection of its residents.  
 While populated cities on established planets offer many opportunities to expand on the culture and create population epicenters, urban environments don’t necessarily need to be populated. Explore the possibility of urban areas with minimal population, such as a city forcibly evacuated after a disaster, an abandoned space station, or a deteriorating metropolis. The scaffolding, locked storefronts, and factories remain as a gymnasium of obstacles bordering eerily silent streets.  
 
-## URBAN ADVENTURERS
+## Urban Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 88_  
 Urban areas offer fertile ground for opportunities to accumulate wealth and social status. Residents range from pillars of the community and culturally attuned icons to gritty underbelly grifters. Dense populations require power structures to operate, and many law enforcement officers and noble scions hail from these governments. The city also can be a brutal place, leaving its less fortunate occupants as street rats while corporate agents and diplomats trade in credits and information from shining towers that rise far above the crowded streets. Navigating bustling streets, lively markets, and malls hones the social and bartering skills of urban inhabitants, reflected in their Diplomacy, Intimidate, and Sense Motive skills. Young adventurers surrounded by technology tend to pick up skills with Computers and Engineering, which can be second nature to the affluent and a necessity in the dredges of urban living. The city also gives opportunities for its inhabitants to pursue a wide breadth of Profession skills. Ready access to vehicles driven throughout urban environments means that many urban inhabitants have some Piloting knowledge.  
 
-## URBAN WORLDS
+## Urban Worlds
 
 **Source** _Galaxy Exploration Manual pg. 89_  
 Most inhabited planets contain at least one or two pockets of truly urban areas, but some settlements or even entire worlds consist entirely of this sapient-constructed biome. The most common fully urban worlds are those built in the harshest reaches of space, where a manufactured atmosphere and metal walls provide the only livable refuge in deep space or orbiting other celestial bodies. An otherwise-unlivable chunk of rock can become a thriving metropolis with enough applied ingenuity.  
 Larger worlds entirely consumed by sprawling urban landscapes typically reflect a populace’s technological advancement and preference for the comforts of society over the planet’s rough natural environment. Such technological dominance can interfere with the world’s natural resources, weather, and habitats, possibly leaving a world in a dire situation if they still rely on those resources but haven’t adapted ways to compensate for their absence. The natural environment may fight back against the urban development, resulting in swaths of urban areas suffering floods, blizzards, earthquakes, and sandstorms—or simply being overtaken by the constant, rampant growth of flora. Urban worlds may exist purely due to the creative tenacity of the universe’s cultures as their technology expands to be able to create non-naturally occurring planetoids set into rotation around a sun.  
 
-## URBAN RULES AND REFERENCE
+## Urban Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 89_  
 Starfinder’s social and technological rules can help add unique elements to your urban adventures. Basic information on urban terrain appears on page 398 of the Core Rulebook, including how the clutter and cacophony of city streets might affect characters’ ability to perceive threats. The most important determining factor for urban adventures is going to be the settlement or city in which they take place. Pages 405–409 of the Core Rulebook, along with the tables in the Settlement Toolbox on pages 150–151 of this book, can help determine the primary elements of a settlement, as well as rules for typical manufactured structures like doors and walls and how to break them. Vehicles (Core Rulebook 228–229) and vehicle chases (Core Rulebook 285–287) are likely to appear in an urban biome.  
 In addition to the physical environment, the social construction of an urban biome is enhanced by the social rules. The Bluff, Diplomacy, and Intimidation skills will help visitors engage with residents, in particular the Change Attitude rules on pages 139–140 of the Core Rulebook. Finally, while cities can be found on almost any sapient-populated planet, consider incorporating environments such as space stations and space colonies, such as the ones demanded by inhospitable planets such as Vesk-5 (Near Space 44) and Preluria (Near Space 100).  
 
-## URBAN TOOLBOX
+## Urban Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 90_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### URBAN INHABITANTS
+### Urban Inhabitants
 
 | D%     | Sapient            | Threat                       |
 |--------|--------------------|------------------------------|
@@ -64,8 +64,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Wrikreechee        | Weaponized toy               |
 | 97–100 | Ysoki Witchwyrd    |
 
-
-### URBAN ADVENTURE HOOKS
+### Urban Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                      |
 |-----|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

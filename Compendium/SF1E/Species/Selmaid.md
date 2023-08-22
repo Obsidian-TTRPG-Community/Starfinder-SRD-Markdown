@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Ports of Call pg. 21_  
+**Source**:: _Ports of Call pg. 21_  
 
 [[Species_Selamid.png|Zeigen!]]
 Selamids are sentient oozes originating from the gravitationally dynamic planet of Silselrik, where they build cities called megadoplexes on the backs of immense, wandering oozes.  

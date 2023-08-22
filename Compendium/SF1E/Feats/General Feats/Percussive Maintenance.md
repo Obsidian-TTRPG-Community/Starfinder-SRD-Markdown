@@ -5,8 +5,10 @@ Prerequisites: Str 11.
 tags: 
 Type: General Feat
 ---
-# PERCUSSIVE MAINTENANCE
-**Source** _Character Operations Manual pg. 117_  
+
+# Percussive Maintenance
+
+**Source**:: _Character Operations Manual pg. 117_  
 You excel at the tried-and-true repair technique of delivering a solid whack at just the right spot to get malfunctioning technology to work.
 
 **Prerequisites**: Str 11.

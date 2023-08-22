@@ -5,8 +5,10 @@ Prerequisites: You know the polymorph spell as a 2nd-level spell or higher.
 tags: 
 Type: General Feat
 ---
-# PERPETUAL POLYMORPH
-**Source** _Interstellar Species pg. 87_  
+
+# Perpetual Polymorph
+
+**Source**:: _Interstellar Species pg. 87_  
 By assuming the form of a less powerful creature, you can dramatically extend the duration of your transformations.
 
 **Prerequisites**: You know the polymorph spell as a 2nd-level spell or higher.

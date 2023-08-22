@@ -4,7 +4,7 @@ Prerequisites: Change form species trait or Disguise 7 ranks.
 Benefit: Choose a creature type other than your own (such as undead if you’re a humanoid). You can disguise your species and creature type without increasing the DC of your Disguise check, provided that your assumed form’s creature type is either your own or the type you selected with this feat. Any other limitations to your assumed form still apply: for example, you can’t change your apparent creature type with disguise self, and an astrazoan must change into a Medium creature with their change form species trait.
 ---
 # MASTERFUL IMITATION
-**Source** _Interstellar Species pg. 51_  
+**Source**:: _Interstellar Species pg. 51_  
 Your mastery of disguises allows you to pass for creatures wildly different from your own species.
 
 **Prerequisites**: Change form species trait or Disguise 7 ranks.

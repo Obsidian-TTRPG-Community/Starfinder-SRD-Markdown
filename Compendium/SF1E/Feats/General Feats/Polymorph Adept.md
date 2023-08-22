@@ -5,8 +5,10 @@ Prerequisites: You know the _polymorph_ spell as a 3rd-level spell or higher.
 tags: 
 Type: General Feat
 ---
-# POLYMORPH ADEPT
-**Source** _Alien Archive 2 pg. 145_  
+
+# Polymorph Adept
+
+**Source**:: _Alien Archive 2 pg. 145_  
 You are adept at changing forms using polymorph.
 
 **Prerequisites**: You know the _polymorph_ spell as a 3rd-level spell or higher.

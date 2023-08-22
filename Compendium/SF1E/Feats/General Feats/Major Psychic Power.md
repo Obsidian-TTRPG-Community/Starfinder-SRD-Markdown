@@ -5,8 +5,10 @@ Prerequisites: Cha 15, Minor Psychic Power, Psychic Power, character level 7th.
 tags: 
 Type: General Feat
 ---
-# MAJOR PSYCHIC POWER
-**Source** _Starfinder Core Rulebook pg. 159_  
+
+# Major Psychic Power
+
+**Source**:: _Starfinder Core Rulebook pg. 159_  
 You have a significant natural psychic ability.
 
 **Prerequisites**: Cha 15, Minor Psychic Power, Psychic Power, character level 7th.

@@ -5,7 +5,9 @@ tags:
 Tier: 12
 Type: Large destroyer
 ---
-# INHERITORWORKS JAVELIN
+
+# Inheritorworks Javelin
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksJavelin.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Large destroyer, **Tier** 12
 **Attack (Turret)** rail ballista (6d8; 10 hexes)  
 **Power Core** Gateway Heavy (400 PCU); **Drift Engine** Signal Major; **Systems** basic long-range sensors, crew quarters (common), mk 7 armor, mk 7 defenses, mk 2 tetranode computer; **Expansion Bays** combat training facility (specialized), cargo hold, life boats, medical bay; **Modifiers** +1 to any 4 checks per round, Computers +2 (sensors only); **Complement** 20 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Bluff +22 (12 ranks), gunnery +17 (12th level), Intimidate +27 (12 ranks)  
 **Engineer (1 officer, 3 crew)** Engineering +22 (12 ranks)  
@@ -29,7 +31,7 @@ Large destroyer, **Tier** 12
 **Pilot** Piloting +22 (12 ranks)  
 **Science Officer (1 officer, 3 crew)** Computers +22 (12 ranks)
 
-## DESCRIPTION
+## Description
 
 Even with 11 fleets at their command, the Knights of Golarion can’t be everywhere at once. Designed to serve as the “tip of the spear” for the Iomedaean navy, the new Javelin-class destroyer is a formidable addition that’s designed to respond independently to significant threats. Though a Javelin’s high-velocity approach is terrifying to its enemies, the Drift is where this ship truly excels. Mobility combined with its stalwart defenses makes the Javelin an ideal front-line attack vessel, able to respond to threats quickly and engage from nearly any corner of the galaxy.  
   

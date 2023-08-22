@@ -2,14 +2,15 @@
 aliases: 
 tags: 
 ---
-# CREATURE COMPANION RULES
+
+# Creature Companion Rules
 
 **Source** _Alien Archive 3 pg. 149_  
 The solitude of space can prove tough to bear for even the most hardened soloist. It's no wonder, then, that across the entire galaxy, members of countless species take up creature companions ranging from show pets to emotional support animals to combat-ready mounts. Whether such a pairing is born of cultural tradition, lucky happenstance, or even reluctant necessity, few bonds are stronger.
 
 This section presents rules for creature companions in Starfinder. Whether you want a pet that primarily participates in roleplay, a combat-ready tactical ally, or some blend of the two, this system has you covered! First, Gaining a Creature Companion explains how to secure your own companion. Next, Creature Companions in Combat and Creature Companion Mounts introduce the feats needed to control your companion, as well as rules for utilizing it in combat and as a mount. On page 141, Creating Companions provides statistics for a creature companion of any level, followed by a number of common creature companions in the Pact Worlds. Finally, Creature Companion Equipment on page 147 has equipment you might find useful in conjunction with your creature companion.
 
-## GAINING A CREATURE COMPANION
+## Gaining a Creature Companion
 
 Characters can obtain creature companions in countless ways, but the most straightforward is through purchase. This section explains the most common ways that a PC can gain and bond with a creature companion, as well as rules for how it can increase in power.
 
@@ -27,7 +28,7 @@ Characters can obtain creature companions in countless ways, but the most straig
 
 **Languages**: Creature companions don't speak any language and are immune to language-dependent effects, unless their description says otherwise.
 
-## CREATURE COMPANIONS IN COMBAT
+## Creature Companions in Combat
 
 Controlling a creature companion in combat requires focus and coordination. You can control only one creature at a time, giving it commands it follows to the best of its ability, and it must be within 20 feet of you. The actions a creature companion can take are severely limited; granting it other actions requires the Creature Companion Adept feat.
 
@@ -37,7 +38,7 @@ If you're riding your creature companion as a mount, it may also have other opti
 
 **Injury and Death**: Creature companions don't have Resolve Points or Stamina Points. Effects that would restore Stamina Points to a creature companion restore Hit Points instead. When you spend a Resolve Point to recover Stamina Points during a 10-minute rest, your creature companion regains Hit Points up to half its total. When a creature companion is reduced to 0 Hit Points, it is knocked unconscious and begins dying. Three rounds after it was knocked out, it dies unless it is stabilized or regains at least 1 Hit Point.
 
-### CREATURE COMPANION ACTIONS
+### Creature Companion Actions
 
 The following are the only actions a creature companion can take unless otherwise stated.
 
@@ -67,17 +68,17 @@ Attack of opportunity
 
 \*These actions are available only if you have the appropriate creature companion feat.
 
-## UNCONTROLLED CREATURE COMPANIONS
+## Uncontrolled Creature Companions
 
 If you become unconscious or otherwise unresponsive, or if your creature companion is ever out of range, your creature companion can't take any actions except the following until you are again able to command it or it is once more within range. At the beginning of each of your turns, your creature companion attempts a DC 15 Will save. On a success, it takes a move action to move its speed toward you, unless it's already adjacent to you, in which case it takes the total defense action. If it fails its save, it uses one move action to flee to the best of its ability, using any special abilities that help it do so.
 
-## CREATURE COMPANION FEATS
+## Creature Companion Feats
 
 Regardless of the way you gain a creature companion, granting your companion additional actions requires the Creature Companion Adept feat. You can become progressively better at working with your creature companion by taking subsequent creature companion feats.
 
 You can use the creature companion feats listed here only with a creature companion whose level is no greater than your ranks in Survival.
 
-## CREATURE COMPANION MOUNTS
+## Creature Companion Mounts
 
 Your creature companion can carry you as a mount if it is at least one size category larger than you. Mounting your creature companion requires you to be adjacent to it and takes a move action. You can attempt a DC 20 Survival check to mount your companion as a swift action instead; failure wastes the swift action. If you are knocked prone while mounted, you fall off your mount. The GM might determine that you can use other creatures as mounts, possibly with a DC that's 2–10 higher for Survival checks while mounted. Riding a creature without a saddle imparts a –5 penalty to your checks to ride.
 
@@ -87,7 +88,7 @@ Your creature companion can carry you as a mount if it is at least one size cate
 
 **Speed and Movement**: While you're riding your creature companion, your mount's speeds replace your own speeds, and you use them in place of your own when moving your speed, including when using abilities that allow you to move your speed (such as the operative's trick attack). When you use an action that includes movement, your mount uses the same action (even if it couldn't normally take that action otherwise). This counts as granting your creature companion an action. If you can grant your mount additional actions (such as with a creature companion feat), it's still limited to its maximum number of actions per turn (see Actions on page 138). **Space and Reach**: If your mount is exactly one size larger than you, you treat its space as your space for the purpose of reach. If your mount is more than one size larger than you, you must decide which square or squares of the mount's space you occupy and calculate your reach normally. You choose this location when you mount the creature companion, and you can move 5 feet to a different space on your mount as a move action.
 
-### MOVE ACTIONS
+### Move Actions
 
 The following are move actions you can take while mounted.
 
@@ -95,7 +96,7 @@ The following are move actions you can take while mounted.
 
 **Ride**: You move your speed using the mount's speed (or one of its speeds, if it has more than one). This does not require a Survival check, but it does require you to use two hands, which you can't use to hold or wield items unless you succeed at a Survival check to use the guide with knees action (Core Rulebook 149). As part of this move action, you can attempt to increase your mount's speed using the spur mount action, or you can attempt to jump using the leap action; both are detailed on page 149 of the Core Rulebook. If you attempt the leap action, you use your Survival skill bonus to ride instead of your creature companion's Athletics bonus.
 
-### SWIFT ACTIONS
+### Swift Actions
 
 The following are swift actions you can take while mounted.
 
@@ -105,7 +106,7 @@ The following are swift actions you can take while mounted.
 
 **Fight from a Combat-Trained Mount (DC 10)**: If you and your mount are both able to attack in the same turn (if you have the Creature Companion Expert feat, for example), you must succeed at a Survival check to ride before either of you attempt to do so. If you fail this check, either you or mount can attack that turn, but not both.
 
-### REACTIONS
+### Reactions
 
 The following are reactions you can take while mounted.
 
@@ -113,13 +114,13 @@ The following are reactions you can take while mounted.
 
 **Stay Mounted (DC 5)**: If you would fall off your mount for a reason other than being knocked prone, you can attempt a Survival check to ride to avoid falling off.
 
-## CREATING COMPANIONS
+## Creating Companions
 
 During your travels through the galaxy, you may seek out a creature to accompany you. Use the Creature Companion Statistics table in conjunction with one of the stat blocks in the Creature Companions of the Pact Worlds section to generate statistics for your creature companion.
 
 At the GM's discretion, you can work with them to create a custom creature companion. The GM should use the Creature Companion Statistics table for your companion's basic statistics, and then give it at most one free special ability and one standard special ability as outlined for NPCs in Step 6: Special Abilities on pages 141–142 of the _Starfinder Alien Archive_. The GM can also use the Companions of the Pact Worlds section to get a sense of appropriate abilities.
 
-### USING THE CREATURE COMPANION STATISTICS TABLE
+### Using the Creature Companion Statistics Table
 
 | Level | Price   | Hit Points | Attack Bonus | Damage  | EAC | KAC | Good Save Bonus | Poor Save Bonus | Ability Modifiers | Skill Bonus |
 |-------|---------|------------|--------------|---------|-----|-----|-----------------|-----------------|-------------------|-------------|
@@ -165,7 +166,7 @@ Use the following information to determine your creature companion's statistics.
 
 **Skill Bonus**: This is the total bonus for the creature's skill checks. Unless otherwise noted, creature companions can attempt only Acrobatics, Athletics, Perception, and Stealth checks, and Survival skill checks to endure severe weather, follow tracks, live off the land, and orienteer.
 
-## CREATURE COMPANION EQUIPMENT
+## Creature Companion Equipment
 
 Most creature companions can't use standard equipment, including weapons, armor, augmentations, and so forth. The following equipment is widely available and designed specifically for use with creature companions, accommodating virtually every kind and size of creature. Most adventurers purchase an environmental field collar to protect their companion from any hazards—expected or otherwise.
 

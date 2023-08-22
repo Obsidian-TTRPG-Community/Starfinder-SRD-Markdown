@@ -6,8 +6,10 @@ NoteType: Spell
 tags: 
 Type: Ritual 
 ---
-# HEARTBOND - LEVEL 1
-**Source** _Galactic Magic pg. 92_  
+
+# Heartbond - Level 1
+
+**Source**:: _Galactic Magic pg. 92_  
 **Script** Speak the Name (the names of the two individuals being bonded)  
 **Assistants** none  
 **Round Length** 1 hour

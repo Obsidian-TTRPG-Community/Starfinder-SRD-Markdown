@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# GRAY
+
+# Gray
 
 > [!infobox|left n-th clean]
 >  [[Gray.png|Spielern zeigen!]]
@@ -17,30 +18,30 @@ Once rare enough that reports of their abductions were written off as conspiracy
 **Ability Modifiers** +4 Int, -2 Str  
 **Hit Points** 2
 
-## SIZE AND TYPE
+## Size and Type
 
 Grays are Small humanoids with the gray subtype.  
 
-## DARKVISION
+## Darkvision
 
 Grays have darkvision with a range of 60 feet.  
 
-## GRAY MAGIC
+## Gray Magic
 
 Grays gain the following spell-like abilities. The caster level for these effects is equal to the gray’s level.  
   
 1/day—_mind thrust_ (1st level)  
 At will—_daze_, _telepathic message_  
 
-## PHASE
+## Phase
 
 A gray can shift itself out of phase with reality as a reaction to gain a 20% miss chance against one attack. A gray can use this ability a number of times per day equal to its Constitution modifier.  
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Grays have limited telepathy with a range of 30 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 2–4 ft.  
 **Average Weight** 30–60 lbs.  

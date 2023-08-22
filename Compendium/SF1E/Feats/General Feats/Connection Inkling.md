@@ -5,8 +5,10 @@ Prerequisites: Wis 15, character level 5th, no levels in mystic.
 tags: 
 Type: General Feat
 ---
-# CONNECTION INKLING
-**Source** _Starfinder Core Rulebook pg. 156_  
+
+# Connection Inkling
+
+**Source**:: _Starfinder Core Rulebook pg. 156_  
 You gain a hint of mystic power.
 
 **Prerequisites**: Wis 15, character level 5th, no levels in mystic.

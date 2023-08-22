@@ -5,8 +5,10 @@ Prerequisites: Key ability score 17, Minor Eldritch Lore, caster level 7th, 7 le
 tags: 
 Type: General Feat
 ---
-# LESSER ELDRITCH LORE
-**Source** _Character Operations Manual pg. 116_  
+
+# Lesser Eldritch Lore
+
+**Source**:: _Character Operations Manual pg. 116_  
 You have learned a broad range of additional low-level magic.
 
 **Prerequisites**: Key ability score 17, Minor Eldritch Lore, caster level 7th, 7 levels in a class with a class spell list.

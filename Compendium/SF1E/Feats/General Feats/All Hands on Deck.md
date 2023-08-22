@@ -5,8 +5,10 @@ Prerequisites: Four or more arms.
 tags: 
 Type: General Feat
 ---
-# ALL HANDS ON DECK
-**Source** _Character Operations Manual pg. 20_  
+
+# All hands on Deck
+
+**Source**:: _Character Operations Manual pg. 20_  
 Many hands make light work.
 
 **Prerequisites**: Four or more arms.

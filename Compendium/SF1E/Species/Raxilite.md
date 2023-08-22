@@ -21,11 +21,11 @@ Raxilites have low-light vision.
 
 Flowering raxilites gain a +2 racial bonus to Bluff and Diplomacy checks. Seeding raxilites gain a +2 racial bonus to Acrobatics checks and can attempt a DC 15 Acrobatics check to negate falling damage when in an atmosphere. A raxilite can change from flowering to seeding (or vice versa) with 1 week of rest.  
 
-## LFAN
+## Lfan
 
 An LFAN, or Lifting Floret Activation Network, is a biotech augmentation that looks like a cluster of artificial, prehensile “vines” attached to a raxilite’s brain system (the raxilite can add one other brain augmentation to the LFAN). The LFAN is as dexterous and strong as a human hand, and the vines can extend and retract, allowing a raxilite to use one-handed items as if they were a Medium creature with a reach of 5 feet.  
 
-## LFAN Symbiosis
+## Lfan Symbiosis
 
 When two or more raxilites share the same 5-foot space, they can use their LFANs together, allowing them to handle larger objects. Up to four raxilites can work together in this way, each acting as one hand.  
 

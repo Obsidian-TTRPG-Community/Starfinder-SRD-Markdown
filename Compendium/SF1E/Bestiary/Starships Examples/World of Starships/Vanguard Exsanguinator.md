@@ -5,7 +5,9 @@ tags:
 Tier: 12
 Type: Huge cruiser 
 ---
-# VANGUARD EXSANGUINATOR
+
+# Vanguard Exsanguinator
+
 > [!infobox|locr n-th clean]
 >  [[Starship_VanguardExsanguiator.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Huge cruiser, **Tier** 12
 **Attack (Turret)** fractal nav-scram projector (special), light ship tether* (2d6; 1 hex)  
 **Power Core** Nova Ultra (300 PCU); **Drift Engine** Signal Basic; **Systems** autodestruct system, budget long-range sensors, crew quarters (common), mk 6 armor, mk 7 defenses, mk 2 tetranode computer, powersap; **Expansion Bays** cargo holds (3), general science lab, life boats, medical bay; **Modifiers** +2 to any 4 checks per round; **Complement** 56 (minimum 20, maximum 100)
 
-### CREW
+### Crew
 
 **Captain** Bluff +22 (12 ranks), Diplomacy +22 (12 ranks), gunnery +17 (12th level), Intimidate +22 (12 ranks), Piloting +22 (12 ranks)  
 **Engineers (2 officers, 8 crew each)** Engineering +22 (12 ranks)  
@@ -29,7 +31,7 @@ Huge cruiser, **Tier** 12
 **Pilot (1 officer, 4 crew)** Piloting +27 (12 ranks)  
 **Science Officers (2 officers, 6 crew each)** Computers +22 (12 ranks)
 
-## DESCRIPTION
+## Description
 
 Although best known for its luxurious transports, Vanguard Craftworks periodically turns its research and development teams to building new military technology for the Azlanti Star Empire. Among the company’s most infamous designs is the Exsanguinator, a massive cruiser with a sharp and predatory silhouette. Incorporating experimental powersap technology, Exsanguinators excel at pulling alongside enemies and stealing their energy, simultaneously disabling the target’s systems and supercharging the cruiser’s combat capabilities. As a result, the ship has been nicknamed “Zura,” a homage to the demon lord of blood and vampires so fearfully immortalized in the Azlanti faith.  
   

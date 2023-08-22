@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# SOLARIAN CLASS BUILDS
+
+# Solarian Class Builds
 
 Below are four examples of ways to build the class. These are examples of some of the choices you could make to create a specific kind of character, designed to help you think about different ways of playing the same class.  
   
@@ -15,113 +16,113 @@ Below are four examples of ways to build the class. These are examples of some o
 
 ---
 
-# CHAMPION
+# Champion
 
-## THEME: ICON
+## Theme: Icon
 
-**Source** _Starfinder Core Rulebook pg. 108_
+**Source**:: _Starfinder Core Rulebook pg. 108_
 You do what you must to protect the people you serve, even if it means getting your hands dirty.
 
-## ABILITY SCORES
+## Ability Scores
 
 Strength is your most important ability score because you need it to hit, while Dexterity and Constitution keep you in the action.
 
-## SOLAR MANIFESTATION
+## Solar Manifestation
 
 Solar Weapon
 
-## STELLAR REVELATIONS
+## Stellar Revelations
 
 Gravity Anchor (2nd), Defy Gravity (6th), Wormholes (9th)
 
-## FEATS
+## Feats
 
 Deflect Projectiles, Improved Initiative, Mobility, Spring Attack, Step Up, Step Up and Strike, Weapon Focus (advanced melee weapons)
 
-## SKILLS
+## Skills
 
 Diplomacy, Intimidate, Sense Motive  
   
 
-# COSMIC MERCENARY
+# Cosmic Mercenary
 
-## THEME: MERCENARY
+## Theme: Mercenary
 
-**Source** _Starfinder Core Rulebook pg. 108_
+**Source**:: _Starfinder Core Rulebook pg. 108_
 You’ve been hardened by battle and are always ready for the next job.
 
-## ABILITY SCORES
+## Ability Scores
 
 Strength is your most important ability score because you need it to hit. Additionally, Charisma gives you more Resolve Points, while Dexterity and Constitution provide staying power.
 
-## SOLAR MANIFESTATION
+## Solar Manifestation
 
 Solar Weapon
 
-## STELLAR REVELATIONS
+## Stellar Revelations
 
 Stellar Rush (2nd), Blazing Orbit (6th), Solar Acceleration (9th)
 
-## FEATS
+## Feats
 
 Adaptive Fighting, Diehard, Extra Resolve, Improved Initiative, Lunge, Toughness, Weapon Focus (advanced melee weapons)
 
-## SKILLS
+## Skills
 
 Acrobatics, Athletics, Intimidate, Perception  
   
 
-# LUMINOUS EXPLORER
+# Luminous Explorer
 
-## THEME: XENOSEEKER
+## Theme: Xenoseeker
 
-**Source** _Starfinder Core Rulebook pg. 109_
+**Source**:: _Starfinder Core Rulebook pg. 109_
 You journey to uncharted planets to learn everything you can about their flora, fauna, and civilizations.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity is your most important ability score because you need it to hit, and Intelligence and Wisdom increase your skill bonuses.
 
-## SOLAR MANIFESTATION
+## Solar Manifestation
 
 Solar Armor
 
-## STELLAR REVELATIONS
+## Stellar Revelations
 
 Radiation (2nd), Corona (6th), Miniature Star (9th)
 
-## FEATS
+## Feats
 
 Climbing Master, Enhanced Resistance, Jet Dash, Mobility, Sidestep, Versatile Focus, Weapon Focus (small arms)
 
-## SKILLS
+## Skills
 
 Athletics, Mysticism, Perception, Physical Science  
   
 
-# OUTCAST
+# Outcast
 
-## THEME: OUTLAW
+## Theme: Outlaw
 
-**Source** _Starfinder Core Rulebook pg. 109_
+**Source**:: _Starfinder Core Rulebook pg. 109_
 You were once part of a close-knit group, but the manifestation of your powers frightened them, and they drove you away.
 
-## ABILITY SCORES
+## Ability Scores
 
 Dexterity is your most important ability score because you need it to hit and to increase your AC, and Charisma gives you more Resolve Points.
 
-## SOLAR MANIFESTATION
+## Solar Manifestation
 
 Solar Armor
 
-## STELLAR REVELATIONS
+## Stellar Revelations
 
 Dark Matter (2nd), Reflection (6th), Time Dilation (9th)
 
-## FEATS
+## Feats
 
 Deadly Aim, Longarm Proficiency, Mobility, Shot on the Run, Slippery Shooter, Weapon Focus (longarms), Weapon Specialization (longarms)
 
-## SKILLS
+## Skills
 
 Acrobatics, Perception, Stealth

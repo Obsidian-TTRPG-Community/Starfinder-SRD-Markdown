@@ -21,7 +21,7 @@ Ryphorians gain a bonus feat at 1st level.
 
 Ryphorians’ distinctive ears help them hear precisely, granting a +2 bonus to Perception checks.  
 
-## Low-Light Vision
+## Low-light Vision
 
 Ryphorians can see in dim light as if it were normal light.  
 

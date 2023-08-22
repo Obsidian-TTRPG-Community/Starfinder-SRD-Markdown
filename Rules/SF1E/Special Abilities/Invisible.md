@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## INVISIBLE
+
+## Invisible
 
 An invisible creature is visually undetectable. A creature using only an imprecise sense, or whose only precise sense is vision, can’t observe an invisible creature, so the invisible creature is unseen by such a would-be observer. Creatures with blindsight can perceive invisible creatures normally, since blindsight is a precise sense that does not rely on vision, and thus can observe invisible creatures. See Senses on page 260 and Dealing with Unseen Creatures on page 261 for more information.
 

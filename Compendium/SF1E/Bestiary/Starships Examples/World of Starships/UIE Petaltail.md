@@ -5,7 +5,9 @@ tags:
 Tier: 1/3
 Type: Tiny racer
 ---
-# UIE PETALTAIL
+
+# Uie Petaltail
+
 > [!infobox|locr n-th clean]
 >  [[Starship_UIEPetaltail.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny racer, **Tier** 1/3
 **Attack (Aft)** light laser cannon (2d4; 5 hexes)  
 **Power Core** Micron Light (50 PCU); **Drift Engine** Signal Basic; **Systems** basic mid-range sensors, crew quarters (good), mk 1 armor, mk 1 defenses, mk 1 mononode computer; **Expansion Bays** none; **Modifiers** +1 to any 1 check per round, +2 Computers (sensors only), +3 Piloting; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** Computers +4 (1 rank), gunnery +3 (1st level), Piloting +12 (1 rank)
 
-## DESCRIPTION
+## Description
 
 The Petaltail is one of the most popular models available from United Interfaith Engineering, as well as one of the most affordable. The small, one-passenger starship is popular among shirrens for independent excursions through the galaxy. It features medium-range sensors and comfortable quarters, but its real appeal for many is the customization factor of the exterior. The model is somewhat insectile in appearance (as is common for shirren starships) and decorated with thousands of “scales” in hundreds of different colors. No two are ever exactly alike. Every owner can choose a model that is unique, allowing shirren customers in particular to express their individuality. The ships are minimally defended, and it’s not advisable to take a Petaltail on particularly dangerous voyages; they’re primarily intended for exploration and pleasure trips.  
   

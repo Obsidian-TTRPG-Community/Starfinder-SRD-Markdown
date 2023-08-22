@@ -6,7 +6,7 @@ Tier: 10
 Type: N Large starship magical beast 
 ---
 
-# BLINKING TELELITH
+# Blinking Telelith
 
 N Large starship magical beast, **Tier** 10  
 
@@ -18,18 +18,18 @@ N Large starship magical beast, **Tier** 10
 **Attack (Turret)** hurl debris (10d6)  
 **Power Core** large telelith heart (300 PCU); **Drift Engine** none; **Systems** mk 7 armor, mk 8 defenses; **Expansion Bays** telelith matrix
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +24 (10 ranks)  
 **Gunners (2 actions)** gunnery +15 (10th level)  
 **Pilot (1 action)** Piloting +24 (10 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum or the Drift  
 **Organization** solitary, pair, or cluster (3–4)
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Auto-Destruct (Ex)** When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
 
@@ -49,7 +49,7 @@ Telelith Matrix (Su) Three times per day, a blinking telelith can attempt the te
 
 **Slam (Ex)** A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
 
-## DESCRIPTION
+## Description
 
 Teleliths, often called “living asteroids,” look like irregular rock chunks dozens to hundreds of feet across. Difficult to distinguish from ordinary asteroids tumbling through space, teleliths are silicon-based entities with a rudimentary intelligence and a predilection for disguise. Teleliths feed on metal and are particularly drawn to dense or highly refined materials, such as those found in space stations and starships. Although some teleliths are scavengers, drifting lazily through asteroid fields to feed on metal-rich finds, others are ambush predators. Such teleliths lurk amid asteroids, wreckage, or other debris, waiting to launch themselves at passing vessels.
 

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# SUBTERRANEAN
+
+# Subterranean
 
 **Source** _Galaxy Exploration Manual pg. 84_  
 Between a planet’s core and its crust lie caverns lit with softly glowing crystals and fungi, underground rivers and seas, ancient stone fortresses, and metropolitan technological wonders. These are just a few of the myriad adventure locations one can find within a planet’s subterranean reaches.  
@@ -12,30 +13,30 @@ Subterranean environments are replete with bizarre life forms and discoveries th
 All manner of people can inhabit a planet’s subterranean environments. Visitors might encounter small, nomadic groups that survive by hunting cave-dwelling animals or by farming unusual crops, such as glowing mushrooms, verdant mosses, and stranger plants. The PCs may visit technologically marvelous metropolises that thrive underground by harvesting resources that can be found only in such environments: rich starmetal veins, minerals that thrum with magical energy, and even thinned boundaries between the Material and Elemental Planes. Such underground empires can thrive, becoming primary suppliers of materials that are difficult to obtain from aboveground sources. These civilizations might have developed technological advances fueled by both necessity and industry, and certain underground cities are likely to be rich troves of knowledge unlearnable anywhere else.  
 Regardless of a sapient civilization’s scale, it must contend with the dangers and threats that life underground presents. Nomadic groups could have developed gear to camp on sheer cliff faces, or cities might be carved into the stone to provide natural defenses.  
 
-## SUBTERRANEAN ADVENTURERS
+## Subterranean Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 84_  
 Although not every civilization can eke out a subterranean existence, those able to adapt to such locations can thrive, leveraging their underground surroundings for a variety of industries. Adventurers from such a place could be part of a mining company toiling beneath a planet’s crust, or they could be a scientist who studies cave-dwelling plants and animals. Subterranean regions also attract those who engage in morally gray fields. Poachers, smugglers, and others wishing to conduct shady dealings away from the prying eyes of the surface may find a subterranean environment the perfect location for a hideout or headquarters.  
 Adventurers who grew up in a subterranean environment likely developed skills that allowed them to thrive in their dark and stony surroundings. Perception is a key skill for those hailing from underground, and many adventurers must rely more on senses other than normal sight, such as darkvision and blindsense. Acrobatics and Athletics help adventurers navigate steep rock faces and unstable ground, while Survival allows them to find sustenance in a seemingly barren landscape. When facing threats, an adventurer can find great use in the Stealth skill to evade notice in the shadows. Adventurers who aren’t naturally adapted to cave environments might be from civilizations that rely on magic or technology to aid in their existence underground, and Engineering and Mysticism skills can serve such adventurers well.  
 
-## SUBTERRANEAN WORLDS
+## Subterranean Worlds
 
 **Source** _Galaxy Exploration Manual pg. 85_  
 Subterranean biomes can be found on just about any terrestrial planet, as they exist separately from the other biomes that occupy the surface, although their formation often relies on environmental factors in a planet’s history. Many cave systems form via erosion, whether from acidic rainwater dissolving stone, a glacier carving passages into bedrock, or even an ocean’s waves crashing against a cliff for centuries. Volcanic activity also results in the formation of subterranean environments, with lava tubes leaving intricate interconnected cave systems in their wake. In some cases, these systems may seem like separate worlds entirely from the rest of their planets.  
 While the sapient citizens of many planets often primarily inhabit the surface world, they may interact with the subterranean world for a variety of reasons. Perhaps mineral-rich veins crisscross the underground reaches of a world, leading a society to mine those resources. An abundance of plants and animals underground might lead a scientific community to explore the depths further.  
 On some worlds, the subterranean biome is essentially the only habitable environment for a sapient species, thanks to factors in the planet’s development. Perhaps sapient species left the surface world due to the prevalence of threats or a drastic change in the surface environment. A catastrophic threat, such as the emerging colossi of Daimalko (Near Space 74), would not only provide a reason for the sapient species of the world to retreat underground, but it also might inform how that society constructs its defenses and leverages its new subterranean home to defend against outside incursions.  
 
-## SUBTERRANEAN RULES AND REFERENCE
+## Subterranean Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 85_  
 Several Starfinder rules are particularly important for subterranean adventures. Creatures that originate from subterranean biomes often rely on senses other than normal sight, such as blindsight or darkvision, and the rules for special abilities relevant to subterranean creatures can be found on pages 260–265 of the Core Rulebook. Adventurers from the surface world might not be adapted to an environment where natural light can be inconsistent at best. For these creatures, it’s important to understand the rules for light levels (Core Rulebook 261). Traversing the rocky terrain of a subterranean biome can be like navigating the hills and mountains of the surface world, and the rules for chasms and rock walls on page 397 of the Core Rulebook can be relevant as adventurers navigate the depths. Of course, the rules for falling on pages 400–401 of the Core Rulebook might come up frequently in a subterranean adventure.  
 
-## SUBTERRANEAN TOOLBOX
+## Subterranean Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 86_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### SUBTERRANEAN INHABITANTS
+### Subterranean Inhabitants
 
 | D%     | Sapient             | Threat                         |
 |--------|---------------------|--------------------------------|
@@ -65,8 +66,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Trox                | Thoqqua                        |
 | 97–100 | Varculak            | Writher swarm                  |
 
-
-### SUBTERRANEAN ADVENTURE HOOKS
+### Subterranean Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                     |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

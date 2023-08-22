@@ -5,8 +5,10 @@ Prerequisites: Echolocation Attack, Perception 9 ranks
 tags: 
 Type: General Feat
 ---
-# PINPOINT HEARING
-**Source** _Interstellar Species pg. 99_  
+
+# Pinpoint Hearing
+
+**Source**:: _Interstellar Species pg. 99_  
 You hear echoes so clearly that even the reflected sound of your footsteps or the hum of a starship’s engine can disclose hidden secrets.
 
 **Prerequisites**: Echolocation Attack, Perception 9 ranks

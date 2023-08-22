@@ -5,7 +5,9 @@ tags:
 Tier: 19
 Type: Supercolossal ultranought
 ---
-# SOVEREIGN DOMINATOR
+
+# Sovereign Dominator
+
 > [!infobox|locr n-th clean]
 >  [[Sovereign Dominator|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Supercolossal ultranought, **Tier** 19
 **Attack (Turret)** linked _heavy aeon casters_ (12d6; 10 hexes), supermaser (2d8×10; 20 hexes)  
 **Power Core** Titan Heavy (950 PCU); **Drift Engine** Signal Basic; **Systems** autodestruct system, basic medium-range sensors, crew quarters (luxurious), data net, mk 3 armor, mk 6 defenses, mk 6 mononode computer, mk 6 network nodes (2), security (4 anti-hacking systems, biometric locks); **Expansion Bays** arcane laboratory, general science lab, guest quarters (luxurious), hangar bays (5), medical bay, recreation suites (gym, HAC, trivid), sealed environmental chamber, synthesis bay; **Modifiers** +6 to any 3 checks per round, Computers +2 (sensors only), Piloting –1; **Complement** 1,145 (minimum 250, maximum 5,000)
 
-### CREW
+### Crew
 
 **Captain** Bluff +32 (19 ranks), Diplomacy +32 (19 ranks), gunnery +28 (19th level), Intimidate +37 (19 ranks), Piloting +31 (19 ranks)  
 **Engineers (4 officers, 90 crew each)** Engineering +32 (19 ranks)  
@@ -28,7 +30,7 @@ Supercolossal ultranought, **Tier** 19
 **Pilot (1 officer, 80 crew)** Piloting +31 (19 ranks)  
 **Science Officers (3 officers, 100 crew each)** Computers +32 (19 ranks)
 
-## DESCRIPTION
+## Description
 
 The masterpiece of the Imperial Foundry, the Sovereign Dominator is equipped to lead system-wide assaults. Few of these massive vessels exist, and only a handful of reports have escaped to speak of their capabilities. Indeed, the Azlanti Star Empire seems to thrive on these starships’ mystery and notoriety, making a Sovereign Dominator’s sudden appearance all the more terrifying. The recently conquered Uruthun system had fielded a valiant defense until one arrived, at which point the coalition government capitulated within an hour.  
   

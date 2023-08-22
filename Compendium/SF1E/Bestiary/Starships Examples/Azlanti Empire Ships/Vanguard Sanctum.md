@@ -5,7 +5,9 @@ tags:
 Tier: 8
 Type: Large Heavy Freighter
 ---
-# VANGUARD SANCTUM
+
+# Vanguard Sanctum
+
 Large heavy freighter, **Tier** 8  
 **Speed** 6; **Maneuverability** average (turn 2); **Drift** 1  
 **AC** 21; **TL** 21  
@@ -17,7 +19,7 @@ Large heavy freighter, **Tier** 8
 **Attack (Turret)** _aeon caster_ (3d4)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Basic; **Systems** autodestruct system, basic medium-range sensors, biometric locks, crew quarters (good), extra weapon mount (turret light), mk 1 mononode computer, mk 4 armor, mk 4 defenses; **Expansion Bays** arcane laboratory, cargo holds (2), guest quarters (2, luxurious), life boats (2), recreation suite (HAC); **Modifiers** +1 any one check per round, +2 Computers (sensors only), +1 Piloting; **Complement** 9
 
-### CREW
+### Crew
 
 **Captain** Diplomacy +16 (8 ranks), gunnery +10 (+14 with _aeon casters_), Intimidate +16 (8 ranks), Mysticism +21 (8 ranks)  
 **Engineers (2)** Engineering +16 (8 ranks)  
@@ -25,7 +27,7 @@ Large heavy freighter, **Tier** 8
 **Pilots (2)** gunnery +14, Piloting +17 (8 ranks)  
 **Science Officer** Computers +18 (8 ranks)
 
-## DESCRIPTION
+## Description
 
 Vanguard Craftworks custom builds its Sanctum model to provide mobile residences for wealthy Azlanti who require opulence during interplanetary transit. A Sanctum provides spacious quarters and sweeping views, along with every amenity a discerning passenger could want. Life boats on this vessel are for the passengers, since the crew is assumed to be committed to the ship.  
   

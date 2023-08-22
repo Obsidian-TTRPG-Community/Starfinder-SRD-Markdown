@@ -5,8 +5,10 @@ Prerequisites: breath weapon species trait
 tags: 
 Type: General Feat
 ---
-# DRACONIC SHOT
-**Source** _Interstellar Species pg. 67_  
+
+# Draconic Shot
+
+**Source**:: _Interstellar Species pg. 67_  
 You channel your breath weapon into a ranged attack.
 
 **Prerequisites**: breath weapon species trait

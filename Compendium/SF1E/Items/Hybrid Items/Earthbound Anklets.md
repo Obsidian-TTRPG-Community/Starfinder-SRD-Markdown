@@ -1,0 +1,23 @@
+---
+aliases: 
+Level: 10
+price: 17,000
+tags: 
+Type: Hybrid Item
+---
+
+# Earthbound Anklets
+
+**Source**:: _Starfinder Armory pg. 121_  
+**Level** 10;
+**Price**::  17,000; **Bulk** L
+
+### Description
+
+Made of industrial ceramic sometimes decorated with precious minerals, _earthbound anklets_ contain an internal matrix of directional, weight, and acceleration sensors. Traditionally, the ceramic is created from soil constituents from the wearer’s home world, and the anklets are a way to carry a piece of that home. (The rarest _earthbound anklets_ contain clay from lost Golarion.) Pragmatically, through quantum entanglement and magical means, earthbound anklets provide you a connection to normal gravity.  
+  
+While you wear _earthbound anklets_, you can activate or deactivate them as a standard action. Wearing the active anklets allows you to act as if you’re in standard gravity, ignoring the perils of high gravity and the benefits of low gravity. In zero gravity, you decide a gravitational up and down when you activate the anklets, changing this orientation as a move action. Activating the anklets in zero-g allows you to end the off-kilter condition as part of the same action, and you can then move relative to your subjective up and down as if you were walking on a solid surface.  
+  
+This standard-gravity effect applies only to you and to objects you hold or wear. If an object, such as a thrown weapon, leaves your possession, it is subjected to the gravity of your environment rather than that provided by the anklets.  
+  
+The anklets can remain active for up to 1 hour per day. This usage need not be continuous, but it must be used in 1-minute increments. Once you benefit from a given set of _earthbound anklets_, you can’t benefit from a different set for 24 hours.

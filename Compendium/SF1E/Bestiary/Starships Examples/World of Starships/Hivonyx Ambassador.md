@@ -5,7 +5,9 @@ tags:
 Tier: 4
 Type: Medium explorer
 ---
-# HIVONYX AMBASSADOR
+
+# Hivonyx Ambassador
+
 > [!infobox|locr n-th clean]
 >  [[Starship_JivonyxAmbassador.jpg|Spielern zeigen!]]
 > 
@@ -21,7 +23,7 @@ Medium explorer, **Tier** 4
 **Attack (Turret)** laser net (2d6; 5 hexes)  
 **Power Core** Pulse Green (150 PCU); **Drift Engine** Signal Basic; **Systems** advanced short-range sensors, crew quarters (good), mk 1 trinode computer, mk 5 armor, mk 6 defenses; **Expansion Bays** cargo hold, escape pods, guest quarters (good), sealed environment chamber; **Modifiers** +1 to any 3 checks per round, +4 Computers (sensors only), +1 Piloting; **Complement** 6 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Computers +10 (4 ranks), Diplomacy +15 (4 ranks), Engineering +10 (4 ranks), gunnery +9 (4th level), Piloting +11 (4 ranks)  
 **Engineer** Engineering +15 (4 ranks)  
@@ -29,7 +31,7 @@ Medium explorer, **Tier** 4
 **Pilot** Piloting +11 (4 ranks)  
 **Science Officer** Computers +10 (4 ranks)
 
-## DESCRIPTION
+## Description
 
 The Hivonyx Ambassador is one of the company’s most iconic models, and with good reason: the starship exemplifies the manufacturer’s dedication to peace, cultural connection, and comfortable accommodations. As its name would suggest, the Ambassador is popular among diplomats, merchants, and anyone who wishes to travel the galaxy to speak with others rather than fight.  
   

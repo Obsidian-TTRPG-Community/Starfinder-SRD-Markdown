@@ -5,7 +5,9 @@ tags:
 Tier: 1
 Type: Tiny racer  
 ---
-# REDSHIFT REVOLUTION X-62
+
+# Redshift Revolution X-62
+
 > [!infobox|locr n-th clean]
 >  [[Starship_RedshiftRevolution.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny racer, **Tier** 1
 **Attack (Forward)** flak thrower (3d4; 5 hexes), gyrolaser (1d8; 5 hexes)  
 **Power Core** Pulse Brown (90 PCU); **Drift Engine** Signal Booster; **Systems** budget short-range sensors, horacalcum thrusters, mk 2 armor, mk 2 defenses, mk 2 mononode computer; **Expansion Bays** none; **Modifiers** +2 to any 1 check per round; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** Computers +5 (1 rank), Diplomacy +5 (1 rank), Engineering +5 (1 rank), gunnery +5 (1st level), Intimidation +5 (1 rank), Piloting +10 (1 rank)
 
-## DESCRIPTION
+## Description
 
 Redshift Revolution takes pride in its X Series of high-performance racing vessels. Not only was the X-22 instrumental in breaking old Drift travel records, but the line’s former crowning glory, the X-59, held the conventional speed record for years. Yet a team at Redshift Revolution recently redesigned the iconic craft, incorporating the latest technological and magical innovations in the quest for speed. The X-62 is the latest—but certainly not the last—model in this line, and it may be the fastest fighter ever built.  
   

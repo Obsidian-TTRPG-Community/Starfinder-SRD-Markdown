@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# REINCARNATE
 
-**Source** _Starfinder Core Rulebook pg. 372_  
-**Classes** Mystic 4, Witchwarper 4  
-**School** transmutation  
-**Casting Time** 10 minutes  
-**Range** touch  
-**Targets** one dead creature  
-**Duration** instantaneous; see text  
-**Saving Throw** none, see text; **Spell Resistance** yes (harmless)
+# Reincarnate
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 372_  
+**Classes**:: Mystic 4, Witchwarper 4  
+**School**:: transmutation  
+**Casting-Time**:: 10 minutes  
+**Range**:: touch  
+**Targets**:: one dead creature  
+**Duration**:: instantaneous; see text  
+**Saving-Throw**:: none, see text;
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 When you cast this spell, you bring back a dead creature in another body, provided that its death occurred no more than 1 week before the casting of the spell and the target’s soul is free and willing to return. If the target’s soul is not willing to return, the spell fails; therefore, a target that wants to return receives no saving throw. Casting this spell requires a special monument worth at least 1,000 credits to serve as a beacon for the departed creature’s soul. This object is consumed when you cast the spell.
 

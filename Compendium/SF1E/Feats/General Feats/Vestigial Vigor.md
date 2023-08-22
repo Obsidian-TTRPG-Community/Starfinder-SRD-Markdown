@@ -5,8 +5,10 @@ Prerequisites: Vestigial arms species trait
 tags: 
 Type: General Feat
 ---
-# VESTIGIAL VIGOR
-**Source** _Interstellar Species pg. 131_  
+
+# Vestigial Vigor
+
+**Source**:: _Interstellar Species pg. 131_  
 Whether due to genetics or carefully targeted exercises, your vestigial arms are especially strong.
 
 **Prerequisites**: Vestigial arms species trait

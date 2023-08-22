@@ -5,7 +5,9 @@ tags:
 Tier: 1/2
 Type: Tiny interceptor 
 ---
-# KC K-51 SKY FISHER
+
+# Kc K-51 Sky Fisher
+
 > [!infobox|locr n-th clean]
 >  [[Starship_KCSkyFisher.jpg|Spielern zeigen!]]
 > 
@@ -18,11 +20,11 @@ Tiny interceptor, **Tier** 1/2
 **Attack (Forward)** light laser cannon (2d4; 5 hexes), light torpedo launcher (2d8; 20 hexes)  
 **Power Core** Arcus Light (75 PCU); **Drift Engine** none; **Systems** basic computer, budget long-range sensors, horacalcum thrusters, mk 1 defenses; **Expansion Bays** none; **Modifiers** +3 Piloting; **Complement** 1 (minimum 1, maximum 1)
 
-### CREW
+### Crew
 
 **Pilot** Computers +5 (1 rank), gunnery +3 (1st level), Piloting +12 (1 rank)
 
-## DESCRIPTION
+## Description
 
 The Kevolari Collective’s K-51 Sky Fisher is an attack and support spacecraft designed specifically for the Pact Worlds defensive fleet. This mid-range, single-seat interceptor and tactical-reconnaissance spacecraft saw extensive deployment throughout the Silent War with the Veskarium as well as the Swarm invasion. At the time, the Sky Fisher used a brand-new proprietary brand of horacalcum-based thrusters called the Jalison V-1710, designed to offer superb speed performance and exceptional maneuverability. These thrusters gave the Sky Fishers tremendous command of the battlefield, as they were able to easily match and often surpass the interceptors from the Veskarium and later the Swarm. The Sky Fisher’s reputation was such that Veskarium pilots considered it a mark of honor to have defeated one in battle, and frequently sought out one-on-one duels with Sky Fishers in hopes of achieving this honor, even when the Veskarium had overwhelming numbers in a given tactical combat encounter.  
   

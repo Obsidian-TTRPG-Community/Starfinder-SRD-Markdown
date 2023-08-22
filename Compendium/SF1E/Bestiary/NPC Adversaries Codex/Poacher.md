@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# POACHER
+
+# Poacher
 
 **XP 600**  
 Human operative  
@@ -41,7 +42,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### SNIPER’S AIM (EX)
+#### SNIPER’S Aim (EX)
 
 When the poacher makes a ranged attack against a target with cover, they reduce the AC bonus from cover by 2. A poacher can’t use sniper’s aim against an enemy with total cover.
 

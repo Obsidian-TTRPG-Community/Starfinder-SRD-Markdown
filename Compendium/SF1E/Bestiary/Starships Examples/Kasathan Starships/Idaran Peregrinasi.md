@@ -5,7 +5,9 @@ tags:
 Tier: 7
 Type: Medium transport 
 ---
-# IDARAN PEREGRINASI
+
+# Idaran Peregrinasi
+
 > [!infobox|locr n-th clean]
 >  [[Starship_IdaranPeregrinasi.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Medium transport, **Tier**  7
 **Attack (Turret)** laser net (2d6; 5 hexes), light particle beam (3d6; 10 hexes)  
 **Power Core** Pulse Blue (200 PCU); **Drift Engine** Signal Booster; **Systems** basic medium-range sensors, crew quarters (good), mk 5 armor, mk 3 defenses, mk 2 duonode computer; **Expansion Bays** combat training facility (basic), medical bay, recreation suite (HAC), surveying sensors, tech workshop; **Modifiers** +2 to any 2 checks per round, +2 Computers (sensors only); **Complement** 6 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Bluff +14 (7 ranks), Computers +14 (7 ranks), Diplomacy +19 (7 ranks), Engineering +14 (7 ranks), gunnery +12 (7th level), Piloting +14 (7 ranks)  
 **Engineer** Computers +14 (7 ranks), Engineering +14 (7 ranks)  
@@ -27,7 +29,7 @@ Medium transport, **Tier**  7
 **Pilot** Piloting +14 (7 ranks)  
 **Science Officer** Computers +19 (7 ranks), Life Science +14 (7 ranks), Physical Science +14 (7 ranks)
 
-## DESCRIPTION
+## Description
 
 When kasatha sojourners finally reached Akiton, they found the planet they hoped to settle already inhabited by technologically advanced species. While many chose to integrate into Akiton’s society and the nascent Pact Worlds at large, a minority faction advocated for the Idari to power back up and continue searching for a new, uncontested home world. Although this group failed to convince the ruling Doyenate to start the Idari on a new journey, the Doyenate saw the wisdom in continuing the search and commissioned a fleet of speedy transport starships suited for exploration and small-scale colonization.  
   

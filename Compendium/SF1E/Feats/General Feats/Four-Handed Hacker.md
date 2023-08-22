@@ -5,8 +5,10 @@ Prerequisites: Computers 1 rank, four or more hands.
 tags: 
 Type: General Feat
 ---
-# FOUR-HANDED HACKER
-**Source** _Character Operations Manual pg. 21_  
+
+# Four-handed Hacker
+
+**Source**:: _Character Operations Manual pg. 21_  
 When you hack a computer, it’s a two-front war.
 
 **Prerequisites**: Computers 1 rank, four or more hands.

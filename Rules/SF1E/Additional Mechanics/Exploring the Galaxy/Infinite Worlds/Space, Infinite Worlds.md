@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# SPACE
+
+# Space
 
 **Source** _Galaxy Exploration Manual pg. 80_  
 Whether it manifests as a barren asteroid, its horizon filled with alien suns half a system away, or the utter isolation of an abandoned, airless space structure, space can provide both environmental hazards and dramatic settings for adventures.  
@@ -11,29 +12,29 @@ Space presents the rare biome where the primary feature is not what it contains,
 Surrounded by such danger, any life that exists in space has an element of the fantastic to it, and with magical influences, the possibilities are endless. Creatures in space have either evolved to exist without the need for respiration or have a supernatural alternative to breathing; many also have specialized means of getting nourishment from the scarce resources of space, or else have some way to survive long periods without food. With no atmosphere, the means of locomotion in space are either technological or supernatural. Many space creatures utilize the environmental dangers of space to their own advantage, whether it’s an apex predator hunting within the mysterious darkness of a nebula or a sentient saboteur staging an extraplanar ambush from beyond the event horizon of a black hole. With magic and technology pushing the limits of what’s possible, space becomes even more exciting and dangerous.  
 Civilizations that exist in space can vary wildly. Mining colonies and fuel depots on the fringes of society may get by on pure grit and whatever scraps trickle in from the hub worlds, while research stations or orbital depots may receive regular visits delivering supplies and checking on the progress of their intended operations. Asteroid miners may struggle with boredom in their ships as they try to pass the time between shifts, while space pirates may find themselves living adventure to adventure with no meaningful peace in between. In the furthest reaches of space, society gets even stranger; you may meet scavenger collectives that leap fearlessly from asteroid to asteroid in rings comprised of former planets, magical beings that congregate in shielded sanctuaries on the surfaces of stars or hide depraved deeds in the dark of derelict freighters. Space is truly the largest, greatest wilderness, and those that set out to face it need resilience, ingenuity, and more than a little luck to keep flying.  
 
-## SPACE ADVENTURERS
+## Space Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 80_  
 Even the most pedestrian life in space presents plenty of opportunity for adventure. Merchants, miners, explorers, scientists, researchers, soldiers, pirates, and scavengers are equally at home in the depths of space and make great backgrounds for those who take up the adventurer’s life. The importance of gear and equipment in deep space means that the Engineering skill becomes especially critical, and many advanced systems of life support also rely on a working knowledge of Computers to maintain or a masterful grasp of Computers to repair. When floating in zero gravity, Acrobatics or Athletics makes the difference between careful navigation and out-of-control careening. Piloting is, of course, a necessity when it comes to the handling of spacecraft. A number of Profession skills, such as archaeologist, miner, or smuggler, may also align particularly well with spacefaring cultures.  
 
-## SPACE WORLDS
+## Space Worlds
 
 **Source** _Galaxy Exploration Manual pg. 80_  
 Celestial bodies offer extraordinary variety in their composition and feel. Asteroids, comets, and other pieces of space debris can be large enough to present years of exploration. Proximity to a source of cosmic power, like a star or a black hole, might expose a world to immense amounts of energy, supernatural or otherwise, which can allow inhabiting creatures to evolve into unique niches over immense stretches of time, creating strange exceptions well beyond the norms of terrestrial life.  
 Technologically or magically advanced species use specialized means to generate artificial gravity and atmosphere, allowing orbital platforms, asteroid bunkers, or floating super-structures to operate in relative normalcy. Any interruption can mean catastrophe for unprepared inhabitants, so the defense and maintenance of these systems is top priority for the crews. If something goes wrong in these remote habitats, the results can be devastating, but the rewards can be immense for those willing and able to explore such ruins and lay claim to their resources.  
 Absent of the erosive forces of a natural atmosphere, the remains of spacefaring civilizations can exist in the vacuum for millennia. The structure may present a readily apparent purpose, like industrial construction or population resettlement; or it may provide more questions than answers, like a fortress built for containment of a mysterious power. Discoveries from the far reaches of space or the distant ages of the galaxy may be impossible to truly understand, leaving explorers to operate under well-educated hypotheses that may be disastrously incorrect. Well-maintained or carefully preserved defenses may remain intact to fend off interlopers centuries later, or the original inhabitants may have preserved themselves—naturally or artificially, ready to wake the moment new visitors arrive. Such places may host a number of different species over the centuries, with each new group interpreting the mysteries of the previous owners differently, modifying the environment to their own needs, and further obfuscating the purpose of the originators.  
 
-## SPACE RULES AND REFERENCE
+## Space Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 81_  
 Starfinder contains many rules and systems specifically for use in space and space-related situations. The Core Rulebook contains some basic information on space, cosmic rays and vacuum (including decompression) on page 394, as well as information on astronomical objects that may fit into forays that go beyond atmosphere. Rules for movement in zero gravity (Core Rulebook 402) and the dangers of radiation and suffocation (Core Rulebook 403–405) are all especially useful in space environments. As the majority of characters wear armor, being familiar with environmental protections (Core Rulebook 196–199) also comes in handy. Unless otherwise specified, the boots included with a set of armor can anchor the wearer’s feet to a solid surface in a zero-gravity environment (Core Rulebook 196). You can find examples and inspiration for your own space locales in the Diaspora (Pact Worlds 78), the rings of Preluria (Near Space 100), or even outside stations and worldships such as Absalom Station (Pact Worlds 38), the Idari (Pact Worlds 68), or Conqueror’s Forge (Near Space 62).  
 
-## SPACE TOOLBOX
+## Space Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 82_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### SPACE INHABITANTS
+### Space Inhabitants
 
 | D%     | Sapient          | Threat               |
 |--------|------------------|----------------------|
@@ -63,8 +64,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Varculak         | Void ooze            |
 | 97–100 | Verthani         | Vorthuul             |
 
-
-### SPACE ADVENTURE HOOKS
+### Space Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                        |
 |-----|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

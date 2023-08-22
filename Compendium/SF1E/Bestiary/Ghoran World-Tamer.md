@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Ghoran World-Tamer
+# Ghoran World-tamer
 
 - [cr::1]
 - [combatType::combatant]

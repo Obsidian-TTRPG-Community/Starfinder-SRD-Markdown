@@ -5,8 +5,10 @@ Prerequisites: Con 13.
 tags: 
 Type: General Feat
 ---
-# ACCELERATED RECOVERY
-**Source** _Character Operations Manual pg. 112_  
+
+# Accelerated Recovery
+
+**Source**:: _Character Operations Manual pg. 112_  
 Your body knits back together especially quickly while you are resting.
 
 **Prerequisites**: Con 13.

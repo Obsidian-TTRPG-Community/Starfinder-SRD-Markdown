@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# KRANG HAMMERFIST
+
+# Krang Hammerfist
 
 **XP 1,200**  
 N Medium humanoid (krang)  

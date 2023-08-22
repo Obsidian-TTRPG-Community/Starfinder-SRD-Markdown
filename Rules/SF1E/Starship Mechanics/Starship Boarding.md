@@ -2,49 +2,50 @@
 aliases: 
 tags: 
 ---
-# STARSHIP BOARDING
+
+# Starship Boarding
 
 Although most starship combat involves lasers and torpedoes fired across vast distances, some starship crews—from Besmaran pirates to hardened vesk marines—relish boarding enemy vessels to finish the fight hand‑to‑hand. Of course, starships rarely draw close enough to each other to facilitate boarding, so moving troops from one ship to another typically occurs in one of four ways: a starship latching onto an enemy ship with an anchoring weapon, one starship ramming another, striking a starship with a breaching pod, or a giant space creature injecting pathogens into its prey.  
 When a starship launches a boarding party, the party’s maximum size equals 20% of the attacking starship’s complement or 4 combatants, whichever is higher. Some options, such as breaching pods, are exceptions that provide a different maximum size.  
 
-# ANCHORING WEAPONS
+# Anchoring Weapons
 
 **Source** _Starship Operations Manual pg. 40_  
 If a starship uses a weapon with the anchoring special property and begins the gunnery phase adjacent to the ensnared target, the gunner can use the shoot crew action to secure the target. If successful, the attack deals no damage, but the gunner’s ship can send one boarding party aboard the enemy starship.  
 
-# BREACHING PODS
+# Breaching Pods
 
 **Source** _Starship Operations Manual pg. 40_  
 Breaching pods fly teams of combatants toward a target, much like a tracking weapon. Upon impact, a breaching pod’s prow pierces a hole in the target, allowing the combatants to pour into the starship. Due to their size and composition, breaching pods can’t pierce any quadrant with Shield Points.  
 
-# INJECTED PATHOGEN
+# Injected Pathogen
 
 **Source** _Starship Operations Manual pg. 40_  
 Some creatures can inject dangerous biological agents into a starship. When calculating its boarding statistics, the pathogen’s tier equals the creature’s tier, and the pathogen’s complement modifier is +0. In addition to fending the pathogen off as though it were a boarding party, a defending officer can use environmental controls to weaken the pathogen as an open crew action with a Life Science check (DC = 10 + 1-1/2 × the creature’s tier). If successful, all pathogen boarding parties take a –4 penalty to their next boarding attack before the end of the next round.  
 
-# RAMMING
+# Ramming
 
 **Source** _Starship Operations Manual pg. 40_  
 When a starship successfully rams and deals damage to another starship’s Hull Points, an officer can direct a boarding party to invade the targeted starship as an open crew action during the gunnery phase that round.  
 
-# RESOLVING A BOARDING PARTY
+# Resolving a Boarding Party
 
 **Source** _Starship Operations Manual pg. 40_  
 Once a boarding party has invaded an enemy vessel, the defenders can react in one of two ways: repel the invaders through starship actions or confront them in tactical combat. Starship actions best represent the PCs relying on their starship’s crew and other defenses to repel attackers, whereas tactical combat is best if two or more PCs want to pursue the attackers directly.
 
-# NEW OPEN CREW ACTIONS
+# New Open Crew Actions
 
 An officer can directly influence a boarding party’s success or repulsion.
 
-## LEAD BOARDING PARTY (ENGINEERING PHASE)
+## Lead Boarding Party (ENGINEERING PHASE)
 
 You accompany a boarding party, granting it a major advantage. Add an insight bonus equal to your key ability score’s modifier to the boarding party’s boarding attack modifier. If the boarding attack succeeds, you can choose which system takes critical damage.
 
-## SUBDUE BOARDING PARTY (ENGINEERING PHASE)
+## Subdue Boarding Party (ENGINEERING PHASE)
 
 You personally lead your starship’s crew in thwarting a boarding party. Either add an insight bonus equal to your key ability score modifier to your starship’s BR against one boarding attack attempted this round, or add half that bonus (rounded down) to the BR against all such boarding attacks this round.  
 
-# RESOLVING WITH STARSHIP ACTIONS
+# Resolving with Starship Actions
 
 **Source** _Starship Operations Manual pg. 40_  
 Rather than making individual attack rolls or tracking their exact location on a starship, a boarding crew’s success and health is resolved with a special boarding attack roll at the start of the Engineering phase. This check includes several modifiers that are explained on page 41.
@@ -59,7 +60,8 @@ If the boarding attack is successful, the boarding party locates and sabotages p
 Incapacitated crew and boarding party members might be dead, seriously injured, unconscious, captured, or otherwise neutralized, but regardless of their condition, they are unable to contribute for the duration of the starship combat. When determining which creatures are incapacitated, a starship’s non‑officer crew members are incapacitated first. If a PC would be incapacitated while resolving a boarding event, it’s often best to have them captured; however, if a group refuses to yield, reduce that PC to 0 Hit Points, and the PC must spend enough Resolve Points to stabilize. If that PC does not have enough Resolve Points, they die.  
 As a guideline, half of the combatants incapacitated during a boarding event survive to recover after starship combat ends. This increases to 75% of the incapacitated defenders if their starship has a medical bay.
 
-# COMPLEMENT MODIFIER
+# Complement Modifier
+
 The boarding party’s relative size plays a significant role in how quickly they can overcome defenders and inflict damage, represented by a modifier to the boarding attack. To calculate this modifier, compare the number of combatants in the boarding party to the defending ship’s complement, using the following table.
 
 | Boarding Party Size                      | Complement Modifier |
@@ -73,7 +75,7 @@ The boarding party’s relative size plays a significant role in how quickly the
 
   
 
-# SECURITY MODIFIER
+# Security Modifier
 
 **Source** _Starship Operations Manual pg. 41_  
 Starships often incorporate security features that stymie invaders. A starship’s BR has a base security modifier of +0, modified by the following security features (rounded up). Antipersonnel weapons provide their BR modifier only against the first boarding attack attempted against the starship, after which the weapon exhausts its ammunition and must be reloaded as an open crew action.
@@ -87,7 +89,7 @@ Starships often incorporate security features that stymie invaders. A starship�
 
   
 
-# TRAINING MODIFIER
+# Training Modifier
 
 **Source** _Starship Operations Manual pg. 41_  
 A typical starship’s crew members have basic combat skills that help them fend off attackers, represented by the starship’s tier. However, well-trained combatants can quickly overpower unskilled foes. A starship that has a basic, specialized, or elite combat training facility as an expansion bay increases the crew’s military capabilities to skilled, specialized, or elite, respectively, each of which increases the starship’s BR. A starship benefits only from the most advanced combat training facility it has. For military starships published prior to this book, consider granting their crews the skilled or specialized benefits as appropriate.
@@ -100,13 +102,13 @@ A typical starship’s crew members have basic combat skills that help them fend
 
   
 
-# MULTIPLE BOARDING PARTIES
+# Multiple Boarding Parties
 
 **Source** _Starship Operations Manual pg. 41_  
 If two or more allied boarding parties board the same starship, they can choose either to operate independently or combine forces. When operating independently, resolve each boarding party’s boarding attack separately.  
 When boarding parties combine forces, add their number of combatants together to calculate their complement bonus, and use the average of their training modifiers (rounded down). Combine the boarding parties’ combatants to determine how many combatants are incapacitated during the boarding event.  
 
-# TACTICAL BOARDING RESOLUTION
+# Tactical Boarding Resolution
 
 **Source** _Starship Operations Manual pg. 41_  
 When multiple PCs participate directly in a boarding event, it’s best to put the starship combat on hold at the end of the current round. Record the starships’ positions and statuses (their HP, SP in each quadrant, etc.). Resolve the boarding action as a tactical encounter using a 5-foot-square grid.  

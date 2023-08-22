@@ -9,16 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# MIRROR IMAGE
 
-**Source** _Starfinder Core Rulebook pg. 366_  
-**Classes** Precog 2, Technomancer 2, Witchwarper 2  
-**School** illusion  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** 1 minute/level  
+# Mirror Image
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 366_  
+**Classes**:: Precog 2, Technomancer 2, Witchwarper 2  
+**School**:: illusion  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: 1 minute/level  
+
+## Description
 
 This spell creates a number of illusory doubles of you that inhabit your square. These doubles make it difficult for enemies to precisely locate and attack you.
 

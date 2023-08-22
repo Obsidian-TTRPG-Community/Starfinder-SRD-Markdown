@@ -9,17 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# INVISIBILITY
-**Source** _Starfinder Core Rulebook pg. 362_  
-**Classes** Precog 2, Technomancer 2, Witchwarper 2  
-**School** illusion  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one creature or object no more than 10 bulk/level  
-**Duration** 1 minute/level (D)  
-**Saving Throw** Will negates (harmless, object), see text; **Spell Resistance** yes (harmless, object)
 
-## DESCRIPTION
+# Invisibility
+
+**Source**:: _Starfinder Core Rulebook pg. 362_  
+**Classes**:: Precog 2, Technomancer 2, Witchwarper 2  
+**School**:: illusion  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one creature or object no more than 10 bulk/level  
+**Duration**:: 1 minute/level (D)  
+**Saving-Throw**:: Will negates (harmless, object), see text;
+**Spell Resistance**:: yes (harmless, object)
+
+## Description
 
 The creature or object touched becomes invisible (see page 264). If the target is a creature, any gear it is carrying vanishes as well. If you cast the spell on someone else, neither you nor your allies can see the target unless you can normally see invisible things or you employ magic to do so.  
   

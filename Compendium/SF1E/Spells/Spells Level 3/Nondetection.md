@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# NONDETECTION
 
-**Source** _Starfinder Core Rulebook pg. 367_  
-**Classes** Precog 3, Technomancer 3, Witchwarper 3  
-**School** abjuration  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one creature or object  
-**Duration** 1 hour/level  
-**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
+# Nondetection
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 367_  
+**Classes**:: Precog 3, Technomancer 3, Witchwarper 3  
+**School**:: abjuration  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one creature or object  
+**Duration**:: 1 hour/level  
+**Saving-Throw**:: Will negates (harmless, object);
+**Spell Resistance**:: yes (harmless, object)
+
+## Description
 
 The warded creature or object becomes difficult to detect by divination spells such as _clairaudience/clairvoyance_ and spells with the word “detect” in their names. _Nondetection_ also prevents location by magic items such as _crystal balls_ and technological items such as cameras and surveillance systems. Casting this spell places significant stress on you, and requires you to spend 1 Resolve Point.
 

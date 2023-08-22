@@ -9,17 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# CONFUSION
-**Source** _Starfinder Core Rulebook pg. 344_
-**Classes** Mystic 4, Precog 4, Witchwarper 4  
-**School** enchantment (compulsion, mind-affecting)  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
-**Area** 15-ft.-radius burst  
-**Duration** 1 round/level  
-**Saving Throw** Will negates; **Spell Resistance** yes
 
-## DESCRIPTION
+# Confusion
+
+**Source**:: _Starfinder Core Rulebook pg. 344_
+**Classes**:: Mystic 4, Precog 4, Witchwarper 4  
+**School**:: enchantment (compulsion, mind-affecting)  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
+**Area** 15-ft.-radius burst  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 This spell causes confusion in all creatures in the area, making them unable to determine their actions. Any confused creature that is attacked automatically attacks or attempts to attack its attackers on its next turn, as long as it is still confused at the start of its next turn. Note that a confused creature will not make attacks of opportunity against any foe that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked). For confused creatures that have not been attacked, roll on the following table at the start of each affected creature’s turn each round to see what it does in that round.  
   

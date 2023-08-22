@@ -2,13 +2,14 @@
 aliases: 
 tags: 
 ---
-# DRIFT ENCOUNTERS TOOLBOX
+
+# Drift Encounters Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 146_  
 When a starship travels through the Drift, there is a chance that the crew might randomly encounter something that has been pulled from another plane (Core Rulebook 291). You can roll on the table below to determine exactly what that encounter could be, possibly leading to exciting adventures that break up the monotony of long-distance space travel.  
   
 
-## DRIFT ENCOUNTER
+## Drift Encounter
 
 | D%    | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

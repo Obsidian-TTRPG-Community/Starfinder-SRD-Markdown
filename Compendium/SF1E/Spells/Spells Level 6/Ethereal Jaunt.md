@@ -9,16 +9,17 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# ETHEREAL JAUNT
 
-**Source** _Starfinder Core Rulebook pg. 354_  
-**Classes** Mystic 6, Precog 6, Technomancer 6, Witchwarper 6  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** personal  
-**Duration** 1 round/level (D)  
+# Ethereal Jaunt
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 354_  
+**Classes**:: Mystic 6, Precog 6, Technomancer 6, Witchwarper 6  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: personal  
+**Duration**:: 1 round/level (D)  
+
+## Description
 
 You become ethereal, along with your equipment. For the duration of the spell, you are on the Ethereal Plane, which overlaps the Material Plane. When the spell expires, you return to material existence.
 

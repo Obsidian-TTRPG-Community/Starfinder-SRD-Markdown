@@ -9,18 +9,20 @@ tags:
 Technomancer: 1-6
 Witchwarper: 1-6
 ---
-# FLIGHT
 
-**Source** _Starfinder Core Rulebook pg. 355_  
-**Classes** Technomancer 1-6, Witchwarper 1-6  
-**School** transmutation  
-**Casting Time** 1 standard action; see text  
-**Range** see text  
-**Targets** see text  
-**Duration** see text  
-**Saving Throw** Will negates (harmless); **Spell Resistance** yes (harmless)
+# Flight
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 355_  
+**Classes**:: Technomancer 1-6, Witchwarper 1-6  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action; see text  
+**Range**:: See Text  
+**Targets**:: See Text  
+**Duration**:: See Text  
+**Saving-Throw**:: Will negates (harmless);
+**Spell Resistance**:: yes (harmless)
+
+## Description
 
 You tinker with the particles of magic surrounding one or more targets to either allow them to slow a fall, gently rise or descend, or fly short or vast distances.
 

@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SHATORI
+
+# Shatori
+
 > [!infobox|left n-th clean]
 >  [[Shatori.png|Spielern zeigen!]]
 > Before the Gap, shatoris had a utopian civilization that spanned several words in the Disaj system in the Vast, built upon a wellspring of magic on their home world, Perdane. When the source of their power dwindled, the shatoris searched the planes for more eldritch energy. Their overreach led them to Abaddon, and when they retreated from that plane, an army of daemons followed them back to the Disaj system.  
@@ -22,29 +24,29 @@ The combination of shatori philosophy, dread of extinction, and desire for remem
 **Ability Modifiers** +2 Int, +2 Wis, -2 Con  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Shatoris are Medium humanoids with the shatori subtype.  
 
-## BONEYARD CONDITIONING
+## Boneyard Conditioning
 
 Shatoris have a +2 racial bonus to saving throws against death effects, disease, fear effects, and poison.  
 
-## PSYCHOMETRY
+## Psychometry
 
 By taking a standard action to touch a creature or object, a shatori gains a +4 racial bonus to their next check to identify the creature, their next check to recall knowledge about the creature or the object, or their next Sense Motive check against the creature. To touch an unwilling creature, the shatori must succeed at a melee attack roll against that creature’s EAC.  
 
-## SHARED STILLNESS
+## Shared Stillness
 
 Allies within 10 feet of a shatori gain a +1 morale bonus to saving throws against fear effects.  
 
-## SHATORI MAGIC
+## Shatori Magic
 
 Shatoris gain the following spell-like abilities. The caster level for these effects equals the shatori’s level.   
   
 At will—[_detect magic_](https://aonsrd.com/SpellDisplay.aspx?ItemName=detect%20magic), [grave words](https://aonsrd.com/FeatDisplay.aspx?ItemName=grave%20words), [stabilize](https://aonsrd.com/FeatDisplay.aspx?ItemName=stabilize)
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6 to 7 ft.   
 **Average Weight** 125 to 250 lbs.   

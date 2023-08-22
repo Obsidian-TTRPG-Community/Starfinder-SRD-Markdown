@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# VESKARIUM STARSHIPS
+
+# Veskarium Starships
+
 Like vesk themselves, Veskarium-style ships tend to be brutish and pugnacious. They bristle with weapons and armor without regard for aesthetics, and many of their shapes were originally inspired by the sharklike reptilian predators in the seas of Vesk-2.  
   
 Though the Veskarium is a monolithic military-industrial complex, its government is strangely permissive of its manufacturers selling ships to its rivals. Some believe this is due to the vesk’s inherent sense of honor—there’s little joy in beating a poorly armed opponent—while others fear governmentmandated back doors into ship AIs, or chalk it up to the power of crony capitalism. Regardless, Veskarium ships are extremely popular among the rough-and-tumble sorts of the Pact Worlds: corporations, criminals, and mercenaries that need a lot of firepower without a lot of questions. Most military organizations old enough to remember the war with the Veskarium, such as the Stewards and the Knights of Golarion, respect the vessels but would never include them in their fleets. Ships by the Norikama Syndicate, based on a neutral colony world of the same name and specializing in knockoffs of other companies’ designs, are most commonly encountered in Pact Worlds space, yet many ships by Veskarium-based corporations such as Dashadz Industries, Vindicas, and the Blood Mountain Clans regularly make their way into circulation via military salvage, the gray market, or honest sale. Perhaps the most common and recognizable of all Veskarium ships is the BMC Mauler. With its distinctive Y-shaped outline, created by wing arms descending to the central bubble cockpit, the Mauler proves shockingly maneuverable and once chewed through squadrons of Pact Worlds defenders. Today, the Mauler remains the default fighter on most vesk carriers and serves as the weapon of choice for vesk pilots engaging in honor duels.

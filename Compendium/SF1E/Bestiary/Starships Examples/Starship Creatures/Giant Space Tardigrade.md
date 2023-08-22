@@ -5,9 +5,10 @@ tags:
 Tier: 4
 Type: N Medium starship magical beast  
 ---
-# GIANT SPACE TARDIGRADE
 
-**Source** _Alien Archive 3 pg. 40_
+# Giant Space Tardigrade
+
+**Source**:: _Alien Archive 3 pg. 40_
 
 N Medium starship magical beast, **Tier** 4 
 **Speed** 6; **Maneuverability** good (turn 1); **Drift** —  
@@ -20,19 +21,19 @@ N Medium starship magical beast, **Tier** 4
 **Power Core** tardigrade brain (150 PCU); **Drift Engine** none; **Systems** basic computer, basic medium-range sensors, mk 4 armor, mk 4 defenses, upgraded heavy weapon mount (forward arc); **Expansion Bays** none  
 **Other Abilities** living starship, redundant lobes, rugged, self-repair, void adaptation
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +10 (4 ranks)  
 **Gunner (1 action)** gunnery +9 (4th level)  
 **Pilot (1 action)** Piloting +15 (4 ranks)  
 **Science Officer (1 action)** Computers +10 (4 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary, pair, or endurance (3–8)
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Living Starship (Ex)** A giant space tardigrade is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take crew actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the following table to determine the effects when a giant space tardigrade takes critical damage.
 
@@ -49,7 +50,7 @@ N Medium starship magical beast, **Tier** 4
 
 **Self-Repair (Ex)** A giant tardigrade automatically regains 1 Hull Point every hour.
 
-## DESCRIPTION
+## Description
 
 Among the most durable creatures in existence, giant space tardigrades are truly enormous relatives of the microscopic water-dwelling tardigrades found on many worlds. Like their smaller cousins, giant space tardigrades resemble lumbering bear-like creatures with a segmented body and eight legs. Although all tardigrades can withstand the vacuum and radiation of space for a time, giant space tardigrades are at home in airless environments, drifting through space to find food. Due to the rarity of sustenance in the vast gulfs of space, giant tardigrades can eat nearly anything and are often aggressive in their attempts to destroy and consume starships they encounter. Some trade corporations and stationmasters put bounties on giant space tardigrades that have proven to be a nuisance, and a popular joke among spacers is that the best thing to devour or chase away a giant space tardigrade is a bigger one.
 

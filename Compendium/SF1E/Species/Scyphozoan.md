@@ -27,7 +27,7 @@ Scyphozoans are able to breathe both water and air normally.
 
 Scyphozoans have blindsense (vibration) with a range of 30 feet.  
 
-## Sea-Born
+## Sea-born
 
 A scyphozoan has a land speed of 30 feet and a swim speed of 30 feet.  
 

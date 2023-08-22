@@ -3,17 +3,17 @@ aliases:
 tags: 
 ---
 
-# BUILDING STARSHIP-SCALE CREATURES
+# Building Starship-scale Creatures
 
 **Source** _Starship Operations Manual pg. 126_  
 Though most species must design and build intricate craft to traverse the universe, there are some behemoths that have adapted to the unyielding void. Other immense creatures might be enormous menaces lurking in the atmospheres of gas giants, or even the gigantic guardians of a holy site in the obscure reaches of the Vast. Building monsters at starship scale is a great way to spice up an adventure, show something about how life evolved in a particular sector of the galaxy, or give your PCs a new and unique type of challenge.  
 
-# OVERVIEW
+# Overview
 
 **Source** _Starship Operations Manual pg. 126_  
 This section provides rules for quickly creating your own starship-scale creatures for use in starship combat.  
 
-# STEP 1: CREATURE CONCEPT AND TIER
+# Step 1: Creature Concept and Tier
 
 **Source** _Starship Operations Manual pg. 126_  
 Come up with an overall concept for your creature. What type of creature is it? What is its origin and purpose? How does it pose a threat to starships? After considering these questions, set the tier for the creature. If you’re building it for a specific group of PCs to encounter, consult the following table to determine the appropriate tier. Further advice on building starship encounters of all kinds can be found on page 326 of the Core Rulebook.
@@ -28,7 +28,7 @@ Come up with an overall concept for your creature. What type of creature is it? 
 
   
 
-# STEP 2: ARRAY
+# Step 2: Array
 
 **Source** _Starship Operations Manual pg. 126_  
 Using your creature’s tier, look up its Armor Class (AC), Target Lock (TL), Hull Points (HP), Critical Threshold (CT), Shield Points (SP), skill bonuses, gunnery bonus, and weapon damage on Table 4–1: Starship Creature Array (page 127). More information on these terms can be found in Understanding Starships on page 78.  
@@ -40,7 +40,7 @@ Using your creature’s tier, look up its Armor Class (AC), Target Lock (TL), Hu
 **Weapon Damage:** The high and low weapon damage entries show the damage dealt by the starship creature’s weapons (see Step 3: Size). These are assumed to be direct-fire weapons with medium range (10 hexes).  
   
 
-### TABLE 4–1: STARSHIP CREATURE ARRAY
+### Table 4–1: Starship Creature Array
 
 | TIER | AC | TL | HP  | CT  | SP  | MASTER SKILL BONUS | GOOD SKILL BONUS | GUNNERY BONUS | HIGH WEAPON DAMAGE | LOW WEAPON DAMAGE |
 |------|----|----|-----|-----|-----|--------------------|------------------|---------------|--------------------|-------------------|
@@ -71,7 +71,7 @@ Using your creature’s tier, look up its Armor Class (AC), Target Lock (TL), Hu
 
   
 
-# STEP 3: SIZE
+# Step 3: Size
 
 **Source** _Starship Operations Manual pg. 126_  
 Choose an appropriate size for your creature. This provides its speed, maneuverability, DT, and weapon mounts, and might modify its AC, TL, Piloting modifier, and HP, shown on Table 4–2: Starship Creature Size (page 127). More information on these terms can be found in Understanding Starships on page 78.  
@@ -85,7 +85,7 @@ In addition, only low-damage weapons can be mounted on a turret, and weapons who
 Note that while a starship creature’s weapons work mechanically like starship weapons, you can describe them however best matches the flavor of the creature you’re creating—for example, a zoaphorix (page 131) is an enormous aberration that expels seeds and tendrils at its targets.  
   
 
-### TABLE 4–2: STARSHIP CREATURE SIZE
+### Table 4–2: Starship Creature Size
 
 | SIZE          | SPEED | MANEUVERABILITY  | AC AND TL MODIFIER | PILOTING MODIFIER | HP ADJUSTMENT | DT | WEAPONS       |
 |---------------|-------|------------------|--------------------|-------------------|---------------|----|---------------|
@@ -101,95 +101,95 @@ Note that while a starship creature’s weapons work mechanically like starship 
 
   
 
-# STEP 4: CREATURE TYPE GRAFT
+# Step 4: Creature Type Graft
 
 **Source** _Starship Operations Manual pg. 126_  
 Every creature belongs to one of 13 types. Choose and apply one of the listed grafts—a set of adjustments—to represent the creature’s type. Several grafts include special abilities described in Step 5: Special Abilities.  
 
-## ABERRATION
+## Aberration
 
 **Source** _Starship Operations Manual pg. 126_  
 An aberration is a creature with biology that defies reason, inconceivable motivations, strange abilities, or a combination of these aspects.  
 **Adjustments:** Gains the death throes special ability (page 128).  
 
-## ANIMAL
+## Animal
 
 **Source** _Starship Operations Manual pg. 126_  
 An animal is a creature with straightforward biology (relatively speaking) that’s somehow managed to adapt to life in the vacuum of space.  
 **Adjustments:** Increase speed by 2, +2 to Piloting.  
 
-## CONSTRUCT
+## Construct
 
 **Source** _Starship Operations Manual pg. 127_  
 A construct is a magically animated object or an artificially created creature.  
 **Adjustments:** Gains the improved hull special ability (page 128).  
 
-## DRAGON
+## Dragon
 
 **Source** _Starship Operations Manual pg. 127_  
 Though dragons usually are used in epic terrestrial encounters, thanks to their strange magic and powerful breath weapons, they can also serve as threats in the vacuum of space.  
 **Adjustments:** –1 turn distance (to a minimum of 0), +2 to Piloting, +2 to AC, –1 to TL.  
 
-## FEY
+## Fey
 
 **Source** _Starship Operations Manual pg. 127_  
 Fey are temperamental creatures that embody the ever-changing aspects of the natural world. Spacefaring fey often represent cosmic aspects such as stars and planetary bodies.  
 **Adjustments:** –1 turn distance (to a minimum of 0), +1 to Piloting, –1 to AC and TL.  
 
-## HUMANOID
+## Humanoid
 
 **Source** _Starship Operations Manual pg. 127_  
 Humanoids large enough to fight on starship scale are likely to be extremely rare giants, possibly scaled up to massive proportions via magic or technology.  
 **Adjustments:** –1 turn distance (to a minimum of 0), +1 to Piloting.  
 
-## MAGICAL BEAST
+## Magical Beast
 
 **Source** _Starship Operations Manual pg. 127_  
 A magical beast is a creature with magical powers or strange abilities, a biology informed by magic, or some other innate connection to magic.  
 **Adjustments:** Increase speed by 2, gains the improved shields special ability (page 128).  
 
-## MONSTROUS HUMANOID
+## Monstrous Humanoid
 
 **Source** _Starship Operations Manual pg. 127_  
 While similar to humanoids, monstrous humanoids often have bizarre or powerful abilities, as well as monstrous or animalistic features.  
 **Adjustments:** –1 turn distance (to a minimum of 0), +1 to Piloting.  
 
-## OOZE
+## Ooze
 
 **Source** _Starship Operations Manual pg. 128_  
 An ooze is an amorphous creature, often with simple but mutable biology.  
 **Adjustments:** Reduce speed by 4 (to a minimum of 4), change maneuverability to perfect (turn 0), –2 to Piloting.  
 
-## OUTSIDER
+## Outsider
 
 **Source** _Starship Operations Manual pg. 128_  
 Outsiders large enough to engage in starship combat directly are rare but not unheard of. Massive archons, demons, and devils have come into conflict before, often to the detriment of nearby mortals.  
 **Adjustments:** Gains the improved shields special ability (page 128).  
 
-## PLANT
+## Plant
 
 **Source** _Starship Operations Manual pg. 128_  
 A starship-scale plant is often a mindless creature that relies on solar energy and specific gases to survive. It might call a gas giant its home and survive on solar radiation from a nearby star.  
 **Adjustments:** Increase AC by 1, reduce speed by 2 (to a minimum of 4), gains the regeneration special ability (page 129).  
 
-## UNDEAD
+## Undead
 
 **Source** _Starship Operations Manual pg. 128_  
 Necromancers of significant power might construct a starship-scale undead creature or animate the remains of a massive, once-living creature, such as a vermelith (Alien Archive 2 130).  
 **Adjustments:** Gains the fearsome special ability (see below).  
 
-## VERMIN
+## Vermin
 
 **Source** _Starship Operations Manual pg. 128_  
 Vermin are similar to animals, but they usually lack any form of advanced intelligence and react purely on instinct.  
 **Adjustments:** Gains the improved hull and speed burst special abilities (see below, page 129).  
 
-# STEP 5: SPECIAL ABILITIES
+# Step 5: Special Abilities
 
 **Source** _Starship Operations Manual pg. 128_  
 With your creature’s basic statistics taken care of, it’s time to add abilities to make it stand out.  
 
-## FREE SPECIAL ABILITIES
+## Free Special Abilities
 
 **Source** _Starship Operations Manual pg. 128_  
 All starship creatures (including undead) gain the living starship special ability. Spacefaring starship creatures gain several more abilities for free.  
@@ -210,7 +210,7 @@ _Living Starship (Ex):_ This creature is so immense that it functions as a stars
 
 <sup>†</sup> The brain doesn’t gain critical damage conditions.  
 
-## STANDARD SPECIAL ABILITIES
+## Standard Special Abilities
 
 **Source** _Starship Operations Manual pg. 128_  
 In most cases, starship-scale creatures should have no more than three standard special abilities, including those gained from the creature’s type but not including those listed above as free special abilities. Unless otherwise noted, you can select an ability more than once. You can also come up with your own special abilities, but be careful using any that significantly adjust its combat statistics or abilities, as this might make your creature too easy or too challenging to defeat in combat.  
@@ -253,12 +253,12 @@ In most cases, starship-scale creatures should have no more than three standard 
   
 **Titanic Slam:** Once every 1d4 rounds, the creature can make an attack that deals damage on a hit equal to 1-1/2 × its high weapon damage to a ship that is adjacent and in its forward arc.  
 
-# STEP 6: FINAL CHECK
+# Step 6: Final Check
 
 **Source** _Starship Operations Manual pg. 129_  
 Finally, look back over your starship-scale creature and make sure it lives up to your concept for it. Once you’re satisfied, give it a name, and it’s ready to encounter your PCs! You can use the advice in this chapter for using typical starships, such as Designing Starship Encounters on page 138 or Adventure Seeds on page 142, to make the most out of your starship creature.
 
-### USING STARSHIP-SCALE CREATURES IN COMBAT
+### Using Starship-scale Creatures in Combat
 
 Creatures that you generate using the system presented in this section require a few special considerations, both in and out of starship combat. These rules and guidelines can also be applied to starship creatures that appear in other Starfinder products, such as volumes of the Alien Archive.  
   
@@ -268,7 +268,7 @@ Creatures that you generate using the system presented in this section require a
   
 **Destroying a Starship Creature:** Generally, a starship creature that is reduced to zero Hull Points is destroyed, rather than disabled, though such a creature may simply be gravely wounded and may still be able to retreat or recover, at the GM’s discretion.  
 
-# ALTERNATIVES TO THIS SYSTEM
+# Alternatives to This System
 
 **Source** _Starship Operations Manual pg. 129_  
 While this system presents a simple process for building starship-scale creatures, you can also build a starship creature as you would a normal starship, changing the names of systems to match your concept. In this case, ignore the steps of this process, but still add the living starship special ability and any universal creature rules called for by Step 5: Special Abilities (page 128).

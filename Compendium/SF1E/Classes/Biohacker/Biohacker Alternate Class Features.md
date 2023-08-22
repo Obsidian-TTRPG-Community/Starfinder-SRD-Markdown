@@ -2,20 +2,21 @@
 aliases: 
 tags: 
 ---
-# BIOHACKER ALTERNATE CLASS FEATURES
 
-## AUTO-INJECTOR (EX)
+# Biohacker Alternate Class Features
 
-**Source** _Tech Revolution pg. 18_  
+## Auto-injector (EX)
+
+**Source**:: _Tech Revolution pg. 18_  
 **Class** Biohacker  
   
 You can create compact devices that inject their user with a biohack booster in response to specific conditions. While spending 10 minutes to create biohacks, you can transform any number of the created biohacks into auto-injectors and implant them in nearby creatures to whom your custom microlab is attuned. Each auto-injector occupies either the recipient’s endocrine body system for augmentations or one of their armor’s upgrade slots. When implanting the device, you must choose both the auto‑injector’s biohack and its triggering condition, such as “this ally is attacked” or “this ally attempts a Fortitude save.” When the triggering condition occurs, the auto-injector activates, injecting the booster into the ally without using an action. The injection takes effect before resolving the triggering action, so a granted AC bonus might avert an otherwise successful hit, a saving throw bonus applies to the triggering save, and so on. The biohacker can use a reaction to delay this auto-injector, preventing it from activating when its condition triggers. With 1 minute of work, the biohacker can remove an auto-injector and install it into another ally’s armor, or they can change the auto-injector’s triggering condition.  
 An auto-injector counts against the biohacker’s total number of biohacks they can have ready at one time and remains functional for 24 hours or until they create a biohack to replace it.  
 This modifies the biohacks class feature and replaces the minor biohacks class feature.
 
-## LEY LINE HACKER (SU)
+## Ley line Hacker (SU)
 
-**Source** _Galactic Magic pg. 18_  
+**Source**:: _Galactic Magic pg. 18_  
 **Class** Biohacker  
   
 Like an arcane phlebotomist, some biohackers track, empower, and dampen untapped veins of magical energy by using scientific and thaumaturgic catalysts.  
@@ -30,9 +31,9 @@ You can create the following effects with a ley line hack:
 Choose one of the following energy types: acid, cold, electricity, fire, or sonic. When a creature in the area takes damage of the chosen type (maximum once per round per creature), that damage increases by an amount equal to your biohacker level or your key ability modifier, whichever is lower.  
 Ley line hacker replaces spark of ingenuity and the biohacker class features basic booster and basic inhibitor.
 
-## RESONATING BIOHACK
+## Resonating Biohack
 
-**Source** _Interstellar Species pg. 20_  
+**Source**:: _Interstellar Species pg. 20_  
 **Class** Biohacker  
   
 Whereas most biohackers affect anatomy with injections, urogs’ crystalline physiology responds better to precise sonic resonances. An urog-trained biohacker can transform a living being’s composition with a word.  

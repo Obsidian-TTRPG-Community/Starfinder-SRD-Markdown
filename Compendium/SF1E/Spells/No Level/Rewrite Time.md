@@ -9,21 +9,22 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# REWRITE TIME
 
+# Rewrite time
 
-**Source** _Galactic Magic pg. 81_  
-**Classes** Precog —  
-**School** universal  
-**Casting Time** 1 standard action  
-**Range** see text  
+**Source**:: _Galactic Magic pg. 81_  
+**Classes**:: Precog —  
+**School**:: universal  
+**Casting-Time**:: 1 standard action  
+**Range**:: See Text  
 **Effect** see text  
 **Area** see text  
-**Targets** see text  
-**Duration** see text  
-**Saving Throw** see text; **Spell Resistance** see text
+**Targets**:: See Text  
+**Duration**:: See Text  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: see text
 
-## DESCRIPTION
+## Description
 
 You unknit the fabric of time and remake it to suit your will. A _rewrite time_ spell can produce one of the following effects.
 

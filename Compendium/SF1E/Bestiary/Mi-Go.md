@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 
-# Mi-Go
+# Mi-go
 
 - [cr::6]
 - [combatType::expert]

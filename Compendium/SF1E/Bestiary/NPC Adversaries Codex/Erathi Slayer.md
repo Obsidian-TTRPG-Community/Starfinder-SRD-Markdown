@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ERATHI SLAYER
+
+# Erathi Slayer
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 2,400**  

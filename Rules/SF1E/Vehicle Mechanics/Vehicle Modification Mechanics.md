@@ -2,27 +2,29 @@
 aliases: 
 tags: 
 ---
-# VEHICLE MODIFICATIONS
+
+# Vehicle Modifications
+
 **Source** _Tech Revolution pg. 80_  
 Though countless vehicle makes and models exist throughout the universe, it’s the modifications that make each vehicle truly unique. From turbo-boosted speedsters to adamantine-plated luxury hovercars, well-selected modifications turn dependable vehicles into perfectly augmented tools as diverse and unique as those that pilot them.  
 
-## UNDERSTANDING VEHICLE MODIFICATIONS
+## Understanding Vehicle Modifications
 
 **Source** _Tech Revolution pg. 80_  
 A creature can customize their vehicle by purchasing and installing vehicle modifications, described below, which add bonuses or customized abilities to vehicles. Installing or removing a vehicle modification takes 4 hours, so replacing one modification with another takes 8 hours. Some individuals keep a collection of modifications on hand, swapping them out as needed. Unless otherwise stated, a vehicle modification that must be activated can be activated by the vehicle’s pilot or passengers. Explanations of entries for modifications’ statistics are below.  
 Some vehicle modifications are magical or a hybrid of magic and technology; this is indicated next to the modification’s name. If neither “magic” nor “hybrid” is listed after a modification, it’s a technological modification.  
 
-## CHARGES
+## Charges
 
 **Source** _Tech Revolution pg. 80_  
 For a technological vehicle modification that requires charges to function, this entry lists the maximum size battery the upgrade can hold. The batteries that upgrades hold can be recharged as normal using either a generator or a recharging station. A magic vehicle upgrade that can be used a certain number of times runs on magical charges; these charges are integral to the construction of the item and can’t be replenished with generators or batteries—though they do refresh each day.  
 
-## USAGE
+## Usage
 
 **Source** _Tech Revolution pg. 80_  
 This entry lists how many charges are consumed when the vehicle modification is used. This might be per activation or a certain duration. If a vehicle modification uses a certain number of charges over an interval, the modification’s abilities can be shut off before that amount of time has passed, but it still uses charges for the full interval.  
 
-## MODIFICATION SLOTS
+## Modification Slots
 
 **Source** _Tech Revolution pg. 80_  
 Each vehicle contains a certain number of modification slots, which are not literal slots but instead represent the vehicle’s capacity for further adjustments and additional features while still being able to function normally. If not otherwise stated, a vehicle has one modification slot, plus an additional number of slots equal to one-fifth its item level (rounded down). Unless otherwise noted, a vehicle can’t accommodate or benefit from multiple copies of the same modification.

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# BARATHU - EARLY STAGE
+
+# Barathu - Early Stage
 
 > [!infobox|left]
 >  [[Barathu - Early Stage.png|Spielern zeigen!]]
@@ -14,11 +15,11 @@ Barathu culture tends to be easygoing but hard for some other races to understan
 **Ability Modifiers** +2 Con, +2 Wis, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Early stage barathus are Medium aberrations.  
 
-## EARLY STAGE ADAPTATION
+## Early Stage Adaptation
 
 An early stage barathu’s body is mutable and can adapt to many different situations. Once every 1d4 rounds as a swift action, an early stage barathu can reshape its body and adjust its chemistry to gain one of the following qualities. The adaptation lasts until the beginning of the early stage barathu’s next turn. Unlike more mature barathus, early stage barathus are not generally capable of more complex adaptations. 
 
@@ -30,47 +31,47 @@ An early stage barathu’s body is mutable and can adapt to many different situa
 
   
 
-## FLOATERS
+## Floaters
 
 Early stage barathus have a base speed of 0 feet and an extraordinary fly speed of 30 feet with average maneuverability.  
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Early stage barathus can communicate telepathically with any creatures within 30 feet with whom they share a language in common.  
 
-## STRANGE ANATOMY
+## Strange Anatomy
 
 Early stage barathus gain a +1 racial bonus to Fortitude saving throws.  
 
-## DARKVISION
+## Darkvision
 
 Early stage barathus have darkvision with a range of 60 feet.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4-6 ft.  
 **Average Weight** 150-250 lbs.  
 **Age of Maturity** 30 years  
 **Maximum Age** 500+3d% years
 
-# ALTERNATE RACIAL TRAITS
+# Alternate Racial Traits
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 Thanks to eons of modification, barathus are among the most varied of the species in the Pact Worlds. Unlike most other species, barathu modification continues throughout their lives; a barathu character who spends a week using the retrain downtime activity can retrain their racial traits, choosing one barathu racial trait or alternate racial trait and losing whichever racial traits the newly chosen trait replaces, as noted in each racial trait.
 
-## COLLECTIVE CONNECTION
+## Collective Connection
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 Barathus born from a collective of merged adults sometimes glean fragments of memories from that collective. These barathus receive a +2 racial bonus to checks to recall knowledge.  
 This ability replaces strange anatomy.
 
-## FLUID SELF
+## Fluid Self
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 The species’ unique sense of self makes barathus difficult to affect mentally, an ability particularly common among newly budded barathus and those who have recently split from a collective. A barathu with this trait gains a +2 racial bonus to saving throws against mind-affecting effects.  
 This ability replaces strange anatomy.
 
-## INTERNAL CHEMISTRY
+## Internal Chemistry
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 Although all barathus have a certain innate understanding of biochemistry, others have refined it into an art form, turning their bodies into living chemical factories. A barathu with internal chemistry gains the following options instead of the typical options available for the early stage adaptation ability. 
@@ -83,7 +84,7 @@ Although all barathus have a certain innate understanding of biochemistry, other
 
 This modifies early stage adaptation.
 
-## MINERAL EXOSKELETON
+## Mineral Exoskeleton
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 Some barathus, especially those who explore beyond Bretheda and Liavara, modify themselves by building shells out of mineral deposits. A barathu with a mineral exoskeleton gains these options instead of the typical options available for the early stage adaptation ability. 
@@ -96,7 +97,7 @@ Some barathus, especially those who explore beyond Bretheda and Liavara, modify 
 
 This modifies early stage adaptation.
 
-## STUDENT OF LIAVARA
+## Student of Liavara
 
 **Source** [_Starfinder #29: The Cradle Infestation pg. 43_](https://paizo.com/products/btq021f1?Starfinder-Adventure-Path-29-The-Cradle-Infestation)  
 Barathus respect and protect the Dreamers of Liavara, but few modify themselves to follow the Dreamers’ path. Those who do gain a hint of the Dreamers’ telepathic powers but forever lose the ability to modify themselves further. A barathu who selects this alternate racial trait cannot retrain it as it can others.  

@@ -10,7 +10,8 @@ statblock: true
 tags: 
 Type: HOTV NPC
 ---
-# DEIRDRIK
+
+# Deirdrik
 
 XP 600
 

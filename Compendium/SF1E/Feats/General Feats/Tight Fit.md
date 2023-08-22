@@ -5,8 +5,10 @@ Prerequisites: Large size or larger.
 tags: 
 Type: General Feat
 ---
-# TIGHT FIT
-**Source** _Character Operations Manual pg. 119_  
+
+# Tight Fit
+
+**Source**:: _Character Operations Manual pg. 119_  
 Time spent navigating spaces designed for smaller creatures has taught you to fit through tight spaces more efficiently.
 
 **Prerequisites**: Large size or larger.

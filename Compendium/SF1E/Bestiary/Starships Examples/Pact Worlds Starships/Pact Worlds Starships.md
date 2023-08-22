@@ -3,7 +3,8 @@ aliases:
 tags: 
 ---
 
-# PACT WORLDS STARSHIPS
+# Pact Worlds Starships
+
 The Pact Worlds have a long history of travel between the planets of their solar system, stretching back even before the Gap via magical portals and the technomagical aetherships of Verces. As trade increased and spaceflight became more commonplace, ideas flowed quickly and furiously, with designs converging as various corporations and militaries stole or purchased the best advances from other worlds. Castrovelian shipyards known for their delicate fins and speed in a vacuum adopted the ruggedness of Akiton’s sandstorm-blasted atmospheric fliers, while both incorporated the latest drive systems and armament advances from Verces and Absalom Station, plus powerful (but carefully limited) Aballonian AIs to aid in every aspect of piloting and navigation. Today, millennia after those early ships, the most common ship designs in the Pact Worlds have blended together so thoroughly that most are no longer strongly associated with any particular race, but simply with the system as a whole.  
   
 Whether produced by AbadarCorp’s ATech subsidiary, Castrovel’s Kevolari Collective, Sanjaval Spaceflight Systems of Akiton, Verces’ Ringworks Industries, or any of a thousand smaller shops, Pact Worlds ships tend to share certain similar features. Many of the smaller freighters and fighters show their evolution from atmospheric jet fighters and orbital spacecraft, with functional wings, fins, and streamlined profiles. This grace gives way to the blocky bulk of larger ships that will never be used in an atmosphere, yet even massive ships like the ATech Immortal Series—a staple of the Stewards’ peacekeeping fleet— possess a certain severe, military beauty.  

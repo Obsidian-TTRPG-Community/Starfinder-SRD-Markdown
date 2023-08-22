@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# FOREST
+
+# Forest
 
 **Source** _Galaxy Exploration Manual pg. 64_  
 Tree branches sway in a breeze that resonates with insect trills, bird calls, and the scuffling of unseen creatures in the undergrowth. Alien ferns and other undergrowth compete for shards of sunlight that pierce the dense canopy, and the ground is soft with decomposing leaves.  
@@ -12,28 +13,28 @@ Besides the thrill of discovery, forests typically contain an abundance of natur
 Life in a forest revolves around its trees, whose shape, size, and structure can vary wildly even on Earth-like planets. On a world with low gravity, slender-trunked trees might stretch hundreds of feet into the air, with branches and leaves that spread and sway in the slightest breeze like sea anemones in the ocean. In high gravity, trees could be much shorter and stouter, perhaps even wider than they are tall, as they struggle to move nutrients against powerful gravitational forces. In any forest, all manner of strange creatures adapt to these different forms.  
 Sapient creatures who make forests their homes are as diverse in their interactions with the biome as forests themselves. Some inhabitants might spend their entire lives flying or swinging from branch to branch among the canopy, never setting foot on the forest floor. Others might tap into the forest canopy, capturing energy gained via photosynthesis and distributing it to advanced technologies among its shade. Those who live in the dense and dark undergrowth may develop senses more powerful than sight and might live in mobile and makeshift structures that can be as difficult to spot as they are easy to move. Those who build more permanent structures often do so in tangent with the surrounding trees, building their homes in sprawling woven-vine villages or among complex root systems. However a species adapts to its forest home, it’s likely to be closely intertwined with the ecosystem. A forest-dwelling sapient species might form symbiotic relationships with fungi or parasitic plants that concentrate needed nutrients from the trees, or they might develop elaborate rituals for living in peace with apex predators that would otherwise eradicate them.  
 
-## FOREST ADVENTURERS
+## Forest Adventurers
 
 **Source** _Galaxy Exploration Manual pg. 64_  
 Forests are often the source of livelihood for those living in or around them. Those from forest biomes might be hunters, poachers, farmers, biologists, or loggers. Adventurers who grew up near a forest might have climbed trees to find food or simply for fun, increasing their Athletics skill. Balancing on moss-covered branches and navigating intertwined canopies require deft Acrobatics. Survival and Life Science are important, both for not getting lost and for knowing which creatures are dangerous and which foods are safe to eat. Stealth and Perception help those who need to stay alert for potential dangers, but are of special importance to hunters, whose livelihood can rely on noticing prey before being noticed by predators.  
 
-## FOREST WORLDS
+## Forest Worlds
 
 **Source** _Galaxy Exploration Manual pg. 65_  
 It’s not uncommon for terrestrial worlds to have land masses predominantly covered in forests—that is, until native societies reach a phase of rapid industrialization. But a forest planet isn’t necessarily a monoculture of the same trees for countless thousands of miles. Boreal forests, temperate forests, and tropical forests are capable of hosting a multitude of different life-forms and thrive in different environments. A forested planet doesn’t have to consist of only land masses. Forests of kelp or other underwater plants serve as havens for all sorts of life. Forests in tropical environs are the most ecologically diverse, with thick canopies and nutrient-poor soil, and typically stay the same temperature year-round. Temperate forests are more likely to experience seasonal cycles, such as leaves changing color and falling off in autumn and winter and regrowing in the spring. Because of this cycle, creatures typically use the plentiful warmer months to stock up and prepare for the colder, sparser months. The flora and fauna of boreal forests have adapted to extremely cold temperatures; the trees are typically evergreens with needle-like leaves, and the animals have thick coats of fur, feathers, or layers of insulating fat.  
 Areas that experience a dry season can be at risk of forest fires. While devastating in the short term, these fires serve a purpose by leaving behind fertile soil from which new life can grow. Sapient beings might even utilize this by burning swathes of land to make room for crops. Large fauna can also have a significant impact on the environment, their movement clearing trails on the forest floor that last for generations and are used by many other species. Large creatures might also uproot entire trees, making room for new growth.  
 
-## FOREST RULES AND REFERENCE
+## Forest Rules and Reference
 
 **Source** _Galaxy Exploration Manual pg. 65_  
 Basic rules information on forest terrain already appears on page 397 of the Core Rulebook. Here you can find hardness, HP, and climbing DCs for your average tree, though these could all certainly change depending on the particulars of your forest. Trees and undergrowth also provide cover, the rules for which can be found on pages 253–254 in the Core Rulebook, though remember that not all forests are thick with undergrowth—old‑growth forests like rainforests don’t allow enough light to the floor for much to grow. Rules for rain (Core Rulebook 398) and fog (Core Rulebook 399) can also come in handy for rainforests in particular. In rainforests and jungles, deadly insects and reptiles can invoke the affliction rules (Core Rulebook 414), especially those for poisons (Core Rulebook 415). In a boreal forest, the rules for snow (Core Rulebook 398) and for cold dangers (Core Rulebook 400) might come in handy, as temperatures in that environment can easily reach extreme cold. If you expect a vehicle chase in a forest, you can use the sample chase environment (Core Rulebook 287) for some obstacles your PCs might encounter. For examples of forest worlds, look at locations on Castrovel’s primal continent Ukulam (Pact Worlds 36), such as the unmappable Caliria Maze jungle, or Triaxus’s Doraeshi Rain Forest (Pact Worlds 104), an ecological wonder capable of adapting to the extreme seasons of Triaxus.  
 
-## FOREST TOOLBOX
+## Forest Toolbox
 
 **Source** _Galaxy Exploration Manual pg. 66_  
 See Biome Subsections on page 46 for advice on how to use the following tables.
 
-### FOREST INHABITANTS
+### Forest Inhabitants
 
 | D%     | Sapient         | Threat              |
 |--------|-----------------|---------------------|
@@ -63,8 +64,7 @@ See Biome Subsections on page 46 for advice on how to use the following tables.
 | 93–96  | Vlaka           | Writher swarm       |
 | 97–100 | Xaarb           | Yaruk               |
 
-
-### FOREST ADVENTURE HOOKS
+### Forest Adventure Hooks
 
 | D20 | Adventure Hook                                                                                                                                                                                                                                                                                                                                     |
 |-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -2,11 +2,12 @@
 aliases: 
 tags: 
 ---
-# STARSHIP BUILDING
+
+# Starship Building
 
 From the smallest transport shuttles to the largest, battleready dreadnoughts, starships are an important part of the Starfinder Roleplaying Game. They defend orbital stations from raids by space pirates, engage enemy fleets during massive interstellar conflicts, and explore the deepest reaches of space. But at their simplest, they allow the characters to travel the stars in search of adventure. The following chapter outlines the process of building a starship from scratch and customizing it to perfectly fit your needs.  
 
-# UNDERSTANDING STARSHIPS
+# Understanding Starships
 
 **Source** _Starfinder Core Rulebook pg. 292_  
 Starships and their base frames are described using stat blocks that include information about how they move, the size of their crews, and more. When you’re reading a starship or base frame stat block, the statistics and definitions below define its capabilities. A starship sheet is provided at the end of this book.
@@ -37,12 +38,12 @@ Starships and their base frames are described using stat blocks that include inf
 
   
 
-# SHOOTING STARSHIPS
+# Shooting Starships
 
 **Source** _Starfinder Core Rulebook pg. 292_  
 Starship weapons and regular PC-level weapons work on different scales and aren’t meant to interact with each other. If characters choose to shoot at a starship with their laser rifles (or cast a spell on it) while it is on the ground, the GM should treat the starship as an object (a particularly massive one, at that). At the GM’s discretion, if starship weapons are ever brought to bear against buildings or people, they deal Hit Point damage equal to 10 × their listed amount of damage. However, starship weapons are never precise enough to target a single individual (or even small group) and can, if the GM decides, be simulated as deadly hazards instead of weapon attacks.  
 
-# BUILDING A STARSHIP
+# Building a Starship
 
 **Source** _Starfinder Core Rulebook pg. 293_  
 Regardless of starships’ size and purpose, they’re all created using the same process. GMs and players alike can use the following steps to create an incredibly diverse array of vessels, from sleek science ships and nimble skirmishers to heavily armored combat frigates. Alternatively, you can use the prebuilt sample starships detailed later in this chapter (see page 305).  
@@ -87,7 +88,7 @@ When creating a starship, follow these steps.
 
   
 
-# STARSHIP SCALE
+# Starship Scale
 
 **Source** _Starfinder Core Rulebook pg. 293_  
 Though the size categories of starships have the same names as the size categories of creatures, they operate on completely different scales. Even within a size category, a starship’s exact measurements might differ between base frames and manufacturers. The size of a starship also modifies its Armor Class and Target Lock as indicated.

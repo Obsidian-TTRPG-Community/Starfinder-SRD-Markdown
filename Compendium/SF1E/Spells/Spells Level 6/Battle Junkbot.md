@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# BATTLE JUNKBOT
 
-**Source** _Starfinder Core Rulebook pg. 341_  
-**Classes** Technomancer 6  
-**School** transmutation  
-**Casting Time** 1 round  
-**Range** touch  
-**Targets** at least 1 bulk of inert electronic equipment; see text  
-**Duration** 1 round/level  
-**Saving Throw** none; **Spell Resistance** no
+# Battle Junkbot
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 341_  
+**Classes**:: Technomancer 6  
+**School**:: transmutation  
+**Casting-Time**:: 1 round  
+**Range**:: touch  
+**Targets**:: at least 1 bulk of inert electronic equipment; see text  
+**Duration**:: 1 round/level  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
+
+## Description
 
 You turn a pile of technological junk into a vicious robot that can hunt down and attack your enemies.
 

@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# BESTOW CURSE
 
-**Source** _Starfinder Core Rulebook pg. 341_  
-**Classes** Mystic 3  
-**School** necromancy (curse)  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one creature  
-**Duration** permanent  
-**Saving Throw** Will negates; **Spell Resistance** yes
+# Bestow Curse
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 341_  
+**Classes**:: Mystic 3  
+**School**:: necromancy (curse)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one creature  
+**Duration**:: permanent  
+**Saving-Throw**:: Will negates
+**Spell Resistance**:: yes
+
+## Description
 
 You place a terrible curse on the target, stealing either its overall competency or its ability to think and act on its feet. Choose one of the following.
 

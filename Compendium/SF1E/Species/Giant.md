@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 ---
-**Source** _Ports of Call pg. 20_  
+**Source**:: _Ports of Call pg. 20_  
 
 [[Species_Giant.webp|Zeigen!]]
 Ancient beyond measure, giants have evolved into numerous subspecies that thrive in harsh environments. However, they’re best known for their prodigious strength, stature, and pride.  

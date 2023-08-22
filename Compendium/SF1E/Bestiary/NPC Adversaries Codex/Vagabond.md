@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# VAGABOND
+
+# Vagabond
+
 **XP 400**  
 Human commoner 2/warrior 1  
 N Medium humanoid  

@@ -5,8 +5,10 @@ Prerequisites: Cha 15, character level 5th, no levels in witchwarper.
 tags: 
 Type: General Feat
 ---
-# REALITY GLIMMER
-**Source** _Character Operations Manual pg. 117_  
+
+# Reality Glimmer
+
+**Source**:: _Character Operations Manual pg. 117_  
 You gain a thread of control over alternate realities.
 
 **Prerequisites**: Cha 15, character level 5th, no levels in witchwarper.

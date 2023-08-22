@@ -9,7 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# CORAL SINGER
+
+# Coral Singer
 
 **XP 800**  
 Locathah envoy  

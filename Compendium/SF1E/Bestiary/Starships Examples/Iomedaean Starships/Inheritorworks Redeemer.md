@@ -5,7 +5,9 @@ tags:
 Tier: 18
 Type: Colossal dreadnought 
 ---
-# INHERITORWORKS REDEEMER
+
+# Inheritorworks Redeemer
+
 > [!infobox|locr n-th clean]
 >  [[Starship_InheritorworksRedeemer.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Colossal dreadnought, **Tier** 18
 **Attack (Turret)** laser net (2d6; 5 hexes); _linked magic torpedo units_ (4d4+4; 20 hexes)  
 **Power Core** Gateway Ultras (2; 1,000 PCU); **Drift Engine** Signal Basic; **Systems** basic long-range sensors, crew quarters (common), mk 6 armor, mk 10 defenses, mk 3 trinode computer, security (anti-hacking systems); **Expansion Bays** cargo holds (6), escape pods (3), power core housing, recreation suite (gym), shuttle bay; **Modifiers** +3 to any three checks per round, +2 Computers (sensors only); **Complement** 242 (minimum 125, maximum 500)
 
-### CREW
+### Crew
 
 **Captain** Bluff +31 (18 ranks), Diplomacy +31 (18 ranks), gunnery +26 (18th level), Intimidate +36 (18 ranks), Piloting +31 (18 ranks)  
 **Engineers (3 officers, 30 crew each)** Engineering +31 (18 ranks)  
@@ -28,7 +30,7 @@ Colossal dreadnought, **Tier** 18
 **Pilot (1 officer, 10 crew)** Piloting +31 (18 ranks)  
 **Science Officers (2 officers, 15 crew each)** Computers +31 (18 ranks)
 
-## DESCRIPTION
+## Description
 
 If the Cathedralship (Pact Worlds 159) is the heart of the Iomedaean navy, the Redeemer is unquestionably its fist. Slow but indefatigable, these titanic vessels patrol the galaxy with authority. To date, only three of these powerful dreadnoughts have been completed. This is partly due to the vessels’ more specialized role—each operates independently from Iomedae’s 11 fleets—but primarily due to the immense cost. In battle, a Redeemer commonly serves as long-range artillery, blasting away from the back lines and relying on auxiliary starships to prevent foes from engaging its relatively under-protected aft quarter.  
   

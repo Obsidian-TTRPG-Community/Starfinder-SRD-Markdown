@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# IZALGUUN
+
+# Izalguun
+
 > [!infobox|left n-th clean]
 >  [[Izalguun.png|Spielern zeigen!]]
 > Izalguuns are horse-sized, six-limbed creatures with a gray-green coloration and occasional mottling around their joints. Their lower arms are bulkier and elongated, allowing izalguuns to use them as a second set of legs. When traveling or enjoying the outdoors, izalguuns walk using their lower arms, making them resemble centaur‑like quadrupeds, though they can just as easily stand on only their lowermost two legs. They have vertically oriented mouths with a bony chin protrusion that helps collect food and liquid runoff. They inhabit a cold world in the Vast called Izalraan, though the people of the Pact Worlds know it as Icefront.  
@@ -20,23 +22,23 @@ The average izalguun is 7 feet tall and weighs around 900 pounds.
 **Ability Modifiers** +2 Str, +2 Int, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Izalguuns are Large monstrous humanoids with a space of 10 feet. Their reach depends on their posture (see below).  
 
-## DARKVISION
+## Darkvision
 
 Izalguuns have darkvision with a range of 60 feet.  
 
-## POSTURE
+## Posture
 
 Izalguuns can walk on two limbs or four. As a move action, an izalguun can switch between a bipedal and a quadrupedal posture. When in its quadrupedal posture, an izalguun has a land speed of 40 feet and a reach of 5 feet. While in its bipedal posture, an izalguun has a land speed of 20 feet, a reach of 10 feet, and the [multiarmed](https://aonsrd.com/UniversalMonsterRules.aspx?ItemName=Multiarmed) (4) universal creature rule.  
 
-## TECH SAVVY
+## Tech Savvy
 
 Izalguuns gain a +2 racial bonus to Computers and Engineering checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6 to 8 ft.   
 **Average Weight** 800 to 1,000 lbs.   

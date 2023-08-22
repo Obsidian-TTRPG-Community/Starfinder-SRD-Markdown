@@ -6,8 +6,10 @@ NoteType: Spell
 tags: 
 Type: Ritual 
 ---
-# FTL COMMUNICATION - LEVEL 4
-**Source** _Galactic Magic pg. 91_  
+
+# Ftl Communication - Level 4
+
+**Source**:: _Galactic Magic pg. 91_  
 **Script** Open the Way (Computers; dazed for 1 minute, failure), Shape Power (Mysticism; electricity damage, retry), Speak the Name (Will; dazed for 1 minute), Release Power (Computers; failure)  
 **Assistants** none  
 **Round Length** 1 minute

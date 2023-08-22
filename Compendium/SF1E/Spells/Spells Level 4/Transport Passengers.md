@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# TRANSPORT PASSENGERS
 
-**Source** _Character Operations Manual pg. 142_  
-**Classes** Technomancer 4  
-**School** transmutation  
-**Casting Time** 1 minute  
-**Range** touch  
-**Targets** one vehicle or Tiny starship; see text  
-**Duration** 1 hour/level  
-**Saving Throw** none (object); **Spell Resistance** no (object)
+# Transport Passengers
 
-## DESCRIPTION
+**Source**:: _Character Operations Manual pg. 142_  
+**Classes**:: Technomancer 4  
+**School**:: transmutation  
+**Casting-Time**:: 1 minute  
+**Range**:: touch  
+**Targets**:: one vehicle or Tiny starship; see text  
+**Duration**:: 1 hour/level  
+**Saving-Throw**:: none (object);
+**Spell Resistance**:: No (object)
+
+## Description
 
 You create an extradimensional space in the passenger area of a vehicle or Tiny starship, allowing it to carry one additional Medium creature per caster level. This spell must be cast on a vehicle able to carry more than one passenger, or the spell fails. The extradimensional space appears in the vehicle’s seating area or the starship’s bridge or passenger section, and it looks like a thin, glowing gap in reality. Creatures that step through this gap are shunted into the extradimensional space, which appears to be and functions as another compartment in the vehicle. A creature can exit the extradimensional space as part of a move action to move through the gap in reality, though a creature cannot exit the extradimensional space unless room to accommodate it exists in the normal seating area.  
 Creatures that are encumbered or overburdened cannot enter the extradimensional space. If a creature is larger than Medium, each size category counts as one additional creature for determining the capacity of the extradimensional space.  

@@ -2,20 +2,21 @@
 aliases: 
 tags: 
 ---
-# CRAFTING
+
+# Crafting
+
 **Source** Starfinder Core Rulebook pg. 235
 
+# Crafting
 
-
-# CRAFTING 
 | Skill                                                                               | Item                                                                         |
 | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [[Engineering (Int, Trained only)]]                                                 | [[Armor]] , [[Vehicles]]  , [[Technological Items]] |
-| [[Mysticism (Wis, Trained Only)]]                                                   | [[Weapon Fusions]], [[Atlas Magic Items]]                                          |
-| [[Engineering (Int, Trained only)]] & [[Mysticism (Wis, Trained Only)]]             | [[Atlas Hybrid Items]]                                                             |
-| [[Life Science (Int, Trained only)]]  oder [[Physical Science (Int, Trained only)]] | Drugs, Poisons, Medicinals                                                   |
-| [[Life Science (Int, Trained only)]]                                                | Food, Drinks, etc.                                                           |
-| [[Computers (Int, Trainded only)]] oder [[Engineering (Int, Trained only)]]         | Computers                                                                    | 
+| [[Engineering Int, Trained only]]                                                 | [[Armor]] , [[Vehicles]]  , [[Technological Items]] |
+| [[Mysticism Wis, Trained Only]]                                                   | [[Weapon Fusions]], [[Atlas Magic Items]]                                          |
+| [[Engineering Int, Trained only]] & [[Mysticism Wis, Trained Only]]             | [[Atlas Hybrid Items]]                                                             |
+| [[Life Science Int, Trained only]]  oder [[Physical Science Int, Trained only]] | Drugs, Poisons, Medicinals                                                   |
+| [[Life Science Int, Trained only]]                                                | Food, Drinks, etc.                                                           |
+| [[Computers Int Trainded only]] oder [[Engineering Int, Trained only]]         | Computers                                                                    | 
 
 
 

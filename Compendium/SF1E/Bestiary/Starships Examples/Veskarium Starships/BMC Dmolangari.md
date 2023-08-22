@@ -5,7 +5,9 @@ tags:
 Tier: 11
 Type: Huge bulk freighter
 ---
-# BMC DMOLANGARI
+
+# Bmc Dmolangari
+
 > [!infobox|locr n-th clean]
 >  [[Starship_BMCOmolangari.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Huge bulk freighter, **Tier**  11
 **Attack (Turret)** light plasma torpedo launcher (3d8; 20 hexes), light torpedo launcher (2d8; 20 hexes)  
 **Power Core** Nova Heavy (2; 400 PCU); **Drift Engine** Signal Basic; **Systems** budget short-range sensors, crew quarters (common), mk 6 armor, mk 8 defenses, mk 2 duonode computer; **Expansion Bays** cargo holds (6), shuttle bay, tech workshops (2); **Modifiers** +2 any two checks per round, –1 Piloting; **Complement** 50 (minimum 20, maximum 50)
 
-### CREW
+### Crew
 
 **Captain** Diplomacy +20 (11 ranks), gunnery +16 (11th level), Intimidate +25 (11 ranks), Piloting +19 (11 ranks)  
 **Chief Mates (3)** Athletics +25 (11 ranks)  
@@ -28,7 +30,7 @@ Huge bulk freighter, **Tier**  11
 **Pilot (1 officer, 4 crew)** Piloting +19 (11 ranks)  
 **Science Officers (2)** Computers +20 (11 ranks)
 
-## DESCRIPTION
+## Description
 
 Named for one of the mightiest mountain ranges on Vesk Prime, the Blood Mountain Clans’ Dmolangari-class combat supply ship is a near-ubiquitous vessel in both the Veskarium’s military and commercial navies. Since the end of the Silent War in 291 ag, the Dmolangari has regularly appeared hauling freight throughout the Pact Worlds as well as the Veskarium—a stark contrast to the feared Veskarium warships encountered in generations past.  
   

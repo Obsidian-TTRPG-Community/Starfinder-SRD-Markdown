@@ -2,9 +2,11 @@
 aliases: 
 tags: 
 ---
-# STARSHIP TRAVEL
 
-# DRIFT 
+# Starship Travel
+
+# Drift
+
 | Travel                   | Time           | Explanation                                                                                                                                                                                                                                                                                             |
 | ------------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Travel In-System         | (1d6 Days / 2) | Jumping between two points in the same solar system is moderately faster than moving between them in real space, and is so short as to carry only a 1% chance of [[Random Encounters]] in the Drift.                                                                                                        |
@@ -13,7 +15,8 @@ tags:
 | Travel to the Vast       | 5d6 Days / 2   | Largely unexplored, the millions of Vast worlds are significantly more difficult to get to than Near Space, and the risk of a random encounter in the Drift can be anywhere from 25% to as high as 50%                                                                                                  |
 | Travel beyong the Rim    | -              | While other galaxies are known to exist, the distances between them and the galaxy of the Pact Worlds are so incredibly large that there have yet to be any confirmed instances of intergalactic travel using Drift technology. Whether this is due to the extreme travel times involved, limits to the reach of the Drift itself, or dangers encountered in the Drift during such attempts remains unknown.                                                                                                                                                                                                                                                                                                        |
 
-# TRAVEL TIMES 
+# Travel times
+
 | Type                            | Time                     | Explanation                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | ------------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Start Thrusters                 | 1 min. per size Category | Though this is rarely an issue, a starship’s thrusters need a short amount of time to warm up before they are ready to be used. Most hangars and space docks require that a starship’s thrusters be deactivated after it lands or docks. However, a starship in orbit always has its thrusters active. A starship also needs to deactivate its thrusters, which takes no time, to use its Drift engine.                     |

@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: "`ris:Checkbox`"
 ---
-# WALL OF STEEL
 
-**Source** _Starfinder Core Rulebook pg. 385_  
-**Classes** Technomancer 6, Witchwarper 6  
-**School** conjuration (creation)  
-**Casting Time** 1 standard action  
-**Range** medium (100 ft. + 10 ft./level)  
+# Wall of Steel
+
+**Source**:: _Starfinder Core Rulebook pg. 385_  
+**Classes**:: Technomancer 6, Witchwarper 6  
+**School**:: conjuration (creation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: medium (100 ft. + 10 ft./level)  
 **Effect** steel wall with area up to one 5-ft. square/level; see text  
-**Duration** instantaneous  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: instantaneous  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You cause a flat, vertical steel wall to spring into existence. The stress of casting this spell requires you to spend 1 Resolve Point. The wall can fit into any space of surrounding nonliving material if its area is sufficient to do so. The wall can’t be conjured so that it occupies the same space as a creature or another object. It must always be a flat plane, though you can shape its edges to fit the available space.
 

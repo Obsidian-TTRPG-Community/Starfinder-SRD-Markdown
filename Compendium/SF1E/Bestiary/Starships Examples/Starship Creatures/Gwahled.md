@@ -5,8 +5,10 @@ tags:
 Tier: 15
 Type: NE Gargantuan starship fey
 ---
-# GWAHLED
-**Source** _Alien Archive 3 pg. 46_
+
+# Gwahled
+
+**Source**:: _Alien Archive 3 pg. 46_
 
 NE Gargantuan starship fey, **Tier** 15 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** —  
@@ -19,18 +21,18 @@ NE Gargantuan starship fey, **Tier** 15
 **Power Core** gwahled heart (500 PCU); **Drift Engine** none; **Systems** mk 8 armor, mk 9 defenses; **Expansion Bays** none  
 **Other Abilities** fear-eater aura, living starship, paranormal astrogation, void adaptation
 
-### CREW
+### Crew
 
 **Engineer (1 action)** Engineering +31 (15 ranks)  
 **Gunners (2 actions)** gunnery +22 (15th level)  
 **Pilot (1 action)** Piloting +26 (15 ranks)
 
-### ECOLOGY
+### Ecology
 
 **Environment** any vacuum  
 **Organization** solitary
 
-### SPECIAL ABILITIES
+### Special Abilities
 
 **Bite (Ex)** A gwahled can use its bite only against a ship in an adjacent hex. If the gwahled deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 32 Piloting check to break free of the gwahled’s maw. While holding a starship in its maw, the gwahled can’t move or turn, but it can make attacks with its photon flare and graviton net, or attempt to bite or swallow the same starship. The gwahled and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
 
@@ -53,7 +55,7 @@ NE Gargantuan starship fey, **Tier** 15
 
 **Swallow Starship (Ex)** If the gwahled is holding a starship smaller than it in place, it can swallow that vessel by making a successful bite attack against it. A gwahled’s gullet can hold one Huge ship, two Large ships, four Medium ships, eight Small ships, or sixteen Tiny ships. A gwahled can take an action during the gunnery phase to attempt to incinerate starships inside it, dealing 5d12 damage (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise) and applying the EMP special property. A swallowed vessel can still attack. The gwahled’s interior has AC 25, TL 25, and DT 5. However, starship weapons deal half damage to the firing ship through a combination of blowback and the gwahled’s physical reactions. If a swallowed starship deals 100 damage to the gwahled’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a DC 32 Piloting check, or DC 37 if the gwahled has no hole in it. On a failure, the starship remains within the gwahled.
 
-## DESCRIPTION
+## Description
 
 Gamboling through space with inscrutable whims, gwahleds are among the largest fey in existence— and also among the rarest. A gwahled looks like an astronomical object, but it has three eyes and a massive maw capable of swallowing starships. Devouring a vessel garners the gwahled no sustenance, although it can feed on the fear of the doomed crew.
 

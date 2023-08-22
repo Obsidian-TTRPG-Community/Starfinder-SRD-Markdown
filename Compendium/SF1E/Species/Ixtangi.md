@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# IXTANGI
+
+# Ixtangi
 
 > [!infobox|left n-th clean]
 >  [[Ixtangi.png|Spielern zeigen!]]
@@ -23,38 +24,38 @@ The only ixtangis left on Doganga’s surface are those known as duskdwellers. T
 **Ability Modifiers** +2 Con, +2 Cha, -2 Wis  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Ixtangis are Medium monstrous humanoids.   
 
-## BARB POISON
+## Barb Poison
 
 If an ixtangi scores a critical hit with their racial natural weapon, their target must succeed at a Fortitude save (DC = 10 + the ixtangi’s Constitution modifier + half the ixtangi’s level ) or gain the flat-footed condition until the end of its next turn. This is a poison effect.   
 
-## CLIMBER
+## Climber
 
 Ixtangis have a climb speed of 20 feet.   
 
-## IXTANGI SENSES
+## Ixtangi Senses
 
 Ixtangis have darkvision with a range of 60 feet and low-light vision.   
 
-## LIQUID CRYSTAL DISPLAY
+## Liquid Crystal Display
 
 An ixtangi has an innate ability to change their coloration as a standard action; this produces one of the following effects.  
 _Glimmer:_ The ixtangi flashes their coloration in a display that distracts onlookers. Enemies within 30 feet that can see the ixtangi must succeed at a DC Will save (DC = 10 + the ixtangi’s Charisma modifier + half the ixtangi’s level ) or be fascinated for 1d4 rounds. A creature can be affected by this ability only once per day. This is a mind-affecting effect.  
 _Stealth:_ The ixtangi mimics their surroundings, becoming almost invisible. They gain a +2 racial bonus to Stealth checks to hide until the beginning of their next turn.  
 
-## NATURAL WEAPONS (P)
+## Natural Weapons (P)
 
 Natural weapons (and natural attacks) such as acid spit, bite, claw, or slam don’t require ammunition and can’t be disarmed or sundered.  
 In addition, a player character with this ability can attack with a special unarmed strike that deals lethal damage, doesn’t count as archaic, and threatens squares. They also gain a special version of the Weapon Specialization feat with this unarmed strike at 3rd level, allowing them to add 1–1/2 × their character level to their damage rolls for this unarmed strike (instead of just adding their character level as usual).  
 
-## UNFLAPPABLE CLIMBER
+## Unflappable Climber
 
 An ixtangi is an adept climber, using their sticky paw pads, tongue, and prehensile tail to stay stuck to surfaces. An ixtangi is not flat-footed while climbing and can take 10 on Athletics checks to climb even when in combat or immediate danger.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 6 to 8 ft.  
 **Average Weight** 250 to 350 lbs.  

@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HAAN
+
+# Haan
 
 > [!infobox|left n-th clean]
 >  [[Haan.png|Spielern zeigen!]]
@@ -15,23 +16,23 @@ The average haan is 8 feet long and weighs 180 pounds. Their chitin tends toward
 **Ability Modifiers** +2 Str, +2 Dex, -2 Int  
 **Hit Points** 4
 
-## SIZE AND TYPE
+## Size and Type
 
 Haans are Large monstrous humanoids with a space and reach of 10 feet.  
 
-## DARKVISION
+## Darkvision
 
 Haans have darkvision with a range of 60 feet.  
 
-## FIRESPRAY
+## Firespray
 
 As a standard action, a haan can create a 30-foot cone of flame that deals 1d6 fire. Starting at 3rd level, a haan adds 1-1/2 × her character level to the damage. A creature in the cone can attempt a Reflex save (DC = 10 + half the haan’s character level + her Constitution modifier) for half damage. A haan can’t use this ability again until she has taken a 10-minute rest to recover Stamina Points.  
 
-## SLOW FALL
+## Slow Fall
 
 A haan in an environment with atmosphere can slow her fall by inflating a web balloon as a reaction. This is an extraordinary ability that functions as per _flight_ cast at 1st level.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 8–10 ft.  
 **Average Weight** 120–250 lbs.  

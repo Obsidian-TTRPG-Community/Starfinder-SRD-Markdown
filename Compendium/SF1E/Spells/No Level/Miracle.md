@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: 
 ---
-# MIRACLE
 
-**Source** _Starfinder Core Rulebook pg. 366_  
-**Classes** Mystic —  
-**School** evocation  
-**Casting Time** 1 standard action  
-**Range** see text  
+# Miracle
+
+**Source**:: _Starfinder Core Rulebook pg. 366_  
+**Classes**:: Mystic —  
+**School**:: evocation  
+**Casting-Time**:: 1 standard action  
+**Range**:: See Text  
 **Area, Effect, or Targets** see text  
-**Duration** see text  
-**Saving Throw** see text; **Spell Resistance** yes
+**Duration**:: See Text  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: yes
 
-## DESCRIPTION
+## Description
 
 When you cast _miracle_, you state what you would like to have happen and request that the power to which you are connected intercede. A request that is out of line with the power’s nature is refused. A miracle can do any of the following things.
 

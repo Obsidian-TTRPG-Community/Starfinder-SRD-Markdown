@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-## BLINDSENSE
+
+## Blindsense
 
 Blindsense is the ability to use an imprecise nonvisual sense (or a combination of senses; see page 260) to operate effectively without vision. Blindsense operates out to a range specified in the creature’s description.
 

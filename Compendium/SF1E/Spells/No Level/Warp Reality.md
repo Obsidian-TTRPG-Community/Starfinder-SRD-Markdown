@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# WARP REALITY
 
-**Source** _Character Operations Manual pg. 143_  
-**Classes** Witchwarper —  
-**School** universal  
-**Casting Time** 1 standard action  
-**Range** see text  
+# Warp Reality
+
+**Source**:: _Character Operations Manual pg. 143_  
+**Classes**:: Witchwarper —  
+**School**:: universal  
+**Casting-Time**:: 1 standard action  
+**Range**:: See Text  
 **Effect, Area, or Targets** see text  
-**Duration** see text  
-**Saving Throw** see text; **Spell Resistance** see text
+**Duration**:: See Text  
+**Saving-Throw**:: see text;
+**Spell Resistance**:: see text
 
-## DESCRIPTION
+## Description
 
 Beckoning to all realities at once, you pull in new possibilities and alter your world to suit you. A _warp reality_ spell can produce one of the following effects.
 

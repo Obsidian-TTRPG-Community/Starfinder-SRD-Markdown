@@ -9,18 +9,20 @@ tags:
 Technomancer: 1-6 
 Witchwarper: 
 ---
-# JUNKSWORD
 
-**Source** _Pact Worlds pg. 205_  
-**Classes** Technomancer 1-6  
-**School** conjuration (creation)  
-**Casting Time** 1 standard action  
-**Range** touch  
+# Junksword
+
+**Source**:: _Pact Worlds pg. 205_  
+**Classes**:: Technomancer 1-6  
+**School**:: conjuration (creation)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
 **Target** 1 bulk of inert electronic equipment  
-**Duration** 10 minutes/level (D)  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: 10 minutes/level (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You turn a pile of technological junk into a one-handed melee weapon that you can wield against your foes. You must target inert, nonworking electronic equipment of at least 1 bulk. Valid targets include a large broken computer system, nonworking or unconnected computer or robot parts, a destroyed robot or another such trashed mechanical system, or any related electronic components or combination of the above, as long as the junk is found in sufficient quantity.
 

@@ -5,7 +5,9 @@ tags:
 Tier: 4
 Type: Large heavy freighter 
 ---
-# IDARAN VANSERAI
+
+# Idaran Vanserai
+
 > [!infobox|locr n-th clean]
 >  [[Starship_IdaranVanserai.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Large heavy freighter, **Tier** 4
 **Attack (Starboard)** heavy laser cannon (4d8)  
 **Power Core** Arcus Ultra (150 PCU); **Drift Engine** Signal Basic; **Systems** basic computer, budget short-range sensors, crew quarters (common), mk 4 armor, mk 3 defenses; **Expansion Bays** cargo holds (8); **Modifiers** +1 Piloting; **Complement** 10
 
-### CREW
+### Crew
 
 **Captain** Bluff +15 (4 ranks), Computers +10 (4 ranks), Diplomacy +15 (4 ranks), Engineering +10 (4 ranks), gunnery +9, Piloting +11 (4 ranks)  
 **Engineers (3)** Engineering +10 (4 ranks)  
@@ -28,6 +30,6 @@ Large heavy freighter, **Tier** 4
 **Pilot** Piloting +16 (4 ranks)  
 **Science Officers (2)** Computers +10 (4 ranks)
 
-## DESCRIPTION
+## Description
 
 Big-bellied Vanserais resemble starfighters gone to fat. With prominent wing guns and a bridge canopy made to look like a much smaller cockpit, a Vanserai’s appearance is designed to make it clear that while it may be a freighter, it’s no easy target.

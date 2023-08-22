@@ -5,8 +5,10 @@ Prerequisites: Character level 7th
 tags: 
 Type: General Feat
 ---
-# TRADING PLACES
-**Source** _Interstellar Species pg. 147_  
+
+# Trading Places
+
+**Source**:: _Interstellar Species pg. 147_  
 You have trained with the Vault of Vorlath or another tight-knit mercenary group and have learned their advanced positioning and teamwork skills. The Vorlath mercenaries are known for their ability to weave in and out of combat, tossing allies and clients to safety
 
 **Prerequisites**: Character level 7th

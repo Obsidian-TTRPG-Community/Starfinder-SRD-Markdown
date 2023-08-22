@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# ERAHTHI PSYCHIC
+
+# Erahthi Psychic
+
 **XP 2,400**  
 LN Medium outsider (native)  
 **Init** +1; **Senses** darkvision 60 ft; Perception +10

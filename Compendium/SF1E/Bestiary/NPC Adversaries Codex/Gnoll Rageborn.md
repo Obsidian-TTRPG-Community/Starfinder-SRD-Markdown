@@ -9,8 +9,8 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GNOLL RAGEBORN
 
+# Gnoll Rageborn
 
 **XP 800**  
 CE Medium humanoid (gnoll)  

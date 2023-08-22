@@ -5,8 +5,10 @@ Prerequisites: Acrobatics 1 rank, Kip-Up feat or moxie racial trait.
 tags: 
 Type: General Feat
 ---
-# IMPROVED KIP-UP
-**Source** _Character Operations Manual pg. 28_  
+
+# Improved Kip-up
+
+**Source**:: _Character Operations Manual pg. 28_  
 You can stand from prone in a blink of an eye.
 
 **Prerequisites**: Acrobatics 1 rank, Kip-Up feat or moxie racial trait.

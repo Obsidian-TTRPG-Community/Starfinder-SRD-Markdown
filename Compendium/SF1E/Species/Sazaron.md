@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# SAZARON
+
+# Sazaron
+
 > [!infobox|left n-th clean]
 >  [[Sazaron.png|Spielern zeigen!]]
 > One of the co-governing species of Arkanen, a moon of Liavara, sazarons feel it is their duty to oversee and execute the many day-to-day tasks that maintain their home and balance out their mischievous [dirindi](https://aonsrd.com/Races.aspx?ItemName=Dirindi) cohabitants. Sazarons are large creatures with a lower body similar to an iguanodon, with two thick hind legs and two leaner front legs. Generally measuring 15 feet long and weighing 900 pounds, sazarons have long tails tipped with a large knob of bone that they can wield offensively. Starting at the saurian shoulders, the sazaron’s body transitions into the torso of a large humanoid. Their incredibly thick skin gives them electricity resistance, which is helpful in the weeks that their moon plunges into the electrically charged atmosphere of Liavara—and also insulates them from dirindis’ electric greetings.  
@@ -16,37 +18,37 @@ The other most popular topic of study focuses on the mind-searing [hallajins](h
 **Ability Modifiers** +2 Int, +2 Wis, -2 Dex  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Sazarons are Large monstrous humanoids.  
 
-## DARKVISION
+## Darkvision
 
 Sazarons have darkvision with a range of 60 feet.  
 
-## IMPEL TRUTH
+## Impel Truth
 
 Sazarons gain the following spell-like ability. The caster level for this effect is equal to the sazaron’s level.   
   
 1/day—[_zone of truth_](https://aonsrd.com/SpellDisplay.aspx?ItemName=zone%20of%20truth)  
 
-## INSULATED SKIN
+## Insulated Skin
 
 Sazarons have resistance 5 to electricity that stacks with one other source of electricity resistance.  
 
-## LIMITED TELEPATHY
+## Limited Telepathy
 
 Sazarons have limited telepathy with a range of 30 feet.  
 
-## NATURAL WEAPONS (B)
+## Natural Weapons (B)
 
 Sazarons are always considered armed. They can deal 1d3 lethal bludgeoning damage with unarmed strikes and the attack doesn’t count as archaic. Sazrons gain a unique weapon specialization with their natural weapons at 3rd level, allowing them to add 1-1/2 × their character level to their damage rolls with their natural weapons (instead of just adding their character level, as usual).  
 
-## SCHOLARLY
+## Scholarly
 
 Sazarons gain a +2 racial bonus to Culture, Life Science, and Physical Science checks.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 12 to 18 ft.   
 **Average Weight** 700 to 1,100 lbs.   

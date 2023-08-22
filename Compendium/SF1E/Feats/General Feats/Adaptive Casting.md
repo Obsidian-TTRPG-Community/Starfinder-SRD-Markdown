@@ -5,8 +5,10 @@ Prerequisites: Key ability score 19, caster level 7.
 tags: 
 Type: General Feat
 ---
-# ADAPTIVE CASTING
-**Source** _Character Operations Manual pg. 112_  
+
+# Adaptive Casting
+
+**Source**:: _Character Operations Manual pg. 112_  
 You have a few extra eldritch tricks up your sleeve.
 
 **Prerequisites**: Key ability score 19, caster level 7.

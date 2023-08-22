@@ -5,8 +5,10 @@ Prerequisites: Ability to cast 4th-level spells.
 tags: 
 Type: General Feat
 ---
-# PENETRATING SPELL
-**Source** _Starfinder Core Rulebook pg. 160_  
+
+# Penetrating Spell
+
+**Source**:: _Starfinder Core Rulebook pg. 160_  
 You know how to cast spells so that they penetrate your opponent’s defenses.
 
 **Prerequisites**: Ability to cast 4th-level spells.

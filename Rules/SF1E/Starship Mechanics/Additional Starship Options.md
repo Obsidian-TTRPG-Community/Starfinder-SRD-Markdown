@@ -2,11 +2,13 @@
 aliases: 
 tags: 
 ---
-# ADDITIONAL STARSHIP OPTIONS
+
+# Additional Starship Options
+
 **Source** _Starship Operations Manual pg. 48_
 Starship encounters can take many forms, and telling stories with starships can lead to exciting situations that transform or even transcend combat. The following section presents optional systems, equipment, and advice for enhancing your starship adventures. Track your crew’s locations in case of unexpected danger like a mutiny or ambush, descend upon planets in daring dives, or even amplify the dangers of starship combat by expanding on the perils inflicted by critical damage.  
 
-## CREW LOCATIONS
+## Crew Locations
 
 **Source** _Starship Operations Manual pg. 48_
 While the exact location of each of a starship’s crew members typically has little bearing on starship combat, you still might want to know where on your ship various characters are in case of an on-board threat like a mutiny or when using other subsystems presented in this book, such as boarding (page 40) or hull ruptures (page 50).  
@@ -20,28 +22,30 @@ Common locations during starship combat are described below, organized by office
 **Pilot:** Pilots usually work from the ship’s bridge. Although it’s technically possible to pilot from any station on the ship, pilots feel most comfortable with the full set of controls and expansive view screens offered by the bridge. When off-duty, they may use simulators in a holographic amusement chamber.  
 **Science Officer:** Although science officers primarily serve on the bridge, where they can offer a stream of data and assistance to other crew members, many science officers are also backup engineers, flexing between the roles as needed. As such, they can also be found anywhere an engineer can. Out of combat, they may also be found working with dedicated systems such as science labs, mobile information networks, surveying sensors, or high-capacity comm arrays.  
 
-## ORBITAL DROPS
+## Orbital Drops
 
 **Source** _Starship Operations Manual pg. 48_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 An orbital drop is a method of sending troops or equipment to a planet’s surface from low orbit without piloting them in a shuttle or flight vehicle. There are a number of advantages to this method: speed, relative stealth, and mitigation of the risk of enemy fire taking out significant personnel or equipment with a single lucky shot.  
 You can use a drop pod (page 25) to land a whole squad with equipment or vehicles and provide a structure at the landing site. You can also use smaller drop pods that are just for equipment or a single occupant. Single-occupant pods are much less expensive and don’t require dedicated expansion bays. Specially trained forces can also drop without a pod, relying on fire- and crash-resistant gear to survive their journey to the surface.  
 
-## SINGLE-OCCUPANT DROP PODS
+## Single-occupant Drop Pods
 
 **Source** _Starship Operations Manual pg. 49_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 Although drop pods (page 25) allow a squad to arrive on the surface together, single-occupant drop pods have their own advantages. The first is cost. Since they aren’t designed to survive impact, they are fairly inexpensive. They also deal less damage to the surface when they fall, and so are most appropriate for use in areas where military forces wish to secure valuable facilities without risking their destruction. Because they are also smaller, dropping many troops at once in single-occupant drop pods helps ensure that at least some of the invading force will evade surface-based weapon fire, since they’re smaller, more dispersed targets. The most common single-occupant drop pods are armor upgrades.  
 
-## PERSONAL DROP PODS
+## Personal Drop Pods
 
 **Source** _Starship Operations Manual pg. 49_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 These are single-use armor upgrades that provide protection for one orbital drop. When activated, the pod forms a transparent cocoon that provides full protection from the fire damage caused by atmospheric reentry and from the bludgeoning damage of the final impact. The pods also come with thrusters that allow their users to make small maneuvers toward a chosen landing site. This allows those dropping to avoid trees or other ground-based hazards. After the drop, the burnt-out pod automatically detaches, leaving the armor upgrade slot free once more. Stealth drop pods allow users to use their Stealth skill to oppose the Perception checks of ground-based observers and sensors. Invisibility drop pods use advanced light-refraction and heat-dissipation technology to provide full invisibility during the drop.  
 
-## ORBITAL DROPS WITHOUT A POD
+## Orbital Drops without a Pod
 
 **Source** _Starship Operations Manual pg. 49_](https://paizo.com/products/btq0225g?Starfinder-RPG-Starship-Operations-Manual)  
 The dangers of an orbital drop include fire damage caused by atmospheric reentry and 20d6 bludgeoning damage from the impact at the end of the drop. This bludgeoning damage is halved in low gravity, doubled in high gravity, and tripled in extreme gravity.  
   
-## ATMOSPHERIC REENTRY DAMAGE
+
+## Atmospheric Reentry Damage
+
 | Environmental Conditions | Fire Damage pre Round |
 |--------------------------|-----------------------|
 | Thick atmosphere         | 3d6                   |
@@ -52,8 +56,8 @@ The dangers of an orbital drop include fire damage caused by atmospheric reentry
 | Average momentum         | +1d6                  |
 | Slow momentum            | –1d6                  |
 
+## Personnel Armor Upgrades
 
-## PERSONNEL ARMOR UPGRADES
 | Upgrade               | Level |
 |-----------------------|-------|
 | Basic drop pod        | 2     |

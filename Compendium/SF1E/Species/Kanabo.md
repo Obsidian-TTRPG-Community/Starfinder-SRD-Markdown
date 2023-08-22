@@ -2,7 +2,9 @@
 aliases: 
 tags: 
 ---
-# KANOBO
+
+# Kanobo
+
 > [!infobox|left n-th clean]
 >  [[Kanabo.png|Spielern zeigen!]]
 > Oni are a race of malevolent spirits given physical form. Most oni begin their existence as kami, spirits tasked with the protection of a specific part of the natural world, but for some reason reject their duties and turn to evil. Less often, the souls of particularly vile mortals can become oni upon death. When oni first form, they are intangible, powerless spirits. In places with strong connections to evil, or as a result of unspeakable rituals, these formless spirits can gain physical bodies drawn from a humanoid species, often one predisposed to war— though their spiritual origins also give them the power to shapeshift. There are known to be oni that resemble drow, humans, giants, shirrens, and vesk, but among the most common oni are the ja noi, who have ties to the violent and militarist race of [hobgoblins](https://aonsrd.com/Races.aspx?ItemName=Hobgoblin).  
@@ -14,24 +16,24 @@ Some hobgoblin groups interact so closely with ja noi that children are sometime
 **Ability Modifiers** +2 Str, +2 Con, -2 Int  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Kanabo are Medium outsiders with the goblinoid and native subtypes.  
 
-## ARMOR SAVANT
+## Armor Savant
 
 Kanabo have an innate mastery of the use of armor. When wearing armor, they gain a +1 racial bonus to AC. When wearing heavy armor, their armor check penalty is 1 less severe than normal.  
 
-## DARKVISION
+## Darkvision
 
 Kanabo have darkvision with a range of 60 feet.  
 
-## KANABO MAGIC
+## Kanabo Magic
 
 Kanabo gain the following spell-like abilities. The caster level for these effects is equal to the kanabo’s level.  
 1/day—[_disguise self_](https://aonsrd.com/SpellDisplay.aspx?ItemName=disguise%20self), [_supercharge weapon_](https://aonsrd.com/SpellDisplay.aspx?ItemName=supercharge%20weapon)
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 5–7 ft.  
 **Average Weight** 200–300 lbs.  

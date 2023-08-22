@@ -5,7 +5,9 @@ tags:
 Tier: 8
 Type: Small light freighter
 ---
-# SOV-EL KORINATH
+
+# Sov-el Korinath
+
 > [!infobox|locr n-th clean]
 >  [[Starship_Sov-ElKorinath.jpg|Spielern zeigen!]]
 > 
@@ -20,7 +22,7 @@ Small light freighter, **Tier** 8
 **Attack (Turret)** light particle beam (3d6; 10 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** advanced medium-range sensors, crew quarters (good), mk 6 armor, mk 7 defenses, mk 2 duonode computer, security (2 anti-hacking systems); **Expansion Bays** arcane laboratory, cargo hold, hydroponic garden; **Modifiers** +2 to any two checks per round, +4 Computers (sensors only), +1 Piloting; **Complement** 6 (minimum 1, maximum 6)
 
-### CREW
+### Crew
 
 **Captain** Bluff +16 (8 ranks), Diplomacy +16 (8 ranks), Intimidate +21 (8 ranks), Piloting +17 (8 ranks)  
 **Engineer** Engineering +16 (8 ranks)  
@@ -28,7 +30,7 @@ Small light freighter, **Tier** 8
 **Pilot** Piloting +17 (8 ranks)  
 **Science Officer** Computers +16 (8 ranks)
 
-## DESCRIPTION
+## Description
 
 During the Gap, elves suffered a great betrayal whose details they cannot recall yet whose pain they cannot forget. Yet even as this betrayal drove them to sequester themselves on Castrovel, the call of space travel still beckoned. Sov-El is the best known of the few homegrown elven shipyards, building starships that can defend their elven crews and passengers from further harm while providing them with independence and access to galactic markets and knowledge.  
   

@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# BLOODFIRE MYSTIC
+
+# Bloodfire Mystic
+
 **XP 2,400**  
 Half-orc mystic  
 NE Medium humanoid (human, orc)  
@@ -46,7 +48,7 @@ STATISTICS
 
 SPECIAL ABILITIES
 
-#### ORC FEROCITY (EX)
+#### Orc Ferocity (EX)
 
 Once per day, a half-orc brought to 0 Hit Points but not killed can fight on for 1 more round. The half-orc drops to 0 HP and is dying (following the normal rules for death and dying) but can continue to act normally until the end of her next turn, when she becomes unconscious as normal. If she takes additional damage before this, she ceases to be able to act and falls unconscious.
 

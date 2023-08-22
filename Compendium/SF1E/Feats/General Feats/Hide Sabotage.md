@@ -5,8 +5,10 @@ Prerequisites: Engineering 3 ranks.
 tags: 
 Type: General Feat
 ---
-# HIDE SABOTAGE
-**Source** _Drift Crisis pg. 85_  
+
+# Hide Sabotage
+
+**Source**:: _Drift Crisis pg. 85_  
 You’re able to hide the evidence of your sabotage with ease.
 
 **Prerequisites**: Engineering 3 ranks.

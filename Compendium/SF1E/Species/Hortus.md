@@ -2,7 +2,8 @@
 aliases: 
 tags: 
 ---
-# HORTUS
+
+# Hortus
 
 > [!infobox|left n-th clean]
 >  [[Hortus.png|Spielern zeigen!]]
@@ -19,31 +20,31 @@ An average hortus is 4-1/2 feet tall and weighs 200 pounds.
 **Ability Modifiers** +2 Str, +2 Con, -2 Cha  
 **Hit Points** 6
 
-## SIZE AND TYPE
+## Size and Type
 
 Hortuses are Medium plants.  
 
-## ATMOSPHERIC ALTERATION
+## Atmospheric Alteration
 
 As a move action while in atmosphere, a hortus can spend 1 Resolve Point to release a mix of spores into the air. When it uses this ability, the hortus chooses a type of saving throw (Fortitude, Reflex, or Will) and whether to enhance or penalize that save. If it enhances, creatures within 20 feet gain a +2 enhancement bonus to saving throws of the chosen type for 1d4 rounds; if it penalizes, creatures within 20 feet take a –1 penalty to saving throws of the chosen type for 1d4 rounds. A creature can attempt a Fortitude save before the bonus or penalty is applied to ignore this effect. The save DC is equal to 10 + half the hortus’s level + its Constitution modifier. This is an inhaled poison effect.  
 
-## HORTUS SENSES
+## Hortus Senses
 
 Hortuses have low-light vision.  
 
-## LIMITED PLANT BENEFITS
+## Limited Plant Benefits
 
 Despite being plant creatures, hortuses don’t gain the standard immunities associated with creatures of the plant type. Instead, they gain a +2 racial bonus to saving throws against mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning effects, unless the effect specifies that it is effective against plants.  
 
-## SLIGHTLY POISONOUS
+## Slightly Poisonous
 
 A creature that hits a hortus with a bite attack must succeed at a Fortitude save or become sickened for 1d4 rounds. The save DC is equal to 10 + half the hortus’s level + its Constitution modifier.  
 
-## SPONGY FORM
+## Spongy Form
 
 A hortus has damage reduction 5/slashing; this stacks with one other source of damage reduction.
 
-# VITAL STATS
+# Vital Stats
 
 **Average Height** 4 to 5 ft.   
 **Average Weight** 150 to 250 lbs.   

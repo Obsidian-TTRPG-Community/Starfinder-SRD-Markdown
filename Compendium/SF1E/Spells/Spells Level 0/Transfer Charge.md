@@ -9,18 +9,20 @@ tags:
 Technomancer: "`ris:Checkbox`"
 Witchwarper: 
 ---
-# TRANSFER CHARGE
 
-**Source** _Starfinder Core Rulebook pg. 383_  
-**Classes** Precog 0, Technomancer 0  
-**School** transmutation  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** two objects of the same type; see text  
-**Duration** instantaneous  
-**Saving Throw** Fortitude negates (object); **Spell Resistance** yes (object)
+# Transfer charge
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 383_  
+**Classes**:: Precog 0, Technomancer 0  
+**School**:: transmutation  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: two objects of the same type; see text  
+**Duration**:: instantaneous  
+**Saving-Throw**:: Fortitude negates (object);
+**Spell Resistance**:: yes (object)
+
+## Description
 
 You can transfer any number of charges from one battery to another battery or from one power cell to another power cell. You can only transfer charges using two objects of the exact same type (two batteries of the same size, two identical power cells, or the like); you transfer charges from the source object to the receiving object.
 

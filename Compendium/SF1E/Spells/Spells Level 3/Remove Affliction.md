@@ -9,18 +9,20 @@ tags:
 Technomancer: 
 Witchwarper: "`ris:Checkbox`"
 ---
-# REMOVE AFFLICTION
 
-**Source** _Starfinder Core Rulebook pg. 373_  
-**Classes** Mystic 3, Precog 3, Witchwarper 3  
-**School** conjuration (healing)  
-**Casting Time** 1 standard action  
-**Range** touch  
-**Targets** one creature or object  
-**Duration** instantaneous or 10 minutes/level; see text  
-**Saving Throw** Will negates (harmless, object); **Spell Resistance** yes (harmless, object)
+# Remove Affliction
 
-## DESCRIPTION
+**Source**:: _Starfinder Core Rulebook pg. 373_  
+**Classes**:: Mystic 3, Precog 3, Witchwarper 3  
+**School**:: conjuration (healing)  
+**Casting-Time**:: 1 standard action  
+**Range**:: touch  
+**Targets**:: one creature or object  
+**Duration**:: instantaneous or 10 minutes/level; see text  
+**Saving-Throw**:: Will negates (harmless, object);
+**Spell Resistance**:: yes (harmless, object)
+
+## Description
 
 You remove impurities from a creature or object, potentially neutralizing the curses, diseases, infestations, poisons, and other harmful conditions affecting it. If the target is a creature, you must attempt a caster level check (1d20 + your caster level) for each curse, disease, infestation, and poison affecting it (DC = 4 + the DC of the affliction). Success means that affliction is removed. Additionally, if the target is blind or deaf due to an affliction or damage, _remove affliction_ restores vision and hearing unless the appropriate organ has been entirely removed from the creature’s body.
 

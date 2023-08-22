@@ -9,7 +9,9 @@ statblock: true
 tags: 
 Type: Legendary Games NPC Codex
 ---
-# GNOLL COMMANDO
+
+# Gnoll Commando
+
 Home >Game Mastering >Bestiary >NPCs >
 
 **XP 600**  

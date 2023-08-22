@@ -9,18 +9,20 @@ tags:
 Technomancer: 4-5
 Witchwarper: 4-5
 ---
-# CREATION
 
-**Source** _Starfinder Core Rulebook pg. 347_  
-**Classes** Technomancer 4-5, Witchwarper 4-5  
-**School** conjuration (creation)  
-**Casting Time** 1 minute  
-**Range** 0 ft.  
+# Creation
+
+**Source**:: _Starfinder Core Rulebook pg. 347_  
+**Classes**:: Technomancer 4-5, Witchwarper 4-5  
+**School**:: conjuration (creation)  
+**Casting-Time**:: 1 minute  
+**Range**:: 0 ft.  
 **Effect** one nonmagical, nontechnological object of nonliving matter, up to 1 bulk/level; see text  
-**Duration** see text  
-**Saving Throw** none; **Spell Resistance** no
+**Duration**:: See Text  
+**Saving-Throw**:: None
+**Spell Resistance**:: No
 
-## DESCRIPTION
+## Description
 
 You create a nonmagical, nontechnological, unattended object of nonliving matter. The volume of the item created can’t exceed 1 cubic foot (or 1 bulk) per caster level. You must succeed at an appropriate Engineering or Profession check to make a complex item, and you can’t create a consumable item.
 

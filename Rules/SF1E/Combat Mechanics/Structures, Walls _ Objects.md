@@ -2,11 +2,12 @@
 aliases: 
 tags: 
 ---
-# STRUCTURES, WALLS & OBJECTS
+
+# Structures, Walls & Objects
 
 The following rules cover the basic features that can be found in structures.
 
-# DOORS
+# Doors
 
 Doors in structures are much more than mere entrances and exits. They can even be encounters all by themselves. Doors come in several types. Consult Table 11–10: Doors for information on common types of doors.
 
@@ -27,13 +28,13 @@ Doors in structures are much more than mere entrances and exits. They can even b
     Breaking a lock is sometimes quicker than breaking the whole door. If a PC wants to strike a lock with a weapon, treat the typical lock as having a hardness of 20 and 30 Hit Points. A lock can be broken only if it can be attacked separately from the door, which means that a built-in lock is immune to this sort of treatment. In an occupied structure, every locked door should have a key somewhere.
     
 
-# LIGHTING
+# Lighting
 
 Most fabricated structures have some form of lighting built into the ceilings or walls. This lighting provides enough illumination for the inhabitants to see and is often controlled via a simple switch, touch pad, or vocal device. Lighting can usually be turned on and off on a room-to-room basis, though sometimes a structure’s lighting can be deactivated via a central breaker switch (usually located in some kind of control room or service area). A typical manufactured lighting fixture has a break DC of 18, a hardness of 3, and 10 Hit Points (see page 409 for rules on smashing objects).
 
 Natural caverns and structures built by and for creatures with darkvision often lack manufactured lighting. Characters without darkvision must provide their own source of lighting to be able to navigate these locations.
 
-# WALLS
+# Walls
 
 Structure walls vary drastically in makeup, ranging from natural, unworked solid stone to reinforced starship bulkheads (though stranger walls exist). While they are typically incredibly difficult to break down or through, they’re generally easy to climb. Table 11–9: Walls contains information on the most common types of walls found in structures.
 
@@ -43,7 +44,7 @@ Structure walls vary drastically in makeup, ranging from natural, unworked solid
 -   **Unworked Stone Walls**: Hewn walls usually result when a chamber or passage is tunneled out of solid rock. Unworked stone is uneven and rarely flat. The rough surface of stone walls frequently provides minuscule ledges where fungus grows and fissures where bats, subterranean snakes, and vermin live.
 -   **Wooden Walls**: Wooden walls often exist as recent additions to preexisting structures, used to create animal pens, storage bins, and temporary structures, or just to make a number of smaller rooms out of a larger one.
 
-## TABLE WALLS
+## Table Walls
 
 | Wall Type         | Typical Thickness | Break DC | Hardness | Hit Points* | Athletics DC (to Climb) |
 |-------------------|-------------------|----------|----------|-------------|-------------------------|
@@ -57,7 +58,7 @@ Structure walls vary drastically in makeup, ranging from natural, unworked solid
 
 \* Per 10-foot-by-10-foot section.
 
-## TABLE DOORS
+## Table Doors
 
 | Break DC     |
 |--------------|
@@ -71,7 +72,7 @@ Structure walls vary drastically in makeup, ranging from natural, unworked solid
 
   
 
-# MATERIAL HARDNESS AND HIT POINTS
+# Material Hardness and Hit Points
 
 | Material              | Hardness | Hit Points (per Inch of Thickness) |
 |-----------------------|----------|------------------------------------|
@@ -92,7 +93,7 @@ Structure walls vary drastically in makeup, ranging from natural, unworked solid
 
   
 
-## MATERIALS
+## Materials
 
 **Source** _Starfinder Core Rulebook pg. 408_  
 While materials such as glass and wood are commonly found in terrestrial settlements, some substances are bit more unusual. A list of the hardness and Hit Points of often-used substances can be found in Table 11–11: Material Hardness and Hit Points.
@@ -104,12 +105,12 @@ While materials such as glass and wood are commonly found in terrestrial settlem
 
   
 
-# BREAKING OBJECTS
+# Breaking Objects
 
 **Source** _Starfinder Core Rulebook pg. 409_  
 When attempting to break an object, you have two choices: smashing it with a weapon or destroying it with sheer strength.
 
-## SMASHING AN OBJECT
+## Smashing an Object
 
 Using a weapon to smash a foe’s weapon or an object accessible on the foe’s body is accomplished with the sunder combat maneuver (see page 246). Smashing an unattended object is similar, except this attack roll is opposed by the object’s Armor Class.
 
@@ -127,7 +128,7 @@ Using a weapon to smash a foe’s weapon or an object accessible on the foe’s 
     
 -   **Saving Throws**: Effects that deal damage generally damage unattended objects normally but don’t damage held or attended objects unless the effect specifically says otherwise. Effects that do something other than deal damage affect only objects if their descriptions specifically say so (only common with spells) or note “(object)” in the description of the effect’s saving throw. An object’s total saving throw bonus for Fortitude, Reflex, and Will saves is equal to the object’s caster level or item level. An object that is held or worn uses the saving throw bonus of the creature carrying it if that bonus is better than its own saving throw bonus. Items with a caster level or item level of 0 don’t receive saving throws when unattended.
 
-## DESTROYING OBJECTS USING STRENGTH
+## Destroying Objects Using Strength
 
 When a character tries to destroy a certain object by using sudden force rather than by dealing damage, he attempts a Strength check (rather than making attack and damage rolls, as with the sunder combat maneuver) to determine whether he succeeds. Since hardness does not affect an object’s break DC, this value depends more on the construction of the item in question than on the material the object is made of. Consult Table 11–13: DCs to Break Objects for a list of common break DCs.
 
@@ -135,7 +136,7 @@ If an object has lost half or more of its Hit Points, the object gains the broke
 
 Larger and smaller creatures get bonuses and penalties to Strength checks to break objects as follows: Fine –16, Diminutive –12, Tiny –8, Small –4, Large +4, Huge +8, Gargantuan +12, Colossal +16.
 
-## SIZE AND ARMOR CLASS OF OBJECTS
+## Size and Armor Class of Objects
 
 | Size       | AC Modifier |
 |------------|-------------|
@@ -149,8 +150,7 @@ Larger and smaller creatures get bonuses and penalties to Strength checks to bre
 | Diminutive | +4          |
 | Fine       | +8          |
 
-
-## DCS TO BREAK OBJECTS
+## Dcs to Break Objects
 
 | Task                   | Strength DC |
 |------------------------|-------------|

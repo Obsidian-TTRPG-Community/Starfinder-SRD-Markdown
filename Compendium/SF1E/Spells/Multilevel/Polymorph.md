@@ -9,19 +9,21 @@ tags:
 Technomancer: 1-6
 Witchwarper: 1-6
 ---
-# POLYMORPH
+
+# Polymorph
 
 _SFS Note: The polymorph spell is legal for play with the following exceptions: Other abilities are never available. No ability that is not explicitly called out in the spell description can be gained from this spell. Players are required to bring the source of the polymorph with them AND have the forms prepared. Selected racial traits can only be selected from abilities listed in the “Racial Traits” sidebar for a race._  
-**Source** _Alien Archive 2 pg. 145_  
-**Classes** Mystic 1-6, Technomancer 1-6, Witchwarper 1-6  
-**School** transmutation (polymorph)  
-**Casting Time** 1 round  
-**Range** close  
-**Targets** one willing creature  
-**Duration** 1 minute/level (D)  
-**Saving Throw** none; **Spell Resistance** yes (harmless)
+**Source**:: _Alien Archive 2 pg. 145_  
+**Classes**:: Mystic 1-6, Technomancer 1-6, Witchwarper 1-6  
+**School**:: transmutation (polymorph)  
+**Casting-Time**:: 1 round  
+**Range**:: close  
+**Targets**:: one willing creature  
+**Duration**:: 1 minute/level (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: yes (harmless)
 
-## DESCRIPTION
+## Description
 
 You change a willing target’s shape into a predetermined polymorphed form of your choice. When you select this spell as a spell known, you design four polymorphed forms for each spell level at which you can cast this spell. These forms should be premade, following the rules for spells with the polymorph descriptor (starting on page 141) and the restrictions for each spell level of this spell, and be as ready to use in play as all other aspects of a character are. Each time you gain a character level, you can change which forms you have available.
 
@@ -89,18 +91,19 @@ _Senses_: The form can grant one of the following options: blindsense (scent, so
 
 _Speed_: The form can grant the target a maximum land speed of 60 feet, a burrow speed of up to 60 feet, a climb speed of 60 feet, a fly speed of 60 feet (Ex) with perfect maneuverability, or a swim speed of 60 feet.
 
-## POLYMORPH, MASS
+## Polymorph, Mass
 
-**Source** _Alien Archive 2 pg. 146_  
-**Classes** Mystic 4-6, Technomancer 4-6, Witchwarper 4-6  
-**School** transmutation (polymorph)  
-**Casting Time** 1 round  
-**Range** close  
-**Targets** up to four willing creatures, no two of which can be more than 30 ft. apart  
-**Duration** 1 minute/level (D)  
-**Saving Throw** none; **Spell Resistance** yes (harmless)
+**Source**:: _Alien Archive 2 pg. 146_  
+**Classes**:: Mystic 4-6, Technomancer 4-6, Witchwarper 4-6  
+**School**:: transmutation (polymorph)  
+**Casting-Time**:: 1 round  
+**Range**:: close  
+**Targets**:: up to four willing creatures, no two of which can be more than 30 ft. apart  
+**Duration**:: 1 minute/level (D)  
+**Saving-Throw**:: None
+**Spell Resistance**:: yes (harmless)
 
-## DESCRIPTION
+## Description
 
 This spell functions as _polymorph_, except as noted in this description. Each target must take the same form.
 

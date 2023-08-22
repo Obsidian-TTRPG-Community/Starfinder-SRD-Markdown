@@ -5,7 +5,9 @@ tags:
 Tier: 9
 Type: Large heavy freighter  
 ---
-# DEATH’S HEAD CHARON
+
+# DEATH’S Head Charon
+
 > [!infobox|locr n-th clean]
 >  [[Starship_DeathsHandCharon.jpg|Spielern zeigen!]]
 > 
@@ -19,7 +21,7 @@ Large heavy freighter, **Tier** 9
 **Attack (Turret)** laser net (2d6; 5 hexes)  
 **Power Core** Pulse Orange (250 PCU); **Drift Engine** Signal Booster; **Systems** basic long-range sensors, crew quarters (common), mk 5 armor, mk 8 defenses, mk 2 trinode computer, security (computer countermeasures [mk 2 shock grid]); **Expansion Bays** cargo holds (4), sealed environment compartments (2), smuggler’s compartments (2); **Modifiers** +2 to any three checks per round, +2 Computers (sensors only); **Complement** 15 (minimum 6, maximum 20)
 
-### CREW
+### Crew
 
 **Captain** Bluff +22 (9 ranks), Diplomacy +17 (9 ranks), gunnery +15 (9th level), Intimidate +17 (9 ranks), Piloting +17 (9 ranks)  
 **Engineer (1 officer, 2 crew)** Engineering +17 (9 ranks)  
@@ -27,7 +29,7 @@ Large heavy freighter, **Tier** 9
 **Pilot** Piloting +17 (9 ranks)  
 **Science Officer (1 officer, 3 crew)** Computers +17 (9 ranks)
 
-## DESCRIPTION
+## Description
 
 Though Death’s Head is better known for its small-frame vessels, the Charon is a notable exception. For the company, the model’s production history is second only to the Necroglider, dating back to the Silent War between the Pact Worlds and the Veskarium. The model earned a dark reputation during this time for being a “corpse-hauler,” as less-than-scrupulous merchants used the Charon to transport wartime casualties back to Eox for reanimation—especially vesk cadavers, for which the bone sages paid handsomely.  
   

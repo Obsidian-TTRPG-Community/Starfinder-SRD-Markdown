@@ -1,9 +1,9 @@
 ---
-name: Disintigration Champer Trap
+name: Disintigration Champer Trap---
 cr: 14
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 413_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

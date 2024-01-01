@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Rotating Pistol, Advanced
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 11;
-**Price**:: 23,400  
+**Level**:: 11
+**Price**:: 23400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 P; **Range**:: 30 ft.;
+**Damage**:: 4d4 P; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 8 rounds; **Usage** 1  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Starfinder Armory pg. 44_  
 **Level**:: 4
-**Price**:: 1,900  
+**Price**:: 1900  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 P; **Range**:: 20 ft.;
+**Damage**:: 2d4 P; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 4 rounds; **Usage** 1  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Rotating Pistol, Elite
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 16;
-**Price**:: 153,000  
+**Level**:: 16
+**Price**:: 153000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 8d4 P; **Range**:: 40 ft.;
+**Damage**:: 8d4 P; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 9 rounds; **Usage** 1  
 **Bulk**:: L

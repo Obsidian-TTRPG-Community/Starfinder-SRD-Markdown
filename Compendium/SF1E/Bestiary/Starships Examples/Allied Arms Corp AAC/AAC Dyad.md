@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: Tiny fighter  
+type: Tiny fighter  
 ---
 
 # Aac Dyad

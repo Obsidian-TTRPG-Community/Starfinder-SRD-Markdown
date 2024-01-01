@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 5 / 6
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,10 +15,17 @@ Many types of reinforced clothing afford protection without sacrificing comfort 
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 5
-**Price**:: 2,600; **Category** Light  
-**EAC Bonus** +2; **KAC Bonus** +3; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Price**:: 2600 
+**Category**:: Light  
+
+**EAC**:: +2 
+**KAC**:: +3 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ___
 
@@ -26,25 +33,46 @@ ___
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 1
-**Price**:: 95; **Category** Light  
-**EAC Bonus** +0; **KAC Bonus** +1; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Price**:: 95 
+**Category**:: Light  
+
+**EAC**:: +0 
+**KAC**:: +1 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Stationwear, Casual
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 3;
-**Price**:: 1,300; **Category** Light  
-**EAC Bonus** +1; **KAC Bonus** +2; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 3
+**Price**:: 1300 
+**Category**:: Light  
+
+**EAC**:: +1 
+**KAC**:: +2 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Stationwear, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 6;
-**Price**:: 4,100; **Category** Light  
-**EAC Bonus** +4; **KAC Bonus** +5; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4100 
+**Category**:: Light  
+
+**EAC**:: +4 
+**KAC**:: +5 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L

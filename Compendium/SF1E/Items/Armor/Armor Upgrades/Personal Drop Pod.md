@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 2
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -16,22 +16,25 @@ These are single-use armor upgrades that provide protection for one orbital drop
 ## Personal Drop Pod, Basic
 
 **Source**:: _Starship Operations Manual pg. 49_  
-**Item Level** 2;
+**Level**:: 2
 **Price**::  200  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
 
 ## Personal Drop Pod, Stealth
 
 **Source**:: _Starship Operations Manual pg. 49_  
-**Item Level** 5;
+**Level**:: 5
 **Price**::  500  
-**Slots** 2; **Armor Type** Any; **Bulk** 1  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: 1  
   
   
 
 ## Personal Drop Pod, Invisibility
 
 **Source**:: _Starship Operations Manual pg. 49_  
-**Item Level** 10;
-**Price**::  3,000  
-**Slots** 2; **Armor Type** Any; **Bulk** 1
+**Level**:: 10
+**Price**::  3000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: 1

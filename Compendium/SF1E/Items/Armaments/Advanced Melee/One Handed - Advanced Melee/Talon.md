@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 8 / 12 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,10 @@ A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 4
-**Price**:: 2,400  
+**Price**:: 2400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 A|s;
+**Damage**:: 1d6 A|s
 **Critical**:: corrode 1d6  
 **Bulk**:: L
 **Special**:: modal, powered (capacity 20; usage 1)
@@ -27,11 +27,11 @@ A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It
 ## Talon, Warrior
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 8;
-**Price**:: 10,500  
+**Level**:: 8
+**Price**:: 10500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 A|s;
+**Damage**:: 2d6 A|s
 **Critical**:: corrode 1d6  
 **Bulk**:: L
 **Special**:: modal, powered (capacity 20; usage 1)
@@ -40,10 +40,10 @@ A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 12
-**Price**:: 39,100  
+**Price**:: 39100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 A|s;
+**Damage**:: 4d6 A|s
 **Critical**:: corrode 2d6  
 **Bulk**:: L
 **Special**:: modal, powered (capacity 20; usage 1)
@@ -51,11 +51,11 @@ A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It
 ## Talon, Queen
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 16;
-**Price**:: 195,000  
+**Level**:: 16
+**Price**:: 195000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d6 A|s;
+**Damage**:: 8d6 A|s
 **Critical**:: corrode 3d6  
 **Bulk**:: L
 **Special**:: modal, powered (capacity 40; usage 2)
@@ -63,11 +63,11 @@ A talon is a stylized weapon with a fitted grip and a curved, serrated blade. It
 ## Talon, God
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 20;
-**Price**:: 925,000  
+**Level**:: 20
+**Price**:: 925000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d12 A|s;
+**Damage**:: 8d12 A|s
 **Critical**:: corrode 4d6  
 **Bulk**:: L
 **Special**:: modal, powered (capacity 40; usage 2)

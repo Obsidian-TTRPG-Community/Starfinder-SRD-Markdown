@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 18
-price: 340,000
+
+price: 340000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Weightless Footlocker
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 18;
-**Price**::  340,000  
-**Capacity**:: 100; **Usage** 1/hour  
-**Hands** —; **Bulk** 2
+**Level**:: 18
+**Price**::  340000  
+**Capacity**:: 100 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 

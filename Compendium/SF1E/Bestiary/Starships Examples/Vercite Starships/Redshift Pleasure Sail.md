@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 3
-Type: Medium explorer
+type: Medium explorer
 ---
 
 # Redshift Pleasure Sail
 
-> [!infobox|locr n-th clean]
->  [[Starship_RedshiftPleasureSail.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_RedshiftPleasureSail.jpg|Spielern zeigen!]
 > 
 
 Medium explorer, **Tier** 3 

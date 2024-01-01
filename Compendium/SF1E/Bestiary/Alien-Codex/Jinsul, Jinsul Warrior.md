@@ -3,11 +3,11 @@ aliases:
 cr: 1
 Environment: any
 hp: 20
-modifier: 4
+Initmod: 4
 name: Jinsul, Jinsul Warrior
 statblock: true
 tags: 
-Type: CE Medium monstrous humanoid  
+Type: CE Medium monstrous humanoid
 ---
 
 # Jinsul, Jinsul Warrior
@@ -23,7 +23,7 @@ A capable, efficient species, jinsuls have developed ships, starbases, and space
 The average jinsul is 7 feet tall and weighs 300 pounds or more.
 
 
-**Source**:: _Alien Archive 3 pg. 60_
+**Source**:  _Alien Archive 3 pg. 60_
 
 ## Jinsul Warrior Cr 1
 

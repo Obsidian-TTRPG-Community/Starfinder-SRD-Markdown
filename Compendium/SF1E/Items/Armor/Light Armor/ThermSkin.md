@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 10 / 15
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,35 +15,63 @@ Full suits of ThermSkin II and III grant resistance 5 to cold, and ThermSkin IV 
 ## Thermskin, I
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level**:: 3;
-**Price**:: 1,275; **Category** Light  
-**EAC Bonus** +2; **KAC Bonus** +3; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 3
+**Price**:: 1275 
+**Category**:: Light  
+
+**EAC**:: +2 
+**KAC**:: +3 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Thermskin, Ii
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level**:: 6;
-**Price**:: 5,900; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +7; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Level**:: 6
+**Price**:: 5900 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +7 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Thermskin, Iii
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level**:: 10;
-**Price**:: 21,800; **Category** Light  
-**EAC Bonus** +12; **KAC Bonus** +14; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 10
+**Price**:: 21800 
+**Category**:: Light  
+
+**EAC**:: +12 
+**KAC**:: +14 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Thermskin, Iv
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level**:: 15;
-**Price**:: 120,000; **Category** Light  
-**EAC Bonus** +17; **KAC Bonus** +18; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 15
+**Price**:: 120000 
+**Category**:: Light  
+
+**EAC**:: +17 
+**KAC**:: +18 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L

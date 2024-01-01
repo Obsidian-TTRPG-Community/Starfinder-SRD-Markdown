@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4  
-price: 2,000
+
+price: 2000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Machimind
 
 **Source**:: _Drift Crisis pg. 61_  
-**Level** 4;
+**Level**:: 4
 **Price**::  2000  
-**Capacity**:: 20; **Usage** 2/minute  
-**Hands** —; **Bulk** —
+**Capacity**:: 20 **Usage** 2/minute  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

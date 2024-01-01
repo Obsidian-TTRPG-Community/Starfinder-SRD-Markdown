@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 80
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Pact Worlds Delegate
-statblock: true
-Subtype: Diplomats
+statblock: true(Diplomats
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Pact Worlds Delegate

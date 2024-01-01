@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 15
-Environment: any (Aucturn)  
+Environment: any (Aucturn)
 hp: 233
-modifier: 9
+Initmod: 9
 name: Bryrvath
 statblock: true
 tags: 
-Type: CE Medium aberration (chaotic, evil)  
+Type: CE Medium aberration (chaotic, evil)
+combatType: spellcaster
+alignment: CE
+size: medium
+type(subtype): aberration(['chaotic', 'evil'])
+environment: any
+climate: any
+planet: Aucturn
+organization:
+  - solitary
+  - pair
+  - canvas(3-7)
+source: Alien Archive
 ---
 
 # Bryrvath
@@ -79,3 +91,5 @@ The average bryrvath is 6 feet tall when standing upright and weighs approximate
 ## Aura Goggles
 
 Physicists from AbadarCorp who specialize in esoteric optics risk their lives and their sanity studying the bryrvath’s predilection for absorbing and ingesting light, hoping to find some way to recreate the effect (an ability that would undoubtedly be very useful to stealthy infiltrators and snipers). While they were unsuccessful, they did develop goggles that mitigate the effects of the bryrvath’s impossible aura as well as other sight-based attacks. This eyewear—dubbed _aura goggles_—also allows the wearer to see sources of magic.
+
+

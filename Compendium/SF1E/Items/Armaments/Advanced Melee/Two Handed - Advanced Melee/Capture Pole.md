@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 7 / 12 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,10 @@ Built to resemble an ancient pre- Gap weapon used to apprehend prisoners of war,
 ## Capture Pole, Apprehension-class
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 7;
-**Price**:: 6,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 P;
+**Level**:: 7
+**Price**:: 6600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Grapple, injection, reach
@@ -27,11 +26,10 @@ Built to resemble an ancient pre- Gap weapon used to apprehend prisoners of war,
 ## Capture Pole, Enforcement-class
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 550  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 P;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Grapple, injection, reach
@@ -40,10 +38,9 @@ Built to resemble an ancient pre- Gap weapon used to apprehend prisoners of war,
 
 **Source**:: _Character Operations Manual pg. 122_  
 **Level**:: 12
-**Price**:: 36,300  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 P;
+**Price**:: 36300  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Grapple, injection, reach
@@ -51,11 +48,10 @@ Built to resemble an ancient pre- Gap weapon used to apprehend prisoners of war,
 ## Capture Pole, Domination-class
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 17;
-**Price**:: 256,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d12 P;
+**Level**:: 17
+**Price**:: 256500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d12 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Grapple, injection, reach
@@ -63,11 +59,10 @@ Built to resemble an ancient pre- Gap weapon used to apprehend prisoners of war,
 ## Capture Pole, Overlord-class
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 20;
-**Price**:: 855,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 15d8 P;
+**Level**:: 20
+**Price**:: 855000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 15d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Grapple, injection, reach

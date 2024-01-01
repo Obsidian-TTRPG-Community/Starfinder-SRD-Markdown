@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 13 
-price: 48,500
+
+price: 48500
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Eoxian Wrackstaff
 
 **Source**:: _Alien Archive pg. 81_  
-**Level** 13;
-**Price**::  48,500; **Bulk** 1
+**Level**:: 13
+**Price**::  48500 
+**Bulk**:: 1
 
 ### Description
 

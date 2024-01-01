@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 11
 hp: 180
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Shapeshifter
-statblock: true
-Subtype: Infilitrators
+statblock: true(Infilitrators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Shapeshifter

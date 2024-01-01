@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8 
-price: 9,000
+
+price: 9000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Envoy's Mouthpiece
 
 **Source**:: _Starfinder Armory pg. 103_  
-**Level** 8;
-**Price**::  9,000  
-**Capacity**:: 20; **Usage** 2/hour  
-**Hands** —; **Bulk** L
+**Level**:: 8
+**Price**::  9000  
+**Capacity**:: 20 **Usage** 2/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

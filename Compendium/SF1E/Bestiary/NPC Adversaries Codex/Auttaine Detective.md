@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 13
 hp: 190
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Auttaine Detective
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Auttaine Detective

@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 10
-Environment: any (Aballon)  
+Environment: any (Aballon)
 hp: 165
-modifier: 5
+Initmod: 5
 name: Anacite, Anacite Predator Drone
 statblock: true
 tags: 
-Type: LN Large construct (technological)  
+Type: LN Large construct (technological)
+combatType: combatant
+alignment: LN
+size: large
+type(subtype): construct(technological)
+environment: any
+climate: any
+planet: Aballon
+organization:
+  - solitary
+  - pair
+  - squadron(3-6)
+source: Alien Archive 2
 ---
 
 # Anacite, Anacite Predator Drone
@@ -20,7 +32,7 @@ In the uncounted millennia since the departure of the so-called “First Ones,�
 
 While “anacite” officially refers only to the sentient varieties of Aballonian machines—those capable of learning and participating in Aballonian society—many offworlders use it as a catchall term for the world’s mechanical life. Dragonflylike wingbots are an example of Aballonian technobiology. These artificial creatures lack basic sentience yet nevertheless reproduce and fill one of the planet’s ecological niches. These 4-foot-long machines whir from ridge to ridge on wings glittering with solar panels, feeding on the blazing light of the sun. Wingbots can be territorial, and they occasionally attack offworlders or other anacites.
 
-**Source**:: _Alien Archive 2 pg. 10_
+**Source**:  _Alien Archive 2 pg. 10_
 
 ## Anacite Predator Drone Cr 10
 
@@ -79,3 +91,5 @@ An anacite predator drone resembles a rhinoceros beetle made of silvery metal wi
 ## Anacite Powered Armor
 
 Arms manufacturers in the Aballonian megaplex of Pursuit produce powered armor that mimics the versatile and customizable capabilities of anacite laborers. Anacites who subscribe to the philosophy of Those Who Become promote this powered armor as a good way for non-anacites to experience the superiority of the constructed form.
+
+

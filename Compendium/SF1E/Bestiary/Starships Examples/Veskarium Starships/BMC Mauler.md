@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: Tiny fighter
+type: Tiny fighter
 ---
 
 # Bmc Mauler
 
-> [!infobox|locr n-th clean]
->  [[Starship_BMCMauler.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_BMCMauler.jpg|Spielern zeigen!]
 > 
 Tiny fighter, **Tier** 2 
 **Speed** 10; **Maneuverability** good (turn 1); **Drift** 1  

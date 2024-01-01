@@ -3,11 +3,11 @@ aliases:
 cr: 5
 Environment: any
 hp: 84
-modifier: 5
+Initmod: 5
 name: Oni, Ja Noi
 statblock: true
 tags: 
-Type: LE Medium outsider (goblinoid, native, oni, shapechanger)  
+Type: LE Medium outsider (goblinoid, native, oni, shapechanger)
 ---
 
 # Oni, Ja Noi
@@ -18,7 +18,7 @@ Ja noi are distinct from hobgoblins in appearance due to their bright-red color,
 
 Some hobgoblin groups interact so closely with ja noi that children are sometimes born to one ja noi parent and one hobgoblin parent. Known as kanabo, a term that means “the strongest,” these oni-blooded goblinoids breed true with both ja noi and other goblinoids. They have innate powers that often make them champions of their people, though they also often develop an independent streak that causes them to reject hobgoblin rules and society. Kanabo share the size of their oni ancestors, but their appearance is much more variable, ranging from stout hobgoblins to forms closer to half-orcs, and some even appear nearly human. The average kanabo is over 6 feet tall and weighs 250 pounds.
 
-**Source**:: _Alien Archive 2 pg. 88_
+**Source**:  _Alien Archive 2 pg. 88_
 
 ## Ja Noi Cr 5
 

@@ -4,16 +4,27 @@ cr: 10
 Enviroment: any (Outer Plane)
 environment: any
 hp: 145
-modifier: 5
+Initmod: 5
 name: Aeon, Tekhoinos
 statblock: true
 tags: 
 Type: Outsider (aeon, extraplanar)
+combatType: expert
+alignment: N
+size: medium
+type(subtype): outsider(['aeon', 'extraplanar'])
+climate: any
+planet: Outer Planes
+organization:
+  - solitary
+  - pair
+  - collective(3-10)
+source: Alien Archive 2
 ---
 
 # Aeon, Tekhoinos
 
-**Source**:: _Alien Archive 2 pg. 6_
+**Source**:  _Alien Archive 2 pg. 6_
 
 ## Tekhoinos Cr 10
 
@@ -87,3 +98,5 @@ Despite their secrecy, tekhoinos have been identified as the corrective force be
 The following extra content was found for this creature:  
 \- Aeon (Summoning) Graft Template  
 \- Aeon (Creature Subtype) Graft Template
+
+

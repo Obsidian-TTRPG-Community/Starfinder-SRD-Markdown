@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Medium explorer  
+type: Medium explorer  
 ---
 
 # Kevolari Venture
 
-> [!infobox|locr n-th clean]
->  [[Starship_KevolariVenture.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_KevolariVenture.jpg|Spielern zeigen!]
 > 
 Medium explorer, **Tier** 1 
 **Speed** 6; **Maneuverability** good (turn 1); **Drift** 1  

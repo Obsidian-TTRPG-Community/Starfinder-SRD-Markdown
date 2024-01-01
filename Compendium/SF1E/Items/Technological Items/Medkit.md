@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 
+
 price:  
 tags: 
 Type: Technological Item
@@ -15,9 +15,10 @@ Medical gear allows you to attempt Medicine checks and determines the DC of Medi
 ## Medkit, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 5;
-**Price**::  2,700  
-**Hands** 2; **Bulk** 1
+**Level**:: 5
+**Price**::  2700  
+**Hands** 2 
+**Bulk**:: 1
 
 ### Description
 
@@ -28,9 +29,10 @@ The advanced medkit adds more-advanced and specialized tools to diagnose and tre
 ## Medkit, Basic
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  100  
-**Hands** 2; **Bulk** 1
+**Hands** 2 
+**Bulk**:: 1
 
 ### Description
 

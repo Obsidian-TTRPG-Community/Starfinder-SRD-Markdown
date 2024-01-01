@@ -1,18 +1,30 @@
 ---
 aliases: 
 cr: 7
-Environment: any (Hell)  
+Environment: any (Hell)
 hp: 105
-modifier: 3
+Initmod: 3
 name: Devil, Warmonger Devil (Levaloch)
 statblock: true
 tags: 
-Type: LE Large outsider (devil, evil, extraplanar, lawful)  
+Type: LE Large outsider (devil, evil, extraplanar, lawful)
+combatType: combatant
+alignment: LE
+size: large
+type(subtype): outsider(['lawful', 'devil', 'evil', 'extraplanar'])
+environment: any
+climate: any
+planet: Hell
+organization:
+  - solitary
+  - pair
+  - squadron(3-18)
+source: Alien Archive 2
 ---
 
 # Devil, Warmonger Devil (LEVALOCH)
 
-**Source**:: _Alien Archive 2 pg. 36_
+**Source**:  _Alien Archive 2 pg. 36_
 
 ## Warmonger Devil (LEVALOCH) Cr 7
 
@@ -84,3 +96,5 @@ As befits creatures designed for combat, levalochs have a particular interest in
 The following extra content was found for this creature:  
 \- Devil (Summoning) Graft Template  
 \- Devil (Creature Subtype) Graft Template
+
+

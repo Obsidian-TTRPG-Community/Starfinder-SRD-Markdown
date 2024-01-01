@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: N Large starship magical beast 
+type: N Large starship magical beast 
 ---
 
 # Blinking Telelith

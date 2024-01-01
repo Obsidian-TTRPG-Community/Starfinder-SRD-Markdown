@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/3
-Type: Tiny racer  
+type: Tiny racer  
 ---
 
 # Idaran Voidrunner
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranVoidrunner.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranVoidrunner.jpg|Spielern zeigen!]
 > 
 
 Tiny racer, **Tier** 1/3 

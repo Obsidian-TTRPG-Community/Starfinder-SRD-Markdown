@@ -3,11 +3,24 @@ aliases:
 cr: 4
 Environment: any
 hp: 43
-modifier: 1
+Initmod: 1
 name: Gray
 statblock: true
 tags: 
-Type: NE Small humanoid (gray)  
+Type: NE Small humanoid (gray)
+combatType: spellcaster
+alignment: NE
+size: small
+type(subtype): humanoid(gray)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - invasion(6-12)
+source: Alien Archive
 ---
 
 # Gray
@@ -79,3 +92,5 @@ The mind is still a thing of mystery. Neuroscientists have yet to isolate the ex
 The following extra content was found for this creature:  
 \- Gray (Creature Subtype) Graft Template  
 \- Gray Race Entry
+
+

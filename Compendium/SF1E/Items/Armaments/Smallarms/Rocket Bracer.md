@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ These augmented armguards house several rockets designed for taking out heavily 
 ## Rocket Bracer, Advanced
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 11;
-**Price**:: 23,800  
+**Level**:: 11
+**Price**:: 23800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 B & F; **Range**:: 50 ft.;
+**Damage**:: 2d8 B & F; 
+**Range**:: 50 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 4 mini-rockets ; **Usage** 1  
 **Bulk**:: L
@@ -27,11 +28,12 @@ These augmented armguards house several rockets designed for taking out heavily 
 ## Rocket Bracer, Tactical
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 6;
-**Price**:: 4,000  
+**Level**:: 6
+**Price**:: 4000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 B & F; **Range**:: 50 ft.;
+**Damage**:: 1d8 B & F; 
+**Range**:: 50 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 4 mini-rockets ; **Usage** 1  
 **Bulk**:: L
@@ -40,11 +42,12 @@ These augmented armguards house several rockets designed for taking out heavily 
 ## Rocket Bracer, Elite
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 15;
-**Price**:: 102,000  
+**Level**:: 15
+**Price**:: 102000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d6 B & F; **Range**:: 60 ft.;
+**Damage**:: 5d6 B & F; 
+**Range**:: 60 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 4 mini-rockets ; **Usage** 1  
 **Bulk**:: L
@@ -53,11 +56,12 @@ These augmented armguards house several rockets designed for taking out heavily 
 ## Rocket Bracer, Paragon
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 19;
-**Price**:: 525,000  
+**Level**:: 19
+**Price**:: 525000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 8d6 B & F; **Range**:: 70 ft.;
+**Damage**:: 8d6 B & F; 
+**Range**:: 70 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 4 mini-rockets ; **Usage** 1  
 **Bulk**:: L

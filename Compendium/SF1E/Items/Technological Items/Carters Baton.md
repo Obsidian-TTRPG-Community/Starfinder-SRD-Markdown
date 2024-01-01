@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 14 
-price: 65,000
+
+price: 65000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Carter's Baton
 
 **Source**:: _Starfinder Armory pg. 100_  
-**Level** 14;
-**Price**::  65,000  
-**Capacity**:: 80; **Usage** 8/round  
-**Hands**:: 1**Bulk** L
+**Level**:: 14
+**Price**::  65000  
+**Capacity**:: 80 **Usage** 8/round  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 215
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Mysterious Hermit
-statblock: true
-Subtype: Survivalist
+statblock: true(Survivalist
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Mysterious Hermit

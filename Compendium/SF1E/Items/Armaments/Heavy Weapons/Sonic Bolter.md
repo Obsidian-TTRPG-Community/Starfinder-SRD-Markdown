@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,58 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 12
-**Price**:: 38,000  
-**Hands**:: 2;
+**Price**:: 38000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 So; **Range**:: 80 ft.;
+**Damage**:: 3d12 So 
+**Range**:: 80 ft.
 **Critical**:: Sicken  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, light
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 3;
-**Price**:: 1,480  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1480  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 So; **Range**:: 60 ft.;
+**Damage**:: 1d10 So 
+**Range**:: 60 ft.
 **Critical**:: Sicken  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, Heavy
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 8;
-**Price**:: 10,100  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 10100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d10 So; **Range**:: 80 ft.;
+**Damage**:: 2d10 So 
+**Range**:: 80 ft.
 **Critical**:: Sicken  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, Devastator
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 18;
-**Price**:: 398,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 398000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 So; **Range**:: 90 ft.;
+**Damage**:: 3d12 So 
+**Range**:: 90 ft.
 **Critical**:: Sicken  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: antibiological, line, unwieldy

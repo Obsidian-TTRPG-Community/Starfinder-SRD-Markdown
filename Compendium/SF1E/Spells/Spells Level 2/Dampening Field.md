@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 2
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: abjuration 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Dampening Field

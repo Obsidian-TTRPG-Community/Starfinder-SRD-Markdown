@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,35 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Microfusion Rifle, Heavy
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 18;
-**Price**:: 410,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d8 E & F; **Range**:: 40 ft.;
+**Level**:: 18
+**Price**:: 410000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d8 E & F; 
+**Range**:: 40 ft.
 **Critical**:: irradiate  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: blast, radioactive, unwieldy
+**Bulk**:: 1**Special**:: blast, radioactive, unwieldy
 
 ## Microfusion Rifle, light
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 4
-**Price**:: 2,350  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 E & F; **Range**:: 15 ft.;
+**Price**:: 2350  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 E & F; 
+**Range**:: 15 ft.
 **Critical**:: irradiate  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: blast, radioactive, unwieldy
+**Bulk**:: 1**Special**:: blast, radioactive, unwieldy
 
 ## Microfusion Rifle, Medium
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 12
-**Price**:: 40,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d8 E & F; **Range**:: 30 ft.;
+**Price**:: 40800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d8 E & F; 
+**Range**:: 30 ft.
 **Critical**:: irradiate  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: blast, radioactive, unwieldy
+**Bulk**:: 1**Special**:: blast, radioactive, unwieldy

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 5 
+
 price:  
 tags: [15:]
 Type: Technological Item
@@ -20,9 +20,10 @@ Installing a micro tap into a datapad or comm unit requires a successful Enginee
 ## Micro Tap, Mk 1
 
 **Source**:: _Tech Revolution pg. 49_, _Starfinder Sun Divers pg. 53_  
-**Level** 1;
+**Level**:: 1
 **Price**::  200  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ---
 
@@ -31,11 +32,13 @@ Installing a micro tap into a datapad or comm unit requires a successful Enginee
 **Source**:: _Tech Revolution pg. 49_, _Starfinder Sun Divers pg. 53_  
 **Level**:: 3
 **Price**::  400  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ## Micro Tap, Mk 3
 
 **Source**:: _Tech Revolution pg. 49_, _Starfinder Sun Divers pg. 53_  
-**Level** 5;
+**Level**:: 5
 **Price**::  750  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —

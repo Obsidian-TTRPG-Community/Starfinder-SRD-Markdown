@@ -1,18 +1,33 @@
 ---
 aliases: 
 cr: 4
-Environment: any forests, hills, or plains (Arquand)  
+Environment: any forests, hills, or plains (Arquand)
 hp: 50
-modifier: 5
+Initmod: 5
 name: Arquand Gazelle
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
+combatType: combatant
+alignment: N
+size: large
+type(subtype): animal(-)
+environment:
+  - forests
+  - hills
+  - plains
+climate: any
+planet: Arquand
+organization:
+  - solitary
+  - pair
+  - herd(4-40)
+source: Alien Archive 2
 ---
 
 # Arquand Gazelle
 
-**Source**:: _Alien Archive 2 pg. 12_
+**Source**:  _Alien Archive 2 pg. 12_
 
 ## Arquand Gazelle Cr 4
 
@@ -71,3 +86,5 @@ Gazelles accustomed to Arquand have difficulty adjusting to life on other planet
 ## Arquand Gazelle Gear
 
 Even in death, Arquand gazelles are quite valuable. Hide and horns used in clothing, jewelry, and other objects can retain calming properties, but a bustling trade in fake Arquand gazelle hide makes it difficult for buyers to know if they’ve got the real thing. Genuine hide has a minor tranquilizing effect, but the expectation of such an effect can create a psychosomatic response, making the feeling an unreliable verifier. Amplified with magic, the real effect can be as strong or stronger than a living gazelle’s aura.
+
+

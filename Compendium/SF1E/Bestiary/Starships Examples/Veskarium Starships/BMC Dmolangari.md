@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 11
-Type: Huge bulk freighter
+type: Huge bulk freighter
 ---
 
 # Bmc Dmolangari
 
-> [!infobox|locr n-th clean]
->  [[Starship_BMCOmolangari.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_BMCOmolangari.jpg|Spielern zeigen!]
 > 
 Huge bulk freighter, **Tier**  11
 **Speed** 10; **Maneuverability** poor (turn 3); **Drift** 1  

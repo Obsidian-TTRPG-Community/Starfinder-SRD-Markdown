@@ -13,24 +13,25 @@ A specialized mass driver enables smaller vessels to tug larger vessels or objec
 ## Mass Simulator, Mk 1
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 10; **Cost (in BP)** 20  
-  
+**PCU**:: 10
+**Cost (in BP)**:: 20   
 
 ---
 
 ## Mass Simulator, Mk 2
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 20; **Cost (in BP)** 40  
-  
+**PCU**:: 20
+**Cost (in BP)**:: 40   
 
 ## Mass Simulator, Mk 3
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 30; **Cost (in BP)** 60  
-  
+**PCU**:: 30
+**Cost (in BP)**:: 60   
 
 ## Mass Simulator, Mk 4
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 40; **Cost (in BP)** 80
+**PCU**:: 40
+**Cost (in BP)**:: 80

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 12
-Type: Large destroyer
+type: Large destroyer
 ---
 
 # Inheritorworks Javelin
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksJavelin.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksJavelin.jpg|Spielern zeigen!]
 > 
 Large destroyer, **Tier** 12 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** 3  

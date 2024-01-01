@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: any (Arkanen)  
+Environment: any (Arkanen)
 hp: 60
-modifier: 0
+Initmod: 0
 name: Sazaron, Sazaron Scholar
 statblock: true
 tags: 
-Type: NG Large monstrous humanoid  
+Type: NG Large monstrous humanoid
 ---
 
 # Sazaron, Sazaron Scholar
@@ -20,7 +20,7 @@ The ancient sazaron capital of Telataranas contains numerous magical universitie
 
 The other most popular topic of study focuses on the mind-searing hallajins, which Arkanen is tasked with containing on the nearby moon of Hallas via a magical barrier. Many of the sazarons who are passionate about this subject either have worked to become official Pact World overseers of the mysterious species, or work closely with those overseers to make sure that the dangerous psychic energy of Hallas does not escape. Despite their desire to learn more about the hallajins and their abilities, sazarons rigidly uphold the strict rules that prohibit attempts to sneak onto Hallas— though they are more than happy to confiscate and analyze any artifacts or data that any lawbreakers might obtain.
 
-**Source**:: _Alien Archive 3 pg. 90_
+**Source**:  _Alien Archive 3 pg. 90_
 
 ## Sazaron Scholar Cr 5
 

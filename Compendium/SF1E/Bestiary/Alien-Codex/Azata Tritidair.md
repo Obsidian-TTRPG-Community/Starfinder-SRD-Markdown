@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: any (Elysium)  
+Environment: any (Elysium)
 hp: 105
-modifier: 4
+Initmod: 4
 name: Azata, Tritidair
 statblock: true
 tags: 
-Type: CG Small outsider (azata, chaotic, extraplanar, good)  
+Type: CG Small outsider (azata, chaotic, extraplanar, good)
 ---
 
 # Azata, Tritidair
@@ -33,7 +33,7 @@ Other creatures sleeping or engaging in similar deep rest near a meditating trit
 Such seekers also hope to have visions of Desna, such as those who have been blessed with tritidair-influenced dreams have claimed to receive. These assertions can be true—Desna can use the neural pathways a tritidair’s influence opens to communicate with other beings likely to aid the goddess’s aims. Good-hearted dreamers find themselves becoming more spontaneous and venturesome, looking for opportunities to explore and help others. With this increase in boldness comes an increase in apparent luck, although what seems to be luck is just as likely to be an increased awareness of good opportunities and the willingness to seize them.
 
 
-**Source**:: _Alien Archive 2 pg. 14_
+**Source**:  _Alien Archive 2 pg. 14_
 
 ## Tritidair Cr 8
 

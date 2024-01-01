@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 16
+
 NoteType: Armor
-price: 149,500
+price: 149500
 tags: 
 Type: Light Armor
 ---
@@ -10,11 +10,18 @@ Type: Light Armor
 # Shotalashu Armor
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 16;
-**Price**:: 149,500; **Category** Light  
-**EAC Bonus** +19; **KAC Bonus** +20; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: L
+**Level**:: 16
+**Price**:: 149500 
+**Category**:: Light  
+
+**EAC**:: +19 
+**KAC**:: +20 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: L
 
 ### Description
 

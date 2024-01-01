@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,47 @@ The pahtras of Trenarez consider themselves the bleeding edge of pahtra musical 
 ## Trenarii Singing Coil, Duet
 
 **Source**:: _Drift Crisis pg. 63_  
-**Level**:: 8;
-**Price**:: 9,700  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 E; **Range**:: 90 ft.;
+**Level**:: 8
+**Price**:: 9700  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 E; 
+**Range**:: 90 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges ; **Usage** 8  
-**Bulk**:: 2;
-**Special**:: Line, unwieldy, profession
+**Bulk**:: 2**Special**:: Line, unwieldy, profession
 
 ## Trenarii Singing Coil, Solo
 
 **Source**:: _Drift Crisis pg. 63_  
 **Level**:: 4
-**Price**:: 2,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d4 E; **Range**:: 60 ft.;
+**Price**:: 2200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d4 E; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges ; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: Line, unwieldy, profession
+**Bulk**:: 2**Special**:: Line, unwieldy, profession
 
 ## Trenarii Singing Coil, Quartet
 
 **Source**:: _Drift Crisis pg. 63_  
-**Level**:: 13;
-**Price**:: 50,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d4 E; **Range**:: 120 ft.;
+**Level**:: 13
+**Price**:: 50000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d4 E; 
+**Range**:: 120 ft.
 **Critical**:: Deafen  
 **Capacity**:: 80 charges ; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: Line, unwieldy, profession
+**Bulk**:: 2**Special**:: Line, unwieldy, profession
 
 ## Trenarii Singing Coil, Orchestra
 
 **Source**:: _Drift Crisis pg. 63_  
-**Level**:: 18;
-**Price**:: 380,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d4 E; **Range**:: 200 ft.;
+**Level**:: 18
+**Price**:: 380000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d4 E; 
+**Range**:: 200 ft.
 **Critical**:: Deafen  
 **Capacity**:: 100 charges ; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: Line, unwieldy, profession
+**Bulk**:: 2**Special**:: Line, unwieldy, profession

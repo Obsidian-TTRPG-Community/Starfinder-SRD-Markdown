@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 175
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Diagnostic Lozenge
 
 **Source**:: _Starfinder Armory pg. 101_  
-**Level** 2;
+**Level**:: 2
 **Price**::  175  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** —; **Bulk** —
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

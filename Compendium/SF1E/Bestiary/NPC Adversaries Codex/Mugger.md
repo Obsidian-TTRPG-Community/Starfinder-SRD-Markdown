@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 90
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Mugger
-statblock: true
-Subtype: Thieves
+statblock: true(Thieves
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Mugger

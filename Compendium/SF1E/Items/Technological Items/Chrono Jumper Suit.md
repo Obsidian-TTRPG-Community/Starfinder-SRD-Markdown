@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 13 
-price: 53,500
+
+price: 53500
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Chrono Jumper Suit
 
 **Source**:: _Tech Revolution pg. 46_  
-**Level** 13;
+**Level**:: 13
 **Price**::  53500  
-**Capacity**:: 40; **Usage** 40  
-**Hands** —; **Bulk** 1
+**Capacity**:: 40 **Usage** 40  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

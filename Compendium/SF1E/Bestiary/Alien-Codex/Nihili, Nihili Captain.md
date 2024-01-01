@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 13
-Environment: any vacuum  
+Environment: any vacuum
 hp: 270
-modifier: 6
+Initmod: 6
 name: Nihili, Nihili Captain
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
+combatType: combatant
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization: any
+source: Alien Archive
 ---
 
 # Nihili, Nihili Captain
@@ -24,7 +34,7 @@ Rumors speak of a cult of nihilis in the fringes of the Vast who have discovered
 
 No one knows for certain whether the nihilis who worship this “dark star” are venerating a shadowy entity or are suffering from some unknown kind of madness. However, travelers who survive passing through this region return with tales of huge masses of floating corpses forming a ring around a cloud of ebony particles that seems to absorb all light.
 
-**Source**:: _Alien Archive pg. 82_
+**Source**:  _Alien Archive pg. 82_
 
 ## Nihili Captain Cr 13
 
@@ -64,3 +74,5 @@ NE Medium undead
 **Gravity Well (Su)** A nihili generates a field of gravity that functions in a 5-foot aura around itself (including 5 feet above the nihili), exerting a downward force toward the nihili’s feet. This allows the nihili to function as if constantly under the effect of _spider climb_. Any creature entering this aura from an area of zero-g must succeed at a DC 15 Reflex saving throw or be knocked prone.
 
 ## Extra Content
+
+

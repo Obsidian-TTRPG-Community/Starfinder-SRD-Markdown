@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 2
-Environment: any underground  
+Environment: any underground
 hp: 25
-modifier: 5
+Initmod: 5
 name: Bolida, Bolida Miner
 statblock: true
 tags: 
-Type: CN Medium vermin  
+Type: CN Medium vermin
+combatType: combatant
+alignment: CN
+size: medium
+type(subtype): vermin(-)
+environment: underground
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - convoy(3-6) + bolida overseer(1)
+source: Alien Archive 2
 ---
 
 # Bolida, Bolida Miner
@@ -22,7 +35,7 @@ Bolidas exhibit no discernible sexual dimorphism or gender, and each bolida is c
 
 ## Bolida, Bolida Miner
 
-**Source**:: _Alien Archive 2 pg. 20_
+**Source**:  _Alien Archive 2 pg. 20_
 
 ## Bolida Miner Cr 2
 
@@ -69,3 +82,5 @@ CN Medium vermin
 
 The following extra content was found for this creature:  
 \- Bolida Race Entry
+
+

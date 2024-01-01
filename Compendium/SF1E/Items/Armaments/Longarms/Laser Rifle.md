@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 9 / 13 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,77 +20,71 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Laser Rifle, Aphelion
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 9;
-**Price**:: 14,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d6 F; **Range**:: 120 ft.;
+**Level**:: 9
+**Price**:: 14300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d6 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Laser Rifle, Azimuth
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
 **Level**:: 1
 **Price**:: 425  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 F; **Range**:: 120 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Laser Rifle, Corona
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 6;
-**Price**:: 4,650  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 F; **Range**:: 120 ft.;
+**Level**:: 6
+**Price**:: 4650  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Laser Rifle, Perihelion
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 13;
-**Price**:: 53,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d6 F; **Range**:: 130 ft.;
+**Level**:: 13
+**Price**:: 53800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d6 F; 
+**Range**:: 130 ft.
 **Critical**:: burn 2d6  
 **Capacity**:: 100 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Laser Rifle, Parallax
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 17;
-**Price**:: 248,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 8d6 F; **Range**:: 150 ft.;
+**Level**:: 17
+**Price**:: 248000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 8d6 F; 
+**Range**:: 150 ft.
 **Critical**:: burn 4d6  
 **Capacity**:: 100 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Laser Rifle, Zenith
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 20;
-**Price**:: 722,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 11d6 F; **Range**:: 150 ft.;
+**Level**:: 20
+**Price**:: 722000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 11d6 F; 
+**Range**:: 150 ft.
 **Critical**:: burn 5d6  
 **Capacity**:: 100 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —

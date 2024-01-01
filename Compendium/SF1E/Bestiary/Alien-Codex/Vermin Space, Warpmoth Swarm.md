@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 6
-Environment: any vacuum  
+Environment: any vacuum
 hp: 90
-modifier: 5
+Initmod: 5
 name: Vermin (Space), Warpmoth Swarm
 statblock: true
 tags: 
-Type: N Fine vermin (swarm)  
+Type: N Fine vermin (swarm)
+combatType: combatant
+alignment: N
+size: fine
+type(subtype): vermin(swarm)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - delusion(3-6)
+source: Alien Archive 2
 ---
 
 # Vermin (SPACE), Warpmoth Swarm
@@ -18,7 +31,7 @@ Asteroid lice and planetoid beetles feed on minerals in the rock of their airles
 
 Xenobiologists theorize many space vermin evolved in special circumstances. Necropedes were once centipede-like scavengers on Eox; they now have a bite that can digest undead flesh. A warpmoth is like a glowing blue-white speck attracted to moving light, such as other warpmoths or passing starships. Gathering in swarms and following ships helps the moths feed and mate. Comet wasps create nests in frozen interstellar bodies. These icy, venomous vespids lay their eggs in living creatures.
 
-**Source**:: _Alien Archive 2 pg. 132_
+**Source**:  _Alien Archive 2 pg. 132_
 
 ## Warpmoth Swarm Cr 6
 
@@ -55,3 +68,5 @@ N Fine vermin (swarm)
 ### Special Abilities
 
 **Disorienting Aura (Ex)** A warpmoth swarm creates an oscillating light (colloquially called its warp) that is disorienting. A creature that is within this aura, can see the light, and fails a DC 14 Will saving throw can move at only half speed, rounded down to the nearest 5-foot increment. This is a mind-affecting effect.
+
+

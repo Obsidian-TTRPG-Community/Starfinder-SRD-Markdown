@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 10
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Medical Inhaler
 
 **Source**:: _Galaxy Exploration Manual pg. 128_  
-**Level** 1;
+**Level**:: 1
 **Price**::  10  
-**Hands**:: 1**Bulk** —
+**Hands**:: 1
+**Bulk**:: —
 
 ### Description
 

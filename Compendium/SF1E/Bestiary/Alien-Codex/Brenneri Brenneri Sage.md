@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Varturan)  
+Environment: any (Varturan)
 hp: 32
-modifier: 1
+Initmod: 1
 name: Brenneri, Brenneri Sage
 statblock: true
 tags: 
-Type: N Medium humanoid (brenneri)  
+Type: N Medium humanoid (brenneri)
 ---
 
 # Brenneri, Brenneri Sage
@@ -22,7 +22,7 @@ Though most brenneris find themselves acting as ambassadors of some kind or perf
 
 Though brenneris’ natural empathy for the emotional journeys of others usually serves them well, it can sometimes bring them into conflict with others. They might, for example, compulsively attempt to intervene as councilor or intermediary in cases where the involved parties aren’t interested in outside interference—and others may find brenneris’ well-meaning attempts to help condescending or intrusive. It’s not uncommon to hear tales about brenneri companions who were “too helpful,” insisting on trying to assist someone in a rough emotional state even after being declined repeatedly. In some circles, this has earned the species a reputation for nosiness, though even then, few would consider a brenneri’s interest malicious.
 
-**Source**:: _Alien Archive 3 pg. 8_
+**Source**:  _Alien Archive 3 pg. 8_
 
 ## Brenneri Sage Cr 3
 

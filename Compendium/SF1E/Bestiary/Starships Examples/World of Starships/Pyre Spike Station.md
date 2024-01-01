@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 18
-Type: Colossal dreadnought (space station)
+type: Colossal dreadnought (space station)
 ---
 
 # Pyre Spike Station
 
-> [!infobox|locr n-th clean]
->  [[Starship_PyrePikeStation.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_PyrePikeStation.jpg|Spielern zeigen!]
 > 
 Colossal dreadnought (space station), **Tier** 18 
 **Speed** 2; **Maneuverability** poor (turn 3); **Drift** —  

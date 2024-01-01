@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: Medium transport 
+type: Medium transport 
 ---
 
 # Norikama Dropship
 
-> [!infobox|locr n-th clean]
->  [[Starship_NorikamaDropship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_NorikamaDropship.jpg|Spielern zeigen!]
 > 
 Medium transport, **Tier** 8 
 **Speed** 12; **Maneuverability** average (turn 2); **Drift** 2  

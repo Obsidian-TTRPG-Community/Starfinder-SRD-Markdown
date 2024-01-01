@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 13  
-price: 47,800
+
+price: 47800
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Quantum Tunneling Coverall
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 13;
+**Level**:: 13
 **Price**::  47800  
-**Capacity**:: 20; **Usage** 4/use  
-**Hands** —; **Bulk** 1
+**Capacity**:: 20 **Usage** 4/use  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

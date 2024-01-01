@@ -3,7 +3,7 @@ aliases:
 cr: 2
 Environment: any
 hp: 42
-modifier: 4
+Initmod: 4
 name: Balco Unctar
 statblock: true
 tags: 

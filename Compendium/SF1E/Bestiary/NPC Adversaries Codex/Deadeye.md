@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 250
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Deadeye
-statblock: true
-Subtype: Assassins
+statblock: true(Assassins
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Deadeye

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1/2
-Environment: any (Vesk-2)  
+Environment: any (Vesk-2)
 hp: 12
-modifier: 0
+Initmod: 0
 name: Ijtikri
 statblock: true
 tags: 
-Type: N Medium aberration  
+Type: N Medium aberration
 ---
 
 # Ijtikri
@@ -26,7 +26,7 @@ Ijtikris started as nomadic hunter-gatherers. Adoption of stone tools 6,000 year
 
 Ijtikris clashed with the vesk most strongly over ancient ruins that predate ijtikri stone-age culture. Most are little more than foundations among paved plazas. Nevertheless, ijtikris avoided these places. The vesk instead explored them, despite ijtikri pleading, especially the island of Trafodi, which had intact edifices. Within a vault on Trafodi, vesk discovered the Trafodi Paradox. This artifact was lost in transit to Vesk Prime, supposedly to the Swarm, though rumors speak of another possibility.
 
-**Source**:: _Alien Archive 3 pg. 54_
+**Source**:  _Alien Archive 3 pg. 54_
 
 ## Ijtikri Cr 1/2
 

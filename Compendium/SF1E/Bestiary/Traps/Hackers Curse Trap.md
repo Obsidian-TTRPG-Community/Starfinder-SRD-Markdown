@@ -1,13 +1,13 @@
 ---
 aliases:
-  - Hacker's Curse Trap
-cr: 7
-Environment: any
+  - Hacker's Curse Trap---
+cr: 7)
+environment: any
 hp: 
 name: Hackers Curse Trap
 statblock: true
 tags: 
-Type: Trap
+type: Trap
 ---
 **Source** [_Starfinder Core Rulebook pg. 413_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
 **XP** 3,200  

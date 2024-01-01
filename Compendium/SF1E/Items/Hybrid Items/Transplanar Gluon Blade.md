@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 15 / 18 / 20 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Occasionally, abductees manage to escape from grays with a transplanar gluon bla
 ## Transplanar Gluon Blade, Astral
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 18;
-**Price**::  450,000; **Bulk** L
+**Level**:: 18
+**Price**::  450000 
+**Bulk**:: L
 
 ### Description
 
@@ -25,8 +26,9 @@ You cut open a portal between the Material Plane and the Astral Plane.
 ## Transplanar Gluon Blade, Ethereal
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 15;
-**Price**::  135,000; **Bulk** L
+**Level**:: 15
+**Price**::  135000 
+**Bulk**:: L
 
 ### Description
 
@@ -35,8 +37,9 @@ You cut open a portal between the Material Plane and the Ethereal Plane.
 ## Transplanar Gluon Blade, Shadow
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 20;
-**Price**::  1,100,000; **Bulk** L
+**Level**:: 20
+**Price**::  1100000 
+**Bulk**:: L
 
 ### Description
 

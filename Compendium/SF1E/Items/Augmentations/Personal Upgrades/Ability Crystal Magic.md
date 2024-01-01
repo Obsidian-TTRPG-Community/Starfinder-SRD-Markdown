@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 3 / 7 / 14
+Item:
 price:  
-System: /
+
 tags: 
 Type: Personal Upgrade
 ---
@@ -11,18 +11,18 @@ This crystal formed a mystical connection to the memories of heroes long ago. An
 ## Ability Crystal (MAGIC), Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 212_  
-**Item Level** 3;
-**Price**::  1,400; **Ability Modifier** +2  
+**Level**:: 3
+**Price**::  1400 **Ability Modifier** +2  
 
 ## Ability Crystal (MAGIC), Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 212_  
-**Item Level** 7;
-**Price**::  6,500; **Ability Modifier** +4  
+**Level**:: 7
+**Price**::  6500 **Ability Modifier** +4  
   
 
 ## Ability Crystal (MAGIC), Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 212_  
-**Item Level** 14;
-**Price**::  75,000; **Ability Modifier** +6
+**Level**:: 14
+**Price**::  75000 **Ability Modifier** +6

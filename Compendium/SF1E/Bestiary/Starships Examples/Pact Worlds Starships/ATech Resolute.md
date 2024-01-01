@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: Large heavy freighter  
+type: Large heavy freighter  
 ---
 
 # Atech Resolute
 
-> [!infobox|locr n-th clean]
->  [[Starship_AtechResolute.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_AtechResolute.jpg|Spielern zeigen!]
 > 
 Large heavy freighter, **Tier** 8
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

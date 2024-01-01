@@ -3,11 +3,23 @@ aliases:
 cr: 8
 Environment: any
 hp: 115
-modifier: 4
+Initmod: 4
 name: Marooned One
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
+combatType: expert
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - desolation(2-5)
+source: Alien Archive
 ---
 
 # Marooned One
@@ -72,3 +84,5 @@ Marooned ones typically have a lot of time to wait around before prey wanders in
 **Hijacking**: When trespassers invade a marooned one’s territory, the marooned one often uses its superior knowledge of the layout of the locale to bypass the intruders and get aboard their starship. Once inside, the undead gains control of the vessel by killing any crew still onboard and either flies the starship out of reach or permanently disables it, leaving those stranded to gradually die in their new hostile environs and potentially become marooned ones themselves. A marooned one equipped with a working starship often turns it into a deathtrap before luring more prey onboard. A very successful marooned one can pull this trick several times.
 
 **Sabotage**: If a marooned one can’t wrest a starship from its owners, it might play a longer game, stowing away upon the vessel and working to sabotage it once underway. Disrupting an oxygen recycler, while complicated, yields a wealth of suffering. In these cases, the dying crew will often go to their final rest hearing a raspy voice over the intercom whispering, “Sleep now. It will be over soon.”
+
+

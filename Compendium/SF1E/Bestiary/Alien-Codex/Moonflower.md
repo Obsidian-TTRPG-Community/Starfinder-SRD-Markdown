@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 8
-Environment: any land  
+Environment: any land
 hp: 125
-modifier: 0
+Initmod: 0
 name: Moonflower
 statblock: true
 tags: 
-Type: N Huge plant  
+Type: N Huge plant
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): plant(-)
+environment: lands
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - cluster(3-8)
+source: Alien Archive 2
 ---
 
 # Moonflower
@@ -24,7 +37,7 @@ Some massive moonflower specimens have been dubbed “titans” for their prodig
 
 Xenobotanists have long been intrigued by the moonflower’s ability to produce powerful bursts of light. After many unsuccessful attempts to harness this capability from moonflower tissue alone, they discovered that grafting a bioengineered light-producing nodule to another living creature could give that host the ability to activate a similar light-burst effect. Given the strange thoughts of moonflowers, however, few customers elect to have such an augmentation installed.
 
-**Source**:: _Alien Archive 2 pg. 84_
+**Source**:  _Alien Archive 2 pg. 84_
 
 ## Moonflower Cr 8
 
@@ -67,3 +80,5 @@ N Huge plant
 **Pod Spawn (Ex)** A Small or larger living creature that dies while enclosed in a digestive pod is digested, its body completely destroyed in 1 hour. Another hour later, the pod sprouts into a new moonflower. This new moonflower has features that bear a minor resemblance to the digested creature. Any equipment the digested creature carried remains inside the new moonflower.
 
 **Swallow Whole (Ex)** If a moonflower successfully swallows a target, that creature remains inside the moonflower for 2 rounds, during which the victim takes no damage and the moonflower can’t swallow another creature. After this time, the target is enclosed in a fibrous digestive pod and expelled into a space adjacent to the moonflower. The pod then acts as the swallowing creature, with the same swallow whole statistics but now able to deal acid damage. A creature can’t use Athletics to climb out of this enclosing pod. Other creatures can attack the pod, but the enclosed creature takes damage equal to half the damage dealt to the pod. An external attacker can avoid dealing the enclosed creature damage by using a bladed weapon to make one attack against the pod as a full action.
+
+

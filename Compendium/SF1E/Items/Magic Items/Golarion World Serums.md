@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3
+
 price:    
 tags: 
 Type: Magic Item
@@ -10,8 +10,9 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Golarion World Serums, Cheliax Cherry
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -22,8 +23,9 @@ This tangy, red beverage bears a label with a frustrated cartoon devil—complet
 ## Golarion World Serums, Geb Grape
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -32,8 +34,9 @@ The label of this deep purple beverage features a bumbling cartoon zombie chasin
 ## Golarion World Serums, Lastwall Lemon
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -42,8 +45,9 @@ The label of this tart, yellow beverage features a cartoon armored knight holdin
 ## Golarion World Serums, Mwangi Mint
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -52,8 +56,9 @@ Above text reading, “A garden of refreshment,” an image of a cartoonishly gi
 ## Golarion World Serums, Osirion Orange
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -62,8 +67,9 @@ The label of this citrusy beverage features a shambling cartoon mummy wrapped in
 ## Golarion World Serums, Shackles Sour
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 
@@ -72,8 +78,9 @@ This electric blue beverage comes in a bottle featuring a cartoon pirate with an
 ## Golarion World Serums, Taldor Toffee
 
 **Source**:: _Ports of Call pg. 73_  
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 

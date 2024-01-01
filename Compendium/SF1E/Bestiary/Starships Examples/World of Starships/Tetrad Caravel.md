@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: Medium transport 
+type: Medium transport 
 ---
 
 # Tetrad Caravel

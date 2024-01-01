@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,47 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Rifle, Avalanche-class
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 18;
-**Price**:: 410,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d8 C; **Range**:: 60 ft.;
+**Level**:: 18
+**Price**:: 410200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d8 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —
 
 ## Zero Rifle, Frostbite-class
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
 **Level**:: 4
-**Price**:: 2,330  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 C; **Range**:: 60 ft.;
+**Price**:: 2330  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Zero Rifle, Hailstorm-class
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 8;
-**Price**:: 10,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 C; **Range**:: 60 ft.;
+**Level**:: 8
+**Price**:: 10100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —
 
 ## Zero Rifle, Blizzard-class
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
 **Level**:: 14
-**Price**:: 79,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d8 C; **Range**:: 60 ft.;
+**Price**:: 79800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d8 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —

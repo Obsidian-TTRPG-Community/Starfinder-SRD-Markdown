@@ -1,15 +1,29 @@
 ---
 aliases: 
 cr: 12
-Environment: any 
+Environment: any
 hp: 200
-modifier: 8
+Initmod: 8
 name: Ahav
 statblock: true
 tags: 
-Type: N Huge construct (technological)  
+Type: N Huge construct (technological)
+combatType: combatant
+alignment: N
+size: huge
+type (subtype): construct(technological)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - unit(1) + soldiers(10-12)
+source: Alien Archive
 ---
-
+```statblock
+creature: Ahav
+```
 # Ahav
 
 **XP 19,200**  
@@ -65,3 +79,5 @@ Unfortunately, since AHAVs’ basic programming leaves little room for independe
 Before they are programmed, AHAVs are outfitted with Mission Dependent Loadouts (MODELs for short), which are special abilities and equipment that aid a robot in its particular mission. An AHAV focused on reconnaissance might have an advanced sensor suite or stealth capabilities, while one intended to go head to head with a superior enemy force might have augmented weaponry. A sufficiently astute observer can use the MODEL of an AHAV to puzzle out its objective.
 
 AHAVs are built to last—a feature that sometimes means their objectives fail before they do. For instance, an AHAV programmed to guard a particular site will continue to do so even though its handlers have long since perished. While such a construct might seem to be a sad sight, it pales in comparison to those AHAVs whose objectives have become unachievable or internally inconsistent over time. Such a state introduces subtle errors into the AHAV’s programming, which can result in behavior that would be called insane if exhibited by a flesh-and-blood creature. A technician who can uncover that robot’s original purpose might be able to speak with the machine, convincing it of the error of its ways or the irrationality of its objective, but AHAVs have an inherently confrontational worldview and are difficult to reason with. AHAVs that successfully confront such a misalignment are most likely to shut down entirely, becoming nothing but inert metal and circuitry.
+
+

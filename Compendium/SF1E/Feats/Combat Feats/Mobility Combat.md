@@ -1,5 +1,5 @@
 ---
-aliases: 
+aliases: Mobility
 Benefit: You gain a +4 bonus to your Armor Class against attacks of opportunity that you provoke by leaving a threatened square.
 Prerequisites: Dex 13.
 tags: 

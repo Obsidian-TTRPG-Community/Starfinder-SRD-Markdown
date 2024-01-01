@@ -3,8 +3,8 @@ NoteType: Spell
 Level: 4
 School:divination (scrying) 
 Mystic:
-Precog: "`ris:Checkbox`"
-Technomancer: "`ris:Checkbox`"
+Precog: X
+Technomancer: X
 Witchwarper:
 ---
 # ARCANE EYE

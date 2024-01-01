@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 18
-Type: Colossal Dreadnought
+type: Colossal Dreadnought
 ---
 
 # Sovereign Vindicator

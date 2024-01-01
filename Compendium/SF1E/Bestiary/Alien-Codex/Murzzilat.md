@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any underground or water  
+Environment: any underground or water
 hp: 50
-modifier: 3
+Initmod: 3
 name: Murzzilat
 statblock: true
 tags: 
-Type: N Medium animal (aquatic)  
+Type: N Medium animal (aquatic)
 ---
 
 # Murzzilat
@@ -23,7 +23,7 @@ Murzzilats have scent glands along their backs, which they rub along stone to ma
 Incredibly vocal, murzzilats have a multitude of calls, cries, and songs. From clicking trills and deep bellows to haunting nocturnes and joyful refrains, their many songs echo throughout the tunnels and caverns they call home, both above and below water. Considered holy to some adherents of the goddess Shelyn, murzzilat songs have inspired artists throughout the Pact Worlds and beyond. Five years ago, a team of xenozoologists set out to catalog murzzilats’ songs, recording vocalizations from multiple worlds. Preliminary research from the ongoing study indicates murzzilats consistently add new vocalizations to their repertoires. Interested zoologists often seek to enlist the aid of locals and trustworthy explorers to track the evolution of the creatures’ songs.
 
 Murzzilats find the death or theft of their young, called bantlings, incredibly distressing; such an occurrence causes them to enter a torpor for a prolonged period of time, refusing to sing for months on end. Although both parents mourn, the parent that birthed the bantling will follow the scent of the deceased or missing bantling for miles in search of its remains, going as far as to collect the leavings from a dangerous predator.
-**Source**:: _Alien Archive 4 pg. 76_
+**Source**:  _Alien Archive 4 pg. 76_
 
 ## Murzzilat Cr 4
 

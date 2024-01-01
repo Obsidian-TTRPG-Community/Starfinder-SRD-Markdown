@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 1 / 5 
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -17,15 +17,17 @@ Advanced models also exist, granting blindsight (life) with a range of 20 feet r
 ## Medobserve Interface, Advanced
 
 **Source**:: _Tech Revolution pg. 53_  
-**Item Level** 11;
-**Price**::  23,850  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
-**Capacity**:: 10; **Usage** 1/10 minutes  
+**Level**:: 11
+**Price**::  23850  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
+**Capacity**:: 10 **Usage** 1/10 minutes  
 
 ## Medobserve Interface, Basic
 
 **Source**:: _Tech Revolution pg. 53_  
-**Item Level** 5;
-**Price**::  2,800  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
-**Capacity**:: 10; **Usage** 1/10 minutes
+**Level**:: 5
+**Price**::  2800  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
+**Capacity**:: 10 **Usage** 1/10 minutes

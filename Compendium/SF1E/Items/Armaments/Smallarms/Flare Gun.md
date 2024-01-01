@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 90
 tags: 
@@ -20,7 +20,8 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 **Price**:: 90  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d3 F; **Range**:: 30 ft.;
+**Damage**:: 1d3 F; 
+**Range**:: 30 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 1 flare; **Usage** 1  
 **Bulk**:: L

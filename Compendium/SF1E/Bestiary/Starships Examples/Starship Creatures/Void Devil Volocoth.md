@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: LE Medium starship outsider
+type: LE Medium starship outsider
 ---
 
 # Void Devil (VOLOCOTH)

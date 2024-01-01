@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 75
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Bloodfire Mystic
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Bloodfire Mystic

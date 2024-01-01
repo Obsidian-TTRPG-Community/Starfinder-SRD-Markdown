@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 10
-price: 17,500
+
+price: 17500
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Master
 
 **Source**:: _Ports of Call pg. 63_  
-**Level**:: 10;
+**Level**:: 10
 **Price**:: 17500  
-**Capacity**:: 40; **Usage** 1/round  
-**Hands**:: 2; **Bulk**:: 1
+**Capacity**:: 40 **Usage** 1/round  
+**Hands**:: 2 
+**Bulk**:: 1
 
 ### Description
 

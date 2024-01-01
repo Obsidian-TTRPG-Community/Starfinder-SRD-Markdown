@@ -3,11 +3,11 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 13
-modifier: 2
+Initmod: 2
 name: Undead Minion
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
 ---
 
 # Undead Minion
@@ -25,7 +25,7 @@ Undead minions can be formed from the corpses of any type of creature, though mo
 Use the following template grafts to create other versions of the undead minions presented here.
 
 
-**Source**:: _Alien Archive pg. 114_
+**Source**:  _Alien Archive pg. 114_
 
 ## Skeletal Undead Cr 1/2
 

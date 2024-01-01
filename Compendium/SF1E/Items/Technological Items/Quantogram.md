@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 9
-price: 15,800
+
+price: 15800
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Quantogram
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 9;
+**Level**:: 9
 **Price**::  15800  
-**Capacity**:: 40; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 40 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

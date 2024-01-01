@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 1 / 4 / 6
+Item:
 price:  
-System: Skin
+
 tags: 
 Type: Magitech
 ---
@@ -20,18 +20,21 @@ _Doppelganger morphic_ skin offers the same options as the advanced model, as w
 ## Morphic Skin, Advanced
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 4;
-**Price**::  2,030; **System** Skin  
+**Level**:: 4
+**Price**::  2030 
+**System**:: Skin  
 
 ## Morphic Skin, Basic
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 1;
-**Price**::  370; **System** Skin  
+**Level**:: 1
+**Price**::  370 
+**System**:: Skin  
   
 
 ## Morphic Skin, Doppelganger
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 6;
-**Price**::  4,400; **System** Skin
+**Level**:: 6
+**Price**::  4400 
+**System**:: Skin

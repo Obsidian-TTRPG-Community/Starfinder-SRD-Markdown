@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Nchak)  
+Environment: any (Nchak)
 hp: 25
-modifier: 0
+Initmod: 0
 name: Trox
 statblock: true
 tags: 
-Type: NG Large monstrous humanoid  
+Type: NG Large monstrous humanoid
+combatType: combatant
+alignment: NG
+size: large
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet: Nchak
+organization:
+  - solitary
+  - band(2-8)
+  - clan(9-20)
+source: Alien Archive 2
 ---
 
 # Trox
@@ -24,7 +36,7 @@ Trox often serve as spiritual guides and advisors to those curious about Hylax. 
 
 Trox devoted to Hylax wield hammers. To trox, these weapons are ancient symbols of constructive power, and are also useful for vanquishing threats to peace.
 
-**Source**:: _Alien Archive 2 pg. 126_
+**Source**:  _Alien Archive 2 pg. 126_
 
 ## Trox Cr 2
 
@@ -73,3 +85,5 @@ NG Large monstrous humanoid
 
 The following extra content was found for this creature:  
 \- Trox Race Entry
+
+

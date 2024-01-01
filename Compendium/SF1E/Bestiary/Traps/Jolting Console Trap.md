@@ -1,9 +1,9 @@
 ---
-name: Jolting Console Trap
+name: Jolting Console Trap---
 cr: 3
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 412_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

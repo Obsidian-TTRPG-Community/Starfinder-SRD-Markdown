@@ -1,18 +1,18 @@
 ---
-aliases: 
-cr: 1/2 
+aliases: ---
+cr: 1/2
 hp: 13
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Gang Tough
 statblock: true
 tags: 
-Type: Street Ganger
+type: Street Ganger
 ---
 
 # Gang Tough
 
-**Source**:: [_Pact Worlds pg. 178_](https://paizo.com/products/btpy9zkn?Starfinder-Pact-Worlds)
+**Source**:  [_Pact Worlds pg. 178_](https://paizo.com/products/btpy9zkn?Starfinder-Pact-Worlds)
 
 ## Gang Tough Cr 1/2
 

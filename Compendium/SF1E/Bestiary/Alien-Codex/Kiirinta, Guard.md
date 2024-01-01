@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Stabrisis-14)  
+Environment: any (Stabrisis-14)
 hp: 40
-modifier: 4
+Initmod: 4
 name: Kiirinta, Guard
 statblock: true
 tags: 
-Type: CN Small fey  
+Type: CN Small fey
 ---
 
 # Kiirinta, Guard
 
-[[AA4_Kiirinta_Guard.png|Spielern zeigen!]]
+[[AA4_Kiirinta_Guard.png|Spielern zeigen!]
 
 Kiirintas are small, moth-like creatures with brightly colored wings, six limbs, and a pair of feathery antennae above their insectile eyes. Their front two limbs have three grasping, finger-like appendages for manipulating objects. Their back limbs have several jagged claws, and they can rear up on their two hindmost limbs to reach their full height of 3 to 4 feet. Kiirintas can live up to 500 years and reach adulthood at 30.
 
@@ -24,7 +24,7 @@ Kiirinta society rewards boldness and daring, and the ability to recount one’s
 
 Recently, the Starfinder Society interceded on Stabrisis-14 when several weapon caches were dropped on the planet, inciting conflict within a kiirinta tribe and resulting in kiirintas’ introduction to the larger galaxy. Though still somewhat localized, word of the life forms and technologies on other planets is spreading quickly among kiirintas, and their natural curiosity is encouraging many to find their way off Stabrisis-14 to explore the universe. Kiirintas of both castes have taken an eager interest in newly discovered technologies and peoples.
 
-**Source**:: _Alien Archive 4 pg. 62_
+**Source**:  _Alien Archive 4 pg. 62_
 
 ## Guard Cr 3
 

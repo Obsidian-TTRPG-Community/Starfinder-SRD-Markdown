@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 450
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Survival Straw
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 2;
+**Level**:: 2
 **Price**::  450  
-**Capacity**:: 20; **Usage** See text  
-**Hands**:: 1**Bulk** —
+**Capacity**:: 20 **Usage** See text  
+**Hands**:: 1
+**Bulk**:: —
 
 ### Description
 

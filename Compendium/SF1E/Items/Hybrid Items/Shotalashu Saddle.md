@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 300
 tags: 
 Type: Hybrid Item
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Shotalashu Saddle
 
 **Source**:: _Alien Archive 2 pg. 115_  
-**Level** 1;
-**Price**::  300; **Bulk** —
+**Level**:: 1
+**Price**::  300 
+**Bulk**:: —
 
 ### Description
 

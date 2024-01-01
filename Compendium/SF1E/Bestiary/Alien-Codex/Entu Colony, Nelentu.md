@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: any forest or urban 
+Environment: any forest or urban
 hp: 105
-modifier: 2
+Initmod: 2
 name: Entu Colony, Nelentu
 statblock: true
 tags: 
-Type: N Medium animal (entu symbiote)  
+Type: N Medium animal (entu symbiote)
 ---
 
 # Entu Colony, Nelentu
@@ -22,7 +22,7 @@ The nelentu, one of the founding species of the Kreiholm Freehold, is a prominen
 
 Entu fungi of all kinds seek constant exposure to emotion and thought to thrive, and those involved with symbiotes prioritize their hosts’ physical needs. They prefer to enter symbiotic relationships with creatures who can benefit from their cellular mimicry, living as long as the host creature does—and dying along with it. Entu colonies, on the other hand, can survive for up to 300 years.
 
-**Source**:: _Alien Archive 4 pg. 34_
+**Source**:  _Alien Archive 4 pg. 34_
 
 ## Nelentu Cr 7
 

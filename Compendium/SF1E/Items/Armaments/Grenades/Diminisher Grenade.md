@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 9 / 12 / 15 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -15,11 +15,12 @@ A _diminisher grenade_ affects only items and spells of the indicated level or l
 ## Diminisher Grenade, Mk 1 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 270  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -32,11 +33,12 @@ Item level or CR 3; spell level 1st
 ## Diminisher Grenade, Mk 2 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 675  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -49,11 +51,12 @@ Item level or CR 6; spell level 2nd
 ## Diminisher Grenade, Mk 3 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 9;
-**Price**:: 2,100  
+**Level**:: 9
+**Price**:: 2100  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -67,10 +70,11 @@ Item level or CR 9; spell level 3rd
 
 **Source**:: _Starfinder Armory pg. 122_  
 **Level**:: 12
-**Price**:: 5,700  
+**Price**:: 5700  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -83,11 +87,12 @@ Item level or CR 12; spell level 4th
 ## Diminisher Grenade, Mk 5 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 15;
-**Price**:: 17,000  
+**Level**:: 15
+**Price**:: 17000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -100,11 +105,12 @@ Item level or CR 15; spell level 5th
 ## Diminisher Grenade, Mk 6 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 18;
-**Price**:: 51,000  
+**Level**:: 18
+**Price**:: 51000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

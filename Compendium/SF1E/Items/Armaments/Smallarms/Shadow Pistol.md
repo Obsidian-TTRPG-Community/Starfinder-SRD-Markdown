@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 7 / 12 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,10 +21,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 4
-**Price**:: 2,100  
+**Price**:: 2100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 C; **Range**:: 60 ft.;
+**Damage**:: 1d4 C; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -33,11 +34,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Shadow Pistol, Sable
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 7;
-**Price**:: 6,750  
+**Level**:: 7
+**Price**:: 6750  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 C; **Range**:: 60 ft.;
+**Damage**:: 1d10 C; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -47,10 +49,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 12
-**Price**:: 35,400  
+**Price**:: 35400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d10 C; **Range**:: 60 ft.;
+**Damage**:: 2d10 C; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -59,11 +62,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Shadow Pistol, Umbral
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 20;
-**Price**:: 855,000  
+**Level**:: 20
+**Price**:: 855000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d10 C; **Range**:: 60 ft.;
+**Damage**:: 5d10 C; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L

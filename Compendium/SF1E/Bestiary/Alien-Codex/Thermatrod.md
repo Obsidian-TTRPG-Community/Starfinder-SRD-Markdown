@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any warm mountains  
+Environment: any warm mountains
 hp: 39
-modifier: 1
+Initmod: 1
 name: Thermatrod
 statblock: true
 tags: 
-Type: CN Large magical beast (fire)  
+Type: CN Large magical beast (fire)
 ---
 
 # Thermatrod
@@ -24,7 +24,7 @@ Thermatrods’ method of reproduction adds to the mystery of their biology. They
 
 On rare occasions, a severe disturbance in a planet’s magnetic field can cause two thermatrods in the same place to completely expel their cores, forming a single new mass. This pile hardens into a huge, four-armed thermatrod that devours any and all nearby metal-laced stones and crystals. Known as a thermatrod caldera, this creature constantly seeks out more materials to consume, its burning appetite for ore almost impossible to sate. Unfortunate mining operations that happen to be in the same area as a caldera’s feeding grounds usually get torn apart by the ravenous beast, often killing any workers caught in the way, as well as causing hundreds of thousands of credits worth in damages and lost profits. As such, mining companies that operate in areas of known thermatrod activity often spend extra resources on defensive barriers and equip their security with cryo weapons. Otherwise, these corporations must rely on freelancers to travel to an overrun mine and deal with any rampaging behemoths, which can often run up an even steeper bill.
 
-**Source**:: _Alien Archive 4 pg. 124_
+**Source**:  _Alien Archive 4 pg. 124_
 
 ## Thermatrod Cr 3
 

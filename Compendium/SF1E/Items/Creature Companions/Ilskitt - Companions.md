@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-8
+
 Type: Tiny animal  
 ---
 # ILSKITT - COMPANIONS
@@ -9,7 +9,8 @@ Type: Tiny animal
 **Source**:: _Galaxy Exploration Manual pg. 67_  
 Natives of Vesk-3, ilskitts look like brightly colored owls with weasel-like torsos. They love to steal and hoard objects, and they are known to bring their owners gifts of items they “find.”
 
-## ILSKITTLEVELS 1-8
+## ILSKITT
+level:: 1-8
 
 Tiny animal  
 **Senses** darkvision 60 ft., low-light vision  

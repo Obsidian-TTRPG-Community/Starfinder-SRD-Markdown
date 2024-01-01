@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 8 / 11 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,47 +16,43 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Shock Truncheon, Aurora
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 11;
-**Price**:: 23,000  
+**Level**:: 11
+**Price**:: 23000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d12 E;
+**Damage**:: 2d12 E
 **Critical**:: arc 2d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2), stun
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2), stun
 
 ## Shock Truncheon, Static
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 8;
-**Price**:: 9,150  
+**Level**:: 8
+**Price**:: 9150  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d12 E;
+**Damage**:: 1d12 E
 **Critical**:: arc 1d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2), stun
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2), stun
 
 ## Shock Truncheon, Storm
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 16;
-**Price**:: 80,200  
+**Level**:: 16
+**Price**:: 80200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d12 E;
+**Damage**:: 3d12 E
 **Critical**:: arc 3d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 2), stun
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 2), stun
 
 ## Shock Truncheon, Tempest
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 19;
-**Price**:: 545,000  
+**Level**:: 19
+**Price**:: 545000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d12 E;
+**Damage**:: 6d12 E
 **Critical**:: arc 6d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 2), stun
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 2), stun

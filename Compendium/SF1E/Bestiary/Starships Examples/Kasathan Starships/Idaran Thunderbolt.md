@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: Small shuttle
+type: Small shuttle
 ---
 
 # Idaran Thunderbolt
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranThunderbolt.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranThunderbolt.jpg|Spielern zeigen!]
 > 
 Small shuttle, **Tier** 6 
 **Speed** 12; **Maneuverability** perfect (turn 0); **Drift** 1  

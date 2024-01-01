@@ -1,18 +1,30 @@
 ---
 aliases: 
 cr: 16
-Environment: any solar or vacuum  
+Environment: any solar or vacuum
 hp: 305
-modifier: 5
+Initmod: 5
 name: Plasma Ooze
 statblock: true
 tags: 
-Type: N Gargantuan ooze  
+Type: N Gargantuan ooze
+combatType: combatant
+alignment: N
+size: gargantuan
+type(subtype): ooze(-)
+environment:
+  - solar
+  - vacuum
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Plasma Ooze
 
-**Source**:: _Alien Archive 2 pg. 100_
+**Source**:  _Alien Archive 2 pg. 100_
 
 ## Plasma Ooze Cr 16
 
@@ -76,3 +88,5 @@ A small group of planar scions whose ancestry connects them to the Plane of Fire
 ## Plasma Diverter
 
 An AbadarCorp subsidiary based in the Burning Archipelago has partially reverse-engineered the plasma ooze’s plasmadraining capabilities and begun to sell a somewhat unstable prototype plasma diverter in a few select markets.
+
+

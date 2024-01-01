@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: Medium Explorer
+type: Medium Explorer
 ---
 
 # Sword-class Attack Vessel
 
-[[Starship_AttackVessel.jpeg|Spielern zeigen!]]
+[[Starship_AttackVessel.jpeg|Spielern zeigen!]
 Medium explorer, **Tier** 2 
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** 1  
 **AC** 14; **TL** 12  

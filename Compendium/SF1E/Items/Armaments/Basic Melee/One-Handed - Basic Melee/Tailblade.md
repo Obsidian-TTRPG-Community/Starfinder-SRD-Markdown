@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4
+
 Notetype: Weapon
-price: 2,300
+price: 2300
 tags: 
 type: Basic-Melee
 ---
@@ -12,10 +12,10 @@ type: Basic-Melee
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 4
-**Price**:: 2,300  
+**Price**:: 2300  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 S;
+**Damage**:: 1d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, operative, tail

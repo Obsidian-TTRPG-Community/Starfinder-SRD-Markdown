@@ -3,16 +3,16 @@ aliases:
 cr: 17
 Environment: any
 hp: 285
-modifier: 5
+Initmod: 5
 name: Planashar
 statblock: true
 tags: 
-Type: LE Small construct (magical, technological)  
+Type: LE Small construct (magical, technological)
 ---
 
 # Planashar
 
-**Source**:: _Alien Archive 4 pg. 80_
+**Source**:  _Alien Archive 4 pg. 80_
 
 ## Planashar Cr 17
 

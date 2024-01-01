@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 9 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,47 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Ice Carbine, Absolute-zero
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 17;
-**Price**:: 218,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 11d6 C & P; **Range**:: 80 ft.;
+**Level**:: 17
+**Price**:: 218000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 11d6 C & P; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Ice Carbine, Subzero
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 510  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 C & P; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 C & P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Ice Carbine, Gelid
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 9;
-**Price**:: 12,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d8 C & P; **Range**:: 60 ft.;
+**Level**:: 9
+**Price**:: 12400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d8 C & P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Ice Carbine, Ultracold
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 13;
-**Price**:: 47,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d6 C & P; **Range**:: 80 ft.;
+**Level**:: 13
+**Price**:: 47100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d6 C & P; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic

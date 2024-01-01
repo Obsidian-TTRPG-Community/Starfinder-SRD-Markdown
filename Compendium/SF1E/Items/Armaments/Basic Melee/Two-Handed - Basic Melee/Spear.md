@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 8 / 11 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,59 +15,49 @@ Spears come in many varieties. Buzzblade spears vibrate at high frequency. Zero-
 ## Spear, Buzzblade
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 11;
-**Price**:: 22,650  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 3d6 P;
+**Level**:: 11
+**Price**:: 22650  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 3d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, powered (capacity 40; usage 2), thrown (20 ft.)
+**Bulk**:: 1**Special**:: block, powered (capacity 40; usage 2), thrown (20 ft.)
 
 ## Spear, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
 **Level**:: 1
 **Price**:: 375  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d6 P;
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, block, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, block, thrown (20 ft.)
 
 ## Spear, Sentinel
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 8;
-**Price**:: 10,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 2d6 P;
+**Level**:: 8
+**Price**:: 10000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 2d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, block, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, block, thrown (20 ft.)
 
 ## Spear, Zero-edge
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 15;
-**Price**:: 107,350  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 7d6 P;
+**Level**:: 15
+**Price**:: 107350  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 7d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, block, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, block, thrown (20 ft.)
 
 ## Spear, Gravity
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 19;
-**Price**:: 552,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 12d6 P;
+**Level**:: 19
+**Price**:: 552000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 12d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, powered (capacity 40; usage 2), thrown (20 ft.)
+**Bulk**:: 1**Special**:: block, powered (capacity 40; usage 2), thrown (20 ft.)

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 17
-Type: Colossal dreadnought (colony ship)
+type: Colossal dreadnought (colony ship)
 ---
 
 # Compent Those Who Are
 
-> [!infobox|locr n-th clean]
->  [[Starship_CompentThoseWhoAre.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_CompentThoseWhoAre.jpg|Spielern zeigen!]
 > 
 Colossal dreadnought (colony ship), **Tier** 17  
 **Speed** 6; **Maneuverability** clumsy (turn 6); **Drift** 1  

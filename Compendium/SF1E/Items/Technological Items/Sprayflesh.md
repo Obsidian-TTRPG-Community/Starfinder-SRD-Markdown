@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5  
+
 price: 440
 tags: 
 Type: Technological Item
@@ -11,10 +11,11 @@ Type: Technological Item
 Medical gear allows you to attempt Medicine checks and determines the DC of Medicine checks to treat deadly wounds. See the Medicine skill on page 143 for more information.
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 5;
+**Level**:: 5
 **Price**::  440  
-**Capacity**:: 1; **Usage** 1  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 1 **Usage** 1  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

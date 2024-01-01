@@ -3,11 +3,11 @@ aliases:
 Level: 4
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: divination 
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Modify Outcome

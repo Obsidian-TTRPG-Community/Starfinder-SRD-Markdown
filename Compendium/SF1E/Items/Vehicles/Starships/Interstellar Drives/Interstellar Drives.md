@@ -11,7 +11,7 @@ Drift engines enable starships to overcome the limitations of traveling faster t
 ``` dataview
 TABLE
 BPCost as BP-Cost, MinimumPCU as Minimum-PCU
-FROM "Codex/Gear, Weapons, Vehicles & more/Vehicles/Starships/Interstellar Drives"
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Starships/Interstellar Drives"
 SORT BPCost ASC
 WHERE file.name != "Interstellar Drives"
 ```

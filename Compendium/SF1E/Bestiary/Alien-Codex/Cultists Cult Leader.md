@@ -3,11 +3,21 @@ aliases:
 cr: 8
 Environment: any
 hp: 105
-modifier: 1
+Initmod: 1
 name: Cultists, Cult Leader
 statblock: true
 tags: 
-Type: CE Medium humanoid (shirren)  
+Type: CE Medium humanoid (shirren)
+combatType: spellcaster
+alignment: CE
+size: medium
+type(subtype): humanoid(shirren)
+environment: any
+climate: any
+planet:
+  - 
+organization: any
+source: PW
 ---
 
 # Cultists, Cult Leader
@@ -17,7 +27,7 @@ Regardless of the object of their worship, cultists must operate in the shadowy 
 
 ## Cultists, Cult Leader
 
-**Source**:: _Pact Worlds pg. 169_
+**Source**:  _Pact Worlds pg. 169_
 
 ## Cult Leader Cr 8
 
@@ -61,3 +71,5 @@ At will—_mindlink_
 
 A cult leader directs a particular cult, although she might answer to a distant organizer within a very large sect. A cult leader is always an exceptionally manipulative individual, often drawn to a dark patron as a shortcut to power or as a refuge from a world that doesn't recognize her true glory. Most cult leaders become addicted to abusing the near-absolute control they enjoy over cult members, either through direct orders on behalf of their deity or indirectly by carefully phrased teachings that cultists obsessively follow. This is especially true in the case of shirren cult leaders, who find deciding what lore to teach and what to save for themselves physically intoxicating. A cult leader generally doesn't directly confront potential threats, preferring to have initiates and killers do the dirty work. Larger cults sometimes revolve around a circle of several cult leaders who protect one another only until one shows weakness.  
 **Adaptation:** This cult leader worships Urgathoa, but she could be a devotee of the Devourer or Zon-Kuthon with no changes. Other cult leaders' total skill bonus to Bluff checks is +16, and they don't have a skill bonus to Intimidate checks. A cult leader of Nyarlathotep has the star shaman connection, Bluff +16, Perception +21, and Piloting +16. A cult leader of Asmodeus or Lao Shu Po has the overlord connection, Bluff +16, and Diplomacy +21. A cult leader can also function as an influential evangelist serving a public religion.
+
+

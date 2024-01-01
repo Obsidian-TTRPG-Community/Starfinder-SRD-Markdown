@@ -1,6 +1,5 @@
 ---
 aliases: 
-Level: 3 / 6 / 9 / 12 / 15 / 18  
 price: 
 tags: 
 Type: Magic Item
@@ -11,7 +10,8 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 
 **Source**:: _Starfinder Armory pg. 112_  
 **Level**:: 3
-**Price**::  250; **Bulk** —
+**Price**::  250 
+**Bulk**:: —
 
 ### Description
 
@@ -22,8 +22,9 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 ## Elemental Gem, Mk 2
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 6;
-**Price**::  650; **Bulk** —
+**Level**:: 6
+**Price**::  650 
+**Bulk**:: —
 
 ### Description
 
@@ -32,8 +33,9 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 ## Elemental Gem, Mk 3
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 9;
-**Price**::  2,000; **Bulk** —
+**Level**:: 9
+**Price**::  2000 
+**Bulk**:: —
 
 ### Description
 
@@ -42,8 +44,9 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 ## Elemental Gem, Mk 4
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 12;
-**Price**::  5,000; **Bulk** —
+**Level**:: 12
+**Price**::  5000 
+**Bulk**:: —
 
 ### Description
 
@@ -52,8 +55,9 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 ## Elemental Gem, Mk 5
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 15;
-**Price**::  16,000; **Bulk** —
+**Level**:: 15
+**Price**::  16000 
+**Bulk**:: —
 
 ### Description
 
@@ -62,8 +66,9 @@ Each _elemental gem_ contains one elemental from a specific elemental plane. T
 ## Elemental Gem, Mk 6
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 18;
-**Price**::  49,000; **Bulk** —
+**Level**:: 18
+**Price**::  49000 
+**Bulk**:: —
 
 ### Description
 

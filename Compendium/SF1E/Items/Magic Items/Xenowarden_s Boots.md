@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 1
+
 price: 80
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Character Operations Manual pg. 22_  
-**Level** 1;
-**Price**::  80; **Bulk** L
+**Level**:: 1
+**Price**::  80 
+**Bulk**:: L
 
 ### Description
 

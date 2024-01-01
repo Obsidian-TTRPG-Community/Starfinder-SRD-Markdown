@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 11
-Environment: any hill, mountain, or urban  
+Environment: any hill, mountain, or urban
 hp: 180
-modifier: 3
+Initmod: 3
 name: Utesra, Phylarch
 statblock: true
 tags: 
-Type: N Large vermin  
+Type: N Large vermin
 ---
 
 # Utesra, Phylarch
@@ -18,7 +18,7 @@ Utesras are obligate parasitoids, able to reproduce only by incubating their egg
 
 Although stealthy, utesras favor ambushes over patiently stalking victims. However, ongoing settlement of their longstanding habitat has led to an increase in aggressive and opportunistic behavior. In addition to utesras increasingly breaking into small houses on Gaskar III, several medical evacuations of utesras’ victims have accidentally spread the vermin beyond that planet. Most infamously, a crew of biological surveyors attempted to flee to Absalom Station after being attacked by a phylarch, but by the time the starship emerged from the Drift, juvenile utesras had hatched and overrun the ship, killing its crew. The ship later crashed into Akiton, and the surviving utesras have since spread along the planet’s Edaio Rift as an invasive species—especially in the cliff city of Maro, where they prey upon humanoids. The creatures’ affinity for cliffs has even resulted in their taking over old skyscrapers and other artificial structures to form deadly hunting platforms where their haunting lures blend in with other urban lights.
 
-**Source**:: _Alien Archive 4 pg. 130_
+**Source**:  _Alien Archive 4 pg. 130_
 
 ## Phylarch Cr 11
 

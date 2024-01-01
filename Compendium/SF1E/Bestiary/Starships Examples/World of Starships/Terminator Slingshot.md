@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 7
-Type: Large heavy freighter
+type: Large heavy freighter
 ---
 
 # Terminator Slingshot
 
-> [!infobox|locr n-th clean]
->  [[Starship_TerminatorSlingshot.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_TerminatorSlingshot.jpg|Spielern zeigen!]
 > 
 
 Large heavy freighter, **Tier** 7 

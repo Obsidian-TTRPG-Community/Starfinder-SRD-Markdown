@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 3
-price: 1,500
+
+price: 1500
 tags: 
 Type: Technological Item
 ---
@@ -10,9 +10,10 @@ Type: Technological Item
 
 **Source**:: _Starfinder Armory pg. 103_  
 **Level**:: 3
-**Price**::  1,500  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** 2; **Bulk** 1
+**Price**::  1500  
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** 2 
+**Bulk**:: 1
 
 ### Description
 

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 15
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Skip Tracer
-statblock: true
-Subtype: Bounty Hunters
+statblock: true(Bounty Hunters
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Skip Tracer

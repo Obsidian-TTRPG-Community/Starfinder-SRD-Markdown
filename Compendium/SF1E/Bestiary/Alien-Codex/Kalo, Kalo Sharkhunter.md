@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any aquatic (Kalo-Mahoi)  
+Environment: any aquatic (Kalo-Mahoi)
 hp: 22
-modifier: 4
+Initmod: 4
 name: Kalo, Kalo Sharkhunter
 statblock: true
 tags: 
-Type: NG Medium monstrous humanoid (aquatic)  
+Type: NG Medium monstrous humanoid (aquatic)
+combatType: combatant
+alignment: NG
+size: medium
+type(subtype): monstrous humanoid(aquatic)
+environment: aquatic
+climate: any
+planet: Kalo-Mahoi
+organization:
+  - solitary
+  - pair
+  - squad(3-10)
+source: Alien Archive
 ---
 
 # Kalo, Kalo Sharkhunter
@@ -20,7 +32,7 @@ Few kalos lack an artistic or scholarly hobby, and though not overly tied to tra
 
 Although slower out of water, kalo warriors are renowned for their calm precision in battle, especially in zero-g and underwater, and known for using cryo weapons against enemies of other races, trusting their natural resistances to protect them from friendly fire. The average kalo is 5-1/2 feet tall and weighs 100 pounds.
 
-**Source**:: _Alien Archive pg. 68_
+**Source**:  _Alien Archive pg. 68_
 
 ## Kalo Sharkhunter Cr 2
 
@@ -59,3 +71,5 @@ NG Medium monstrous humanoid (aquatic)
 ### Special Abilities
 
 **Three-Dimensional Tactics (Ex)** Kalo sharkhunters are trained to fight in three dimensions. Whenever a kalo sharkhunter is fighting underwater, in zero-g, while flying, or in other situations where she isn’t restricted to a single plane of movement, she gains a +1 bonus to attack rolls in any round in which she has moved, even if it’s just a guarded step.
+
+

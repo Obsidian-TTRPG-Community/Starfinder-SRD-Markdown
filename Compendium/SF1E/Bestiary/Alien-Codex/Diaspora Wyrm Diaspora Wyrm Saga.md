@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 17
-Environment: cold aquatic (Nisis)  
+Environment: cold aquatic (Nisis)
 hp: 330
-modifier: 10
+Initmod: 10
 name: Diaspora Wyrm, Diaspora Wyrm Saga
 statblock: true
 tags: 
-Type: N Huge magical beast (aquatic)  
+Type: N Huge magical beast (aquatic)
 ---
 
 # Diaspora Wyrm, Diaspora Wyrm Saga
@@ -22,7 +22,7 @@ Today, the oldest and wisest wyrms, called sages, keep mostly to Nisis’s depth
 
 Wyrms that attack the settlements inside the planet’s ice shell are usually young ones that hunt for food and sport until maturity and duty draw them back into the depths. However, some sages have begun preparing the wyrms for the possibility that NiSis’s oceans are freezing permanently. Believing the only way to ensure their species’ survival is to colonize new worlds, these wyrms have been scouting the River Between, darkening its waters as they hunt for a way to escape their fate. Wyrms in Nisis’s depths have purposely darkened water there and released it in cycles, simultaneously darkening Nisis’s ocean. An average diaspora wyrm is 15 feet long and weighs 1,200 pounds. However, diaspora wyrms grow throughout their lives. The largest can be up to 30 feet long and weigh over 5 tons.
 
-**Source**:: _Alien Archive 3 pg. 16_
+**Source**:  _Alien Archive 3 pg. 16_
 
 ## Diaspora Wyrm Saga Cr 17
 

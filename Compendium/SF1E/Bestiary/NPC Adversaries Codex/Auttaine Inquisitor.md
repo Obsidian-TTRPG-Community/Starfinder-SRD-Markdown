@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 12
 hp: 185
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Auttaine Inquisitor
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Auttaine Inquisitor

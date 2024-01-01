@@ -3,11 +3,11 @@ aliases:
 cr: 15
 Environment: any
 hp: 200
-modifier: 5
+Initmod: 5
 name: Quantum Slime
 statblock: true
 tags: 
-Type: N Medium ooze  
+Type: N Medium ooze
 ---
 
 # Quantum Slime

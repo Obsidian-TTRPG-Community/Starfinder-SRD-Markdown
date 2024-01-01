@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 5
-Environment: any (the Drift)  
+Environment: any (the Drift)
 hp: 75
-modifier: 5
+Initmod: 5
 name: Garaggakal
 statblock: true
-tags: [1:]
-Type: CE Medium outsider (extraplanar)  
+tags:
+  - "1:"
+Type: CE Medium outsider (extraplanar)
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): outsider(extraplanar)
+environment: any
+climate: any
+planet: the Drift
+organization:
+  - solitary
+source: Alien Archive 2
 ---
 
 # Garaggakal
@@ -22,7 +33,7 @@ When it comes time to reproduce, a garaggakal seeks out an area of intense radia
 
 Garaggakals increase in size and strength as they age. A garaggakal can live for centuries, growing to more than twice its normal adult size. Called garaggakal polymaths, these elder creatures have a burning curiosity that drives them on ever-longer journeys through the Drift.
 
-**Source**:: _Alien Archive 2 pg. 54_, _Starfinder Incident at Absalom Station pg. 58_
+**Source**:  _Alien Archive 2 pg. 54_, _Starfinder Incident at Absalom Station pg. 58_
 
 ## Garaggakal Cr 5
 
@@ -61,3 +72,5 @@ CE Medium outsider (extraplanar)
 **Leech Life (Su)** As a standard action, a garaggakal can spend 1 Resolve Point to leech the life from one target within 30 feet. This deals 3d6 damage (Fortitude DC 13 half), and the garaggakal gains temporary Hit Points equal to the amount of damage dealt.
 
 **Phase Through (Su)** A garaggakal can momentarily shift out of phase with reality. As a full action, a garaggakal can spend 1 Resolve Point to phase through up to 15 feet of solid matter. If it attempts to phase through something that is more than 15 feet thick, the attempt fails, but the action and Resolve Points are still expended. A garaggakal cannot phase through force effects, such as force fields.
+
+

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 15
+
 NoteType: Armor
-price: 120,900
+price: 120900
 tags: 
 Type: Heavy Armor
 ---
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Enginerunner
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 15;
-**Price**::  120,900; **Category** Heavy  
-**EAC Bonus** +21; **KAC Bonus** +22; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk** 2
+**Level**:: 15
+**Price**::  120900 
+**Category**:: Heavy  
+
+**EAC**:: +21 
+**KAC**:: +22 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: 2
 
 ### Description
 

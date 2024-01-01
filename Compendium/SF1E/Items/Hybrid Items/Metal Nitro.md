@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14  
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -17,41 +17,45 @@ _Metal nitro_ can be safely used only on a vehicle that has an equal or higher 
 ## Metal Nitro, Gold
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 6;
-**Price**::  675; **Bulk** —
+**Level**:: 6
+**Price**::  675 
+**Bulk**:: —
 
 ### Description
 
-Speed × 2; damage 3d6
+Speed × 2 damage 3d6
 
 ---
 
 ## Metal Nitro, Silver
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 2;
-**Price**::  175; **Bulk** —
+**Level**:: 2
+**Price**::  175 
+**Bulk**:: —
 
 ### Description
 
-Speed × 1-1/2; damage 1d6
+Speed × 1-1/2 damage 1d6
 
 ## Metal Nitro, Platinum
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 10;
-**Price**::  2,700; **Bulk** —
+**Level**:: 10
+**Price**::  2700 
+**Bulk**:: —
 
 ### Description
 
-Speed × 2-1/2; damage 6d6
+Speed × 2-1/2 damage 6d6
 
 ## Metal Nitro, Star
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 14;
-**Price**::  10,800; **Bulk** —
+**Level**:: 14
+**Price**::  10800 
+**Bulk**:: —
 
 ### Description
 
-Speed × 3; damage 10d6
+Speed × 3 damage 10d6

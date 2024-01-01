@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: Personel Items
-Level: 1
+
 price: 1/50ft.
 tags: 
 Type: Personel Items

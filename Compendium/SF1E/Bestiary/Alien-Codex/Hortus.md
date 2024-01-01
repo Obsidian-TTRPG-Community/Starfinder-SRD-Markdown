@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Croban V)  
+Environment: any (Croban V)
 hp: 25
-modifier: 0
+Initmod: 0
 name: Hortus
 statblock: true
 tags: 
-Type: NG Medium plant  
+Type: NG Medium plant
 ---
 
 # Hortus
@@ -22,7 +22,7 @@ The few hortuses who act outside of Azlanti supervision are renegades. Either po
 
 An average hortus is 4-1/2 feet tall and weighs 200 pounds.
 
-**Source**:: _Alien Archive 3 pg. 50_
+**Source**:  _Alien Archive 3 pg. 50_
 
 ## Hortus Cr 2
 

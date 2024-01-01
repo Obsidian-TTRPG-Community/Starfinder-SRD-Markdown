@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: Large heavy freighter  
+type: Large heavy freighter  
 ---
 
 # DEATH’S Head Charon
 
-> [!infobox|locr n-th clean]
->  [[Starship_DeathsHandCharon.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_DeathsHandCharon.jpg|Spielern zeigen!]
 > 
 Large heavy freighter, **Tier** 9
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 2  

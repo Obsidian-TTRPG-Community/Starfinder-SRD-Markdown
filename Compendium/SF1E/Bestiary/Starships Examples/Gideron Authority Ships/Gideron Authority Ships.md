@@ -1,7 +1,4 @@
----
-aliases: 
-tags: 
----
+
 
 # Gideon Authority Starships
 

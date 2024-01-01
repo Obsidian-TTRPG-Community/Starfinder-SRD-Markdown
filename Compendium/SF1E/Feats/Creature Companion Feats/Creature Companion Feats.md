@@ -12,7 +12,7 @@ You can use the creature companion feats listed here only with a creature compan
 ``` dataview
 TABLE
 Prerequisites, Benefit
-FROM "Codex/Feats/Creature Companion Feats"
-SORT Name ASC
+FROM "Starfinder-SRD/SF1E/Compendium/Feats/Creature Companion Feats"
+SORT file.name ASC
 WHERE file.name != "Creature Companion Feats"
 ```

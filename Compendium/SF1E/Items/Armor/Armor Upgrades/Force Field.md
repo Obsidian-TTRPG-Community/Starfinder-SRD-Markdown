@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 3 / 6 / 10 / 12 / 14 / 16 / 17 / 18 / 20
+Item:
 NoteType: Armor
 price:  
 Slots: 2
@@ -33,85 +33,95 @@ More powerful force fields also have a fortification ability, which gives a perc
 ## Force Field, Black
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 8;
-**Price**::  10,500  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 8
+**Price**::  10500  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
 
 ## Force Field, Brown
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 3;
-**Price**::  1,600  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 3
+**Price**::  1600  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Purple
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 6;
-**Price**::  4,550  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 6
+**Price**::  4550  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, White
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 10;
-**Price**::  20,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 10
+**Price**::  20000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Gray
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 12;
-**Price**::  40,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 12
+**Price**::  40000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Green
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 14;
-**Price**::  80,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 14
+**Price**::  80000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Red
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 16;
-**Price**::  180,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 16
+**Price**::  180000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Blue
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 17;
-**Price**::  280,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 17
+**Price**::  280000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Orange
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 18;
-**Price**::  400,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L  
+**Level**:: 18
+**Price**::  400000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Force Field, Prismatic
 
 **Source**:: _Starfinder Core Rulebook pg. 205_  
-**Item Level** 20;
-**Price**::  1,000,000  
-**Slots** 2; **Armor Type** Any; **Bulk** L
+**Level**:: 20
+**Price**::  1000000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: L

@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 7-20
+
 Type: Large animal  
 ---
 # SWAMP STRIDER - COMPANIONS
@@ -10,7 +10,8 @@ Lashuntas have a long tradition of riding swamp striders, though the practice ha
 
 Even with these hurdles, swamp striders are a beloved curiosity. They most often appear in the lashunta strongholds of Asana, yet dozens of planets have also imported small populations of swamp striders.
 
-## SWAMP STRIDERLEVELS 7-20
+## SWAMP STRIDER
+level:: 7-20
 
 Large animal  
 **Senses** blindsense (scent) 60 ft.  

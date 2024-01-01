@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 35
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Emt
-statblock: true
-Subtype: Medical Staff
+statblock: true(Medical Staff
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Emt

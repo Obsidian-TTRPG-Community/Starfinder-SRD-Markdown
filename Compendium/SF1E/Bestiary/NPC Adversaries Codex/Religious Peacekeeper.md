@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 105
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Religious Peacekeeper
-statblock: true
-Subtype: Diplomats
+statblock: true(Diplomats
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Religious Peacekeeper

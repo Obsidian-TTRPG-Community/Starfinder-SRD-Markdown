@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: temperate and warm forests  
+Environment: temperate and warm forests
 hp: 70
-modifier: 5
+Initmod: 5
 name: Lumocantha
 statblock: true
 tags: 
-Type: N Large plant  
+Type: N Large plant
 ---
 
 # Lumocantha
@@ -22,7 +22,7 @@ Lumocanthas’ dye is popular in a variety of applications, though harvesting th
 
 Despite being capable of killing large creatures, lumocanthas are not carnivorous. They obtain nutrients from soil and sunlight like many other plants. While lumocanthas don’t require sleep, they do enter a state of diminished energy for a few hours in the middle of the night. During this period, their spines droop low and they’re slower to employ their lasers if they sense an approaching threat. Their laser spines are still functional even in the dead of night, however, as would-be dye thieves have found out when the plants spring back to life on being touched or damaged. Lumocanthas kept in darkness for more than a week temporarily lose their laser spine ability, and the flowers are often transported this way. This is dangerous for the plants though, as being kept in darkness for more than 2 weeks can starve the flowers to death.
 
-**Source**:: _Alien Archive 4 pg. 68_
+**Source**:  _Alien Archive 4 pg. 68_
 
 ## Ancient Cr 5
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6
-price: 3,750
+
+price: 3750
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Empathy Engine
 
 **Source**:: _Tech Revolution pg. 48_  
-**Level** 6;
+**Level**:: 6
 **Price**::  3750  
-**Capacity**:: 20; **Usage** 2/hour  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 2/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

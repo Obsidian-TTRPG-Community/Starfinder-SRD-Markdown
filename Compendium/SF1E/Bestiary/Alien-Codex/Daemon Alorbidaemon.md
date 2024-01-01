@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: any (Abaddon)  
+Environment: any (Abaddon)
 hp: 200
-modifier: 8
+Initmod: 8
 name: Daemon, Alorbidaemon
 statblock: true
 tags: 
-Type: NE Large outsider (daemon, evil, extraplanar)  
+Type: NE Large outsider (daemon, evil, extraplanar)
 ---
 
 # Daemon, Alorbidaemon
@@ -16,7 +16,7 @@ Originating from the desolate plane of Abaddon, daemons strive to end all life i
 
 Alucidaemons take the form of gaunt, child-like figures, their eyes covered by a visor feeding them various realities while they watch in slack-jawed awe. Nearly all of them move with the help of a floating pod that serves as an extension of their bodies; they control its movements with the mechanical gauntlets permanently locked onto their withered hands. Alorbidaemons appear as horrible amalgams of several alucidaemons, joined together in a connected set of pods to form a single body. A typical alucidaemon is 3 to 4 feet tall but weighs 200 pounds due to their mechanical components. A typical alorbidaemon is 4–5 feet tall but can weigh 1,000 pounds
 
-**Source**:: _Alien Archive 4 pg. 24_
+**Source**:  _Alien Archive 4 pg. 24_
 
 ## Alorbidaemon Cr 12
 

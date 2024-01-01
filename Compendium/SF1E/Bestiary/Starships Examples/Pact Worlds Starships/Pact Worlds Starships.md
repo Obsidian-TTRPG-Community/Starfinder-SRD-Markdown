@@ -1,7 +1,4 @@
----
-aliases: 
-tags: 
----
+
 
 # Pact Worlds Starships
 

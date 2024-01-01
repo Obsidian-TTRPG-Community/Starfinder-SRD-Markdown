@@ -1,18 +1,30 @@
 ---
 aliases: 
-cr: 8
-Environment: any sky (Liavara)  
+cr: spellcaster
+Environment: any sky (Liavara)
 hp: 105
-modifier: 1
+Initmod: 1
 name: Dreamer
 statblock: true
 tags: 
-Type: N Large aberration  
+Type: N Large aberration
+combatType: spellcaster
+alignment: N
+size: large
+type(subtype): aberration(-)
+environment: sky
+climate: any
+planet: Liavara
+organization:
+  - solitary
+  - pair
+  - flotilla(3-5)
+source: Alien Archive 2
 ---
 
 # Dreamer
 
-**Source**:: _Alien Archive 2 pg. 44_
+**Source**:  _Alien Archive 2 pg. 44_
 
 ## Dreamer Cr 8
 
@@ -74,3 +86,5 @@ A Dreamer’s defenses are almost entirely autonomic, but when seriously injured
 ## Synesthetic Items
 
 As Dreamers are generally protected by their barathu kin and Liavara’s administrators, only a few researchers have managed to study the creatures’ peculiar synesthetic abilities, for the most part surreptitiously and with the intent to monetize their discoveries, despite Liavarans’ best attempts to discourage these practices. These less-than-lofty aims have resulted in a few widespread applications: a drug known as dreamsnuff and the synesthetic weapon fusion.
+
+

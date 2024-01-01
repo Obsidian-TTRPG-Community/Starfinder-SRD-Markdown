@@ -1,10 +1,10 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: evocation (sonic) 
+
 tags: 
 Technomancer: 
 Witchwarper: 

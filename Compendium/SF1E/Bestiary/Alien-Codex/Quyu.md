@@ -3,16 +3,16 @@ aliases:
 cr: 6
 Environment: any
 hp: 80
-modifier: 3
+Initmod: 3
 name: Quyu
 statblock: true
 tags: 
-Type: NE Medium aberration  
+Type: NE Medium aberration
 ---
 
 # Quyu
 
-**Source**:: _Alien Archive 4 pg. 92_
+**Source**:  _Alien Archive 4 pg. 92_
 
 ## Quyu Cr 6
 

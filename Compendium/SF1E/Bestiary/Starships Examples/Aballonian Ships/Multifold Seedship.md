@@ -2,14 +2,14 @@
 aliases: 
 NoteType: Starship
 tags: 
-Tier: "11"
-Type: Colossal dreadnought (colony ship)
+Tier: 11
+type: Colossal dreadnought (colony ship)
 ---
 
 # Multifold Seedship - Tier 11
 
-> [!infobox|locr n-th clean]
->  [[Starship_MultifoldSeedship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_MultifoldSeedship.jpg|Spielern zeigen!]
 > 
 Huge bulk freighter, **Tier** 11
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** 1  

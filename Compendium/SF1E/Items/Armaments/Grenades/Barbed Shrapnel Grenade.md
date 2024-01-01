@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 10 / 15
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ This cruel grenade propels exceptionally jagged shrapnel, causing lasting pain. 
 ## Barbed Shrapnel Grenade, Mk 1
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 225  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ This cruel grenade propels exceptionally jagged shrapnel, causing lasting pain. 
 ## Barbed Shrapnel Grenade, Mk 2
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 580  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ This cruel grenade propels exceptionally jagged shrapnel, causing lasting pain. 
 ## Barbed Shrapnel Grenade, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 10;
-**Price**:: 2,500  
+**Level**:: 10
+**Price**:: 2500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ This cruel grenade propels exceptionally jagged shrapnel, causing lasting pain. 
 ## Barbed Shrapnel Grenade, Mk 4
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 15;
-**Price**:: 14,250  
+**Level**:: 15
+**Price**:: 14250  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

@@ -1,14 +1,14 @@
 ---
-aliases: 
-cr: 2
-Environment: any
+aliases: ---
+cr: 2)
+environment: any
 hp: 23
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Deirdrik
 statblock: true
 tags: 
-Type: HOTV NPC
+type: HOTV NPC
 ---
 
 # Deirdrik

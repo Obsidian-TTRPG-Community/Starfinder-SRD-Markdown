@@ -59,8 +59,8 @@ This is the number of armor upgrades that can be placed in the shield. Not all a
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Shields"
+Level, Shield-Bonus, Armor-Check-Penalty as ACP, Max-Dex, Upgrades as Upg, Bulk, Price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Shields"
 SORT Level ASC
 WHERE file.name != "Shields"
 ```

@@ -10,7 +10,7 @@ A creature can personalize [[Armor]] by purchasing and installing [[Armor]] upgr
 
 # Capacity
 
-For a technological [[Armor]] upgrade that requires charges to function, this entry lists the maximum size [[Battery]] the upgrade can hold. The batteries that upgrades hold can be recharged as normal using either a generator or a recharging station (see page 234). A magic [[Armor]] upgrade that can be used a certain number of times runs on magical charges; these charges are integral to the construction of the item and can’t be replenished with generators or batteries. Charges for a magic item either refresh each day or never refresh.  
+For a technological [[Armor]] upgrade that requires charges to function, this entry lists the maximum size [[Battery]] the upgrade can hold. The batteries that upgrades hold can be recharged as normal using either a generator or a recharging station (see page 234). A magic [[Armor]] upgrade that can be used a certain number of times runs on magical charges these charges are integral to the construction of the item and can’t be replenished with generators or batteries. Charges for a magic item either refresh each day or never refresh.  
 
 # Usage
 

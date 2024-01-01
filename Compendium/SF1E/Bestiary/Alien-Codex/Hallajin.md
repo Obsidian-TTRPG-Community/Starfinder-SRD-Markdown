@@ -3,11 +3,22 @@ aliases:
 cr: 17
 Environment: any
 hp: 280
-modifier: 5
+Initmod: 5
 name: Hallajin
 statblock: true
 tags: 
-Type: CN Large aberration  
+Type: CN Large aberration
+combatType: spellcaster
+alignment: CN
+size: large
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Hallajin
@@ -74,3 +85,5 @@ What hallajins want, if anything, is unclear. The little of their culture recove
 The unexplained behavior, strange powers, and eerie appearance of hallajins lead some intelligent creatures to revere them as examples of universal forces or enlightened beings. A few visiting scholars have started single-minded cults around the creatures, believing that hallajins hold the secrets to assisting corporeal beings in attaining a similarly evolved state, if only they can be persuaded to share them. Some think this is accomplished by attracting the attention of the lights of Hallas, and then communing and proving their worthiness in some fashion, while others think they can trick or even force the secret from hallajins. Hallajin cults tend to be obsessed with ancient artifacts from Hallas and strange electrical mechanisms designed to summon, communicate with, or even trap the objects of their worship. Though many fear the consequences of allowing such groups contact with the creatures, so far the Pact Worlds overseers have continued to grant these fanatics unrestricted access to Hallas.
 
 Due to their aberrant anatomy, it is incredibly difficult to determine the average size of a hallajin. Most scientists posit that they range from 14 to 20 feet in length and, as beings of energy, weigh next to nothing.
+
+

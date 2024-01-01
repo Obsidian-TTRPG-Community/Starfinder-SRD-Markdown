@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 10 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,47 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Rifle, Banshee
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 18;
-**Price**:: 364,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 So; **Range**:: 50 ft.;
+**Level**:: 18
+**Price**:: 364500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 So; 
+**Range**:: 50 ft.
 **Critical**:: deafen  
 **Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —
 
 ## Sonic Rifle, Thunderstrike
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
 **Level**:: 5
-**Price**:: 3,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 So; **Range**:: 50 ft.;
+**Price**:: 3400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 So; 
+**Range**:: 50 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Sonic Rifle, Lfd
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 10;
-**Price**:: 17,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 So; **Range**:: 50 ft.;
+**Level**:: 10
+**Price**:: 17000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 So; 
+**Range**:: 50 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —
 
 ## Sonic Rifle, Hfd
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
 **Level**:: 14
-**Price**:: 80,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d10 So; **Range**:: 50 ft.;
+**Price**:: 80200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d10 So; 
+**Range**:: 50 ft.
 **Critical**:: deafen  
 **Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —

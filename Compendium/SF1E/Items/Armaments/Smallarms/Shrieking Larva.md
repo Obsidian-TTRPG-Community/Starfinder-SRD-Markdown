@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 5
+
 Notetype: Weapon
-price: 2,800
+price: 2800
 tags: 
 type: Smallarm
 ---
@@ -11,10 +11,11 @@ type: Smallarm
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 5
-**Price**:: 2,800  
+**Price**:: 2800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 So; **Range**:: 30 ft.;
+**Damage**:: 1d8 So; 
+**Range**:: 30 ft.
 **Critical**:: deafen  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L

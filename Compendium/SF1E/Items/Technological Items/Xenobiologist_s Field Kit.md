@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 450
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Xenobiologist's Field Kit
 
 **Source**:: _Character Operations Manual pg. 22_  
-**Level** 2;
+**Level**:: 2
 **Price**::  450  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

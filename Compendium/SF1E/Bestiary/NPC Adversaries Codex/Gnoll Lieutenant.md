@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Gladiator Champion
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Gnoll Lieutenant

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 16 
+
 price:  
 tags: 
 Type: Technological Item
@@ -18,22 +18,25 @@ An intruder can try to disable one or more of the lock’s features while disabl
 ## Smart Lock, Average
 
 **Source**:: _Galaxy Exploration Manual pg. 129_  
-**Level** 4;
+**Level**:: 4
 **Price**::  1850  
-**Hands** 2; **Bulk** L
+**Hands** 2 
+**Bulk**:: L
 
 ---
 
 ## Smart Lock, Good
 
 **Source**:: _Galaxy Exploration Manual pg. 129_  
-**Level** 8;
+**Level**:: 8
 **Price**::  8700  
-**Hands** 2; **Bulk** L
+**Hands** 2 
+**Bulk**:: L
 
 ## Smart Lock, Superior
 
 **Source**:: _Galaxy Exploration Manual pg. 129_  
-**Level** 16;
+**Level**:: 16
 **Price**::  150000  
-**Hands** 2; **Bulk** L
+**Hands** 2 
+**Bulk**:: L

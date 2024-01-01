@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 8 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,46 +17,38 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 12
-**Price**:: 45,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d8 P & So;
+**Price**:: 45200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d8 P & So
 **Critical**:: confuse  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Singing Spear, Sopranino
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 4
-**Price**:: 2,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 P & So;
+**Price**:: 2200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 P & So
 **Critical**:: confuse  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Singing Spear, Soprano
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 8;
-**Price**:: 9,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 P & So;
+**Level**:: 8
+**Price**:: 9500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 P & So
 **Critical**:: confuse  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Singing Spear, Tenor
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 17;
-**Price**:: 247,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 11d8 P & So;
+**Level**:: 17
+**Price**:: 247000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 11d8 P & So
 **Critical**:: confuse  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)

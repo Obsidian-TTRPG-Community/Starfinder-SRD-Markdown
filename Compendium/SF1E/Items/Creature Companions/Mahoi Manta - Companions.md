@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Large animal (aquatic)  
 ---
 # MAHOI MANTA - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large animal (aquatic)
 **Source**:: _Interstellar Species pg. 82_  
 Resembling a five-eyed manta ray, a Mahoi manta is the traditional kalo mount and beast of burden. Mahoi mantas forge strong bonds with their favorite riders and range in color from pale greys and blues to black, with a rare few being pale pink or purple.
 
-## MAHOI MANTALEVELS 1-20
+## MAHOI MANTA
+level:: 1-20
 
 Large animal (aquatic)  
 **Senses** blindsight (scent) 60 ft, low-light vision  

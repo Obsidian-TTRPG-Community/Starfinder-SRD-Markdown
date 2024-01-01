@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 14
-Type: Gargantuan carrier
+type: Gargantuan carrier
 ---
 
 # Bmc Devastator
 
-> [!infobox|locr n-th clean]
->  [[Starship_DMCDevestator.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_DMCDevestator.jpg|Spielern zeigen!]
 > 
 Gargantuan carrier, **Tier** 14 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** 1  

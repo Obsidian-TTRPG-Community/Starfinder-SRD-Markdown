@@ -3,11 +3,11 @@ aliases:
 cr: 11
 Environment: any
 hp: 170
-modifier: 11
+Initmod: 11
 name: Spathinae, Spathinae Explorer
 statblock: true
 tags: 
-Type: CG Medium monstrous humanoid  
+Type: CG Medium monstrous humanoid
 ---
 
 # Spathinae, Spathinae Explorer
@@ -26,7 +26,7 @@ Even the spathinae do not know where they originated—any records of this place
 
 Most societies treat spathinae colonies as individuals, with the rights and obligations thereof. However, a few peoples, such as the Azlanti, see spathinae colonies as no more than a collection of bugs, and in such cases, the colonies have no rights at all.
 
-**Source**:: _Alien Archive 3 pg. 100_
+**Source**:  _Alien Archive 3 pg. 100_
 
 ## Spathinae Explorer Cr 11
 

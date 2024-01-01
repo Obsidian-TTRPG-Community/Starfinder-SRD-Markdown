@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 500
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Radiation Sweeper
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 2;
+**Level**:: 2
 **Price**::  500  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands**:: 1**Bulk** 1
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands**:: 1
+**Bulk**:: 1
 
 ### Description
 

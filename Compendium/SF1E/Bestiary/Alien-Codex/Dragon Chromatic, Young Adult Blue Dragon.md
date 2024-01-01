@@ -3,11 +3,22 @@ aliases:
 cr: 11
 Environment: any
 hp: 183
-modifier: 4
+Initmod: 4
 name: Dragon (Chromatic), Young Adult Blue Dragon
 statblock: true
 tags: 
-Type: LE Huge dragon (earth)  
+Type: LE Huge dragon (earth)
+combatType: combatant
+alignment: LE
+size: huge
+type(subtype): dragon(earth)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Dragon (CHROMATIC), Young Adult Blue Dragon
@@ -17,7 +28,7 @@ Dragons are powerful, reptilian creatures of high intelligence and ingenuity. Th
 Dragons in the Drakelands of Triaxus enjoy positions of rulership (often as CEOs) over the second-class humanoid citizens. Inveterate schemers, Triaxian dragons are always thinking ahead, and the risks involved in working for these dragons are matched only by the potential for lavish rewards.
 
 
-**Source**:: _Alien Archive pg. 38_
+**Source**:  _Alien Archive pg. 38_
 
 ## Young Adult Blue Dragon Cr 11
 
@@ -71,3 +82,5 @@ The following extra content was found for this creature:
 \- Green Dragon (Dragon (Chromatic)) Graft Template  
 \- Red Dragon (Dragon (Chromatic)) Graft Template  
 \- White Dragon (Dragon (Chromatic)) Graft Template
+
+

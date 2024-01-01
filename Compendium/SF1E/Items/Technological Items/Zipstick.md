@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 10
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Zipstick
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 1;
+**Level**:: 1
 **Price**::  10  
-**Capacity**:: 20; **Usage** 1/use  
-**Hands**:: 1**Bulk** —
+**Capacity**:: 20 **Usage** 1/use  
+**Hands**:: 1
+**Bulk**:: —
 
 ### Description
 

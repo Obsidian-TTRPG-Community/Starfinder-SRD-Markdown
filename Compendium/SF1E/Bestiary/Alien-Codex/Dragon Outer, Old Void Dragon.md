@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 18
-Environment: any vacuum  
+Environment: any vacuum
 hp: 350
-modifier: 7 
+Initmod: 7
 name: Dragon (Outer), Old Void Dragon
 statblock: true
 tags: 
-Type: NE Gargantuan dragon  
+Type: NE Gargantuan dragon
+combatType: expert
+alignment: NE
+size: gargantuan
+type(subtype): dragon(-)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Dragon (OUTER), Old Void Dragon
@@ -16,7 +26,7 @@ Rarer than chromatic and metallic dragons, outer dragons are born and live in th
 
 Outer dragons have forms similar to those of other true dragons, though their bodies are covered with more spiky protrusions, and their coloration patterns fluctuate as they move. Outer dragons have wings that allow them to move through vacuums and areas of no gravity with ease, thanks to some supernatural process that has yet to be fully understood.
 
-**Source**:: _Alien Archive 2 pg. 42_
+**Source**:  _Alien Archive 2 pg. 42_
 
 ## Old Void Dragon Cr 18
 
@@ -63,3 +73,5 @@ At will—_confusion_ (DC 23), _enervation_
 **Suffocating Breath (Su)** Instead of a cone of cold, a void dragon can breathe a 30-foot cone of energy that suffocates those it touches. Air-breathing creatures within the cone must succeed at a Fortitude save or begin attempting Constitution checks to avoid suffocation, even if they have environmental protections.
 
 An affected creature can attempt a new Fortitude saving throw at the beginning of each turn to shake off this effect and regain its air supply.
+
+

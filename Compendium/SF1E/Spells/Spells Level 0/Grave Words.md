@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 0
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: necromancy (language-dependent)
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Grave Words

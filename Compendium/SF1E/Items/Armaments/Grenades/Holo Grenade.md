@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 7
+
 price: 
 tags: 
 type: Grenades
@@ -19,7 +19,8 @@ A _holo grenade_ creates a preprogrammed illusion no larger than the blast radiu
 **Price**:: 50  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -36,7 +37,8 @@ A _holo grenade_ creates a preprogrammed illusion no larger than the blast radiu
 **Price**:: 300  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -49,11 +51,12 @@ A _holo grenade_ creates a preprogrammed illusion no larger than the blast radiu
 ## Holo Grenade, Mk 3 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 7;
+**Level**:: 7
 **Price**:: 900  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

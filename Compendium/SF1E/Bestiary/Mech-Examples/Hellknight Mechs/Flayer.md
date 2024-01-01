@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 3
-Type: Huge skirmisher
+type: Huge skirmisher
 ---
 
 # Flayer
 
-**Source**:: _Tech Revolution pg. 121_  
+**Source**:  _Tech Revolution pg. 121_  
 Huge skirmisher, **Tier** 3 
 **Operators** 1–2; **PP** 2 (3/turn, max 8)  
 **Speed** 80 ft.;  

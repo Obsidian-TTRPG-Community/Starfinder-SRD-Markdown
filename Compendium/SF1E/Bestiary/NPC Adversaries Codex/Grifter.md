@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 2
 hp: 25
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Grifter
-statblock: true
-Subtype: Charlatans 
+statblock: true(Charlatans
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Grifter

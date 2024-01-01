@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 35
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Vidgamer
-statblock: true
-Subtype: Influencer
+statblock: true(Influencer
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Vidgamer

@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 14
-Environment: any warm or temperate land  
+Environment: any warm or temperate land
 hp: 250
-modifier: 4
+Initmod: 4
 name: Plasmalisk
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
 ---
 
 # Plasmalisk
 
-**Source**:: _Alien Archive 4 pg. 82_
+**Source**:  _Alien Archive 4 pg. 82_
 
 ## Plasmalisk Cr 14
 

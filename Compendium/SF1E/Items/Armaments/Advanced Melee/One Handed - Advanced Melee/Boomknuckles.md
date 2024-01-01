@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 6 / 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Boomknuckles, Banshee
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 18;
-**Price**:: 380,000  
+**Level**:: 18
+**Price**:: 380000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d10 So;
+**Damage**:: 6d10 So
 **Critical**:: Push (15 ft.)  
 **Bulk**:: L
 **Special**:: Powered (capacity 40; usage 2), thruster, unbalancing
@@ -30,11 +30,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Boomknuckles, Thunderstrike
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 3;
-**Price**:: 1,400  
+**Level**:: 3
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Damage**:: 1d4 So
 **Critical**:: Push (5 ft.)  
 **Bulk**:: L
 **Special**:: Powered (capacity 20; usage 1), thruster, unbalancing
@@ -42,11 +42,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Boomknuckles, Lfd
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 6;
-**Price**:: 4,350  
+**Level**:: 6
+**Price**:: 4350  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 So;
+**Damage**:: 1d6 So
 **Critical**:: Push (10 ft.)  
 **Bulk**:: L
 **Special**:: Powered (capacity 20; usage 1), thruster, unbalancing
@@ -55,10 +55,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Tech Revolution pg. 60_  
 **Level**:: 12
-**Price**:: 36,700  
+**Price**:: 36700  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d10 So;
+**Damage**:: 2d10 So
 **Critical**:: Push (10 ft.)  
 **Bulk**:: L
 **Special**:: Powered (capacity 40; usage 2), thruster, unbalancing

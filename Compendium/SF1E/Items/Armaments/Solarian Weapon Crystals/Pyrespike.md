@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 9 / 12 / 15 / 18 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, Greater
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 18;
-**Price**:: 369,000  
+**Level**:: 18
+**Price**:: 369000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d6 F;
+**Damage**:: +4d6 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -26,11 +26,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, Shard
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 3;
-**Price**:: 1,400  
+**Level**:: 3
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 F;
+**Damage**:: +1 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -38,11 +38,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, Least
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 6;
-**Price**:: 4,255  
+**Level**:: 6
+**Price**:: 4255  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d3 F;
+**Damage**:: +1d3 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, Minor
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 9;
-**Price**:: 13,280  
+**Level**:: 9
+**Price**:: 13280  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d6 F;
+**Damage**:: +1d6 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -63,10 +63,10 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 
 **Source**:: _Interstellar Species pg. 79_  
 **Level**:: 12
-**Price**:: 35,500  
+**Price**:: 35500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d6 F;
+**Damage**:: +2d6 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -74,11 +74,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, Standard
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 15;
-**Price**:: 109,000  
+**Level**:: 15
+**Price**:: 109000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d6 F;
+**Damage**:: +3d6 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —
@@ -86,11 +86,11 @@ Often made from multihued obsidian, a pyrespike crystal softly thrums like a tin
 ## Pyrespike Crystals, True
 
 **Source**:: _Interstellar Species pg. 79_  
-**Level**:: 20;
-**Price**:: 856,000  
+**Level**:: 20
+**Price**:: 856000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d6 F;
+**Damage**:: +6d6 F
 **Critical**:: sicken  
 **Bulk**:: —
 **Special**:: —

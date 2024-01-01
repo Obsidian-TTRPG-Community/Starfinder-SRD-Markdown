@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 15
-Environment: any lunar  
+Environment: any lunar
 hp: 330
-modifier: 4
+Initmod: 4
 name: Giant, Moon Giant
 statblock: true
 tags: 
-Type: LN Huge humanoid (giant)  
+Type: LN Huge humanoid (giant)
+combatType: combatant
+alignment: LN
+size: huge
+type(subtype): humanoid(giant)
+environment: lunar
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - cult(3-6)
+source: Alien Archive 2
 ---
 
 # Giant, Moon Giant
@@ -15,7 +28,7 @@ Type: LN Huge humanoid (giant)
 Giants are humanoid creatures with great strength and mighty stature, standing from 9 feet to over 25 feet tall. They often live apart from other races, as even space stations intended to be inclusive of multiple species are often too small to comfortably accommodate a giant’s massive size. How welcoming these giants are to non-giant visitors depends on the specific giant society, though all giants can be unpredictable and dangerous to others.
 
 
-**Source**:: _Alien Archive 2 pg. 62_
+**Source**:  _Alien Archive 2 pg. 62_
 
 ## Moon Giant Cr 15
 
@@ -77,3 +90,5 @@ The following extra content was found for this creature:
 \- Sun Giant (Giant) Graft Template  
 \- Giant (Creature Subtype) Graft Template  
 \- Eclipse Giant (Giant) Graft Template
+
+

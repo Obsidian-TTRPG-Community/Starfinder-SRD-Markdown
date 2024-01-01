@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 11 / 14 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Pistol, Banshee
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 16;
-**Price**:: 191,000  
+**Level**:: 16
+**Price**:: 191000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d8 So; **Range**:: 40 ft.;
+**Damage**:: 4d8 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 80 charges; **Usage** 8  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 4
-**Price**:: 2,300  
+**Price**:: 2300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 So; **Range**:: 40 ft.;
+**Damage**:: 1d8 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Pistol, Lfd
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 11;
-**Price**:: 26,200  
+**Level**:: 11
+**Price**:: 26200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 So; **Range**:: 40 ft.;
+**Damage**:: 2d8 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -58,10 +61,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 14
-**Price**:: 71,300  
+**Price**:: 71300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d8 So; **Range**:: 40 ft.;
+**Damage**:: 3d8 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 60 charges; **Usage** 6  
 **Bulk**:: L

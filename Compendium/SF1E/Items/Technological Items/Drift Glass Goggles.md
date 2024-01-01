@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8
-price: 9,100
+
+price: 9100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Drift Glass Goggles
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 8;
+**Level**:: 8
 **Price**::  9100  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands** —; **Bulk** 1
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

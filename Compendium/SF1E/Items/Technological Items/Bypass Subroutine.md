@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 11 
-price: 23,000
+
+price: 23000
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Bypass Subroutine
 
 **Source**:: _Starfinder Armory pg. 98_  
-**Level** 11;
-**Price**::  23,000  
-**Hands** —; **Bulk** —
+**Level**:: 11
+**Price**::  23000  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4
-price: 2,000
+
+price: 2000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Efficient Bandolier
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 4;
-**Price**::  2,000; **Bulk** L
+**Level**:: 4
+**Price**::  2000 
+**Bulk**:: L
 
 ### Description
 

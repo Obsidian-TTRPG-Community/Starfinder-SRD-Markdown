@@ -1,7 +1,4 @@
----
-aliases: 
-tags: 
----
+
 
 # Shirren Starships
 

@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: N Medium starship magical beast  
+type: N Medium starship magical beast  
 ---
 
 # Giant Space Tardigrade
 
-**Source**:: _Alien Archive 3 pg. 40_
+**Source**:  _Alien Archive 3 pg. 40_
 
 N Medium starship magical beast, **Tier** 4 
 **Speed** 6; **Maneuverability** good (turn 1); **Drift** —  

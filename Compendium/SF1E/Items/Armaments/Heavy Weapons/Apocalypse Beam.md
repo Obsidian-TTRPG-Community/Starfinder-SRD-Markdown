@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 14 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Apocalypse Beam, Corona
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 8;
-**Price**:: 9,500  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d6 F; **Range**:: 60 ft.;
+**Damage**:: 3d6 F 
+**Range**:: 60 ft.
 **Critical**:: Burn 1d6  
-**Capacity**:: 40 charges ; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 40 charges  
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: Line, sniper (150 ft.), unwieldy
 
 ## Apocalypse Beam, Perihelion
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 14
-**Price**:: 75,000  
-**Hands**:: 2;
+**Price**:: 75000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d6 F; **Range**:: 60 ft.;
+**Damage**:: 7d6 F 
+**Range**:: 60 ft.
 **Critical**:: Burn 2d6  
-**Capacity**:: 80 charges ; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 80 charges  
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: Line, sniper (200 ft.), unwieldy
 
 ## Apocalypse Beam, Zenith
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 20;
-**Price**:: 875,000  
-**Hands**:: 2;
+**Level**:: 20
+**Price**:: 875000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 14d6 F; **Range**:: 60 ft.;
+**Damage**:: 14d6 F 
+**Range**:: 60 ft.
 **Critical**:: Burn 4d6  
-**Capacity**:: 100 charges ; **Usage** 20  
-**Bulk**:: 2;
+**Capacity**:: 100 charges  
+**Usage** 20  
+**Bulk**:: 2
 **Special**:: Line, sniper (250 ft.), unwieldy

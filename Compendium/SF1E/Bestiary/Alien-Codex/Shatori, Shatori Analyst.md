@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Perdure)  
+Environment: any (Perdure)
 hp: 43
-modifier: 3
+Initmod: 3
 name: Shatori, Shatori Analyst
 statblock: true
 tags: 
-Type: N Medium humanoid (shatori)  
+Type: N Medium humanoid (shatori)
 ---
 
 # Shatori, Shatori Analyst
@@ -26,7 +26,7 @@ When the Signal provided Drift travel to the shatoris, they had already expanded
 
 The combination of shatori philosophy, dread of extinction, and desire for remembrance makes many averse to risk. Such shatoris remain in imperial space, hunting for ways to alter their fate. A few shatoris, however, are bold enough to take greater risks and travel the galaxy in search of answers and new possibilities.
 
-**Source**:: _Alien Archive 3 pg. 94_
+**Source**:  _Alien Archive 3 pg. 94_
 
 ## Shatori Analyst Cr 4
 

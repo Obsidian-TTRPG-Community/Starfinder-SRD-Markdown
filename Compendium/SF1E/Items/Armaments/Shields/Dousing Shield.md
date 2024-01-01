@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 12 / 17
+
 price: 
 tags: 
 type: Shield
@@ -14,31 +14,43 @@ A dousing shield looks similar to a standard riot shield, though it is more ofte
 ## Basic
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 900  
-**Shield Bonus** +1/+1; **Max Dex** +3; **Armor Check Penalty** -2  
-**Bulk**:: 2; **Upgrades** 1
+**Shield-Bonus**:: +1/+1
+**Max-Dex**:: +3
+**Armor-Check-Penalty**:: -2  
+**Bulk**:: 2
+**Upgrades**:: 1
 
 ## Field
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 7;
-**Price**:: 6,800  
-**Shield Bonus** +1/+2; **Max Dex** +4; **Armor Check Penalty** -2  
-**Bulk**:: 2; **Upgrades** 2
+**Level**:: 7
+**Price**:: 6800  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -2  
+**Bulk**:: 2
+**Upgrades**:: 2
 
 ## Advanced
 
 **Source**:: _Near Space pg. 151_  
 **Level**:: 12
-**Price**:: 36,800  
-**Shield Bonus** +1/+2; **Max Dex** +4; **Armor Check Penalty** -1  
-**Bulk**:: 2; **Upgrades** 2
+**Price**:: 36800  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 2
+**Upgrades**:: 2
 
 ## Elite
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 17;
-**Price**:: 256,000  
-**Shield Bonus** +1/+3; **Max Dex** +5; **Armor Check Penalty** -1  
-**Bulk**:: 2; **Upgrades** 2
+**Level**:: 17
+**Price**:: 256000  
+**Shield-Bonus**:: +1/+3
+**Max-Dex**:: +5
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 2
+**Upgrades**:: 2

@@ -3,16 +3,26 @@ aliases:
 cr: 7
 Environment: any
 hp: 90
-modifier: 2
+Initmod: 2
 name: Ghost
 statblock: true
 tags: 
-Type: CE Medium undead (incorporeal)  
+Type: CE Medium undead (incorporeal)
+combatType: spellcaster
+alignment: CE
+size: medium
+type(subtype): undead(incorporeal)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Ghost
 
-**Source**:: _Alien Archive 2 pg. 58_
+**Source**:  _Alien Archive 2 pg. 58_
 
 ## Ghost Cr 7
 
@@ -64,3 +74,5 @@ At will—_mindlink_
 ## Description
 
 In most cases, when a creature dies, its soul is severed from its physical body and sent on to its fate in the afterlife. However, sometimes souls are bound to the physical world by powerful emotion and cannot move on. While ghosts bound by positive emotions do exist, in most cases horrendous injustice creates ghosts. A ghost’s every action and thought is devoted to the emotion that bound it to the physical world, such that most ghosts become hateful mockeries of their mortal selves.
+
+

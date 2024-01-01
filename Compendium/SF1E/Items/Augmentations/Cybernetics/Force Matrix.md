@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 5 / 11 / 17
+Item:
 price:  
-System: Hand
+
 tags: 
 Type: Cybertech
 ---
@@ -13,15 +13,16 @@ Your hand contains a matrix of energy-sensitive fibers that can shape a force fi
 
 | Model | Level | Price   | DR  |
 | ----- | ----- | ------- | --- |
-| Mk 1  | 5     | 3,300   | 3   |
-| Mk 2  | 11    | 26,750  | 6   |
-| Mk 3  | 17    | 278,100 | 10  |
+| Mk 1  | 5     | 3300   | 3   |
+| Mk 2  | 11    | 26750  | 6   |
+| Mk 3  | 17    | 278100 | 10  |
 
 ## Force Matrix, Mk 1
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 5;
-**Price**::  3,300; **System** Hand  
+**Level**:: 5
+**Price**::  3300 
+**System**:: Hand  
   
 
 ---
@@ -29,12 +30,14 @@ Your hand contains a matrix of energy-sensitive fibers that can shape a force fi
 ## Force Matrix, Mk 2
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 11;
-**Price**::  26,750; **System** Hand  
+**Level**:: 11
+**Price**::  26750 
+**System**:: Hand  
   
 
 ## Force Matrix, Mk 3
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 17;
-**Price**::  278,100; **System** Hand
+**Level**:: 17
+**Price**::  278100 
+**System**:: Hand

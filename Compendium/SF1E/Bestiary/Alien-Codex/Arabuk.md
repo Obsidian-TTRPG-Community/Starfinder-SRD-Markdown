@@ -1,17 +1,17 @@
 ---
 aliases: 
 cr: 8
-Environment: arctic (Akiton)  
+Environment: arctic (Akiton)
 hp: 125
-modifier: 4
+Initmod: 4
 name: Arabuk
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 
-**Source**:: _Alien Archive 4 pg. 10_
+**Source**:  _Alien Archive 4 pg. 10_
 
 ## Arabuk Cr 8
 

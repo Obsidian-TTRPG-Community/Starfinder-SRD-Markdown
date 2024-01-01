@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 8
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,23 +16,31 @@ NIL (an acronym for “neutronic individual launcher”) grenade launchers are t
 **Source**:: _Starfinder Core Rulebook pg. 178_  
 **Level**:: 1
 **Price**:: 280  
-**Hands**:: 2;
+**Hands**:: 2
+
 **Proficiency**:: Heavy  
-**Damage**:: by grenade ; **Range**:: 60 ft.;
+**Damage**:: by grenade  
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 6 grenades; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 6 grenades 
+**Usage** 1  
+**Bulk**:: 2
+
 **Special**:: —
 
 ## Nil Grenade Launcher, Squad
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 8;
-**Price**:: 9,400  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9400  
+**Hands**:: 2
+
 **Proficiency**:: Heavy  
-**Damage**:: by grenade ; **Range**:: 70 ft.;
+**Damage**:: by grenade  
+**Range**:: 70 ft.
 **Critical**:: —  
-**Capacity**:: 12 grenades; **Usage** 1  
-**Bulk**:: 3;
+**Capacity**:: 12 grenades 
+**Usage** 1  
+**Bulk**:: 3
+
 **Special**:: —

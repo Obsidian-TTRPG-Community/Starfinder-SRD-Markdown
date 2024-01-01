@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 8 / 12 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,10 @@ Four tapered metal blades surround the central ring of a starknife, which can be
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 12
-**Price**:: 40,400  
+**Price**:: 40400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d8 F & P;
+**Damage**:: 4d8 F & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1), thrown (30 ft.)
@@ -31,7 +31,7 @@ Four tapered metal blades surround the central ring of a starknife, which can be
 **Price**:: 110  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (20 ft.)
@@ -39,11 +39,11 @@ Four tapered metal blades surround the central ring of a starknife, which can be
 ## Starknife, Sintered
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 8;
-**Price**:: 9,810  
+**Level**:: 8
+**Price**:: 9810  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d4 P;
+**Damage**:: 4d4 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (50 ft.)
@@ -51,11 +51,11 @@ Four tapered metal blades surround the central ring of a starknife, which can be
 ## Starknife, Lightspeed
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 16;
-**Price**:: 183,400  
+**Level**:: 16
+**Price**:: 183400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d8 F & P;
+**Damage**:: 8d8 F & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2), thrown (50 ft.)
@@ -63,11 +63,11 @@ Four tapered metal blades surround the central ring of a starknife, which can be
 ## Starknife, Dimensional Slice
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 19;
-**Price**:: 602,200  
+**Level**:: 19
+**Price**:: 602200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d12 P;
+**Damage**:: 8d12 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (80 ft.)

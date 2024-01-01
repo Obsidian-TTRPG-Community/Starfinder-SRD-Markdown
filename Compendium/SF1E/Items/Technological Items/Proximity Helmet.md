@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4 
-price: 2,050
+
+price: 2050
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Proximity Helmet
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 4;
-**Price**::  2,050  
-**Capacity**:: 20; **Usage** 2/hour  
-**Hands** —; **Bulk** L
+**Level**:: 4
+**Price**::  2050  
+**Capacity**:: 20 **Usage** 2/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

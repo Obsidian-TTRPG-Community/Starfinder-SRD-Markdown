@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 10 / 14 / 18
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,11 +14,18 @@ Made from void troll skin, _void hide armor_ quivers of its own volition, as if 
 ## _VOID Hide, I_
 
 **Source**:: _Alien Archive 3 pg. 121_  
-**Level**:: 10;
-**Price**:: 20,000; **Category** Light  
-**EAC Bonus** +13; **KAC Bonus** +15; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Level**:: 10
+**Price**:: 20000 
+**Category**:: Light  
+
+**EAC**:: +13 
+**KAC**:: +15 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ### Description
 
@@ -28,10 +35,17 @@ Trigger _reflecting armor_ (DC 17) twice per day.
 
 **Source**:: _Alien Archive 3 pg. 121_  
 **Level**:: 14
-**Price**:: 90,000; **Category** Light  
-**EAC Bonus** +16; **KAC Bonus** +18; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Price**:: 90000 
+**Category**:: Light  
+
+**EAC**:: +16 
+**KAC**:: +18 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1
 
 ### Description
 
@@ -40,11 +54,18 @@ Trigger _reflecting armor_ (DC 19) three times per day.
 ## _VOID Hide, III_
 
 **Source**:: _Alien Archive 3 pg. 121_  
-**Level**:: 18;
-**Price**:: 382,500; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +22; **Max. Dex Bonus** +6  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Level**:: 18
+**Price**:: 382500 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +22 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ### Description
 

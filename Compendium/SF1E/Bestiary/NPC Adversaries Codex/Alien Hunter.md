@@ -1,10 +1,10 @@
 ---
-modifier:7
+Initmod: 7
 name: Alien Hunter
 Monster Type: NPC
 hp: 78
 statblock: true
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex---
 cr: 5
 ---
 # ALIEN HUNTER

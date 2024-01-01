@@ -1,13 +1,21 @@
 ---
 aliases: 
-cr: 16
 Environment: any
+Cr: 16
 hp: 300
-modifier: 10
+Initmod: 10
 name: Haeshi-Shaa, Haeshi-Shaa
 statblock: true
 tags: 
-Type: NE Large aberration  
+alignment: CE
+size: large
+type(subtype): aberration
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Haeshi-shaa, Haeshi-shaa
@@ -26,7 +34,7 @@ Many believe that the two species came into the role of priests among the Domini
 
 Haeshi-shaas can’t predict when they might shift into their variant form. Some seek out events that might serve as a catalyst, while others wait for the change to occur naturally. These creatures can exist for ages, shifting thousands of times, but over time, the bonds that cause the cyclical shifts of a haeshi-shaa’s form deteriorate. A haeshi-shaa can live for as long as 25,000 years before its final shift comes to pass and it completely dissipates among the winds of the universe.
 
-**Source**:: _Alien Archive 2 pg. 70_
+**Source**:  _Alien Archive 2 pg. 70_
 
 ## Haeshi-shaa (SHAA FORM) Cr 16
 
@@ -82,3 +90,5 @@ At will—_fear_ (4th level, DC 24), _mind probe_ (DC 24)
 **Track** physical; **Frequency** 1/day  
 **Effect** At the debilitated state, the victim becomes partially vaporous. Attacks made by or targeting the victim have a 25% miss chance. At bedridden, this effect ends and the victim is incorporeal. At dead, the victim’s form completely dissipates into fine particles.  
 **Cure** 2 consecutive saves
+
+

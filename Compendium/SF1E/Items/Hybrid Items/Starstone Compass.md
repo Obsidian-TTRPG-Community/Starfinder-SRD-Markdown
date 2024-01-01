@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 3
 tags: 
 Type: Hybrid Item
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Starstone Compass
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 1;
-**Price**::  3; **Bulk** L
+**Level**:: 1
+**Price**::  3 
+**Bulk**:: L
 
 ### Description
 

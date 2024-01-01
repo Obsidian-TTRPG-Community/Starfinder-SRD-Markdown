@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 10
-Environment: any (Vesk-7 or Vesk-8)  
+Environment: any (Vesk-7 or Vesk-8)
 hp: 155
-modifier: 1
+Initmod: 1
 name: Kothama
 statblock: true
 tags: 
-Type: N Huge magical beast (cold)  
+Type: N Huge magical beast (cold)
 ---
 
 # Kothama
@@ -26,7 +26,7 @@ It is rare to see kothamas away from their home worlds of Vesk-7 and Vesk-8, but
 
 Other kothamas have the misfortune of being conscripted into military service by the Veskarium. The kothamas’ deep understanding of the stars and the void of space makes them peerless navigators, but their size and pacifist nature makes them ill-suited to serve onboard starships. As such, conscripted kothamas are usually put to work on Vesk Prime creating or updating complex star maps and navigational charts for the use of the Veskarium’s military forces. Unfortunately, these conscripted kothamas do not usually survive for long. The dissonance between their peaceful philosophy and their military service often becomes more than these kothamas can bear, and if not allowed to return to their solitary existences on their icy native worlds, such kothamas usually waste away and die in only a few years.
 
-**Source**:: _Alien Archive 3 pg. 64_
+**Source**:  _Alien Archive 3 pg. 64_
 
 ## Kothama Cr 10
 

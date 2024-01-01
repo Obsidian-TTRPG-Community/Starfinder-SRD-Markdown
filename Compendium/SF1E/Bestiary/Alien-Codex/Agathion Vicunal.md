@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any forests or hills (Nirvana)  
+Environment: any forests or hills (Nirvana)
 hp: 17
-modifier: 1
+Initmod: 1
 name: Agathion, Vicunal
 statblock: true
 tags: 
-Type: NG Medium outsider (agathion, extraplanar, good)  
+Type: NG Medium outsider (agathion, extraplanar, good)
 ---
 
 # Agathion, Vicunal
@@ -18,7 +18,7 @@ Four-armed and four-eyed vicunals resemble ruthigs and share ruthigs’ preferen
 
 Maned claustrals resemble the predatory eohis of the Nejeor system, expressing much of eohis’ love of pursuing and hounding their targets. However, claustrals almost never hunt to kill, instead patrolling cityscapes to protect their adopted fauna or neutralize deadly beasts. Although they take pains to warn negligent urbanites who inadvertently harm animals, claustrals often respond with violence to subdue or even kill serial abusers, such as those who run beast-fighting circuits. To claustrals’ chagrin, these brief rampages can spur rumors of an escaped beast, attracting bounty hunters who hope to slay the mysterious creature.
 
-**Source**:: _Alien Archive 4 pg. 6_
+**Source**:  _Alien Archive 4 pg. 6_
 
 ## Vicunal Cr 1
 

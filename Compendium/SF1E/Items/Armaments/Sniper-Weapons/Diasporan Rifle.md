@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 10 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,13 +21,13 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 
 **Source**:: _Alien Archive pg. 99_  
 **Level**:: 5
-**Price**:: 3,750  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 2d8 F; **Range**:: 70 ft.;
+**Price**:: 3750  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 2d8 F; 
+**Range**:: 70 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: sniper (500 ft.), unwieldy
 
 ## Diasporan Rifle, Tactical
@@ -35,49 +35,49 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 **Source**:: _Alien Archive pg. 99_  
 **Level**:: 1
 **Price**:: 350  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 1d8 F; **Range**:: 70 ft.;
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 1d8 F; 
+**Range**:: 70 ft.
 **Critical**:: —  
 **Capacity**:: 10 charges; **Usage** 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: sniper (250 ft.), unwieldy
 
 ## Diasporan Rifle, Elite
 
 **Source**:: _Alien Archive pg. 99_  
-**Level**:: 10;
-**Price**:: 17,000  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 4d8 F; **Range**:: 80 ft.;
+**Level**:: 10
+**Price**:: 17000  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 4d8 F; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: sniper (750 ft.), unwieldy
 
 ## Diasporan Rifle, Ultra
 
 **Source**:: _Alien Archive pg. 99_  
-**Level**:: 15;
-**Price**:: 110,000  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 6d8 F; **Range**:: 80 ft.;
+**Level**:: 15
+**Price**:: 110000  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 6d8 F; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 30 charges; **Usage** 1  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: sniper (1, 000 ft.), unwieldy
 
 ## Diasporan Rifle, Imperial
 
 **Source**:: _Alien Archive pg. 99_  
-**Level**:: 20;
-**Price**:: 725,000  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 10d8 F; **Range**:: 80 ft.;
+**Level**:: 20
+**Price**:: 725000  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 10d8 F; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 30 charges; **Usage** 1  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: sniper (1, 000 ft.), unwieldy

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: edium transport 
+type: edium transport 
 ---
 
 # Ulrikka Rc-hpr
 
-> [!infobox|locr n-th clean]
->  [[Starship_UlrikaRCHPR.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UlrikaRCHPR.jpg|Spielern zeigen!]
 > 
 Medium transport, **Tier** 4 
 **Speed** 4; **Maneuverability** average (turn 2); **Drift** —  

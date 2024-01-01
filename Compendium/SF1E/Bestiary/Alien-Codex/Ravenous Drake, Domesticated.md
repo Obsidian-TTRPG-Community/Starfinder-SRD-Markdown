@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1/2
-Environment: temperate forests  
+Environment: temperate forests
 hp: 13
-modifier: 0
+Initmod: 0
 name: Ravenous Drake, Domesticated
 statblock: true
 tags: 
-Type: N Small dragon  
+Type: N Small dragon
 ---
 
 # Ravenous Drake, Domesticated
@@ -24,7 +24,7 @@ Yet their voracious appetites makes the drakes an ecological menace. On most set
 
 Scientists studying captive ravenous drakes have noted that the drakes’ growth seems limited only by its diet, positing that a drake with an unlimited supply of suitable food could grow to immense size.
 
-**Source**:: _Alien Archive 4 pg. 98_
+**Source**:  _Alien Archive 4 pg. 98_
 
 ## Domesticated Cr 1/2
 

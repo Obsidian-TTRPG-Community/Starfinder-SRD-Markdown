@@ -3,11 +3,24 @@ aliases:
 cr: 9
 Environment: any
 hp: 120
-modifier: 3
+Initmod: 3
 name: Emotivore
 statblock: true
 tags: 
-Type: NE Medium undead (shapechanger)  
+Type: NE Medium undead (shapechanger)
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): undead(shapechanger)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - clique(3-6)
+source: Alien Archive 2
 ---
 
 # Emotivore
@@ -16,7 +29,7 @@ Emotivores are undead that come into being when someone dies in the throes of in
 
 An emotivore manipulates and deceives to evoke feelings it can psychically feed upon. It chooses its appearance based on information it gleans from potential victims, assuming a shape that evokes a passionate response.
 
-**Source**:: _Alien Archive 2 pg. 50_
+**Source**:  _Alien Archive 2 pg. 50_
 
 ## Emotivore Cr 9
 
@@ -67,3 +80,5 @@ At will—_detect thoughts_ (1st level, DC 18), _holographic image_ (DC 18), _mi
 
 The following extra content was found for this creature:  
 \- Emotivore (Other) Graft Template
+
+

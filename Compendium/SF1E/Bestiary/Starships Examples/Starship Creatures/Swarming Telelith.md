@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: N Small starship magical beast
+type: N Small starship magical beast
 ---
 
 # Swarming Telelith

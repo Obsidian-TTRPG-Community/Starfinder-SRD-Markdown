@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: Tiny fighter
+type: Tiny fighter
 ---
 
 # Inheritorworks Brightsword
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksBrightsword.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksBrightsword.jpg|Spielern zeigen!]
 > 
 Tiny fighter, **Tier** 2 
 **Speed** 12; **Maneuverability** good (turn 1); **Drift** 1  

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 7 / 12 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,59 +16,49 @@ Although many among devilkind have long preferred melee weapons, levalochs under
 ## Trident (LEVALOCH), Dimensional Slice
 
 **Source**:: _Alien Archive 2 pg. 37_  
-**Level**:: 20;
-**Price**:: 768,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 14d8 P;
+**Level**:: 20
+**Price**:: 768600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 14d8 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Trident (LEVALOCH), Tactical
 
 **Source**:: _Alien Archive 2 pg. 37_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 750  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 P;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Trident (LEVALOCH), Sintered
 
 **Source**:: _Alien Archive 2 pg. 37_  
-**Level**:: 7;
-**Price**:: 6,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 P;
+**Level**:: 7
+**Price**:: 6100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Trident (LEVALOCH), Ultrathin
 
 **Source**:: _Alien Archive 2 pg. 37_  
 **Level**:: 12
-**Price**:: 36,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d8 P;
+**Price**:: 36600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d8 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)
 
 ## Trident (LEVALOCH), Molecular Rift
 
 **Source**:: _Alien Archive 2 pg. 37_  
-**Level**:: 17;
-**Price**:: 219,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 P;
+**Level**:: 17
+**Price**:: 219600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d8 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, thrown (20 ft.)
+**Bulk**:: 1**Special**:: analog, thrown (20 ft.)

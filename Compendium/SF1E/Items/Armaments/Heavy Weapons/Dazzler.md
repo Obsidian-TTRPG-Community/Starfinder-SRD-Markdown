@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Dazzler, Flash
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 3;
-**Price**:: 1,420  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1420  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 F; **Range**:: 120 ft.;
+**Damage**:: 1d10 F 
+**Range**:: 120 ft.
 **Critical**:: blind  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: nonlethal
 
 ## Dazzler, Strobe
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 8;
-**Price**:: 9,420  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9420  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d12 F; **Range**:: 150 ft.;
+**Damage**:: 2d12 F 
+**Range**:: 150 ft.
 **Critical**:: blind  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: nonlethal
 
 ## Dazzler, Sunspot
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 14
-**Price**:: 71,500  
-**Hands**:: 2;
+**Price**:: 71500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d12 F; **Range**:: 150 ft.;
+**Damage**:: 4d12 F 
+**Range**:: 150 ft.
 **Critical**:: blind  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: nonlethal

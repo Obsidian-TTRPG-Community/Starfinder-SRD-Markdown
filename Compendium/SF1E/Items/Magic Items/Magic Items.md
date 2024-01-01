@@ -18,8 +18,10 @@ In a few rare cases, magic items require charges. However, such charged magic it
 
 ``` dataview
 TABLE
-Level, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Magic Items"
+Level, Price, Bulk
+
+FROM "Starfinder-SRD/SF1E/Compendium/Items"
 SORT Level ASC
+WHERE type = "Magic Item"
 WHERE file.name != "Magic Items"
 ```

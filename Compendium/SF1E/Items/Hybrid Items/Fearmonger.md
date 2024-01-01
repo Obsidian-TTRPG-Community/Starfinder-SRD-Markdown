@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12  
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ This collapsible, lightweight piece of military surplus looks like a loudspeaker
 ## Fearmonger, Mk 1
 
 **Source**:: _Galactic Magic pg. 45_  
-**Level** 4;
-**Price**::  2,000; **Bulk** 1
+**Level**:: 4
+**Price**::  2000 
+**Bulk**:: 1
 
 ### Description
 
@@ -25,8 +26,9 @@ The fearmonger causes creatures of CR 6 or lower in the area to become [[Shaken]
 ## Fearmonger, Mk 2
 
 **Source**:: _Galactic Magic pg. 45_  
-**Level** 8;
-**Price**::  9,300; **Bulk** 1
+**Level**:: 8
+**Price**::  9300 
+**Bulk**:: 1
 
 ### Description
 
@@ -35,8 +37,9 @@ The fearmonger causes creatures of CR 10 or lower in the area to become [[Shaken
 ## Fearmonger, Mk 3
 
 **Source**:: _Galactic Magic pg. 45_  
-**Level** 12;
-**Price**::  35,000; **Bulk** 1
+**Level**:: 12
+**Price**::  35000 
+**Bulk**:: 1
 
 ### Description
 

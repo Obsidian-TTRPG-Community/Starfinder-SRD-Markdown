@@ -1,13 +1,28 @@
 ---
 aliases: 
 cr: 16
-Environment: any vacuum or gas giant  
+Environment: any vacuum or gas giant
 hp: 285
-modifier: 8
+Initmod: 8
 name: Oma
 statblock: true
 tags: 
-Type: N Colossal magical beast  
+Type: N Colossal magical beast
+combatType: expert
+alignment: N
+size: colossal
+type(subtype): magical beast(-)
+environment:
+  - vacuum
+  - gas giant
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - pod(3-5)
+source: Alien Archive
 ---
 
 # Oma
@@ -80,3 +95,5 @@ The following frame statistics can simulate a living or dead oma starship, at th
 ### Special Abilities
 
 **Drift Resistant (Ex)** An oma’s body must be specially refitted to accommodate Drift travel; installing a Drift engine in an oma increases the price of the engine by 50%.
+
+

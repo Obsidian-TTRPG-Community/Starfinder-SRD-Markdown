@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 9 
-price: 13,200
+
+price: 13200
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Portable Antigravity Field
 
 **Source**:: _Tech Revolution pg. 49_  
-**Level** 9;
+**Level**:: 9
 **Price**::  13200  
-**Capacity**:: 20; **Usage** 5/round  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 5/round  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

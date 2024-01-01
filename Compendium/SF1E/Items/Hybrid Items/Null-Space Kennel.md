@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 15
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,7 +15,8 @@ When you purchase a null-space kennel, you can customize its interior, such as h
 
 **Source**:: _Galactic Magic pg. 46_  
 **Level**:: 3
-**Price**::  1,300; **Bulk** L
+**Price**::  1300 
+**Bulk**:: L
 
 ### Description
 
@@ -26,8 +27,9 @@ The device can house a Medium creature with enough air for 24 hours.
 ## Null-space Kennel, Mk 2
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 7;
-**Price**::  6,000; **Bulk** L
+**Level**:: 7
+**Price**::  6000 
+**Bulk**:: L
 
 ### Description
 
@@ -36,8 +38,9 @@ The device can house a Large creature with enough air for 24 hours.
 ## Null-space Kennel, Mk 3
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 11;
-**Price**::  24,000; **Bulk** L
+**Level**:: 11
+**Price**::  24000 
+**Bulk**:: L
 
 ### Description
 
@@ -46,8 +49,9 @@ The device can house a Huge creature with enough air for 24 hours.
 ## Null-space Kennel, Mk 4
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 15;
-**Price**::  102,000; **Bulk** L
+**Level**:: 15
+**Price**::  102000 
+**Bulk**:: L
 
 ### Description
 

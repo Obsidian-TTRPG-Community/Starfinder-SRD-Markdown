@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 16
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Infernex Keep Diabolical
 
-> [!infobox|locr n-th clean]
->  [[Starship_InfernexKeepDiabolical.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InfernexKeepDiabolical.jpg|Spielern zeigen!]
 > 
 Gargantuan battleship, **Tier**   
 **Speed** 6; **Maneuverability** average (turn 3); **Drift** 1  

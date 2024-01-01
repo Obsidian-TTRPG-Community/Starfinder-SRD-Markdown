@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 1/3
-Environment: any (Vesk-3)  
+Environment: any (Vesk-3)
 hp: 6
-modifier: 3
+Initmod: 3
 name: Skittermander, Skittermander Whelp
 statblock: true
 tags: 
-Type: N Diminutive humanoid (skittermander)  
+Type: N Diminutive humanoid (skittermander)
+combatType: expert
+alignment: N
+size: diminutive
+type(subtype): humanoid(skittermander)
+environment: any
+climate: any
+planet: Vesk-3
+organization:
+  - solitary
+  - nest(3-24)
+source: Alien Archive
 ---
 
 # Skittermander, Skittermander Whelp
@@ -26,7 +37,7 @@ After 6 years, whelps mature into adult skittermanders, begin to walk upright, a
 
 The average adult skittermander is 3 feet tall and weighs about 35 pounds.
 
-**Source**:: _Alien Archive pg. 106_
+**Source**:  _Alien Archive pg. 106_
 
 ## Skittermander Whelp Cr 1/3
 
@@ -59,3 +70,5 @@ N Diminutive humanoid (skittermander)
 ### Special Abilities
 
 **Attach (Ex)** A skittermander whelp that hits with a bite attack automatically initiates a special combat maneuver against its target (this does not take an action) with a +4 racial bonus. If successful, the skittermander whelp moves into the target’s space without provoking an attack of opportunity and attaches to the target. The whelp gains partial cover, (though not against attacks made by the target) as well as a +2 circumstance bonus to melee attacks and damage rolls, but it can attack only the creature to which it is attached. The target (or an ally adjacent to the target) can remove an attached skittermander whelp with a successful DC 10 Strength check as a move action.
+
+

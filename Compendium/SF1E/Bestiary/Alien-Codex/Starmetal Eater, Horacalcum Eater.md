@@ -3,11 +3,11 @@ aliases:
 cr: 13
 Environment: any
 hp: 230
-modifier: 10
+Initmod: 10
 name: Starmetal Eater, Horacalcum Eater
 statblock: true
 tags: 
-Type: N Medium ooze  
+Type: N Medium ooze
 ---
 
 # Starmetal Eater, Horacalcum Eater
@@ -15,7 +15,7 @@ Type: N Medium ooze
 Strange protoplasmic pests that subsist on the rarest of metals, starmetal eaters usually remain microscopic and innocuous. Yet when these creatures gorge themselves on a rich vein of naturally occurring starmetal or even items made of starmetal alloy—either of which they can detect at great distances—they experience a swift growth spurt and can reach several feet in diameter. Each starmetal eater fixates its diet on one specific type of starmetal, gaining strange abilities as its appearance and essence are suffused with its metal of choice.
 
 
-**Source**:: _Alien Archive 4 pg. 116_
+**Source**:  _Alien Archive 4 pg. 116_
 
 ## Horacalcum Eater Cr 13
 

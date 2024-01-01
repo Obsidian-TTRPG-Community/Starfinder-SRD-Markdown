@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,59 @@ Few damai are brave enough to confront the titanic colossi that roam the devasta
 ## Desperation Cannon, Doom-caller
 
 **Source**:: _Near Space pg. 149_  
-**Level**:: 10;
-**Price**:: 18,500  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 18500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 E & F; **Range**:: 100 ft.;
+**Damage**:: 3d12 E & F 
+**Range**:: 100 ft.
 **Critical**:: Nuisance  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: Bright, penetrating, unwieldy
 
 ## Desperation Cannon, Rage-bringer
 
 **Source**:: _Near Space pg. 149_  
 **Level**:: 4
-**Price**:: 2,250  
-**Hands**:: 2;
+**Price**:: 2250  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d12 E & F; **Range**:: 100 ft.;
+**Damage**:: 1d12 E & F 
+**Range**:: 100 ft.
 **Critical**:: Nuisance  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: Bright, penetrating, unwieldy
 
 ## Desperation Cannon, Sky-piercer
 
 **Source**:: _Near Space pg. 149_  
-**Level**:: 15;
-**Price**:: 119,500  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 119500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d12 E & F; **Range**:: 100 ft.;
+**Damage**:: 6d12 E & F 
+**Range**:: 100 ft.
 **Critical**:: Nuisance  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: Bright, penetrating, unwieldy
 
 ## Desperation Cannon, Titan-killer
 
 **Source**:: _Near Space pg. 149_  
-**Level**:: 19;
-**Price**:: 565,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 565000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 9d12 E & F; **Range**:: 100 ft.;
+**Damage**:: 9d12 E & F 
+**Range**:: 100 ft.
 **Critical**:: Nuisance  
-**Capacity**:: 100 charges; **Usage** 20  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 20  
+**Bulk**:: 2
 **Special**:: Bright, penetrating, unwieldy

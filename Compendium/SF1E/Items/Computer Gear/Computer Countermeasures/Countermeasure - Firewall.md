@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: Countermeasure
-Level: 
+
 price: 20% of computer's base price
 tags: 
 Type: Computer Gear

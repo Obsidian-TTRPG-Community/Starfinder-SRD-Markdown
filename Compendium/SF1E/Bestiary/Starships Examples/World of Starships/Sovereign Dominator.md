@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 19
-Type: Supercolossal ultranought
+type: Supercolossal ultranought
 ---
 
 # Sovereign Dominator
 
-> [!infobox|locr n-th clean]
->  [[Sovereign Dominator|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Sovereign Dominator|Spielern zeigen!]
 > 
 Supercolossal ultranought, **Tier** 19
 **Speed** 6; **Maneuverability** clumsy (turn 4); **Drift** 1  

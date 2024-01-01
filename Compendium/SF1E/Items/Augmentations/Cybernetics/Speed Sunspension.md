@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 4 / 8 / 12
+Item:
 price:  
-System: All legs
+
 tags: 
 Type: Cybertech
 ---
@@ -14,19 +14,22 @@ You increase your land speed by replacing joints and tendons in your legs with h
 ## Speed Suspension, Complete
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 12;
-**Price**::  32,900; **System** All legs  
+**Level**:: 12
+**Price**::  32900 
+**System**:: All legs  
   
 
 ## Speed Suspension, Minimal
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 4;
-**Price**::  1,900; **System** All legs  
+**Level**:: 4
+**Price**::  1900 
+**System**:: All legs  
   
 
 ## Speed Suspension, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 8;
-**Price**::  8,800; **System** All legs
+**Level**:: 8
+**Price**::  8800 
+**System**:: All legs

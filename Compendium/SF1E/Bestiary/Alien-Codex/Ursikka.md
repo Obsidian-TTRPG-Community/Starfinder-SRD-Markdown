@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 10
-Environment: any arctic (Triaxus)  
+Environment: any arctic (Triaxus)
 hp: 165
-modifier: 3
+Initmod: 3
 name: Ursikka
 statblock: true
 tags: 
-Type: N Huge magical beast  
+Type: N Huge magical beast
 ---
 
 # Ursikka
 
-**Source**:: _Alien Archive 4 pg. 128_
+**Source**:  _Alien Archive 4 pg. 128_
 
 ## Ursikka Cr 10
 

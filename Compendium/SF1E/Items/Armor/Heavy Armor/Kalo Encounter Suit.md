@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 13 / 18
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ When they first ventured beyond the frigid seas of Kalo- Mahoi, the kalo brought
 ## Kalo Encounter Suit, I
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 4;
-**Price**::  1,980; **Category** Heavy  
-**EAC Bonus** +7; **KAC Bonus** +8; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Level**:: 4
+**Price**::  1980 
+**Category**:: Heavy  
+
+**EAC**:: +7 
+**KAC**:: +8 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Kalo Encounter Suit, Ii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 9;
-**Price**::  12,900; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +16; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 3; **Bulk** 3
+**Level**:: 9
+**Price**::  12900 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +16 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 3
 
 ## Kalo Encounter Suit, Iii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 13;
-**Price**::  48,500; **Category** Heavy  
-**EAC Bonus** +20; **KAC Bonus** +21; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 4; **Bulk** 3
+**Level**:: 13
+**Price**::  48500 
+**Category**:: Heavy  
+
+**EAC**:: +20 
+**KAC**:: +21 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 3
 
 ## Kalo Encounter Suit, Iv
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 18;
-**Price**::  360,000; **Category** Heavy  
-**EAC Bonus** +25; **KAC Bonus** +26; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 6; **Bulk** 3
+**Level**:: 18
+**Price**::  360000 
+**Category**:: Heavy  
+
+**EAC**:: +25 
+**KAC**:: +26 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**:: 3

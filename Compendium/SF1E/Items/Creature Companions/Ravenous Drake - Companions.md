@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-5
+
 Type: Small dragon  
 ---
 # RAVENOUS DRAKE - COMPANIONS
@@ -8,7 +8,8 @@ Type: Small dragon
 **Source**:: _Alien Archive 4 pg. 99_  
 Ravenous drakes can make suitable creature companions for those prepared to sate their appetites.
 
-## RAVENOUS DRAKELEVELS 1-5
+## RAVENOUS DRAKE
+level:: 1-5
 
 Small dragon  
 **Senses** darkvision 60 ft., low-light vision  

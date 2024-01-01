@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 4
 hp: 45
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Dwarven Engineer
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Dwarven Engineer

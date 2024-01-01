@@ -3,11 +3,11 @@ aliases:
 cr: 8
 Environment: any
 hp: 125
-modifier: 0
+Initmod: 0
 name: Dinosaur, Ceratopsid
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
 ---
 
 # Dinosaur, Ceratopsid
@@ -18,7 +18,7 @@ The term “dinosaur” refers to a category of reptilelike fauna associated wit
 
 The dinosaurs in this entry serve a couple of purposes. Employ them as written when you need statistics for this sort of creature. To create a unique dinosaur, use the stat blocks here and your concept as starting points. Decide what type of natural weapon the animal has, altering the damage type to suit the weapon. Then add elements from Appendix 2: Environmental Grafts. Tailor anything you want to fit your concept.
 
-**Source**:: _Alien Archive 2 pg. 39_
+**Source**:  _Alien Archive 2 pg. 39_
 
 ## Ceratopsid Cr 8
 

@@ -2,14 +2,14 @@
 aliases: 
 NoteType: Starship
 tags: 
-Tier: "8"
-Type: Large Destroyer
+Tier: 8
+type: Large Destroyer
 ---
 
 # Compent Group Defense Frigate
 
-> [!infobox|locr n-th clean]
->  [[Starship_CompentGroupDefenseFrigate.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_CompentGroupDefenseFrigate.jpg|Spielern zeigen!]
 > 
 Large destroyer , **Tier** 8
 **Speed** 6; **Maneuverability** average (turn 2); **Drift** 1  

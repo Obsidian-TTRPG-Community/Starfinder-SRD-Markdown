@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 8
-Environment: any (Absalom Station)  
+Environment: any (Absalom Station)
 hp: 117
-modifier: 0
+Initmod: 0
 name: Nuar Specialist
 statblock: true
 tags: 
-Type: LN Medium monstrous humanoid  
+Type: LN Medium monstrous humanoid
+combatType: expert
+alignment: LN
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet: Absalom Station
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Nuar Specialist
@@ -31,7 +41,7 @@ To create a maze-core device, select two pieces of equipment. The maze-core devi
 Changing a piece of maze-core equipment to function as the alternate piece of equipment is a swift action.
 
 
-**Source**:: _Alien Archive pg. 86_
+**Source**:  _Alien Archive pg. 86_
 
 ## Nuar Specialist Cr 8
 
@@ -71,3 +81,5 @@ LN Medium monstrous humanoid
 **Gore (Ex)** A nuar can charge without taking the normal charge penalties to the attack roll or its AC. If the nuar has another ability that allows it to charge without taking these penalties (such as the charge attack ability from the soldier’s blitz attack fighting style), the nuar also gains the ability to charge through difficult terrain.
 
 **Maze Mind (Ex)** Nuars have a naturally strong sense of direction and an instinctive understanding of complex patterns. As a result, they very rarely get lost. A nuar can attempt a special level-based Wisdom check (1d20 + CR or level + Wisdom bonus) instead of using his total bonus in the Piloting skill to navigate or his total bonus in the Survival skill for orienteering.
+
+

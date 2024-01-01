@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,8 +15,9 @@ A _computer idol_ allows a number of rerolls per day based on its type. Once y
 ##Computer Idol, Mk 1
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 4;
-**Price**::  1,850; **Bulk** L
+**Level**:: 4
+**Price**::  1850 
+**Bulk**:: L
 
 ### Description
 
@@ -27,8 +28,9 @@ One reroll
 ## Computer Idol, Mk 2
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 8;
-**Price**::  8,500; **Bulk** L
+**Level**:: 8
+**Price**::  8500 
+**Bulk**:: L
 
 ### Description
 
@@ -37,8 +39,9 @@ Two rerolls
 ## Computer Idol, Mk 3
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 12;
-**Price**::  34,000; **Bulk** L
+**Level**:: 12
+**Price**::  34000 
+**Bulk**:: L
 
 ### Description
 

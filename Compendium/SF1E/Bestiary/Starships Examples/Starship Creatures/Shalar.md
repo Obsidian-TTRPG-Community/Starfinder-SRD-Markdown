@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 20
-Type: Supercolossal base ship
+type: Supercolossal base ship
 ---
 
 # Shalar
 
-> [!infobox|locr n-th clean]
->  [[Starship_Shalar.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_Shalar.jpg|Spielern zeigen!]
 > 
 Supercolossal base ship, **Tier** 20 
 **Speed** 6; **Maneuverability** clumsy (turn 5); **Drift** 1  

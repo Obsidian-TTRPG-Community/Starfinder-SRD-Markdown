@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 400
 tags: 
@@ -10,10 +10,11 @@ type: Weapon Accessories
 # Fireburst Chamber
 
 **Source**:: _Galaxy Exploration Manual pg. 79_  
-**Level** 1;
-**Price**::  400; **Bulk** —  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** Railed weapon, small arm
+**Level**:: 1
+**Price**::  400 
+**Bulk**:: —  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: Railed weapon, small arm
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 12 / 17
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,8 +15,9 @@ A matter converter takes 1 round per level of the created item to generate the r
 
 _SFS Note: The new consumable created by the matter converter (page 92) may not be of greater value than the destroyed consumable._  
 **Source**:: _Drift Crisis pg. 92_  
-**Level** 7;
-**Price**::  7,000; **Bulk** 1
+**Level**:: 7
+**Price**::  7000 
+**Bulk**:: 1
 
 ---
 
@@ -24,12 +25,14 @@ _SFS Note: The new consumable created by the matter converter (page 92) may not
 
 _SFS Note: The new consumable created by the matter converter (page 92) may not be of greater value than the destroyed consumable._  
 **Source**:: _Drift Crisis pg. 92_  
-**Level** 12;
-**Price**::  38,000; **Bulk** 1
+**Level**:: 12
+**Price**::  38000 
+**Bulk**:: 1
 
 ## Matter Converter, Mk Iii
 
 _SFS Note: The new consumable created by the matter converter (page 92) may not be of greater value than the destroyed consumable._  
 **Source**:: _Drift Crisis pg. 92_  
-**Level** 17;
-**Price**::  270,000; **Bulk** 1
+**Level**:: 17
+**Price**::  270000 
+**Bulk**:: 1

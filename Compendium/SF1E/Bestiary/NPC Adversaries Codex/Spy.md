@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 250
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Spy
-statblock: true
-Subtype: Infilitrators
+statblock: true(Infilitrators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Spy

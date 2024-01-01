@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any underground or water  
+Environment: any underground or water
 hp: 20
-modifier: 2
+Initmod: 2
 name: Murzzilat, Bantling
 statblock: true
 tags: 
-Type: N Small animal (aquatic)  
+Type: N Small animal (aquatic)
 ---
 
 # Murzzilat, Bantling
@@ -24,7 +24,7 @@ Incredibly vocal, murzzilats have a multitude of calls, cries, and songs. From c
 
 Murzzilats find the death or theft of their young, called bantlings, incredibly distressing; such an occurrence causes them to enter a torpor for a prolonged period of time, refusing to sing for months on end. Although both parents mourn, the parent that birthed the bantling will follow the scent of the deceased or missing bantling for miles in search of its remains, going as far as to collect the leavings from a dangerous predator.
 
-**Source**:: _Alien Archive 4 pg. 76_
+**Source**:  _Alien Archive 4 pg. 76_
 
 ## Bantling Cr 1
 

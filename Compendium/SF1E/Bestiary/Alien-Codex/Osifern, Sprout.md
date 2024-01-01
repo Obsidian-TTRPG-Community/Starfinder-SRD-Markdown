@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1/2
-Environment: aquatic (any water)  
+Environment: aquatic (any water)
 hp: 10
-modifier: 1
+Initmod: 1
 name: Osifern, Sprout
 statblock: true
 tags: 
-Type: N Tiny animal (aquatic)  
+Type: N Tiny animal (aquatic)
 ---
 
 # Osifern, Sprout
@@ -22,7 +22,7 @@ Enigmas demonstrate a surprising degree of aesthetic sensibilities, as they seem
 
 Scientific expeditions regularly hire adventurous divers and submersible pilots to help study (or even capture) enigmas, whereas conservation programs just as often send contractors with the same skills to eliminate osifern infestations.
 
-**Source**:: _Alien Archive 4 pg. 78_
+**Source**:  _Alien Archive 4 pg. 78_
 
 ## Sprout Cr 1/2
 

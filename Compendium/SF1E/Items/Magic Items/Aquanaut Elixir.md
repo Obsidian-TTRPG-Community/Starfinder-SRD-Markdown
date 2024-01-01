@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 4 
+
 price: 325 
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level** 4;
-**Price**::  325; **Bulk** —
+**Level**:: 4
+**Price**::  325 
+**Bulk**:: —
 
 ### Description
 

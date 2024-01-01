@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: Huge cruiser  
+type: Huge cruiser  
 ---
 
 # Atech Immortal
 
-> [!infobox|locr n-th clean]
->  [[Starship_AtechImmortal.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_AtechImmortal.jpg|Spielern zeigen!]
 > 
 Huge cruiser, **Tier** 10 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

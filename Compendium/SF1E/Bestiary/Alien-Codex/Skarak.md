@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 13
-Environment: any land  
+Environment: any land
 hp: 215
-modifier: 6
+Initmod: 6
 name: Skarak
 statblock: true
 tags: 
-Type: N Huge magical beast  
+Type: N Huge magical beast
 ---
 
 # Skarak
 
-**Source**:: _Alien Archive 4 pg. 110_
+**Source**:  _Alien Archive 4 pg. 110_
 
 ## Skarak Cr 13
 

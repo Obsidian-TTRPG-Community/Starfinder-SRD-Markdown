@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Embroi)  
+Environment: any (Embroi)
 hp: 35
-modifier: 4
+Initmod: 4
 name: Embri
 statblock: true
 tags: 
-Type: LE Medium aberration  
+Type: LE Medium aberration
+combatType: expert
+alignment: LE
+size: medium
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet: Embroi
+organization:
+  - solitary
+  - unit(2-10)
+source: Alien Archive 2
 ---
 
 # Embri
@@ -28,7 +39,7 @@ The diabolic taint on embri society is pervasive, yet subtle. For example, the e
 
 Many embri work hard to afford masks with magical abilities. In addition to the ordinary functions of displaying social status and shielding an embri’s emotions, these masks provide additional abilities to embri wearing them. One of the most common of these masks is the _hivemask_.
 
-**Source**:: _Alien Archive 2 pg. 48_
+**Source**:  _Alien Archive 2 pg. 48_
 
 ## Embri Cr 3
 
@@ -70,3 +81,5 @@ LE Medium aberration
 
 The following extra content was found for this creature:  
 \- Embri Race Entry
+
+

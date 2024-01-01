@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 14 / 19 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,7 +15,8 @@ The mind memory chip detaches from the host creature easily and can be plugged i
 
 **Source**:: _Galactic Magic pg. 46_  
 **Level**:: 3
-**Price**::  1,435; **Bulk** L
+**Price**::  1435 
+**Bulk**:: L
 
 ### Description
 
@@ -26,8 +27,9 @@ The chip has a 10-minute capacity and Will save DC of 14.
 ## Mind Memory Chip, Mk 2
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 8;
-**Price**::  9,850; **Bulk** L
+**Level**:: 8
+**Price**::  9850 
+**Bulk**:: L
 
 ### Description
 
@@ -36,8 +38,9 @@ The chip has a 1-hour capacity and Will save DC of 18.
 ## Mind Memory Chip, Mk 3
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 14;
-**Price**::  74,500; **Bulk** L
+**Level**:: 14
+**Price**::  74500 
+**Bulk**:: L
 
 ### Description
 
@@ -46,8 +49,9 @@ The chip has a 1-day capacity and Will save DC of 22.
 ## Mind Memory Chip, Mk 4
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 19;
-**Price**::  585,000; **Bulk** L
+**Level**:: 19
+**Price**::  585000 
+**Bulk**:: L
 
 ### Description
 

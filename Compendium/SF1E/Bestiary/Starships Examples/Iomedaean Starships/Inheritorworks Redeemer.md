@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 18
-Type: Colossal dreadnought 
+type: Colossal dreadnought 
 ---
 
 # Inheritorworks Redeemer
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksRedeemer.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksRedeemer.jpg|Spielern zeigen!]
 > 
 Colossal dreadnought, **Tier** 18 
 **Speed** 4; **Maneuverability** clumsy (turn 4); **Drift** 1  

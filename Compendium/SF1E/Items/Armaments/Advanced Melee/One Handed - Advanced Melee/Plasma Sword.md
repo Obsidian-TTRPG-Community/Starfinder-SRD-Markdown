@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 9 / 13 / 15 / 18 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,59 +18,54 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Sword, Blue Star
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 20;
-**Price**:: 920,250  
+**Level**:: 20
+**Price**:: 920250  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 E & F;
+**Damage**:: 10d8 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 4)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 4)
 
 ## Plasma Sword, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 9;
-**Price**:: 14,550  
+**Level**:: 9
+**Price**:: 14550  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 E & F;
+**Damage**:: 2d8 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Plasma Sword, Red Star
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 13;
-**Price**:: 54,300  
+**Level**:: 13
+**Price**:: 54300  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d8 E & F;
+**Damage**:: 4d8 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 4)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 4)
 
 ## Plasma Sword, Yellow Star
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 15;
-**Price**:: 127,000  
+**Level**:: 15
+**Price**:: 127000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d8 E & F;
+**Damage**:: 5d8 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 4)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 4)
 
 ## Plasma Sword, White Star
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 18;
-**Price**:: 415,600  
+**Level**:: 18
+**Price**:: 415600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d8 E & F;
+**Damage**:: 8d8 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 4)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 4)

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 12 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,50 +21,58 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 12
-**Price**:: 41,000  
-**Hands**:: 2;
+**Price**:: 41000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d6 E & F; **Range**:: 30 ft.;
+**Damage**:: 4d6 E & F 
+**Range**:: 30 ft.
 **Critical**:: —  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, shape 3, unwieldy
 
 ## Hydra Cannon, Python-series
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 2;
-**Price**:: 1,070  
-**Hands**:: 2;
+**Level**:: 2
+**Price**:: 1070  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d6 E & F; **Range**:: 20 ft.;
+**Damage**:: 1d6 E & F 
+**Range**:: 20 ft.
 **Critical**:: —  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, shape 1, unwieldy
 
 ## Hydra Cannon, Viper-series
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 6;
-**Price**:: 4,800  
-**Hands**:: 2;
+**Level**:: 6
+**Price**:: 4800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 E & F; **Range**:: 25 ft.;
+**Damage**:: 2d6 E & F 
+**Range**:: 25 ft.
 **Critical**:: —  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, shape 2, unwieldy
 
 ## Hydra Cannon, Cobra-series
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 19;
-**Price**:: 642,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 642000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 10d6 E & F; **Range**:: 40 ft.;
+**Damage**:: 10d6 E & F 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, shape 4, unwieldy

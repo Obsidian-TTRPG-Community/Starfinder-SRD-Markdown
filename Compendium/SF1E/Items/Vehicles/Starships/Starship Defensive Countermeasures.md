@@ -6,7 +6,8 @@ tags:
 # Starship Defensive Countermeasures
 
 **Source**:: _Starfinder Core Rulebook pg. 298_
-Defensive countermeasures systems protect a ship from tracking weapons such as missiles, and they make it difficult for enemies using sensors to get a solid reading on the ship. They do this via a complicated suite of electronic sensors and broadcasting equipment that’s designed to jam enemy sensors and create false readings. These systems grant a bonus to a ship’s TL (see page 320); the bonus, PCU usage, and cost are listed in the table below.  
+Defensive countermeasures systems protect a ship from tracking weapons such as missiles, and they make it difficult for enemies using sensors to get a solid reading on the ship. They do this via a complicated suite of electronic sensors and broadcasting equipment that’s designed to jam enemy sensors and create false readings. These systems grant a bonus to a ship’s TL (see page 320)
+the bonus, PCU usage, and cost are listed in the table below.  
 
 | Nam            | Bonus to TL | PCU | Cost (in BP) |
 | -------------- | ----------- | --- | ------------ |

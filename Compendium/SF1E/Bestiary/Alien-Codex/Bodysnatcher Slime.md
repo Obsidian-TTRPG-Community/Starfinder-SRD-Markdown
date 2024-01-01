@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 3
-Environment: any land  
+Environment: any land
 hp: 33
-modifier: 3
+Initmod: 3
 name: Bodysnatcher Slime
 statblock: true
 tags: 
-Type: N Small ooze  
+Type: N Small ooze
+combatType: expert
+alignment: N
+size: small
+type(subtype): ooze(-)
+environment: lands
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - heist(2-5)
+source: Alien Archive 2
 ---
 
 # Bodysnatcher Slime
@@ -24,7 +36,7 @@ Having stowed away on countless ships, the slimes have spread across the Pact Wo
 
 ## Bodysnatcher Slime
 
-**Source**:: _Alien Archive 2 pg. 18_
+**Source**:  _Alien Archive 2 pg. 18_
 
 ## Bodysnatcher Slime Cr 3
 
@@ -69,3 +81,5 @@ Bodysnatch is a compulsion effect that works on a living creature or the intact 
 ## Bodysnatcher Implants
 
 Bioengineers can dilute the chemicals that allow a bodysnatcher slime to control a host; uses include sedating medical patients and suppressing neurological activity. Incorporated into a special biotech gland, this same technology can protect users against mental attacks.
+
+

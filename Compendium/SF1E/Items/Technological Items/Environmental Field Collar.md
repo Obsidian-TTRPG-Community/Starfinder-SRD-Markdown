@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,33 +13,37 @@ Environmental field collars, or EF collars, are a common form of protection for 
 ## Environmental Field Collar, Huge or Larger
 
 **Source**:: _Alien Archive 3 pg. 147_  
-**Level** 1;
+**Level**:: 1
 **Price**::  300  
-**Capacity**:: 10; **Usage** 1/day  
-**Hands** —; **Bulk** 3
+**Capacity**:: 10 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: 3
 
 ---
 
 ## Environmental Field Collar, Large
 
 **Source**:: _Alien Archive 3 pg. 147_  
-**Level** 1;
+**Level**:: 1
 **Price**::  75  
-**Capacity**:: 10; **Usage** 1/day  
-**Hands** —; **Bulk** 1
+**Capacity**:: 10 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: 1
 
 ## Environmental Field Collar, Medium
 
 **Source**:: _Alien Archive 3 pg. 147_  
-**Level** 1;
+**Level**:: 1
 **Price**::  25  
-**Capacity**:: 10; **Usage** 1/day  
-**Hands** —; **Bulk** L
+**Capacity**:: 10 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: L
 
 ## Environmental Field Collar, Small or Smaller
 
 **Source**:: _Alien Archive 3 pg. 147_  
-**Level** 1;
+**Level**:: 1
 **Price**::  10  
-**Capacity**:: 10; **Usage** 1/day  
-**Hands** —; **Bulk** —
+**Capacity**:: 10 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: —

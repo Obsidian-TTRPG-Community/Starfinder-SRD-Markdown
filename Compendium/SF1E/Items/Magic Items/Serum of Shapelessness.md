@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 18
-price: 60,000
+
+price: 60000
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Drift Crisis pg. 113_  
-**Level** 18;
-**Price**::  60,000; **Bulk** L
+**Level**:: 18
+**Price**::  60000 
+**Bulk**:: L
 
 ### Description
 

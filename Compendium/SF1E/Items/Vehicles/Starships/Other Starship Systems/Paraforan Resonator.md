@@ -16,25 +16,28 @@ The hardened corpses of paraforans who have perished on the Material Plane can b
 | Mk 2  | +2                       | 2d6    | 3 x size category |
 | Mk 3  | +3                       | 3d6    | 5 x size category |
 | Mk 4  | +4                       | 4d6    | 7 x size category |
-
-  
+ 
 
 ## Paraforan Resonator, Mk 1
 
 **Source**:: _Alien Archive 3 pg. 77_  
-**PCU** 0; **Cost (in BP)** 1 x size category
+**PCU**:: 0
+**Cost (in BP)**:: 1 x size category
 
 ## Paraforan Resonator, Mk 2
 
 **Source**:: _Alien Archive 3 pg. 77_  
-**PCU** 0; **Cost (in BP)** 3 x size category
+**PCU**:: 0
+**Cost (in BP)**:: 3 x size category
 
 ## Paraforan Resonator, Mk 3
 
 **Source**:: _Alien Archive 3 pg. 77_  
-**PCU** 0; **Cost (in BP)** 5 x size category
+**PCU**:: 0
+**Cost (in BP)**:: 5 x size category
 
 ## Paraforan Resonator, Mk 4
 
 **Source**:: _Alien Archive 3 pg. 77_  
-**PCU** 0; **Cost (in BP)** 7 x size category
+**PCU**:: 0
+**Cost (in BP)**:: 7 x size category

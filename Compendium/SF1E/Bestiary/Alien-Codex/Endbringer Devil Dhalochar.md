@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 19
-Environment: any (Hell)  
+Environment: any (Hell)
 hp: 415
-modifier: 6
+Initmod: 6
 name: Endbringer Devil (Dhalochar)
 statblock: true
 tags: 
-Type: LE Colossal outsider (devil, evil, extraplanar, lawful)  
+Type: LE Colossal outsider (devil, evil, extraplanar, lawful)
+combatType: combatant
+alignment: LE
+size: colossal
+type(subtype): outsider(['devil', 'evil', 'extraplanar', 'lawful'])
+environment: any
+climate: any
+planet: Hell
+organization:
+  - solitary
+  - assault(1) + devils(8)
+  - invasion(3-12)
+source: Alien Archive
 ---
 
 # Endbringer Devil (DHALOCHAR)
@@ -99,3 +111,5 @@ LE Huge starship outsider
 The following extra content was found for this creature:  
 \- Devil (Summoning) Graft Template  
 \- Devil (Creature Subtype) Graft Template
+
+

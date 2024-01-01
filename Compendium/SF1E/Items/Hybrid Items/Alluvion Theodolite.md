@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 3
-price: 1,750
+
+price: 1750
 tags: 
 Type: Hybrid Item
 ---
@@ -10,7 +10,8 @@ Type: Hybrid Item
 
 **Source**:: _Drift Crisis pg. 55_  
 **Level**:: 3
-**Price**::  1,750; **Bulk** 2
+**Price**::  1750 
+**Bulk**:: 2
 
 ### Description
 

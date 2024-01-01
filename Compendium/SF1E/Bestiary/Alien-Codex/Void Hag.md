@@ -1,20 +1,32 @@
 ---
 aliases: 
 cr: 10
-Environment: any vacuum  
+Environment: any vacuum
 hp: 118
-modifier: 7
+Initmod: 7
 name: Void Hag
 statblock: true
 tags: 
-Type: NE Medium monstrous humanoid  
+Type: NE Medium monstrous humanoid
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - coven(3)
+source: Alien Archive
 ---
 
 # Void Hag
 
 ## Hag, Void Hag
 
-**Source**:: _Alien Archive pg. 120_
+**Source**:  _Alien Archive pg. 120_
 
 ## Void Hag Cr 10
 
@@ -80,3 +92,5 @@ Three hags of any type can band together to form a coven, gaining access to more
 Whenever all three void hags of a coven are within 10 feet of one another, they can work together to use any of the following spell-like abilities: _call cosmos_ (DC 24), _clairaudience/clairvoyance_, _control gravity_ (DC 25), _gravitational singularity_ (DC 25), _interplanetary teleport_, _retrocognition_, _snuff life_ (DC 25), _telepathy_, and _vision_. All three void hags must take a full action to take part in this form of cooperative magic. All coven spell-like abilities function at CL 13th (or the highest caster level of the most powerful hag in the coven). The coven also ignores Resolve Point costs of the spell-like abilities.
 
 At the GM’s discretion, other hag covens might have different spell-like abilities.
+
+

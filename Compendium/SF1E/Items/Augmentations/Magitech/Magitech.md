@@ -12,8 +12,8 @@ Magitech [[Augmentations]]  follow much the same rules as all other [[Augmentati
 
 ``` dataview
 TABLE
-System, ItemLevel as I-Level, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Augmentations/Magitech"
-SORT ItemLevel ASC
+System, Level, Price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Augmentations/Magitech"
+SORT Level ASC
 WHERE file.name != "Magitech"
 ```

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 18
+
 Notetype: Weapon
-price: 375,000
+price: 375000
 tags: 
 type: Heavy Weapon
 ---
@@ -10,14 +10,16 @@ type: Heavy Weapon
 # Thaspalt Cannon
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 18;
-**Price**:: 375,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 375000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d12 B; **Range**:: 80 ft.;
+**Damage**:: 8d12 B 
+**Range**:: 80 ft.
 **Critical**:: Knockdown  
-**Capacity**:: 100 thasphalt ; **Usage** 50  
-**Bulk**:: 3;
+**Capacity**:: 100 thasphalt  
+**Usage** 50  
+**Bulk**:: 3
 **Special**:: Analog, explode (10 ft.), force, unwieldy
 
 ### Description

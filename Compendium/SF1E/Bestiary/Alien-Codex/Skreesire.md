@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 7
-Environment: any hills or mountains  
+Environment: any hills or mountains
 hp: 100
-modifier: 4
+Initmod: 4
 name: Skreesire
 statblock: true
 tags: 
-Type: NE Large aberration  
+Type: NE Large aberration
+combatType: expert
+alignment: NE
+size: large
+type(subtype): aberration(-)
+environment:
+  - hils
+  - mountains
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: DS3
 ---
 
 # Skreesire
@@ -29,7 +42,7 @@ Occasionally, a skreeling becomes stunted in its development, growing too large 
 Though uncommon, skreeling infestations near settlements are treated more like natural hazards to be avoided than pests to be eliminated. Some residents even derive a kind of pride from these annoyances, going so far as to name geological features of the area or local businesses after the creatures. These citizens make sure to warn travelers and newcomers about the skreeling lairs, as much to keep the flying aberrations safe as the people they caution. However, such settlements are quick to curtail the skreelings should they get violent, and they hold no such love for their far more dangerous adult forms.
 
 
-**Source**:: _Alien Archive 3 pg. 98_
+**Source**:  _Alien Archive 3 pg. 98_
 
 ## Skreesire Cr 7
 
@@ -68,3 +81,5 @@ NE Large aberration
 **Camouflage (Ex)** A skreesire’s scaly skin has a mottled pattern that blends in well with their preferred surroundings of rocky hills and mountain terrains. In addition to a skreesire’s normal racial bonus to Stealth, when a skreesire remains stationary for 1 round in rocky terrain, it gains a +10 circumstance bonus to Stealth checks (this bonus doesn’t stack with the invisibility spell or similar effects). If the skreesire takes any action, it loses this bonus until it once again spends 1 round remaining stationary.
 
 **Enthrall (Su)** Skreesires have powerful wills and can use them to change the course of an intelligent creature’s thoughts. Three times per day as a standard action, a skreesire can project its will into the mind of an intelligent creature within 40 feet. The target hears a mighty telepathic screech, and if it fails a DC 17 Will saving throw, it is affected as per suggestion. Whether or not it succeeds at its save, a creature can’t be affected by the same skreesire’s enthrall ability for 24 hours. This is a mind-affecting effect.
+
+

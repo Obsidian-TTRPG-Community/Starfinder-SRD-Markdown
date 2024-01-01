@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 11
-Environment: any (Abyss)  
+Environment: any (Abyss)
 hp: 155
-modifier: 3
+Initmod: 3
 name: Demon, Prexian Mutantspawn
 statblock: true
 tags: 
-Type: CE Medium outsider (chaotic, evil, extraplanar)  
+Type: CE Medium outsider (chaotic, evil, extraplanar)
 ---
 
 # Demon, Prexian Mutantspawn
 
-**Source**:: _Alien Archive 2 pg. 35_
+**Source**:  _Alien Archive 2 pg. 35_
 
 ## Prexian Mutantspawn Cr 11
 

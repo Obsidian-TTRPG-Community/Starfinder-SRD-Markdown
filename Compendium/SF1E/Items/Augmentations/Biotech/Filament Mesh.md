@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 5 / 10
+Item:
 price:  
-System: Skin
+
 tags: 
 Type: Biotech
 ---
@@ -14,8 +14,9 @@ A network of tashtari filaments implanted under the topmost layers of your skin 
 ## Filament Mesh, Mk 1
 
 **Source**:: _Alien Archive 2 pg. 125_  
-**Item Level** 5;
-**Price**::  3,450; **System** Skin  
+**Level**:: 5
+**Price**::  3450 
+**System**:: Skin  
   
 
 ---
@@ -23,5 +24,6 @@ A network of tashtari filaments implanted under the topmost layers of your skin 
 ## Filament Mesh, Mk 2
 
 **Source**:: _Alien Archive 2 pg. 125_  
-**Item Level** 10;
-**Price**::  17,500; **System** Skin
+**Level**:: 10
+**Price**::  17500 
+**System**:: Skin

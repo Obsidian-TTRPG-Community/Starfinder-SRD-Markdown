@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Uppercut Smg, Advanced
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 8;
-**Price**:: 9,800  
+**Level**:: 8
+**Price**:: 9800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d12 P; **Range**:: 30 ft.;
+**Damage**:: 1d12 P; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 16 rounds ; **Usage** 2  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Tech Revolution pg. 60_  
 **Level**:: 4
-**Price**:: 2,100  
+**Price**:: 2100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 P; **Range**:: 30 ft.;
+**Damage**:: 1d6 P; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 14 rounds ; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Uppercut Smg, Elite
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 13;
-**Price**:: 50,600  
+**Level**:: 13
+**Price**:: 50600  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d12 P; **Range**:: 40 ft.;
+**Damage**:: 2d12 P; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 18 rounds ; **Usage** 2  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Uppercut Smg, Paragon
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 18;
-**Price**:: 380,000  
+**Level**:: 18
+**Price**:: 380000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d12 P; **Range**:: 40 ft.;
+**Damage**:: 4d12 P; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 rounds ; **Usage** 2  
 **Bulk**:: L

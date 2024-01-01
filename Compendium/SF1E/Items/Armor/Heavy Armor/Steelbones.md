@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 16
+
 NoteType: Armor
-price: 145,000
+price: 145000
 tags: 
 Type: Heavy Armor
 ---
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Steelbones
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 16;
-**Price**::  145,500; **Category** Heavy  
-**EAC Bonus** +21; **KAC Bonus** +23; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 6; **Bulk** 2
+**Level**:: 16
+**Price**::  145500 
+**Category**:: Heavy  
+
+**EAC**:: +21 
+**KAC**:: +23 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**:: 2
 
 ### Description
 

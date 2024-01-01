@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ These graceful weapons have an infinitely repeating shape that grows smaller and
 ## Fractal Hook, Dynamic
 
 **Source**:: _Tech Revolution pg. 65_  
-**Level**:: 18;
-**Price**:: 360,000  
+**Level**:: 18
+**Price**:: 360000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 9d12 S;
+**Damage**:: 9d12 S
 **Critical**:: Embed 8d4  
 **Bulk**:: L
 **Special**:: Analog, relic, penetrating, unwieldy
@@ -30,10 +30,10 @@ These graceful weapons have an infinitely repeating shape that grows smaller and
 
 **Source**:: _Tech Revolution pg. 65_  
 **Level**:: 12
-**Price**:: 32,000  
+**Price**:: 32000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d12 S;
+**Damage**:: 4d12 S
 **Critical**:: Embed 4d4  
 **Bulk**:: L
 **Special**:: Analog, relic, penetrating, unwieldy

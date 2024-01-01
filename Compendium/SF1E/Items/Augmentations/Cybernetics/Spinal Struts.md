@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 3 / 6 / 10
+Item:
 price:  
-System: Spinal Column 
+
 tags: 
 Type: Cybertech
 ---
@@ -14,19 +14,22 @@ Your spinal cartilage is replaced with synthetic cushions and your vertebrae are
 ## Spinal Struts, Minimal
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 3;
-**Price**::  1,260; **System** Spinal column  
+**Level**:: 3
+**Price**::  1260 
+**System**:: Spinal column  
   
 
 ## Spinal Struts, Standard
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 6;
-**Price**::  4,030; **System** Spinal column  
+**Level**:: 6
+**Price**::  4030 
+**System**:: Spinal column  
   
 
 ## Spinal Struts, Reinforced
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 10;
-**Price**::  17,640; **System** Spinal column
+**Level**:: 10
+**Price**::  17640 
+**System**:: Spinal column

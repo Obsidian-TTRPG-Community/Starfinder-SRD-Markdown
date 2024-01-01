@@ -4,10 +4,10 @@ Level: 4
 Mystic: 
 NoteType: Spell
 Precog: 
-School: evocation (fire) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Wall of Fire

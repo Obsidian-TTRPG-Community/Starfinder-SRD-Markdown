@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 10 / 16
+Item:
 price:  
-System: Throat
+
 tags: 
 Type: Biotech
 ---
@@ -16,8 +16,9 @@ A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and
 ## Dragon Gland, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 211_  
-**Item Level** 10;
-**Price**::  19,125; **System** Throat  
+**Level**:: 10
+**Price**::  19125 
+**System**:: Throat  
   
 
 ---
@@ -25,12 +26,14 @@ A wyrmling dragon gland deals 3d6 damage, a standard gland deals 9d6 damage, and
 ## Dragon Gland, Wyrmling
 
 **Source**:: _Starfinder Core Rulebook pg. 211_  
-**Item Level** 2;
-**Price**::  755; **System** Throat  
+**Level**:: 2
+**Price**::  755 
+**System**:: Throat  
   
 
 ## Dragon Gland, Wyrm
 
 **Source**:: _Starfinder Core Rulebook pg. 211_  
-**Item Level** 16;
-**Price**::  181,500; **System** Throat
+**Level**:: 16
+**Price**::  181500 
+**System**:: Throat

@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 7 / 11 / 14
+Item:
 price:  
-System: All arms
+
 tags: 
 Type: Biotech
 ---
@@ -13,15 +13,16 @@ A set of wings that can fold up tightly is attached to your shoulder blades. You
 
 | Model  | Level | Price  | Fly Speed |
 |--------|-------|--------|-----------|
-| Strix  | 7     | 6,400  | 40 ft.    |
-| Angel  | 11    | 28,600 | 60 ft.    |
-| Dragon | 14    | 80,300 | 90 ft.    |
+| Strix  | 7     | 6400  | 40 ft.    |
+| Angel  | 11    | 28600 | 60 ft.    |
+| Dragon | 14    | 80300 | 90 ft.    |
 
 ## Ultralight Wings, Angel
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 11;
-**Price**::  28,600; **System** All arms  
+**Level**:: 11
+**Price**::  28600 
+**System**:: All arms  
   
 
 ---
@@ -29,12 +30,14 @@ A set of wings that can fold up tightly is attached to your shoulder blades. You
 ## Ultralight Wings, STRIX]
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 7;
-**Price**::  6,400; **System** All arms  
+**Level**:: 7
+**Price**::  6400 
+**System**:: All arms  
   
 
 ## Ultralight Wings, Dragon
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 14;
-**Price**::  80,300; **System** All arms
+**Level**:: 14
+**Price**::  80300 
+**System**:: All arms

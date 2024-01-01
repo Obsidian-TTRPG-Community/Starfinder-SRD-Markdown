@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 12
-Type: Colossal juggernaut
+type: Colossal juggernaut
 ---
 
 # Ibu “BREACHER” - Tier 12
 
-**Source**:: _Tech Revolution pg. 122_  
+**Source**:  _Tech Revolution pg. 122_  
 Colossal juggernaut, **Tier** 12 
 **Operators** 2–6; **PP** 7 (2/turn, max 15)  
 **Speed** 50 ft.;  

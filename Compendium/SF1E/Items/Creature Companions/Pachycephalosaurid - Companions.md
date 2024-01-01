@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 3-20
+
 Type: Large animal  
 ---
 # PACHYCEPHALOSAURID - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large animal
 **Source**:: _Alien Archive 3 pg. 144_  
 Pachycephalosaurids are bipedal dinosaurs with thick, domed skulls that can withstand incredible impacts—and be quite dangerous to creatures on the other end of their headbutts. A low center of gravity and wicked talons make pachycephalosaurids popular beasts of burden as well as combat-trained mounts.
 
-## PACHYCEPHALOSAURIDLEVELS 3-20
+## PACHYCEPHALOSAURID
+level:: 3-20
 
 Large animal  
 **Senses** blindsense (scent) 60 ft., low-light vision  

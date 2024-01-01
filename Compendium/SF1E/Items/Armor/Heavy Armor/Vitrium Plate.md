@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 18
+
 NoteType: Armor
 price: 365, 650
 tags: 
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Vitrium Plate
 
 **ource** _Starfinder Core Rulebook pg. 198_  
-**Level** 18;
-**Price**::  365,650; **Category** Heavy  
-**EAC Bonus** +23; **KAC Bonus** +24; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk** 1
+**Level**:: 18
+**Price**::  365650 
+**Category**:: Heavy  
+
+**EAC**:: +23 
+**KAC**:: +24 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: 1
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 2
-Environment: mountains, urban, or vacuum (Diaspora)  
+Environment: mountains, urban, or vacuum (Diaspora)
 hp: 25
-modifier: 4
+Initmod: 4
 name: Kaion
 statblock: true
 tags: 
-Type: N Small animal  
+Type: N Small animal
 ---
 
 # Kaion
@@ -16,7 +16,7 @@ Kaions hound miners and shippers across the galaxy, feasting on starship hulls a
 
 Kaions are a social species organized into a pod structure, and whole pods cooperate to bring down larger prey. When multiple kaions in a pod have reached a sufficient level of size and strength, they can instead become magnetically aligned with each other and form a single multichambered chimeric organism called a multipole, that can fly through space unaided.
 
-**Source**:: _Alien Archive 4 pg. 58_
+**Source**:  _Alien Archive 4 pg. 58_
 
 ## Kaion Cr 2
 

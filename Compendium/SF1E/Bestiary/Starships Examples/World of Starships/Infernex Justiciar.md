@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 11
-Type: Large destroyer (colony ship)
+type: Large destroyer (colony ship)
 ---
 
 # Infernex Justiciar
 
-> [!infobox|locr n-th clean]
->  [[Starship_InfernexJusticar.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InfernexJusticar.jpg|Spielern zeigen!]
 > 
 Large destroyer (colony ship), **Tier** 11 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

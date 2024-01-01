@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 9
-price: 2,250
+
+price: 2250
 tags: 
 type: Grenades
 ---
@@ -9,11 +9,12 @@ type: Grenades
 # Junkbot Grenade
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 9;
-**Price**:: 2,250  
+**Level**:: 9
+**Price**:: 2250  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

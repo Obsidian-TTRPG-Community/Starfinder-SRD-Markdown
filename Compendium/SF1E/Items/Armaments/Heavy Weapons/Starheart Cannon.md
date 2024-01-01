@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,59 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Starheart Cannon, Blue Star
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 18;
-**Price**:: 360,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 360000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 9d6 E & F; **Range**:: 100 ft.;
+**Damage**:: 9d6 E & F 
+**Range**:: 100 ft.
 **Critical**:: blind  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: bright, explode (15 ft.), unwieldy
 
 ## Starheart Cannon, Red Star
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 3;
-**Price**:: 1,300  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d6 E & F; **Range**:: 100 ft.;
+**Damage**:: 1d6 E & F 
+**Range**:: 100 ft.
 **Critical**:: blind  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: bright, explode (5 ft.), unwieldy
 
 ## Starheart Cannon, Yellow Star
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 8;
-**Price**:: 9,050  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9050  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d6 E & F; **Range**:: 100 ft.;
+**Damage**:: 3d6 E & F 
+**Range**:: 100 ft.
 **Critical**:: blind  
-**Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: bright, explode (10 ft.), unwieldy
 
 ## Starheart Cannon, White Star
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 13;
-**Price**:: 48,100  
-**Hands**:: 2;
+**Level**:: 13
+**Price**:: 48100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d6 E & F; **Range**:: 100 ft.;
+**Damage**:: 5d6 E & F 
+**Range**:: 100 ft.
 **Critical**:: blind  
-**Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: bright, explode (10 ft.), unwieldy

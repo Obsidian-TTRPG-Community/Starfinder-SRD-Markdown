@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: Medium explorer
+type: Medium explorer
 ---
 
 # Hivonyx Ambassador
 
-> [!infobox|locr n-th clean]
->  [[Starship_JivonyxAmbassador.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_JivonyxAmbassador.jpg|Spielern zeigen!]
 > 
 
 Medium explorer, **Tier** 4 

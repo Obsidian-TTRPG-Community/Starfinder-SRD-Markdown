@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,44 +14,79 @@ Popularized by the Free Captains of the Diaspora, freebooter armor features an a
 ## Freebooter Armor, I
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 2;
-**Price**:: 750; **Category** Light  
-**EAC Bonus** +2; **KAC Bonus** +3; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 2
+**Price**:: 750 
+**Category**:: Light  
+
+**EAC**:: +2 
+**KAC**:: +3 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Freebooter Armor, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 6;
-**Price**:: 4,720; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +8; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4720 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +8 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Freebooter Armor, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 10;
-**Price**:: 16,900; **Category** Light  
-**EAC Bonus** +12; **KAC Bonus** +13; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 10
+**Price**:: 16900 
+**Category**:: Light  
+
+**EAC**:: +12 
+**KAC**:: +13 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Freebooter Armor, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 14
-**Price**:: 60,600; **Category** Light  
-**EAC Bonus** +17; **KAC Bonus** +18; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Price**:: 60600 
+**Category**:: Light  
+
+**EAC**:: +17 
+**KAC**:: +18 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ## Freebooter Armor, V
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 18;
-**Price**:: 367,650; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +21; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: L
+**Level**:: 18
+**Price**:: 367650 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +21 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: L

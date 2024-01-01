@@ -1,14 +1,14 @@
 ---
-aliases: 
-cr: 1
-Environment: any
+aliases: ---
+cr: 1)
+environment: any
 hp: 22
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Free Captains, Space Pirate
 statblock: true
 tags: 
-Type: NE Medium humanoid (human)  
+type: NE Medium humanoid (human)
 ---
 
 # Free Captains, Space Pirate
@@ -18,7 +18,7 @@ Piracy in the Pact Worlds is a serious concern for any corporation that needs to
 
 ## Free Captains, Space Pirate
 
-**Source**:: _Pact Worlds pg. 170_
+**Source**:  _Pact Worlds pg. 170_
 
 ## Space Pirate Cr 1
 

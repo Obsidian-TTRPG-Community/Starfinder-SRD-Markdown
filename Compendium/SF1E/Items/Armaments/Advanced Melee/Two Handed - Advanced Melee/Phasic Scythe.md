@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 7 / 11 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ With these phasic scythes, weaponsmiths harnessed the nyssholora’s ability to 
 ## Phasic Scythe, Harmonic
 
 **Source**:: _Alien Archive 2 pg. 87_  
-**Level**:: 11;
-**Price**:: 25,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d4 So;
+**Level**:: 11
+**Price**:: 25000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d4 So
 **Critical**:: Wound  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 40, usage 5)
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 40, usage 5)
 
 ## Phasic Scythe, Monophonic
 
 **Source**:: _Alien Archive 2 pg. 87_  
-**Level**:: 7;
-**Price**:: 6,250  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 So;
+**Level**:: 7
+**Price**:: 6250  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d4 So
 **Critical**:: Wound  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 40, usage 4)
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 40, usage 4)
 
 ## Phasic Scythe, Polyphonic
 
 **Source**:: _Alien Archive 2 pg. 87_  
-**Level**:: 15;
-**Price**:: 112,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d8 So;
+**Level**:: 15
+**Price**:: 112500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d8 So
 **Critical**:: Wound  
-**Bulk**:: 2;
-**Special**:: penetrating, powered (capacity 80, usage 8)
+**Bulk**:: 2**Special**:: penetrating, powered (capacity 80, usage 8)
 
 ## Phasic Scythe, Multiphonic
 
 **Source**:: _Alien Archive 2 pg. 87_  
-**Level**:: 19;
-**Price**:: 562,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 So;
+**Level**:: 19
+**Price**:: 562500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d8 So
 **Critical**:: Wound  
-**Bulk**:: 2;
-**Special**:: penetrating, powered (capacity 100, usage 10)
+**Bulk**:: 2**Special**:: penetrating, powered (capacity 100, usage 10)

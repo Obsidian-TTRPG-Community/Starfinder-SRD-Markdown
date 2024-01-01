@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,33 +13,37 @@ A portable light, sometimes called an electric torch, is one of several differen
 ## Portable Light, Beacon
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  25  
-**Capacity**:: 10; **Usage** 1/hour  
-**Hands** 2; **Bulk** 1
+**Capacity**:: 10 **Usage** 1/hour  
+**Hands** 2 
+**Bulk**:: 1
 
 ---
 
 ## Portable Light, Flashlight
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  1  
-**Capacity**:: 10; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 10 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ## Portable Light, Lantern
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  1  
-**Capacity**:: 10; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 10 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ## Portable Light, Spotlight
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  25  
-**Capacity**:: 10; **Usage** 1/hour  
-**Hands** 2; **Bulk** 1
+**Capacity**:: 10 **Usage** 1/hour  
+**Hands** 2 
+**Bulk**:: 1

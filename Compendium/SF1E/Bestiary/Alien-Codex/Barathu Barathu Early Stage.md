@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 2
-Environment: any sky (Bretheda)  
+Environment: any sky (Bretheda)
 hp: 23
-modifier: 0
+Initmod: 0
 name: Barathu, Barathu (Early Stage)
 statblock: true
 tags: 
-Type: LN Medium aberration  
+Type: LN Medium aberration
 ---
 
 # Barathu, Barathu (EARLY STAGE)
@@ -18,7 +18,7 @@ Barathu culture tends to be easygoing but hard for some other races to understan
 
 ## Barathu, Barathu (EARLY STAGE)
 
-**Source**:: _Alien Archive pg. 20_
+**Source**:  _Alien Archive pg. 20_
 
 ## Barathu (EARLY STAGE) Cr 2
 

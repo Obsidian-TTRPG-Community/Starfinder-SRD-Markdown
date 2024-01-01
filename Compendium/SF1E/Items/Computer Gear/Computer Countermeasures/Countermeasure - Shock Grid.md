@@ -1,8 +1,8 @@
 ---
 aliases: 
 Category: Countermeasure
-Level: 
-price:  
+
+price:  Varies
 tags: 
 Type: Computer Gear
 ---

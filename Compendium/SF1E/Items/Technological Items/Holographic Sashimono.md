@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 300
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Holographic Sashimono
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 1;
+**Level**:: 1
 **Price**::  300  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

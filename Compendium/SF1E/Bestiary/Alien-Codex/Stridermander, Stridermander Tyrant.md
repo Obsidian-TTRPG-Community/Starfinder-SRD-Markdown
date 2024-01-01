@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 10
-Environment: any (Vesk-3)  
+Environment: any (Vesk-3)
 hp: 165
-modifier: 5
+Initmod: 5
 name: Stridermander, Stridermander Tyrant
 statblock: true
 tags: 
-Type: CE Large monstrous humanoid (skittermander)  
+Type: CE Large monstrous humanoid (skittermander)
 ---
 
 # Stridermander, Stridermander Tyrant
@@ -22,7 +22,7 @@ While simpleminded and animalistic, stridermanders are clever predators and cons
 
 Today, stridermanders remain a danger in Vesk-3’s deep forests and caverns, though the Veskarium has heavily curtailed their numbers. Their whelps are small, rodent-like, and solitary, making them difficult to exterminate and allowing them to easily stow away on starships. Stridermanders have consequently migrated to several other worlds, where they reproduce quickly and fill apex predator roles in wilderness and ruins environments. Vesk see the species as dangerous predators worthy of hunting, and the Veskarium has exported stridermanders off-world for use as guard beasts, and for a variety of dangerous sporting events.
 
-**Source**:: _Alien Archive 3 pg. 104_
+**Source**:  _Alien Archive 3 pg. 104_
 
 ## Stridermander Tyrant Cr 10
 

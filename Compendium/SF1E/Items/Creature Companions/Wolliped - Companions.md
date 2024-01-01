@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 3-20
+
 Type: Large animal  
 ---
 # WOLLIPED - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large animal
 **Source**:: _Alien Archive 3 pg. 146_  
 Wollipeds are common mounts in cold environs and have long served as war mounts.
 
-## WOLLIPEDLEVELS 3-20
+## WOLLIPED
+level:: 3-20
 
 Large animal  
 **Senses** blindsense (scent) 60 ft., low‑light vision  

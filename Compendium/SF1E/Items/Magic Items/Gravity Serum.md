@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 3
+
 price: 320 
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Alien Archive 2 pg. 73_  
+**Price**::  320 
+**Bulk**:: L
 **Level**:: 3
-**Price**::  320; **Bulk** L
 
 ### Description
 

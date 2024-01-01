@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 10
-price: 2,500
+
+price: 2500
 tags: 
 type: Grenades
 ---
@@ -9,11 +9,12 @@ type: Grenades
 # Wonder Grenade
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 10;
-**Price**:: 2,500  
+**Level**:: 10
+**Price**:: 2500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -40,7 +41,7 @@ These grenades pose a risk to the thrower. If you roll a 1, 3, or 5 on the attac
 | 51–55  | One First World beast is teleported into the blast radius. Roll d% to determine the beast: 1–15—Huge beast (such as an elephant); 16–50—Large beast (such as a rhino); 51–100—Tiny beast (such as a squirrel). The beast appears in an unoccupied space, only 1 square of which must be in the blast radius. If the beast doesn’t have enough room to appear, a beast of the next smaller size appears. The beast is no one’s ally. It has a 25% chance to arrive hostile, but is otherwise indifferent until it reacts to the current situation. Use the summoning creatures rules (Alien Archive 244) to determine the creature’s statistics.                                                                                           |
 | 56–60  | Each creature in the blast radius can hear the surface thoughts of other creatures within 30 feet of it as a bewildering jumble alongside its own. This mind-affecting effect renders a creature shaken. A creature can attempt a Will save at the end of its turn each round to end the effect. Otherwise, the effect lasts 1 minute. If a creature succeeds at its saving throw by 5 or more, that creature is no longer shaken and can focus the effect to function as detect thoughts, lasting for the remainder of the effect’s duration.                                                                                                                                                                                            |
 | 61–65  | Each creature in the blast radius must succeed at a Will saving throw or suffer the mind-affecting delusion that it has increased one step in size. An affected creature takes a –1 circumstance penalty to Dexterity-based checks and saving throws, as well as to EAC and KAC. It is treated as squeezing when a creature of its imagined size would be squeezing, and it is unlikely to attempt to move into areas “too small” for it. If a creature believes it is constrained completely, it becomes paralyzed. This delusion lasts 2d4 rounds, but the creature can attempt a new saving throw once on any round when something happens that contradicts the false belief, such as being moved when it believes itself constrained. |
-| 66–70  | About 5,000 harmless, beautiful flying insects appear within the blast radius. This swarm functions like a fog cloud spell that disperses after 4d4 rounds.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 66–70  | About 5000 harmless, beautiful flying insects appear within the blast radius. This swarm functions like a fog cloud spell that disperses after 4d4 rounds.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | 71–75  | The center of the blast radius becomes a gravitational anomaly for an instant. Creatures in the blast radius must succeed at a Fortitude save or be dragged to the enarest space adjacent to the grenade’s point of detonation. Any creature that collides with terrain that blocks line of effect or with another creature takes 2d6 bludgeoning damage and falls prone.                                                                                                                                                                                                                                                                                                                                                                 |
 | 76–80  | The grenade splits into 1d3+1 grenades, each of a kind determined randomly by rolling d%: 1–20—frag II, 21–34—screamer II, 35–50— shock II, 51–70—stickybomb II, 71–80—cryo I, 81–90—flash II, 91–100—incendiary II. Each grenade bounces as if its thrower had missed when throwing it. After each grenade lands at its new target, it detonates.                                                                                                                                                                                                                                                                                                                                                                                        |
 | 81–85  | About a thousand adorable, harmless Diminutive animals appear in the blast radius, covering the ground. This horde makes the blast radius difficult terrain, and at the end of every round, that area expands by 5 feet. Any item dropped or thrown into the area is knocked 1d4 squares in a random direction by the scrambling creatures, and knocked again when the area expands. The horde expands enough to disperse after 5 rounds.                                                                                                                                                                                                                                                                                                 |

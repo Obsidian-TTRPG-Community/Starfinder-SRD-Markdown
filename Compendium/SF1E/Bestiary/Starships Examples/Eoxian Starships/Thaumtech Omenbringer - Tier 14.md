@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 14
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Thaumtech Omenbringer - Tier 14
 
-> [!infobox|locr n-th clean]
->  [[Starship_ThaumatechOmenbringer.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_ThaumatechOmenbringer.jpg|Spielern zeigen!]
 > 
 
 Gargantuan battleship, **Tier**  14 

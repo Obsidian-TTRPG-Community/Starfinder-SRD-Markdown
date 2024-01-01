@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 14  
-price: 75,000
+
+price: 75000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Synaptic Link
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 14;
-**Price**::  75,000  
-**Capacity**:: 100; **Usage** 5/round  
-**Hands** —; **Bulk** L
+**Level**:: 14
+**Price**::  75000  
+**Capacity**:: 100 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Medium vermin  
 ---
 # KLIKHARP - COMPANIONS
@@ -8,7 +8,8 @@ Type: Medium vermin
 **Source**:: _Alien Archive 4 pg. 65_  
 Klikharps naturally make affable creature companions.
 
-## KLIKHARPLEVELS 1-20
+## KLIKHARP
+level:: 1-20
 
 Medium vermin  
 **Senses** blindsense (vibration) 60 ft., darkvision 60 ft., low-light vision  

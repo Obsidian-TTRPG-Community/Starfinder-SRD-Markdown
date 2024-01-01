@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 2-8
+
 Type: Tiny magical beast 
 ---
 #  POT-BELLIED BULETTE COMPANIONS
@@ -8,7 +8,8 @@ Type: Tiny magical beast
 **Source**:: _Ports of Call pg. 73_  
 New Horizons Luxury Retreats’ genetic engineers have reached back into the mists of lost Golarion’s past to recreate one of that planet’s most feared predators... in miniature form! By shrinking the original creature’s size and dampening its voracious appetite, these scientists have essentially domesticated the bulette. The tiny, pot-bellied versions of these landsharks retain their iconic dorsal fin and ability to burrow through the earth.
 
-## POT-BELLIED BULETTELEVELS 2-8
+## POT-BELLIED BULETTE
+level:: 2-8
 
 Tiny magical beast  
 **Senses** blindsense (vibration) 30 ft., darkvision 60 ft., low-light vision  

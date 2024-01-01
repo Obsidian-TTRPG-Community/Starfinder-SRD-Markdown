@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Abaddon)  
+Environment: any (Abaddon)
 hp: 52
-modifier: 5
+Initmod: 5
 name: Daemon, Alucidaemon
 statblock: true
 tags: 
-Type: NE Small outsider (daemon, evil, extraplanar)  
+Type: NE Small outsider (daemon, evil, extraplanar)
 ---
 
 # Daemon, Alucidaemon

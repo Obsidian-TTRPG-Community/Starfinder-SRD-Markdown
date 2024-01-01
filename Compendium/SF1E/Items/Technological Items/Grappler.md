@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 700
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Grappler
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 2;
+**Level**:: 2
 **Price**::  700  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

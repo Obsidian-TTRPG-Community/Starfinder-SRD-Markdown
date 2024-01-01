@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: Light, Heavy
-ItemLevel: 8 / 14
+Item:
 NoteType: Armor
 price:  
 Slots: 2
@@ -16,15 +16,17 @@ _Mindlink servos_ allow you to move using purely mental actions. With the base 
 ## Mindlink Servos, Mk 1 (HYBRID)
 
 **Source**:: _Near Space pg. 153_  
-**Item Level** 8;
-**Price**::  9,500  
-**Slots** 2; **Armor Type** Light, Heavy; **Bulk** 2  
-**Capacity**:: 5; **Usage** 1/round  
+**Level**:: 8
+**Price**::  9500  
+**Slots** 2 **Armor Type** Light, Heavy 
+**Bulk**:: 2  
+**Capacity**:: 5 **Usage** 1/round  
 
 ## Mindlink Servos, Mk 2 (HYBRID)
 
 **Source**:: _Near Space pg. 153_  
-**Item Level** 14;
-**Price**::  71,000  
-**Slots** 2; **Armor Type** Light, Heavy; **Bulk** 2  
-**Capacity**:: 5; **Usage** 1/round
+**Level**:: 14
+**Price**::  71000  
+**Slots** 2 **Armor Type** Light, Heavy 
+**Bulk**:: 2  
+**Capacity**:: 5 **Usage** 1/round

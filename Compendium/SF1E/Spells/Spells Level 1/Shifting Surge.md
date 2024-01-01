@@ -4,10 +4,10 @@ Level: 1
 Mystic: 
 NoteType: Spell
 Precog: 
-School: transmutation 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Shifting Surge

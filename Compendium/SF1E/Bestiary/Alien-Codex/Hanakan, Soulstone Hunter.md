@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: any (Ash’Akan)  
+Environment: any (Ash’Akan)
 hp: 112
-modifier: 4
+Initmod: 4
 name: Hanakan, Soulstone Hunter
 statblock: true
 tags: 
-Type: LN Small magical beast  
+Type: LN Small magical beast
 ---
 
 # Hanakan, Soulstone Hunter
@@ -28,7 +28,7 @@ The average hanakan stands 2-1/12 feet tall at the shoulder, measures 4 feet lon
 
 ## Hanakan, Soulstone Hunter
 
-**Source**:: _Alien Archive 3 pg. 48_
+**Source**:  _Alien Archive 3 pg. 48_
 
 ## Soulstone Hunter Cr 8
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 2 / 6 / 10
+Item:
 NoteType: Armor
 price: 
 Slots: 1
@@ -16,22 +16,25 @@ When activated, this unobtrusive lump of metal and plastic emits an irritating s
 ## Broadband Noise Generator, Mk 1
 
 **Source**:: _Tech Revolution pg. 53_  
-**Item Level** 2;
+**Level**:: 2
 **Price**::  650  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
 
 ## Broadband Noise Generator, Mk 2
 
 **Source**:: _Tech Revolution pg. 53_  
-**Item Level** 6;
-**Price**::  3,900  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
+**Level**:: 6
+**Price**::  3900  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
   
   
 
 ## Broadband Noise Generator, Mk 3
 
 **Source**:: _Tech Revolution pg. 53_  
-**Item Level** 10;
-**Price**::  17,500  
-**Slots** 1; **Armor Type** Any; **Bulk** —
+**Level**:: 10
+**Price**::  17500  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —

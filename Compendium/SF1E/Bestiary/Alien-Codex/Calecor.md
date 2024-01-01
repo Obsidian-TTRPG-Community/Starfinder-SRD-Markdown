@@ -3,11 +3,21 @@ aliases:
 cr: 17
 Environment: any
 hp: 300
-modifier: 5
+Initmod: 5
 name: Calecor
 statblock: true
 tags: 
-Type: CN Large fey  
+Type: CN Large fey
+combatType: spellcaster
+alignment: CN
+size: large
+type(subtype): fey(-)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Calecor
@@ -74,3 +84,5 @@ Although not inherently bellicose, and in fact gentle toward organisms it deems 
 ## Calecor Skull-globe
 
 When a calecor dies, whether as a result of violence or its world being either repaired to the calecor’s satisfaction or devastated beyond hope, the illusory halves of the planet that serve as the creature’s head fuse and become a mysterious crystalline globe. A calecor skull-globe retains part of the calecor’s magical bond to its planet, making this magic accessible to anyone who touches the globe. The globe shatters if the planet to which it is bonded is destroyed.
+
+

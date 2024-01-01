@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 7 / 10 / 13 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 ## Z-boson, Greater
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 16;
-**Price**:: 177,500  
+**Level**:: 16
+**Price**:: 177500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d8 ;
+**Damage**:: +3d8 
 **Critical**:: push (25 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -30,7 +30,7 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 **Price**:: 115  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 ;
+**Damage**:: +1 
 **Critical**:: push (5 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -39,10 +39,10 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 
 **Source**:: _Starfinder Armory pg. 49_  
 **Level**:: 4
-**Price**:: 1,950  
+**Price**:: 1950  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d2 ;
+**Damage**:: +1d2 
 **Critical**:: push (5 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 ## Z-boson, Minor
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 7;
-**Price**:: 7,000  
+**Level**:: 7
+**Price**:: 7000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d4 ;
+**Damage**:: +1d4 
 **Critical**:: push (10 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -62,11 +62,11 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 ## Z-boson, Lesser
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 10;
-**Price**:: 17,500  
+**Level**:: 10
+**Price**:: 17500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d8 ;
+**Damage**:: +1d8 
 **Critical**:: push (10 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -74,11 +74,11 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 ## Z-boson, Standard
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 13;
-**Price**:: 47,500  
+**Level**:: 13
+**Price**:: 47500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d8 ;
+**Damage**:: +2d8 
 **Critical**:: push (20 ft.)  
 **Bulk**:: —
 **Special**:: —
@@ -86,11 +86,11 @@ This specialized weapon crystal causes a solar weapon to twist energy, momentum,
 ## Z-boson, True
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 19;
-**Price**:: 561,000  
+**Level**:: 19
+**Price**:: 561000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d8 ;
+**Damage**:: +4d8 
 **Critical**:: push (30 ft.)  
 **Bulk**:: —
 **Special**:: —

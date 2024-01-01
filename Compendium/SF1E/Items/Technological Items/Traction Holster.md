@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 7  
-price: 6,000
+
+price: 6000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Traction Holster
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 7;
-**Price**::  6,000  
-**Capacity**:: 80; **Usage** 10/minute  
-**Hands** —; **Bulk** L
+**Level**:: 7
+**Price**::  6000  
+**Capacity**:: 80 **Usage** 10/minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

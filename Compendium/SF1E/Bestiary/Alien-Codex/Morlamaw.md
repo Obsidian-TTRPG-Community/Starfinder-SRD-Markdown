@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any water (Arniselle)  
+Environment: any water (Arniselle)
 hp: 32
-modifier: 0
+Initmod: 0
 name: Morlamaw
 statblock: true
 tags: 
-Type: LN Large monstrous humanoid (aquatic)  
+Type: LN Large monstrous humanoid (aquatic)
 ---
 
 # Morlamaw
@@ -22,7 +22,7 @@ The morlamaw language is based on gesture and expression as much as words. Gestu
 
 Arniselle recently attracted visitors from the Pact Worlds, thanks to the planet’s prevalent natural resources, introducing the morlamaws to creatures from other planets for the first time. Several of the major trench cities now have teams hard at work developing water-filled, Drift-capable starships. Particularly adventurous morlamaws have taken to the stars in other ways, getting jobs with mining companies, trading consortiums, the Starfinder Society, and AbadarCorp, who find the orderly morlamaws to be excellent employees. Among other species, morlamaws have a reputation as friendly, good-natured, cooperative, and somewhat gullible.
 
-**Source**:: _Alien Archive 3 pg. 72_
+**Source**:  _Alien Archive 3 pg. 72_
 
 ## Morlamaw Cr 3
 

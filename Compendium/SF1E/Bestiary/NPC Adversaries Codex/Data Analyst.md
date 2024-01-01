@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Data Analyst
-statblock: true
-Subtype: Stewards
+statblock: true(Stewards
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Data Analyst

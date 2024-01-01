@@ -3,11 +3,24 @@ aliases:
 cr: 9
 Environment: any
 hp: 145
-modifier: 3
+Initmod: 3
 name: Scavenger Slime
 statblock: true
 tags: 
-Type: N Large ooze  
+Type: N Large ooze
+combatType: combatant
+alignment: N
+size: large
+type(subtype): ooze(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - work crew(3-10)
+source: Alien Archive
 ---
 
 # Scavenger Slime
@@ -74,3 +87,5 @@ The scavenger slime’s sticky resin can be used as makeshift stickybomb grenade
 ## Slime-patch Systems
 
 While most spacefarers know better than to try and harness scavenger slimes’ technology, given the obvious dangers involved, the oozes’ ability to quickly adapt and repair systems has made them surprisingly useful tools for those starship engineers daring enough to employ them. Slime-patch systems can be installed in any starship for 8 Build Points, with no expansion bay or PCU cost. When a ship with slime-patch systems acquires a critical damage condition, the slime-patch system automatically turns on, spraying the damaged systems with scavenger slime material almost like a fire-sprinkler system. The slime, which is chemically treated to die within moments of its unexpected freedom, automatically begins repairing the system, reducing the number of engineering actions required to patch the critical damage condition by 1 (minimum 1).
+
+

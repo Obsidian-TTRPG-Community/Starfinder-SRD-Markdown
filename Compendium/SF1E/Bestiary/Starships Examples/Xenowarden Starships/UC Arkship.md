@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: Large biomechanical destroyer
+type: Large biomechanical destroyer
 ---
 
 # Uc Arkship
 
-> [!infobox|locr n-th clean]
->  [[Starship_UCArkship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UCArkship.jpg|Spielern zeigen!]
 > 
 Large biomechanical destroyer, **Tier** 10 
 **Speed** 8; **Maneuverability** average (turn 3); **Drift** 2  

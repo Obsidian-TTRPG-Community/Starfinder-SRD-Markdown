@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 19
+
 price: 
 tags: 
 type: Grenades
@@ -15,11 +15,12 @@ The first time a creature enters or starts its turn in an area of microgravity, 
 ## Antigravity Grenade, Mk 1
 
 **Source**:: _Galaxy Exploration Manual pg. 41_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 140  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -28,11 +29,12 @@ The first time a creature enters or starts its turn in an area of microgravity, 
 ## Antigravity Grenade, Mk 2
 
 **Source**:: _Galaxy Exploration Manual pg. 41_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 575  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -41,11 +43,12 @@ The first time a creature enters or starts its turn in an area of microgravity, 
 ## Antigravity Grenade, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 41_  
-**Level**:: 10;
-**Price**:: 2,650  
+**Level**:: 10
+**Price**:: 2650  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -55,10 +58,11 @@ The first time a creature enters or starts its turn in an area of microgravity, 
 
 **Source**:: _Galaxy Exploration Manual pg. 41_  
 **Level**:: 14
-**Price**:: 9,500  
+**Price**:: 9500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -67,11 +71,12 @@ The first time a creature enters or starts its turn in an area of microgravity, 
 ## Antigravity Grenade, Mk 5
 
 **Source**:: _Galaxy Exploration Manual pg. 41_  
-**Level**:: 19;
-**Price**:: 83,000  
+**Level**:: 19
+**Price**:: 83000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

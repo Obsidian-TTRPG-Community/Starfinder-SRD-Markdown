@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 15 
-price: 105,000
+
+price: 105000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Grounding Boots
 
 **Source**:: _Starfinder Armory pg. 103_  
-**Level** 15;
-**Price**::  105,000  
-**Capacity**:: 100; **Usage** 1/minute  
-**Hands** —; **Bulk** L
+**Level**:: 15
+**Price**::  105000  
+**Capacity**:: 100 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 7 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,35 +15,29 @@ The overlarge devastation blade is a two-edged sword that creates terrifying wou
 ## Devastation Blade, Apocalypse
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 18;
-**Price**:: 410,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 12d8 S;
+**Level**:: 18
+**Price**:: 410200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 12d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Devastation Blade, Wrack
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 7;
-**Price**:: 5,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 S;
+**Level**:: 7
+**Price**:: 5500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Devastation Blade, Ruin
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 13;
-**Price**:: 43,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d8 S;
+**Level**:: 13
+**Price**:: 43900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog

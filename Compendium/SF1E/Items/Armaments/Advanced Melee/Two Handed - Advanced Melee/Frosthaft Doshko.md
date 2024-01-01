@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 7 / 14 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ This doshko has blades formed of deadly ice by condensers situated within the we
 ## Frosthaft Doshko, Avalanche
 
 **Source**:: _Near Space pg. 150_  
-**Level**:: 20;
-**Price**:: 804,400  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d12 C;
+**Level**:: 20
+**Price**:: 804400  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d12 C
 **Critical**:: Enfeeble  
-**Bulk**:: 1;
-**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
+**Bulk**:: 1**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
 
 ## Frosthaft Doshko, Chill
 
 **Source**:: _Near Space pg. 150_  
 **Level**:: 4
-**Price**:: 2,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 C;
+**Price**:: 2100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 C
 **Critical**:: Enfeeble  
-**Bulk**:: 1;
-**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
+**Bulk**:: 1**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
 
 ## Frosthaft Doshko, Subzero
 
 **Source**:: _Near Space pg. 150_  
-**Level**:: 7;
-**Price**:: 12,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d10 C;
+**Level**:: 7
+**Price**:: 12800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d10 C
 **Critical**:: Enfeeble  
-**Bulk**:: 1;
-**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
+**Bulk**:: 1**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
 
 ## Frosthaft Doshko, Glacial
 
 **Source**:: _Near Space pg. 150_  
 **Level**:: 14
-**Price**:: 73,400  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d10 C;
+**Price**:: 73400  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d10 C
 **Critical**:: Enfeeble  
-**Bulk**:: 1;
-**Special**:: Powered (capacity 20, usage 1), reach, unwieldy
+**Bulk**:: 1**Special**:: Powered (capacity 20, usage 1), reach, unwieldy

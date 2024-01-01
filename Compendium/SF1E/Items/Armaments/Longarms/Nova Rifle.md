@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 11
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,35 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Nova Rifle, Red Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 940  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 E & F; **Range**:: 30 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 E & F; 
+**Range**:: 30 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: line, unwieldy
+**Bulk**:: 1**Special**:: line, unwieldy
 
 ## Nova Rifle, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 7;
-**Price**:: 6,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 E & F; **Range**:: 60 ft.;
+**Level**:: 7
+**Price**:: 6800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 E & F; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: line, unwieldy
+**Bulk**:: 1**Special**:: line, unwieldy
 
 ## Nova Rifle, White Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 11;
-**Price**:: 25,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d6 E & F; **Range**:: 80 ft.;
+**Level**:: 11
+**Price**:: 25300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d6 E & F; 
+**Range**:: 80 ft.
 **Critical**:: blind  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: line, unwieldy
+**Bulk**:: 1**Special**:: line, unwieldy

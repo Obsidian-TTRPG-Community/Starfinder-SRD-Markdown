@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 12
-price: 36,000
+
+price: 36000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Mind Guardian
 
 **Source**:: _Pact Worlds pg. 202_  
-**Level** 12;
-**Price**::  36,000; **Bulk** —
+**Level**:: 12
+**Price**::  36000 
+**Bulk**:: —
 
 ### Description
 

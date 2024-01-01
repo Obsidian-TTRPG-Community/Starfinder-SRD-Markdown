@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 165
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Brutaris Lock-back
-statblock: true
-Subtype: Sport Figures
+statblock: true(Sport Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Brutaris Lock-back

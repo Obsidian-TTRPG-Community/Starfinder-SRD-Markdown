@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 11 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Pistol, Crypt-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 6;
-**Price**:: 4,350  
+**Level**:: 6
+**Price**:: 4350  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 C; **Range**:: 40 ft.;
+**Damage**:: 1d6 C; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -33,11 +34,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Pistol, Grave-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 900  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 C; **Range**:: 40 ft.;
+**Damage**:: 1d4 C; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -46,11 +48,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Pistol, Sepulcher-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 11;
-**Price**:: 25,500  
+**Level**:: 11
+**Price**:: 25500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 C; **Range**:: 40 ft.;
+**Damage**:: 2d8 C; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -59,11 +62,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Pistol, Vault-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 18;
-**Price**:: 591,000  
+**Level**:: 18
+**Price**:: 591000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d8 C; **Range**:: 40 ft.;
+**Damage**:: 5d8 C; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ This blade looks much like a single-edged survival knife when opened, but the bl
 ## Switchblade, Molecular Rift
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 18;
-**Price**:: 354,000  
+**Level**:: 18
+**Price**:: 354000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 11d4 S;
+**Damage**:: 11d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, operative
@@ -27,11 +27,11 @@ This blade looks much like a single-edged survival knife when opened, but the bl
 ## Switchblade, Tactical
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 3;
-**Price**:: 1,300  
+**Level**:: 3
+**Price**:: 1300  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 S;
+**Damage**:: 1d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, operative
@@ -39,11 +39,11 @@ This blade looks much like a single-edged survival knife when opened, but the bl
 ## Switchblade, Ultrathin
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 8;
-**Price**:: 9,100  
+**Level**:: 8
+**Price**:: 9100  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d4 S;
+**Damage**:: 2d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, operative
@@ -51,11 +51,11 @@ This blade looks much like a single-edged survival knife when opened, but the bl
 ## Switchblade, Zero-edge
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 13;
-**Price**:: 48,600  
+**Level**:: 13
+**Price**:: 48600  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 5d4 S;
+**Damage**:: 5d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, operative

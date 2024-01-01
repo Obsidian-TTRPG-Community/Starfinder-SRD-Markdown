@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 12
-Type: Gargantuan carrier  
+type: Gargantuan carrier  
 ---
 
 # Idaran Millennia
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranMillennia.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranMillennia.jpg|Spielern zeigen!]
 > 
 Gargantuan carrier, **Tier** 12
 **Speed** 4; **Maneuverability** poor (turn 3); **Drift** 1  

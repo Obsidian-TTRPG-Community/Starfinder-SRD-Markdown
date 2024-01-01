@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Erahthi Alchemist
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Erahthi Alchemist

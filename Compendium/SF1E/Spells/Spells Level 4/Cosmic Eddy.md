@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 4
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: evocation 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Cosmic Eddy

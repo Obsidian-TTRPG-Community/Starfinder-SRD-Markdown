@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 40
 tags: 
 type: Grenades
@@ -13,7 +13,8 @@ type: Grenades
 **Price**:: 40  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: Large heavy freighter
+type: Large heavy freighter
 ---
 
 # Dashadz Griffon
 
-> [!infobox|locr n-th clean]
->  [[Starship_DashadzGriffon.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_DashadzGriffon.jpg|Spielern zeigen!]
 > 
 Large heavy freighter, **Tier** 10 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 3  

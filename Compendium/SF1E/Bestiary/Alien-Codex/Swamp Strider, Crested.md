@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 10
-Environment: any marshes (Castrovel)  
+Environment: any marshes (Castrovel)
 hp: 165
-modifier: 8
+Initmod: 8
 name: Swamp Strider, Crested
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Swamp Strider, Crested
@@ -21,7 +21,7 @@ But speed isn’t swamp striders’ only protection. Their bodies sport an array
 Yet what most people know about swamp striders is their stench, which arises from the multitudinous algae that grow in their thick fur. The motley green, brown, and red flora help camouflage the creatures visually among the wetland grasses and mosses. Their smell, in contrast, is so strong that it overwhelms the sensitive nostrils of their predators, practically disabling others’ olfactory senses and also deterring all but the most determined hunters. Moreover, each swamp strider’s colony has a slightly different composition and scent, helping the creatures recognize each other and identify interlopers, whom the herd challenges with low clicking sounds.
 
 
-**Source**:: _Alien Archive 4 pg. 122_
+**Source**:  _Alien Archive 4 pg. 122_
 
 ## Crested Cr 10
 

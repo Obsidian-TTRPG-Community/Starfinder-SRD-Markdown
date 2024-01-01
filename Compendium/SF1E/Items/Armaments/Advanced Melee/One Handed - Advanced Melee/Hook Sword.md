@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3
+
 Notetype: Weapon
-price: 1,420
+price: 1420
 tags: 
 type: Advanced-Melee
 ---
@@ -11,11 +11,11 @@ type: Advanced-Melee
 # Hook Sword
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 3;
-**Price**:: 1,420  
+**Level**:: 3
+**Price**:: 1420  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 S;
+**Damage**:: 1d8 S
 **Critical**:: bleed 1d4  
 **Bulk**:: L
 **Special**:: analog, trip

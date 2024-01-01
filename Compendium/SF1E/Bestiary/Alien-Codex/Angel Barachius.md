@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: any good-aligned planes  
+Environment: any good-aligned planes
 hp: 95
-modifier: 4
+Initmod: 4
 name: Angel, Barachius
 statblock: true
 tags: 
-Type: NG Large outsider (angel, extraplanar, good)  
+Type: NG Large outsider (angel, extraplanar, good)
 ---
 
 # Angel, Barachius

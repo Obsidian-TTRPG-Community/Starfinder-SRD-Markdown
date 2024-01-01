@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 16
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Ringworks Specter
 
-> [!infobox|locr n-th clean]
->  [[Starship_RingworksSpecter.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_RingworksSpecter.jpg|Spielern zeigen!]
 > 
 Gargantuan battleship, **Tier** 16 
 **Speed** 6; **Maneuverability** average (turn 2); **Drift** 1  

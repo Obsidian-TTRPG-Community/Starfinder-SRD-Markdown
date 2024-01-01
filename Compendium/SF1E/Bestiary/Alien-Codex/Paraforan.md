@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: vacuum (the Drift)  
+Environment: vacuum (the Drift)
 hp: 222
-modifier: 5
+Initmod: 5
 name: Paraforan
 statblock: true
 tags: 
-Type: N Large outsider (extraplanar)  
+Type: N Large outsider (extraplanar)
 ---
 
 # Paraforan

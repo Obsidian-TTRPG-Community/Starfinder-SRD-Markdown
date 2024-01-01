@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,25 +20,29 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Rotolaser, Advanced
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 7;
-**Price**:: 6,040  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 6040  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 F; **Range**:: 120 ft.;
+**Damage**:: 2d8 F 
+**Range**:: 120 ft.
 **Critical**:: burn 1d6  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: Automatic
 
 ## Rotolaser, Tactical
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 720  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 F; **Range**:: 100 ft.;
+**Damage**:: 1d8 F 
+**Range**:: 100 ft.
 **Critical**:: burn 1d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: Automatic

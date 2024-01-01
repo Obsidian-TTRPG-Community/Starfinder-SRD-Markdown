@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 4 / 9
+Item:
 price:  
-System: Eyes
+
 tags: 
 Type: Biotech
 ---
@@ -14,8 +14,9 @@ The biological tissue a tashtari uses to produce its muzzle beam, a focusing mem
 ## Focusing Membrane, Mk 1
 
 **Source**:: _Alien Archive 2 pg. 125_  
-**Item Level** 4;
-**Price**::  1,925; **System** Eyes  
+**Level**:: 4
+**Price**::  1925 
+**System**:: Eyes  
   
 
 ---
@@ -23,5 +24,6 @@ The biological tissue a tashtari uses to produce its muzzle beam, a focusing mem
 ## Focusing Membrane, Mk 2
 
 **Source**:: _Alien Archive 2 pg. 125_  
-**Item Level** 9;
-**Price**::  13,260; **System** Eyes
+**Level**:: 9
+**Price**::  13260 
+**System**:: Eyes

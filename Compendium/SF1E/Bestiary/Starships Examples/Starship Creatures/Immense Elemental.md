@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: N Tiny starship outsider (elemental, extraplanar)
+type: N Tiny starship outsider (elemental, extraplanar)
 ---
 
 # Immense Elemental
 
-**Source**:: _Alien Archive 4 pg. 30_
+**Source**:  _Alien Archive 4 pg. 30_
 
 
 N Tiny starship outsider (elemental, extraplanar), **Tier** 1/2 

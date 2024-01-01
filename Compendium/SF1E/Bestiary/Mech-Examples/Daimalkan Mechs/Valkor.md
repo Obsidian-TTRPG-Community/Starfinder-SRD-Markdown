@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 16
-Type: Colossal juggernaut
+type: Colossal juggernaut
 ---
 
 # Valkor
 
-**Source**:: _Tech Revolution pg. 120_  
+**Source**:  _Tech Revolution pg. 120_  
 Colossal juggernaut, **Tier** 16 
 **Operators** 2–6; **PP** 2 (3/turn, max 8)  
 **Speed** 50 ft.;  

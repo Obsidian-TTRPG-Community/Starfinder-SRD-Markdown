@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 14
-Environment: any (Dimension of Time)  
+Environment: any (Dimension of Time)
 hp: 235
-modifier: 6
+Initmod: 6
 name: Time Dimensional
 statblock: true
 tags: 
-Type: N Large outsider (extraplanar)  
+Type: N Large outsider (extraplanar)
 ---
 
 # Time Dimensional

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5
-price: 2,750
+
+price: 2750
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Planar Spacesuit
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 5;
+**Level**:: 5
 **Price**::  2750  
-**Hands** —; **Bulk** 1
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

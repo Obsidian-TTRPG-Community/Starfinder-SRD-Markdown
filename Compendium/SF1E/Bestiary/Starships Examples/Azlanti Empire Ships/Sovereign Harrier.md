@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Tiny Fighter
+type: Tiny Fighter
 ---
 
 # Sovereign Harrier

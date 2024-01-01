@@ -3,11 +3,11 @@ aliases:
 cr: 14
 Environment: any
 hp: 235
-modifier: 4
+Initmod: 4
 name: Troll, Void Troll
 statblock: true
 tags: 
-Type: CE Large humanoid (giant)  
+Type: CE Large humanoid (giant)
 ---
 
 # Troll, Void Troll
@@ -26,7 +26,7 @@ One of the most heinous of these “evolutions” is the void troll. As a wounde
 
 Trolls can be up to 14 feet tall and weigh up to 1-1/2 tons. A troll’s heavy head, long jaws, and thick, hunched shoulders make it appear shorter and stockier than it is.
 
-**Source**:: _Alien Archive 3 pg. 120_
+**Source**:  _Alien Archive 3 pg. 120_
 
 ## Void Troll Cr 14
 

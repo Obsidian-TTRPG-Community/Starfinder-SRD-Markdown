@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Lash, Blue Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 19;
-**Price**:: 912,000  
+**Level**:: 19
+**Price**:: 912000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 15d4 E & F;
+**Damage**:: 15d4 E & F
 **Critical**:: knockdown  
 **Bulk**:: L
 **Special**:: Powered (capacity 20, usage 1), reach, trip
@@ -30,11 +30,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Lash, Red Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 3;
-**Price**:: 1,550  
+**Level**:: 3
+**Price**:: 1550  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E & F;
+**Damage**:: 1d4 E & F
 **Critical**:: knockdown  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1), reach, trip
@@ -42,11 +42,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Lash, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 8;
-**Price**:: 11,000  
+**Level**:: 8
+**Price**:: 11000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 E & F;
+**Damage**:: 3d4 E & F
 **Critical**:: knockdown  
 **Bulk**:: L
 **Special**:: Powered (capacity 20, usage 1), reach, trip
@@ -55,10 +55,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 14
-**Price**:: 80,500  
+**Price**:: 80500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d4 E & F;
+**Damage**:: 6d4 E & F
 **Critical**:: knockdown  
 **Bulk**:: L
 **Special**:: Powered (capacity 20, usage 1), reach, trip

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 9 / 12 / 15 / 18 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, Greater
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 18;
-**Price**:: 330,300  
+**Level**:: 18
+**Price**:: 330300  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d6 ;
+**Damage**:: +4d6 
 **Critical**:: severe wound  
 **Bulk**:: —
 **Special**:: —
@@ -26,11 +26,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, Shard
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 770  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 ;
+**Damage**:: +1 
 **Critical**:: wound  
 **Bulk**:: —
 **Special**:: —
@@ -38,11 +38,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, Least
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 6;
-**Price**:: 3,900  
+**Level**:: 6
+**Price**:: 3900  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d4 ;
+**Damage**:: +1d4 
 **Critical**:: wound  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, Minor
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 9;
-**Price**:: 11,500  
+**Level**:: 9
+**Price**:: 11500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d6 ;
+**Damage**:: +1d6 
 **Critical**:: severe wound  
 **Bulk**:: —
 **Special**:: —
@@ -63,10 +63,10 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
 **Level**:: 12
-**Price**:: 30,800  
+**Price**:: 30800  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d6 ;
+**Damage**:: +2d6 
 **Critical**:: severe wound  
 **Bulk**:: —
 **Special**:: —
@@ -74,11 +74,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 15;
-**Price**:: 94,200  
+**Level**:: 15
+**Price**:: 94200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d6 ;
+**Damage**:: +3d6 
 **Critical**:: severe wound  
 **Bulk**:: —
 **Special**:: —
@@ -86,11 +86,11 @@ Gluon crystals create an entropic field along the weapon that creates traumatic 
 ## Gluon, True
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 20;
-**Price**:: 916,200  
+**Level**:: 20
+**Price**:: 916200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d6 ;
+**Damage**:: +6d6 
 **Critical**:: severe wound  
 **Bulk**:: —
 **Special**:: —

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: Small light freighter
+type: Small light freighter
 ---
 
 # Sov-el Korinath
 
-> [!infobox|locr n-th clean]
->  [[Starship_Sov-ElKorinath.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_Sov-ElKorinath.jpg|Spielern zeigen!]
 > 
 Small light freighter, **Tier** 8 
 **Speed** 10; **Maneuverability** good (turn 1); **Drift** 2  

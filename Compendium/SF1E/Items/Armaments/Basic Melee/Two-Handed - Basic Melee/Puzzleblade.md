@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 9 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,46 +16,38 @@ The kasathan puzzleblade is a two-handed sword that can be disassembled into pie
 
 **Source**:: _Starfinder Armory pg. 53_  
 **Level**:: 4
-**Price**:: 2,100  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d6 S;
+**Price**:: 2100  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: breakdown
+**Bulk**:: 1**Special**:: breakdown
 
 ## Puzzleblade, Dedication
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 9;
-**Price**:: 13,700  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 3d6 S;
+**Level**:: 9
+**Price**:: 13700  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 3d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: breakdown
+**Bulk**:: 1**Special**:: breakdown
 
 ## Puzzleblade, Moderation
 
 **Source**:: _Starfinder Armory pg. 53_  
 **Level**:: 14
-**Price**:: 77,400  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 7d6 S;
+**Price**:: 77400  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 7d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: breakdown
+**Bulk**:: 1**Special**:: breakdown
 
 ## Puzzleblade, Tradition
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 19;
-**Price**:: 605,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 14d6 S;
+**Level**:: 19
+**Price**:: 605000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 14d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: breakdown
+**Bulk**:: 1**Special**:: breakdown

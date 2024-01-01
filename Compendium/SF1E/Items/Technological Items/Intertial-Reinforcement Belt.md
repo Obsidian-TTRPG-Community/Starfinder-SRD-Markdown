@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4
-price: 2,200
+
+price: 2200
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Intertial-reinforcement Belt
 
 **Source**:: _Starfinder Armory pg. 104_  
-**Level** 4;
-**Price**::  2,200  
-**Capacity**:: 20; **Usage** Varies  
-**Hands** —; **Bulk** L
+**Level**:: 4
+**Price**::  2200  
+**Capacity**:: 20 **Usage** Varies  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1/2
 hp: 13
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Careful Initiate
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Careful Initiate

@@ -3,11 +3,11 @@ aliases:
 cr: 2
 Environment: any
 hp: 25
-modifier: 4
+Initmod: 4
 name: Infiltration Robot, Monitor-class
 statblock: true
 tags: 
-Type: LN Medium construct (technological)  
+Type: LN Medium construct (technological)
 ---
 
 # Infiltration Robot, Monitor-class
@@ -20,7 +20,7 @@ The most basic form of infiltration robot is the monitor class. Monitors are pri
 
 More advanced by far are exterminator-class infiltration robots. Exterminators feature prototype nanobot swarms embedded in their chassis, allowing them to shrug off damage and swiftly repair their synthskin if it is damaged in battle. They can also effortlessly reshape their synthskin, changing their height, color, gender expression, apparent age, and species on the fly. This makes them both more resilient in battle and far more adaptable as assassins than monitor-class robots, as they can shift disguises as often as needed to approach virtually any target unsuspected. This adaptability also makes them much more aggressive; exterminators whose disguise is compromised can simply shift into another, so they are much more likely to initiate deadly combat without concern for their discovery.
 
-**Source**:: _Alien Archive 4 pg. 102_
+**Source**:  _Alien Archive 4 pg. 102_
 
 ## Monitor-class Cr 2
 

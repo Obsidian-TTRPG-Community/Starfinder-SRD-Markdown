@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 10 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,47 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Infinity Rifle, Advanced
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 7;
-**Price**:: 6,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 F; **Range**:: 60 ft.;
+**Level**:: 7
+**Price**:: 6100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 2d4
+**Bulk**:: 1**Special**:: boost 2d4
 
 ## Infinity Rifle, Tactical
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 3;
-**Price**:: 1,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 F; **Range**:: 40 ft.;
+**Level**:: 3
+**Price**:: 1300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 F; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 1d6
+**Bulk**:: 1**Special**:: boost 1d6
 
 ## Infinity Rifle, Elite
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 10;
-**Price**:: 17,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 F; **Range**:: 80 ft.;
+**Level**:: 10
+**Price**:: 17100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 F; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 2d6
+**Bulk**:: 1**Special**:: boost 2d6
 
 ## Infinity Rifle, Paragon
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 16;
-**Price**:: 155,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 F; **Range**:: 100 ft.;
+**Level**:: 16
+**Price**:: 155000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 F; 
+**Range**:: 100 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 4d6
+**Bulk**:: 1**Special**:: boost 4d6

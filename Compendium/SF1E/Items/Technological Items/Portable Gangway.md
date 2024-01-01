@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5 
-price: 2,700
+
+price: 2700
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Portable Gangway
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 5;
-**Price**::  2,700  
-**Capacity**:: 40; **Usage** 1/use  
-**Hands** —; **Bulk** 4
+**Level**:: 5
+**Price**::  2700  
+**Capacity**:: 40 **Usage** 1/use  
+**Hands** — 
+**Bulk**:: 4
 
 ### Description
 

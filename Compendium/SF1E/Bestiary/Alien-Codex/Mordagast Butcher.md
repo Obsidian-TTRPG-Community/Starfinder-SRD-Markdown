@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 13
-Environment: any forest, hills, or vacuum  
+Environment: any forest, hills, or vacuum
 hp: 225
-modifier: 8
+Initmod: 8
 name: Mordagast, Butcher
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
 ---
 
 # Mordagast, Butcher
@@ -19,7 +19,7 @@ Mordagasts’ spectral strategy has inspired countless tales across the worlds t
 Although mordagasts rarely live past 10 years, under special circumstances a mordagast can exceed not only its life expectancy but also its size limits. These exceptional adults are known as butchers, in large part because their tremendous size relies on them killing and consuming countless creatures over their lifetimes. High caloric intake is the only trigger for the development of butchers; such mordagasts often hunt and consume their own kind, triggering additional growth that’s poorly understood among xenobiologists. They’re also more common on oxygen-rich and low-gravity planets, where it’s easier for the creatures to support their extraordinary mass. On worlds with standard gravity, even mordagast butchers’ strong legs struggle to support their bodies for long, and they commonly rely on dissipation and tobogganing their bellies along the ground when weighed down by a recent meal.
 
 Yet the strangest of mordagast butchers’ features is their adaptation to space environments. Survey vessels periodically identify these creatures patiently clinging to asteroids and other low-gravity bodies. From there they raid mining operations, launch themselves onto passing starships, or even ride space debris toward distant worlds. By detaching from meteorites high in a planet’s atmosphere, these mordagasts can dissipate and float to the surface to lay eggs and populate new worlds.
-**Source**:: _Alien Archive 4 pg. 72_
+**Source**:  _Alien Archive 4 pg. 72_
 
 ## Butcher Cr 13
 

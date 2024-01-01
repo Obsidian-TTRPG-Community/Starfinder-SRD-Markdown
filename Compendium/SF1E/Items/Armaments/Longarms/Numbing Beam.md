@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 10 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,50 +21,46 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 5
-**Price**:: 3,050  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 C; **Range**:: 50 ft.;
+**Price**:: 3050  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 C; 
+**Range**:: 50 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: nonlethal
+**Bulk**:: 1**Special**:: nonlethal
 
 ## Numbing Beam, Tactical
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 1
 **Price**:: 370  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 C; **Range**:: 50 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 C; 
+**Range**:: 50 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: nonlethal
+**Bulk**:: 1**Special**:: nonlethal
 
 ## Numbing Beam, Elite
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 10;
-**Price**:: 18,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d6 C; **Range**:: 80 ft.;
+**Level**:: 10
+**Price**:: 18000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d6 C; 
+**Range**:: 80 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: nonlethal
+**Bulk**:: 1**Special**:: nonlethal
 
 ## Numbing Beam, Paragon
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 15;
-**Price**:: 112,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d6 C; **Range**:: 80 ft.;
+**Level**:: 15
+**Price**:: 112000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d6 C; 
+**Range**:: 80 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: nonlethal
+**Bulk**:: 1**Special**:: nonlethal

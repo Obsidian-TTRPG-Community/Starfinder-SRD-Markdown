@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: warm or temperate deserts  
+Environment: warm or temperate deserts
 hp: 75
-modifier: 3
+Initmod: 3
 name: Supenga, Pup
 statblock: true
 tags: 
-Type: N Medium plant  
+Type: N Medium plant
 ---
 
 # Supenga, Pup
@@ -22,7 +22,7 @@ Upon growing to about 15 feet in total length, a supenga’s physical developmen
 
 In the Pact Worlds, supengas roam stretches of Akiton and the Fullbright wastes of Verces, but their largest population traverses the northern and western deserts of Castrovel’s Colonies.
 
-**Source**:: _Alien Archive 4 pg. 120_
+**Source**:  _Alien Archive 4 pg. 120_
 
 ## Pup Cr 5
 

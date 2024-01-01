@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: N Medium starship outsider  
+type: N Medium starship outsider  
 ---
 
 # Alinoisos

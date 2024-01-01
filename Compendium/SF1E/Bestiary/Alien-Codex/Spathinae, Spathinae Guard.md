@@ -3,11 +3,11 @@ aliases:
 cr: 1
 Environment: any
 hp: 20
-modifier: 4
+Initmod: 4
 name: Spathinae, Spathinae Guard
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
 ---
 
 # Spathinae, Spathinae Guard
@@ -26,7 +26,7 @@ Even the spathinae do not know where they originated—any records of this place
 
 Most societies treat spathinae colonies as individuals, with the rights and obligations thereof. However, a few peoples, such as the Azlanti, see spathinae colonies as no more than a collection of bugs, and in such cases, the colonies have no rights at all.
 
-**Source**:: _Alien Archive 3 pg. 100_
+**Source**:  _Alien Archive 3 pg. 100_
 
 ## Spathinae Guard Cr 1
 

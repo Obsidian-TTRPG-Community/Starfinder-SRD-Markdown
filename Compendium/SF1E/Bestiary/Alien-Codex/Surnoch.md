@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 9
-Environment: any underground or vacuum (Diaspora)  
+Environment: any underground or vacuum (Diaspora)
 hp: 145
-modifier: 6
+Initmod: 6
 name: Surnoch
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
+combatType: combatant
+alignment: N
+size: large
+type(subtype): animal(-)
+environment:
+  - underground
+  - vacuum
+climate: any
+planet: Diaspora
+organization:
+  - solitary
+  - pair
+source: Alien Archive
 ---
 
 # Surnoch
@@ -73,3 +86,5 @@ While most surnochs are solitary creatures, two will occasionally travel and fee
 ## Acid Lancer
 
 In addition to collecting the valuable composites the creature leaves behind, some entrepreneurs enter surnochs’ territory to hunt and kill them for their acid-producing glands and spines. These components can be made into heavy weapons known as acid lancers, which shoot jets of caustic fluid. A wielder of an acid lancer can squeeze the gland located near the trigger to give her next shot an extra boost of damaging acid. Acid lancers use a special synthetic acid called caustrol for ammunition, which has the same price and comes in the same size containers as petrol.
+
+

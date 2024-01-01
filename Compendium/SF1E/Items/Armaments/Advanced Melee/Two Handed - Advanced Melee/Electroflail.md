@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 5 / 9 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,47 +16,39 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Electroflail, Advanced
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 9;
-**Price**:: 12,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 E;
+**Level**:: 9
+**Price**:: 12800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 E
 **Critical**:: arc 2d6  
-**Bulk**:: 1;
-**Special**:: disarm, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: disarm, powered (capacity 20; usage 1)
 
 ## Electroflail, Tactical
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 5
-**Price**:: 2,910  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E;
+**Price**:: 2910  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 E
 **Critical**:: arc 1d6  
-**Bulk**:: 1;
-**Special**:: disarm, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: disarm, powered (capacity 20; usage 1)
 
 ## Electroflail, Elite
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 14
-**Price**:: 69,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d6 E;
+**Price**:: 69900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d6 E
 **Critical**:: arc 3d6  
-**Bulk**:: 1;
-**Special**:: disarm, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: disarm, powered (capacity 20; usage 1)
 
 ## Electroflail, Paragon
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 18;
-**Price**:: 360,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 11d6 E;
+**Level**:: 18
+**Price**:: 360000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 11d6 E
 **Critical**:: arc 4d6  
-**Bulk**:: 1;
-**Special**:: disarm, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: disarm, powered (capacity 20; usage 1)

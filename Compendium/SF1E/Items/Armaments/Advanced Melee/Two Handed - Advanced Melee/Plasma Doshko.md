@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 6 / 10 / 15 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Doshko, Blue Star
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 18;
-**Price**:: 364,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d10 E & F;
+**Level**:: 18
+**Price**:: 364100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d10 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Plasma Doshko, Red Star
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 6;
-**Price**:: 4,650  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 E & F;
+**Level**:: 6
+**Price**:: 4650  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Plasma Doshko, Yellow Star
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 10;
-**Price**:: 17,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d10 E & F;
+**Level**:: 10
+**Price**:: 17000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d10 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Plasma Doshko, White Star
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 15;
-**Price**:: 126,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d10 E & F;
+**Level**:: 15
+**Price**:: 126800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d10 E & F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)

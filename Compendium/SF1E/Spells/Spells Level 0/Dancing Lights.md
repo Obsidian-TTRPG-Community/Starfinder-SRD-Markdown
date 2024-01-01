@@ -4,10 +4,10 @@ Level: 0
 Mystic: 
 NoteType: Spell
 Precog: 
-School: evocation
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Dancing Lights

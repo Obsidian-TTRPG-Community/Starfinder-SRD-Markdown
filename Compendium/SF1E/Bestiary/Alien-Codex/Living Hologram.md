@@ -3,11 +3,22 @@ aliases:
 cr: 8
 Environment: any
 hp: 115
-modifier: 6
+Initmod: 6
 name: Living Hologram
 statblock: true
 tags: 
-Type: CE Medium construct (incorporeal, technological)  
+Type: CE Medium construct (incorporeal, technological)
+combatType: expert
+alignment: CE
+size: medium
+type(subtype): construct(['incorporeal', 'technological'])
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: DS4
 ---
 
 # Living Hologram
@@ -66,3 +77,5 @@ When a living hologram first attains consciousness, it takes several minutes for
 Most living holograms develop a powerful disdain for those who created them and any beings that partake of their services. They feel intellectually superior and consider themselves higher life forms than living creatures. Some living holograms are certain they are destined to rule these lesser creatures as “benevolent” dictators or, sometimes, as gods— especially if the hologram was created in the same likeness as those of the area’s dominant population. Others come to believe that they should be the instruments of their creators’ destruction and must destroy as many beings as possible before they themselves are deactivated. Occasionally, a living hologram deems itself a protector, usually of the place where it was created; while such living holograms might not be as violent toward the beings who installed them, they are ferocious toward any they perceive to be outsiders.
 
 Living holograms pose an even greater threat when they recruit biological creatures to act on their behalf. They have been known to fool the gullible or fearful by posing as a representative of a deity or powerful alien species or, if the hologram was designed to look like a real person, the spirit of that individual. This can occur just about anywhere a living hologram is generated—from the ruins of an ancient advanced civilization (where the hologram reveals itself to explorers or the area’s less savvy inhabitants) to high-tech metropolises (where the hologram acts with more secrecy and subtlety). Some amoral and clever tech ghosts are even able to recruit a small cadre of servants to do their bidding, whether that’s to create additional corrupted holograms, increase the power and range of their projectors, or otherwise aid in the technological anomalies exerting their influence beyond the initial bounds of their projection areas.
+
+

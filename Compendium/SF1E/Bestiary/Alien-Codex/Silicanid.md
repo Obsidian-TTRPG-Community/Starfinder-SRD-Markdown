@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 2
-Environment: any land (Waydana-1)  
+Environment: any land (Waydana-1)
 hp: 25
-modifier: 4 
+Initmod: 4
 name: Silicanid
 statblock: true
 tags: 
-Type: N Small animal (fire)  
+Type: N Small animal (fire)
 ---
 
 # Silicanid
 
-[[HOTV_Creature_Silicano.webp|Zeigen!]]
+[[HOTV_Creature_Silicano.webp|Zeigen!]
 
 ## Silicanid Cr 2
 

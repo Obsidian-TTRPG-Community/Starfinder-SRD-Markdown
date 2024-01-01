@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8 
-price: 1,300
+
+price: 1300
 tags: [16:]
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Flushbuster
 
 **Source**:: _Tech Revolution pg. 48_, _Starfinder The Blind City pg. 47_  
-**Level** 8;
+**Level**:: 8
 **Price**::  1300  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

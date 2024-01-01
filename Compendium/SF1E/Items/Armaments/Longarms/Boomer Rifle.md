@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 11 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,47 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Boomer Rifle, Concussive
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 11;
-**Price**:: 24,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 So; **Range**:: 40 ft.;
+**Level**:: 11
+**Price**:: 24000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 So; 
+**Range**:: 40 ft.
 **Critical**:: knockdown  
 **Capacity**:: 15 shells; **Usage** 5  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Boomer Rifle, Tremor
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 520  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 So; **Range**:: 40 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 12 shells; **Usage** 3  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Boomer Rifle, Rumbler
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 6;
-**Price**:: 4,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 So; **Range**:: 40 ft.;
+**Level**:: 6
+**Price**:: 4100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 12 shells; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Boomer Rifle, Shockwave
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 17;
-**Price**:: 230,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 8d6 So; **Range**:: 40 ft.;
+**Level**:: 17
+**Price**:: 230000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 8d6 So; 
+**Range**:: 40 ft.
 **Critical**:: knockdown  
 **Capacity**:: 20 shells; **Usage** 5  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog

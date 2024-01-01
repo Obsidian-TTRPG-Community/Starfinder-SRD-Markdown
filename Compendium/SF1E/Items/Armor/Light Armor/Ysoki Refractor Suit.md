@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 6
+
 NoteType: Armor
-price: 4,120
+price: 4120
 tags: 
 Type: Light Armor
 ---
@@ -10,11 +10,18 @@ Type: Light Armor
 # Ysoki Refractor Suit
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 6;
-**Price**:: 4,120; **Category** Light  
-**EAC Bonus** +7; **KAC Bonus** +7; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4120 
+**Category**:: Light  
+
+**EAC**:: +7 
+**KAC**:: +7 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ### Description
 

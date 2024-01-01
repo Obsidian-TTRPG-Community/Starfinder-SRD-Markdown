@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 11
-Type: Huge bulk freighter
+type: Huge bulk freighter
 ---
 
 # Opulos Drift Cruiser
 
-> [!infobox|locr n-th clean]
->  [[Starship_OpulusDriftCruiser.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_OpulusDriftCruiser.jpg|Spielern zeigen!]
 > 
 Huge bulk freighter, **Tier** 11 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** 2  

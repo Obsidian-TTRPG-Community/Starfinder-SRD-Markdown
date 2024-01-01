@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 150
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Detonator
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  150  
-**Capacity**:: 5; **Usage** 1/use  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 5 **Usage** 1/use  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

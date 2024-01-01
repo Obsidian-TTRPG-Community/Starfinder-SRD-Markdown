@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 8
-Type: Huge skyspy
+type: Huge skyspy
 ---
 
 # Aeropa
 
-**Source**:: _Tech Revolution pg. 120_  
+**Source**:  _Tech Revolution pg. 120_  
 Huge skyspy, **Tier** 8 
 **Operators** 1–2; **PP** 7 (2/turn, max 15)  
 **Speed** 20 ft., fly 80 ft. (average), fly 10 ft. (perfect, maximum elevation 5 ft.);  

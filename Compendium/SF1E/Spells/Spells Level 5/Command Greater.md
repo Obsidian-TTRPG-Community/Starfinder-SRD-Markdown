@@ -4,7 +4,7 @@ Level: 5
 Mystic: 
 NoteType: Spell
 Precog: 
-School: enchantment (compulsion, languaage-dependent. mind-affecting) 
+
 tags: 
 Technomancer: 
 Witchwarper: 

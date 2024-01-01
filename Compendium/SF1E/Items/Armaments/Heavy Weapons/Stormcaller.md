@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,59 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Stormcaller, Ribbon
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 7;
-**Price**:: 7,700  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 7700  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 E; **Range**:: 40 ft.;
+**Damage**:: 2d8 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: flexible line, living, unwieldy
 
 ## Stormcaller, Sheet
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 2;
-**Price**:: 1,100  
-**Hands**:: 2;
+**Level**:: 2
+**Price**:: 1100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 E; **Range**:: 30 ft.;
+**Damage**:: 1d8 E 
+**Range**:: 30 ft.
 **Critical**:: —  
-**Capacity**:: 20 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: flexible line, living, unwieldy
 
 ## Stormcaller, Rocket
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 13;
-**Price**:: 57,000  
-**Hands**:: 2;
+**Level**:: 13
+**Price**:: 57000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d8 E; **Range**:: 60 ft.;
+**Damage**:: 4d8 E 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: flexible line, living, unwieldy
 
 ## Stormcaller, Smooth-channel
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 18;
-**Price**:: 440,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 440000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d8 E; **Range**:: 60 ft.;
+**Damage**:: 8d8 E 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: flexible line, living, unwieldy

@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 3 / 8 / 13
+Item:
 price:  
-System: Eyes
+
 tags: 
 Type: Cybertech
 ---
@@ -16,19 +16,22 @@ Advanced darkvision capacitors have the benefits of a wide-spectrum ocular impla
 ## Darkvision Capacitors, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 3;
-**Price**::  1,750; **System** Eyes  
+**Level**:: 3
+**Price**::  1750 
+**System**:: Eyes  
   
 
 ## Darkvision Capacitors, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 8;
-**Price**::  9,000; **System** Eyes  
+**Level**:: 8
+**Price**::  9000 
+**System**:: Eyes  
   
 
 ## Darkvision Capacitors, Long-range
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 13;
-**Price**::  48,950; **System** Eyes
+**Level**:: 13
+**Price**::  48950 
+**System**:: Eyes

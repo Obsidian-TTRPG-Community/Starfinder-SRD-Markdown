@@ -4,9 +4,9 @@ Level: 3
 Mystic: 
 NoteType: Spell
 Precog: 
-School: evocation (electricity) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

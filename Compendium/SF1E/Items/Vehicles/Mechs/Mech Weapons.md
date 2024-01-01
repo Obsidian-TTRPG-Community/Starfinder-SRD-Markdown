@@ -7,7 +7,7 @@ tags:
 
 Engineers have designed and adapted a wide range of weapons for mechs to use. Each weapon combines two factors—the weapon’s level and a weapon template—to determine its statistics and MP cost. Mech weapons use many of the same rules as standard weapons (Core Rulebook 168), including damage types, targeting Armor Class, damage, range, critical hits, capacity, usage, and weapon special properties.  
 Mech weapons also use the following key statistics.  
-**Level:** This denotes the weapon’s relative power. A mech can’t use a weapon with a level that exceeds its tier by more than 1.  
+**
 **Weapon Template:** Each weapon uses a weapon template that determines the weapon’s basic shape and functions, such as a laser cannon or sword. A weapon template modifies some combination of the weapon’s statistics, such as damage, damage type, range, and special weapon properties.  
 **Damage:** Each weapon deals low, medium, high, or extreme damage based on the weapon’s level when it successfully hits a target; see Table 4–5: Weapon Damage on page 104 for the damage dealt by weapons of a given level. A mech also adds its tier to the damage dealt by weapons it wields, and a mech adds its Strength modifier to its damage with melee weapons.  
 **Slots:** These are the number and types of slots that a mech must devote to equipping and wielding the weapon. Slot types include frame, lower limb, and upper limb.  

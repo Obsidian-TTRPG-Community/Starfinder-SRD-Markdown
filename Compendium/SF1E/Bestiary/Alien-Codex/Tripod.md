@@ -3,11 +3,11 @@ aliases:
 cr: 13
 Environment: any
 hp: 225
-modifier: 6
+Initmod: 6
 name: Tripod
 statblock: true
 tags: 
-Type: NE Gargantuan construct (technological)  
+Type: NE Gargantuan construct (technological)
 ---
 
 # Tripod

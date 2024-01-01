@@ -3,11 +3,11 @@ aliases:
 cr: 1
 Environment: any
 hp: 17
-modifier: 1
+Initmod: 1
 name: Ixtangi
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
 ---
 
 # Ixtangi
@@ -26,7 +26,7 @@ On the other side of this universal amnesia, the majority of ixtangis find thems
 
 The only ixtangis left on Doganga’s surface are those known as duskdwellers. These unusually pallid ixtangis live and work beneath the shadows of the island-countries hovering above. Mostly industrial workers, duskdwellers live their lives gathering resources not only for their own shadowed settlements, but for the island-countries above who depend on duskdwellers to collect water, wood, stone, and other organic resources. They’re also the foremost breeders of moonlily, a psychotropic flower that blooms only in shadow. Moonlily brewers then grind this flower into a thick paste, which they distill into an alcoholic drink that intoxicates consumers and grants them euphoric visions. Duskdwellers exhibit keen survival skills, using their dinosaur beasts of burden to travel the jungles in search of resources—or better places to settle where the demands of the “highscales” above can’t reach them.
 
-**Source**:: _Alien Archive 4 pg. 54_
+**Source**:  _Alien Archive 4 pg. 54_
 
 ## Ixtangi Cr 1
 

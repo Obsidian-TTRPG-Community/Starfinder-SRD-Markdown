@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,10 +13,11 @@ A mimic imager functions as both an image scanner and a holographic projector.
 ## Mimic Imager, Helmet-mounted
 
 **Source**:: _Starfinder Armory pg. 105_  
-**Level** 6;
-**Price**::  4,150  
-**Capacity**:: 40; **Usage** 4/round  
-**Hands** —; **Bulk** L
+**Level**:: 6
+**Price**::  4150  
+**Capacity**:: 40 **Usage** 4/round  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 
@@ -27,10 +28,11 @@ The most common mimic imagers are mounted to a helmet on a swiveling, telescopin
 ## Mimic Imager, Hovering
 
 **Source**:: _Starfinder Armory pg. 105_  
-**Level** 11;
-**Price**::  24,500  
-**Capacity**:: 40; **Usage** 4/round  
-**Hands** —; **Bulk** L
+**Level**:: 11
+**Price**::  24500  
+**Capacity**:: 40 **Usage** 4/round  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

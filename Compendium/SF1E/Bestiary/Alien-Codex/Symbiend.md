@@ -3,11 +3,23 @@ aliases:
 cr: 1/3
 Environment: any
 hp: 6
-modifier: 3
+Initmod: 3
 name: Symbiend
 statblock: true
 tags: 
-Type: N Diminutive aberration  
+Type: N Diminutive aberration
+combatType: expert
+alignment: N
+size: Diminutive
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - group(3-4)
+source: Alien Archive
 ---
 
 # Symbiend
@@ -19,7 +31,7 @@ Despite the impressive abilities they grant to hosts, symbiends are almost helpl
 Dozens of different symbiends exist, but those most commonly encountered in the Pact Worlds are listed below. The template grafts below can be used to create a creature bonded to a symbiend; at the GM’s discretion, a PC can also bond with a symbiend, ignoring the array requirements and suggested ability score modifiers. A symbiend counts as an augmentation that is “installed” in the listed systems, though a removed symbiend can be used by another creature (unlike normal augmentations). Symbiends can’t be purchased or sold (at least, not in reputable settlements).
 
 
-**Source**:: _Alien Archive pg. 112_
+**Source**:  _Alien Archive pg. 112_
 
 ## Symbiend Cr 1/3
 
@@ -53,3 +65,5 @@ N Diminutive aberration
 ### Special Abilities
 
 **Symbiosis (Ex)** As a full action, a symbiend that begins its turn attached to a living aberration, animal, dragon, humanoid, magical beast, or monstrous humanoid can connect to that creature’s nervous system, granting it the abilities of the symbiend’s template graft (see below). The two creatures effectively become one until the host is killed, the symbiend chooses to detach itself, or the symbiend is removed with a medical procedure (usually requiring a successful DC 25 Medicine check). An unwilling host can prevent this connection with a successful DC 15 Will save.
+
+

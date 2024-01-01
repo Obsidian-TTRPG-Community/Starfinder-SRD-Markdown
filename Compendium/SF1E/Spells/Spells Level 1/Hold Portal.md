@@ -3,11 +3,11 @@ aliases:
 Level: 1
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: abjuration 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Hold Portal

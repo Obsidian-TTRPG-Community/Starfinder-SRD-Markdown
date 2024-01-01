@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 16
-Environment: any land  
+Environment: any land
 hp: 300
-modifier: 0
+Initmod: 0
 name: Moonflower, Moonflower Titan
 statblock: true
 tags: 
-Type: N Gargantuan plant  
+Type: N Gargantuan plant
+combatType: combatant
+alignment: N
+size: gargantuan
+type(subtype): plant(-)
+environment: lands
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+source: Alien Archive 2
 ---
 
 # Moonflower Titan
@@ -26,7 +38,7 @@ Xenobotanists have long been intrigued by the moonflower’s ability to produce 
 
 ## Moonflower, Moonflower Titan
 
-**Source**:: _Alien Archive 2 pg. 84_
+**Source**:  _Alien Archive 2 pg. 84_
 
 ## Moonflower Titan Cr 16
 
@@ -71,3 +83,5 @@ N Gargantuan plant
 **Root Tremor (Ex)** As a full action, a moonflower titan can thrust its roots and tentacles into the ground, causing a violent tremor. Each creature within a 50-foot-radius spread originating in the moonflower’s space must attempt a DC 22 Reflex saving throw. Those that fail take 10d6 bludgeoning damage and fall prone. Creatures that succeed take half the damage and remain standing.
 
 **Swallow Whole (Ex)** If a moonflower successfully swallows a target, that creature remains inside the moonflower for 2 rounds, during which the victim takes no damage and the moonflower can’t swallow another creature. After this time, the target is enclosed in a fibrous digestive pod and expelled into a space adjacent to the moonflower. The pod then acts as the swallowing creature, with the same swallow whole statistics but now able to deal acid damage. A creature can’t use Athletics to climb out of this enclosing pod. Other creatures can attack the pod, but the enclosed creature takes damage equal to half the damage dealt to the pod. An external attacker can avoid dealing the enclosed creature damage by using a bladed weapon to make one attack against the pod as a full action.
+
+

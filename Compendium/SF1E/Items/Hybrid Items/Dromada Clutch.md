@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8
-price: 9,200
+
+price: 9200
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Dromada Clutch
 
 **Source**:: _Alien Archive 3 pg. 29_  
-**Level** 8;
-**Price**::  9,200; **Bulk** 1
+**Level**:: 8
+**Price**::  9200 
+**Bulk**:: 1
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 8 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Lightning Pistol, Ribbon
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 8;
-**Price**:: 9,700  
+**Level**:: 8
+**Price**:: 9700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 E; **Range**:: 30 ft.;
+**Damage**:: 1d8 E; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 5  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 5
-**Price**:: 3,000  
+**Price**:: 3000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 E; **Range**:: 20 ft.;
+**Damage**:: 1d6 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -45,10 +47,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 12
-**Price**:: 37,000  
+**Price**:: 37000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 E; **Range**:: 30 ft.;
+**Damage**:: 2d8 E; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 8  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Lightning Pistol, Smooth-channel
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 17;
-**Price**:: 260,000  
+**Level**:: 17
+**Price**:: 260000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d10 E; **Range**:: 40 ft.;
+**Damage**:: 3d10 E; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 10  
 **Bulk**:: L

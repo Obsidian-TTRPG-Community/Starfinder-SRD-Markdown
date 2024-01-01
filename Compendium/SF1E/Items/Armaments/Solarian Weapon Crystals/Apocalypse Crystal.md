@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 8 /  11 / 14 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 ## Apocalypse Crystal, Greater
 
 **Source**:: _Alien Archive 2 pg. 81_  
-**Level**:: 17;
-**Price**:: 265,000  
+**Level**:: 17
+**Price**:: 265000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d6 ;
+**Damage**:: +4d6 
 **Critical**:: corrode 2d6  
 **Bulk**:: —
 **Special**:: —
@@ -32,7 +32,7 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 **Price**:: 150  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 ;
+**Damage**:: +1 
 **Critical**:: corrode 1d4  
 **Bulk**:: —
 **Special**:: —
@@ -41,10 +41,10 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 
 **Source**:: _Alien Archive 2 pg. 81_  
 **Level**:: 5
-**Price**:: 3,050  
+**Price**:: 3050  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d4 ;
+**Damage**:: +1d4 
 **Critical**:: corrode 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -52,11 +52,11 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 ## Apocalypse Crystal, Minor
 
 **Source**:: _Alien Archive 2 pg. 81_  
-**Level**:: 8;
-**Price**:: 9,500  
+**Level**:: 8
+**Price**:: 9500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d6 ;
+**Damage**:: +1d6 
 **Critical**:: corrode 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -64,11 +64,11 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 ## Apocalypse Crystal, Lesser
 
 **Source**:: _Alien Archive 2 pg. 81_  
-**Level**:: 11;
-**Price**:: 24,900  
+**Level**:: 11
+**Price**:: 24900  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d6 ;
+**Damage**:: +2d6 
 **Critical**:: corrode 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -77,10 +77,10 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 
 **Source**:: _Alien Archive 2 pg. 81_  
 **Level**:: 14
-**Price**:: 74,000  
+**Price**:: 74000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d6 ;
+**Damage**:: +3d6 
 **Critical**:: corrode 2d6  
 **Bulk**:: —
 **Special**:: —
@@ -88,11 +88,11 @@ An _apocalypse crystal_ causes the damage dealt by your solarian weapon to funct
 ## Apocalypse Crystal, True
 
 **Source**:: _Alien Archive 2 pg. 81_  
-**Level**:: 20;
-**Price**:: 776,000  
+**Level**:: 20
+**Price**:: 776000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d6 ;
+**Damage**:: +6d6 
 **Critical**:: corrode 2d6  
 **Bulk**:: —
 **Special**:: —

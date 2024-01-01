@@ -7,8 +7,8 @@ tags:
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Advanced Melee/Two Handed - Advanced Melee"
+Level, Price, Damage , Critical
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Advanced Melee/Two Handed - Advanced Melee"
 SORT Level ASC
 WHERE file.name != "Two Handed - Advanced Melee"
 ```

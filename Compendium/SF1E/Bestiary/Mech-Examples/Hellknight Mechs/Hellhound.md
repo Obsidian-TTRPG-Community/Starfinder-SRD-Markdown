@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 12
-Type: Colossal juggernaut 
+type: Colossal juggernaut 
 ---
 
 # Hellhound
 
-**Source**:: _Tech Revolution pg. 121_  
+**Source**:  _Tech Revolution pg. 121_  
 Colossal juggernaut , **Tier** 12
 **Operators** 2–6; **PP** 7 (2/turn, max 15)  
 **Speed** 50 ft.;  

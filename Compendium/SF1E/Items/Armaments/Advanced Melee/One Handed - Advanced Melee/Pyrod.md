@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 10 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Pyrod, Beacon
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 16;
-**Price**:: 164,000  
+**Level**:: 16
+**Price**:: 164000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d6 F;
+**Damage**:: 8d6 F
 **Critical**:: jet 4d6  
 **Bulk**:: L
 **Special**:: analog, fueled (capacity 20; usage 1), professional (dancer)
@@ -30,11 +30,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Pyrod, Luminous
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 3;
-**Price**:: 1,300  
+**Level**:: 3
+**Price**:: 1300  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 F;
+**Damage**:: 1d6 F
 **Critical**:: jet 1d4  
 **Bulk**:: L
 **Special**:: analog, fueled (capacity 20; usage 1), professional (dancer)
@@ -42,11 +42,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Pyrod, Torch
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 10;
-**Price**:: 13,500  
+**Level**:: 10
+**Price**:: 13500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 F;
+**Damage**:: 3d6 F
 **Critical**:: jet 2d6  
 **Bulk**:: L
 **Special**:: analog, fueled (capacity 20; usage 1), professional (dancer)

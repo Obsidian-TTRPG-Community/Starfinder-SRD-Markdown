@@ -3,11 +3,11 @@ aliases:
 cr: 15
 Environment: any
 hp: 275
-modifier: 7
+Initmod: 7
 name: Equinoxian, Equinoxian Apastra
 statblock: true
 tags: 
-Type: CN Medium outsider (native)  
+Type: CN Medium outsider (native)
 ---
 
 # Equinoxian, Equinoxian Apastra
@@ -18,7 +18,7 @@ Equinoxian periastras are masters of the Cycle, perpetually balancing the gravit
 
 Those equinoxians who cannot maintain balance are driven mad, becoming the tragic and powerful figures known as apastras. Apastras seek to cause imbalance and collapse wherever they can, and solarians justly fear the enraged creatures.
 
-**Source**:: _Alien Archive 3 pg. 30_
+**Source**:  _Alien Archive 3 pg. 30_
 
 ## Equinoxian Apastra Cr 15
 

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: Huge bulk freighter
+type: Huge bulk freighter
 ---
 
 # Hivonyx Titan Hauler
 
-> [!infobox|locr n-th clean]
->  [[Starship_HivonyxTitanHauler.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_HivonyxTitanHauler.jpg|Spielern zeigen!]
 > 
 Huge bulk freighter, **Tier** 9 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** 1  

@@ -3,11 +3,23 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 10
-modifier: 1
+Initmod: 1
 name: Osharu
 statblock: true
 tags: 
-Type: LG Medium monstrous humanoid  
+Type: LG Medium monstrous humanoid
+combatType: expert
+alignment: LG
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - pair
+  - expedition(3-6)
+source: Alien Archive 2
 ---
 
 # Osharu
@@ -24,7 +36,7 @@ Despite the osharus’ willingness to face great dangers, they are a timid and p
 
 The average osharu is 4 feet tall and weighs 140 pounds, though members of the species have a wide variety of colors and patterns. Even two parents with similar patterns or colors can have completely different-looking offspring—it is not unusual for a beige, leopard-spotted osharu to give birth to bright-pink or green tiger-striped progeny. This diversity is celebrated among osharu, and they find the predictability of hereditary outcomes among other humanoid species to be both unusual and fascinating—most of their university-cities have a district dedicated to the study of xenogenetics as a result.
 
-**Source**:: _Alien Archive 2 pg. 92_
+**Source**:  _Alien Archive 2 pg. 92_
 
 ## Osharu Cr 1/2
 
@@ -63,3 +75,5 @@ LG Medium monstrous humanoid
 **Slime (Ex)** As a swift action, an osharu can excrete slime into an empty adjacent square, causing that square to become difficult terrain. An osharu can use this ability 1d4 times per day before she must rest for at least 8 hours to replenish her slime stores.
 
 **Susceptible to Salt (Ex)** A handful or more of salt or a splash of salt water deals 1d6 damage to an osharu, and full immersion in salt water deals 4d6 damage per round. These effects are negated by the environmental protections built into most armor.
+
+

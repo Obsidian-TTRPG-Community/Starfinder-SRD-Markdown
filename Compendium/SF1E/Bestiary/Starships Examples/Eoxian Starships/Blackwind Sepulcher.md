@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 5
-Type: Medium Transport 
+type: Medium Transport 
 ---
 
 # Blackwind Sepulcher
 
-> [!infobox|locr n-th clean]
->  [[Starship_BlackwindSepulcher.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_BlackwindSepulcher.jpg|Spielern zeigen!]
 > 
 
 Medium transport, **Tier** 5

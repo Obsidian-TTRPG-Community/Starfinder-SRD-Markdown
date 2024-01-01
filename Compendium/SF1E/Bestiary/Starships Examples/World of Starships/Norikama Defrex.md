@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: Tiny interceptor
+type: Tiny interceptor
 ---
 
 # Norikama Defrex
 
-> [!infobox|locr n-th clean]
->  [[Starship_NorikamaDefrex.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_NorikamaDefrex.jpg|Spielern zeigen!]
 > 
 Tiny interceptor, **Tier** 1/2 
 **Speed** 8; **Maneuverability** perfect (turn 0); **Drift** 1  

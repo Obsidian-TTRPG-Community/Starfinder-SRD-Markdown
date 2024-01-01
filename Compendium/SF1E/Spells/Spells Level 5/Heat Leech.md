@@ -3,10 +3,10 @@ aliases:
 Level: 5
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: evocation (cold) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

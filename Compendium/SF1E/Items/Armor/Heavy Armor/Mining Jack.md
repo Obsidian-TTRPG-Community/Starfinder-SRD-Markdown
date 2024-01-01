@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 10 / 
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ Asteroid miners wear mining jacks for both life support and protection against t
 ## Mining Jack, I
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 2;
-**Price**::  825; **Category** Heavy  
-**EAC Bonus** +4; **KAC Bonus** +6; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Level**:: 2
+**Price**::  825 
+**Category**:: Heavy  
+
+**EAC**:: +4 
+**KAC**:: +6 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Mining Jack, Ii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 5;
-**Price**::  2,750; **Category** Heavy  
-**EAC Bonus** +8; **KAC Bonus** +11; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 5
+**Price**::  2750 
+**Category**:: Heavy  
+
+**EAC**:: +8 
+**KAC**:: +11 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ## Mining Jack, Iii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 10;
-**Price**::  17,150; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +19; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 3; **Bulk** 3
+**Level**:: 10
+**Price**::  17150 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +19 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 3

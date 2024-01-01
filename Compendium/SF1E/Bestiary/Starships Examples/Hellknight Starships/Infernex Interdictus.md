@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Huge Cruiser
+type: Huge Cruiser
 ---
 
 # Infernex Interdictus
 
-> [!infobox|locr n-th clean]
->  [[Starship_InfernexInterdictus.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InfernexInterdictus.jpg|Spielern zeigen!]
 > 
 Huge cruiser, **Tier** 13 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 2  

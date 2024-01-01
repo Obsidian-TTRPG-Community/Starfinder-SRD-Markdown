@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 12
-Type: Huge cruiser 
+type: Huge cruiser 
 ---
 
 # Vanguard Exsanguinator
 
-> [!infobox|locr n-th clean]
->  [[Starship_VanguardExsanguiator.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_VanguardExsanguiator.jpg|Spielern zeigen!]
 > 
 Huge cruiser, **Tier** 12
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

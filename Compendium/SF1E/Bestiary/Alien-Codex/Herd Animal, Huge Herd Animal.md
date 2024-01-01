@@ -3,11 +3,11 @@ aliases:
 cr: 4
 Environment: any
 hp: 50
-modifier: 0
+Initmod: 0
 name: Herd Animal, Colossal Herd Animal
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
 ---
 
 # Herd Animal, Huge Herd Animal
@@ -19,7 +19,7 @@ In the Pact Worlds, the most common herd animals are domesticated. When various 
 More rarely, some xenobiologists even cultivate groups of herd animals for scientists and corporations who wish to stabilize wild planets’ ecosystems. In this case, interested parties might place large numbers of pack animals in foreign locales to help tame rampant vegetation growth or provide prey for a dying species of predator. The goal of such projects is almost always to improve a planet’s suitability for colonization, mining, or farming. However, this practice is often controversial among ethnobiologists, who argue that introducing large populations of non-native species in this manner produces harmful and unforeseen results more often than it aids environments.
 
 
-**Source**:: _Alien Archive 2 pg. 74_
+**Source**:  _Alien Archive 2 pg. 74_
 
 ## Huge Herd Animal Cr 4
 

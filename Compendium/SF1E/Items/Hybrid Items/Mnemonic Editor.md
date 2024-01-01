@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 10 / 15 / 20 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -8,7 +8,7 @@ Type: Hybrid Item
 
 # Mnemonic Editor
 
-A _mnemonic editor_ consists of a complex series of brain implant injectors, _digital harrow deck_ autoreaders, illusion runes, and virtual-reality programs, all controlled by an enchanted analysis computer and attached to a mobile surgical bed. The network of magic and technology is capable of removing experiences from a patient strapped to the bed over the course of a single 24-hour session. Skills and knowledge can be excised, lessons unlearned and muscle memory altered. Memories are not lost entirely; the patient still recalls what it did during its life, whom it met, and how it felt about the moments it experienced, but the impact of those experiences is subtly altered. The device then creates a new set of experiences—clearly artificial but no less effective—by leaving impressions and implanting new knacks, muscle memory, reflexes, and skills.  
+A _mnemonic editor_ consists of a complex series of brain implant injectors, _digital harrow deck_ autoreaders, illusion runes, and virtual-reality programs, all controlled by an enchanted analysis computer and attached to a mobile surgical bed. The network of magic and technology is capable of removing experiences from a patient strapped to the bed over the course of a single 24-hour session. Skills and knowledge can be excised, lessons unlearned and muscle memory altered. Memories are not lost entirely the patient still recalls what it did during its life, whom it met, and how it felt about the moments it experienced, but the impact of those experiences is subtly altered. The device then creates a new set of experiences—clearly artificial but no less effective—by leaving impressions and implanting new knacks, muscle memory, reflexes, and skills.  
   
 If you use a _mnemonic editor_, you can undo 2 character levels’ worth of decisions about which class levels you took, which feats you selected, how you applied any level-based increases to ability scores, how you assigned new skill ranks, and so on. All decisions you made as a result of advancing over the previous 2 character levels you gained are undone. You then make new selections, including new class levels, feats, skills, and the like, as if you had regained the 2 missing character levels. Go through the normal process of advancing your character through each of these 2 levels.  
   
@@ -21,25 +21,29 @@ A GM has the final decision on whether or not you may rework your character, cha
 ## Mnemonic Editor, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 5;
-**Price**::  500; **Bulk** 10
+**Level**:: 5
+**Price**::  500 
+**Bulk**:: 10
 
 ---
 
 ## Mnemonic Editor, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 10;
-**Price**::  3,000; **Bulk** 10
+**Level**:: 10
+**Price**::  3000 
+**Bulk**:: 10
 
 ## Mnemonic Editor, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 15;
-**Price**::  20,000; **Bulk** 10
+**Level**:: 15
+**Price**::  20000 
+**Bulk**:: 10
 
 ## Mnemonic Editor, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 20;
-**Price**::  125,000; **Bulk** 10
+**Level**:: 20
+**Price**::  125000 
+**Bulk**:: 10

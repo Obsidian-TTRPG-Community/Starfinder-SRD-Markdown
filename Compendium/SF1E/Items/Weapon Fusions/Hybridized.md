@@ -1,7 +1,7 @@
 ---
 aliases: 
 Effect: A weapon with the _hybridized_ fusion replaces much of its technological functions with magic counterparts. It gains the analog weapon special property (see page 180), and the core function of the weapon is considered to be a hybrid of magic and technology (rather than only the fusion counting as a hybrid item). A hybridized weapon still consumes ammunition and battery charges normally.
-ItemLevel: 1
+Item
 NoteType: Weapon
 tags: 
 Type: Weapon Fusions
@@ -10,5 +10,5 @@ Type: Weapon Fusions
 # Hybridized
 
 **Source**:: _Starfinder Core Rulebook pg. 194_  
-**Item Level** 1  
+**Level**:: 1  
 A weapon with the _hybridized_ fusion replaces much of its technological functions with magic counterparts. It gains the analog weapon special property (see page 180), and the core function of the weapon is considered to be a hybrid of magic and technology (rather than only the fusion counting as a hybrid item). A hybridized weapon still consumes ammunition and battery charges normally.

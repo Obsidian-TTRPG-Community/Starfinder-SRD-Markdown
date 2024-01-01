@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 11 / 17 
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,29 +13,33 @@ This single-use device turns an explosive charge into a trap, triggering when it
 ## Proximity Switch, Mk 1
 
 **Source**:: _Tech Revolution pg. 69_  
-**Level** 1;
+**Level**:: 1
 **Price**::  80  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ---
 
 ## Proximity Switch, Mk 2
 
 **Source**:: _Tech Revolution pg. 69_  
-**Level** 5;
+**Level**:: 5
 **Price**::  2250  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ## Proximity Switch, Mk 3
 
 **Source**:: _Tech Revolution pg. 69_  
-**Level** 11;
+**Level**:: 11
 **Price**::  20000  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ## Proximity Switch, Mk 4
 
 **Source**:: _Tech Revolution pg. 69_  
-**Level** 17;
+**Level**:: 17
 **Price**::  190000  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 13
 hp: 210
-modifier: 11
+Initmod: 11
 Monster Type: NPC
 name: Bil’djooli Hunter-Killer
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # BIL’DJOOLI Hunter-killer

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 8 
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,9 +13,10 @@ This one-handed device can be held in front of you and activated as a swift acti
 ## Metaphysical Detector, Mk I
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 5;
+**Level**:: 5
 **Price**::  2950  
-**Hands**:: 1**Bulk** L
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -26,9 +27,10 @@ Detects incorporeal beings.
 ## Metaphysical Detector, Mk Ii
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 8;
+**Level**:: 8
 **Price**::  8500  
-**Hands**:: 1**Bulk** L
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

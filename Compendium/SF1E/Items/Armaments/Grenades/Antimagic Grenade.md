@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 15 / 19
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ An antimagic grenade creates a temporary field that inhibits magic in its radius
 ## _ANTIMAGIC Grenade, I_
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 15;
-**Price**:: 27,500  
+**Level**:: 15
+**Price**:: 27500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ An antimagic grenade creates a temporary field that inhibits magic in its radius
 ## _ANTIMAGIC Grenade, II_
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 19;
-**Price**:: 172,000  
+**Level**:: 19
+**Price**:: 172000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

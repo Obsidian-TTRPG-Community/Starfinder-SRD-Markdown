@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8 
-price: 9,500
+
+price: 9500
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Memory Crypt
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 8;
-**Price**::  9,500; **Bulk** —
+**Level**:: 8
+**Price**::  9500 
+**Bulk**:: —
 
 ### Description
 

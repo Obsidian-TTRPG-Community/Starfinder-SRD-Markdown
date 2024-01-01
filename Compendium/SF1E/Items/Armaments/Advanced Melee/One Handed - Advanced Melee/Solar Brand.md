@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 6 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Solar Brand, Blue Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 17;
-**Price**:: 245,000  
+**Level**:: 17
+**Price**:: 245000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d8 E & F;
+**Damage**:: 7d8 E & F
 **Critical**:: severe wound  
 **Bulk**:: L
 **Special**:: powered (capacity 80; usage 4)
@@ -30,11 +30,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Solar Brand, Red Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 790  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & F;
+**Damage**:: 1d6 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2)
@@ -42,11 +42,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Solar Brand, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 6;
-**Price**:: 4,250  
+**Level**:: 6
+**Price**:: 4250  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 E & F;
+**Damage**:: 1d8 E & F
 **Critical**:: wound  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 4)
@@ -55,10 +55,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 12
-**Price**:: 35,200  
+**Price**:: 35200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 E & F;
+**Damage**:: 3d8 E & F
 **Critical**:: wound  
 **Bulk**:: L
 **Special**:: powered (capacity 80; usage 4)

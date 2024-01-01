@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Calen 5)  
+Environment: any (Calen 5)
 hp: 40
-modifier: 2
+Initmod: 2
 name: Endling, Koruvi Endling
 statblock: true
 tags: 
-Type: N Medium undead (incorporeal)  
+Type: N Medium undead (incorporeal)
 ---
 
 # Endling, Koruvi Endling
@@ -18,7 +18,7 @@ Endlings manifest as much larger spectral members of an extinct species. These g
 
 Koruvis were diminutive ungulates that lived in dens in a planetwide rain forest on a Near Space world. These small creatures had striped and spotted fur, prehensile snouts, and small horns, which they used to dig up fungi for sustenance. However, a vesk mining company that was scouting that system detected starmetal veins beneath the planet’s crust. In the feverish mining race that followed, factions from across the galaxy fought to gain a foothold on what came to be known as Calen 5. Invading miners razed vast swaths of forest, and koruvis, among the other native species of Calen 5, soon went extinct as their home was destroyed. In one of the early settlements on Calen 5, Hope’s Edge, residents reported mysterious property damage, such as holes ripped into buildings and electrical equipment badly mangled, and rumors spread of a pack of ghostly monsters skulking around town. Today, Hope’s Edge has grown into the de facto capital of Calen 5, but koruvi endlings still fiercely attack the city in a never-ending pursuit of revenge against the cause of their extinction.
 
-**Source**:: _Alien Archive 4 pg. 32_
+**Source**:  _Alien Archive 4 pg. 32_
 
 ## Koruvi Endling Cr 3
 

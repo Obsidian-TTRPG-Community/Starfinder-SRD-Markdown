@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 5
-Environment: any deserts, hills, or mountains (Akiton)  
+Environment: any deserts, hills, or mountains (Akiton)
 hp: 84
-modifier: 2
+Initmod: 2
 name: Ikeshti, Ikeshti Rivener
 statblock: true
 tags: 
-Type: N Large humanoid (ikeshti)  
+Type: N Large humanoid (ikeshti)
+combatType: combatant
+alignment: N
+size: large
+type(subtype): humanoid(ikeshti)
+environment:
+  - deserts
+  - hills
+  - mountains
+climate: any
+planet: Akiton
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Ikeshti, Ikeshti Rivener
@@ -25,7 +38,7 @@ Brood-minders quickly regain their prior knowledge and personalities, but their 
 Congregants instinctively feel the need to ensure the success of ikeshti society as a whole. Some form groupings much like adolescent nests, living collaboratively, but individual congregants often become adventurers off-planet to bring wealth and fame back to their people.
 
 Riveners are ikeshtis who were unable to find a mate while rutting and lost their personalities to the brew of hormones swirling inside them. They are bestial and irrational, remembering only the rudiments of language and unable to engage in more than low cunning. Riveners care only about killing, eating, and the thrill of battle. Ikeshtis who come across a rivener go to almost any lengths to put it down, as they believe the existence of these terrors brings shame to their race.
-**Source**:: _Alien Archive pg. 64_
+**Source**:  _Alien Archive pg. 64_
 
 ## Ikeshti Rivener Cr 5
 
@@ -55,3 +68,5 @@ N Large humanoid (ikeshti)
 
 **Environment** any deserts, hills, or mountains (Akiton)  
 **Organization** solitary
+
+

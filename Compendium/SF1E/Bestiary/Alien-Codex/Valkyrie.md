@@ -3,11 +3,11 @@ aliases:
 cr: 12
 Environment: any
 hp: 200
-modifier: 4
+Initmod: 4
 name: Valkyrie
 statblock: true
 tags: 
-Type: CN Medium outsider (extraplanar)  
+Type: CN Medium outsider (extraplanar)
 ---
 
 # Valkyrie

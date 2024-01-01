@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,47 +17,43 @@ The drow corporation Arabani Arms ultimately developed the breakthrough technolo
 ## Snap Whip, Banshee
 
 **Source**:: _Alien Archive 4 pg. 15_  
-**Level**:: 18;
-**Price**:: 445,000  
+**Level**:: 18
+**Price**:: 445000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 So;
+**Damage**:: 10d6 So
 **Critical**:: Stunned  
-**Bulk**:: 1;
-**Special**:: Analog, penetrating, reach, sunder
+**Bulk**:: 1**Special**:: Analog, penetrating, reach, sunder
 
 ## Snap Whip, Thunderstrike
 
 **Source**:: _Alien Archive 4 pg. 15_  
-**Level**:: 3;
-**Price**:: 1,600  
+**Level**:: 3
+**Price**:: 1600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 So;
+**Damage**:: 1d6 So
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, penetrating, reach, sunder
+**Bulk**:: 1**Special**:: Analog, penetrating, reach, sunder
 
 ## Snap Whip, Lfd
 
 **Source**:: _Alien Archive 4 pg. 15_  
-**Level**:: 8;
-**Price**:: 10,100  
+**Level**:: 8
+**Price**:: 10100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 So;
+**Damage**:: 2d6 So
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, penetrating, reach, sunder
+**Bulk**:: 1**Special**:: Analog, penetrating, reach, sunder
 
 ## Snap Whip, Hfd
 
 **Source**:: _Alien Archive 4 pg. 15_  
-**Level**:: 13;
-**Price**:: 54,000  
+**Level**:: 13
+**Price**:: 54000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 So;
+**Damage**:: 5d6 So
 **Critical**:: Stunned  
-**Bulk**:: 1;
-**Special**:: Analog, penetrating, reach, sunder
+**Bulk**:: 1**Special**:: Analog, penetrating, reach, sunder

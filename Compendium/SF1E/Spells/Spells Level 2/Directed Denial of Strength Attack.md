@@ -4,9 +4,9 @@ Level: 2
 Mystic: 
 NoteType: Spell
 Precog: 
-School: enchantment (mind-affecting) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

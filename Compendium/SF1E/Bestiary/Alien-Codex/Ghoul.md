@@ -3,11 +3,25 @@ aliases:
 cr: 1
 Environment: any
 hp: 18
-modifier: 4
+Initmod: 4
 name: Ghoul
 statblock: true
-tags: [3:]
-Type: CE Medium undead  
+tags:
+  - "3:"
+Type: CE Medium undead
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - gang(2-6)
+  - pack(7-12)
+source: Alien Archive 2
 ---
 
 # Ghoul
@@ -20,7 +34,7 @@ Rather than spread the undead scourge they carry inside them, ambitious ghouls i
 
 Whether on Eox or beyond, certain powerful ghouls known as ghasts can affect even elves with their paralysis, and exude a powerful stench; these undead usually hold important positions in ghoul society. Ghouls that lurk underwater and in coastal areas are called lacedons. In many cases, powerful ghouls and lacedons are high-ranking members of the military on Eox or even the Corpse Fleet.
 
-**Source**:: _Alien Archive 2 pg. 60_, _Starfinder Splintered Worlds pg. 54_
+**Source**:  _Alien Archive 2 pg. 60_, _Starfinder Splintered Worlds pg. 54_
 
 ## Ghoul Cr 1
 
@@ -64,3 +78,5 @@ CE Medium undead
 **Track** physical; **Frequency** 1/day  
 **Effect** A creature that dies of ghoul fever rises as a ghoul within 24 hours.  
 **Cure** 1 save
+
+

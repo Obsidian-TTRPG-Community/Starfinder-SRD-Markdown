@@ -3,11 +3,11 @@ aliases:
 cr: 10
 Environment: any
 hp: 180
-modifier: 3
+Initmod: 3
 name: Inevitable, Anhamut
 statblock: true
 tags: 
-Type: LN Medium outsider (inevitable, lawful)  
+Type: LN Medium outsider (inevitable, lawful)
 ---
 
 # Anhamut Cr 10

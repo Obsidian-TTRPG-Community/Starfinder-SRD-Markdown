@@ -3,11 +3,11 @@ aliases:
 cr: 12
 Environment: any
 hp: 185
-modifier: 5
+Initmod: 5
 name: Varculak, Varculak Noble
 statblock: true
 tags: 
-Type: CN Small undead  
+Type: CN Small undead
 ---
 
 # Varculak, Varculak Noble
@@ -20,7 +20,7 @@ Most varculaks are creatures of deep passion. They have a sense of life as fleet
 
 Some varculaks, however, remember only the circumstances of their death. This one recollection can lead a varculak who died violently to focus on vengeance, seeking those responsible. That done, a varculak can become obsessed with the chain of blame, condemning nearly anyone for even a tenuous connection to the varculak’s death. If a mercenary killed such a varculak, the undead seeks first that mercenary, then the mercenary’s entire company, then those who hired the mercenary, and eventually even those responsible for the conflict that led to the varculak’s demise or the manufacturer of the weapon the mercenary used for the deed. A varculak on such a path of destruction is more likely to face a second and final death than to reach the path’s end.
 
-**Source**:: _Alien Archive 3 pg. 126_
+**Source**:  _Alien Archive 3 pg. 126_
 
 ## Varculak Noble Cr 12
 

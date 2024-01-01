@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 6 / 12 / 18
+Item:
 price: 
-System: Endocrine
+
 tags: 
 Type: Magitech
 ---
@@ -14,18 +14,21 @@ A series of magitech glands installed throughout your body can flood your bloods
 ## Ley Veins, Adept
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 12;
-**Price**::  32,000; **System** Endocrine  
+**Level**:: 12
+**Price**::  32000 
+**System**:: Endocrine  
 
 ## Ley Veins, Apprentice
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 6;
-**Price**::  3,900; **System** Endocrine  
+**Level**:: 6
+**Price**::  3900 
+**System**:: Endocrine  
   
 
 ## Ley Veins, Archmage
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 18;
-**Price**::  325,000; **System** Endocrine
+**Level**:: 18
+**Price**::  325000 
+**System**:: Endocrine

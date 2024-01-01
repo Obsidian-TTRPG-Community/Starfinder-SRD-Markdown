@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 6 / 14
+
 price:  
 tags: 
 Type: Technological Item
@@ -14,28 +14,32 @@ Locks are extremely advanced reusable devices, able to secure any fastening or c
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
 **Level**:: 3
-**Price**::  1,000  
-**Hands** 2; **Bulk** L
+**Price**::  1000  
+**Hands** 2 
+**Bulk**:: L
 
 ---
 
 ## Lock, Simple
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  100  
-**Hands** 2; **Bulk** L
+**Hands** 2 
+**Bulk**:: L
 
 ## Lock, Good
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 6;
-**Price**::  3,600  
-**Hands** 2; **Bulk** L
+**Level**:: 6
+**Price**::  3600  
+**Hands** 2 
+**Bulk**:: L
 
 ## Lock, Superior
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 14;
-**Price**::  60,000  
-**Hands** 2; **Bulk** L
+**Level**:: 14
+**Price**::  60000  
+**Hands** 2 
+**Bulk**:: L

@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: Large Heavy Freighter
+type: Large Heavy Freighter
 ---
 
 # Sovereign Sumpter

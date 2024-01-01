@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-11
+
 Type: Small or Medium outsider (elemental, water)  
 ---
 # LOCALIZED WATER ELEMENTAL - COMPANIONS
@@ -8,7 +8,8 @@ Type: Small or Medium outsider (elemental, water)
 **Source**:: _Interstellar Species pg. 82_  
 Water elementals are common on Kalo-Mahoi, and the longer they remain on the Material Plane, the more they tend to adapt, taking on a semipermanent shape. While this diminishes some of the elemental’s resistances, it also drives them to imprint on and work with other creatures, such as kalos.
 
-## LOCALIZED WATER ELEMENTALLEVELS 1-11
+## LOCALIZED WATER ELEMENTAL
+level:: 1-11
 
 Small or Medium outsider (elemental, water)  
 **Senses** darkvision 60 ft.  

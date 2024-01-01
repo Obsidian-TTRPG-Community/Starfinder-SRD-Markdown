@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6 
-price: 4,100
+
+price: 4100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Stickyfinger Gloves
 
 **Source**:: _Tech Revolution pg. 50_  
-**Level** 6;
+**Level**:: 6
 **Price**::  4100  
-**Capacity**:: 20; **Usage** 2/10 minutes  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 2/10 minutes  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

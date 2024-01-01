@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 10 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Aurora Cannon, Electron
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 10;
-**Price**:: 18,200  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 18200  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d4 E & F; **Range**:: 120 ft.;
+**Damage**:: 6d4 E & F 
+**Range**:: 120 ft.
 **Critical**:: blind  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: aurora
 
 ## Aurora Cannon, Hydrogen
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 5
-**Price**:: 3,100  
-**Hands**:: 2;
+**Price**:: 3100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d4 E & F; **Range**:: 100 ft.;
+**Damage**:: 2d4 E & F 
+**Range**:: 100 ft.
 **Critical**:: blind  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: aurora
 
 ## Aurora Cannon, Proton
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 17;
-**Price**:: 258,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 258000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 15d4 E & F; **Range**:: 120 ft.;
+**Damage**:: 15d4 E & F 
+**Range**:: 120 ft.
 **Critical**:: blind  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: aurora

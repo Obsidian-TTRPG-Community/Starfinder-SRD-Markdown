@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 4
-Environment: warm deserts (Kasath)  
+Environment: warm deserts (Kasath)
 hp: 54
-modifier: 1 
+Initmod: 1
 name: Crest-Eater
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magical beast(-)
+environment: deserts
+climate: warm
+planet: Kasath
+organization:
+  - solitary
+  - pair
+  - pride(3-6)
+source: Alien Archive
 ---
 
 # Crest-eater
@@ -78,3 +90,5 @@ Crest-eaters that grow up in close proximity to other creatures often form close
 Crest-eaters occupy a place of fear and reverence in distant kasathan history. The humanoids’ ancient ancestors saw the beasts as terrifying messengers of death, particularly because of their tendency to rip off a victim’s head and leave the remainder of the body unmolested. Today, the crest-eater is still feared but better understood, and kasathan scientists have extensively studied the unique crystals the beasts grow. These are now the foundation for kasathan solar technology. After millennia of kasathan contact with the wider galaxy, crest-eaters have spread to other worlds, both due to kasathan technology sometimes relying on the creatures’ power-generating capabilities and as a result of other races employing crest-eaters as guard beasts, trophies to hunt, or exotic pets. The Idari even brought crest-eaters along on its long voyage, though these are kept carefully contained; rumors of escaped and feral crest-eaters living in the ship’s ventilation shafts are assumed to be spurious.
 
 A typical crest-eater is 14 feet from head to tail and is 6 feet tall at the shoulder, though this doesn’t count its elaborate protrusions. An average crest-eater weighs more than 1,000 pounds.
+
+

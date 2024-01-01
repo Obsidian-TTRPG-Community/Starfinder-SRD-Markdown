@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Tiny racer
+type: Tiny racer
 ---
 
 # Nebulor Skymedic
 
-> [!infobox|locr n-th clean]
->  [[Starship_NebulorSkymedic.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_NebulorSkymedic.jpg|Spielern zeigen!]
 > 
 Tiny racer, **Tier** 1 
 **Speed** 12; **Maneuverability** perfect (turn 0); **Drift** 1  

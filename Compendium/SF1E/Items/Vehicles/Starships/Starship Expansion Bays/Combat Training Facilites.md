@@ -13,14 +13,17 @@ This specialized gym and miniature arena provides an array of holographic threat
 ## Combat Training Facility, Advanced
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 8
+**PCU**:: 5
+**Cost (in BP)**:: 8
 
 ## Combat Training Facility, Basic
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 3; **Cost (in BP)** 3
+**PCU**:: 3
+**Cost (in BP)**:: 3
 
 ## Combat Training Facility, Elite
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 10
+**PCU**:: 5
+**Cost (in BP)**:: 10

@@ -3,11 +3,24 @@ aliases:
 cr: 9
 Environment: any (Triaxus)
 hp: 142
-modifier: 6
+Initmod: 6
 name: Dragonkin
 statblock: true
 tags: 
-Type: LN Large dragon  
+Type: LN Large dragon
+combatType: combatant
+alignment: LN
+size: large
+type(subtype): dragon(-)
+environment: any
+climate: any
+planet: Triaxus
+organization:
+  - solitary
+  - bonded pairs(1) + partner(1)
+  - patrol(3-6 bonded pairs)
+  - wing(7-14 bonded pairs)
+source: Alien Archive
 ---
 
 # Dragonkin
@@ -62,3 +75,5 @@ Life among the stars has led to variation within the dragonkin race, both cultur
 Dragonkin tend to be intimidatingly stoic to strangers but loyal and fun with their friends. While the Skyfire Legion has an unusually heroic code of ethics for a mercenary unit, dragonkin in general are no more good or evil than humans, finding their own religious or moral codes or simply doing whatever it takes to protect their friends and families. While legionaries don’t like to admit it, many dragonkin (and even their humanoid partners) are perfectly happy working for the chromatic-run corporations on Triaxus, conducting shady operations and making sure humanoids in the Drakelands remain properly cowed. Dragonkin have a particularly complicated relationship with the vesk, as the normally aggressive reptilian race have ancient religious scriptures claiming that the spirits of the Veskarium’s greatest warriors would be reincarnated elsewhere in a form suspiciously similar to the dragonkin, and thus vesk have always treated dragonkin with respect and deference, even when their two systems were at war.
 
 The average terrestrial dragonkin is 15 to 20 feet long and weighs roughly 2,000 pounds, while the spacefaring variety can be as small as half that size.
+
+

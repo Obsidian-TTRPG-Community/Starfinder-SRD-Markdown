@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 7
-Type: Medium transport 
+type: Medium transport 
 ---
 
 # Idaran Peregrinasi
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranPeregrinasi.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranPeregrinasi.jpg|Spielern zeigen!]
 > 
 Medium transport, **Tier**  7 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** 2  

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 14 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,64 +18,59 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Kalo Shredder, Cascade-class
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 7;
-**Price**:: 6,630  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 S; **Range**:: 40 ft.;
+**Level**:: 7
+**Price**:: 6630  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 S; 
+**Range**:: 40 ft.
 **Critical**:: bleed 1d6  
 **Capacity**:: 16 flechettes; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, automatic, underwater
+**Bulk**:: 1**Special**:: analog, automatic, underwater
 
 ## Kalo Shredder, Slipstream-class
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 3;
-**Price**:: 1,610  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 S; **Range**:: 30 ft.;
+**Level**:: 3
+**Price**:: 1610  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 S; 
+**Range**:: 30 ft.
 **Critical**:: bleed 1d4  
 **Capacity**:: 8 flechettes; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, automatic, underwater
+**Bulk**:: 1**Special**:: analog, automatic, underwater
 
 ## Kalo Shredder, Torrent-class
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 11;
-**Price**:: 26,700  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 S; **Range**:: 40 ft.;
+**Level**:: 11
+**Price**:: 26700  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 S; 
+**Range**:: 40 ft.
 **Critical**:: bleed 3d4  
 **Capacity**:: 24 flechettes; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, automatic, underwater
+**Bulk**:: 1**Special**:: analog, automatic, underwater
 
 ## Kalo Shredder, Deluge-class
 
 **Source**:: _Pact Worlds pg. 194_  
 **Level**:: 14
-**Price**:: 74,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d6 S; **Range**:: 60 ft.;
+**Price**:: 74300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d6 S; 
+**Range**:: 60 ft.
 **Critical**:: bleed 4d4  
 **Capacity**:: 36 flechettes; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, automatic, underwater
+**Bulk**:: 1**Special**:: analog, automatic, underwater
 
 ## Kalo Shredder, Monsoon-class
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 17;
-**Price**:: 784,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 12d6 S; **Range**:: 60 ft.;
+**Level**:: 17
+**Price**:: 784000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 12d6 S; 
+**Range**:: 60 ft.
 **Critical**:: bleed 4d6  
 **Capacity**:: 48 flechettes; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, automatic, underwater
+**Bulk**:: 1**Special**:: analog, automatic, underwater

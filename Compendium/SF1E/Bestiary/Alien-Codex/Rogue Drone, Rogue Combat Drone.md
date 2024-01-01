@@ -3,11 +3,11 @@ aliases:
 cr: 14
 Environment: any
 hp: 250
-modifier: 6
+Initmod: 6
 name: Rogue Drone, Rogue Combat Drone
 statblock: true
 tags: 
-Type: CN Medium construct (technological)  
+Type: CN Medium construct (technological)
 ---
 
 # Rogue Drone, Rogue Combat Drone
@@ -29,7 +29,7 @@ As with a player building a mechanic’s drone, you must take into account all o
 Like other NPCs, a rogue drone adds its level to all damage it deals with weapons.
 
 
-**Source**:: _Alien Archive 3 pg. 88_
+**Source**:  _Alien Archive 3 pg. 88_
 
 ## Rogue Combat Drone Cr 14
 

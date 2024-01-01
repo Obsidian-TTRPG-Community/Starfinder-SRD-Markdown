@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 13 / 16 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Scorchgun, C-band
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 13;
-**Price**:: 49,100  
+**Level**:: 13
+**Price**:: 49100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d10 F; **Range**:: 60 ft.;
+**Damage**:: 2d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -34,10 +35,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 39_  
 **Level**:: 4
-**Price**:: 2,050  
+**Price**:: 2050  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 F; **Range**:: 60 ft.;
+**Damage**:: 1d6 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Scorchgun, S-band
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 8;
-**Price**:: 9,350  
+**Level**:: 8
+**Price**:: 9350  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 F; **Range**:: 60 ft.;
+**Damage**:: 1d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Scorchgun, K-band
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 16;
-**Price**:: 165,000  
+**Level**:: 16
+**Price**:: 165000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d10 F; **Range**:: 60 ft.;
+**Damage**:: 3d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -72,11 +76,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Scorchgun, X-band
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 18;
-**Price**:: 368,000  
+**Level**:: 18
+**Price**:: 368000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d10 F; **Range**:: 60 ft.;
+**Damage**:: 4d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L

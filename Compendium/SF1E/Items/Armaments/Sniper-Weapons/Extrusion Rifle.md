@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,51 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Extrusion Rifle, 12-ATM
 
 **Source**:: _Galaxy Exploration Manual pg. 79_  
-**Level**:: 3;
-**Price**:: 1,470  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 1d10 B; **Range**:: 60 ft.;
+**Level**:: 3
+**Price**:: 1470  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 1d10 B; 
+**Range**:: 60 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 20 charges ; **Usage** 4  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: Sniper (500 ft.), stun, unwieldy
 
 ## Extrusion Rifle, 24-ATM
 
 **Source**:: _Galaxy Exploration Manual pg. 79_  
-**Level**:: 8;
-**Price**:: 9,840  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 2d10 B; **Range**:: 70 ft.;
+**Level**:: 8
+**Price**:: 9840  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 2d10 B; 
+**Range**:: 70 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 20 charges ; **Usage** 4  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: Sniper (500 ft.), stun, unwieldy
 
 ## Extrusion Rifle, 48-ATM
 
 **Source**:: _Galaxy Exploration Manual pg. 79_  
-**Level**:: 13;
-**Price**:: 55,000  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 4d10 B; **Range**:: 80 ft.;
+**Level**:: 13
+**Price**:: 55000  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 4d10 B; 
+**Range**:: 80 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 40 charges ; **Usage** 8  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: Sniper (750 ft.), stun, unwieldy
 
 ## Extrusion Rifle, 96-ATM
 
 **Source**:: _Galaxy Exploration Manual pg. 79_  
-**Level**:: 18;
-**Price**:: 392,400  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 10d10 B; **Range**:: 90 ft.;
+**Level**:: 18
+**Price**:: 392400  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 10d10 B; 
+**Range**:: 90 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 80 charges ; **Usage** 10  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: Sniper (1, 000 ft.), stun, unwieldy

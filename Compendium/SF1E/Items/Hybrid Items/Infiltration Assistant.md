@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 11  
-price: 28,000
+
+price: 28000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Infiltration Assistant
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level** 11;
-**Price**::  28,000; **Bulk** L
+**Level**:: 11
+**Price**::  28000 
+**Bulk**:: L
 
 ### Description
 

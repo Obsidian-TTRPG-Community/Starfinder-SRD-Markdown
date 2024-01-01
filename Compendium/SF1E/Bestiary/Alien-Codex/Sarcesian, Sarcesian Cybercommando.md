@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 8
-Environment: any low-gravity (Diaspora)  
+Environment: any low-gravity (Diaspora)
 hp: 110
-modifier: 5
+Initmod: 5
 name: Sarcesian, Sarcesian Cybercommando
 statblock: true
 tags: 
-Type: LN Large humanoid (sarcesian) 
+Type: LN Large humanoid (sarcesian)
+combatType: expert
+alignment: LN
+size: large
+type(subtype): humanoid(sarcesian)
+environment: low-gravity
+climate: any
+planet: Diaspora
+organization:
+  - solitary
+  - pair
+  - regiment(3-5)
+source: Alien Archive
 ---
 
 # Sarcesian, Sarcesian Cybercommando
@@ -18,7 +30,7 @@ Thanks to arcane engines left behind by the sarcesians’ ancestors, the race ha
 
 Sarcesians who leave the asteroid belt are sometimes hired as mercenaries specializing in surveillance and marksmanship, as they are accustomed to operating at vast distances from their targets. These sarcesians hone their innate patience even further in order to lie in wait for their marks for days atop bluffs, in dilapidated apartments, or even in the vacuum of space outside docking slips. Employers tend to pay well for this degree of dedication, making sarcesian snipers a highly sought-after commodity in certain areas of the galaxy.
 
-**Source**:: _Alien Archive pg. 98_
+**Source**:  _Alien Archive pg. 98_
 
 ## Sarcesian Cybercommando Cr 8
 
@@ -57,3 +69,5 @@ LN Large humanoid (sarcesian)
 ### Special Abilities
 
 **Void Flyer (Su)** A sarcesian can go 1 hour without breathing and can exist in a vacuum without suffering the associated environmental effects. By spending 1 Resolve Point, a sarcesian can extend this duration to a number of hours equal to her CR, or she can double that by spending 2 Resolve Points. When in a vacuum, sarcesians automatically grow wings made from pure energy that grant them a supernatural fly speed of 120 feet (average maneuverability) but that work only in a vacuum.
+
+

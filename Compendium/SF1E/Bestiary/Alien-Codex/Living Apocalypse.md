@@ -3,11 +3,21 @@ aliases:
 cr: 20
 Environment: any
 hp: 405
-modifier: 12
+Initmod: 12
 name: Living Apocalypse
 statblock: true
 tags: 
-Type: CE Colossal ooze  
+Type: CE Colossal ooze
+combatType: spellcaster
+alignment: CE
+size: colossal
+type(subtype): ooze(-)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Living Apocalypse
@@ -72,3 +82,5 @@ When there is nothing left to destroy and no change for centuries, a living apoc
 ## Apocalypse Crystals
 
 Regions ravaged by a living apocalypse’s radioactivity sometimes develop a form of natural solarian weapon crystal known as an apocalypse crystal. While no one is foolish enough to oppose a living apocalypse to search its environs for these crystals, when a living apocalypse moves away from a devastated area it dwelt in for a long period, there is often a “crystal rush.” Representatives of solarian academies and other prospectors in environmental suits risk exposure to lingering radiation in hopes of finding any apocalypse crystals before anyone else—and before the malevolent nuclear ooze returns.
+
+

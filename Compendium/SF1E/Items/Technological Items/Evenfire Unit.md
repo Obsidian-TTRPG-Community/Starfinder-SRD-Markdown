@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 550
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Evenfire Unit
 
 **Source**:: _Starfinder Armory pg. 103_  
-**Level** 2;
+**Level**:: 2
 **Price**::  550  
-**Capacity**:: 20; **Usage** 2/hour  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 2/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

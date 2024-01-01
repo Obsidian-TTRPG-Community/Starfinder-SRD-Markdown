@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 135
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Stowalong
-statblock: true
-Subtype: Guides
+statblock: true(Guides
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Stowalong

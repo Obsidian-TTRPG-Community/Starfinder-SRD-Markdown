@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6
-price: 4,000
+
+price: 4000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Phase Detector
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 6;
-**Price**::  4,000; **Bulk** L
+**Level**:: 6
+**Price**::  4000 
+**Bulk**:: L
 
 ### Description
 

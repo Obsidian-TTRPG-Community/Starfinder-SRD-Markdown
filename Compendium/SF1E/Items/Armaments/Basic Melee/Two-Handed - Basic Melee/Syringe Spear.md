@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 6 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,10 @@ At a glance, this weapon resembles a massive medicinal syringe that has been aff
 ## Syringe Spear, Advanced
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 6;
-**Price**:: 4,250  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d8 P;
+**Level**:: 6
+**Price**:: 4250  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -29,9 +28,8 @@ At a glance, this weapon resembles a massive medicinal syringe that has been aff
 **Source**:: _Character Operations Manual pg. 122_  
 **Level**:: 1
 **Price**:: 250  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d6 P;
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -39,11 +37,10 @@ At a glance, this weapon resembles a massive medicinal syringe that has been aff
 ## Syringe Spear, Elite
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 11;
-**Price**:: 25,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 3d10 P;
+**Level**:: 11
+**Price**:: 25000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 3d10 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -51,11 +48,10 @@ At a glance, this weapon resembles a massive medicinal syringe that has been aff
 ## Syringe Spear, Paragon
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 16;
-**Price**:: 165,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 9d8 P;
+**Level**:: 16
+**Price**:: 165000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 9d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection

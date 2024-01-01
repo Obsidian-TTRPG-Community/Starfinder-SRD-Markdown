@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 115
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Double Agent
-statblock: true
-Subtype: Infilitrators
+statblock: true(Infilitrators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Double Agent

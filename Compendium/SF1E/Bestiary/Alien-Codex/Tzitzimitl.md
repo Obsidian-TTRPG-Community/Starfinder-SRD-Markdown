@@ -3,11 +3,11 @@ aliases:
 cr: 19
 Environment: any
 hp: 415
-modifier: 9
+Initmod: 9
 name: Tzitzimitl
 statblock: true
 tags: 
-Type: NE Gargantuan undead  
+Type: NE Gargantuan undead
 ---
 
 # Tzitzimitl

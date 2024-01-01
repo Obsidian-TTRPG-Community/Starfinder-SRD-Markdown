@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 75
 tags: 
 Type: Hybrid Item
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Planar Flare
 
 **Source**:: _Drift Crisis pg. 93_  
-**Level** 1;
-**Price**::  75; **Bulk** L
+**Level**:: 1
+**Price**::  75 
+**Bulk**:: L
 
 ### Description
 

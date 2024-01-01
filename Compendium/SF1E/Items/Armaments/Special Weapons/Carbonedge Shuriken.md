@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 85
 tags: 
 type: Special Weapons
@@ -13,7 +13,8 @@ type: Special Weapons
 **Price**:: 85  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 1d4 P; **Range**:: 10 ft.;
+**Damage**:: 1d4 P; 
+**Range**:: 10 ft.
 **Critical**:: bleed 1d4  
 **Capacity**:: drawn  
 **Bulk**:: —

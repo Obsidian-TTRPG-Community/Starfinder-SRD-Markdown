@@ -3,11 +3,22 @@ aliases:
 cr: 6
 Environment: any
 hp: 90
-modifier: 6
+Initmod: 6
 name: Symbiend, Damoritosh's Arm Host
 statblock: true
 tags: 
-Type: Human soldier  
+Type: Human soldier
+combatType: combatant
+alignment: CN
+size: medium
+type(subtype): humanoid(human)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Symbiend, Damoritosh's Arm Host
@@ -18,7 +29,7 @@ Despite the impressive abilities they grant to hosts, symbiends are almost helpl
 
 Dozens of different symbiends exist, but those most commonly encountered in the Pact Worlds are listed below. The template grafts below can be used to create a creature bonded to a symbiend; at the GM’s discretion, a PC can also bond with a symbiend, ignoring the array requirements and suggested ability score modifiers. A symbiend counts as an augmentation that is “installed” in the listed systems, though a removed symbiend can be used by another creature (unlike normal augmentations). Symbiends can’t be purchased or sold (at least, not in reputable settlements).
 
-**Source**:: _Alien Archive pg. 112_
+**Source**:  _Alien Archive pg. 112_
 
 ## Damoritosh's Arm Host Cr 6
 
@@ -51,3 +62,5 @@ CN Medium humanoid (human)
 
 **Environment** any  
 **Organization** solitary
+
+

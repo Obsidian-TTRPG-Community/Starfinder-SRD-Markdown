@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 11 / 14 / 17
+Item:
 price:  
-System: Throat
+
 tags: 
 Type: Magitech
 ---
@@ -15,26 +15,29 @@ A _duofrequency enchanting vocal modulator_ can target two creatures at once. 
 
 | Model         | Level | Price   |
 | ------------- | ----- | ------- |
-| Monofrequency | 11    | 25,400  |
-| Duofrequency  | 14    | 66,500  |
-| Quadfrequency | 17    | 225,000 |
+| Monofrequency | 11    | 25400  |
+| Duofrequency  | 14    | 66500  |
+| Quadfrequency | 17    | 225000 |
 
 ## Enchanting Vocal Modulator, Duofrequency
 
 **Source**:: _Starfinder Armory pg. 91_  
-**Item Level** 14;
-**Price**::  66,500; **System** Throat  
+**Level**:: 14
+**Price**::  66500 
+**System**:: Throat  
   
 
 ## Enchanting Vocal Modulator, Monofrequency
 
 **Source**:: _Starfinder Armory pg. 91_  
-**Item Level** 11;
-**Price**::  25,400; **System** Throat  
+**Level**:: 11
+**Price**::  25400 
+**System**:: Throat  
   
 
 ## Enchanting Vocal Modulator, Quadfrequency
 
 **Source**:: _Starfinder Armory pg. 91_  
-**Item Level** 17;
-**Price**::  225,000; **System** Throat
+**Level**:: 17
+**Price**::  225000 
+**System**:: Throat

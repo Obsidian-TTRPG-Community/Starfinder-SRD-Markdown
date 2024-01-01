@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 165
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Phalanx Mercenary Captain
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Phalanx Mercenary Captain

@@ -3,11 +3,11 @@ aliases:
 cr: 11
 Environment: any
 hp: 
-modifier: 8
+Initmod: 8
 name: Animated Quartz Swarm
 statblock: true
 tags: 
-Type: N Fine construct (magical, swarm, technological)  
+Type: N Fine construct (magical, swarm, technological)
 ---
 
 # Animated Quartz Swarm

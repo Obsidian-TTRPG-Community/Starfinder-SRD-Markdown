@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Large animal  
 ---
 # YASAKAJA - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large animal
 **Source**:: _Alien Archive 3 pg. 147_  
 Native to the jungles of the isolated continent of Ukulam on Castrovel, yasakajas are furred quadrupeds with four eyes, a fox-like tail, and enormous, insectile mandibles. Yasakajas are known for being sturdy mounts with great endurance and superb mobility.
 
-## YASAKAJALEVELS 1-20
+## YASAKAJA
+level:: 1-20
 
 Large animal  
 **Senses** blindsense (vibration) 60 ft.  

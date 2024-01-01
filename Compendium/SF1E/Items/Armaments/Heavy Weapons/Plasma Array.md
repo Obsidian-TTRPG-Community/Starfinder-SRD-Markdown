@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,59 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Array, Blue Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 15;
-**Price**:: 109,000  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 109000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d10 E & F; **Range**:: 100 ft.;
+**Damage**:: 5d10 E & F 
+**Range**:: 100 ft.
 **Critical**:: burn 4d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic
 
 ## Plasma Array, Red Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 3;
-**Price**:: 1,380  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1380  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 E & F; **Range**:: 80 ft.;
+**Damage**:: 1d10 E & F 
+**Range**:: 80 ft.
 **Critical**:: burn 1d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic
 
 ## Plasma Array, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 7;
-**Price**:: 6,300  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 6300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d10 E & F; **Range**:: 80 ft.;
+**Damage**:: 2d10 E & F 
+**Range**:: 80 ft.
 **Critical**:: burn 2d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic
 
 ## Plasma Array, White Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 11;
-**Price**:: 26,400  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 26400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d10 E & F; **Range**:: 100 ft.;
+**Damage**:: 3d10 E & F 
+**Range**:: 100 ft.
 **Critical**:: burn 3d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic

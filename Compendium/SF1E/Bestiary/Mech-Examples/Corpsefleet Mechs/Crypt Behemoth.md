@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 12
-Type: Colossal seahellion
+type: Colossal seahellion
 ---
 
 # Crypt Behemoth - Tier 12
 
-**Source**:: _Tech Revolution pg. 119_  
+**Source**:  _Tech Revolution pg. 119_  
 Colossal seahellion, **Tier** 12 
 **Operators** 2–6; **PP** 9 (2/turn, max 18)  
 **Speed** 40 ft., swim 60 ft.;  

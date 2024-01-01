@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 2
-Type: Tiny interceptor
+type: Tiny interceptor
 ---
 
 # Infernex Unshakable
 
-> [!infobox|locr n-th clean]
->  [[Starship_InfernexUnshakable.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InfernexUnshakable.jpg|Spielern zeigen!]
 > 
 
 Tiny interceptor, **Tier** 2 

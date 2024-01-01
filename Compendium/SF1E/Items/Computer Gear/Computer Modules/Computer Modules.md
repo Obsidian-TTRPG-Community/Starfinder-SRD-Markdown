@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: 
-Level: 
+
 price: 
 tags: 
 Type: Computer Gear
@@ -15,8 +15,10 @@ Note that modules are a combination of both hardware and software, and as such t
 
 ``` dataview
 TABLE
-Category, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Computer Gear/Computer Modules"
+Category, price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Computer Gear/Computer Modules"
 SORT Level ASC
 WHERE file.name != "Computer Modules"
 ```
+
+![[Computer Gear#Modules]]

@@ -3,11 +3,24 @@ aliases:
 cr: 3
 Environment: any
 hp: 26
-modifier: 3
+Initmod: 3
 name: Cerebric Fungus
 statblock: true
 tags: 
-Type: N Medium plant  
+Type: N Medium plant
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): plant(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - colony(3-12)
+source: Alien Archive 2
 ---
 
 # Cerebric Fungus
@@ -30,7 +43,7 @@ Cerebric fungi reproduce by budding. They can also grow specialized buds, removi
 
 **Telepathic Interface**: A fungal computer has only a telepathic user interface (see the upgrade below). A hacking kit can access a fungal computer, but otherwise a typical computer with a complex control module must be purchased separately and installed to provide a digital interface for a fungal computer.
 
-**Source**:: _Alien Archive 2 pg. 26_
+**Source**:  _Alien Archive 2 pg. 26_
 
 ## Cerebric Fungus Cr 3
 
@@ -75,3 +88,5 @@ At will—_daze_ (DC 15), _detect thoughts_ (DC 16)
 **Star Shriek (Ex)** Once per day as a full action, a cerebric fungus can unleash a shrill scream in tones that are difficult for minds to process. Each non-plant creature within 30 feet must succeed at the listed Will save or be nauseated for 1 round. This is a sonic, mind-affecting effect.
 
 **Unsettling Appearance (Su)** A cerebric fungus constantly scans the minds of those around it, projecting around itself a confusing collage of images gleaned from their thoughts. Each creature within 60 feet that can see the fungus must succeed at the listed Will save or be off-target while within the aura’s radius. A creature that succeeds at a save against a cerebric fungus’s unsettling appearance is immune to this effect for 24 hours. This is a mind-affecting effect.
+
+

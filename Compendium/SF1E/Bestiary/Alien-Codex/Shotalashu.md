@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 2
-Environment: warm forests (Castrovel)  
+Environment: warm forests (Castrovel)
 hp: 25
-modifier: 4
+Initmod: 4
 name: Shotalashu
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magical beast(-)
+environment: forests
+climate: warm
+planet: Castrovel
+organization:
+  - solitary
+  - pack(3-5)
+source: Alien Archive 2
 ---
 
 # Shotalashu
@@ -26,7 +37,7 @@ A typical domesticated shotalashu is over 10 feet long from snout to tail-tip, a
 
 As technology has advanced, telepathic bonding with shotalashus has become possible for those who aren’t lashunta. The lashuntas have also maintained traditional gear for shotalashu riding: the shotalashu link cortex and the shotalashu saddle.
 
-**Source**:: _Alien Archive 2 pg. 114_
+**Source**:  _Alien Archive 2 pg. 114_
 
 ## Shotalashu Cr 2
 
@@ -63,3 +74,5 @@ N Large magical beast
 **Jungle Strider (Ex)** Shotalashus are adept at traversing all forms of forest terrain. While in forest terrain, a shotalashu’s speed is not impeded by natural difficult terrain such as undergrowth.
 
 **Telepathic Link (Su)** A lashunta can spend 1 hour and attempt a Survival check (DC 15 + 1-1/2 the shotalashu’s CR) to form a telepathic bond with an unbound shotalashu. If the lashunta is successful, the rider’s link functions as _telepathic bond_ with a permanent duration. A bonded shotalashu is considered trained in battle when carrying or fighting alongside the bonded lashunta. A lashunta can’t be linked to more than one shotalashu at a time, but she can break her link with one shotalashu in favor of another at any time. If either of the linked beings dies while bonded, the surviving creature suffers telepathic backlash, becoming dazed for 1 round and taking 3d6 damage. Creatures that have limited telepathy or telepathy other than lashuntas and that speak a common language with a shotalashu can also attempt to forge this telepathic bond, but they take a –5 penalty to their Survival checks to do so.
+
+

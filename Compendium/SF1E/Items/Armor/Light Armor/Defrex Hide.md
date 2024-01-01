@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12 / 16
+
 NoteType: Armor
 price: 
 tags: 
@@ -17,19 +17,33 @@ Even juvenile defrex hide has layers of cartilaginous fibers that resist tearing
 
 **Source**:: _Alien Archive 3 pg. 13_  
 **Level**:: 12
-**Price**:: 33,000; **Category** Light  
-**EAC Bonus** +14; **KAC Bonus** +16; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Price**:: 33000 
+**Category**:: Light  
+
+**EAC**:: +14 
+**KAC**:: +16 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Defrex Hide, Basic
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 4
-**Price**:: 2,250; **Category** Light  
-**EAC Bonus** +5; **KAC Bonus** +5; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Price**:: 2250 
+**Category**:: Light  
+
+**EAC**:: +5 
+**KAC**:: +5 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ### Description
 
@@ -38,17 +52,31 @@ Made from the hide of a ferocious mammal native to Vesk-2, this light armor is p
 ## Defrex Hide, Mature
 
 **Source**:: _Alien Archive 3 pg. 13_  
-**Level**:: 8;
-**Price**:: 9,000; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +11; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 8
+**Price**:: 9000 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +11 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Defrex Hide, Elite
 
 **Source**:: _Alien Archive 3 pg. 13_  
-**Level**:: 16;
-**Price**:: 142,000; **Category** Light  
-**EAC Bonus** +19; **KAC Bonus** +21; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 16
+**Price**:: 142000 
+**Category**:: Light  
+
+**EAC**:: +19 
+**KAC**:: +21 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L

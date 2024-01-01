@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: any land  
+Environment: any land
 hp: 95
-modifier: 4
+Initmod: 4
 name: xxEpokasite, Runnerx
 statblock: true
 tags: 
-Type: CG Medium fey  
+Type: CG Medium fey
 ---
 
 # Epokasite, Runner
@@ -22,7 +22,7 @@ An epokasite most often imprints on the culture and time period in which they ca
 
 The most tragic and contentious of all epokasites are those who embody eras now lost to the Gap. These distraught individuals rarely maintain more than a memento or faint memory from that lost time, and they strive to piece together whatever they can, sometimes teaming up with Starfinders and other scholars.
 
-**Source**:: _Alien Archive 4 pg. 36_
+**Source**:  _Alien Archive 4 pg. 36_
 
 ## Runner Cr 8
 

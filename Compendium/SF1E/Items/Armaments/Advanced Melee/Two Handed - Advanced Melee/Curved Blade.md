@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 10 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ This graceful, curving blade further increases the drama inherent in sword fight
 ## Curve Blade, Buzzblade
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 16;
-**Price**:: 184,300  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d10 S;
+**Level**:: 16
+**Price**:: 184300  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d10 S
 **Critical**:: bleed 5d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2)
 
 ## Curve Blade, Carbon Steel
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 4
-**Price**:: 2,230  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 S;
+**Price**:: 2230  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 S
 **Critical**:: bleed 1d6  
-**Bulk**:: 2;
-**Special**:: analog
+**Bulk**:: 2**Special**:: analog
 
 ## Curve Blade, Ultrathin
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 10;
-**Price**:: 18,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 S;
+**Level**:: 10
+**Price**:: 18100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 S
 **Critical**:: bleed 2d6  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Curve Blade, Dimensional Slice
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 20;
-**Price**:: 815,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 12d10 S;
+**Level**:: 20
+**Price**:: 815000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 12d10 S
 **Critical**:: bleed 6d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2)

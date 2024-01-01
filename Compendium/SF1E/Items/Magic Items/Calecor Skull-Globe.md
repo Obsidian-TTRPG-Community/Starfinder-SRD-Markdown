@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 17
-price: 250,000 
+
+price: 250000 
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Alien Archive 2 pg. 25_  
-**Level** 17;
-**Price**::  250,000; **Bulk** 1
+**Level**:: 17
+**Price**::  250000 
+**Bulk**:: 1
 
 ### Description
 

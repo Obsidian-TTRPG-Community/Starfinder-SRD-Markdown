@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 9 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Cryospike, Industrial
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 15;
-**Price**:: 114,000  
+**Level**:: 15
+**Price**:: 114000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 9d4 C;
+**Damage**:: 9d4 C
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: extinguish, integrated (2 slots), powered (capacity 20; usage 2)
@@ -30,11 +30,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Cryospike, Personal
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 2;
-**Price**:: 1,100  
+**Level**:: 2
+**Price**:: 1100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 C;
+**Damage**:: 1d4 C
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: extinguish, integrated (2 slots), powered (capacity 20; usage 2)
@@ -42,11 +42,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Cryospike, Residential
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 9;
-**Price**:: 13,700  
+**Level**:: 9
+**Price**:: 13700  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 C;
+**Damage**:: 3d4 C
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: extinguish, integrated (2 slots), powered (capacity 20; usage 2)

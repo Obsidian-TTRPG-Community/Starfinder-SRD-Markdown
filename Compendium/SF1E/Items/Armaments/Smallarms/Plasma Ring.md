@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 11 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Ring, Dual-valve
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 11;
-**Price**:: 27,000  
+**Level**:: 11
+**Price**:: 27000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 E & F; **Range**:: 50 ft.;
+**Damage**:: 2d8 E & F; 
+**Range**:: 50 ft.
 **Critical**:: wound  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -34,10 +35,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 4
-**Price**:: 2,350  
+**Price**:: 2350  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 E & F; **Range**:: 40 ft.;
+**Damage**:: 1d4 E & F; 
+**Range**:: 40 ft.
 **Critical**:: wound  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Ring, Multichannel
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 17;
-**Price**:: 280,000  
+**Level**:: 17
+**Price**:: 280000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d8 E & F; **Range**:: 60 ft.;
+**Damage**:: 4d8 E & F; 
+**Range**:: 60 ft.
 **Critical**:: wound  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L

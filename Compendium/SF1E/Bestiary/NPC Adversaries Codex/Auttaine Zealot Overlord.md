@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 18
 hp: 240
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Auttaine Zealot Overlord
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Auttaine Zealot Overlord

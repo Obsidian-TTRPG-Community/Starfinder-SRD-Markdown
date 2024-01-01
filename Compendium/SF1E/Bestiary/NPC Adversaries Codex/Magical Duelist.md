@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 75
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Magical Duelist
-statblock: true
-Subtype: Sport Figures
+statblock: true(Sport Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Magical Duelist

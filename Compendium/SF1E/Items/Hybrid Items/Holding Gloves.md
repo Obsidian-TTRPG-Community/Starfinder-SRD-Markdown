@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 12 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,21 +15,23 @@ The spell imbued in _holding gloves_ depends on their model, as follows.
 ## Holding Gloves, Mk 1
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level** 6;
-**Price**::  4,250; **Bulk** L
+**Level**:: 6
+**Price**::  4250 
+**Bulk**:: L
 
 ### Description
 
-_Hold person_ (save DC = 12 + your key ability score modifier; caster level 5th)
+_Hold person_ (save DC = 12 + your key ability score modifier caster level 5th)
 
 ---
 
 ## Holding Gloves, Mk 2
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level** 12;
-**Price**::  35,000; **Bulk** L
+**Level**:: 12
+**Price**::  35000 
+**Bulk**:: L
 
 ### Description
 
-_Hold monster_ (save DC = 14 + your key ability score modifier; caster level 10th)
+_Hold monster_ (save DC = 14 + your key ability score modifier caster level 10th)

@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 5
-Environment: any aquatic (Kalo-Mahoi)  
+Environment: any aquatic (Kalo-Mahoi)
 hp: 57
-modifier: 3
+Initmod: 3
 name: Kalo Deepseeker
 statblock: true
 tags: 
-Type: NG Medium monstrous humanoid (aquatic)  
+Type: NG Medium monstrous humanoid (aquatic)
+combatType: spellcaster
+alignment: NG
+size: medium
+type(subtype): monstrous humanoid(aquatic)
+environment: aquatic
+climate: any
+planet: Kalo-Mahoi
+organization:
+  - solitary
+  - delegation(1) + Kalo Sharkhunter(3-6)
+source: Alien Archive
 ---
 
 # Kalo Deepseeker
@@ -20,7 +31,7 @@ Few kalos lack an artistic or scholarly hobby, and though not overly tied to tra
 
 Although slower out of water, kalo warriors are renowned for their calm precision in battle, especially in zero-g and underwater, and known for using cryo weapons against enemies of other races, trusting their natural resistances to protect them from friendly fire. The average kalo is 5-1/2 feet tall and weighs 100 pounds.
 
-**Source**:: _Alien Archive pg. 68_
+**Source**:  _Alien Archive pg. 68_
 
 ## Kalo Deepspeaker Cr 5
 
@@ -61,3 +72,5 @@ At will—_mindlink_
 
 **Environment** any aquatic (Kalo-Mahoi)  
 **Organization** solitary or delegation (1 deepspeaker and honor guard of 3–6 kalo sharkhunters)
+
+

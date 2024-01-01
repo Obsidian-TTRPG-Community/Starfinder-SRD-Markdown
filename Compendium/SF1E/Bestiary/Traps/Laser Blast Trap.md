@@ -1,9 +1,9 @@
 ---
-name: Laser Blast Trap
+name: Laser Blast Trap---
 cr: 1
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 412_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

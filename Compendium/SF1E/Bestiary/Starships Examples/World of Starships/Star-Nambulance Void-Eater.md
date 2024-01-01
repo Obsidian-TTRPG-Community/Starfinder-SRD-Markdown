@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Huge oma
+type: Huge oma
 ---
 
 # Star-nambulance Void-eater
 
-> [!infobox|locr n-th clean]
->  [[Starship_StarNambulanceVoidEeater.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_StarNambulanceVoidEeater.jpg|Spielern zeigen!]
 > 
 Huge oma, **Tier** 13 
 **Speed** 6; **Maneuverability** average (turn 2); **Drift** 2  

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 6 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Shock Pad, Aurora
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 6;
-**Price**:: 4,900  
+**Level**:: 6
+**Price**:: 4900  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 E;
+**Damage**:: 2d4 E
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: integrated (1 slot), powered (capacity 20; usage 1), stun
@@ -28,11 +28,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Shock Pad, Static
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 2;
-**Price**:: 1,100  
+**Level**:: 2
+**Price**:: 1100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E;
+**Damage**:: 1d4 E
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: integrated (1 slot), powered (capacity 20; usage 1), stun
@@ -41,10 +41,10 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 12
-**Price**:: 37,500  
+**Price**:: 37500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d4 E;
+**Damage**:: 6d4 E
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: integrated (1 slot), powered (capacity 20; usage 1), stun
@@ -52,11 +52,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Shock Pad, Tempest
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 17;
-**Price**:: 268,000  
+**Level**:: 17
+**Price**:: 268000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 13d4 E;
+**Damage**:: 13d4 E
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: integrated (1 slot), powered (capacity 20; usage 1), stun

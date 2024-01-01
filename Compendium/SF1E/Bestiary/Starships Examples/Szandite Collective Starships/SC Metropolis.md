@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Gargantuan carrier
+type: Gargantuan carrier
 ---
 
 # Sc Metropolis

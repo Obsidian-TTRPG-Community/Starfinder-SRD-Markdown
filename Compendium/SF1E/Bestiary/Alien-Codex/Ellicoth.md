@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 9
-Environment: any plains or deserts (Eox)  
+Environment: any plains or deserts (Eox)
 hp: 145
-modifier: 0
+Initmod: 0
 name: Ellicoth
 statblock: true
 tags: 
-Type: N Gargantuan magical beast  
+Type: N Gargantuan magical beast
+combatType: combatant
+alignment: N
+size: gargantuan
+type(subtype): magical beast(-)
+environment:
+  - plains
+  - deserts
+climate: any
+planet: Eox
+organization:
+  - solitary
+  - pair
+  - herd(3-6)
+source: Alien Archive
 ---
 
 # Ellicoth
@@ -59,3 +73,5 @@ Not all bone sages are content to let ellicoths remain wild, however. Continuing
 Ellicoths are mammalian and give birth to live young one at a time, which mature to full size within a few years and can live for centuries. Rather than having a designated leader, each herd tends to follow whichever adult member is moving with the most purpose at any given time, leading to chaotic and unpredictable movements when threatened. Ellicoth corpses are extremely rare; when an ellicoth grows old and its internal organs begin to fail, it instinctively leaves the herd and heads for the most powerful source of radiation in the area—usually the center of a radioactive waste—and proceeds to lie down and sing its dirges loudly and continually until its body finally gives out. Once it does, unknown processes within its cells, possibly related to the storage of radiation, cause the corpse to suddenly and dramatically break down, transforming the creature into a puddle of radioactive ooze within hours.
 
 While their docile wandering punctuated by occasional feeding frenzies leads people to dismiss ellicoths as brutes, they’re significantly smarter than most give them credit for. Although unable to speak, they still manage to understand rudimentary language when exposed to it regularly, and those few naturalists or trainers who’ve interacted extensively with them believe them to have significantly more complicated inner lives than ordinary animals. Attempts to decipher their haunting bellows, which rumble through the ground and the planet’s poisoned remnants of an atmosphere, have so far failed to reveal any natural language among the creatures, but ellicoths instructed in Eoxian and presented with words and pictograms to point at with their trunks have revealed a startling discovery. Though lacking the consciousness necessary for even an oral history, ellicoths maintain a racial memory of the planet’s destruction and the time before it, describing a deep-seated sadness at the way things are and a longing for a time of green fields and tall trees—a time no living ellicoth has ever known. How exactly this memory has been passed down remains a mystery, and the ellicoths themselves have no sense of what it means, other than to repeatedly point to the word “waiting.”
+
+

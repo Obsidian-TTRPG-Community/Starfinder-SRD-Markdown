@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 7 / 11 / 16 / 20
+Item:
 price:  
-System: Throat
+
 tags: 
 Type: Biotech
 ---
@@ -14,8 +14,9 @@ Your throat has been modified, allowing you to create powerful sonic waves by sc
 ## Sonic Vocalizer, Anharmonic
 
 **Source**:: _Interstellar Species pg. 59_  
-**Item Level** 11;
-**Price**::  24,500; **System** Throat  
+**Level**:: 11
+**Price**::  24500 
+**System**:: Throat  
   
 
 ---
@@ -23,26 +24,30 @@ Your throat has been modified, allowing you to create powerful sonic waves by sc
 ## Sonic Vocalizer, Harmonic
 
 **Source**:: _Interstellar Species pg. 59_  
-**Item Level** 2;
-**Price**::  750; **System** Throat  
+**Level**:: 2
+**Price**::  750 
+**System**:: Throat  
   
 
 ## Sonic Vocalizer, Resonant
 
 **Source**:: _Interstellar Species pg. 59_  
-**Item Level** 7;
-**Price**::  6,250; **System** Throat  
+**Level**:: 7
+**Price**::  6250 
+**System**:: Throat  
   
 
 ## Sonic Vocalizer, Parametric
 
 **Source**:: _Interstellar Species pg. 59_  
-**Item Level** 16;
-**Price**::  162,000; **System** Throat  
+**Level**:: 16
+**Price**::  162000 
+**System**:: Throat  
   
 
 ## Sonic Vocalizer, Radial
 
 **Source**:: _Interstellar Species pg. 59_  
-**Item Level** 20;
-**Price**::  810,000; **System** Throat
+**Level**:: 20
+**Price**::  810000 
+**System**:: Throat

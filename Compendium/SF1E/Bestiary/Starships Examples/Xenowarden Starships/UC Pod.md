@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: Tiny biomechanical interceptor 
+type: Tiny biomechanical interceptor 
 ---
 
 # Uc Pod
 
-> [!infobox|locr n-th clean]
->  [[Starship_UCPod.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UCPod.jpg|Spielern zeigen!]
 > 
 
 Tiny biomechanical interceptor, **Tier** 1/2 

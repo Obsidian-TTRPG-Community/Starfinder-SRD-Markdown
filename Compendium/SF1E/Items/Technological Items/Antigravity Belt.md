@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 7
-price: 6,500 
+
+price: 6500 
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Antigravity Belt
 
 **Source**:: _Pact Worlds pg. 198_  
-**Level** 7;
-**Price**::  6,500  
-**Capacity**:: 20; **Usage** 1/round  
-**Hands** —; **Bulk** L
+**Level**:: 7
+**Price**::  6500  
+**Capacity**:: 20 **Usage** 1/round  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

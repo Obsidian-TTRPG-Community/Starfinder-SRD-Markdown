@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 12 / 18 / 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,37 +21,43 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 12
-**Price**:: 41,200  
-**Hands**:: 2;
+**Price**:: 41200  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d8 F; **Range**:: 80 ft.;
+**Damage**:: 4d8 F 
+**Range**:: 80 ft.
 **Critical**:: burn 2d6  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, unwieldy
 
 ## Divergent Laser, Single-wave
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 5
-**Price**:: 3,430  
-**Hands**:: 2;
+**Price**:: 3430  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 F; **Range**:: 60 ft.;
+**Damage**:: 1d8 F 
+**Range**:: 60 ft.
 **Critical**:: burn 1d6  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, unwieldy
 
 ## Divergent Laser, Wide-spectrum
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 18;
-**Price**:: 414,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 414000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d8 F; **Range**:: 90 ft.;
+**Damage**:: 7d8 F 
+**Range**:: 90 ft.
 **Critical**:: burn 3d6  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, unwieldy

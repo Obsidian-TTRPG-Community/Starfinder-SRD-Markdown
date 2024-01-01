@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: Large heavy freighter 
+type: Large heavy freighter 
 ---
 
 # Sanjaval Redsun
 
-> [!infobox|locr n-th clean]
->  [[Starship_SanjavakRedsun.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_SanjavakRedsun.jpg|Spielern zeigen!]
 > 
 Large heavy freighter, **Tier** 9 
 **Speed** 6; **Maneuverability** average (turn 2); **Drift** 2  

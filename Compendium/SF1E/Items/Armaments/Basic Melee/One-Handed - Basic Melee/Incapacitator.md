@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 9
+
 Notetype: Weapon
-price: 14,200
+price: 14200
 tags: 
 type: Basic-Melee
 ---
@@ -11,11 +11,11 @@ type: Basic-Melee
 # Incapacitator
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 9;
-**Price**:: 14,200  
+**Level**:: 9
+**Price**:: 14200  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d4 B;
+**Damage**:: 3d4 B
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: nonlethal, operative, powered (capacity 20; usage 2)

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Polarity Wire, Aurora
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 7;
-**Price**:: 5,750  
+**Level**:: 7
+**Price**:: 5750  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 E & P; **Range**:: 30 ft.;
+**Damage**:: 2d4 E & P; 
+**Range**:: 30 ft.
 **Critical**:: Electrocute AR  
 **Capacity**:: 20 charges ; **Usage** 1  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Polarity Wire, Static
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 580  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d3 E & P; **Range**:: 30 ft.;
+**Damage**:: 1d3 E & P; 
+**Range**:: 30 ft.
 **Critical**:: Electrocute AR  
 **Capacity**:: 20 charges ; **Usage** 1  
 **Bulk**:: L
@@ -45,10 +47,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 12
-**Price**:: 32,800  
+**Price**:: 32800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 E & P; **Range**:: 40 ft.;
+**Damage**:: 4d4 E & P; 
+**Range**:: 40 ft.
 **Critical**:: Electrocute AR  
 **Capacity**:: 20 charges ; **Usage** 1  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Polarity Wire, Tempest
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 17;
-**Price**:: 232,000  
+**Level**:: 17
+**Price**:: 232000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 8d4 E & P; **Range**:: 40 ft.;
+**Damage**:: 8d4 E & P; 
+**Range**:: 40 ft.
 **Critical**:: Electrocute AR  
 **Capacity**:: 20 charges ; **Usage** 1  
 **Bulk**:: L

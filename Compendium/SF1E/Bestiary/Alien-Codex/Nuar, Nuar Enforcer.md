@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Absalom Station)  
+Environment: any (Absalom Station)
 hp: 52
-modifier: 0
+Initmod: 0
 name: Nuar, Nuar Enforcer
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
+combatType: combatant
+alignment: N
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet: Absalom Station
+organization:
+  - solitary
+  - pair
+  - brute squad(3-6)
+source: Alien Archive
 ---
 
 # Nuar, Nuar Enforcer
@@ -30,7 +42,7 @@ To create a maze-core device, select two pieces of equipment. The maze-core devi
 
 Changing a piece of maze-core equipment to function as the alternate piece of equipment is a swift action.
 
-**Source**:: _Alien Archive pg. 86_
+**Source**:  _Alien Archive pg. 86_
 
 ## Nuar Enforcer Cr 4
 
@@ -73,3 +85,5 @@ N Medium monstrous humanoid
 **Knockdown (Ex)** When a nuar enforcer scores a critical hit with a melee weapon that has no other critical effects, the attack gains the knockdown critical effect.
 
 **Maze Mind (Ex)** Nuars have a naturally strong sense of direction and an instinctive understanding of complex patterns. As a result, they very rarely get lost. A nuar can attempt a special level-based Wisdom check (1d20 + CR or level + Wisdom bonus) instead of using his total bonus in the Piloting skill to navigate or his total bonus in the Survival skill for orienteering.
+
+

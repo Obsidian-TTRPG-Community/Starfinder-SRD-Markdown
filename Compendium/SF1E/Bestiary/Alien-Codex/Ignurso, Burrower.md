@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: warm mountains and underground  
+Environment: warm mountains and underground
 hp: 70
-modifier: 3
+Initmod: 3
 name: Ignurso, Burrower
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
 ---
 
 # Ignurso, Burrower
@@ -23,7 +23,7 @@ When other food is scarce, ignursos grudgingly leave their favored haunts—espe
 Ignursos remain usually solitary unless courting a mate or raising cubs. Females give birth to live young and raise them for about 18 months before urging them to fend for themselves. Younger ignursos, known as burrowers, aggressively dig out their own domains and live out fairly animalistic existences. Ignursos have a natural lifespan of about 25 years, and in the last decade of life, the creatures develop exceptional cunning and resilience. This seems to come from an intensifying attunement to their volcanic surroundings, as if communing with the fires deep below. In fact, not only do these elders apparently learn to understand Ignan and sense impending eruptions, but their fire breath changes to superheated plasma. Known as masons, these ignursos tunnel less and build more, using their breath to melt rock to a liquid consistency before shaping it into crude structures. Along with basic shelters, ignurso masons sculpt strange monuments and statues, the purpose of which continues to vex biologists.
 
 For all the danger they represent, ignursos serve two crucial roles in their ecosystems: volcanic mitigation and habitat creation. Periodically, an overzealous ignurso digs so close to a volcano’s magma chamber that lava breaks through the rock, wells up within the ignurso’s tunnels, and vents lazily to the surface. In such events, the destruction is minimal, and geologists have determined that these vents release some of the underground pressure, making true eruptions less frequent and devastating. As some of the few creatures able to tunnel through solid rock, ignursos are also a keystone species in volcanically active areas. Their heavy claws pulverize the hard surface, making way for small plants to colonize the new soil, and their broad tunnels create new habitats for a variety of animals. Ignurso mason construction has even shaped early cultures, with several planets’ earliest cities having relied on their structures as rudimentary shelters. As hot spots migrate 
-**Source**:: _Alien Archive 4 pg. 50_
+**Source**:  _Alien Archive 4 pg. 50_
 
 ## Burrower Cr 5
 

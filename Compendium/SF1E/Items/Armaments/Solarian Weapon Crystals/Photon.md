@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 8 / 11 / 14 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 ## Photon, Greater
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 17;
-**Price**:: 246,200  
+**Level**:: 17
+**Price**:: 246200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d6 F;
+**Damage**:: +4d6 F
 **Critical**:: burn 3d6  
 **Bulk**:: —
 **Special**:: —
@@ -30,7 +30,7 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 **Price**:: 145  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 F;
+**Damage**:: +1 F
 **Critical**:: burn 1d4  
 **Bulk**:: —
 **Special**:: —
@@ -39,10 +39,10 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
 **Level**:: 5
-**Price**:: 2,950  
+**Price**:: 2950  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d3 F;
+**Damage**:: +1d3 F
 **Critical**:: burn 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 ## Photon, Minor
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 8;
-**Price**:: 9,300  
+**Level**:: 8
+**Price**:: 9300  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d6 F;
+**Damage**:: +1d6 F
 **Critical**:: burn 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -62,11 +62,11 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 ## Photon, Lesser
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 11;
-**Price**:: 25,100  
+**Level**:: 11
+**Price**:: 25100  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d6 F;
+**Damage**:: +2d6 F
 **Critical**:: burn 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -75,10 +75,10 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
 **Level**:: 14
-**Price**:: 71,200  
+**Price**:: 71200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d6 F;
+**Damage**:: +3d6 F
 **Critical**:: burn 2d6  
 **Bulk**:: —
 **Special**:: —
@@ -86,11 +86,11 @@ Photon crystals add compressed photonic energy to a weapon strike, adding fire d
 ## Photon, True
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 20;
-**Price**:: 729,500  
+**Level**:: 20
+**Price**:: 729500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d6 F;
+**Damage**:: +6d6 F
 **Critical**:: burn 5d6  
 **Bulk**:: —
 **Special**:: —

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 10
-price: 17,000
+
+price: 17000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Earthbound Anklets
 
 **Source**:: _Starfinder Armory pg. 121_  
-**Level** 10;
-**Price**::  17,000; **Bulk** L
+**Level**:: 10
+**Price**::  17000 
+**Bulk**:: L
 
 ### Description
 

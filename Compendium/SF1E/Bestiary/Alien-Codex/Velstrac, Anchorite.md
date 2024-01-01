@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Shadow Plane) 
+Environment: any (Shadow Plane)
 hp: 50
-modifier: 5
+Initmod: 5
 name: Velstrac, Anchorite
 statblock: true
 tags: 
-Type: LE Medium outsider (evil, extraplanar, velstrac, lawful)  
+Type: LE Medium outsider (evil, extraplanar, velstrac, lawful)
 ---
 
 # Velstrac, Anchorite
@@ -32,7 +32,7 @@ A clear hierarchy commands all velstrac groupings, including the fiends’ starf
 
 Velstracs wield flensers—blades designed to slice skin from muscle and muscle from bone—sometimes mounting these knives on rifles as bayonets. Flensers are honed to supernatural sharpness and powered to vibrate with the rhythms of the wielder’s body. Velstracs have mastered the art of using these advanced melee weapons to inflict wounds while keeping targets alive. The table above shows an array of flensers, which can be purchased only in the darkest corners of the galaxy.
 
-**Source**:: _Alien Archive 2 pg. 128_
+**Source**:  _Alien Archive 2 pg. 128_
 
 ## Anchorite Cr 4
 

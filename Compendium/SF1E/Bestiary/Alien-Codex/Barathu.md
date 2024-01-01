@@ -1,13 +1,25 @@
 ---
 aliases: 
-cr: 5
-Environment: any sky (Bretheda)  
+cr: 2
+Environment: any sky (Bretheda)
 hp: 65
-modifier: 0
+Initmod: 0
 name: Barathu
 statblock: true
 tags: 
-Type: LN Large aberration  
+Type: LN Large aberration
+combatType: expert
+alignment: LN
+size: medium
+type(subtype): aberration(-)
+environment: sky
+climate: any
+planet: Bretheda
+organization:
+  - solitary
+  - herd(2-5) + Early Stage Barathu(4-12)
+  - herd(4-12) + Barathu(2-5)
+source: Alien Archive
 ---
 
 # Barathu
@@ -16,7 +28,7 @@ Barathus are the sentient apex of Bretheda’s gas-giant ecosystem, blimp-like c
 
 Barathu culture tends to be easygoing but hard for some other races to understand, as the barathus’ frequent merging makes the concept of “self” somewhat nebulous to them. Young barathus who grow up surrounded by humanoids are an exception, as they are better able to appreciate the mindsets of creatures who exist in static, solitary configurations. Compared to older barathus, early stage barathus are more adventurous and individualistic, and their adaptation to the humanoid mindset makes it more difficult for them to merge completely with others of their kind. Most of these early stage barathus grow out of this phase, gaining the ability to fully integrate with others, yet recent generations have seen more and more barathus deliberately clinging to their juvenile mindsets. While plenty of barathus remain discrete entities for most of their lives, barathus nearing the ends of their lives often merge with massive, permanent combinatory entities that serve as corporations, governments, or cultural repositories.
 
-**Source**:: _Alien Archive pg. 20_
+**Source**:  _Alien Archive pg. 20_
 
 ## Barathu Cr 5
 
@@ -62,3 +74,7 @@ LN Large aberration
 -   Its reach increases to 15 feet.
 
 **Combine (Ex)** Barathus can combine to work together as parts of a larger organism. As a swift action, a barathu adjacent to another barathu can merge with it, becoming a single creature occupying both barathus’ spaces. The merging barathu can no longer take actions, and it adds its current Hit Points to the new creature’s collective total. For every four component creatures, the combined creature’s size category increases by one. At this time, it also chooses one adaptation. The combined creature gains this adaption and cannot change it unless the combined creature uses its adaptation ability to do so. Any number of barathus can merge in this fashion, but each adaptation can be gained only once (though resistances to multiple energy types are allowed). The combined creature retains the ability to swap one adaptation each round (not once per component creature). The combined creature can split into its component creatures as a full action; the combined creature’s remaining Hit Points are divided evenly among all component creatures. For the purposes of CR-related effects, the CR of the combined creature is equal to the CR of the component creature with the highest CR.
+
+
+
+

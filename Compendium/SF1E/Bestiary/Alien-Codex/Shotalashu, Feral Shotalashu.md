@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 6
-Environment: warm forests (Castrovel)  
+Environment: warm forests (Castrovel)
 hp: 90
-modifier: 5 
+Initmod: 5
 name: Shotalashu, Feral Shotalashu
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magical beast(-)
+environment: forests
+climate: warm
+planet: Castrovel
+organization:
+  - solitary
+  - pair
+  - pack(3-12)
+source: Alien Archive 2
 ---
 
 # Shotalashu, Feral Shotalashu
@@ -27,7 +39,7 @@ A typical domesticated shotalashu is over 10 feet long from snout to tail-tip, a
 As technology has advanced, telepathic bonding with shotalashus has become possible for those who aren’t lashunta. The lashuntas have also maintained traditional gear for shotalashu riding: the shotalashu link cortex and the shotalashu saddle.
 
 
-**Source**:: _Alien Archive 2 pg. 114_
+**Source**:  _Alien Archive 2 pg. 114_
 
 ## Feral Shotalashu Cr 6
 
@@ -64,3 +76,5 @@ N Large magical beast
 **Jungle Strider (Ex)** Shotalashus are adept at traversing all forms of forest terrain. While in forest terrain, a shotalashu’s speed is not impeded by natural difficult terrain such as undergrowth.
 
 **Pack Telepathy (Su)** This functions as the shotalashu mount’s telepathic link ability (see the shotalashu entry) except that instead of forming a bond with a single lashunta, a feral shotalashu can create a link with up to 5 other shotalashus in a process that requires no skill check but takes 1 year of close interaction rather than a single hour. When any member of a pack’s telepathic network dies, each other shotalashu directly linked to that creature is dazed for 1 round but takes no damage.
+
+

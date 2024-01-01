@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: warm or temperate hills or water  
+Environment: warm or temperate hills or water
 hp: 145
-modifier: 4
+Initmod: 4
 name: Atlapak
 statblock: true
 tags: 
-Type: N Large vermin (aquatic)  
+Type: N Large vermin (aquatic)
 ---
 
 # Atlapak
@@ -22,7 +22,7 @@ Although unintelligent, atlapaks exhibit utterly uncanny ballistics mastery. The
 
 Fresh atlapak meat has a clean taste that appeals to many species, though it acquires a repugnant sliminess within hours of the creature’s death. As a result, connoisseurs often commission live atlapak shipments to their restaurants, despite the danger the cargo presents for most starships. Kalos (Alien Archive 68) are especially partial to atlapak flesh, hunting the animals to near-extinction on their home world, Kalo-Mahoi.
 
-**Source**:: _Alien Archive 4 pg. 14_
+**Source**:  _Alien Archive 4 pg. 14_
 
 ## Atlapak Cr 9
 

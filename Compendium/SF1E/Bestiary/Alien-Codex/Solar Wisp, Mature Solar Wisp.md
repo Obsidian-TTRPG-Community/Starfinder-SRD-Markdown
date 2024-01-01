@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 19
-Environment: temperate or warm land or vacuum  
+Environment: temperate or warm land or vacuum
 hp: 400
-modifier: 11
+Initmod: 11
 name: Solar Wisp, Mature Solar Wisp
 statblock: true
 tags: 
-Type: N Small outsider (air, elemental, fire, native) 
+Type: N Small outsider (air, elemental, fire, native)
 ---
 
 # Solar Wisp, Mature Solar Wisp
@@ -24,7 +24,7 @@ Though it has a life span measured in centuries—and sometimes multiple thousan
 
 In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called photino crystals that are used throughout the Pact Worlds (and beyond) as naturally occurring solarian weapon crystals. A few small starship crews make a dangerous living by following wisps— at a great distance—and waiting for this molting, scooping up the resulting jewels until their cargo holds are full, and then returning to a safer location to sort them by quality. Despite the danger inherent in collecting the gems, these solarian weapon crystals are widely available, especially in the sun’s Burning Archipelago in the Pact Worlds; aboard the kasathan worldship the _Idari_; and in Fullbright, Verces’s scorched, sun-facing hemisphere.
 
-**Source**:: _Alien Archive 2 pg. 116_
+**Source**:  _Alien Archive 2 pg. 116_
 
 ## Mature Solar Wisp Cr 19
 

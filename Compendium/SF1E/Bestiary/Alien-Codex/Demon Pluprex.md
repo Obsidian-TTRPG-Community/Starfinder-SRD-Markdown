@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 13
-Environment: any (Abyss)  
+Environment: any (Abyss)
 hp: 190
-modifier: 4
+Initmod: 4
 name: Demon, Pluprex
 statblock: true
 tags: 
-Type: CE Medium outsider (chaotic, demon, evil, extraplanar)  
+Type: CE Medium outsider (chaotic, demon, evil, extraplanar)
 ---
 
 # Demon, Pluprex
 
-**Source**:: _Alien Archive 2 pg. 34_
+**Source**:  _Alien Archive 2 pg. 34_
 
 ## Pluprex Cr 13
 

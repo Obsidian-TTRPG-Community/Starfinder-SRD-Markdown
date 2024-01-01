@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: Tiny interceptor 
+type: Tiny interceptor 
 ---
 
 # Kc K-51 Sky Fisher
 
-> [!infobox|locr n-th clean]
->  [[Starship_KCSkyFisher.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_KCSkyFisher.jpg|Spielern zeigen!]
 > 
 
 Tiny interceptor, **Tier** 1/2

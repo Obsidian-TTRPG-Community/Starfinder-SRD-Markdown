@@ -1,9 +1,9 @@
 ---
-name: Pit Trap
+name: Pit Trap---
 cr: 1/2
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 411_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

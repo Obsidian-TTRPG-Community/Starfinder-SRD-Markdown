@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 10
-Environment: any vacuum  
+Environment: any vacuum
 hp: 165
-modifier: 5
+Initmod: 5
 name: Vorthuul
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
 ---
 
 # Vorthuul

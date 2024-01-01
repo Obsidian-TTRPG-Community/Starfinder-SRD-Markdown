@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 13
 hp: 225
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Special Forces Medic
-statblock: true
-Subtype: Medical Staff
+statblock: true(Medical Staff
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Special Forces Medic

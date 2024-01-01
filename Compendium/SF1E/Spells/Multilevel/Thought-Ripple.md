@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 2-6
 NoteType: Spell
 Precog: 
-School: divination (mind-affecting) 
+
 tags: 
 Technomancer: 
 Witchwarper: 2-6 

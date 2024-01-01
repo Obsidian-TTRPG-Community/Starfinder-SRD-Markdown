@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: any land  
+Environment: any land
 hp: 70
-modifier: 3
+Initmod: 3
 name: Diatha, Diatha Elder
 statblock: true
 tags: 
-Type: N Small vermin  
+Type: N Small vermin
 ---
 
 # Diatha, Diatha Elder
@@ -26,7 +26,7 @@ Diathas eat anything that won’t kill them, converting it into the fuel-like li
 
 Diathas that burrow into the infrastructure of starships are often carried to new star systems. Being resilient creatures, they quickly adapt to their new environments. Xenobiologists believe this to be one reason they can be found throughout the galaxy. Diathas can dominate worlds in early stages of biological development, displacing or killing native species. The Pact Worlds and Veskarium have strict quarantine measures for vessels arriving from systems known to have diatha infestations, as do many other planets. However, these laws most often are passed in the wake of a diatha-related disaster. A typical diatha is 2 feet long and weighs 90 pounds. Elders can grow to nearly 4 feet, weighing up to 50 pounds.
 
-**Source**:: _Alien Archive 3 pg. 18_
+**Source**:  _Alien Archive 3 pg. 18_
 
 ## Diatha Elder Cr 5
 

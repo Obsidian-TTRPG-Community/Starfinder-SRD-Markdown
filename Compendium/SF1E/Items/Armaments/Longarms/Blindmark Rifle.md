@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,47 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Blindmark Rifle, Banshee
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 19;
-**Price**:: 585,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 8d8 So; **Range**:: 120 ft.;
+**Level**:: 19
+**Price**:: 585000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 8d8 So; 
+**Range**:: 120 ft.
 **Critical**:: sicken  
 **Capacity**:: 80 charges; **Usage** 10  
-**Bulk**:: 1;
-**Special**:: echo, stun
+**Bulk**:: 1**Special**:: echo, stun
 
 ## Blindmark Rifle, Thunderstrike
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 3;
-**Price**:: 1,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 So; **Range**:: 60 ft.;
+**Level**:: 3
+**Price**:: 1400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 So; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: echo, stun
+**Bulk**:: 1**Special**:: echo, stun
 
 ## Blindmark Rifle, Lfd
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 8;
-**Price**:: 9,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 So; **Range**:: 80 ft.;
+**Level**:: 8
+**Price**:: 9800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 So; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 1;
-**Special**:: echo, stun
+**Bulk**:: 1**Special**:: echo, stun
 
 ## Blindmark Rifle, Hfd
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 13;
-**Price**:: 51,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d8 So; **Range**:: 100 ft.;
+**Level**:: 13
+**Price**:: 51000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d8 So; 
+**Range**:: 100 ft.
 **Critical**:: sicken  
 **Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 1;
-**Special**:: echo, stun
+**Bulk**:: 1**Special**:: echo, stun

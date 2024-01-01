@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13 / 17 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -19,8 +19,9 @@ _Universal solvent_ comes in the following types.
 ## Universal Solvent, Basic
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 5;
-**Price**::  500; **Bulk** —
+**Level**:: 5
+**Price**::  500 
+**Bulk**:: —
 
 ### Description
 
@@ -31,8 +32,9 @@ Hardness suppression 10
 ## Universal Solvent, Concentrated
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 9;
-**Price**::  2,000; **Bulk** —
+**Level**:: 9
+**Price**::  2000 
+**Bulk**:: —
 
 ### Description
 
@@ -41,8 +43,9 @@ Hardness suppression 20
 ## Universal Solvent, Forte
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 13;
-**Price**::  7,500; **Bulk** —
+**Level**:: 13
+**Price**::  7500 
+**Bulk**:: —
 
 ### Description
 
@@ -51,8 +54,9 @@ Hardness suppression 30
 ## Universal Solvent, Regia
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 17;
-**Price**::  36,000; **Bulk** —
+**Level**:: 17
+**Price**::  36000 
+**Bulk**:: —
 
 ### Description
 

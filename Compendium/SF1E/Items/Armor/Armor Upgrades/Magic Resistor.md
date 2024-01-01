@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 11 / 14 / 17 / 20
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -23,31 +23,35 @@ The mk 3 and mk 4 models can be installed only in heavy or powered armor.
 ## Magic Resistor, Mk 1 (MAGIC)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 11;
-**Price**::  23,500  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
+**Level**:: 11
+**Price**::  23500  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
 
 ## Magic Resistor, Mk 2 (MAGIC)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 14;
-**Price**::  70,000  
-**Slots** 2; **Armor Type** Any; **Bulk** 2  
+**Level**:: 14
+**Price**::  70000  
+**Slots** 2 **Armor Type** Any 
+**Bulk**:: 2  
   
   
 
 ## Magic Resistor, Mk 3 (MAGIC)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 17;
-**Price**::  240,000  
-**Slots** 2; **Armor Type** Heavy, Powered; **Bulk** 2  
+**Level**:: 17
+**Price**::  240000  
+**Slots** 2 **Armor Type** Heavy, Powered 
+**Bulk**:: 2  
   
   
 
 ## Magic Resistor, Mk 4 (MAGIC)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 20;
-**Price**::  800,000  
-**Slots** 2; **Armor Type** Heavy, Powered; **Bulk** 2
+**Level**:: 20
+**Price**::  800000  
+**Slots** 2 **Armor Type** Heavy, Powered 
+**Bulk**:: 2

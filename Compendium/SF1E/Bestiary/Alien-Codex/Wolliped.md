@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: cold hills, mountains, or plains (Triaxus)  
+Environment: cold hills, mountains, or plains (Triaxus)
 hp: 35
-modifier: 2
+Initmod: 2
 name: Wolliped
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Wolliped
@@ -34,7 +34,7 @@ The wolliped statistics represent the most common breed native to Triaxus, but o
 
 **Ningese:** The island continent Ning on Triaxus is home to a small breed of wolliped, known for its hardiness, speed, and agility. Ningese wolliped fleece is fine and soft, and the animals’ tender meat is considered a delicacy on Triaxus. Both are rare luxuries elsewhere, because the Immortal Suzerainty of Ning claims independence from the Pact Worlds, and Ning’s exports carry severe tariffs and shipping restrictions. Ningese wollipeds have the miniature simple template, Strength +2 (1d6+5 B damage for their gore), Dexterity and initiative +4, and their speed is 60 feet.
 
-**Source**:: _Alien Archive 3 pg. 134_
+**Source**:  _Alien Archive 3 pg. 134_
 
 ## Wolliped Cr 3
 

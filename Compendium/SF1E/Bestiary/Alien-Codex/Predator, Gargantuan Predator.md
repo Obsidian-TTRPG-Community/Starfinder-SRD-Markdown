@@ -3,11 +3,11 @@ aliases:
 cr: 10
 Environment: any
 hp: 165
-modifier: 1
+Initmod: 1
 name: Predator, Gargantuan Predator
 statblock: true
 tags: 
-Type: N Colossal animal  
+Type: N Colossal animal
 ---
 
 # Predator, Gargantuan Predator
@@ -16,7 +16,7 @@ From the vortex sharks of Kalo-Mahoi to the hoarbats of Verces’s Darkside, and
 
 Predators come in all shapes and sizes, limited only by the environment where they are found. Bigger predators rely on abundant food, cycles of inactivity, an omnivorous diet, or a combination of these. Smaller predators have fewer requirements and can be equally dangerous; even very small animals can evolve pack tactics to overwhelm larger and stronger creatures. Some of these swarms, such as the flying viper eels of Bretheda, strip flesh from bone as they move over and around prey.
 
-**Source**:: _Alien Archive 2 pg. 102_
+**Source**:  _Alien Archive 2 pg. 102_
 
 ## Gargantuan Predator Cr 10
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 800
 tags: 
 Type: Hybrid Item
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Phaserod
 
 **Source**:: _Galactic Magic pg. 47_  
-**Level** 2;
-**Price**::  800; **Bulk** 1
+**Level**:: 2
+**Price**::  800 
+**Bulk**:: 1
 
 ### Description
 

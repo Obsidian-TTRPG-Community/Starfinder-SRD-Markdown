@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 13
 hp: 225
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Captains Club Guide
-statblock: true
-Subtype: Guides
+statblock: true(Guides
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Captains Club Guide

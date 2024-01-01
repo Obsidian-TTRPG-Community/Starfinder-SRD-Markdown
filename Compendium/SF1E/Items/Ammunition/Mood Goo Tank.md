@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 250
 tags: 
 type: Ammo

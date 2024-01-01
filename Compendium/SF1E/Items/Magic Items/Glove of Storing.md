@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 6
-price: 4,600
+
+price: 4600
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 6;
-**Price**::  4,600; **Bulk** L
+**Level**:: 6
+**Price**::  4600 
+**Bulk**:: L
 
 ### Description
 

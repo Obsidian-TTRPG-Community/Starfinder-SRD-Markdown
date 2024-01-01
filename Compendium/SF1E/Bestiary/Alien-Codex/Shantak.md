@@ -1,18 +1,33 @@
 ---
 aliases: 
 cr: 8
-Environment: cold mountains or vacuum  
+Environment: cold mountains or vacuum
 hp: 125
-modifier: 2
+Initmod: 2
 name: Shantak
 statblock: true
 tags: 
-Type: CE Huge magical beast  
+Type: CE Huge magical beast
+combatType: combatant
+alignment: CE
+size: huge
+type(subtype): magical beast(-)
+environment:
+  - mountains
+  - vacuum
+climate: cold
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - flock(3-12)
+source: Alien Archive 2
 ---
 
 # Shantak
 
-**Source**:: _Alien Archive 2 pg. 110_
+**Source**:  _Alien Archive 2 pg. 110_
 
 ## Shantak Cr 8
 
@@ -68,3 +83,5 @@ Although shantaks do not enjoy the presence of active starships—almost as if t
 ## Shantak Whistles
 
 While the advent of Drift technology has made interstellar travel accessible to the masses, not everyone is comfortable with using starships to travel. Some have philosophical reasons for avoiding the Drift, while others take offense at the notion of answering to the whim of a starship captain. Many have goals among the stars that they prefer not to share with others. Whatever the reason, the opportunity to travel atop a shantak’s slippery back remains the preferred (and perhaps only viable) option for some. A shantak whistle is a sought-after tool for those who wish to find a shantak mount.
+
+

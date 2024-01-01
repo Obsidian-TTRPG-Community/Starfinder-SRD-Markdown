@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 8 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,25 +18,23 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Crossbolter, Dual
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 8;
-**Price**:: 8,250  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 P; **Range**:: 70 ft.;
+**Level**:: 8
+**Price**:: 8250  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 P; 
+**Range**:: 70 ft.
 **Critical**:: —  
 **Capacity**:: 4 arrows; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: Analog, unwieldy
+**Bulk**:: 2**Special**:: Analog, unwieldy
 
 ## Crossbolter, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 475  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 P; **Range**:: 70 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 P; 
+**Range**:: 70 ft.
 **Critical**:: —  
 **Capacity**:: 1 arrow; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: Analog, unwieldy
+**Bulk**:: 2**Special**:: Analog, unwieldy

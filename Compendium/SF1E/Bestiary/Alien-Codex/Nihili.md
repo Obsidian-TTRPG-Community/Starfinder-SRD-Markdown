@@ -1,14 +1,24 @@
 ---
 aliases:
   - Nihili
-cr: "5"
+cr: 5
 Environment: any vacuum
 hp: 72
-modifier: 3
+Initmod: 3
 name: Nihili
 statblock: true
-tags: []
+tags: 
 Type: NE Medium undead
+combatType: combatant
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization: any
+source: Alien Archive
 ---
 
 # Nihili
@@ -25,7 +35,7 @@ Rumors speak of a cult of nihilis in the fringes of the Vast who have discovered
 
 No one knows for certain whether the nihilis who worship this “dark star” are venerating a shadowy entity or are suffering from some unknown kind of madness. However, travelers who survive passing through this region return with tales of huge masses of floating corpses forming a ring around a cloud of ebony particles that seems to absorb all light.
 
-**Source**:: _Alien Archive pg. 82_
+**Source**:  _Alien Archive pg. 82_
 
 ## Nihili Cr 5
 
@@ -63,3 +73,5 @@ NE Medium undead
 **Decompression Gaze (Su)** The dead stare of a nihili makes those around the undead feel like their own lungs are starting to violently collapse, mimicking the nihili’s demise. A living creature that can see and breathe that begins its turn within 15 feet of a nihili must succeed at a DC 15 Fortitude save or take 1d4+3 bludgeoning damage.
 
 **Gravity Well (Su)** A nihili generates a field of gravity that functions in a 5-foot aura around itself (including 5 feet above the nihili), exerting a downward force toward the nihili’s feet. This allows the nihili to function as if constantly under the effect of _spider climb_. Any creature entering this aura from an area of zero-g must succeed at a DC 15 Reflex saving throw or be knocked prone.
+
+

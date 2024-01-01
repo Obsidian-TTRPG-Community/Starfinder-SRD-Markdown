@@ -1,13 +1,24 @@
 ---
-aliases: []
-cr: 0.5
+aliases: 
+cr: 1/2
 Environment: any (Aballon)
 hp: 13
-modifier: 3
+Initmod: 3
 name: Anacite Wingbot
 statblock: true
-tags: []
+tags: 
 Type: N Small construct (technological)
+combatType: combatant
+alignment: N
+size: small
+type(subtype): construct(technological)
+environment: any
+climate: any
+planet: Aballon
+organization:
+  - solitary
+  - flock(2-8)
+source: Alien Archive
 ---
 
 # Anacite, Anacite Wingbot
@@ -20,7 +31,7 @@ In the uncounted millennia since the departure of the so-called “First Ones,�
 
 While “anacite” officially refers only to the sentient varieties of Aballonian machines—those capable of learning and participating in Aballonian society—many offworlders use it as a catchall term for the world’s mechanical life. Dragonflylike wingbots are an example of Aballonian technobiology. These artificial creatures lack basic sentience yet nevertheless reproduce and fill one of the planet’s ecological niches. These 4-foot-long machines whir from ridge to ridge on wings glittering with solar panels, feeding on the blazing light of the sun. Wingbots can be territorial, and they occasionally attack offworlders or other anacites.
 
-**Source**:: _Alien Archive pg. 11_
+**Source**:  _Alien Archive pg. 11_
 
 ## Anacite Wingbot Cr 1/2
 
@@ -62,3 +73,5 @@ N Small construct (technological)
 **Sunlight Dependency (Ex)** Anacites are solar-powered constructs, although they can function at reduced capacity away from light. In areas of darkness, they gain the sickened condition.
 
 **Trill (Ex)** An anacite wingbot can create a shrill trilling noise as a standard action. Any creature within 30 feet, other than anacite wingbots, must succeed at a DC 9 Fortitude saving throw or be sickened for 1d3 rounds. Whether successful or not, a creature can’t be affected by the same anacite wingbot’s trill for 24 hours.
+
+

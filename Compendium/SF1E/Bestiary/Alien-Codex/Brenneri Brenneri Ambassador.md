@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Varturan)  
+Environment: any (Varturan)
 hp: 80
-modifier: 2
+Initmod: 2
 name: Brenneri, Brenneri Ambassador
 statblock: true
 tags: 
-Type: LN Medium humanoid (brenneri)  
+Type: LN Medium humanoid (brenneri)
 ---
 
 # Brenneri, Brenneri Ambassador
@@ -24,7 +24,7 @@ Though brenneris’ natural empathy for the emotional journeys of others usually
 
 ## Brenneri, Brenneri Ambassador
 
-**Source**:: _Alien Archive 3 pg. 8_
+**Source**:  _Alien Archive 3 pg. 8_
 
 ## Brenneri Ambassador Cr 6
 

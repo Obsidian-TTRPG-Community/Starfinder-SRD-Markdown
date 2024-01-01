@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,8 +17,8 @@ Heavy weapons are military-grade, high-damage weapons that require specialized t
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Heavy Weapons"
+Level, Price, Damage, Critical
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Heavy Weapons"
 SORT Level ASC
 WHERE file.name != "Heavy Weapons"
 ```

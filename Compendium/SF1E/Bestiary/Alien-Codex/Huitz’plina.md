@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: warm forests (Mulkaxi)  
+Environment: warm forests (Mulkaxi)
 hp: 135
-modifier: 6
+Initmod: 6
 name: Huitz’plina
 statblock: true
 tags: 
-Type: NG Medium magical beast  
+Type: NG Medium magical beast
 ---
 
 # HUITZ’PLINA
@@ -26,7 +26,7 @@ While not all the creatures they encounter know about huitz’plina’s precogni
 
 Huitz’plinas reach maturity around 30 and can live over one hundred years each, though their spines first show signs of color around 15 years of age.
 
-**Source**:: _Alien Archive 4 pg. 46_
+**Source**:  _Alien Archive 4 pg. 46_
 
 ## HUITZ’PLINA Cr 9
 

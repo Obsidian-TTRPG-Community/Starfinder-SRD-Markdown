@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 14
-Type: Gargantuan carrier  
+type: Gargantuan carrier  
 ---
 
 # Aac Hoardmaster
 
-> [!infobox|locr n-th clean]
+> [!infobox|locr n-th clean
 > 
 > 
 Gargantuan carrier, **Tier** 14

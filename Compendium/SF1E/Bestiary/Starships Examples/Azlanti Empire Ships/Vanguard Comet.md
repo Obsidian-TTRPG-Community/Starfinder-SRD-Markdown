@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 3
-Type: Small Shuttle
+type: Small Shuttle
 ---
 
 # Vanguard Comet

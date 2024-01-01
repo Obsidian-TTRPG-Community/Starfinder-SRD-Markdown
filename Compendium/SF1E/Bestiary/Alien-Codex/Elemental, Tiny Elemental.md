@@ -3,11 +3,23 @@ aliases:
 cr: 1/3
 Environment: any
 hp: 20
-modifier: 1
+Initmod: 1
 name: Elemental, Tiny Elemental
 statblock: true
 tags: 
-Type: N Large outsider (elemental, extraplanar)  
+Type: N Large outsider (elemental, extraplanar)
+combatType: combatant
+alignment: N
+size: tiny
+type(subtype): outsider(['elemental', 'extraplanar'])
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - group(3-6)
+source: Alien Archive
 ---
 
 # Tiny Elemental Cr 1/3
@@ -37,3 +49,4 @@ N Tiny outsider (elemental, extraplanar)
 
 **Environment** any  
 **Organization** any
+

@@ -3,11 +3,11 @@ aliases:
 Level: 4
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: illusion (mind-affecting) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Identity Storm

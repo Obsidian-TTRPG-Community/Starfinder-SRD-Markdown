@@ -3,11 +3,24 @@ aliases:
 cr: 3
 Environment: any
 hp: 40
-modifier: 4
+Initmod: 4
 name: The Swarm, Swarm Corrovox
 statblock: true
 tags: 
-Type: CE Medium monstrous humanoid  
+Type: CE Medium monstrous humanoid
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - pack(3-8)
+source: Alien Archive
 ---
 
 # The Swarm, Swarm Corrovox
@@ -20,7 +33,7 @@ While individual components of the Swarm have some form of intelligence—or at 
 
 The Swarm rarely wields manufactured weapons, instead integrating biotechnology grown or grafted onto component creatures. Because of its constant genetic upgrading and experimentation, the Swarm encompasses components with a wide variety of shapes, sizes, and capabilities, from the mighty dreadlancers to the microscopic, bloodstream-infesting toxicytes.
 
-**Source**:: _Alien Archive pg. 110_
+**Source**:  _Alien Archive pg. 110_
 
 ## Swarm Corrovox Cr 3
 
@@ -66,3 +79,5 @@ CE Medium monstrous humanoid
 The two Swarm components listed here are some of the most common aspects of the Swarm’s varied evolutions.
 
 Corrovoxes are Swarm shock troops. They act as advance scouts and worldseekers for the Swarm, and moving vast hordes across potential feeder worlds. Like many Swarm creatures, corrovoxes have latent telepathic ability and are capable of psychically ravaging a foe’s mind. Thresher lords descend on their foes on insectile wings and, as their name implies, quickly cut prey down with the massive razor-sharp blades that grow from their arms. When the carnage is complete, other components of the Swarm arrive to feast upon the bloody remains.
+
+

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 10
+
 Notetype: Weapon
-price: 18,200
+price: 18200
 tags: 
 type: Heavy Weapon
 ---
@@ -10,14 +10,16 @@ type: Heavy Weapon
 # Imds Missile Launcher
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 10;
-**Price**:: 18,200  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 18200  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: — **Range**:: 80 ft.;
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: —  
-**Capacity**:: 1 missile; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 1 missile 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: —
 
 ### Description

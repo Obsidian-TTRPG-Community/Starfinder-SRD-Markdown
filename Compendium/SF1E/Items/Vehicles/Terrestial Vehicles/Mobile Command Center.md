@@ -1,24 +1,30 @@
 ---
 aliases: 
-ItemLevel: 10
-NoteType: Terrestial Vehicles
-price: 62,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 62000
 tags: 
 ---
 
 # Mobile Command Center
 
 **Source**:: _Tech Revolution pg. 85_
-**Item Level** 10;
-**Price**::  62,000  
+**Level**:: 10
+**Price**::  62000  
 Gargantuan land vehicle (25 ft. wide, 25 ft. long, 20 ft. high)  
-**Speed** 40 ft., full 350 ft., 40 mph (hover)  
-**EAC** 24; **KAC** 25; **Cover** improved cover  
-**HP** 150 (75); **Hardness** 12  
+**Speed**:: 40 ft., full 350 ft., 40 mph (hover)  
+
+**EAC**:: 24; 
+**KAC**:: 25; 
+**Cover**:: improved cover  
+**HP**:: 150 (75); 
+**Hardness**:: 12  
 **Attack (Collision)** 11d10 B (DC 13)  
 **Attack** tactical autobeam artillery (2d8 F)  
-**Modifiers** –2 Piloting, –2 attack (–4 attack at full speed)  
-**Systems** autopilot (Piloting +19), emplacement (expansion bays [4]), planetary comm unit; **Passengers** 8  
+
+**Modifiers**:: –2 Piloting, –2 attack (–4 attack at full speed)  
+**Systems**:: autopilot (Piloting +19), emplacement (expansion bays [4]), planetary comm unit
+**Passengers**:: 8  
 
 ### Description
 

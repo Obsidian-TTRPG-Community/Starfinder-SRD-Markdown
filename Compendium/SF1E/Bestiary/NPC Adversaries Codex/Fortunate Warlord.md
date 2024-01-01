@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 11
 hp: 180
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Fortunate Warlord
-statblock: true
-Subtype: Tyrants
+statblock: true(Tyrants
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Fortunate Warlord

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6 
-price: 4,550
+
+price: 4550
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Spy Drone
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 6;
-**Price**::  4,550  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands** —; **Bulk** L
+**Level**:: 6
+**Price**::  4550  
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

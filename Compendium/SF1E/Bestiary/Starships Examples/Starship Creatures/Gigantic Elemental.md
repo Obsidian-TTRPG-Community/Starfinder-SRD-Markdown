@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: N Medium starship outsider (elemental, extraplanar)
+type: N Medium starship outsider (elemental, extraplanar)
 ---
 
 # Gigantic Elemental
 
-**Source**:: _Alien Archive 4 pg. 30_
+**Source**:  _Alien Archive 4 pg. 30_
 
 N Medium starship outsider (elemental, extraplanar), **Tier**  4
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** —  

@@ -1,13 +1,28 @@
 ---
 aliases: 
 cr: 2
-Environment: any starship or urban  
+Environment: any starship or urban
 hp: 21
-modifier: 1
+Initmod: 1
 name: Hesper
 statblock: true
 tags: 
-Type: CN Medium fey  
+Type: CN Medium fey
+combatType: spellcaster
+alignment: CN
+size: medium
+type(subtype): fey(-)
+environment:
+  - starship
+  - urban
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - clique(3-12)
+source: Alien Archive
 ---
 
 # Hesper Cr 2
@@ -77,3 +92,5 @@ Hespers stand 4 to 5 feet tall but are deceptively dense, weighing 300 to 400 po
 Once vanishingly rare, hespers have become somewhat commonplace as more civilizations have taken to the stars. The glowing fey are especially at home in starships, bonding to the vessels’ reactors. They can be blessings for some ships, serving as constant attendants for one of a starship’s most crucial systems, but their fickle nature also means they grow bored with regular routes or overlong stays in port, and they create drama to amuse themselves.
 
 These nuclear fey have few common traditions, instead adopting the customs of whatever societies they dwell within. Most of their knowledge is instinctual, rounded out by boundless curiosity. Though hespers don’t typically seek out their own kind, large installations and radioactive waste facilities can host small circles of the fey. Notoriously shameless flirts, hespers often keep mortal lovers who protect or provide for them. A hesper reproduces by triggering the growth of a grotesque exowomb on a willing lover, which expands for 1–2 weeks before spilling forth a small but fully matured hesper.
+
+

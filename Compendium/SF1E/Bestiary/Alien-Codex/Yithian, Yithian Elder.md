@@ -3,11 +3,11 @@ aliases:
 cr: 13
 Environment: any
 hp: 200
-modifier: 1
+Initmod: 1
 name: Yithian, Yithian Elder
 statblock: true
 tags: 
-Type: LN Large aberration  
+Type: LN Large aberration
 ---
 
 # Yithian, Yithian Elder
@@ -26,7 +26,7 @@ Yithians are about 10 feet tall and weigh nearly 2,000 pounds. They live for mil
 
 ## Yithian, Yithian Elder
 
-**Source**:: _Alien Archive 3 pg. 136_
+**Source**:  _Alien Archive 3 pg. 136_
 
 ## Yithian Elder Cr 13
 

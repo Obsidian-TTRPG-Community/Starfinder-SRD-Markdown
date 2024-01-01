@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: Small light freighter
+type: Small light freighter
 ---
 
 # Norikama Reliant
 
-> [!infobox|locr n-th clean]
->  [[Starship_NorikamaDropship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_NorikamaDropship.jpg|Spielern zeigen!]
 > 
 
 Small light freighter, **Tier** 4 

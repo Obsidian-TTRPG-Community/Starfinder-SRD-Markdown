@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any (Shimrinsara)  
+Environment: any (Shimrinsara)
 hp: 17
-modifier: 2
+Initmod: 2
 name: Shimreen, Shimreen Worker
 statblock: true
 tags: 
-Type: LN Medium humanoid (shimreen)  
+Type: LN Medium humanoid (shimreen)
 ---
 
 # Shimreen, Shimreen Worker
@@ -23,7 +23,7 @@ Thanks to Shimrinsara’s endless source of energy, its citizens are employed ch
 The seven glowing cities of Shimrinsara are called the Jewels of Shimreen, and the largest of these is Kaniqlu, where elected representatives from each city form a council of seven that governs the planet. While most shimreens are fiercely protective of their home world, they do enjoy engaging in trade with other cultures so that they may learn and grow. During shimreen holidays, citizens gather to watch parades featuring several battalions of warriors, all performing intricate routines that are a mixture of elegant, flowing dance and ruthlessly lethal combat maneuvers.
 
 
-**Source**:: _Alien Archive 3 pg. 96_
+**Source**:  _Alien Archive 3 pg. 96_
 
 ## Shimreen Worker Cr 1
 

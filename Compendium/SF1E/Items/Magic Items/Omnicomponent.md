@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 10 / 16
+
 price:  
 tags: 
 Type: Magic Item
@@ -10,21 +10,23 @@ This strange object resembles a 6-inch-wide, dark, and pristinely polished woode
 ## Omnicomponent, Flawed
 
 **Source**:: _Galactic Magic pg. 51_  
-**Level** 10;
-**Price**::  5,000; **Bulk** L
+**Level**:: 10
+**Price**::  5000 
+**Bulk**:: L
 
 ### Description
 
-The omnicomponent can transform into any material component worth 5,000 credits or less.
+The omnicomponent can transform into any material component worth 5000 credits or less.
 
 ---
 
 ## Omnicomponent, Pristine
 
 **Source**:: _Galactic Magic pg. 51_  
-**Level** 16;
-**Price**::  30,000; **Bulk** L
+**Level**:: 16
+**Price**::  30000 
+**Bulk**:: L
 
 ### Description
 
-The omnicomponent can transform into any material component worth 30,000 credits or less.
+The omnicomponent can transform into any material component worth 30000 credits or less.

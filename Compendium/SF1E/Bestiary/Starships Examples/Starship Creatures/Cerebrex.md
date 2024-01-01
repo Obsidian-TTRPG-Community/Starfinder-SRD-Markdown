@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 18
-Type: CN Huge starship ooze  
+type: CN Huge starship ooze  
 ---
 
 # Cerebrex

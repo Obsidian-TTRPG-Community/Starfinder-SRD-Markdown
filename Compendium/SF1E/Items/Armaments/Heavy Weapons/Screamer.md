@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,38 +18,44 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Screamer, Hfd
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 15;
-**Price**:: 107,500  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 107500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d10 So; **Range**:: 60 ft.;
+**Damage**:: 4d10 So 
+**Range**:: 60 ft.
 **Critical**:: deafen  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: blast, unwieldy
 
 ## Screamer, Thunderstrike
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
 **Level**:: 5
-**Price**:: 3,350  
-**Hands**:: 2;
+**Price**:: 3350  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 So; **Range**:: 30 ft.;
+**Damage**:: 1d10 So 
+**Range**:: 30 ft.
 **Critical**:: deafen  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: blast, unwieldy
 
 ## Screamer, Lfd
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 9;
-**Price**:: 14,000  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 14000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d10 So; **Range**:: 60 ft.;
+**Damage**:: 2d10 So 
+**Range**:: 60 ft.
 **Critical**:: deafen  
-**Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 2;
+**Capacity**:: 80 charges 
+**Usage** 8  
+**Bulk**:: 2
 **Special**:: blast, unwieldy

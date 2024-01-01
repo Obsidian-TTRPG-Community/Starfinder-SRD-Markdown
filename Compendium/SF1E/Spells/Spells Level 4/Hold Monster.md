@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 4
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: enchantment (compulsion, mind-affecting)
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Hold Monster

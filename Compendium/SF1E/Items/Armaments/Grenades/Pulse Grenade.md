@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 15 / 17
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ A pulse grenade emits a powerful EMP blast on impact whose damage and effects ap
 **Price**:: 950  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ A pulse grenade emits a powerful EMP blast on impact whose damage and effects ap
 ## Pulse Grenade, Mk 2
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 9;
-**Price**:: 4,350  
+**Level**:: 9
+**Price**:: 4350  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ A pulse grenade emits a powerful EMP blast on impact whose damage and effects ap
 ## Pulse Grenade, Mk 3
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 15;
-**Price**:: 37,500  
+**Level**:: 15
+**Price**:: 37500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ A pulse grenade emits a powerful EMP blast on impact whose damage and effects ap
 ## Pulse Grenade, Mk 4
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 17;
-**Price**:: 82,500  
+**Level**:: 17
+**Price**:: 82500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

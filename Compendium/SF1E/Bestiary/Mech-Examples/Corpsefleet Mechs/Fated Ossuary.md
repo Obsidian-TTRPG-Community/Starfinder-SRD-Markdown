@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 3
-Type: Huge skirmisher
+type: Huge skirmisher
 ---
 
 # Fated Ossuary
 
-**Source**:: _Tech Revolution pg. 119_  
+**Source**:  _Tech Revolution pg. 119_  
 Huge skirmisher, **Tier** 3 
 **Operators** 1–2; **PP** 1 (3/turn, max 7)  
 **Speed** 100 ft.;  

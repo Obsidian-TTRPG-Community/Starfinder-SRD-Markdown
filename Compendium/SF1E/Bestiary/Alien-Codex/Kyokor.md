@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 20
-Environment: any (Daimalko)  
+Environment: any (Daimalko)
 hp: 485
-modifier: 6
+Initmod: 6
 name: Kyokor
 statblock: true
 tags: 
-Type: CE Colossal magical beast (colossus)  
+Type: CE Colossal magical beast (colossus)
+combatType: combatant
+alignment: CE
+size: colossal
+type(subtype): magical beast(colossus)
+environment: any
+climate: any
+planet: Daimalko
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Kyokor
@@ -70,3 +80,5 @@ Among citizens of the Pact Worlds, rumors swirl about elite bands of Daimalkan c
 Scavengers on Daimalko dare to brave the wastes of their world to gather the enamel-like hulls that kyokors occasionally shed from their crowns. These toothy moltings are enormous, and once they’re retrieved, they require a great deal of effort to grind into plates that can be used to craft armor. Despite this and the dangers of gathering the requisite moltings, suits of kyokor plating are in demand throughout the universe, making collection of the raw materials and subsequent forging into lucrative careers.
 
 Suits of kyokor plating are tough and surprisingly lightweight for their size, and the moltings’ porous nature makes this armor perfect for the installation of various upgrades and other methods of personalization. Lower-quality suits are fashioned from numerous pieced-together blasted fragments, sacrificing durability for lower cost. High-quality suits are fashioned entirely from sleek, fitted enamel plates, which offer practically unparalleled protection but can be restrictive when it comes to a wearer’s range of motion.
+
+

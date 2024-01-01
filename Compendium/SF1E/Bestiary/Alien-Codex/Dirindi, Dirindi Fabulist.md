@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 13
-Environment: any (Arkanen, Osoro)  
+Environment: any (Arkanen, Osoro)
 hp: 210
-modifier: 4
+Initmod: 4
 name: Dirindi, Dirindi Fabulist
 statblock: true
 tags: 
-Type: CG Medium humanoid (dirindi)  
+Type: CG Medium humanoid (dirindi)
 ---
 
 # Dirindi, Dirindi Fabulist
@@ -22,7 +22,7 @@ Dirindis love to laugh and believe there is no tale that cannot be made better w
 
 Parallel to but separate from the dirindi population on Arkanen is that of the moon Osoro, which dirindis populated before the Gap. Osoro has large predators and toxic-gas seas, but its highly charged atmosphere and frequent lightning storms proved irresistible for the dirindis who settled there. Proud of their pioneer heritage, they often look upon their Arkanen brethren as soft urbanites. Few sazarons travel to Osoro, and the dirindis on this moon have become more serious, self-reliant, and survival oriented. They still tell wildly exaggerated tales of irokiroi hunts and other adventures, and still celebrate some of the same holy days as their counterparts on Arkanen, but they see themselves as entirely independent.
 
-**Source**:: _Alien Archive 3 pg. 20_
+**Source**:  _Alien Archive 3 pg. 20_
 
 ## Dirindi Fabulist Cr 13
 

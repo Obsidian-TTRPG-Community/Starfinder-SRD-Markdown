@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony 
 ## Bone Cestus, Austere
 
 **Source**:: _Alien Archive pg. 31_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 600  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 P;
+**Damage**:: 1d6 P
 **Critical**:: bleed 1d4  
 **Bulk**:: L
 **Special**:: analog
@@ -27,11 +27,11 @@ Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony 
 ## Bone Cestus, Measured
 
 **Source**:: _Alien Archive pg. 31_  
-**Level**:: 7;
-**Price**:: 5,500  
+**Level**:: 7
+**Price**:: 5500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d6 P;
+**Damage**:: 2d6 P
 **Critical**:: bleed 1d6  
 **Bulk**:: L
 **Special**:: analog
@@ -40,10 +40,10 @@ Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony 
 
 **Source**:: _Alien Archive pg. 31_  
 **Level**:: 12
-**Price**:: 32,000  
+**Price**:: 32000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d6 P;
+**Damage**:: 3d6 P
 **Critical**:: bleed 2d6  
 **Bulk**:: L
 **Special**:: analog
@@ -51,11 +51,11 @@ Centuries ago, some kasathas crafted simple weapons out of crest-eaters’ bony 
 ## Bone Cestus, Severe
 
 **Source**:: _Alien Archive pg. 31_  
-**Level**:: 17;
-**Price**:: 230,000  
+**Level**:: 17
+**Price**:: 230000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 8d6 P;
+**Damage**:: 8d6 P
 **Critical**:: bleed 5d6  
 **Bulk**:: L
 **Special**:: analog

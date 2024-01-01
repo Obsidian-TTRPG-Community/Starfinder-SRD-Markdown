@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Conspiracist
-statblock: true
-Subtype: Investigators
+statblock: true(Investigators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Conspiracist

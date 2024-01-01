@@ -3,16 +3,16 @@ aliases:
 cr: 12
 Environment: any
 hp: 200
-modifier: 8
+Initmod: 8
 name: Robot Dragon, Assault Laser Dragon
 statblock: true
 tags: 
-Type: LN Huge dragon (technological)  
+Type: LN Huge dragon (technological)
 ---
 
 # Robot Dragon, Assault Laser Dragon
 
-**Source**:: _Alien Archive 4 pg. 100_
+**Source**:  _Alien Archive 4 pg. 100_
 
 ## Assault Laser Dragon Cr 12
 

@@ -1,24 +1,30 @@
 ---
 aliases: 
-ItemLevel: 11
-NoteType: Terrestial Vehicles
-price: 73,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 73000
 tags: 
 ---
 
 # Combat Sandrail
 
 **Source**:: _Galaxy Exploration Manual pg. 63_
-**Item Level** 11;
-**Price**::  73,000  
+**Level**:: 11
+**Price**::  73000  
 Large land vehicle (5 ft. wide, 10 ft. long, 5 ft. high)  
-**Speed** 30 ft., full 500 ft., 55 mph  
-**EAC** 24; **KAC** 25; **Cover** none  
-**HP** 150 (75); **Hardness** 8  
+**Speed**:: 30 ft., full 500 ft., 55 mph  
+
+**EAC**:: 24; 
+**KAC**:: 25; 
+**Cover**:: none  
+**HP**:: 150 (75); 
+**Hardness**:: 8  
 **Attack (Collision)** 10d10 B (DC 18)  
 **Attack** advanced rotolaser (2d8 F; critical burn 1d6)  
-**Modifiers** +1 Piloting, –1 attack (–3 at full speed)  
-**Systems** planetary comm unit; **Passengers** 2  
+
+**Modifiers**:: +1 Piloting, –1 attack (–3 at full speed)  
+**Systems**:: planetary comm unit
+**Passengers**:: 2  
 
 ### Special Abilities
 

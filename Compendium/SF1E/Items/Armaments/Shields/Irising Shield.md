@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 11 / 16
+
 price: 
 tags: 
 type: Shield
@@ -14,31 +14,43 @@ Manufactured by Veskarium engineers for quick deployment, irising shields are ci
 ## Basic
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 850  
-**Shield Bonus** +0/+1; **Max Dex** —; **Armor Check Penalty** -0  
-**Bulk**:: L (1); **Upgrades** 0
+**Shield-Bonus**:: +0/+1
+**Max-Dex**:: —
+**Armor-Check-Penalty**:: -0  
+**Bulk**:: L (1)
+**Upgrades**:: 0
 
 ## Field
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 6;
-**Price**:: 4,350  
-**Shield Bonus** +1/+1; **Max Dex** —; **Armor Check Penalty** -0  
-**Bulk**:: L (1); **Upgrades** 0
+**Level**:: 6
+**Price**:: 4350  
+**Shield-Bonus**:: +1/+1
+**Max-Dex**:: —
+**Armor-Check-Penalty**:: -0  
+**Bulk**:: L (1)
+**Upgrades**:: 0
 
 ## Advanced
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 11;
-**Price**:: 25,000  
-**Shield Bonus** +1/+1; **Max Dex** —; **Armor Check Penalty** -0  
-**Bulk**:: L (1); **Upgrades** 1
+**Level**:: 11
+**Price**:: 25000  
+**Shield-Bonus**:: +1/+1
+**Max-Dex**:: —
+**Armor-Check-Penalty**:: -0  
+**Bulk**:: L (1)
+**Upgrades**:: 1
 
 ## Elite
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 16;
-**Price**:: 256,000  
-**Shield Bonus** +1/+3; **Max Dex** —; **Armor Check Penalty** -0  
-**Bulk**:: L (1); **Upgrades** 2
+**Level**:: 16
+**Price**:: 256000  
+**Shield-Bonus**:: +1/+3
+**Max-Dex**:: —
+**Armor-Check-Penalty**:: -0  
+**Bulk**:: L (1)
+**Upgrades**:: 2

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 8
 hp: 115
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Sacred Killer
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Sacred Killer

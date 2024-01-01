@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 15
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Fire Extuingisher
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  15  
-**Capacity**:: 20; **Usage** 1/round  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 1/round  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

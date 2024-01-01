@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Lajok)  
+Environment: any (Lajok)
 hp: 23
-modifier: 4
+Initmod: 4
 name: Vlaka, Vlaka Tracker
 statblock: true
 tags: 
-Type: LN Medium humanoid (vlaka)  
+Type: LN Medium humanoid (vlaka)
+combatType: expert
+alignment: LN
+size: medium
+type(subtype): humanoid(vlaka)
+environment: any
+climate: any
+planet: Lajok
+organization:
+  - solitary
+  - pair
+  - pack(3-5)
+source: Alien Archive 2
 ---
 
 # Vlaka, Vlaka Tracker
@@ -24,7 +36,7 @@ A few vlakas who visited the Pact Worlds before the Absalom Pact was signed serv
 
 Many sapient creatures find themselves drawn to the camaraderie vlakas offer, but others try to take advantage of their openness. Vlakas who grow weary of the strife among other races might withdraw to focus on working with animals or machines. However, most vlakas seek well-intentioned groups of like-minded starfarers to do some good in a galaxy that can be callous and brutal.
 
-**Source**:: _Alien Archive 2 pg. 134_
+**Source**:  _Alien Archive 2 pg. 134_
 
 ## Vlaka Tracker Cr 2
 
@@ -71,3 +83,5 @@ LN Medium humanoid (vlaka)
 The following extra content was found for this creature:  
 \- Vlaka (Creature Subtype) Graft Template  
 \- Vlaka Race Entry
+
+

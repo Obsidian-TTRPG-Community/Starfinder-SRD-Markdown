@@ -3,11 +3,11 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 12
-modifier: 0
+Initmod: 0
 name: Entu Colony
 statblock: true
 tags: 
-Type: N Small ooze  
+Type: N Small ooze
 ---
 
 # Entu Colony
@@ -22,7 +22,7 @@ The nelentu, one of the founding species of the Kreiholm Freehold, is a prominen
 
 Entu fungi of all kinds seek constant exposure to emotion and thought to thrive, and those involved with symbiotes prioritize their hosts’ physical needs. They prefer to enter symbiotic relationships with creatures who can benefit from their cellular mimicry, living as long as the host creature does—and dying along with it. Entu colonies, on the other hand, can survive for up to 300 years.
 
-**Source**:: _Alien Archive 4 pg. 34_
+**Source**:  _Alien Archive 4 pg. 34_
 
 ## Entu Colony Cr 1/2
 

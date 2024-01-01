@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 6
-Environment: temperate or warm mountains (Castrovel)  
+Environment: temperate or warm mountains (Castrovel)
 hp: 95
-modifier: 6
+Initmod: 6
 name: Mountain Eel
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): animal(-)
+environment: mountains
+climate:
+  - temperate
+  - warm
+planet: Castrovel
+organization:
+  - solitary
+  - pair
+  - bed(3-5)
+source: Alien Archive
 ---
 
 # Mountain Eel
@@ -66,3 +80,5 @@ Mountain eels’ hides are easily worked, and talented leatherworkers who dabble
 _Reckless Gloves_  
 _Resilient Jacket_  
 _Trampling Boots_
+
+

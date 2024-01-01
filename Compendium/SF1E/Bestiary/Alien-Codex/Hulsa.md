@@ -3,16 +3,17 @@ aliases:
 cr: 10
 Environment: any
 hp: 142
-modifier: 0
+Initmod: 0
 name: Hulsa
 statblock: true
-tags: [9:]
-Type: CN Medium fey  
+tags:
+  - "9:"
+Type: CN Medium fey
 ---
 
 # Hulsa
 
-**Source**:: _Alien Archive 4 pg. 48_, _Starfinder The Rune Drive Gambit pg. 59_
+**Source**:  _Alien Archive 4 pg. 48_, _Starfinder The Rune Drive Gambit pg. 59_
 
 ## Hulsa Cr 10
 

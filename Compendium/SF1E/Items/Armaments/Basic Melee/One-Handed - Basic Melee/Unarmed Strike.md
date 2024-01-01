@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: /
+
 Notetype: Weapon
 price: 0
 tags: 
@@ -11,11 +11,11 @@ type: Basic-Melee
 # Unarmed Strike
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: —;
+**Level**:: —
 **Price**:: —  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d3 B;
+**Damage**:: 1d3 B
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: archaic, nonlethal

@@ -3,11 +3,11 @@ aliases:
 Level: 4
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: illusion 
+Precog: X
+
 tags: 
-Technomance "`ris:Checkbox`"r: 
-Witchwarper: "`ris:Checkbox`"
+Technomance Xr: 
+Witchwarper: X
 ---
 
 # Invisibility, Greater

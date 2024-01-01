@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 14 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -16,26 +16,47 @@ Shiftskin has been adapted for use by other races. Even when used by non-reptoid
 ## Shiftskin, I
 
 **Source**:: _Starfinder Armory pg. 71_  
-**Level**:: 9;
-**Price**:: 13,850; **Category** Light  
-**EAC Bonus** +10; **KAC Bonus** +11; **Max. Dex Bonus** +7  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Level**:: 9
+**Price**:: 13850 
+**Category**:: Light  
+
+**EAC**:: +10 
+**KAC**:: +11 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1
 
 ## Shiftskin, Ii
 
 **Source**:: _Starfinder Armory pg. 71_  
 **Level**:: 14
-**Price**:: 76,830; **Category** Light  
-**EAC Bonus** +16; **KAC Bonus** +17; **Max. Dex Bonus** +7  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Price**:: 76830 
+**Category**:: Light  
+
+**EAC**:: +16 
+**KAC**:: +17 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## Shiftskin, Iii
 
 **Source**:: _Starfinder Armory pg. 71_  
-**Level**:: 20;
-**Price**:: 886,500; **Category** Light  
-**EAC Bonus** +22; **KAC Bonus** +24; **Max. Dex Bonus** +7  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: 1
+**Level**:: 20
+**Price**:: 886500 
+**Category**:: Light  
+
+**EAC**:: +22 
+**KAC**:: +24 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: 1

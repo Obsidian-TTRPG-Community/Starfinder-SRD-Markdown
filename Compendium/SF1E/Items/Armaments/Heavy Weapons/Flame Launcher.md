@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,37 +21,43 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 5
-**Price**:: 3,250  
-**Hands**:: 2;
+**Price**:: 3250  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 F; **Range**:: 60 ft.;
+**Damage**:: 1d8 F 
+**Range**:: 60 ft.
 **Critical**:: burn 1d6  
-**Capacity**:: 20 petrol; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 petrol 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), unwieldy
 
 ## Flame Launcher, Immolation
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 9;
-**Price**:: 14,200  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 14200  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 F; **Range**:: 80 ft.;
+**Damage**:: 2d8 F 
+**Range**:: 80 ft.
 **Critical**:: burn 2d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), unwieldy
 
 ## Flame Launcher, Supernova
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 14
-**Price**:: 79,800  
-**Hands**:: 2;
+**Price**:: 79800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d8 F; **Range**:: 120 ft.;
+**Damage**:: 5d8 F 
+**Range**:: 120 ft.
 **Critical**:: burn 3d6  
-**Capacity**:: 40 petrol; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), unwieldy

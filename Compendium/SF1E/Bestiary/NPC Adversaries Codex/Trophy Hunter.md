@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 145
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Trophy Hunter
-statblock: true
-Subtype: Survivalist
+statblock: true(Survivalist
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Trophy Hunter

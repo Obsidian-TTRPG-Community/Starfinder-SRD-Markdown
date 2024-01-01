@@ -1,13 +1,28 @@
 ---
 aliases: 
 cr: 3
-Environment: any hills or mountains  
+Environment: any hills or mountains
 hp: 35
-modifier: 4
+Initmod: 4
 name: Skreesire, Skreeling
 statblock: true
 tags: 
-Type: NE Small aberration  
+Type: NE Small aberration
+combatType: expert
+alignment: NE
+size: small
+type(subtype): aberration(-)
+environment:
+  - hils
+  - mountains
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - trio
+  - host(4-8)
+source: DS3
 ---
 
 # Skreesire, Skreeling
@@ -28,7 +43,7 @@ Occasionally, a skreeling becomes stunted in its development, growing too large 
 
 Though uncommon, skreeling infestations near settlements are treated more like natural hazards to be avoided than pests to be eliminated. Some residents even derive a kind of pride from these annoyances, going so far as to name geological features of the area or local businesses after the creatures. These citizens make sure to warn travelers and newcomers about the skreeling lairs, as much to keep the flying aberrations safe as the people they caution. However, such settlements are quick to curtail the skreelings should they get violent, and they hold no such love for their far more dangerous adult forms.
 
-**Source**:: _Alien Archive 3 pg. 98_
+**Source**:  _Alien Archive 3 pg. 98_
 
 ## Skreeling Cr 3
 
@@ -63,3 +78,5 @@ NE Small aberration
 ### Special Abilities
 
 **Cluster (Ex)** Skreelings are born and grow to adulthood in small packs, and they are more comfortable fighting alongside other skreelings, including their siblings. When two or more skreelings flank a single creature, each skreeling attacking that creature receives an additional +1 circumstance bonus to attack rolls. In addition, when a skreeling hits a creature that two or more skreelings are flanking, that creature gains the bleeding condition for 1 damage, in addition to the skreeling’s normal damage. The damage from the bleeding condition increases by 1 for each individual skreeling that successfully hits the creature, but it does not increase if the same skreeling hits multiple times. (For example, a single creature hit by two flanking skreelings gains the bleeding condition for 2 damage, but the same creature hit multiple times by the same skreeling only gains the bleeding condition for 1 damage).
+
+

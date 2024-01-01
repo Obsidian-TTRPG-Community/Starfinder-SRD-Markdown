@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 price: 
 tags: 
 Type: Magic Item
@@ -12,8 +12,9 @@ The adornment allows a number of rerolls per day based on its type.
 ## Improvisation Adornment, Mk 1
 
 **Source**:: _Starfinder Armory pg. 114_  
-**Level** 4;
-**Price**::  1,800; **Bulk** —
+**Level**:: 4
+**Price**::  1800 
+**Bulk**:: —
 
 ### Description
 
@@ -24,8 +25,9 @@ One reroll
 ## Improvisation Adornment, Mk 2
 
 **Source**:: _Starfinder Armory pg. 114_  
-**Level** 8;
-**Price**::  8,400; **Bulk** —
+**Level**:: 8
+**Price**::  8400 
+**Bulk**:: —
 
 ### Description
 
@@ -34,8 +36,9 @@ Two rerolls
 ## Improvisation Adornment, Mk 3
 
 **Source**:: _Starfinder Armory pg. 114_  
-**Level** 12;
-**Price**::  33,500; **Bulk** —
+**Level**:: 12
+**Price**::  33500 
+**Bulk**:: —
 
 ### Description
 

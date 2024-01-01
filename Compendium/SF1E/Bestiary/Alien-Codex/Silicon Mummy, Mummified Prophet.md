@@ -3,16 +3,16 @@ aliases:
 cr: 12
 Environment: any
 hp: 170
-modifier: 5
+Initmod: 5
 name: Silicon Mummy, Mummified Prophet
 statblock: true
 tags: 
-Type: LN Medium undead  
+Type: LN Medium undead
 ---
 
 # Silicon Mummy, Mummified Prophet
 
-**Source**:: _Alien Archive 4 pg. 74_
+**Source**:  _Alien Archive 4 pg. 74_
 
 ## Mummified Prophet Cr 12
 

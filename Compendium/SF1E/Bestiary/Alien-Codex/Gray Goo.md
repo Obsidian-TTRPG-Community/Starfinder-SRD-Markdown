@@ -3,16 +3,16 @@ aliases:
 cr: 14
 Environment: any
 hp: 250
-modifier: 8
+Initmod: 8
 name: Gray Goo
 statblock: true
 tags: 
-Type: N Fine construct (swarm, technological)  
+Type: N Fine construct (swarm, technological)
 ---
 
 # Gray Goo
 
-**Source**:: _Alien Archive 4 pg. 38_
+**Source**:  _Alien Archive 4 pg. 38_
 
 ## Gray Goo Cr 14
 

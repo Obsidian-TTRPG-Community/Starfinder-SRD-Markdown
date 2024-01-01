@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 19
-Type: Supercolossal base ship
+type: Supercolossal base ship
 ---
 
 # Citadel Zirval
 
-> [!infobox|locr n-th clean]
->  [[Starship_Citadel_Zirval.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_Citadel_Zirval.jpg|Spielern zeigen!]
 > 
 Supercolossal base ship, **Tier** 19  
 **Speed** 6; **Maneuverability** clumsy (turn 4); **Drift** 1  

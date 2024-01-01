@@ -10,8 +10,10 @@ The solitude of space can prove tough to bear for even the most hardened soloist
 ---
 ``` dataview
 TABLE
-Level, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Creature Companions"
-SORT Level ASC
+
+level, Type
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Creature Companions"
+SORT 
+level ASC
 WHERE file.name != "Creature Companions"
 ```

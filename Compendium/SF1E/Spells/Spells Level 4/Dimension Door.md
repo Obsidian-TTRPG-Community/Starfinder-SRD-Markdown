@@ -3,11 +3,11 @@ aliases:
 Level: 4
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: conjuration (teleporation) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Dimension Door

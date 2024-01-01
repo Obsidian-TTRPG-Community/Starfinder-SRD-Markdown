@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4 
-price: 2,100
+
+price: 2100
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Dusk Shades
 
 **Source**:: _Tech Revolution pg. 47_  
-**Level** 4;
+**Level**:: 4
 **Price**::  2100  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: any (Gothra)  
+Environment: any (Gothra)
 hp: 100
-modifier: 0
+Initmod: 0
 name: Thorgothrel
 statblock: true
 tags: 
-Type: LE Large ooze  
+Type: LE Large ooze
 ---
 
 # Thorgothrel

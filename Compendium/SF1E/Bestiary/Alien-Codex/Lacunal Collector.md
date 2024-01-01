@@ -3,11 +3,11 @@ aliases:
 cr: 11
 Environment: any
 hp: 155
-modifier: 3
+Initmod: 3
 name: Lacunal Collector
 statblock: true
 tags: 
-Type: LE Medium undead (android)  
+Type: LE Medium undead (android)
 ---
 
 # Lacunal Collector
@@ -24,7 +24,7 @@ Upon initiation, a Lacunal pledge willingly partakes in a ritual to become undea
 
 Lacunal disciples are undead androids who typically inhabit a humanoid body shape with visible circuits, and like their living counterparts, the creatures’ individual appearances vary drastically to reflect subtle differences in design, personality, and modification. The number of heads displayed by a Lacunal disciple typically reflects the number of times they’ve thwarted destruction and continued their grim mission.
 
-**Source**:: _Alien Archive 4 pg. 66_
+**Source**:  _Alien Archive 4 pg. 66_
 
 ## Lacunal Collector Cr 11
 

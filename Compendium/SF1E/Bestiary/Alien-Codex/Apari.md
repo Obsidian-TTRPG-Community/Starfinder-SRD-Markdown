@@ -1,18 +1,31 @@
 ---
 aliases: 
 cr: 7
-Environment: temperate or warm plains  
+Environment: temperate or warm plains
 hp: 105
-modifier: 2
+Initmod: 2
 name: Apari
 statblock: true
 tags: 
-Type: N Large vermin  
+Type: N Large vermin
+combatType: combatant
+alignment: N
+size: large
+type(subtype): vermin(-)
+environment: plains
+climate:
+  - temperate
+  - warm
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Apari
 
-**Source**:: _Alien Archive pg. 14_
+**Source**:  _Alien Archive pg. 14_
 
 ## Apari Cr 7
 
@@ -59,3 +72,5 @@ An apari is a living hive, its gigantic beetle-like carapace animated by generat
 Aparis quickly become a formidable force in almost any ecosystem to which they are introduced. Their constituents can forage for food (usually rotting vegetable material or carrion), while the hive itself hunts animals. Perhaps most disconcerting is when the two methods combine, with the apari tearing into a beast while its constituents stream into the wounds and devour it from the inside out. Additionally, aparis’ considerable mutability provides them protection from threats that would seriously endanger more sedentary collective species, such as flooding or an intelligent competitor’s targeted attempts at extermination.
 
 When the resources available to a single apari permit it to create more constituents than its body can efficiently support, it travels to a location in the center of its feeding territory and becomes temporarily stationary. Some of its constituents burrow into the ground beneath it and begin ferrying portions of the parent apari’s key biological systems—including half of its maggot core—while others continue to forage in the surrounding area to provide a steady stream of nutrients to the nascent hive. When the new hive is ready, the two aparis split the current hunting ground and expand the territories outward from that core, never explicitly working together but also not directly competing. Additionally, these aparis remain chemically linked, so that if disaster befalls one of them, surviving constituents can potentially join a linked hive and continue to thrive. In this way, entire planets have fallen to supercolonies of aparis whose influence spread across continents. Despite their mysterious presence on a variety of worlds, including both Triaxus and the insect moon of Nchak, aparis in the modern era are unable to colonize new worlds without an intelligent race to assist them. Fortunately for them, fried apari grubs are a delicacy in many Pact Worlds cultures, and attempts to hunt or ranch the creatures are dangerous but lucrative.
+
+

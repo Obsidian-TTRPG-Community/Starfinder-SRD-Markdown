@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Aucturn)  
+Environment: any (Aucturn)
 hp: 93
-modifier: 5
+Initmod: 5
 name: Orocoran
 statblock: true
 tags: 
-Type: CE Medium aberration  
+Type: CE Medium aberration
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet: Aucturn
+organization:
+  - solitary
+  - brood(2-9)
+  - congregation(10-20) + Orocoran Ichor Lord(1)
+source: Alien Archive
 ---
 
 # Orocoran
@@ -19,7 +31,7 @@ While most orocorans have their higher faculties rotted out by the unending hung
 Though capable of using other races’ technology—frequently armed for battle and used as shock troops by ichor lords or more organized races—threatened orocorans generally default to spewing their madness-inducing stomach fluids onto enemies, letting the fluids rot their targets’ minds, and then moving in to exsanguinate them with their proboscises. While orocorans are nearly 6 feet tall when standing upright, they prefer to run on all fours, and they usually weigh around 150 pounds. Orocorans have no gender or designated reproductive organs, and mating involves two participants piercing each other’s torsos with their proboscises to share genetic information and become pregnant. These individuals lay clutches of fertilized eggs in ichor-filled pockets gouged out of the planet’s skin, and then they abandon their young completely.
 
 
-**Source**:: _Alien Archive pg. 90_
+**Source**:  _Alien Archive pg. 90_
 
 ## Orocoran Cr 6
 
@@ -59,3 +71,5 @@ Constant—_see invisibility_
 **Hallucinate (Ex)** An orocoran’s stomach fluids are laced with the narcotic black ichor of Aucturn. A creature hit with the orocoran’s projectile vomit must succeed at a DC 16 Will save or be confused (as per _confusion_) for 1d4 rounds.
 
 **Projectile Vomit (Ex)** As a standard action, an orocoran can spew a thin stream of vomit at a target within 30 feet. In addition to taking damage, a creature hit with this spray is subject to the orocoran’s hallucinate ability.
+
+

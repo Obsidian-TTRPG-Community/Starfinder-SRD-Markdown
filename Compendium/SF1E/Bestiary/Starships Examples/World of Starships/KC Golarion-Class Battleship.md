@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 16
-Type: Gargantuan battleship 
+type: Gargantuan battleship 
 ---
 
 # Kc Golarion-class Battleship
 
-> [!infobox|locr n-th clean]
->  [[Starship_KCGolarionClassBattleship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_KCGolarionClassBattleship.jpg|Spielern zeigen!]
 > 
 Gargantuan battleship, **Tier** 16 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

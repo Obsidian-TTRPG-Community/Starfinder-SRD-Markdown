@@ -1,25 +1,31 @@
 ---
 aliases: 
-ItemLevel: 14
-NoteType: Terrestial Vehicles
-price: 250,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 250000
 tags: 
 ---
 
 # Pirate Enercopter
 
 **Source**:: _Tech Revolution pg. 86_
-**Item Level** 14;
-**Price**::  250,000  
+**Level**:: 14
+**Price**::  250000  
 Gargantuan air vehicle (20 ft. wide, 25 ft. long, 15 ft. high)  
-**Speed** 50 ft., full 850 ft., 95 mph (fly)  
-**EAC** 28; **KAC** 30; **Cover** cover  
-**HP** 240 (120); **Hardness** 15  
+**Speed**:: 50 ft., full 850 ft., 95 mph (fly)  
+
+**EAC**:: 28; 
+**KAC**:: 30; 
+**Cover**:: cover  
+**HP**:: 240 (120); 
+**Hardness**:: 15  
 **Attack (Collision)** 16d10 B (DC 16)  
 **Attack** linear resonator (4d8 So)  
 **Attack** elite x–gen gun (4d12 P)  
-**Modifiers** –1 Piloting, –2 attack (–4 at full speed)  
-**Systems** autopilot (Piloting +24), planetary comm unit, smuggler’s compartment, stealth (–3); **Passengers** 6  
+
+**Modifiers**:: –1 Piloting, –2 attack (–4 at full speed)  
+**Systems**:: autopilot (Piloting +24), planetary comm unit, smuggler’s compartment, stealth (–3)
+**Passengers**:: 6  
 
 ### Description
 

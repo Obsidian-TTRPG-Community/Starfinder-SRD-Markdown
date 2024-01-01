@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 11 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,14 +18,16 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Shout Projector, Crackdown
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 20;
-**Price**:: 918,000  
-**Hands**:: 2;
+**Level**:: 20
+**Price**:: 918000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 9d8 So; **Range**:: 80 ft.;
+**Damage**:: 9d8 So 
+**Range**:: 80 ft.
 **Critical**:: Demoralize  
-**Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 2;
+**Capacity**:: 80 charges 
+**Usage** 8  
+**Bulk**:: 2
 **Special**:: explode (20 ft.), integrated (4 slots), nonlethal, unwieldy
 
 ## Shout Projector, Exhorter
@@ -33,49 +35,57 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 1
 **Price**:: 420  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d6 So; **Range**:: 30 ft.;
+**Damage**:: 1d6 So 
+**Range**:: 30 ft.
 **Critical**:: Demoralize  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), integrated (2 slots), nonlethal, unwieldy
 
 ## Shout Projector, Damper
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 6;
-**Price**:: 4,750  
-**Hands**:: 2;
+**Level**:: 6
+**Price**:: 4750  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 So; **Range**:: 40 ft.;
+**Damage**:: 2d6 So 
+**Range**:: 40 ft.
 **Critical**:: Demoralize  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), integrated (2 slots), nonlethal, unwieldy
 
 ## Shout Projector, Pacifier
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 11;
-**Price**:: 22,800  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 22800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d8 So; **Range**:: 60 ft.;
+**Damage**:: 3d8 So 
+**Range**:: 60 ft.
 **Critical**:: Demoralize  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: explode (15 ft.), integrated (2 slots), nonlethal, unwieldy
 
 ## Shout Projector, Riot
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 17;
-**Price**:: 304,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 304000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d8 So; **Range**:: 60 ft.;
+**Damage**:: 5d8 So 
+**Range**:: 60 ft.
 **Critical**:: Demoralize  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: explode (15 ft.), integrated (4 slots), nonlethal, unwieldy

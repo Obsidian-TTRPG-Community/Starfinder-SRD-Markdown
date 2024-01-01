@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 100
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Courier
-statblock: true
-Subtype: Guides
+statblock: true(Guides
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Courier

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 5 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,10 +19,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 5
-**Price**:: 3,100  
+**Price**:: 3100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 E & F;
+**Damage**:: 2d4 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1), professional (contractor)
@@ -34,7 +34,7 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 **Price**:: 300  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E & f;
+**Damage**:: 1d4 E & f
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1), professional (contractor)
@@ -42,11 +42,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Welder, Starship
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 11;
-**Price**:: 25,800  
+**Level**:: 11
+**Price**:: 25800  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d4 E & F;
+**Damage**:: 5d4 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2), professional (contractor)
@@ -54,11 +54,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Welder, Offensive
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 16;
-**Price**:: 164,000  
+**Level**:: 16
+**Price**:: 164000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 11d4 E & F;
+**Damage**:: 11d4 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 4), professional (contractor)

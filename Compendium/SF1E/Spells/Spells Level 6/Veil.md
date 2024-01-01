@@ -4,10 +4,10 @@ Level: 6
 Mystic: 
 NoteType: Spell
 Precog: 
-School: illusion 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Veil

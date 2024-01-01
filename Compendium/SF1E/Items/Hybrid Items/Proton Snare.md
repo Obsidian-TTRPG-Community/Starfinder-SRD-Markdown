@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 9 / 11 / 16 / 20 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,61 +15,67 @@ A proton snare can’t be activated again until emptied (even if it’s not at c
 ## Proton Snare, Mk I
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 2;
-**Price**::  500; **Bulk** 1
+**Level**:: 2
+**Price**::  500 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 3; 50 HP capacity.
+Affects up to CR 3 50 HP capacity.
 
 ---
 
 ## Proton Snare, Mk Ii
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 5;
-**Price**::  2,200; **Bulk** 1
+**Level**:: 5
+**Price**::  2200 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 7; 125 HP capacity.
+Affects up to CR 7 125 HP capacity.
 
 ## Proton Snare, Mk Iii
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 9;
-**Price**::  8,200; **Bulk** 1
+**Level**:: 9
+**Price**::  8200 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 11; 200 HP capacity.
+Affects up to CR 11 200 HP capacity.
 
 ## Proton Snare, Mk Iv
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 11;
-**Price**::  18,100; **Bulk** 1
+**Level**:: 11
+**Price**::  18100 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 15; 300 HP capacity.
+Affects up to CR 15 300 HP capacity.
 
 ## Proton Snare, Mk V
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 16;
-**Price**::  141,000; **Bulk** 1
+**Level**:: 16
+**Price**::  141000 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 20; 500 HP capacity.
+Affects up to CR 20 500 HP capacity.
 
 ## Proton Snare, Mk Vi
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 20;
-**Price**::  890,000; **Bulk** 1
+**Level**:: 20
+**Price**::  890000 
+**Bulk**:: 1
 
 ### Description
 
-Affects up to CR 25; unlimited HP capacity.
+Affects up to CR 25 unlimited HP capacity.

@@ -9,8 +9,8 @@ Cybernetic [[Augmentations|augmentations]] use machines and circuitry integrated
 
 ``` dataview
 TABLE
-System, ItemLevel as I-Level, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Augmentations/Cybernetics"
+System, Level, Price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Augmentations/Cybernetics"
 SORT Level ASC
 WHERE file.name != "Cybernetics"
 ```

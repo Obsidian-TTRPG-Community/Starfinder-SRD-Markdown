@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 4
-Environment: temperate and warm forests (Castrovel)  
+Environment: temperate and warm forests (Castrovel)
 hp: 51
-modifier: 3
+Initmod: 3
 name: Vracinea
 statblock: true
 tags: 
-Type: N Large plant  
+Type: N Large plant
+combatType: combatant
+alignment: N
+size: large
+type(subtype): plant(-)
+environment: forests
+climate:
+  - temperate
+  - warm
+planet: Castrovel
+organization:
+  - solitary
+source: DS1
 ---
 
 # Vracinea
@@ -60,3 +72,5 @@ Xenobotanists aren’t certain of the mechanisms behind a vracinea’s blossom l
 Vracineas are solitary and territorial creatures. When two come into contact, they often charge at one another, quickly becoming locked in a struggle of gnashing teeth until one falls dead or retreats to nurse its wounds. The stakes of such skirmishes can be especially high, given that nearby prey are often unable to resist the draw of both creatures and end up standing by, paralyzed. The winning vracinea claims any such prizes and claims the nearby territory. It then picks a new hiding spot and patiently waits for other victims to appear. Rarely, a starving vracinea—easily recognizable by the deep purple coloration of its blossom lures—will pursue, kill, and feast on the loser of a contest of dominance, though this is the only time a vracinea partakes in cannibalism. In fact, a vracinea usually refuses to eat other plant creatures; xenobotanists believe those that do are in fact attempting to reach unabsorbed meat in the other creature’s system.
 
 On Castrovel, vracineas flourish on the continent of Ukulam, where they can stake expansive hunting grounds and avoid other voracious members of their species. All is not completely peaceful, however, as many vracineas compete for food with the jungle’s other carnivorous creatures, such as tentacled ksariks and serpentine mountain eels. Over many generations, ksariks have learned to detect the scent of vracineas from greater and greater distances, along with the knowledge that they have little to gain from ingesting a vracinea’s genetic information. In addition, the two plant creatures tend to be evenly matched, making any confrontation between the two dangerous for both. As a result, they generally only come into direct conflict in times of desperation, or occasionally when a ksarik is tracking victims infected by its carrion spores. Mountain eels, on the other hand, are often more powerful than vracineas, though the two only fight for resources if a vracinea attempts to claim part of a mountainside frequented by a bed of mountain eels for its hunting ground. Usually outnumbered, a vracinea is quickly dispatched by mountain eels, but occasionally one of the plant creatures discovers a nest of newly born elvers left behind by its parents and enjoys a grand feast.
+
+

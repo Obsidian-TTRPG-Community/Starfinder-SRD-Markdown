@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Great Shadar)  
+Environment: any (Great Shadar)
 hp: 21
-modifier: 1
+Initmod: 1
 name: Draelik
 statblock: true
 tags: 
-Type: NE Medium humanoid (draelik)  
+Type: NE Medium humanoid (draelik)
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): humanoid(draelik)
+environment: any
+climate: any
+planet: Great Shadar
+organization:
+  - solitary
+  - pair
+  - penumbra(3-8)
+source: Alien Archive
 ---
 
 # Draelik
@@ -70,3 +82,5 @@ The few draeliks who don’t follow these entropic beliefs generally leave the K
 
 The following extra content was found for this creature:  
 \- Draelik Race Entry
+
+

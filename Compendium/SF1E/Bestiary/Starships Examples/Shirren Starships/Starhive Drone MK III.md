@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Small light freighter
+type: Small light freighter
 ---
 
 # Starhive Drone Mk Iii
 
-> [!infobox|locr n-th clean]
->  [[Starship_StarhiveDroneMk2.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_StarhiveDroneMk2.jpg|Spielern zeigen!]
 > 
 Small light freighter, **Tier** 1 
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** 1  

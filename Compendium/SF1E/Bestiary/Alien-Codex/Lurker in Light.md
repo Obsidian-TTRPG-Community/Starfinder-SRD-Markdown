@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: urban (extraplanar)  
+Environment: urban (extraplanar)
 hp: 70
-modifier: 5
+Initmod: 5
 name: Lurker in Light
 statblock: true
 tags: 
-Type: NE Small fey (extraplanar)  
+Type: NE Small fey (extraplanar)
 ---
 
 # Lurker in light
@@ -20,7 +20,7 @@ Lurkers in light are quite difficult to clear out of sufficiently advanced envir
 
 Lightweavers are older, more sadistic lurkers in light, learned in mysticism and fond of large-scale torment. They have honed their hatred to the height of efficiency, blending arcane knowledge and resourcefulness. The creatures also eschew the use of poison in favor of a growing obsession with radioactivity. This sometimes brings them into conflict with hespers over particularly prolific sources of radiation. Lightweavers gather what radioactive material they can and create elaborate nests, where they cultivate horrific weapons specifically for rituals in which they sear the flesh of their victims. Some have even developed magical rituals, performed in groups, that allow them to convey a starship engine to a collective scrapyard-nest, where they bask in its radioactive glow. With extended exposure, lightweavers become imbued with a measure of radioactivity, increasing the threat they pose.
 
-**Source**:: _Alien Archive 3 pg. 70_
+**Source**:  _Alien Archive 3 pg. 70_
 
 ## Lurker in light Cr 5
 

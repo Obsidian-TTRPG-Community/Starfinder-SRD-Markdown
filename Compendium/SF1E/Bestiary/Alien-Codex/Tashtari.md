@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 3
-Environment: any forests or marshes (Castrovel)  
+Environment: any forests or marshes (Castrovel)
 hp: 40
-modifier: 4 
+Initmod: 4
 name: Tashtari
 statblock: true
 tags: 
-Type: N Medium magical beast  
+Type: N Medium magical beast
+combatType: combatant
+alignment: N
+size: medium
+type(subtype): magical beast(-)
+environment:
+  - forests
+  - marshes
+climate: any
+planet: Castrovel
+organization:
+  - solitary
+  - pair
+  - pack(3-8)
+source: Alien Archive 2
 ---
 
 # Tashtari
@@ -24,7 +38,7 @@ Sentient species of Castrovel refer to these beasts as tashtaris, but offworlder
 
 Hunters can do brisk business harvesting the filaments, photoenergetic nodes, and focusing membranes of tashtaris and selling them to bioengineers. If not for conservation efforts on Castrovel, tashtaris could have been hunted to extinction, since their photosensitive adaptations are difficult and expensive to duplicate through synthetic means. Cessation of hostilities between the formians and lashuntas has allowed a recent surge in the regulated trade of biotech that incorporates tashtari tissue. Explorers and scouts equip themselves with focusing membranes or filament mesh, and many people throughout the Pact Worlds use photoenergetic nodes for practical and cosmetic purposes.
 
-**Source**:: _Alien Archive 2 pg. 124_
+**Source**:  _Alien Archive 2 pg. 124_
 
 ## Tashtari Cr 3
 
@@ -61,3 +75,5 @@ N Medium magical beast
 **Bristle Flash (Ex)** Once per day as a standard action, a tashtari can cause its filaments to glow with intense light. Each creature within 60 feet must succeed at a DC 12 Fortitude save or be dazzled for 1d4 rounds. This ability has no effect on sightless creatures. Tashtaris and tashtari alphas are immune to the effects of this ability.
 
 **Muzzle Beam (Ex)** As an attack, a tashtari can unleash a focused ray of light from its mouth that can burn a target like the beam of a laser pistol. This ray has a range increment of 80 feet.
+
+

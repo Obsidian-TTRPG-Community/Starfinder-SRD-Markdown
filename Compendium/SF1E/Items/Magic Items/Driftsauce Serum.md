@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 6 
+
 price: 675 
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Galactic Magic pg. 53_  
-**Level** 6;
-**Price**::  675; **Bulk** L
+**Level**:: 6
+**Price**::  675 
+**Bulk**:: L
 
 ### Description
 

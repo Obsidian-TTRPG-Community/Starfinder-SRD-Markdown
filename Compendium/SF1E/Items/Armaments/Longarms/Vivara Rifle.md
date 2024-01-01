@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,37 +19,34 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Interstellar Species pg. 55_  
 **Level**:: 12
-**Price**:: 27,600  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d8 P; **Range**:: 70 ft.;
+**Price**:: 27600  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d8 P; 
+**Range**:: 70 ft.
 **Critical**:: —  
 **Capacity**:: 6; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breakdown
+**Bulk**:: 1**Special**:: Breakdown
 
 ## Vivara Rifle, Low-flux
 
 **Source**:: _Interstellar Species pg. 55_  
 **Level**:: 4
-**Price**:: 2,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 P; **Range**:: 50 ft.;
+**Price**:: 2100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 P; 
+**Range**:: 50 ft.
 **Critical**:: —  
 **Capacity**:: 6; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breakdown
+**Bulk**:: 1**Special**:: Breakdown
 
 ## Vivara Rifle, Mid-flux
 
 **Source**:: _Interstellar Species pg. 55_  
-**Level**:: 8;
-**Price**:: 7,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 P; **Range**:: 60 ft.;
+**Level**:: 8
+**Price**:: 7500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 6; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breakdown
+**Bulk**:: 1**Special**:: Breakdown

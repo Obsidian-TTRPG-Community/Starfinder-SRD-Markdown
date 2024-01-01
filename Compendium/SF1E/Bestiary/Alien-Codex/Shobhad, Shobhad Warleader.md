@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: cold deserts or mountains (Akiton)  
+Environment: cold deserts or mountains (Akiton)
 hp: 105
-modifier: 6
+Initmod: 6
 name: Shobhad, Shobhad Warleader
 statblock: true
 tags: 
-Type: N Large monstrous humanoid  
+Type: N Large monstrous humanoid
 ---
 
 # Shobhad, Shobhad Warleader
@@ -19,7 +19,7 @@ Shobhads tend to wear their armor most of the time, usually with a traditional r
 Most clans hunt, gather, and raid neighboring clans and corporate convoys for supplies. Shobhads believe that overt aggression isn’t a fault, but rather a fact of life and that everyone should be strong enough to protect themselves. However, honor is paramount to a shobhad, and breaking one’s word or clan law means a fate worse than death. The laws of city folk, on the other hand, mean little unless they’ve been agreed to.
 
 Shobhads only rarely establish permanent settlements. A single clan may wander thousands of miles of open desert, their territory overlapping with that of other clans or species with very few disputes. While most clans remain on Akiton, their expertise in warfare means there’s always steady mercenary work for shobhad iconoclasts willing to travel, and a few clans have traded their caravans for starships. Such adventurers can often be found working for corporations or groups such as the Starfinder Society, usually as hired muscle. Some shobhads find themselves overtaken by nearly insatiable wanderlust, even after just a single off-planet job, and rarely set foot on Akiton again.
-**Source**:: _Alien Archive pg. 104_
+**Source**:  _Alien Archive pg. 104_
 
 ## Shobhad Warleader Cr 7
 

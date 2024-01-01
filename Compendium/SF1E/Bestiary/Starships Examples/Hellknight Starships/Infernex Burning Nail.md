@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Tiny Fighter 
+type: Tiny Fighter 
 ---
 
 # Infernex Burning Nail
 
-> [!infobox|locr n-th clean]
->  [[Starship_InfernexBurningNail.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InfernexBurningNail.jpg|Spielern zeigen!]
 > 
 Tiny fighter, **Tier** 1
 **Speed** 10; **Maneuverability** good (turn 1); **Drift** —  

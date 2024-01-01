@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 8 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,74 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Ice Launcher, Aufeis
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 760  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d12 B & C; **Range**:: 60 ft.;
+**Damage**:: 1d12 B & C 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
-**Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Ice Launcher, Iceberg
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 5
-**Price**:: 3,100  
-**Hands**:: 2;
+**Price**:: 3100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 B & C; **Range**:: 60 ft.;
+**Damage**:: 2d8 B & C 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Ice Launcher, Floe
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 8;
-**Price**:: 9,430  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9430  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 B & C; **Range**:: 60 ft.;
+**Damage**:: 3d12 B & C 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
-**Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Ice Launcher, Glacier
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 15;
-**Price**:: 108,000  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 108000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d12 B & C; **Range**:: 60 ft.;
+**Damage**:: 8d12 B & C 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
-**Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 80 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Ice Launcher, Icecap
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 20;
-**Price**:: 892,000  
-**Hands**:: 2;
+**Level**:: 20
+**Price**:: 892000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 14d12 B & C; **Range**:: 60 ft.;
+**Damage**:: 14d12 B & C 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
-**Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 80 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: unwieldy

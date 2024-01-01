@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 8 / 14 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Hail Pistol, Absolute-zero
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 17;
-**Price**:: 218,000  
+**Level**:: 17
+**Price**:: 218000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d8 C & P; **Range**:: 40 ft.;
+**Damage**:: 5d8 C & P; 
+**Range**:: 40 ft.
 **Critical**:: bleed 1d10  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -37,7 +38,8 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 **Price**:: 120  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 C & P; **Range**:: 20 ft.;
+**Damage**:: 1d4 C & P; 
+**Range**:: 20 ft.
 **Critical**:: bleed 1d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Hail Pistol, Gelid
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 8;
-**Price**:: 8,600  
+**Level**:: 8
+**Price**:: 8600  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 C & P; **Range**:: 20 ft.;
+**Damage**:: 2d6 C & P; 
+**Range**:: 20 ft.
 **Critical**:: bleed 1d6  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -60,10 +63,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 34_  
 **Level**:: 14
-**Price**:: 63,200  
+**Price**:: 63200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d8 C & P; **Range**:: 40 ft.;
+**Damage**:: 3d8 C & P; 
+**Range**:: 40 ft.
 **Critical**:: bleed 1d8  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L

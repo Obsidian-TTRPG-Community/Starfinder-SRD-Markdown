@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: Large Heavy Freighter
+type: Large Heavy Freighter
 ---
 
 # Vanguard Sanctum

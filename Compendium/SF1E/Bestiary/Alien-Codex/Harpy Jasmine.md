@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 5
-Environment: temperate or warm forests (Castrovel)  
+Environment: temperate or warm forests (Castrovel)
 hp: 60
-modifier: 0
+Initmod: 0
 name: Harpy Jasmine
 statblock: true
 tags: 
-Type: N Medium plant  
+Type: N Medium plant
 ---
 
 # Harpy Jasmine
 
-**Source**:: _Alien Archive 4 pg. 44_
+**Source**:  _Alien Archive 4 pg. 44_
 
 ## Harpy Jasmine Cr 5
 

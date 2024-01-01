@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 8
 hp: 105
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Prophet
-statblock: true
-Subtype: Religious Figures
+statblock: true(Religious Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Prophet

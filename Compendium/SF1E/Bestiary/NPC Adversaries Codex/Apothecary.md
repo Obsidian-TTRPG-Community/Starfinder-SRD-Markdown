@@ -1,10 +1,10 @@
 ---
-modifier:4
+Initmod: 4
 name: Apothecary
 Monster Type: NPC
 hp: 40
 statblock: true
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex---
 cr: 3
 ---
 # APOTHECARY

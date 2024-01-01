@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 8 / 12
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving
 **Price**:: 50  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving
 **Price**:: 320  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving
 ## Dye Grenade, Iii
 
 **Source**:: _Alien Archive 4 pg. 69_  
-**Level**:: 8;
-**Price**:: 1,300  
+**Level**:: 8
+**Price**:: 1300  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -53,10 +56,11 @@ Lumocantha dye can be weaponized easily. A creature that fails its Reflex saving
 
 **Source**:: _Alien Archive 4 pg. 69_  
 **Level**:: 12
-**Price**:: 5,100  
+**Price**:: 5100  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

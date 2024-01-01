@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 13 / 17
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Once armed, this grenade rapidly unfolds into a hand-sized, glowing jellyfish. O
 ## Meduza Grenade, I
 
 **Source**:: _Interstellar Species pg. 119_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 240  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Once armed, this grenade rapidly unfolds into a hand-sized, glowing jellyfish. O
 ## Meduza Grenade, Ii
 
 **Source**:: _Interstellar Species pg. 119_  
-**Level**:: 7;
+**Level**:: 7
 **Price**:: 920  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Once armed, this grenade rapidly unfolds into a hand-sized, glowing jellyfish. O
 ## Meduza Grenade, Iii
 
 **Source**:: _Interstellar Species pg. 119_  
-**Level**:: 13;
-**Price**:: 7,200  
+**Level**:: 13
+**Price**:: 7200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Once armed, this grenade rapidly unfolds into a hand-sized, glowing jellyfish. O
 ## Meduza Grenade, Iv
 
 **Source**:: _Interstellar Species pg. 119_  
-**Level**:: 17;
-**Price**:: 36,000  
+**Level**:: 17
+**Price**:: 36000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

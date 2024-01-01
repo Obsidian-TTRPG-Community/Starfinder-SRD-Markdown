@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/4
-Type: Tiny racer
+type: Tiny racer
 ---
 
 # Terminator Star Drake
 
-> [!infobox|locr n-th clean]
->  [[Starship_TerminatorStarDrake.jpg]]
+> [!infobox|locr n-th clean
+>  [[Starship_TerminatorStarDrake.jpg]
 > 
 
 Tiny racer, **Tier** 1/4 

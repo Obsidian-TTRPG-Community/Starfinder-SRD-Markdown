@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 6
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Hazard Professional
-statblock: true
-Subtype: Emergency Workers
+statblock: true(Emergency Workers
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Hazard Professional

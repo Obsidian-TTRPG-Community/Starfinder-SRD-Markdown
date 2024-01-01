@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 1-4
 NoteType: Spell
 Precog: 
-School: transmutation (air) 
+
 tags: 
 Technomancer: 
 Witchwarper: 1-4

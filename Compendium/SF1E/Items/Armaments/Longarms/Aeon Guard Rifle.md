@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 10
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,38 +18,35 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Aeon Guard, Accelerator Rifle
 
 **Source**:: _Alien Archive pg. 7_  
-**Level**:: 7;
-**Price**:: 7,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d4 P; **Range**:: 60 ft.;
+**Level**:: 7
+**Price**:: 7500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d4 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 16 rounds; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Aeon Guard, Assault Rifle
 
 **Source**:: _Alien Archive pg. 7_  
-**Level**:: 3;
-**Price**:: 1,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 P; **Range**:: 80 ft.;
+**Level**:: 3
+**Price**:: 1400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 P; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 12 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: automatic
+**Bulk**:: 1**Special**:: automatic
 
 ## Aeon Guard, Rppr
 
 **Source**:: _Alien Archive pg. 7_  
-**Level**:: 10;
-**Price**:: 21,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d12 B; **Range**:: 100 ft.;
+**Level**:: 10
+**Price**:: 21000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d12 B; 
+**Range**:: 100 ft.
 **Critical**:: knockdown  
 **Capacity**:: 12 mini-rockets; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: —
+**Bulk**:: 2**Special**:: —

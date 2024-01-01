@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 8 / 11 / 14 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 ## Graviton, Greater
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 17;
-**Price**:: 251,000  
+**Level**:: 17
+**Price**:: 251000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d6 ;
+**Damage**:: +4d6 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —
@@ -27,10 +27,10 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
 **Level**:: 5
-**Price**:: 2,900  
+**Price**:: 2900  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d3 ;
+**Damage**:: +1d3 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —
@@ -38,11 +38,11 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 ## Graviton, Minor
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 8;
-**Price**:: 9,200  
+**Level**:: 8
+**Price**:: 9200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d6 ;
+**Damage**:: +1d6 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 ## Graviton, Lesser
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 11;
-**Price**:: 24,000  
+**Level**:: 11
+**Price**:: 24000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d6 ;
+**Damage**:: +2d6 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —
@@ -63,10 +63,10 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
 **Level**:: 14
-**Price**:: 69,800  
+**Price**:: 69800  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d6 ;
+**Damage**:: +3d6 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —
@@ -74,11 +74,11 @@ Graviton crystals accelerate the impact of a weapon, dealing extra damage and po
 ## Graviton, True
 
 **Source**:: _Starfinder Core Rulebook pg. 180_  
-**Level**:: 20;
-**Price**:: 727,100  
+**Level**:: 20
+**Price**:: 727100  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d6 ;
+**Damage**:: +6d6 
 **Critical**:: knockdown  
 **Bulk**:: —
 **Special**:: —

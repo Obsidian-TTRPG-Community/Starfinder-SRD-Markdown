@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 9 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Ribbon, Champion
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 19;
-**Price**:: 578,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d10 E & F;
+**Level**:: 19
+**Price**:: 578000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d10 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, professional (dancer), powered (capacity 20; usage 1)
@@ -31,10 +30,9 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 4
-**Price**:: 2,120  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & F;
+**Price**:: 2120  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, professional (dancer), powered (capacity 20; usage 1)
@@ -42,11 +40,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Ribbon, Professional
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 9;
-**Price**:: 13,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d10 E & F;
+**Level**:: 9
+**Price**:: 13600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d10 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, professional (dancer), powered (capacity 20; usage 1)
@@ -55,10 +52,9 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 14
-**Price**:: 74,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 E & F;
+**Price**:: 74100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 E & F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, professional (dancer), powered (capacity 20; usage 1)

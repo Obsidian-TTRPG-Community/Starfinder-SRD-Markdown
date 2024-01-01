@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 25
-Environment: any  
+Environment: any
 hp: 700
-modifier: 12
+Initmod: 12
 name: Rendalairn
 statblock: true
 tags: 
-Type: N Colossal construct (magical)  
+Type: N Colossal construct (magical)
 ---
 
 # Rendalairn

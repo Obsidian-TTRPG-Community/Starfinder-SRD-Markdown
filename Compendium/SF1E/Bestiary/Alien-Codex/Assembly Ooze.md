@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 1
-Environment: any urban  
+Environment: any urban
 hp: 17
-modifier: 4
+Initmod: 4
 name: Assembly Ooze
 statblock: true
 tags: 
-Type: N Medium ooze (technological)  
+Type: N Medium ooze (technological)
+combatType: expert
+alignment: N
+size: medium
+type(subtype): ooze(technological)
+environment: urban
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - manufactory(3-5)
+source: Alien Archive
 ---
 
 # Assembly Ooze
@@ -69,3 +82,4 @@ N Medium ooze (technological)
 **Disassemble (Ex)** As a full action, an assembly ooze can engulf an unattended piece of technological gear of no more than 5 bulk and with an item level no greater than its CR + 2 (3 for most assembly oozes) within reach of its pseudopod. Unless the object succeeds at a DC 12 Fortitude saving throw, the ooze moves into that object’s space and deconstructs it into its component parts. The assembly ooze gains a number of virtual UPBs equal to the gear’s price in credits. An assembly ooze can hold a maximum number of virtual UPBs equal to 100 × its Constitution modifier (400 for most assembly oozes). In addition, if an assembly ooze succeeds at a grapple combat maneuver against a creature with the technological subtype, that creature takes 1d6+1 acid damage. The assembly ooze gains 1 virtual UPB for every point of damage it deals in this way.
 
 ## Description
+

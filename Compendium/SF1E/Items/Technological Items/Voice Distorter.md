@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 55
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Voice Distorter
 
 **Source**:: _Character Operations Manual pg. 21_  
-**Level** 1;
+**Level**:: 1
 **Price**::  55  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

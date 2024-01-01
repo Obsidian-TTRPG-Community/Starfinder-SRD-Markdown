@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 1/2
-Environment: any land or underground (Castrovel)  
+Environment: any land or underground (Castrovel)
 hp: 12
-modifier: 2
+Initmod: 2
 name: Formian
 statblock: true
 tags: 
-Type: LN Small monstrous humanoid  
+Type: LN Small monstrous humanoid
+combatType: expert
+alignment: LN
+size: small
+type(subtype): monstrous humanoid(-)
+environment:
+  - lands
+  - underground
+climate: any
+planet: Castrovel
+organization:
+  - solitary
+  - work crew(6-12)
+  - band(3-15) + Formian Warrior(5-8)
+source: Alien Archive
 ---
 
 # Formian
@@ -18,7 +32,7 @@ Within a hive are castes specialized to particular tasks. The queen leads the hi
 
 Formians are most common on Castrovel. For millennia they sought to eradicate the lashunta, their traditional foes, but their queens now instead focus on adopting other species’ technology to industrialize their traditional hive societies.
 
-**Source**:: _Alien Archive pg. 50_
+**Source**:  _Alien Archive pg. 50_
 
 ## Formian Worker Cr 1/2
 
@@ -63,3 +77,5 @@ LN Small monstrous humanoid
 ## Description
 
 Formian workers are the backbone of hive labor and hatched in large clutches-many workers never gain a name beyond their number within the clutch. While strong, they typically flee combat unless ordered to fight. Formian warriors, by contrast, are fierce sterile females, each with a stronger individual identity to allow for more effective battle tactics. This individualism makes warriors more likely to chafe under strict hive hierarchies, and these are the formians most likely to set out on their own.
+
+

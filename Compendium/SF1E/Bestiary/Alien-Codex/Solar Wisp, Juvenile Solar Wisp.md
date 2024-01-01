@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 5
-Environment: temperate or warm land or vacuum  
+Environment: temperate or warm land or vacuum
 hp: 63
-modifier: 5
+Initmod: 5
 name: Solar Wisp, Juvenile Solar Wisp
 statblock: true
 tags: 
-Type: N Huge outsider (air, elemental, fire, native)  
+Type: N Huge outsider (air, elemental, fire, native)
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): outsider(['air', 'elemental', 'fire', 'native'])
+environment:
+  - lands
+  - vacuum
+climate:
+  - temperate
+  - warm
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Solar Wisp, Juvenile Solar Wisp
@@ -25,7 +39,7 @@ Though it has a life span measured in centuries—and sometimes multiple thousan
 In their travels, solar wisps sometimes shed portions of themselves, which cool rapidly into a glittering stream of beautiful bright-orange jewels called photino crystals that are used throughout the Pact Worlds (and beyond) as naturally occurring solarian weapon crystals. A few small starship crews make a dangerous living by following wisps— at a great distance—and waiting for this molting, scooping up the resulting jewels until their cargo holds are full, and then returning to a safer location to sort them by quality. Despite the danger inherent in collecting the gems, these solarian weapon crystals are widely available, especially in the sun’s Burning Archipelago in the Pact Worlds; aboard the kasathan worldship the _Idari_; and in Fullbright, Verces’s scorched, sun-facing hemisphere.
 
 
-**Source**:: _Alien Archive 2 pg. 116_
+**Source**:  _Alien Archive 2 pg. 116_
 
 ## Juvenile Solar Wisp Cr 5
 
@@ -62,3 +76,5 @@ N Huge outsider (air, elemental, fire, native)
 ### Special Abilities
 
 **Aglow (Ex)** A solar wisp increases the light level by one step out to a radius of 10 feet × half the solar wisp’s CR.
+
+

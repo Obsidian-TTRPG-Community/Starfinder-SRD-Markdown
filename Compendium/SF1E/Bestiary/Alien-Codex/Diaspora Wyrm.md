@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: cold aquatic (Diaspora)  
+Environment: cold aquatic (Diaspora)
 hp: 125
-modifier: 6
+Initmod: 6
 name: Diaspora Wyrm
 statblock: true
 tags: 
-Type: N Large magical beast (aquatic)  
+Type: N Large magical beast (aquatic)
 ---
 
 # Diaspora Wyrm
@@ -24,7 +24,7 @@ Wyrms that attack the settlements inside the planet’s ice shell are usually yo
 
 ## Diaspora Wyrm
 
-**Source**:: _Alien Archive 3 pg. 16_
+**Source**:  _Alien Archive 3 pg. 16_
 
 ## Diaspora Wyrm Cr 8
 

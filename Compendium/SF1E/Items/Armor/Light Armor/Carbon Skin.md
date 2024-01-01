@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 10 / 15 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ Though these suits of light armor appear to be made of stiff fabric, they are ac
 ## Carbon Skin, Diamond
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 15;
-**Price**:: 126,400; **Category** Light  
-**EAC Bonus** +17; **KAC Bonus** +19; **Max. Dex Bonus** +7  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: 1
+**Level**:: 15
+**Price**:: 126400 
+**Category**:: Light  
+
+**EAC**:: +17 
+**KAC**:: +19 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: 1
 
 ## Carbon Skin, Graphite
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 3;
-**Price**:: 1,220; **Category** Light  
-**EAC Bonus** +3; **KAC Bonus** +4; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Level**:: 3
+**Price**:: 1220 
+**Category**:: Light  
+
+**EAC**:: +3 
+**KAC**:: +4 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ## Carbon Skin, White Carbon
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 10;
-**Price**:: 19,650; **Category** Light  
-**EAC Bonus** +12; **KAC Bonus** +14; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Level**:: 10
+**Price**:: 19650 
+**Category**:: Light  
+
+**EAC**:: +12 
+**KAC**:: +14 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## Carbon Skin, Nanotube
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 20;
-**Price**:: 825,000; **Category** Light  
-**EAC Bonus** +21; **KAC Bonus** +23; **Max. Dex Bonus** +8  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 6; **Bulk**:: 1
+**Level**:: 20
+**Price**:: 825000 
+**Category**:: Light  
+
+**EAC**:: +21 
+**KAC**:: +23 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 6 
+**Bulk**:: 1

@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 19
-Type: Supercolossal base ship
+type: Supercolossal base ship
 ---
 
 # Merciless Blade

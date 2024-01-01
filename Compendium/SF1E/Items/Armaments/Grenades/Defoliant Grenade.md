@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 7 / 12
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ Banned on some worlds, such as Ghorus Prime, these grenades selectively destroy 
 **Price**:: 75  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Banned on some worlds, such as Ghorus Prime, these grenades selectively destroy 
 **Price**:: 320  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Banned on some worlds, such as Ghorus Prime, these grenades selectively destroy 
 ## Defoliant Grenade, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 7;
+**Level**:: 7
 **Price**:: 850  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -53,10 +56,11 @@ Banned on some worlds, such as Ghorus Prime, these grenades selectively destroy 
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
 **Level**:: 12
-**Price**:: 4,800  
+**Price**:: 4800  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

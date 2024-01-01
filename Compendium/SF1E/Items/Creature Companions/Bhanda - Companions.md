@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 4-11
+
 Type: Small magical beast   
 ---
 # BHANDA - COMPANIONS
@@ -10,7 +10,8 @@ Type: Small magical beast
 **Source**:: _Galaxy Exploration Manual pg. 67_  
 Bhandas are slender, pale, lemur-like creatures that mimic the hunting cry of a winged apex predator to flush out prey.
 
-## BHANDALEVELS 4-11
+## BHANDA
+level:: 4-11
 
 Small magical beast  
 **Senses** darkvision 60 ft., low-light vision  

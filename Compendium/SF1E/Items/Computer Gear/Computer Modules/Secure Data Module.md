@@ -1,8 +1,8 @@
 ---
 aliases: 
 Category: Module
-Level: 
-price: 
+
+price: varies
 tags: 
 Type: Computer Gear
 ---

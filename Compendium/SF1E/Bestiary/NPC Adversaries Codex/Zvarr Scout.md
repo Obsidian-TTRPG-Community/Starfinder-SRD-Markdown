@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Zvarr Scout
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Zvarr Scout

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 3
-Type: Small light freighter
+type: Small light freighter
 ---
 
 # Multifold G7 Autohauler
 
-> [!infobox|locr n-th clean]
->  [[Starship_MutlifoldAutohauler.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_MutlifoldAutohauler.jpg|Spielern zeigen!]
 > 
 
 Small light freighter, **Tier** 3 

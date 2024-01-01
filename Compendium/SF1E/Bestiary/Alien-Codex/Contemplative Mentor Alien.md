@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 18
-Environment: any urban (Akiton)  
+Environment: any urban (Akiton)
 hp: 290
-modifier: 3
+Initmod: 3
 name: Contemplative Mentor (Alien)
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: urban
+climate: any
+planet: Akiton
+organization:
+  - solitary
+  - pair
+source: Alien Archive
 ---
 
 # Contemplative Mentor (ALIEN)
@@ -22,7 +33,7 @@ Contemplatives are able to speak, though their voices are reedy and soft. Most c
 
 Despite their frail appearance, contemplatives are able to survive in unforgiving environments. They find indoor sites far more comfortable, however especially areas that are cool and still, as these conditions facilitate their concentration. When contemplatives do build their own communities, the structures are often windowless and difficult to navigate for those unable to fly.
 
-**Source**:: _Alien Archive pg. 28_
+**Source**:  _Alien Archive pg. 28_
 
 ## Contemplative Mentor Cr 18
 
@@ -75,3 +86,7 @@ At will—_mindlink_, _telepathic bond_
 
 The following extra content was found for this creature:  
 \- Contemplative Race Entry
+
+
+
+

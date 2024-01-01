@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: Large destroyer
+type: Large destroyer
 ---
 
 # Uie Hiveguard
 
-> [!infobox|locr n-th clean]
->  [[Starship_UIEHiveguard.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UIEHiveguard.jpg|Spielern zeigen!]
 > 
 Large destroyer, **Tier** 6 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 1  

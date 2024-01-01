@@ -3,11 +3,11 @@ aliases:
 cr: 6
 Environment: any
 hp: 80
-modifier: 5
+Initmod: 5
 name: Rogue Drone, Rogue Hover Drone
 statblock: true
 tags: 
-Type: N Tiny construct (technological)  
+Type: N Tiny construct (technological)
 ---
 
 # Rogue Drone, Rogue Hover Drone
@@ -28,7 +28,7 @@ As with a player building a mechanic’s drone, you must take into account all o
 
 Like other NPCs, a rogue drone adds its level to all damage it deals with weapons.
 
-**Source**:: _Alien Archive 3 pg. 88_
+**Source**:  _Alien Archive 3 pg. 88_
 
 ## Rogue Hover Drone Cr 6
 

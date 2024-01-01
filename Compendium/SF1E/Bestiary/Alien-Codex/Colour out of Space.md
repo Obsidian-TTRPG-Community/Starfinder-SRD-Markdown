@@ -3,16 +3,26 @@ aliases:
 cr: 10
 Environment: any
 hp: 140
-modifier: 8
+Initmod: 8
 name: Colour out of Space
 statblock: true
 tags: 
-Type: CN Huge ooze (incorporeal)  
+Type: CN Huge ooze (incorporeal)
+combatType: expert
+alignment: CN
+size: huge
+type(subtype): ooze(incorporeal)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Colour out of Space
 
-**Source**:: _Alien Archive 2 pg. 28_
+**Source**:  _Alien Archive 2 pg. 28_
 
 ## Colour out of Space Cr 10
 
@@ -73,3 +83,5 @@ The energies Drift engines exude can nourish a colour out of space. Scholars are
 
 The following extra content was found for this creature:  
 \- Colour-Blighted (Colour out of Space) Graft Template
+
+

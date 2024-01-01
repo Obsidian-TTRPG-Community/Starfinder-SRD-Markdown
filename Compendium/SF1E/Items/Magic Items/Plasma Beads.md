@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 9 / 12
+
 price: 
 tags: 
 Type: Magic Item
@@ -15,19 +15,22 @@ These four spherical beads strung with a cord emit a slight fiery glow from the 
 ## Plasma Beads, Mk 1
 
 **Source**:: _Starfinder Armory pg. 115_  
-**Level** 6;
-**Price**::  4,200; **Bulk** —
+**Level**:: 6
+**Price**::  4200 
+**Bulk**:: —
 
 ---
 
 ## Plasma Beads, Mk 2
 
 **Source**:: _Starfinder Armory pg. 115_  
-**Level** 9;
-**Price**::  12,500; **Bulk** —
+**Level**:: 9
+**Price**::  12500 
+**Bulk**:: —
 
 ## Plasma Beads, Mk 3
 
 **Source**:: _Starfinder Armory pg. 115_  
-**Level** 12;
-**Price**::  37,500; **Bulk** —
+**Level**:: 12
+**Price**::  37500 
+**Bulk**:: —

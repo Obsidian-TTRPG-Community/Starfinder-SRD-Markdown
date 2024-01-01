@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 11
 hp: 155
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Scholar Of Magic
-statblock: true
-Subtype: Scholars
+statblock: true(Scholars
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Scholar of Magic

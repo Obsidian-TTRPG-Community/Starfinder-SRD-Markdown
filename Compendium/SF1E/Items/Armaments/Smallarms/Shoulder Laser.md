@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Shoulder Laser, Aphelion
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 13;
-**Price**:: 51,500  
+**Level**:: 13
+**Price**:: 51500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 F; **Range**:: 40 ft.;
+**Damage**:: 2d8 F; 
+**Range**:: 40 ft.
 **Critical**:: burn 2d6  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -33,11 +34,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Shoulder Laser, Azimuth
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 870  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d3 F; **Range**:: 40 ft.;
+**Damage**:: 1d3 F; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Shoulder Laser, Corona
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 8;
-**Price**:: 9,700  
+**Level**:: 8
+**Price**:: 9700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 F; **Range**:: 40 ft.;
+**Damage**:: 1d8 F; 
+**Range**:: 40 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Shoulder Laser, Perihelion
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 18;
-**Price**:: 383,000  
+**Level**:: 18
+**Price**:: 383000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d8 F; **Range**:: 40 ft.;
+**Damage**:: 3d8 F; 
+**Range**:: 40 ft.
 **Critical**:: burn 3d6  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L

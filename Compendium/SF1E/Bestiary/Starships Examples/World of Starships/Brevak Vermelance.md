@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: Large vermelith
+type: Large vermelith
 ---
 
 # Brevak Vermelance
 
-> [!infobox|locr n-th clean]
->  [[Starship_BrevakVermelance.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_BrevakVermelance.jpg|Spielern zeigen!]
 > 
 Large vermelith, **Tier** 10 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 2  

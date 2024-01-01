@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 11 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,35 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Autobeam Rifle, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 15;
-**Price**:: 95,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d4 F; **Range**:: 60 ft.;
+**Level**:: 15
+**Price**:: 95500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d4 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 3d4  
 **Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Autobeam Rifle, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 11;
-**Price**:: 26,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d4 F; **Range**:: 60 ft.;
+**Level**:: 11
+**Price**:: 26900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d4 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Autobeam Rifle, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 19;
-**Price**:: 548,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 12d4 F; **Range**:: 60 ft.;
+**Level**:: 19
+**Price**:: 548100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 12d4 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 5d4  
 **Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic

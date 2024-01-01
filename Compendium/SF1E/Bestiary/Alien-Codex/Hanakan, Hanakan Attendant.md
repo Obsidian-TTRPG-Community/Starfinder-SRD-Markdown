@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any (Ash’Akan)  
+Environment: any (Ash’Akan)
 hp: 13
-modifier: 1
+Initmod: 1
 name: Hanakan, Hanakan Attendant
 statblock: true
 tags: 
-Type: N Small magical beast  
+Type: N Small magical beast
 ---
 
 # Hanakan, Hanakan Attendant
@@ -26,7 +26,7 @@ Hanakans are rarely found in the Pact Worlds, largely due to their disdain for t
 
 The average hanakan stands 2-1/12 feet tall at the shoulder, measures 4 feet long from nose to tail, and weighs around 25 pounds.
 
-**Source**:: _Alien Archive 3 pg. 48_
+**Source**:  _Alien Archive 3 pg. 48_
 
 ## Hanakan Attendant Cr 1
 

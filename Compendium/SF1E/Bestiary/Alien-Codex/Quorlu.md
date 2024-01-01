@@ -3,11 +3,24 @@ aliases:
 cr: 2
 Environment: any
 hp: 23
-modifier: 0
+Initmod: 0
 name: Quorlu
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
+combatType: expert
+alignment: N
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - team(3-5)
+source: Alien Archive 2
 ---
 
 # Quorlu
@@ -28,7 +41,7 @@ Quorlus can be found throughout the Pact Worlds. They have an enclave and diplom
 
 Quorlus have developed gauntlets that store and amplify ambient heat, unleashing it in hand-to-hand combat. Notorious for their use of these weapons, quorlu infiltrators and sappers also use heat-amp gauntlets to start fires to hinder their enemies.
 
-**Source**:: _Alien Archive 2 pg. 104_
+**Source**:  _Alien Archive 2 pg. 104_
 
 ## Quorlu Cr 2
 
@@ -74,3 +87,5 @@ N Medium monstrous humanoid
 **Susceptible to Cold (Ex)** When a quorlu takes cold damage, it becomes fatigued for 1 round. This effect doesn’t cause a fatigued quorlu to become exhausted.
 
 **Tunneler (Ex)** A quorlu can dig through soil at a rate of 5 feet per minute. A quorlu can use this ability combined with its internal heat to dig through stone at a rate of 1 foot per minute. When it digs, a quorlu can leave a tunnel behind.
+
+

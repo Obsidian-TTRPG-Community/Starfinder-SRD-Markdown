@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 18
-Environment: any sky (gas giant) or vacuum  
+Environment: any sky (gas giant) or vacuum
 hp: 415
-modifier: 0
+Initmod: 0
 name: Shipkiller Bulb
 statblock: true
 tags: 
-Type: N Gargantuan plant  
+Type: N Gargantuan plant
 ---
 
 # Shipkiller Bulb
 
-**Source**:: _Alien Archive 4 pg. 108_
+**Source**:  _Alien Archive 4 pg. 108_
 
 ## Shipkiller Bulb Cr 18
 

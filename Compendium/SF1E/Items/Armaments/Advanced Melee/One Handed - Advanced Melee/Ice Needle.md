@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 5 / 10 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Ice Needle, Artifice
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 10;
-**Price**:: 18,400  
+**Level**:: 10
+**Price**:: 18400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 C & p;
+**Damage**:: 4d6 C & p
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: conceal, injection, powered (capacity 40; usage 4)
@@ -34,7 +34,7 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 **Price**:: 330  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 C & p;
+**Damage**:: 1d4 C & p
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: conceal, injection, powered (capacity 20; usage 4)
@@ -43,10 +43,10 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 5
-**Price**:: 3,140  
+**Price**:: 3140  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C & p;
+**Damage**:: 1d6 C & p
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: conceal, injection, powered (capacity 40; usage 4)
@@ -55,10 +55,10 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 14
-**Price**:: 74,100  
+**Price**:: 74100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d6 C & p;
+**Damage**:: 7d6 C & p
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: conceal, injection, powered (capacity 40; usage 4)
@@ -66,11 +66,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Ice Needle, Subterfuge
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 18;
-**Price**:: 384,000  
+**Level**:: 18
+**Price**:: 384000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 13d6 C & p;
+**Damage**:: 13d6 C & p
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: conceal, injection, powered (capacity 80; usage 4)

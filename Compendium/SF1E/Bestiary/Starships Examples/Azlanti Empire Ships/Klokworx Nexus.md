@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Gargantuan Carrier
+type: Gargantuan Carrier
 ---
 
 # Klokworx Nexus

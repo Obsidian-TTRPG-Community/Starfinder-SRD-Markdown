@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 17 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,37 +21,43 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 38_  
 **Level**:: 4
-**Price**:: 2,150  
-**Hands**:: 2;
+**Price**:: 2150  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 F; **Range**:: 30 ft.;
+**Damage**:: 1d8 F 
+**Range**:: 30 ft.
 **Critical**:: irradiate  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, radioactive, unwieldy
 
 ## Radcannon, Neutron
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 10;
-**Price**:: 18,700  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 18700  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d6 F; **Range**:: 50 ft.;
+**Damage**:: 3d6 F 
+**Range**:: 50 ft.
 **Critical**:: irradiate  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, radioactive, unwieldy
 
 ## Radcannon, Rapid-decay
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 17;
-**Price**:: 264,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 264000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d8 F; **Range**:: 60 ft.;
+**Damage**:: 7d8 F 
+**Range**:: 60 ft.
 **Critical**:: irradiate  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: blast, radioactive, unwieldy

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 10 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,59 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Flare Rifle, Coruscator
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 10;
-**Price**:: 15,700  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d4 F; **Range**:: 80 ft.;
+**Level**:: 10
+**Price**:: 15700  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d4 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 2d6  
 **Capacity**:: 12 flares; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, bright, harrying
+**Bulk**:: 1**Special**:: analog, bright, harrying
 
 ## Flare Rifle, Dazzler
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 445  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 F; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 8 flares; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, bright, harrying
+**Bulk**:: 1**Special**:: analog, bright, harrying
 
 ## Flare Rifle, Vivifier
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 6;
-**Price**:: 3,600  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 F; **Range**:: 80 ft.;
+**Level**:: 6
+**Price**:: 3600  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 8 flares; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, bright, harrying
+**Bulk**:: 1**Special**:: analog, bright, harrying
 
 ## Flare Rifle, Scorcher
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 13;
-**Price**:: 43,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d4 F; **Range**:: 80 ft.;
+**Level**:: 13
+**Price**:: 43800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d4 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 3d6  
 **Capacity**:: 12 flares; **Usage** 3  
-**Bulk**:: 1;
-**Special**:: analog, bright, harrying
+**Bulk**:: 1**Special**:: analog, bright, harrying
 
 ## Flare Rifle, Nova
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 17;
-**Price**:: 201,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 12d4 F; **Range**:: 100 ft.;
+**Level**:: 17
+**Price**:: 201000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 12d4 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 4d6  
 **Capacity**:: 12 flares; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: analog, bright, harrying
+**Bulk**:: 1**Special**:: analog, bright, harrying

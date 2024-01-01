@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: Medium transport  
+type: Medium transport  
 ---
 
 # Inheritorworks Shieldcraft
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksShieldcraft.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksShieldcraft.jpg|Spielern zeigen!]
 > 
 Medium transport, **Tier** 8
 **Speed** 6; **Maneuverability** aerage (turn 2); **Drift** 1  

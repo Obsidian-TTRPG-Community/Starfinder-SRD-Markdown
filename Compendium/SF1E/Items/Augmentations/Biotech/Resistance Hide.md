@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 4 / 7 / 10 / 13 / 17
+Item:
 price:  
-System: Skin
+
 tags: 
 Type: Biotech
 ---
@@ -15,17 +15,18 @@ Your skin is reinforced with fur, scales, or other genetically engineered tissue
 | Model | Level | Price   | Resistance |
 |-------|-------|---------|------------|
 | Mk 1  | 2     | 700     | 2          |
-| Mk 2  | 4     | 1,900   | 4          |
-| Mk 3  | 7     | 5,890   | 6          |
-| Mk 4  | 10    | 17,000  | 8          |
-| Mk 5  | 13    | 46,350  | 10         |
-| Mk 6  | 17    | 230,850 | 12         |
+| Mk 2  | 4     | 1900   | 4          |
+| Mk 3  | 7     | 5890   | 6          |
+| Mk 4  | 10    | 17000  | 8          |
+| Mk 5  | 13    | 46350  | 10         |
+| Mk 6  | 17    | 230850 | 12         |
 
 ## Resistant Hide, Mk 1
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 2;
-**Price**::  700; **System** Skin  
+**Level**:: 2
+**Price**::  700 
+**System**:: Skin  
   
 
 ---
@@ -33,33 +34,38 @@ Your skin is reinforced with fur, scales, or other genetically engineered tissue
 ## Resistant Hide, Mk 2
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 4;
-**Price**::  1,900; **System** Skin  
+**Level**:: 4
+**Price**::  1900 
+**System**:: Skin  
   
 
 ## Resistant Hide, Mk 3
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 7;
-**Price**::  5,890; **System** Skin  
+**Level**:: 7
+**Price**::  5890 
+**System**:: Skin  
   
 
 ## Resistant Hide, Mk 4
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 10;
-**Price**::  17,000; **System** Skin  
+**Level**:: 10
+**Price**::  17000 
+**System**:: Skin  
   
 
 ## Resistant Hide, Mk 5
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 13;
-**Price**::  46,350; **System** Skin  
+**Level**:: 13
+**Price**::  46350 
+**System**:: Skin  
   
 
 ## Resistant Hide, Mk 6
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 17;
-**Price**::  230,850; **System** Skin
+**Level**:: 17
+**Price**::  230850 
+**System**:: Skin

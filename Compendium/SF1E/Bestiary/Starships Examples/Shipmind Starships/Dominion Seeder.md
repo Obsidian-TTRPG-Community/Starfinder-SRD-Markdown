@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Large destroyer  
+type: Large destroyer  
 ---
 
 # Dominion Seeder

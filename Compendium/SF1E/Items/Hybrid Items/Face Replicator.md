@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6  
-price: 4,250
+
+price: 4250
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Face Replicator
 
 **Source**:: _Galactic Magic pg. 45_  
-**Level** 6;
-**Price**::  4,250; **Bulk** 1
+**Level**:: 6
+**Price**::  4250 
+**Bulk**:: 1
 
 ### Description
 

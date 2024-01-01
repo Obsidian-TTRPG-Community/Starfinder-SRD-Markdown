@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 5
-Type: Small shuttle
+type: Small shuttle
 ---
 
 # Opulos Opulence
 
-> [!infobox|locr n-th clean]
->  [[Starship_OpulusOpulence.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_OpulusOpulence.jpg|Spielern zeigen!]
 > 
 Small shuttle, **Tier** 5 
 **Speed** 12; **Maneuverability** perfect (turn 0); **Drift** 3  

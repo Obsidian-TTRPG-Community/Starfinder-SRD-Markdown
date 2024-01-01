@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: N Small starship magical beast
+type: N Small starship magical beast
 ---
 
 # Voraija
 
-**Source**:: _Alien Archive 4 pg. 134_
+**Source**:  _Alien Archive 4 pg. 134_
 
 N Small starship magical beast, **Tier** 1/2 
 **Speed** 10; **Maneuverability** perfect (turn 0); **Drift** —  

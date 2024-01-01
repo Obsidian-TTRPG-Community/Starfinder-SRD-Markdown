@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 9 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,35 +18,29 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Burning Chains, Archdevil-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 16;
-**Price**:: 178,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d12 F;
+**Level**:: 16
+**Price**:: 178000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d12 F
 **Critical**:: fatigue  
-**Bulk**:: 2;
-**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip
 
 ## Burning Chains, Fiend-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 3;
-**Price**:: 1,450  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 F;
+**Level**:: 3
+**Price**:: 1450  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 F
 **Critical**:: fatigue  
-**Bulk**:: 2;
-**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip
 
 ## Burning Chains, Malebranche-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 9;
-**Price**:: 13,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 F;
+**Level**:: 9
+**Price**:: 13900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 F
 **Critical**:: fatigue  
-**Bulk**:: 2;
-**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, fueled (capacity 20; usage 1), reach, trip

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 16
-Type: Colossal dreadnought 
+type: Colossal dreadnought 
 ---
 
 # Vindicas Tyrant
 
-> [!infobox|locr n-th clean]
->  [[Starship_VindicasTyrant.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_VindicasTyrant.jpg|Spielern zeigen!]
 > 
 Colossal dreadnought, **Tier** 16 
 **Speed** 4; **Maneuverability** clumsy (turn 4); **Drift** 1  

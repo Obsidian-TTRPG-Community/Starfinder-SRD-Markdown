@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 11-20
+
 Type: Large plant  
 ---
 # IZHASH - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large plant
 **Source**:: _Galaxy Exploration Manual pg. 67_  
 Originating in the jungles of Ukulam on Castrovel, izhashes are fearsome ambush predators with sensitive feeler tendrils.
 
-## IZHASHLEVELS 11-20
+## IZHASH
+level:: 11-20
 
 Large plant  
 **Senses** blindsight (vibration) 60 ft., sightless  

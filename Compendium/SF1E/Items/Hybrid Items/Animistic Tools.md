@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -16,30 +16,33 @@ The model of the tools determines the number of rerolls per day and the time an 
 
 **Source**:: _Starfinder Armory pg. 120_  
 **Level**:: 3
-**Price**::  1,350; **Bulk** L
+**Price**::  1350 
+**Bulk**:: L
 
 ### Description
 
-One reroll; ignore the broken condition for 1 minute
+One reroll ignore the broken condition for 1 minute
 
 ---
 
 ## Animistic Tools, Mk 2
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 7;
-**Price**::  5,500; **Bulk** L
+**Level**:: 7
+**Price**::  5500 
+**Bulk**:: L
 
 ### Description
 
-Two rerolls; ignore the broken condition for 10 minutes
+Two rerolls ignore the broken condition for 10 minutes
 
 ##Animistic Tools, Mk 3
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 11;
-**Price**::  22,000; **Bulk** L
+**Level**:: 11
+**Price**::  22000 
+**Bulk**:: L
 
 ### Description
 
-Three rerolls; ignore the broken condition for 1 hour
+Three rerolls ignore the broken condition for 1 hour

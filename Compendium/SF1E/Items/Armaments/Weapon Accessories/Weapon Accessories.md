@@ -36,8 +36,8 @@ Weapon accessories must normally be added to a weapon to function. Most accessor
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Weapon Accessories"
+Level, WeaponTypes, Price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Weapon Accessories"
 SORT Level ASC
 WHERE file.name != "Weapon Accessories"
 ```

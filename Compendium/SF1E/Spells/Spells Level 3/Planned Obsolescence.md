@@ -3,11 +3,11 @@ aliases:
 Level: 3
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: transmutation 
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Planned Obsolescence

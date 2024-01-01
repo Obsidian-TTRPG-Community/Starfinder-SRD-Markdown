@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,47 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Arc Rifle, Aurora
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 11;
-**Price**:: 24,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d12 E; **Range**:: 70 ft.;
+**Level**:: 11
+**Price**:: 24500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d12 E; 
+**Range**:: 70 ft.
 **Critical**:: arc 2d6  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: stun
+**Bulk**:: 2**Special**:: stun
 
 ## Arc Rifle, Static
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 6;
-**Price**:: 4,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d12 E; **Range**:: 70 ft.;
+**Level**:: 6
+**Price**:: 4200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d12 E; 
+**Range**:: 70 ft.
 **Critical**:: arc 1d6  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: stun
+**Bulk**:: 2**Special**:: stun
 
 ## Arc Rifle, Storm
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 16;
-**Price**:: 190,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d12 E; **Range**:: 80 ft.;
+**Level**:: 16
+**Price**:: 190300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d12 E; 
+**Range**:: 80 ft.
 **Critical**:: arc 4d6  
 **Capacity**:: 80 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: stun
+**Bulk**:: 2**Special**:: stun
 
 ## Arc Rifle, Tempest
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 19;
-**Price**:: 622,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d12 E; **Range**:: 80 ft.;
+**Level**:: 19
+**Price**:: 622000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d12 E; 
+**Range**:: 80 ft.
 **Critical**:: arc 6d6  
 **Capacity**:: 100 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: stun
+**Bulk**:: 2**Special**:: stun

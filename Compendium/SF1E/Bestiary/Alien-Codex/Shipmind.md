@@ -1,18 +1,28 @@
 ---
 aliases: 
 cr: 13
-Environment: any (Dominion of the Black starships)  
+Environment: any (Dominion of the Black starships)
 hp: 225
-modifier: 6
+Initmod: 6
 name: Shipmind
 statblock: true
 tags: 
-Type: CE Huge ooze  
+Type: CE Huge ooze
+combatType: combatant
+alignment: CE
+size: huge
+type(subtype): ooze(-)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Shipmind
 
-**Source**:: _Alien Archive 2 pg. 112_
+**Source**:  _Alien Archive 2 pg. 112_
 
 ## Shipmind Cr 13
 
@@ -75,3 +85,5 @@ A shipmind has an intimate connection to its starship and can survive as long as
 Seeders are the most common large Dominion starships. Some are scouts or assault vessels with only a shipmind aboard, while others travel with a crew of other entities affiliated with the Dominion of the Black. These ships land on life-rich planets, unleashing Dominion-allied creatures to infest the region around the landing site, assimilating native organisms.
 
 If left alone planetside for too long, a Dominion seeder’s shipmind can quickly degenerate, causing the ship’s organic aspects to also decay. In about a decade, the ship rots into uselessness and the shipmind dies. During that time, the shipmind might leave of its own accord, or it might spend its remaining time brutally toying with any creature it can.
+
+

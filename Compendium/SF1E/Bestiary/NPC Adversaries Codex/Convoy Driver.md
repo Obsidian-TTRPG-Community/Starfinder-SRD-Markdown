@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 20
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Convoy Driver
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Convoy Driver

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 14 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,26 +15,47 @@ When deploying the claws, the wearer of vivisector or decapitator exochitin can 
 ## Exochitin, Decapitator
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level**:: 19;
-**Price**:: 585,000; **Category** Light  
-**EAC Bonus** +19; **KAC Bonus** +21; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 19
+**Price**:: 585000 
+**Category**:: Light  
+
+**EAC**:: +19 
+**KAC**:: +21 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Exochitin, Slicer
 
 **Source**:: _Tech Revolution pg. 52_  
 **Level**:: 4
-**Price**:: 2,100; **Category** Light  
-**EAC Bonus** +3; **KAC Bonus** +4; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Price**:: 2100 
+**Category**:: Light  
+
+**EAC**:: +3 
+**KAC**:: +4 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Exochitin, Vivisector
 
 **Source**:: _Tech Revolution pg. 52_  
 **Level**:: 14
-**Price**:: 75,500; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Price**:: 75500 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L

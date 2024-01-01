@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 13
-Type: Huge cruiser 
+type: Huge cruiser 
 ---
 
 # Idaran Saga
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranSaga.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranSaga.jpg|Spielern zeigen!]
 > 
 Huge cruiser, **Tier** 13 
 **Speed** 8; **Maneuverability** average (turn 3; **Drift** 1  

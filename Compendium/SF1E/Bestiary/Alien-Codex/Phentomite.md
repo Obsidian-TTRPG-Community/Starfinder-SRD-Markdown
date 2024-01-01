@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 1/2
-Environment: any (Orry)  
+Environment: any (Orry)
 hp: 12
-modifier: 3
+Initmod: 3
 name: Phentomite
 statblock: true
 tags: 
-Type: NG Medium humanoid (phentomite)  
+Type: NG Medium humanoid (phentomite)
+combatType: expert
+alignment: NG
+size: medium
+type(subtype): humanoid(phentomite)
+environment: any
+climate: any
+planet: Orry
+organization:
+  - solitary
+  - raft(2-5)
+source: Alien Archive 2
 ---
 
 # Phentomite
@@ -24,7 +35,7 @@ Travel between the floating islands is made possible by an elite class of phento
 
 The Pact Worlds only recently made contact with phentomites. AbadarCorp has constructed a small space station named Harmony-One that orbits Orry. Due to the gravitational anomaly at the heart of the cluster, landing starships on any of the Orry’s surfaces is incredibly hazardous. Orry’s trade partners have agreed to land offworld vessels only in a phentomitedesignated area outside of Zisfahani, Orry’s largest city. Travel to other landmasses must then proceed along terrestrial routes, with the aid of local phentomite bridgers.
 
-**Source**:: _Alien Archive 2 pg. 96_
+**Source**:  _Alien Archive 2 pg. 96_
 
 ## Phentomite Cr 1/2
 
@@ -63,3 +74,5 @@ NG Medium humanoid (phentomite)
 **Acclimated (Ex)** Phentomites are acclimated to thin atmospheres and high altitudes, and they count as Small creatures for the purpose of slow suffocation.
 
 **Heat Tracker (Ex)** As a full action, a phentomite can alter her vision to detect the latent heat trails left by passing creatures. This allows the phentomite to use the Perception skill to perform the follow tracks task of the Survival skill and also functions as the tracking universal creature rule. While this ability is active, the phentomite takes a –1 penalty to Reflex saving throws. The phentomite can deactivate this ability as a move action.
+
+

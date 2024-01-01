@@ -3,16 +3,27 @@ aliases:
 cr: 9
 Environment: any
 hp: 145
-modifier: 4
+Initmod: 4
 name: Elemental, Greater Elemental
 statblock: true
 tags: 
-Type: N Huge outsider (elemental, extraplanar)  
+Type: N Huge outsider (elemental, extraplanar)
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): outsider(['elemental', 'extraplanar'])
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Elemental, Greater Elemental
 
-**Source**:: _Alien Archive pg. 46_
+**Source**:  _Alien Archive pg. 46_
 
 ## Greater Elemental Cr 9
 
@@ -56,3 +67,5 @@ The following extra content was found for this creature:
 \- Magma Elemental (Elemental) Graft Template  
 
 Site Owner: Rose-Winds LLC (Blake Davis)
+
+

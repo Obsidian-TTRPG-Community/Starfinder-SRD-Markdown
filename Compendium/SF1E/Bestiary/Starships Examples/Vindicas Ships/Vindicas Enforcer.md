@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 12
-Type: Huge cruiser
+type: Huge cruiser
 ---
 
 # Vindicas Enforcer
 
-**Source**:: _Near Space pg. 122_  
+**Source**:  _Near Space pg. 122_  
 Huge cruiser, **Tier** 12 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** 2  
 **AC** 28; **TL** 27  

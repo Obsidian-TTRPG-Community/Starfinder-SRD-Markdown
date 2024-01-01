@@ -1,9 +1,9 @@
 ---
-name: Sonic Blast Trap
+name: Sonic Blast Trap---
 cr: 6
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 

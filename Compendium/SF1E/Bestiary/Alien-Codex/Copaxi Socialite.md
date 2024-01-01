@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any (Tabrid Minor)  
+Environment: any (Tabrid Minor)
 hp: 17
-modifier: 2
+Initmod: 2
 name: Copaxi, Socialite
 statblock: true
 tags: 
-Type: NG Medium humanoid (copaxi)  
+Type: NG Medium humanoid (copaxi)
 ---
 
 # Copaxi, Socialite
@@ -22,7 +22,7 @@ Copaxis have long enjoyed an affinity for solarian techniques, particularly mino
 
 A copaxi is a colony of individual, genetically identical polyps that have developed into an anthropomorphic form. Each polyp includes five feeding tentacles, about 2 inches long, that facilitate filter feeding. These polyps adapt and intertwine to form every part of a copaxi’s body. Their segmented, calcium-rich exoskeletons sometimes develop elaborate horns and head crests that serve as unique identifiers for a copaxi.
 
-**Source**:: _Alien Archive 4 pg. 22_
+**Source**:  _Alien Archive 4 pg. 22_
 
 ## Socialite Cr 1
 

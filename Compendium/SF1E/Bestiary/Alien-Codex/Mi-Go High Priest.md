@@ -3,11 +3,22 @@ aliases:
 cr: 11
 Environment: any
 hp: 155
-modifier: 3
+Initmod: 3
 name: Mi-Go, Mi-Go High Priest
 statblock: true
 tags: 
-Type: NE Medium plant  
+Type: NE Medium plant
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): plant(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive 2
 ---
 
 # Mi-go, Mi-go High Priest
@@ -20,7 +31,7 @@ Mi-go meld faith and science, magic and technology, and other themes together in
 
 Other minions of the Elder Mythos might be allies, but mi-go consider themselves to be superior to most living things. Gifted with supernatural skill in surgery and biotechnology, mi-go can rework the flesh of those they capture with precision, remaking their victims into forms more appropriate for servitude or for truly alien aesthetics. These alien fungi can also keep creatures alive through the most invasive surgical procedures, so those who fall prey to mi-go don’t retain their sanity for long. Using their technology and ability to squeeze into a tighter shape, mi-go construct cunning disguises, replacing those whose brains they’ve harvested in order to invade societies from within. Only the mi-go know the extent to which they’ve infiltrated societies throughout the galaxy. A mi-go is the size of a human but weighs only 90 pounds.
 
-**Source**:: _Alien Archive 2 pg. 82_
+**Source**:  _Alien Archive 2 pg. 82_
 
 ## Mi-go High Priest Cr 11
 
@@ -69,3 +80,5 @@ At will—_mindlink_, _telepathic bond_
 **Evisceration (Ex)** A mi-go is capable of performing swift surgical operations upon targets that are helpless or that the mi-go currently has grappled. Against such a target, any hit with the mi-go’s claw counts as a critical hit that has the severe wound critical hit effect with a save DC of 20. If the mi-go actually scores a critical hit against such a target, the mi-go rolls the damage three times instead of twice, and the save DC increases to 22.
 
 **Mi-Go Technology (Ex)** Mi-go use Life Science in place of Engineering to craft technological and hybrid items. These are technological or hybrid biotech items that work like their typical counterparts, except that Life Science is also used to repair them. Species other than mi-go can use Engineering or Life Science to identify this gear, which is alien tech.
+
+

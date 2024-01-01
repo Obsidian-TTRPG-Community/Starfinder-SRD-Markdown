@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/3
-Type: Tiny interceptor
+type: Tiny interceptor
 ---
 
 # Inheritorworks Truestrike
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksTruestrike.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksTruestrike.jpg|Spielern zeigen!]
 > 
 
 Tiny interceptor, **Tier**  1/3

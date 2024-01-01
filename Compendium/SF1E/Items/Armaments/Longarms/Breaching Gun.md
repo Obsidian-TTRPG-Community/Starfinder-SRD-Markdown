@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 7 / 11 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,64 +18,59 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Breaching Gun, Grapeshot
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 19;
-**Price**:: 509,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 10d10 P; **Range**:: 30 ft.;
+**Level**:: 19
+**Price**:: 509000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 10d10 P; 
+**Range**:: 30 ft.
 **Critical**:: knockdown  
 **Capacity**:: 20 shells; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, breach, penetrating
+**Bulk**:: 1**Special**:: analog, breach, penetrating
 
 ## Breaching Gun, Utility
 
 **Source**:: _Starfinder Armory pg. 43_  
 **Level**:: 4
-**Price**:: 2,350  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 P; **Range**:: 20 ft.;
+**Price**:: 2350  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 P; 
+**Range**:: 20 ft.
 **Critical**:: knockdown  
 **Capacity**:: 4 shells; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, breach, penetrating
+**Bulk**:: 1**Special**:: analog, breach, penetrating
 
 ## Breaching Gun, Snub
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 7;
-**Price**:: 6,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 P; **Range**:: 20 ft.;
+**Level**:: 7
+**Price**:: 6800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 P; 
+**Range**:: 20 ft.
 **Critical**:: knockdown  
 **Capacity**:: 8 shells; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, breach, penetrating
+**Bulk**:: 1**Special**:: analog, breach, penetrating
 
 ## Breaching Gun, Impact
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 11;
-**Price**:: 25,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 P; **Range**:: 30 ft.;
+**Level**:: 11
+**Price**:: 25300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 P; 
+**Range**:: 30 ft.
 **Critical**:: knockdown  
 **Capacity**:: 12 shells; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, breach, penetrating
+**Bulk**:: 1**Special**:: analog, breach, penetrating
 
 ## Breaching Gun, Vortex
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 15;
-**Price**:: 119,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 P; **Range**:: 30 ft.;
+**Level**:: 15
+**Price**:: 119000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 P; 
+**Range**:: 30 ft.
 **Critical**:: knockdown  
 **Capacity**:: 16 shells; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, breach, penetrating
+**Bulk**:: 1**Special**:: analog, breach, penetrating

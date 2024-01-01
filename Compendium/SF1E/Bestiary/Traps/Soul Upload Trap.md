@@ -1,9 +1,9 @@
 ---
-name: Soul Upload Trap
+name: Soul Upload Trap---
 cr: 17
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 413_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

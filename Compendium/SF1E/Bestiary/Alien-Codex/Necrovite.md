@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 13
-Environment: any (Eox)  
+Environment: any (Eox)
 hp: 186
-modifier: 3
+Initmod: 3
 name: Necrovite
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet: Eox
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Necrovite
@@ -81,3 +91,5 @@ The _Eoxian wrackstaff_ is a hybrid weapon that can trace its history back to th
 
 The following extra content was found for this creature:  
 \- Necrovite (Other) Graft Template
+
+

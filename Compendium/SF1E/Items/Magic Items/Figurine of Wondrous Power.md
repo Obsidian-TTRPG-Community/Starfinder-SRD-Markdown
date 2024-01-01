@@ -1,6 +1,5 @@
 ---
 aliases: 
-Level: 3 / 5 / 6 /8 / 11 / 14 / 15 / 18
 price: 
 tags: 
 Type: Magic Item
@@ -13,33 +12,24 @@ If you are within 30 feet of the creature when it returns to figurine form, the 
   
 A _figurine of wondrous power_ becomes nonmagical if broken, losing its power to transform into a creature.  
 
-## Figurine of Wondrous Power, Bloodstone Bloodbrother
-
-**Source**:: _Starfinder Armory pg. 113_  
-**Level** 13;
-**Price**::  48,000; **Bulk** —
-
-### Description
-
-This figure of green stone mottled with red flecks can change into a bloodbrother. The bloodbrother starts with no creature in its rib cage prison and can’t deal Constitution damage, so it lacks fast healing. If the bloodbrother reverts to figurine form while a victim is in the bloodbrother’s rib cage prison, the victim is released in the bloodbrother’s space.
-
----
 
 ## Figurine of Wondrous Power, Plush Squox
 
 **Source**:: _Galactic Magic pg. 49_  
 **Level**:: 3
-**Price**::  1,500; **Bulk** L
+**Price**::  1500 
+**Bulk**:: L
 
 ### Description
 
-This stuffed toy can turn into a trained squox (Alien Archive 2 118). Unlike most figurines of wondrous power, the figurine can transform into a squox for a total of 10 minutes per day, though the duration need not be used continuously and is expended in 1-minute increments. Wounds and damage received by the squox in its animate form translate to its figurine form when it reverts; if it dies, the plush figure appears torn and without stuffing. The plush squox does not heal in 24 hours as usual—you must repair the figurine using Engineering or an appropriate profession.
+This stuffed toy can turn into a trained squox (Alien Archive 2 118). Unlike most figurines of wondrous power, the figurine can transform into a squox for a total of 10 minutes per day, though the duration need not be used continuously and is expended in 1-minute increments. Wounds and damage received by the squox in its animate form translate to its figurine form when it reverts if it dies, the plush figure appears torn and without stuffing. The plush squox does not heal in 24 hours as usual—you must repair the figurine using Engineering or an appropriate profession.
 
 ## Figurine of Wondrous Power, Obsidian Electrovore
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 5;
-**Price**::  3,000; **Bulk** —
+**Level**:: 5
+**Price**::  3000 
+**Bulk**:: —
 
 ### Description
 
@@ -48,8 +38,9 @@ This statuette of obsidian can change into an electrovore. The electrovore has o
 ## Figurine of Wondrous Power, Polymer Velociraptor
 
 **Source**:: _Galactic Magic pg. 49_  
-**Level** 6;
-**Price**::  4,250; **Bulk** —
+**Level**:: 6
+**Price**::  4250 
+**Bulk**:: —
 
 ### Description
 
@@ -58,8 +49,9 @@ This plastic miniature, though expertly painted and shaded with acrylics to look
 ## Figurine of Wondrous Power, Bone Crest-eater
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 8;
-**Price**::  9,000; **Bulk** —
+**Level**:: 8
+**Price**::  9000 
+**Bulk**:: —
 
 ### Description
 
@@ -68,18 +60,33 @@ This bone statuette can change into a crest-eater. The creature prefers to remai
 ## Figurine of Wondrous Power, Titanium Hashukayak
 
 **Source**:: _Galactic Magic pg. 49_  
-**Level** 11;
-**Price**::  25,000; **Bulk** —
+**Level**:: 11
+**Price**::  25000 
+**Bulk**:: —
 
 ### Description
 
 This crude statue of milky‑gray metal can transform into your choice of a male or female hashukayak (Alien Archive 2 72), chosen when you activate the item. It’s agreeable and allows other creatures to ride it.
 
+## Figurine of Wondrous Power, Bloodstone Bloodbrother
+
+**Source**:: _Starfinder Armory pg. 113_  
+**Level**:: 13
+**Price**::  48000 
+**Bulk**:: —
+
+### Description
+
+This figure of green stone mottled with red flecks can change into a bloodbrother. The bloodbrother starts with no creature in its rib cage prison and can’t deal Constitution damage, so it lacks fast healing. If the bloodbrother reverts to figurine form while a victim is in the bloodbrother’s rib cage prison, the victim is released in the bloodbrother’s space.
+
+---
+
 ## Figurine of Wondrous Power, Diamond Laser Wolf
 
 **Source**:: _Galactic Magic pg. 49_  
-**Level** 14;
-**Price**::  65,500; **Bulk** —
+**Level**:: 14
+**Price**::  65500 
+**Bulk**:: —
 
 ### Description
 
@@ -88,8 +95,9 @@ Beautiful and expensivelooking, this canid statue transforms into a tashtari alp
 ## Figurine of Wondrous Power, Plastic Sharpwing
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 15;
-**Price**::  100,000; **Bulk** —
+**Level**:: 15
+**Price**::  100000 
+**Bulk**:: —
 
 ### Description
 

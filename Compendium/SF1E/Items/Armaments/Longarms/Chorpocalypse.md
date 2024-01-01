@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,63 +19,58 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 14
-**Price**:: 72,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d8 So; **Range**:: 30 ft.;
+**Price**:: 72000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d8 So; 
+**Range**:: 30 ft.
 **Critical**:: Deafen  
 **Capacity**:: 40 charges ; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost (2d6), polarize (2d6), professional (musician)
+**Bulk**:: 1**Special**:: Boost (2d6), polarize (2d6), professional (musician)
 
 ## Chordpocalypse, Thunderstrike
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 765  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 So; **Range**:: 30 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 So; 
+**Range**:: 30 ft.
 **Critical**:: Deafen  
 **Capacity**:: 20 charges ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Boost (1d4), polarize (1d4), professional (musician)
+**Bulk**:: 1**Special**:: Boost (1d4), polarize (1d4), professional (musician)
 
 ## Chordpocalypse, Shattering
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 6;
-**Price**:: 4,280  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 So; **Range**:: 30 ft.;
+**Level**:: 6
+**Price**:: 4280  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 So; 
+**Range**:: 30 ft.
 **Critical**:: Deafen  
 **Capacity**:: 20 charges ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Boost (1d6), polarize (1d6), professional (musician)
+**Bulk**:: 1**Special**:: Boost (1d6), polarize (1d6), professional (musician)
 
 ## Chordpocalypse, Psychedelic
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 10;
-**Price**:: 18,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 So; **Range**:: 30 ft.;
+**Level**:: 10
+**Price**:: 18400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 So; 
+**Range**:: 30 ft.
 **Critical**:: Deafen  
 **Capacity**:: 40 charges ; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost (1d8), polarize (1d8), professional (musician)
+**Bulk**:: 1**Special**:: Boost (1d8), polarize (1d8), professional (musician)
 
 ## Chordpocalypse, Transcendent
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 18;
-**Price**:: 372,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d8 So; **Range**:: 40 ft.;
+**Level**:: 18
+**Price**:: 372000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d8 So; 
+**Range**:: 40 ft.
 **Critical**:: Deafen  
 **Capacity**:: 80 charges ; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost (2d8), polarize (2d8), professional (musician)
+**Bulk**:: 1**Special**:: Boost (2d8), polarize (2d8), professional (musician)

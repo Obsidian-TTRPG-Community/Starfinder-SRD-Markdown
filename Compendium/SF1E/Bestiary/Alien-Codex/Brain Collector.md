@@ -3,11 +3,11 @@ aliases:
 cr: 8
 Environment: any
 hp: 105
-modifier: 2
+Initmod: 2
 name: Brain Collector
 statblock: true
 tags: 
-Type: CE Large aberration  
+Type: CE Large aberration
 ---
 
 # Brain Collector

@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/4
-Type: Small shuttle  
+type: Small shuttle  
 ---
 
 # Ringworks Wanderer
 
-> [!infobox|locr n-th clean]
->  [[Starship_RingworksWanderer.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_RingworksWanderer.jpg|Spielern zeigen!]
 > 
 Small shuttle, **Tier** 1/4 
 **Speed** 6; **Maneuverability** perfect (turn 0); **Drift** —  

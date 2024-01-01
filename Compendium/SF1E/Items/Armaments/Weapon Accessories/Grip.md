@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 7
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,9 +14,10 @@ Weapons can be fitted with special grips that provide various advantages. You ca
 ## Grip, Blur (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 7;
-**Price**::  5,400; **Bulk** L  
-**Weapon Types** melee weapon, small arm
+**Level**:: 7
+**Price**::  5400 
+**Bulk**:: L  
+**WeaponTypes**:: melee weapon, small arm
 
 ### Description
 
@@ -25,9 +26,10 @@ A _blur grip_ consists of microcircuitry embedded inside the padded grip of a 
 ## Grip, Folding
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 2;
-**Price**::  600; **Bulk** L  
-**Weapon Types** small arm
+**Level**:: 2
+**Price**::  600 
+**Bulk**:: L  
+**WeaponTypes**:: small arm
 
 ### Description
 
@@ -36,9 +38,10 @@ Only small arms can have a folding grip, and it must be integrated with the weap
 ## Grip, Nanofiber
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 2;
-**Price**::  750; **Bulk** L  
-**Weapon Types** any
+**Level**:: 2
+**Price**::  750 
+**Bulk**:: L  
+**WeaponTypes**:: any
 
 ### Description
 
@@ -47,9 +50,10 @@ A nanofiber grip strengthens your hold on a weapon. While you wield the weapon, 
 ## Grip, Null-space (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 6;
-**Price**::  4,250; **Bulk** L  
-**Weapon Types** melee weapon, small arm
+**Level**:: 6
+**Price**::  4250 
+**Bulk**:: L  
+**WeaponTypes**:: melee weapon, small arm
 
 ### Description
 

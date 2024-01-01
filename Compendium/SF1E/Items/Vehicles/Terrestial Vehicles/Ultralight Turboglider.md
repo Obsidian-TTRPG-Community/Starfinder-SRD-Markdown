@@ -1,23 +1,29 @@
 ---
 aliases: 
-ItemLevel: 3
-NoteType: Terrestial Vehicles
-price: 3,170
+Item:
+NoteType: Terrestrial Vehicles
+price: 3170
 tags: 
 ---
 
 # Ultralight Turboglider
 
 **Source**:: _Starfinder Armory pg. 139_
-**Item Level** 3;
-**Price**::  3,170  
+**Level**:: 3
+**Price**::  3170  
 Large air vehicle (10 ft. wide, 5 ft. long, 3 ft. high)  
-**Speed** 20 ft., full 350 ft., 40 mph (fly)  
-**EAC** 10; **KAC** 11; **Cover** none  
-**HP** 43 (21); **Hardness** 4  
+**Speed**:: 20 ft., full 350 ft., 40 mph (fly)  
+
+**EAC**:: 10; 
+**KAC**:: 11; 
+**Cover**:: none  
+**HP**:: 43 (21); 
+**Hardness**:: 4  
 **Attack (Collision)** 4d4 B (DC 10)  
-**Modifiers** -1 Piloting, -1 attack (-3 at full speed)  
-**Systems** autocontrol, planetary comm unit; **Passengers** 1  
+
+**Modifiers**:: -1 Piloting, -1 attack (-3 at full speed)  
+**Systems**:: autocontrol, planetary comm unit
+**Passengers**:: 1  
 
 ### Special Abilities
 

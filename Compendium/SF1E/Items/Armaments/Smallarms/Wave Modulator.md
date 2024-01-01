@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 8 / 14 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Wave Modulator, I
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 2;
-**Price**:: 1,080  
+**Level**:: 2
+**Price**:: 1080  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 F|so; **Range**:: 30 ft.;
+**Damage**:: 1d4 F|so; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -34,10 +35,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 39_  
 **Level**:: 5
-**Price**:: 3,400  
+**Price**:: 3400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 F|so; **Range**:: 30 ft.;
+**Damage**:: 1d6 F|so; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Wave Modulator, Iii
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 8;
-**Price**:: 11,000  
+**Level**:: 8
+**Price**:: 11000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 F|so; **Range**:: 30 ft.;
+**Damage**:: 2d4 F|so; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Wave Modulator, Iv
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 11;
-**Price**:: 28,600  
+**Level**:: 11
+**Price**:: 28600  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 F|so; **Range**:: 30 ft.;
+**Damage**:: 2d8 F|so; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -73,10 +77,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 39_  
 **Level**:: 14
-**Price**:: 81,000  
+**Price**:: 81000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d10 F|so; **Range**:: 60 ft.;
+**Damage**:: 2d10 F|so; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -85,11 +90,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Wave Modulator, Vi
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 16;
-**Price**:: 195,000  
+**Level**:: 16
+**Price**:: 195000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d10 F|so; **Range**:: 60 ft.;
+**Damage**:: 3d10 F|so; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -98,11 +104,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Wave Modulator, Vii
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 20;
-**Price**:: 919,000  
+**Level**:: 20
+**Price**:: 919000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d10 F|so; **Range**:: 80 ft.;
+**Damage**:: 4d10 F|so; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L

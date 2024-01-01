@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 140
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Elite Rescuer
-statblock: true
-Subtype: Emergency Workers
+statblock: true(Emergency Workers
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Elite Rescuer

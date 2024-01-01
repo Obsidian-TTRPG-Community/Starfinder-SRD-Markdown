@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1
-Type: Tiny racer  
+type: Tiny racer  
 ---
 
 # Redshift Revolution X-62
 
-> [!infobox|locr n-th clean]
->  [[Starship_RedshiftRevolution.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_RedshiftRevolution.jpg|Spielern zeigen!]
 > 
 
 Tiny racer, **Tier** 1 

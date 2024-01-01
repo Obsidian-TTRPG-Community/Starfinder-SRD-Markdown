@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 12
-Environment: any vacuum  
+Environment: any vacuum
 hp: 170
-modifier: 5
+Initmod: 5
 name: Asteray
 statblock: true
 tags: 
-Type: CN Medium fey  
+Type: CN Medium fey
+combatType: spellcaster
+alignment: CN
+size: medium
+type(subtype): fey(-)
+environment: vacuum
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - choir(3-12)
+source: Alien Archive
 ---
 
 # Asteray
@@ -67,3 +80,5 @@ At will—_holographic image_ (2nd-level, DC 21), _spider climb_
 **Sensor Song (Ex)** An asteray can “sing” electronic signals that mask or mimic sensor readings. As a standard action, an asteray can create a false image of an object as if it had cast the 4th-level version of the spell _holographic image_ (CL 12th). This false reading affects only electronic sensors. Multiple asterays can sing together, increasing the caster level by 1 for each asteray beyond the first singer for the purposes of determining the spell’s range and area affected.
 
 **Wake Rider (Su)** By touching a starship, an asteray can bond to the energy wake it leaves as it travels. This allows the fey to match speeds with the starship and ride along with it, treating the ship as if it were the “ground” so long as it remains within 100 feet. If the starship enters the Drift, the asteray can choose to accompany the ship into the Drift, or it can disengage as a reaction and remain behind.
+
+

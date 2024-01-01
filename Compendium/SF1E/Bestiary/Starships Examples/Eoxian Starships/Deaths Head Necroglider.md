@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/2
-Type: Tiny Interceptor
+type: Tiny Interceptor
 ---
 
 # Death's Head Necroglider
 
-> [!infobox|locr n-th clean]
->  [[Starship_DeathsHandNEcroglider.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_DeathsHandNEcroglider.jpg|Spielern zeigen!]
 > 
 
 Tiny interceptor, **Tier** 1/2

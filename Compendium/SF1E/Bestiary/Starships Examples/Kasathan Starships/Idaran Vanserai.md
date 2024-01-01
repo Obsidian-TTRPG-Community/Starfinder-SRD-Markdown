@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: Large heavy freighter 
+type: Large heavy freighter 
 ---
 
 # Idaran Vanserai
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranVanserai.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranVanserai.jpg|Spielern zeigen!]
 > 
 
 Large heavy freighter, **Tier** 4 

@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 12
-Environment: any (Apostae)  
+Environment: any (Apostae)
 hp: 185
-modifier: 5
+Initmod: 5
 name: Deadfall Stalker
 statblock: true
 tags: 
-Type: CN Large magical beast  
+Type: CN Large magical beast
 ---
 
 # Deadfall Stalker
 
-**Source**:: _Alien Archive 4 pg. 28_
+**Source**:  _Alien Archive 4 pg. 28_
 
 ## Deadfall Stalker Cr 12
 

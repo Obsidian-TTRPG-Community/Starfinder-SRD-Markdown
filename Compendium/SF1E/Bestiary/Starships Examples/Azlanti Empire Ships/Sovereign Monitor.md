@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 5
-Type: Medium Transport
+type: Medium Transport
 ---
 
 # Sovereign Monitor

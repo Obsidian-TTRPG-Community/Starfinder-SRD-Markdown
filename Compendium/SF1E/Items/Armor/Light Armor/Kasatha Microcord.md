@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 8 / 11
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ These suits of ribbed protective fabric are slightly less advanced than comparab
 ## Kasatha Microcord, I
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 2;
-**Price**:: 460; **Category** Light  
-**EAC Bonus** +1; **KAC Bonus** +3; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: 1
+**Level**:: 2
+**Price**:: 460 
+**Category**:: Light  
+
+**EAC**:: +1 
+**KAC**:: +3 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: 1
 
 ## Kasatha Microcord, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 6;
-**Price**:: 3,670; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +8; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Level**:: 6
+**Price**:: 3670 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +8 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Kasatha Microcord, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 8;
-**Price**:: 9,000; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +11; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Level**:: 8
+**Price**:: 9000 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +11 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1
 
 ## Kasatha Microcord, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 11;
-**Price**:: 23,800; **Category** Light  
-**EAC Bonus** +13; **KAC Bonus** +15; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Level**:: 11
+**Price**:: 23800 
+**Category**:: Light  
+
+**EAC**:: +13 
+**KAC**:: +15 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1

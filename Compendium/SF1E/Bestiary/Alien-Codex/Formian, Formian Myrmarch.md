@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 10
-Environment: any land or underground (Castrovel)  
+Environment: any land or underground (Castrovel)
 hp: 165
-modifier: 3
+Initmod: 3
 name: Formian, Formian Myrmarch
 statblock: true
 tags: 
-Type: LN Large monstrous humanoid  
+Type: LN Large monstrous humanoid
+combatType: combatant
+alignment: LN
+size: large
+type(subtype): monstrous humanoid(-)
+environment:
+  - lands
+  - underground
+climate: any
+planet: Castrovel
+organization:
+  - solitary
+  - team(2-4)
+source: Alien Archive 2
 ---
 
 # Formian, Formian Myrmarch
@@ -15,7 +28,7 @@ Type: LN Large monstrous humanoid
 Formians resemble giant ants with humanoid upper bodies, and carve their chitinous plates with insignias reflecting their individual names and achievements. Members of a hive all share a telepathic link, allowing them to coordinate efficiently. Within a hive are castes specialized to particular tasks. The queen leads the hive and is its sole means of propagation, while castes like the aristocratic myrmarchs and mercantile taskmasters direct lower castes like warriors and workers. Formians are most common on Castrovel. For millennia they sought to eradicate the lashunta, their traditional foes, but their queens now instead focus on adopting other species’ technology to industrialize their traditional hive societies.
 
 
-**Source**:: _Alien Archive 2 pg. 52_
+**Source**:  _Alien Archive 2 pg. 52_
 
 ## Formian Myrmarch Cr 10
 
@@ -79,3 +92,5 @@ Formian taskmasters play a mercantile role and often represent formian interests
 
 The following extra content was found for this creature:  
 \- Formian Race Entry
+
+

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,46 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 12
-**Price**:: 35,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 E; **Range**:: 80 ft.;
+**Price**:: 35200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 E; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 80 charges; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Storm Coil, Live
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 3;
-**Price**:: 1,480  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 E; **Range**:: 40 ft.;
+**Level**:: 3
+**Price**:: 1480  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 E; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Storm Coil, Jolt
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 7;
-**Price**:: 6,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 E; **Range**:: 60 ft.;
+**Level**:: 7
+**Price**:: 6900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 E; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Storm Coil, Surge
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 17;
-**Price**:: 261,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 7d6 E; **Range**:: 120 ft.;
+**Level**:: 17
+**Price**:: 261000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 7d6 E; 
+**Range**:: 120 ft.
 **Critical**:: —  
 **Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy

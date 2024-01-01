@@ -3,11 +3,11 @@ aliases:
 cr: 13
 Environment: any
 hp: 190
-modifier: 2
+Initmod: 2
 name: Oracle of Oras
 statblock: true
 tags: 
-Type: CN Gargantuan plant  
+Type: CN Gargantuan plant
 ---
 
 # Oracle of Oras

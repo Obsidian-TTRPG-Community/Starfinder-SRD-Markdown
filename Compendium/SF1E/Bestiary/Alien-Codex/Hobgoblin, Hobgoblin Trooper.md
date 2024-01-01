@@ -3,11 +3,24 @@ aliases:
 cr: 1
 Environment: any
 hp: 20
-modifier: 4
+Initmod: 4
 name: Hobgoblin, Hobgoblin Trooper
 statblock: true
 tags: 
-Type: LE Medium humanoid (goblinoid)  
+Type: LE Medium humanoid (goblinoid)
+combatType: combatant
+alignment: LE
+size: medium
+type(subtype): humanoid(goblinoid)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - squad(3-12)
+source: Alien Archive 2
 ---
 
 # Hobgoblin, Hobgoblin Trooper
@@ -26,7 +39,7 @@ However, other ancient prohibitions remain to this day, though their origins are
 
 A typical hobgoblin is 5 feet tall and weighs 160 pounds.
 
-**Source**:: _Alien Archive 2 pg. 76_
+**Source**:  _Alien Archive 2 pg. 76_
 
 ## Hobgoblin Trooper Cr 1
 
@@ -63,3 +76,5 @@ LE Medium humanoid (goblinoid)
 ### Special Abilities
 
 **Battle Hardened (Ex)** Hobgoblins are trained for combat from an early age, and they quickly learn that a foe can do much more than just hurt you. Hobgoblins gain a +1 racial bonus to AC against combat maneuvers.
+
+

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 2
+
 NoteType: Armor
-price: 1,000
+price: 1000
 tags: 
 Type: Heavy Armor
 ---
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Thinplate
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level** 2;
-**Price**::  1,000; **Category** Heavy  
-**EAC Bonus** +4; **KAC Bonus** +6; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Level**:: 2
+**Price**::  1000 
+**Category**:: Heavy  
+
+**EAC**:: +4 
+**KAC**:: +6 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ### Description
 

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 3
+
 Notetype: Weapon
-price: 1,200
+price: 1200
 tags: 
 type: Weapon Accessories
 ---
@@ -11,8 +11,9 @@ type: Weapon Accessories
 
 **Source**:: _Starfinder Armory pg. 59_  
 **Level**:: 3
-**Price**::  1,200; **Bulk** L  
-**Weapon Types** projectile
+**Price**::  1200 
+**Bulk**:: L  
+**WeaponTypes**:: projectile
 
 ### Description
 

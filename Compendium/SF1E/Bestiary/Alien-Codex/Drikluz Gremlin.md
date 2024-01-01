@@ -3,16 +3,16 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 11
-modifier: 3
+Initmod: 3
 name: Drikluz Gremlin
 statblock: true
 tags: 
-Type: NE Small fey  
+Type: NE Small fey
 ---
 
 # Drikluz Gremlin
 
-[[Alien_Gremlin_Drikluz.webp|Zeigen!]]
+[[Alien_Gremlin_Drikluz.webp|Zeigen!]
 
 ## Drikluz Cr 1/2
 

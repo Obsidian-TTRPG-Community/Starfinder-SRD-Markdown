@@ -3,11 +3,21 @@ aliases:
 cr: 10
 Environment: any
 hp: 165
-modifier: 5
+Initmod: 5
 name: Hellknights, Hellknight Commander
 statblock: true
 tags: 
-Type: LN Medium humanoid (human)  
+Type: LN Medium humanoid (human)
+combatType: combatant
+alignment: LN
+size: medium
+type(subtype): humanoid(human)
+environment: any
+climate: any
+planet:
+  - 
+organization: any
+source: PW
 ---
 
 # Hellknights, Hellknight Commander
@@ -16,7 +26,7 @@ Hellknights preserve law and order at any cost. They coordinate their efforts fr
 
 ## Hellknights, Hellknight Commander
 
-**Source**:: _Pact Worlds pg. 173_
+**Source**:  _Pact Worlds pg. 173_
 
 ## Hellknight Commander Cr 10
 
@@ -55,3 +65,5 @@ LN Medium humanoid (human)
 Hellknight commanders lead missions and determine how subordinate Hellknights should handle unexpected circumstances. They negotiate with authorities to determine their purview in a system with an organized government. Without a government to restrain them, Hellknight commanders take it upon themselves to institute their own merciless vision of order, regardless of the wishes of any folk who happen to already be there.  
 Hellknight commanders are accustomed to unquestioning obedience. As a result, they have little patience for rabble-rousers and are quick to condemn anyone who questions their methods without a sound legal argument. Many Hellknight commanders take pride in their ability to turn any combat into an opportunity for an object lesson to their troops.  
 **Adaptation:** A Hellknight commander can function as an exceptionally disciplined and militaristic mid-level Steward leader. Alternatively, a Hellknight commander can be the fierce captain of a warship.
+
+

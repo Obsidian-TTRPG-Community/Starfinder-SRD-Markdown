@@ -3,11 +3,11 @@ aliases:
 cr: 6
 Environment: any
 hp: 75
-modifier: 2
+Initmod: 2
 name: Grioth, Eclipse Seer
 statblock: true
 tags: 
-Type: CE Medium monstrous humanoid  
+Type: CE Medium monstrous humanoid
 ---
 
 # Grioth, Eclipse Seer
@@ -22,7 +22,7 @@ For unknown reasons, Triune’s Signal was lost to the grioths, though they quic
 
 Due to prolonged exposure to the Dark Tapestry, grioths can be born with strange physiological alterations, the terrors of the unknowable realm intruding into their forms or giving them powers far beyond their kin. The most powerful become potent psychics who boast nigh‑impenetrable mental defenses. These grioth paragons, known as Vessels, are considered blessed by the Haunter of the Dark and swiftly rise to positions of power, becoming CEOs of major corporations, military generals, religious leaders, or overseers of entire colonies.
 
-**Source**:: _Alien Archive 4 pg. 40_
+**Source**:  _Alien Archive 4 pg. 40_
 
 ## Eclipse Seer Cr 6
 

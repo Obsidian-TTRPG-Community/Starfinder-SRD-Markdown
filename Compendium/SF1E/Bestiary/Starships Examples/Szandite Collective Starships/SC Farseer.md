@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 3
-Type: Medium explorer
+type: Medium explorer
 ---
 
 # Sc Farseer

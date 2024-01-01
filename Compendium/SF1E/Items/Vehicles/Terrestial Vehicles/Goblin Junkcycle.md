@@ -1,7 +1,7 @@
 ---
 aliases: 
-ItemLevel: 1
-NoteType: Terrestial Vehicles
+Item:
+NoteType: Terrestrial Vehicles
 price: 425
 tags: 
 ---
@@ -9,15 +9,20 @@ tags:
 # Goblin Junkcycle
 
 **Source**:: _Starfinder Core Rulebook pg. 228_ 
-**Item Level** 1;
+**Level**:: 1
 **Price**::  425  
 Medium land vehicle (5 ft. wide, 5 ft. long, 2 ft. high)  
-**Speed** 15 ft., full 250 ft., 28 mph  
-**EAC** 10; **KAC** 11; **Cover** none  
-**HP** 6 (5); **Hardness** 5  
+**Speed**:: 15 ft., full 250 ft., 28 mph  
+
+**EAC**:: 10; 
+**KAC**:: 11; 
+**Cover**:: none  
+**HP**:: 6 (5); 
+**Hardness**:: 5  
 **Attack (Collision)** 2d4 B (DC 9)  
-**Modifiers** –1 Piloting, -2 attack (–3 at full speed)  
-**Systems** unstable engine;  
+
+**Modifiers**:: –1 Piloting, -2 attack (–3 at full speed)  
+**Systems**:: unstable engine;  
 
 ### Special Abilities
 

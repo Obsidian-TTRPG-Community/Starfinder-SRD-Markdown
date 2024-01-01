@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/3
-Type: Tiny racer
+type: Tiny racer
 ---
 
 # Uie Petaltail
 
-> [!infobox|locr n-th clean]
->  [[Starship_UIEPetaltail.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UIEPetaltail.jpg|Spielern zeigen!]
 > 
 Tiny racer, **Tier** 1/3 
 **Speed** 6; **Maneuverability** perfect (turn 0); **Drift** 1  

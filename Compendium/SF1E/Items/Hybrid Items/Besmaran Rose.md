@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 15
-price: 103,300
+
+price: 103300
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Besmaran Rose
 
 **Source**:: _Drift Crisis pg. 133_  
-**Level** 15;
-**Price**::  103,300; **Bulk** L
+**Level**:: 15
+**Price**::  103300 
+**Bulk**:: L
 
 ### Description
 

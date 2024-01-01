@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Large magical beast  
 ---
 # SHOTALASHU - COMPANIONS
@@ -9,7 +9,8 @@ Type: Large magical beast
 **Source**:: _Alien Archive 3 pg. 145_  
 While shotalashus have served as the traditional mounts of Castrovel’s lashuntas for millennia, many other species forge deep connections with the creatures—especially those with telepathic abilities.
 
-## SHOTALASHULEVELS 1-20
+## SHOTALASHU
+level:: 1-20
 
 Large magical beast  
 **Senses** darkvision 60 ft., low-light vision  

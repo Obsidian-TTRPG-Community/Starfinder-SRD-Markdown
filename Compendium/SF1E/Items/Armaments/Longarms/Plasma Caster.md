@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,25 +20,23 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Caster, Blue Star
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 17;
-**Price**:: 275,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d10 E & F; **Range**:: 80 ft.;
+**Level**:: 17
+**Price**:: 275000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d10 E & F; 
+**Range**:: 80 ft.
 **Critical**:: burn 2d10  
 **Capacity**:: 200 charges; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: boost 2d10
+**Bulk**:: 2**Special**:: boost 2d10
 
 ## Plasma Caster, White Star
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 13;
-**Price**:: 49,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 E & F; **Range**:: 80 ft.;
+**Level**:: 13
+**Price**:: 49100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 E & F; 
+**Range**:: 80 ft.
 **Critical**:: burn 1d10  
 **Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
-**Special**:: boost 1d10
+**Bulk**:: 2**Special**:: boost 1d10

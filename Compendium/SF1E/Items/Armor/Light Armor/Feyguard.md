@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 11 / 15 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ This armor gets its name from denizens of the First World, where the first sets 
 ## Feyguard, Dryad
 
 **Source**:: _Drift Crisis pg. 52_  
-**Level**:: 11;
-**Price**:: 24,000; **Category** Light  
-**EAC Bonus** +12; **KAC Bonus** +13; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 11
+**Price**:: 24000 
+**Category**:: Light  
+
+**EAC**:: +12 
+**KAC**:: +13 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Feyguard, Sprite
 
 **Source**:: _Drift Crisis pg. 52_  
-**Level**:: 7;
-**Price**:: 6,600; **Category** Light  
-**EAC Bonus** +7; **KAC Bonus** +8; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 7
+**Price**:: 6600 
+**Category**:: Light  
+
+**EAC**:: +7 
+**KAC**:: +8 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Feyguard, Nymph
 
 **Source**:: _Drift Crisis pg. 52_  
-**Level**:: 15;
-**Price**:: 97,500; **Category** Light  
-**EAC Bonus** +17; **KAC Bonus** +18; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 15
+**Price**:: 97500 
+**Category**:: Light  
+
+**EAC**:: +17 
+**KAC**:: +18 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Feyguard, Erlking
 
 **Source**:: _Drift Crisis pg. 52_  
-**Level**:: 19;
-**Price**:: 555,000; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +21; **Max. Dex Bonus** +9  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 19
+**Price**:: 555000 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +21 
+**Max-Dex**:: +9  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L

@@ -1,10 +1,6 @@
 ---
 aliases:
   - Diamond-Edge Arrow
-bulk: L
-capacity: "20"
-critical: 
-damage: 
 tags:
   - sf1e/items/ammunition
 type:

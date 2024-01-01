@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,59 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Freeze Ray, Algid
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 7;
-**Price**:: 6,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 C; **Range**:: 30 ft.;
+**Level**:: 7
+**Price**:: 6300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 C; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Freeze Ray, Hiemal
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 3;
-**Price**:: 1,420  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d4 C; **Range**:: 30 ft.;
+**Level**:: 3
+**Price**:: 1420  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d4 C; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Freeze Ray, Glacial
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 11;
-**Price**:: 24,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d4 C; **Range**:: 40 ft.;
+**Level**:: 11
+**Price**:: 24800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d4 C; 
+**Range**:: 40 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Freeze Ray, Isothermal
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 16;
-**Price**:: 165,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d8 C; **Range**:: 40 ft.;
+**Level**:: 16
+**Price**:: 165000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d8 C; 
+**Range**:: 40 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy
 
 ## Freeze Ray, Hypothermic
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 20;
-**Price**:: 818,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d12 C; **Range**:: 50 ft.;
+**Level**:: 20
+**Price**:: 818000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d12 C; 
+**Range**:: 50 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: line, unwieldy
+**Bulk**:: 2**Special**:: line, unwieldy

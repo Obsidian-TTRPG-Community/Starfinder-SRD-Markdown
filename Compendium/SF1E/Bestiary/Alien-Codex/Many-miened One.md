@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 19
-Environment: any land  
+Environment: any land
 hp: 350
-modifier: 6
+Initmod: 6
 name: Many-miened One
 statblock: true
 tags: 
-Type: N Huge construct (magical)  
+Type: N Huge construct (magical)
 ---
 
 # Many-miened One
 
-**Source**:: _Alien Archive 4 pg. 70_
+**Source**:  _Alien Archive 4 pg. 70_
 
 ## Many-miened One Cr 19
 

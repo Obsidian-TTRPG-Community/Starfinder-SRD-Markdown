@@ -3,11 +3,11 @@ aliases:
 Level: 5
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: evocation 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Wall of Force

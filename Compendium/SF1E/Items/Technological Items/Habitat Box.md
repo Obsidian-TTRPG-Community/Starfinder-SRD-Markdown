@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 375
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Habitat Box
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 1;
+**Level**:: 1
 **Price**::  375  
-**Capacity**:: 20; **Usage** 1/day  
-**Hands** —; **Bulk** 4
+**Capacity**:: 20 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: 4
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 8 / 12 / 16 / 20
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,10 +13,11 @@ When activated as a move action, this unit emits a wireless signal that interfer
 ## Grenade Scrambler, Mk 1
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 1;
+**Level**:: 1
 **Price**::  250  
-**Capacity**:: 20; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Capacity**:: 20 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 
@@ -27,10 +28,11 @@ Affects grenades with an item level of 1 or lower.
 ## Grenade Scrambler, Mk 2
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 4;
-**Price**::  2,100  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Level**:: 4
+**Price**::  2100  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 
@@ -39,10 +41,11 @@ Affects grenades with an item level of 4 or lower.
 ## Grenade Scrambler, Mk 3
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 8;
-**Price**::  9,300  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Level**:: 8
+**Price**::  9300  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 
@@ -51,10 +54,11 @@ Affects grenades with an item level of 8 or lower. Affected grenades with an ite
 ## Grenade Scrambler, Mk 4
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 12;
-**Price**::  35,000  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Level**:: 12
+**Price**::  35000  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 
@@ -63,10 +67,11 @@ Affects grenades with an item level of 12 or lower. Affected grenades with an it
 ## Grenade Scrambler, Mk 5
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 16;
-**Price**::  165,000  
-**Capacity**:: 100; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Level**:: 16
+**Price**::  165000  
+**Capacity**:: 100 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 
@@ -75,10 +80,11 @@ Affects grenades with an item level of 16 or lower. Affected grenades with an it
 ## Grenade Scrambler, Mk 6
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 20;
-**Price**::  815,000  
-**Capacity**:: 100; **Usage** 5/round  
-**Hands** —; **Bulk** 1
+**Level**:: 20
+**Price**::  815000  
+**Capacity**:: 100 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

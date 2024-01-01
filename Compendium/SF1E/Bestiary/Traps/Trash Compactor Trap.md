@@ -1,12 +1,12 @@
 ---
-aliases: 
-cr: 5
-Environment: any
+aliases: ---
+cr: 5)
+environment: any
 hp: 69
 name: Trash Compactor Trap
 statblock: true
 tags: 
-Type: Trap
+type: Trap
 ---
 **Source** [_Starfinder Core Rulebook pg. 412_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
 **XP** 1,600  

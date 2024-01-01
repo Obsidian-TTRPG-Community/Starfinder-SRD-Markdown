@@ -1,12 +1,12 @@
 ---
-Type: Aballonian Ship
+type: Aballonian Ship
 NoteType: Starship
-Type: Tiny Racer
+type: Tiny Racer
 Tier: 1/3
 ---
 # COMPENT AEV
-> [!infobox|locr n-th clean]
->  [[Starship_CompentAEV.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_CompentAEV.jpg|Spielern zeigen!]
 > 
 Tiny racer , **Tier** 1/3
 **Speed** 8; **Maneuverability** perfect (turn 0); **Drift** 1  

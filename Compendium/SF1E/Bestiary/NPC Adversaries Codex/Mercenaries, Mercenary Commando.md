@@ -1,14 +1,14 @@
 ---
-aliases: 
-cr: 10
-Environment: any
+aliases: ---
+cr: 10)
+environment: any
 hp: 150
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Mercenaries, Mercenary Commando
 statblock: true
 tags: 
-Type: N Medium humanoid (lashunta)  
+type: N Medium humanoid (lashunta)
 ---
 
 # Mercenaries, Mercenary Commando
@@ -17,7 +17,7 @@ Mercenaries work for the highest bidder, generally with no questions asked (exce
 
 ## Mercenaries, Mercenary Commando
 
-**Source**:: _Pact Worlds pg. 175_
+**Source**:  _Pact Worlds pg. 175_
 
 ## Mercenary Commando Cr 10
 

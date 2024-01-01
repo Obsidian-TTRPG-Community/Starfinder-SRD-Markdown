@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Weydana-4)  
+Environment: any (Weydana-4)
 hp: 25
-modifier: 1
+Initmod: 1
 name: Necrosaturated Stag-Bear
 statblock: true
 tags: 
-Type: NE Large magical beast  
+Type: NE Large magical beast
 ---
 
 # Necrosaturated Stag-bear
 
-[[HOTV_Creature_NecrosaturatedStagBear.webp|Zeigen!]]
+[[HOTV_Creature_NecrosaturatedStagBear.webp|Zeigen!]
 
 **XP 600**  
 NE Large magical beast  

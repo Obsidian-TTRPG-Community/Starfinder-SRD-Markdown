@@ -11,25 +11,35 @@ tags:
 
 ## Heavy Ablative Armor Mk 1
 
-**AC Bonus** —; **BP Cost** 24; **Temp HP** 240;
+**AC-Bonus**:: —
+**BPCost**:: 24
+**TempHP**:: 240;
 **Special**:: –2 TL, +2 turn distance
 
 ## Heavy Ablative Armor Mk 2
 
-**AC Bonus** —; **BP Cost** 27; **Temp HP** 280;
+**AC-Bonus**:: —
+**BPCost**:: 27
+**TempHP**:: 280;
 **Special**:: –2 TL, +2 turn distance
 
 ## Heavy Ablative Armor Mk 3
 
-**AC Bonus** —; **BP Cost** 29; **Temp HP** 320;
+**AC-Bonus**:: —
+**BPCost**:: 29
+**TempHP**:: 320;
 **Special**:: –2 TL, +2 turn distance
 
 ## Heavy Ablative Armor Mk 4
 
-**AC Bonus** —; **BP Cost** 31; **Temp HP** 360;
+**AC-Bonus**:: —
+**BPCost**:: 31
+**TempHP**:: 360;
 **Special**:: –2 TL, +2 turn distance
 
 ## Heavy Ablative Armor Mk 5
 
-**AC Bonus** —; **BP Cost** 34; **Temp HP** 400;
+**AC-Bonus**:: —
+**BPCost**:: 34
+**TempHP**:: 400;
 **Special**:: –2 TL, +2 turn distance

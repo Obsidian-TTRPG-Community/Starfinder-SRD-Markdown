@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: Huge biomechanical bulk freighter
+type: Huge biomechanical bulk freighter
 ---
 
 # Uc Gardenship
 
-> [!infobox|locr n-th clean]
->  [[Starship_UCGardenship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UCGardenship.jpg|Spielern zeigen!]
 > 
 Huge biomechanical bulk freighter, **Tier** 10 
 **Speed** 4; **Maneuverability** poor (turn 3); **Drift** 1  

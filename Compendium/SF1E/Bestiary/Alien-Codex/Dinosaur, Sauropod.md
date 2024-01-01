@@ -3,18 +3,31 @@ aliases:
 cr: 10
 Environment: any
 hp: 165
-modifier: 0
+Initmod: 0
 name: Dinosaur, Sauropod
 statblock: true
 tags: 
-Type: N Gargantuan animal  
+Type: N Gargantuan animal
+combatType: combatant
+alignment: N
+size: gargantuan
+type(subtype): animal(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - herd(3-12)
+source: Alien Archive 2
 ---
 
 # Dinosaur, Sauropod
 
 The term “dinosaur” refers to a category of reptilelike fauna associated with a planet’s prehistoric evolutionary scale. Dinosaurs vary in size, although many are quite large, and they come in a variety of forms. A ceratopsid is a quadruped that has bony frills extending from its head back over its shoulders, as well as horns that adorn its face; one example is the herbivorous triceratops. Dromaeosaurids are bipedal, feathered carnivores, like the pack-hunting deinonychus (also called a raptor). Plesiosaurs are marine reptiles with long necks and toothy mouths that dwell and hunt near the water’s surface. Pterosaurs are flying reptilian beasts with membranous wings and long, sharp, triangular beaks. Sauropods are immense, lumbering quadrupeds with long necks and tails and towering stature, such as brachiosaurus and diplodocus. Theropods are bipedal dinosaurs, generally carnivorous, with fearsome, fanged jaws and clawed digits, like the tyrannosaurus. Thyreophorans are quadrupedal dinosaurs with armor-plated backs and tails weaponized with bludgeoning bone or piercing spikes, including the ankylosaurus and the stegosaurus.
 
-**Source**:: _Alien Archive 2 pg. 39_
+**Source**:  _Alien Archive 2 pg. 39_
 
 ## Sauropod Cr 10
 
@@ -43,3 +56,5 @@ N Gargantuan animal
 
 **Environment** any  
 **Organization** solitary, pair, or herd (3–12)
+
+

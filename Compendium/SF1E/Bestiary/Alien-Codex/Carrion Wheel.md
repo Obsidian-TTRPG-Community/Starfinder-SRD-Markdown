@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any land  
+Environment: any land
 hp: 90
-modifier: 5
+Initmod: 5
 name: Carrion Wheel
 statblock: true
 tags: 
-Type: NE Medium aberration  
+Type: NE Medium aberration
 ---
 
 # Carrion Wheel
@@ -22,7 +22,7 @@ Thanks to the creatures’ hostility (and Aucturn’s inhospitable conditions), 
 
 Carrion wheels are native to Aucturn, but are occasionally found on other worlds. Rare specimens crop up on a variety of planets, thriving in colder, drier environments. It remains unclear how the creatures spread, though the leading theory proposes that biological matter from Aucturn can spontaneously develop into carrion wheels if visiting starships fail to properly sterilize. Any number of factors could contribute to their spread, which drives researchers to subdue and collect rogue carrion wheels across the galaxy in search of answers.
 
-**Source**:: _Alien Archive 4 pg. 18_
+**Source**:  _Alien Archive 4 pg. 18_
 
 ## Carrion Wheel Cr 6
 

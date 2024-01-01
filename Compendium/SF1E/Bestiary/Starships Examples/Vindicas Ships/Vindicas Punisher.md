@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 7
-Type: Large destroyer
+type: Large destroyer
 ---
 
 # Vindicas Punisher
 
-**Source**:: _Near Space pg. 122_  
+**Source**:  _Near Space pg. 122_  
 Large destroyer, **Tier** 7 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** 2  
 **AC** 22; **TL** 21  

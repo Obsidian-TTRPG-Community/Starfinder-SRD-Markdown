@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 80
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Impostor
-statblock: true
-Subtype: Charlatans
+statblock: true(Charlatans
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Impostor

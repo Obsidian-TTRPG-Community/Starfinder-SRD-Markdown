@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 10
-Environment: LN Medium humanoid (shatori)  
+Environment: LN Medium humanoid (shatori)
 hp: 140
-modifier: 0
+Initmod: 0
 name: Shatori, Shatori Theorist
 statblock: true
 tags: 
-Type: LN Medium humanoid (shatori)  
+Type: LN Medium humanoid (shatori)
 ---
 
 # Shatori, Shatori Theorist
@@ -26,7 +26,7 @@ When the Signal provided Drift travel to the shatoris, they had already expanded
 
 The combination of shatori philosophy, dread of extinction, and desire for remembrance makes many averse to risk. Such shatoris remain in imperial space, hunting for ways to alter their fate. A few shatoris, however, are bold enough to take greater risks and travel the galaxy in search of answers and new possibilities.
 
-**Source**:: _Alien Archive 3 pg. 94_
+**Source**:  _Alien Archive 3 pg. 94_
 
 ## Shatori Theorist Cr 10
 

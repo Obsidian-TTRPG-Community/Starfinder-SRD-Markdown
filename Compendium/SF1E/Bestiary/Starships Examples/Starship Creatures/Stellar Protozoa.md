@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 7
-Type: N Huge starship vermin
+type: N Huge starship vermin
 ---
 
 # Stellar Protozoa

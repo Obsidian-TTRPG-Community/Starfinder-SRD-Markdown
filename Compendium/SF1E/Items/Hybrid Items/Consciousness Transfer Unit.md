@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 14  
-price: 89,700
+
+price: 89700
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Consciousness Transfer Unit
 
 **Source**:: _Drift Crisis pg. 133_  
-**Level** 14;
-**Price**::  89,700; **Bulk** 20
+**Level**:: 14
+**Price**::  89700 
+**Bulk**:: 20
 
 ### Description
 

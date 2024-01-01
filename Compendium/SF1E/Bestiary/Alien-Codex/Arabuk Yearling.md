@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: arctic (Akiton)  
+Environment: arctic (Akiton)
 hp: 40
-modifier: 2
+Initmod: 2
 name: Arabuk, Yearling
 statblock: true
 tags: 
-Type: N Medium animal  
+Type: N Medium animal
 ---
 
 # Arabuk, Yearling
@@ -22,7 +22,7 @@ Arabuks occasionally form groups called glarings, usually composed of several si
 
 The Ice Clans and other conservation groups often stay on the lookout for hardy freelancers to capture potential mating pairs of arabuks. The frigid weather, competition against poachers, and the arabuks themselves make this lucrative opportunity dangerous, however. Arabuks’ sonic attacks rarely affect the environment when they hunt, but when acting in defense, they unleash desperate bursts that gradually weaken the surrounding terrain’s integrity and cause ever more frequent and dangerous avalanches. Xenowardens and other protectors of nature insist that with protection and a careful breeding program, these majestic creatures might one day return to their role as the respected and regal guardians of Akiton’s poles.
 
-**Source**:: _Alien Archive 4 pg. 10_
+**Source**:  _Alien Archive 4 pg. 10_
 
 ## Yearling Cr 3
 

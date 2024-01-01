@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Pistol, Lattice
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 7;
-**Price**:: 6,100  
+**Level**:: 7
+**Price**:: 6100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 So; **Range**:: 40 ft.;
+**Damage**:: 1d6 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Pistol, Matrix
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 18;
-**Price**:: 358,000  
+**Level**:: 18
+**Price**:: 358000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d6 So; **Range**:: 40 ft.;
+**Damage**:: 5d6 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L

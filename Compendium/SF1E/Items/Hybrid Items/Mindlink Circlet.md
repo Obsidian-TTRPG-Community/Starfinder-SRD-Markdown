@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 8 / 14 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Although items with powers similar to those of the _mindlink circlet_ have exi
 ## Mindlink Circlet, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 2;
-**Price**::  1,600; **Bulk** L
+**Level**:: 2
+**Price**::  1600 
+**Bulk**:: L
 
 ### Description
 
@@ -25,8 +26,9 @@ You can telepathically communicate with any creatures within 30 feet with which 
 ## Mindlink Circlet, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 8;
-**Price**::  11,000; **Bulk** L
+**Level**:: 8
+**Price**::  11000 
+**Bulk**:: L
 
 ### Description
 
@@ -35,8 +37,9 @@ You can telepathically communicate with any creatures within 100 feet with which
 ## Mindlink Circlet, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 14;
-**Price**::  78,000; **Bulk** L
+**Level**:: 14
+**Price**::  78000 
+**Bulk**:: L
 
 ### Description
 

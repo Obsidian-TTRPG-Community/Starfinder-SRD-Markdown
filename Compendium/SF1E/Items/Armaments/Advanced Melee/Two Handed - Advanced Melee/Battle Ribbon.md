@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 8 / 12
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,35 +15,29 @@ The battleflowers of Ning have been using battle ribbons in ritualized combat fo
 ## Battle Ribbon, Micro-edge
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 8;
-**Price**:: 9,400  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 S;
+**Level**:: 8
+**Price**:: 9400  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d8 S
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: analog, operative, professional (dancer)
+**Bulk**:: 1**Special**:: analog, operative, professional (dancer)
 
 ## Battle Ribbon, Traditional
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 270  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 S;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, operative, professional (dancer)
+**Bulk**:: 1**Special**:: analog, operative, professional (dancer)
 
 ## Battle Ribbon, Zero-edge
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 12
-**Price**:: 35,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d8 S;
+**Price**:: 35200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d8 S
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: analog, operative, professional (dancer)
+**Bulk**:: 1**Special**:: analog, operative, professional (dancer)

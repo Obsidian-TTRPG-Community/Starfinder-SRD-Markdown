@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 11
-Type: CE Huge starship monstrous humanoid
+type: CE Huge starship monstrous humanoid
 ---
 
 # Swarm Dreadlancer

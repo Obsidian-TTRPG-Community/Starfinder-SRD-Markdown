@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 20
-Type: Supercolossal ultranought
+type: Supercolossal ultranought
 ---
 
 # Driftmaven
 
-> [!infobox|locr n-th clean]
->  [[Starship_Driftmaven.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_Driftmaven.jpg|Spielern zeigen!]
 > 
 Supercolossal ultranought, **Tier** 20 
 **Speed** 4; **Maneuverability** clumsy (turn 4); **Drift** 1  

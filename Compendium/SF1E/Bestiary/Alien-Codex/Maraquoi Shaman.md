@@ -1,13 +1,24 @@
 ---
 aliases: 
-cr: "8"
+cr: 8
 Environment: any (Marata)
 hp: 105
-modifier: 0
+Initmod: 0
 name: Maraquoi, Maraquoi Shaman
 statblock: true
 tags: 
 Type: NG Medium humanoid (maraquoi)
+combatType: spellcaster
+alignment: NG
+size: medium
+type(subtype): humanoid(maraquoi)
+environment: any
+climate: any
+planet: Marata
+organization:
+  - solitary
+  - warband(1) + Maraquoi Hunter(4-12)
+source: Alien Archive
 ---
 
 # Maraquoi Shaman
@@ -20,7 +31,7 @@ Maraquoi culture has a deep respect for life and the notion of family. The loss 
 
 Many maraquoi treasure their ancient hunter-gatherer customs, and some tribes still dwell in cliffside caves and split-log longhouses in the deep forests, with only basic technological conveniences. Others follow cattlelizard herds across rocky plateaus but use modern vehicles and weapons. Still others seek to fully industrialize, and in recent years they have created impressive urban settlements, mining and exporting the planet’s natural resources in violation of the traditionally communal approach to property. Tensions are increasing between the various groups, and some maraquoi fear that their society is on the verge of fracturing beyond repair.
 
-**Source**:: _Alien Archive pg. 74_
+**Source**:  _Alien Archive pg. 74_
 
 ## Maraquoi Shaman Cr 8
 
@@ -60,3 +71,5 @@ At will—_mindlink_, _telepathic bond_
 
 **Environment** any (Marata)  
 **Organization** solitary or warband (1 plus 4–12 maraquoi hunters)
+
+

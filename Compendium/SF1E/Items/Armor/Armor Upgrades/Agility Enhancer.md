@@ -1,7 +1,8 @@
 ---
 aliases: 
 ArmorType: Light, Heavy
-ItemLevel: 1 / 5 / 9 / 13 / 17
+Item:
+
 NoteType: Armor
 price: 
 Slots: 1
@@ -24,39 +25,44 @@ This upgrade can be installed only in light or heavy armor.
 ## Agility Enhancer, Mk 1
 
 **Source**:: _Starfinder Armory pg. 80_  
-**Item Level** 1;
+**Level**:: 1
 **Price**::  375  
-**Slots** 1; **Armor Type** Light, Heavy; **Bulk** —  
+**Slots** 1 **Armor Type** Light, Heavy 
+**Bulk**:: —  
 
 ## Agility Enhancer, Mk 2]
 
 **Source**:: _Starfinder Armory pg. 80_  
-**Item Level** 5;
-**Price**::  3,000  
-**Slots** 1; **Armor Type** Light, Heavy; **Bulk** —  
+**Level**:: 5
+**Price**::  3000  
+**Slots** 1 **Armor Type** Light, Heavy 
+**Bulk**:: —  
   
 
 ## Agility Enhancer, Mk 3
 
 **Source**:: _Starfinder Armory pg. 80_  
-**Item Level** 9;
-**Price**::  13,000  
-**Slots** 1; **Armor Type** Light, Heavy; **Bulk** —  
+**Level**:: 9
+**Price**::  13000  
+**Slots** 1 **Armor Type** Light, Heavy 
+**Bulk**:: —  
   
   
 
 ## Agility Enhancer, Mk 4
 
 **Source**:: _Starfinder Armory pg. 80_  
-**Item Level** 13;
-**Price**::  46,000  
-**Slots** 1; **Armor Type** Light, Heavy; **Bulk** —  
+**Level**:: 13
+**Price**::  46000  
+**Slots** 1 **Armor Type** Light, Heavy 
+**Bulk**:: —  
   
   
 
 ## Agility Enhancer, Mk 5
 
 **Source**:: _Starfinder Armory pg. 80_  
-**Item Level** 17;
-**Price**::  216,000  
-**Slots** 1; **Armor Type** Light, Heavy; **Bulk** —
+**Level**:: 17
+**Price**::  216000  
+**Slots** 1 **Armor Type** Light, Heavy 
+**Bulk**:: —

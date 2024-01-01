@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 15
-Type: NE Gargantuan starship fey
+type: NE Gargantuan starship fey
 ---
 
 # Gwahled
 
-**Source**:: _Alien Archive 3 pg. 46_
+**Source**:  _Alien Archive 3 pg. 46_
 
 NE Gargantuan starship fey, **Tier** 15 
 **Speed** 10; **Maneuverability** average (turn 2); **Drift** —  

@@ -5,10 +5,10 @@ tags:
 
 # Combat Feats
 
-``` dataview
+```dataview
 TABLE
 Prerequisites, Benefit
-FROM "Codex/Feats/Combat Feats"
-SORT Name ASC
+FROM "Starfinder-SRD/SF1E/Compendium/Feats/Combat Feats"
 WHERE file.name != "Combat Feats"
+SORT file.name ASC
 ```

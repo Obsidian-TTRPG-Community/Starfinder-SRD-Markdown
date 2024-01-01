@@ -3,11 +3,22 @@ aliases:
 cr: 14
 Environment: any
 hp: 214
-modifier: 4
+Initmod: 4
 name: Deh-Nolo
 statblock: true
 tags: 
-Type: CE Large aberration  
+Type: CE Large aberration
+combatType: spellcaster
+alignment: CE
+size: large
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Deh-nolo
@@ -81,3 +92,5 @@ Deh-nolos are not only extremely competent engineers, but also formidable spellc
 Deh-nolos use their psychic potential, which is inherent in most Dominion of the Black creatures, to fly with incredible dexterity. The eerie sight of their alien forms gliding silently through the air with no obvious means of propulsion is usually enough to send most sane onlookers fleeing for their lives.
 
 A typical deh-nolo stands almost 20 feet tall on its four spindly legs and weighs close to 2,000 pounds.
+
+

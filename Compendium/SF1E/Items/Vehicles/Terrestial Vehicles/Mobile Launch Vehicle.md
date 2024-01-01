@@ -1,23 +1,29 @@
 ---
 aliases: 
-ItemLevel: 7
-NoteType: Terrestial Vehicles
-price: 18,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 18000
 tags: 
 ---
 
 # Mobile Launch Vehicle
 
 **Source**:: _Tech Revolution pg. 85_
-**Item Level** 7;
-**Price**::  18,000  
+**Level**:: 7
+**Price**::  18000  
 Colossal land vehicle (50 ft. wide, 70 ft. long, 70 ft. high)  
-**Speed** 20 ft., full 250 ft., 30 mph  
-**EAC** 18; **KAC** 20; **Cover** total cover  
-**HP** 90 (45); **Hardness** 8  
+**Speed**:: 20 ft., full 250 ft., 30 mph  
+
+**EAC**:: 18; 
+**KAC**:: 20; 
+**Cover**:: total cover  
+**HP**:: 90 (45); 
+**Hardness**:: 8  
 **Attack (Collision)** 9d10 B (DC 9)  
-**Modifiers** –4 Piloting, –2 attack (–4 at full speed)  
-**Systems** autocontrol, expansion bay, hangar, planetary comm unit; **Passengers** 15  
+
+**Modifiers**:: –4 Piloting, –2 attack (–4 at full speed)  
+**Systems**:: autocontrol, expansion bay, hangar, planetary comm unit
+**Passengers**:: 15  
 
 ### Description
 

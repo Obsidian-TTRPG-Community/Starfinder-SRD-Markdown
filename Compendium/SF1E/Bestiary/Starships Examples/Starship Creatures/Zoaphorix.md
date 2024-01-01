@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: CN Huge starship aberration
+type: CN Huge starship aberration
 ---
 
 # Zoaphorix

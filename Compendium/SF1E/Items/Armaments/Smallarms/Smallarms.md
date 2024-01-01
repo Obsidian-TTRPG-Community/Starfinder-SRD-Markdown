@@ -11,8 +11,8 @@ Small arms are handheld ranged [[Armaments]] that can be held and operated with 
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Smallarms"
+Level, Damage, Critical, Special, Price
+FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Smallarms"
 SORT Level ASC
 WHERE file.name != "Smallarms"
 ```

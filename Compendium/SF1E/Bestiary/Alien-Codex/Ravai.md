@@ -1,18 +1,31 @@
 ---
 aliases: 
 cr: 6
-Environment: any solar  
+Environment: any solar
 hp: 90
-modifier: 5
+Initmod: 5
 name: Ravai
 statblock: true
 tags: 
-Type: N Medium fey (fire)  
+Type: N Medium fey (fire)
+combatType: combatant
+alignment: N
+size: medium
+type(subtype): fey(fire)
+environment: solar
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - cluster(3-9)
+source: Alien Archive 2
 ---
 
 # Ravai
 
-**Source**:: _Alien Archive 2 pg. 106_
+**Source**:  _Alien Archive 2 pg. 106_
 
 ## Ravai Cr 6
 
@@ -70,3 +83,5 @@ Ravais make their homes inside stars throughout the galaxy, using the immense en
 To a ravai, all creatures born in the light of the ravai’s star are that fey’s metaphorical children. Academically minded ravais take an intense interest in the organisms that arise in their Material Plane solar systems. Through magical scrying and the interception of broadcasts, such ravais carefully study the intelligent species of their chosen system, which ravais dub their wards. A ravai scholar learns its wards’ religious practices, magic systems, and popular culture. This knowledge can foster great affection toward members of ward species, but just as often, a ravai observes with scholarly detachment or the excruciating paternalism one might show for a clever but poorly trained pet.
 
 Most ravais stay close to their homes inside stars unless called forth due to great need, summoning magic, or the orders of an Eldest, whom ravais still begrudgingly revere. There exists, however, a particular caste, faction, or life phase of ravais that is much more likely to be encountered among Material Plane residents. Little is known in specific about these wanderers who leave their solar homes to travel the galaxy. They frequently gather members of other intelligent species, as well as numerous plant creatures, to establish sun cults, study aspects of their wards’ cultures, or pursue strange quests. Such wandering ravais are invariably tight mandibled about their motivations, but a recent Starfinder Society report indicates that several different wandering ravais have referred to the act of leaving their home stars as the Tearing, hinting that their missions among Material Plane cultures are at the direction of an interstellar ruling council of ravais called the Prominences.
+
+

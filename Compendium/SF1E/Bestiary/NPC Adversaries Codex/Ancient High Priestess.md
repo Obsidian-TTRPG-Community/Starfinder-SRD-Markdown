@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 15
 hp: 235
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Ancient High Priestess
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Ancient High Priestess

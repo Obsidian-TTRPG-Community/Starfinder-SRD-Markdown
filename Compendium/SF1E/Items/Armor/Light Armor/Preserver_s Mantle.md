@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 12
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ The Xenowardens bioengineered the preserver’s mantle as a form of living armor
 ## Preserver's Mantle, I
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 2;
-**Price**:: 520; **Category** Light  
-**EAC Bonus** +1; **KAC Bonus** +2; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 2
+**Price**:: 520 
+**Category**:: Light  
+
+**EAC**:: +1 
+**KAC**:: +2 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Preserver's Mantle, Ii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 7;
-**Price**:: 6,400; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +9; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Level**:: 7
+**Price**:: 6400 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +9 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Preserver's Mantle, Iii
 
 **Source**:: _Starfinder Armory pg. 70_  
 **Level**:: 12
-**Price**:: 35,400; **Category** Light  
-**EAC Bonus** +12; **KAC Bonus** +15; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Price**:: 35400 
+**Category**:: Light  
+
+**EAC**:: +12 
+**KAC**:: +15 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L

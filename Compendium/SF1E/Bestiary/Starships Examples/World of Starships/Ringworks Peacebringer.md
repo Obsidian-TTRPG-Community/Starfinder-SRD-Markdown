@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 17
-Type: Colossal dreadnought
+type: Colossal dreadnought
 ---
 
 # Ringworks Peacebringer
 
-> [!infobox|locr n-th clean]
->  [[Starship_RingworksPeacebringer.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_RingworksPeacebringer.jpg|Spielern zeigen!]
 > 
 Colossal dreadnought, **Tier** 17 
 **Speed** 6; **Maneuverability** clumsy (turn 4); **Drift** 1  

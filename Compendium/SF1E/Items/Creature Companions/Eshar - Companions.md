@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 10-20
+
 Type: Huge animal  
 ---
 # ESHAR - COMPANIONS
@@ -8,7 +8,8 @@ Type: Huge animal
 **Source**:: _Alien Archive 3 pg. 144_  
 Eshars are hulking, serpentine beasts from the expansive, sandy deserts of the tidally locked planet Verces. They are used for battle, transportation, and even for sport, in an elaborate zone-capturing game that can last for days.
 
-## ESHARLEVELS 10-20
+## ESHAR
+level:: 10-20
 
 Huge animal  
 **Senses** blindsight (vibration) 60 ft., low-light vision  

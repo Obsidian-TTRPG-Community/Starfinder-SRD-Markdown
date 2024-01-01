@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 8
-Type: N Huge starship aberration
+type: N Huge starship aberration
 ---
 
 # Novaspawn
 
-**Source**:: _Alien Archive pg. 84_
+**Source**:  _Alien Archive pg. 84_
 
 N Huge starship aberration, **Tier** 8 
 **Speed** 6; **Maneuverability** poor (turn 3); **Drift** —  

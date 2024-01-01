@@ -4,10 +4,10 @@ Level: 1
 Mystic: 
 NoteType: Spell
 Precog: 
-School: transmutation 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Helping hands

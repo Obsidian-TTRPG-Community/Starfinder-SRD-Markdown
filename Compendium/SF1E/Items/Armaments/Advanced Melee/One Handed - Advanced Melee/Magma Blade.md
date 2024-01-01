@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 8 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,43 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Magma Blade, Andesite
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 8;
-**Price**:: 10,900  
+**Level**:: 8
+**Price**:: 10900  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 F & s;
+**Damage**:: 2d8 F & s
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 2)
 
 ## Magma Blade, Rhyolite
 
 **Source**:: _Starfinder Armory pg. 38_  
 **Level**:: 4
-**Price**:: 2,300  
+**Price**:: 2300  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 F & s;
+**Damage**:: 1d8 F & s
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Magma Blade, Basalt
 
 **Source**:: _Starfinder Armory pg. 38_  
 **Level**:: 14
-**Price**:: 79,400  
+**Price**:: 79400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d8 F & s;
+**Damage**:: 7d8 F & s
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 2)
 
 ## Magma Blade, Plagioclase
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 19;
-**Price**:: 610,000  
+**Level**:: 19
+**Price**:: 610000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 13d8 F & s;
+**Damage**:: 13d8 F & s
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 80; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 80; usage 2)

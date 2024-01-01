@@ -3,11 +3,11 @@ aliases:
 cr: 16
 Environment: any
 hp: 255
-modifier: 3
+Initmod: 3
 name: The Swarm, Xersk
 statblock: true
 tags: 
-Type: CE Medium monstrous humanoid  
+Type: CE Medium monstrous humanoid
 ---
 
 # The Swarm, Xersk
@@ -20,7 +20,7 @@ While individual components of the Swarm have some form of intelligence—or at 
 
 The Swarm rarely wields manufactured weapons, instead integrating biotechnology grown or grafted onto component creatures. Because of its constant genetic upgrading and experimentation, the Swarm encompasses components with a wide variety of shapes, sizes, and capabilities, from the mighty dreadlancers to the microscopic, bloodstream-infesting toxicytes.
 
-**Source**:: _Alien Archive 3 pg. 106_
+**Source**:  _Alien Archive 3 pg. 106_
 
 ## Xersk Cr 16
 

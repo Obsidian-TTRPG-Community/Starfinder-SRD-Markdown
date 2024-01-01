@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 17
 hp: 285
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Bil’djooli Navarch
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # BIL’DJOOLI Navarch

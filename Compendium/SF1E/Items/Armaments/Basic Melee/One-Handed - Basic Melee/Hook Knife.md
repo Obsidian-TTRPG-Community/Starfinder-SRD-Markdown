@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 7
+
 Notetype: Weapon
-price: 6,300
+price: 6300
 tags: 
 type: Basic-Melee
 ---
@@ -11,11 +11,11 @@ type: Basic-Melee
 # Hook Knife
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 7;
-**Price**:: 6,300  
+**Level**:: 7
+**Price**:: 6300  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d8 S;
+**Damage**:: 1d8 S
 **Critical**:: bleed 1d6  
 **Bulk**:: L
 **Special**:: analog

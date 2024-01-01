@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ These usually gaudy weapons likely manifested within some virtual reality or wer
 ## Digitizer Pistol, Gold
 
 **Source**:: _Tech Revolution pg. 65_  
-**Level**:: 13;
-**Price**:: 46,000  
+**Level**:: 13
+**Price**:: 46000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d4 So; **Range**:: 40 ft.;
+**Damage**:: 5d4 So; 
+**Range**:: 40 ft.
 **Critical**:: digitize 2d6  
 **Capacity**:: 80 charges ; **Usage** 4  
 **Bulk**:: L
@@ -27,11 +28,12 @@ These usually gaudy weapons likely manifested within some virtual reality or wer
 ## Digitizer Pistol, Silver
 
 **Source**:: _Tech Revolution pg. 65_  
-**Level**:: 7;
-**Price**:: 6,000  
+**Level**:: 7
+**Price**:: 6000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 So; **Range**:: 40 ft.;
+**Damage**:: 2d4 So; 
+**Range**:: 40 ft.
 **Critical**:: digitize 1d6  
 **Capacity**:: 40 charges ; **Usage** 2  
 **Bulk**:: L
@@ -40,11 +42,12 @@ These usually gaudy weapons likely manifested within some virtual reality or wer
 ## Digitizer Pistol, Holofoil
 
 **Source**:: _Tech Revolution pg. 65_  
-**Level**:: 19;
-**Price**:: 580,000  
+**Level**:: 19
+**Price**:: 580000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 10d4 So; **Range**:: 40 ft.;
+**Damage**:: 10d4 So; 
+**Range**:: 40 ft.
 **Critical**:: digitize 4d6  
 **Capacity**:: 100 charges ; **Usage** 5  
 **Bulk**:: L

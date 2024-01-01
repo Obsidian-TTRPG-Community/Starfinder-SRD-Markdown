@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,25 +18,23 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Rail Gun, Advanced
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 6;
-**Price**:: 3,770  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 P; **Range**:: 60 ft.;
+**Level**:: 6
+**Price**:: 3770  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 15 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: automatic
+**Bulk**:: 1**Special**:: automatic
 
 ## Rail Gun, Tactical
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 3;
-**Price**:: 1,150  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 P; **Range**:: 60 ft.;
+**Level**:: 3
+**Price**:: 1150  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 12 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: automatic
+**Bulk**:: 1**Special**:: automatic

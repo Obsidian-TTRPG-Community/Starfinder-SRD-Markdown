@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: any (Izalraan)  
+Environment: any (Izalraan)
 hp: 110
-modifier: 2
+Initmod: 2
 name: Izalguun, Izalguun Healer
 statblock: true
 tags: 
-Type: LN Large monstrous humanoid  
+Type: LN Large monstrous humanoid
 ---
 
 # Izalguun, Izalguun Healer
@@ -24,7 +24,7 @@ For those rare izalguuns who reject the traditional lives of their contemporarie
 
 The average izalguun is 7 feet tall and weighs around 900 pounds.
 
-**Source**:: _Alien Archive 3 pg. 58_
+**Source**:  _Alien Archive 3 pg. 58_
 
 ## Izalguun Healer Cr 8
 

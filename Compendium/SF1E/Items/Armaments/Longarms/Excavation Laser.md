@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,35 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Excavation Laser, Heavy
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 18;
-**Price**:: 380,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 F; **Range**:: 60 ft.;
+**Level**:: 18
+**Price**:: 380000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: penetrating, professional (mining)
+**Bulk**:: 2**Special**:: penetrating, professional (mining)
 
 ## Excavation Laser, light
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 4
-**Price**:: 2,050  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 F; **Range**:: 60 ft.;
+**Price**:: 2050  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: penetrating, professional (mining)
+**Bulk**:: 2**Special**:: penetrating, professional (mining)
 
 ## Excavation Laser, Medium
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 12
-**Price**:: 36,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 F; **Range**:: 60 ft.;
+**Price**:: 36000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 F; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: penetrating, professional (mining)
+**Bulk**:: 2**Special**:: penetrating, professional (mining)

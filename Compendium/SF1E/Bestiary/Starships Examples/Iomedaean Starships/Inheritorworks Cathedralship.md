@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 16
-Type: Gargantuan carrier 
+type: Gargantuan carrier 
 ---
 
 # Inheritorworks Cathedralship
 
-> [!infobox|locr n-th clean]
->  [[Starship_InheritorworksCathedralship.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_InheritorworksCathedralship.jpg|Spielern zeigen!]
 > 
 Gargantuan carrier, **Tier** 16 
 **Speed** 6; **Maneuverability** poor (turn 4); **Drift** 1  

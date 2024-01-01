@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,10 +13,11 @@ This fist-sized object consists of a psychoactive crystal set within a specially
 ## Phrenic Scrambler, Clear
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 5;
-**Price**::  3,000  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** —
+**Level**:: 5
+**Price**::  3000  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 
@@ -27,10 +28,11 @@ This is the most basic phrenic scrambler.
 ## Phrenic Scrambler, Viridian
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 9;
-**Price**::  13,000  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** —
+**Level**:: 9
+**Price**::  13000  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 
@@ -39,10 +41,11 @@ A phrenic scrambler with a viridian crystal also imparts a –1 penalty to savin
 ## Phrenic Scrambler, Violet
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 13;
-**Price**::  49,000  
-**Capacity**:: 40; **Usage** 5/round  
-**Hands** —; **Bulk** —
+**Level**:: 13
+**Price**::  49000  
+**Capacity**:: 40 **Usage** 5/round  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

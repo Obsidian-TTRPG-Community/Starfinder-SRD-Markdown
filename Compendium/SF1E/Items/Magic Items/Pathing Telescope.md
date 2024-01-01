@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 7
-price: 7,000 
+
+price: 7000 
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Starfinder Armory pg. 115_  
-**Level** 7;
-**Price**::  7,000; **Bulk** 2
+**Level**:: 7
+**Price**::  7000 
+**Bulk**:: 2
 
 ### Description
 

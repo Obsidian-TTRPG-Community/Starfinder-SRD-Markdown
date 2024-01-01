@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -23,10 +23,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 14
-**Price**:: 75,200  
+**Price**:: 75200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d12 E & F; **Range**:: 40 ft.;
+**Damage**:: 2d12 E & F; 
+**Range**:: 40 ft.
 **Critical**:: pulse 2d6  
 **Capacity**:: 40 charges; **Usage** 8  
 **Bulk**:: L
@@ -35,11 +36,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Cavitation Pistol, Vapor
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 3;
-**Price**:: 1,430  
+**Level**:: 3
+**Price**:: 1430  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 E & F; **Range**:: 20 ft.;
+**Damage**:: 1d6 E & F; 
+**Range**:: 20 ft.
 **Critical**:: pulse 1d4  
 **Capacity**:: 20 charges; **Usage** 5  
 **Bulk**:: L
@@ -48,11 +50,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Cavitation Pistol, Inertial
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 8;
-**Price**:: 9,700  
+**Level**:: 8
+**Price**:: 9700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 E & F; **Range**:: 20 ft.;
+**Damage**:: 2d6 E & F; 
+**Range**:: 20 ft.
 **Critical**:: pulse 1d6  
 **Capacity**:: 40 charges; **Usage** 5  
 **Bulk**:: L
@@ -61,11 +64,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Cavitation Pistol, Thermodynamic
 
 **Source**:: _Starfinder Armory pg. 43_  
-**Level**:: 18;
-**Price**:: 584,000  
+**Level**:: 18
+**Price**:: 584000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d12 E & F; **Range**:: 20 ft.;
+**Damage**:: 3d12 E & F; 
+**Range**:: 20 ft.
 **Critical**:: pulse 3d6  
 **Capacity**:: 80 charges; **Usage** 10  
 **Bulk**:: L

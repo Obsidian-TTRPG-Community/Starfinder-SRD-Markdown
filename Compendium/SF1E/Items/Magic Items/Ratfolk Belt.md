@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 9
-price: 12,250
+
+price: 12250
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 9;
-**Price**::  12,250; **Bulk** L
+**Level**:: 9
+**Price**::  12250 
+**Bulk**:: L
 
 ### Description
 

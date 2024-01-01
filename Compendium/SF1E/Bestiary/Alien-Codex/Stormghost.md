@@ -3,16 +3,16 @@ aliases:
 cr: 15
 Environment: any
 hp: 275
-modifier: 9
+Initmod: 9
 name: Stormghost
 statblock: true
 tags: 
-Type: CE Large monstrous humanoid  
+Type: CE Large monstrous humanoid
 ---
 
 # Stormghost
 
-**Source**:: _Alien Archive 4 pg. 118_
+**Source**:  _Alien Archive 4 pg. 118_
 
 ## Stormghost Cr 15
 

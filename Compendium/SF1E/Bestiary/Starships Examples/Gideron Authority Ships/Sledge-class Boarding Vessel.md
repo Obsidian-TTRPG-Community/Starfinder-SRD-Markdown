@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: Large Destroyer 
+type: Large Destroyer 
 ---
 
 # Sledge-class Boarding Vessel

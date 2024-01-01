@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 6 / 11 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,59 +18,49 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Void Staff, Barrow-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 20;
-**Price**:: 904,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 9d10 C;
+**Level**:: 20
+**Price**:: 904000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 9d10 C
 **Critical**:: suffocate  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Void Staff, Grave-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 2;
-**Price**:: 1,080  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 C;
+**Level**:: 2
+**Price**:: 1080  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d4 C
 **Critical**:: suffocate  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Void Staff, Crypt-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 6;
-**Price**:: 4,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 C;
+**Level**:: 6
+**Price**:: 4600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 C
 **Critical**:: suffocate  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Void Staff, Tomb-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 11;
-**Price**:: 27,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 C;
+**Level**:: 11
+**Price**:: 27100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 C
 **Critical**:: suffocate  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Void Staff, Ossuary-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 15;
-**Price**:: 123,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d10 C;
+**Level**:: 15
+**Price**:: 123000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d10 C
 **Critical**:: suffocate  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block

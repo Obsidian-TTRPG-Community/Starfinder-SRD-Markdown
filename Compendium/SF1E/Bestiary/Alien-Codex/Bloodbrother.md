@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 7
-Environment: any cold (Verces)  
+Environment: any cold (Verces)
 hp: 107
-modifier: 2
+Initmod: 2
 name: Bloodbrother
 statblock: true
 tags: 
-Type: NE Huge magical beast (cold)  
+Type: NE Huge magical beast (cold)
+combatType: combatant
+alignment: NE
+size: huge
+type(subtype): magical beast(cold)
+environment: any
+climate: cold
+planet: Verces
+organization:
+  - solitary
+  - pair
+  - clan(3-6)
+source: Alien Archive
 ---
 
 # Bloodbrother
@@ -69,3 +81,5 @@ Bloodbrothers typically make their home in ice caves or stone caverns, patrollin
 ## Bloodbrother Serum
 
 Local Darkside tribes and bold big-game hunters sometimes harvest the vital fluids of a bloodbrother’s body to make _bloodbrother serum_: a magical liquid that can inure the drinker against cold and fortify its natural healing. The most famous and prolific alchemists to brew this concoction are the Ascetics of Nar, the brilliant scholar-monks who reside in the Fastness of the Ordered Mind. From their frozen fortress, these zealots seek to understand and manipulate the basic order of the universe, seeing it reflected in the crystalline structure of snow and ice. While the greatest of them conduct their meditations in the freezing wastelands without protection, suffering terribly from frostbite until they’re no longer able to care for themselves, others prefer to imbibe potions such as _bloodbrother serum_ to allow themselves to walk the ice floes beneath the twinkling stars without pain or fear, the better to improve the communion with the universe’s frozen oneness.
+
+

@@ -1,20 +1,20 @@
 ---
 aliases: 
 cr: 3
-Environment: any aquatic or urban (Akchios)  
+Environment: any aquatic or urban (Akchios)
 hp: 36
-modifier: 1
+Initmod: 1
 name: Wrikreechee
 statblock: true
 tags: 
-Type: LN Medium monstrous humanoid (aquatic)  
+Type: LN Medium monstrous humanoid (aquatic)
 ---
 
 # Wrikreechee
 
 ## Wrikreechee Cr 3
 
-]**XP 800**  
+**XP 800**  
 Wrikreechee envoy  
 LN Medium monstrous humanoid (aquatic)  
 **Init** -1; **Senses** darkvision 60 ft.; **Perception** +8  

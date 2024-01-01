@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 5
-Type: Small biomechanical shuttle
+type: Small biomechanical shuttle
 ---
 
 # Uc Librama
 
-> [!infobox|locr n-th clean]
->  [[Starship_UCLibrama.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_UCLibrama.jpg|Spielern zeigen!]
 > 
 Small biomechanical shuttle, **Tier** 5 
 **Speed** 8; **Maneuverability** perfect (turn 0); **Drift** 3  
@@ -29,7 +29,7 @@ Small biomechanical shuttle, **Tier** 5
 ## Description
 
 Designed for preliminary exploration and long-range analysis of new and distant planets and civilizations, the Librama, a biomechanical starship model  
-  
+  ---
 created by the Unified Conservatory, serves as a scouting vessel that pushes against the boundaries of known space. With the aim of conducting experiments, analyzing results, and offering a full report of its findings as quickly as possible, Librama ships are as self-sufficient as possible, in part to keep Xenowardens far ahead of those who might exploit the Librama’s new discoveries. Indeed, large resource-extraction corporations and other parties interested in tapping into the wealth of unknown worlds often dispatch their own craft to shadow Librama ships, just as reckless Starfinder Society crews occasionally lurk nearby to study whatever planets Xenowardens uncover—both risky maneuvers that have sparked numerous clashes deep in the Vast.  
   
 Except when protecting these unstudied worlds from exploitative colonists, those who captain and crew Librama vessels train to avoid the rare confrontations that might threaten them while exploring the deepest reaches of space. In conflict, they generally aim to incapacitate an attacker with their spore torpedoes, retreat, and—as a last resort—request assistance from the Greenguards or Wildknights, prioritizing keeping their onboard research and samples as safe as possible.  

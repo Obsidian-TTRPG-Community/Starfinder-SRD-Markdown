@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 92
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Erathi Slayer
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Erathi Slayer

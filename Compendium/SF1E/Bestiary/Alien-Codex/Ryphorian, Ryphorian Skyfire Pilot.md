@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 5
-Environment: any (Triaxus)  
+Environment: any (Triaxus)
 hp: 63
-modifier: 5
+Initmod: 5
 name: Ryphorian, Ryphorian Skyfire Pilot
 statblock: true
 tags: 
-Type: NG Medium humanoid (ryphorian)  
+Type: NG Medium humanoid (ryphorian)
+combatType: expert
+alignment: NG
+size: medium
+type(subtype): humanoid(ryphorian)
+environment: any
+climate: any
+planet: Triaxus
+organization:
+  - solitary
+  - pair
+  - bonded pair(1) + Dragonkin(1)
+  - team(4-8 bonded pairs) + Ryphorian Technician(2-4)
+source: Alien Archive
 ---
 
 # Ryphorian, Ryphorian Skyfire Pilot
@@ -22,7 +35,7 @@ The ryphorians most often visible to other Pact Worlds citizens are the famed Sk
 
 Ryphorians’ relationships with true dragons are mixed, as their world has a long history of warfare between its tyrannical chromatic dragons and their armies of ryphorian slaves and the free ryphorian nations of the Allied Territories (aided by the noble metallic dragons). While the wars between dragons and ryphorians have officially ended, with some dragons trading battlefields for boardrooms, many ryphorians still retain a deep-seated cultural hatred for their former chromatic conquerors, and it’s not uncommon for ryphorian nationalists on Triaxus to conduct illegal attacks on draconic holdings in hopes of driving the evil dragons from their home world once and for all.
 
-**Source**:: _Alien Archive pg. 96_
+**Source**:  _Alien Archive pg. 96_
 
 ## Ryphorian Skyfire Pilot Cr 5
 
@@ -57,3 +70,5 @@ NG Medium humanoid (ryphorian)
 
 **Environment** any (Triaxus)  
 **Organization** solitary, pair, bonded pair (1 skyfire pilot plus 1 dragonkin), or team (4–8 bonded pairs plus 2–4 ryphorian technicians)
+
+

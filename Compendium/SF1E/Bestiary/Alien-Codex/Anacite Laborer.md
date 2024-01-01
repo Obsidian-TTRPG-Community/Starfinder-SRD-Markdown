@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 7
-Environment: any (Aballon)  
+Environment: any (Aballon)
 hp: 100
-modifier: 2
+Initmod: 2
 name: Anacite, Anacite Laborer
 statblock: true
 tags: 
-Type: LN Medium construct (technological)  
+Type: LN Medium construct (technological)
+combatType: expert
+alignment: LN
+size: medium
+type(subtype): construct(technological)
+environment: any
+climate: any
+planet: Aballon
+organization:
+  - solitary
+  - pair
+  - crew(3-8)
+source: Alien Archive
 ---
 
 # Anacite
@@ -20,7 +32,7 @@ In the uncounted millennia since the departure of the so-called “First Ones,�
 
 While “anacite” officially refers only to the sentient varieties of Aballonian machines—those capable of learning and participating in Aballonian society—many offworlders use it as a catchall term for the world’s mechanical life. Dragonflylike wingbots are an example of Aballonian technobiology. These artificial creatures lack basic sentience yet nevertheless reproduce and fill one of the planet’s ecological niches. These 4-foot-long machines whir from ridge to ridge on wings glittering with solar panels, feeding on the blazing light of the sun. Wingbots can be territorial, and they occasionally attack offworlders or other anacites.
 
-**Source**:: _Alien Archive pg. 10_
+**Source**:  _Alien Archive pg. 10_
 
 ## Anacite Laborer Cr 7
 
@@ -68,3 +80,5 @@ LN Medium construct (technological)
 **Shortwave (Ex)** An anacite can communicate wirelessly. This acts as telepathy, but only with other creatures with this ability or constructs with the technological subtype.
 
 **Sunlight Dependency (Ex)** Anacites are solar-powered constructs, although they can function at reduced capacity away from light. In areas of darkness, they gain the sickened condition.
+
+

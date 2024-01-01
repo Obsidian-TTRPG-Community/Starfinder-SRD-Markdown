@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 12 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,47 @@ Drawing upon the same design and inspirations as the caustoject, this larger wea
 ## Caustolance, Decimator
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 6;
-**Price**:: 4,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 A; **Range**:: 60 ft.;
+**Level**:: 6
+**Price**:: 4500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 A; 
+**Range**:: 60 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Injection
+**Bulk**:: 1**Special**:: Injection
 
 ## Caustolance, Liquidator
 
 **Source**:: _Character Operations Manual pg. 123_  
 **Level**:: 1
 **Price**:: 400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 A; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 A; 
+**Range**:: 60 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Injection
+**Bulk**:: 1**Special**:: Injection
 
 ## Caustolance, Executioner
 
 **Source**:: _Character Operations Manual pg. 123_  
 **Level**:: 12
-**Price**:: 38,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d6 A; **Range**:: 60 ft.;
+**Price**:: 38000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d6 A; 
+**Range**:: 60 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Injection
+**Bulk**:: 1**Special**:: Injection
 
 ## Caustolance, Eradicator
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 18;
-**Price**:: 400,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 12d6 A; **Range**:: 60 ft.;
+**Level**:: 18
+**Price**:: 400000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 12d6 A; 
+**Range**:: 60 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Injection
+**Bulk**:: 1**Special**:: Injection

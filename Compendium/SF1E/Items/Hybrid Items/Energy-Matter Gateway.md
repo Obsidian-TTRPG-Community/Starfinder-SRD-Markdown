@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 19
-price: 600,000
+
+price: 600000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Energy-matter Gateway
 
 **Source**:: _Starfinder Armory pg. 121_  
-**Level** 19;
-**Price**::  600,000; **Bulk** 4
+**Level**:: 19
+**Price**::  600000 
+**Bulk**:: 4
 
 ### Description
 

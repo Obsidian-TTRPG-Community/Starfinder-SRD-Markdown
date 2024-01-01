@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 15
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Starhive Vespiar
 
-> [!infobox|locr n-th clean]
->  [[Starship_StarhiveVespiar.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_StarhiveVespiar.jpg|Spielern zeigen!]
 > 
 Gargantuan battleship, **Tier**  15
 **Speed** 4; **Maneuverability** average (turn 2); **Drift** 1  

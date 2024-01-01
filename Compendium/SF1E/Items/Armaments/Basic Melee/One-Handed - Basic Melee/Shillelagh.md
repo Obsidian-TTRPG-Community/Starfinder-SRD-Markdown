@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 7 / 13
+
 Notetype: Weapon
 price: 
 tags: [46:]
@@ -15,14 +15,13 @@ Though smaller and more expensive than a simple club, a shillelagh is often stur
 ## Shillelagh, Battleship
 
 **Source**:: _Starfinder The Perfect Storm pg. 46_  
-**Level**:: 13;
-**Price**:: 46,000  
+**Level**:: 13
+**Price**:: 46000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d8 B;
+**Damage**:: 3d8 B
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: analog, reposition
+**Bulk**:: 1**Special**:: analog, reposition
 
 ## Shillelagh, Destroyer
 
@@ -31,19 +30,17 @@ Though smaller and more expensive than a simple club, a shillelagh is often stur
 **Price**:: 200  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 B;
+**Damage**:: 1d4 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, reposition
+**Bulk**:: 1**Special**:: analog, reposition
 
 ## Shillelagh, Cruiser
 
 **Source**:: _Starfinder The Perfect Storm pg. 46_  
-**Level**:: 7;
-**Price**:: 5,500  
+**Level**:: 7
+**Price**:: 5500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d10 B;
+**Damage**:: 1d10 B
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: analog, reposition
+**Bulk**:: 1**Special**:: analog, reposition

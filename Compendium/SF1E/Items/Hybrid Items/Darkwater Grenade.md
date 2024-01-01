@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6  
-price: 1,400
+
+price: 1400
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Darkwater Grenade
 
 **Source**:: _Alien Archive 3 pg. 17_  
-**Level** 6;
-**Price**::  1,400; **Bulk** L
+**Level**:: 6
+**Price**::  1400 
+**Bulk**:: L
 
 ### Description
 

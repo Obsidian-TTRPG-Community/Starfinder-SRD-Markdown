@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 3
-Type: Tiny fighter
+type: Tiny fighter
 ---
 
 # Idaran Keris
 
-> [!infobox|locr n-th clean]
->  [[Starship_IdaranKeris.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_IdaranKeris.jpg|Spielern zeigen!]
 > 
 
 Tiny fighter, **Tier** 3 

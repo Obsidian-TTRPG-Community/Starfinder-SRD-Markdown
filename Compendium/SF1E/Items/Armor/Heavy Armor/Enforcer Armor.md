@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 11 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -16,26 +16,47 @@ It is difficult to distinguish different models of enforcer armor visually, so a
 ## Enforcer Armor, I
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 5;
-**Price**::  3,100; **Category** Heavy  
-**EAC Bonus** +9; **KAC Bonus** +10; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -4; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 5
+**Price**::  3100 
+**Category**:: Heavy  
+
+**EAC**:: +9 
+**KAC**:: +10 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -4 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ## Enforcer Armor, Ii
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 11;
-**Price**::  23,725; **Category** Heavy  
-**EAC Bonus** +17; **KAC Bonus** +19; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -4; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 4; **Bulk** 3
+**Level**:: 11
+**Price**::  23725 
+**Category**:: Heavy  
+
+**EAC**:: +17 
+**KAC**:: +19 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -4 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 3
 
 ## Enforcer Armor, III]
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 15;
-**Price**::  101,150; **Category** Heavy  
-**EAC Bonus** +21; **KAC Bonus** +23; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 5; **Bulk** 3
+**Level**:: 15
+**Price**::  101150 
+**Category**:: Heavy  
+
+**EAC**:: +21 
+**KAC**:: +23 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 3

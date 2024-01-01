@@ -1,7 +1,7 @@
 ---
 aliases: 
-Category: MOdule
-Level: 
+Category: Module
+
 price: 110% of component spell gem
 tags: 
 Type: Computer Gear

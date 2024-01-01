@@ -3,16 +3,16 @@ aliases:
 cr: 12
 Environment: any
 hp: 185
-modifier: 4
+Initmod: 4
 name: The Seen
-statblock: true 
+statblock: true
 tags: 
-Type: CN Medium aberration  
+Type: CN Medium aberration
 ---
 
 # The Seen
 
-**Source**:: _Alien Archive 4 pg. 106_
+**Source**:  _Alien Archive 4 pg. 106_
 
 ## The Seen Cr 12
 

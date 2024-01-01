@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 19
-Environment: any forests (Orikolai)  
+Environment: any forests (Orikolai)
 hp: 420
-modifier: 0
+Initmod: 0
 name: Frujai, Frujai Colony
 statblock: true
 tags: 
-Type: N Colossal plant  
+Type: N Colossal plant
+combatType: combatant
+alignment: N
+size: colossal
+type(subtype): plant(-)
+environment: forests
+climate: any
+planet: Orikolai
+organization:
+  - solitary
+  - communion(2-5)
+source: Alien Archive
 ---
 
 # Frujai, Frujai Colony
@@ -18,7 +29,7 @@ The immature drones that sprout from these infested cadavers (use the statistics
 
 Despite their strange shapes, frujai colonies and soldiers are surprisingly intelligent. Frujais see themselves as ecological caretakers, weeding out the weak and clearing the path for stronger creatures. Several attempts at settling Orikolai have failed when frujais interpreted the settlements as well-stocked larders of weak-willed flesh. Larger frujai colonies sometimes entertain interviews with avid xenobiologists, though the dialogues are as likely to descend into ravenous feasting upon the scholars as they are to explore the deep philosophical musings that occupy the frujais the rest of the time.
 
-**Source**:: _Alien Archive pg. 52_
+**Source**:  _Alien Archive pg. 52_
 
 ## Frujai Colony Cr 19
 
@@ -70,3 +81,5 @@ _Gravity Thrust_: The frujai colony can use its gravity thrust attack. This is a
 _Gravity Wave_: As a standard action, the frujai colony can unleash a wave of force in a 60-foot cone that deals 8d6+17 bludgeoning damage to each creature in the area and pushes affected creatures 10 feet away from the colony. A target can attempt a DC 24 Reflex save to halve the damage and negate the movement.
 
 **Slough Minion (Ex)** A frujai colony can sprout frujai soldiers (see below) naturally in a process that takes several weeks, but as a full action, a colony can expend 1 Resolve Point to create a temporary frujai soldier in an adjacent space; the soldier can act immediately. A temporary soldier remains animate for 1 hour before crumbling.
+
+

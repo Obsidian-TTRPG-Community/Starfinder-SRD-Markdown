@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 18
+
 NoteType: Armor
 price: 
 tags: 
@@ -16,44 +16,79 @@ Suits of kyokor plating are tough and surprisingly lightweight for their size, a
 ## Kyokor Plating, I
 
 **Source**:: _Alien Archive pg. 73_  
-**Level** 2;
-**Price**::  800; **Category** Heavy  
-**EAC Bonus** +2; **KAC Bonus** +4; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -1; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 1; **Bulk** 1
+**Level**:: 2
+**Price**::  800 
+**Category**:: Heavy  
+
+**EAC**:: +2 
+**KAC**:: +4 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ## Kyokor Plating, Ii
 
 **Source**:: _Alien Archive pg. 73_  
-**Level** 6;
-**Price**::  4,820; **Category** Heavy  
-**EAC Bonus** +8; **KAC Bonus** +10; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -1; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 3; **Bulk** 1
+**Level**:: 6
+**Price**::  4820 
+**Category**:: Heavy  
+
+**EAC**:: +8 
+**KAC**:: +10 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## Kyokor Plating, Iii
 
 **Source**:: _Alien Archive pg. 73_  
-**Level** 10;
-**Price**::  17,100; **Category** Heavy  
-**EAC Bonus** +13; **KAC Bonus** +16; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 3; **Bulk** 1
+**Level**:: 10
+**Price**::  17100 
+**Category**:: Heavy  
+
+**EAC**:: +13 
+**KAC**:: +16 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## Kyokor Plating, Iv
 
 **Source**:: _Alien Archive pg. 73_  
-**Level** 14;
-**Price**::  76,000; **Category** Heavy  
-**EAC Bonus** +17; **KAC Bonus** +19; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 1
+**Level**:: 14
+**Price**::  76000 
+**Category**:: Heavy  
+
+**EAC**:: +17 
+**KAC**:: +19 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 1
 
 ## Kyokor Plating, V
 
 **Source**:: _Alien Archive pg. 73_  
-**Level** 18;
-**Price**::  371,000; **Category** Heavy  
-**EAC Bonus** +23; **KAC Bonus** +24; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 6; **Bulk**
+**Level**:: 18
+**Price**::  371000 
+**Category**:: Heavy  
+
+**EAC**:: +23 
+**KAC**:: +24 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**::

@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 2
+
 price: 100
 tags: 
 Type: Magic Item
 ---
 **Source** [_Drift Crisis pg. 113_](https://paizo.com/products/btq02aly?Starfinder-Drift-Crisis)  
-**Level** 2;
-**Price**::  100; **Bulk** L
+**Level**:: 2
+**Price**::  100 
+**Bulk**:: L
 
 ### Description
 

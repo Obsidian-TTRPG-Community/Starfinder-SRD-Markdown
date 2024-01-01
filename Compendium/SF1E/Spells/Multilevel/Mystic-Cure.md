@@ -5,7 +5,7 @@ Level: Multilevel
 Mystic: 1-6
 NoteType: Spell
 Precog: 
-School: conjuration (healing)
+
 tags:
   - sf1e/spells/multilevel
 Technomancer: 

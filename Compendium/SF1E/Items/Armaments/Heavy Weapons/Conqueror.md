@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 9 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,14 +20,16 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Conqueror, Blue Star
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 13;
-**Price**:: 52,000  
-**Hands**:: 2;
+**Level**:: 13
+**Price**:: 52000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d10 E & F; **Range**:: 100 ft.;
+**Damage**:: 5d10 E & F 
+**Range**:: 100 ft.
 **Critical**:: wound  
-**Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 80 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Conqueror, Red Star
@@ -35,49 +37,57 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 1
 **Price**:: 430  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 E & F; **Range**:: 60 ft.;
+**Damage**:: 1d10 E & F 
+**Range**:: 60 ft.
 **Critical**:: wound  
-**Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Conqueror, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 4
-**Price**:: 2,400  
-**Hands**:: 2;
+**Price**:: 2400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d12 E & F; **Range**:: 80 ft.;
+**Damage**:: 1d12 E & F 
+**Range**:: 80 ft.
 **Critical**:: wound  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Conqueror, White Star
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 9;
-**Price**:: 15,200  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 15200  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 E & F; **Range**:: 80 ft.;
+**Damage**:: 3d12 E & F 
+**Range**:: 80 ft.
 **Critical**:: wound  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: unwieldy
 
 ## Conqueror, Violet Star
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 18;
-**Price**:: 590,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 590000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 10d10 E & F; **Range**:: 100 ft.;
+**Damage**:: 10d10 E & F 
+**Range**:: 100 ft.
 **Critical**:: wound  
-**Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 80 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: unwieldy

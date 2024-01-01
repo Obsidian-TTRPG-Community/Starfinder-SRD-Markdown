@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 6
+Item:
 price:  
-System: Eyes
+
 tags: 
 Type: Magitech
 ---
@@ -14,12 +14,14 @@ Your eyes are injected with nanite-controlled psychoactive dyes. Once per day as
 ## Psychoactive Eyes, Fascinating
 
 **Source**:: _Starfinder Armory pg. 93_  
-**Item Level** 2;
-**Price**::  965; **System** Eyes  
+**Level**:: 2
+**Price**::  965 
+**System**:: Eyes  
   
 
 ## Psychoactive Eyes, Charming
 
 **Source**:: _Starfinder Armory pg. 93_  
-**Item Level** 6;
-**Price**::  4,250; **System** Eyes
+**Level**:: 6
+**Price**::  4250 
+**System**:: Eyes

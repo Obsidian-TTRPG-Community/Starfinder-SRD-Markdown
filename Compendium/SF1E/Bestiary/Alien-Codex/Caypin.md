@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 6
-Environment: any swamp  
+Environment: any swamp
 hp: 90
-modifier: 2
+Initmod: 2
 name: Caypin
 statblock: true
 tags: 
-Type: N Large magical beast (aquatic)  
+Type: N Large magical beast (aquatic)
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magical beast(aquatic)
+environment: swamps
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+source: Alien Archive
 ---
 
 # Caypin
@@ -65,3 +77,5 @@ Occasionally, a caypin’s stalks are destroyed during a difficult hunt. In thes
 Most xenobiologists consider caypins an invasive species that likely originated somewhere in the Veskarium, given the reptilian people’s admiration for the beasts. Some powerful vesk have managed to train caypins and keep them as pets, and have been known to intentionally import them to worlds they conquer. However, given caypins’ prevalence on planets that have had no known contact with the vesk, it’s likely that caypins or variations thereof evolved along parallel routes on several worlds. Caypins’ superficial biology supports this theory—caypins on different worlds often have somewhat divergent physiologies, and caypins with dramatically different abilities likely await discovery.
 
 A typical caypin is 14 feet long and weighs 1,500 pounds.
+
+

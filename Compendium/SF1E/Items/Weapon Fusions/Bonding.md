@@ -1,7 +1,7 @@
 ---
 aliases: 
 Effect: A creation of the Brethedan biotech firm Life Innovations, a _bonding_ weapon melds into your limb when you draw it (its coloration changes to match your skin tone). You gain a +2 circumstance bonus to your KAC against disarm and sunder combat maneuvers targeting the weapon.
-ItemLevel: 4
+Item
 NoteType: Weapon
 tags: 
 Type: Weapon Fusions
@@ -10,5 +10,5 @@ Type: Weapon Fusions
 # Bonding
 
 **Source**:: _Pact Worlds pg. 194_  
-**Item Level** 4  
+**Level**:: 4  
 A creation of the Brethedan biotech firm Life Innovations, a _bonding_ weapon melds into your limb when you draw it (its coloration changes to match your skin tone). You gain a +2 circumstance bonus to your KAC against disarm and sunder combat maneuvers targeting the weapon.

@@ -1,3 +1,5 @@
+
+
 ---
 aliases: 
 NoteType: Vehicle Modification
@@ -12,7 +14,7 @@ This secret compartment hidden within the vehicle can store a relatively small s
 ## SMUGGLER’S Compartment, Mk 1 - Level 2
 
 **Source**:: _Tech Revolution pg. 83_
-**Price** 525  
+**Price**:: 525  
 Check DCs to detect the compartment are 22.
 
 ---
@@ -20,17 +22,17 @@ Check DCs to detect the compartment are 22.
 ## SMUGGLER’S Compartment, Mk 2 - Level 7
 
 **Source**:: _Tech Revolution pg. 83_
-**Price** 5,700  
+**Price**:: 5700  
 Check DCs to detect the compartment are 29.
 
 ## SMUGGLER’S Compartment, Mk 3 - Level 12
 
 **Source**:: _Tech Revolution pg. 83_
-**Price** 32,000  
+**Price**:: 32000  
 Check DCs to detect the compartment are 37.
 
 ## SMUGGLER’S Compartment, Mk 4 - Level 17
 
 **Source**:: _Tech Revolution pg. 83_
-**Price** 220,000  
+**Price**:: 220000  
 Check DCs to detect the compartment are 44.

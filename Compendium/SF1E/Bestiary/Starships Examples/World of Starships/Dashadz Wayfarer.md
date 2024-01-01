@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 6
-Type: Medium explorer 
+type: Medium explorer 
 ---
 
 # Dashadz Wayfarer
 
-> [!infobox|locr n-th clean]
->  [[Starship_DashadzWayfarer.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_DashadzWayfarer.jpg|Spielern zeigen!]
 > 
 Medium explorer, **Tier** 6 
 **Speed** 8; **Maneuverability** good (turn 1); **Drift** 1  

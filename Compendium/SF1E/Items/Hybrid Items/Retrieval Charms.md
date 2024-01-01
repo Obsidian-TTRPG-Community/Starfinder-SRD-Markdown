@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 11 / 15 / 19
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Most _retrieval charms_ are bejeweled decorations, although some are knickknac
 ## Retrieval Charms, Mk 1
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 7;
-**Price**::  6,500; **Bulk** L
+**Level**:: 7
+**Price**::  6500 
+**Bulk**:: L
 
 ### Description
 
@@ -25,8 +26,9 @@ Most _retrieval charms_ are bejeweled decorations, although some are knickknac
 ## Retrieval Charms, Mk 2
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 11;
-**Price**::  26,000; **Bulk** L
+**Level**:: 11
+**Price**::  26000 
+**Bulk**:: L
 
 ### Description
 
@@ -35,8 +37,9 @@ Anywhere on the same planet
 ## Retrieval Charms, Mk 3
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 15;
-**Price**::  105,000; **Bulk** L
+**Level**:: 15
+**Price**::  105000 
+**Bulk**:: L
 
 ### Description
 
@@ -45,8 +48,9 @@ Anywhere on the same plane
 ## Retrieval Charms, Mk 4
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 19;
-**Price**::  480,000; **Bulk** L
+**Level**:: 19
+**Price**::  480000 
+**Bulk**:: L
 
 ### Description
 

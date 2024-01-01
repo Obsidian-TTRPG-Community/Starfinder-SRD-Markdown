@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 20
-Type: Supercolossal ultranought 
+type: Supercolossal ultranought 
 ---
 
 # Conqueror of Worlds
 
-**Source**:: _Near Space pg. 123_  
+**Source**:  _Near Space pg. 123_  
 Supercolossal ultranought, **Tier** 20 
 **Speed** 6; **Maneuverability** clumsy (turn 6); **Drift** 1  
 **AC** 35; **TL** 32  

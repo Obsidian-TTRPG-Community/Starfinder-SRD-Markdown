@@ -1,18 +1,19 @@
 ---
 aliases: 
 cr: 14
-Environment: any land  
+Environment: any land
 hp: 225
-modifier: 4
+Initmod: 4
 name: Warpstitcher
 statblock: true
 tags: 
-Type: LE Large aberration  
+Type: LE Large aberration
 ---
+
 
 # Warpstitcher
 
-**Source**:: _Alien Archive 4 pg. 136_
+**Source**:  _Alien Archive 4 pg. 136_
 
 ## Warpstitcher Cr 14
 

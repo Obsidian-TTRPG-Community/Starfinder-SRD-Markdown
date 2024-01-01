@@ -1,6 +1,5 @@
 ---
 aliases: 
-Level: 2 / 3 / 6 / 10
 price: 
 tags: 
 Type: Magic Item
@@ -14,8 +13,9 @@ You can only use a spell ampoule on yourself or a willing or unconscious creatur
 ## Spell Ampoule, 0
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 2;
-**Price**::  200; **Bulk** L
+**Level**:: 2
+**Price**::  200 
+**Bulk**:: L
 
 ---
 
@@ -23,16 +23,19 @@ You can only use a spell ampoule on yourself or a willing or unconscious creatur
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
 **Level**:: 3
-**Price**::  300; **Bulk** L
+**Price**::  300 
+**Bulk**:: L
 
 ## Spell Ampoule, 2ND
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 6;
-**Price**::  700; **Bulk** L
+**Level**:: 6
+**Price**::  700 
+**Bulk**:: L
 
 ## Spell Ampoule, 3RD
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 10;
-**Price**::  3,000; **Bulk** L
+**Level**:: 10
+**Price**::  3000 
+**Bulk**:: L

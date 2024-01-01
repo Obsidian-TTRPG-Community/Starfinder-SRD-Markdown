@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 400
 tags: 
@@ -10,9 +10,10 @@ type: Weapon Accessories
 # Grenadier Bracket
 
 **Source**:: _Starfinder Armory pg. 59_  
-**Level** 1;
-**Price**::  400; **Bulk** —  
-**Weapon Types** railed weapon
+**Level**:: 1
+**Price**::  400 
+**Bulk**:: —  
+**WeaponTypes**:: railed weapon
 
 ### Description
 

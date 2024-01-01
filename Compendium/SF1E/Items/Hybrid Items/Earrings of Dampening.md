@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 12
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ These small, silver earrings have sound waves etched onto their round faces. An 
 ## Earrings of Dampening, Mk 1
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 2;
-**Price**::  800; **Bulk** —
+**Level**:: 2
+**Price**::  800 
+**Bulk**:: —
 
 ### Description
 
@@ -25,8 +26,9 @@ Resistance 5 and a +2 save bonus.
 ## Earrings of Dampening, Mk 2
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 7;
-**Price**::  6,500; **Bulk** —
+**Level**:: 7
+**Price**::  6500 
+**Bulk**:: —
 
 ### Description
 
@@ -35,8 +37,9 @@ Resistance 10 and a +3 save bonus.
 ## Earrings of Dampening, Mk 3
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 12;
-**Price**::  36,000; **Bulk** —
+**Level**:: 12
+**Price**::  36000 
+**Bulk**:: —
 
 ### Description
 

@@ -3,16 +3,31 @@ aliases:
 cr: 1
 Environment: any
 hp: 18
-modifier: 6
+Initmod: 6
 name: Akata
 statblock: true
-tags: [1:]
-Type: N Medium aberration  
+tags:
+  - "1:"
+Type: N Medium aberration
+combatType: combatant
+alignment: N
+size: medium
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - pack(3-11)
+  - colony(12-30)
+source: Alien Archive 2
 ---
 
 # Akata
 
-**Source**:: _Alien Archive 2 pg. 8_, _Starfinder Incident at Absalom Station pg. 55_
+**Source**:  _Alien Archive 2 pg. 8_, _Starfinder Incident at Absalom Station pg. 55_
 
 ## Akata Cr 1
 
@@ -68,3 +83,5 @@ Terrifying predators that dwell in the vast void of space, akatas make their hom
 Akatas lack auditory organs, lungs, and vocal cords, and they can’t hear or vocalize in any way. Instead, they communicate with each other through sight and scent. Akatas can change the color of their eyes to over a thousand shades, which they use in conjunction with complex tail movements to communicate visually. Scent glands located just behind the jawbone on akatas’ necks produce a wide variety of smells that other akatas can “taste” with their tongues.
 
 Akatas live in colonies of up to 30 individuals. Massive akatas known as akata alphas rule the largest of these colonies. Most colonies inhabit small asteroids or meteors hurtling through the depths of space. Akatas can hibernate for centuries, protecting themselves in cocoons made from a combination of resin from the creatures’ pores and noqual. When a meteorite carrying an akata colony crashes onto a planet or another astronomical object that can support life, the akatas awake from their cocoons. Akatas usually consume the remains of their cocoons upon awakening, but 1 bulk of noqual worth 500 credits can be harvested from the remnants of a single akata cocoon (see page 64 of Starfinder Armory for more information on noqual). Once awakened, akatas can drastically depopulate a planet as they seek out suitable hosts for their young.
+
+

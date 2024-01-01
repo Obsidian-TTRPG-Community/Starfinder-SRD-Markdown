@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 14 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -16,26 +16,47 @@ The base model of Inheritor’s grace makes use of lightweight alloy plates back
 ## Inheritor's Grace, I
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 6;
-**Price**::  4,450; **Category** Heavy  
-**EAC Bonus** +9; **KAC Bonus** +10; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 2; **Bulk** 2
+**Level**:: 6
+**Price**::  4450 
+**Category**:: Heavy  
+
+**EAC**:: +9 
+**KAC**:: +10 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 2
 
 ## Inheritor's Grace, Ii
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 14;
-**Price**::  67,400; **Category** Heavy  
-**EAC Bonus** +20; **KAC Bonus** +21; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 2
+**Level**:: 14
+**Price**::  67400 
+**Category**:: Heavy  
+
+**EAC**:: +20 
+**KAC**:: +21 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 2
 
 ## Inheritor's Grace, Iii
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level** 19;
-**Price**::  591,000; **Category** Heavy  
-**EAC Bonus** +25; **KAC Bonus** +27; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 7; **Bulk** 2
+**Level**:: 19
+**Price**::  591000 
+**Category**:: Heavy  
+
+**EAC**:: +25 
+**KAC**:: +27 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 7 
+**Bulk**:: 2

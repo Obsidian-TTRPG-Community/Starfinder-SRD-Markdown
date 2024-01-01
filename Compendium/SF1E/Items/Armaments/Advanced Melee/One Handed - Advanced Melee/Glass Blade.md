@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 7 / 13
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Glass Blade, Jolt
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 7;
-**Price**:: 5,440  
+**Level**:: 7
+**Price**:: 5440  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 E & P;
+**Damage**:: 2d6 E & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2)
@@ -28,11 +28,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Glass Blade, Live
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 3;
-**Price**:: 1,230  
+**Level**:: 3
+**Price**:: 1230  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & P;
+**Damage**:: 1d6 E & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -40,11 +40,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Glass Blade, Impulse
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 13;
-**Price**:: 46,500  
+**Level**:: 13
+**Price**:: 46500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 E & P;
+**Damage**:: 6d6 E & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2)
@@ -52,11 +52,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Glass Blade, Surge
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 18;
-**Price**:: 327,000  
+**Level**:: 18
+**Price**:: 327000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 13d6 E & P;
+**Damage**:: 13d6 E & P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2)

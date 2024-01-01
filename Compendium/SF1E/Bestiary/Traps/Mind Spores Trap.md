@@ -1,12 +1,12 @@
 ---
-aliases: 
-cr: 6
-Environment: any
+aliases: ---
+cr: 6)
+environment: any
 hp: 
 name: Mind Spores Trap
 statblock: true
 tags: 
-Type: Trap
+type: Trap
 ---
 **Source** [_Starfinder Core Rulebook pg. 413_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
 **XP** 2,400  

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any (Worlan)  
+Environment: any (Worlan)
 hp: 17
-modifier: 2
+Initmod: 2
 name: Worlanisi
 statblock: true
 tags: 
-Type: CG Small humanoid (worlanisi)  
+Type: CG Small humanoid (worlanisi)
 ---
 
 # Worlanisi
@@ -22,7 +22,7 @@ Worlanisi develop horn-cones at an early age, with additional concentric rings f
 
 ## Worlanisi
 
-**Source**:: _Alien Archive 4 pg. 138_
+**Source**:  _Alien Archive 4 pg. 138_
 
 ## Worlanisi Cr 1
 

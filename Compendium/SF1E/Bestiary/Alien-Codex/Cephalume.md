@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Luminar)  
+Environment: any (Luminar)
 hp: 25
-modifier: 2
+Initmod: 2
 name: Cephalume
 statblock: true
 tags: 
-Type: NG Medium aberration (plantlike)  
+Type: NG Medium aberration (plantlike)
 ---
 
 # Cephalume

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 145
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Viper
-statblock: true
-Subtype: Assassins
+statblock: true(Assassins
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Viper

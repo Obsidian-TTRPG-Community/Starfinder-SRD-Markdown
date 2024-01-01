@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5  
-price: 2,600
+
+price: 2600
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Everlatch Rope
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 5;
-**Price**::  2,600; **Bulk** L
+**Level**:: 5
+**Price**::  2600 
+**Bulk**:: L
 
 ### Description
 

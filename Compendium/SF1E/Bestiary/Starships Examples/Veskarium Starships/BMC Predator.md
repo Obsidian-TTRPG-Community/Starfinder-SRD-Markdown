@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: Small shuttle  
+type: Small shuttle  
 ---
 
 # Bmc Predator

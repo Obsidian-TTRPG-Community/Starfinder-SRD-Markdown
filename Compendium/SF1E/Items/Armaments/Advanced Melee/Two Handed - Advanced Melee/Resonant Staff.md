@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,35 +16,29 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Staff, Reverberant
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 13;
-**Price**:: 49,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 So;
+**Level**:: 13
+**Price**:: 49900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d6 So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: block, boost 2d6, powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: block, boost 2d6, powered (capacity 20, usage 1)
 
 ## Resonant Staff, Sonorous
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 3;
-**Price**:: 1,380  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Level**:: 3
+**Price**:: 1380  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d4 So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: block, boost 1d4, powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: block, boost 1d4, powered (capacity 20, usage 1)
 
 ## Resonant Staff, Stentorian
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 18;
-**Price**:: 381,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d6 So;
+**Level**:: 18
+**Price**:: 381000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d6 So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: block, boost 5d6, powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: block, boost 5d6, powered (capacity 20, usage 1)

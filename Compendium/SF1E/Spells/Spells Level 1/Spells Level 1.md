@@ -7,7 +7,8 @@ tags:
 
 ``` dataview
 TABLE
-School, Mystic, Precog, Techomancer, Witchwarper
-FROM "Codex/Spells/Spells Level 1"
-SORT Level ASC
+School, Mystic as MYS, Precog as PRE, Technomancer as TM, Witchwarper as WW
+FROM "Starfinder-SRD/SF1E/Compendium/Spells/Spells Level 1"
+SORT file.name ASC
+WHERE !contains(file.name, "Spells")
 ```

@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 5
-Environment: any (Eox)  
+Environment: any (Eox)
 hp: 77
-modifier: 3
+Initmod: 3
 name: Glass Serpent
 statblock: true
 tags: 
-Type: N Gargantuan magical beast  
+Type: N Gargantuan magical beast
+combatType: combatant
+alignment: N
+size: gargantuan
+type(subtype): magical beast(-)
+environment: any
+climate: any
+planet: Eox
+organization:
+  - solitary
+  - pair
+  - brood family(2-3)
+source: Alien Archive 2
 ---
 
 # Glass Serpent
@@ -63,3 +75,5 @@ For all the danger they present, glass serpents have long been a part of Eoxian 
 ## Glass Scale Technology
 
 Glass serpent scales are a wonder of evolution, capturing and bending light with their unique molecular structure. Simply skinning a dead glass snake results in a pretty but useless hide, as the motion of the scales and their relationship to the muscle underneath are both key to their function. When properly harvested and arranged, the scales can effectively augment armor or even other creatures’ skins, granting the wearers a measure of the serpents’ invisibility. Originally developed by Eoxian technomancers, this glasstech was quickly replicated by the drow arms dealers of Apostae, and from there it spread throughout the Pact Worlds and beyond.
+
+

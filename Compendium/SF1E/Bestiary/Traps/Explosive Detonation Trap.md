@@ -1,9 +1,9 @@
 ---
-name: Explosive Detonation Trap
+name: Explosive Detonation Trap---
 cr: 9
 hp: -
-Type: Trap
-Environment: any
+type: Trap)
+environment: any
 statblock: true
 ---
 **Source** [_Starfinder Core Rulebook pg. 413_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 2
 hp: 22
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Skilled Sniper
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Skilled Sniper

@@ -1,14 +1,14 @@
 ---
-aliases: 
-cr: 6
-Environment: LN Medium humanoid (vesk)  
+aliases: ---
+cr: 6)
+environment: LN Medium humanoid (vesk)
 hp: 90
-modifier: 7
+Initmod: 7
 Monster Type: NPC
 name: Mercenaries, Mercenary Rookie
 statblock: true
 tags: 
-Type: LN Medium humanoid (vesk)  
+type: LN Medium humanoid (vesk)
 ---
 
 # Mercenaries, Mercenary Rookie
@@ -17,7 +17,7 @@ Mercenaries work for the highest bidder, generally with no questions asked (exce
 
 ## Mercenaries, Mercenary Rookie
 
-**Source**:: _Pact Worlds pg. 174_
+**Source**:  _Pact Worlds pg. 174_
 
 ## Mercenary Rookie Cr 6
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 3 / 5
+
 price: 
 tags: 
 type: Ammo

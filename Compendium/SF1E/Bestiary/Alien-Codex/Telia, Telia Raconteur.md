@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: any (Pygos)  
+Environment: any (Pygos)
 hp: 104
-modifier: 5
+Initmod: 5
 name: Telia, Telia Raconteur
 statblock: true
 tags: 
-Type: NG Medium monstrous humanoid  
+Type: NG Medium monstrous humanoid
 ---
 
 # Telia, Telia Raconteur
@@ -22,7 +22,7 @@ Storytelling is central to telia society, and most are well practiced in the cra
 
 Telias originated on Pygos, the only inhabited planet in its Near Space system, rich with coral reefs, continent-spanning jungles, and complex cave systems, all teeming with unusual life. Thanks to their technological know-how, telias were among the first in the galaxy to correctly interpret Triune’s signal and build Drift engines. However, the ending of the Gap proved much more disorienting to telias than to shorter‑lived species, and it was only after decades of debate that a small delegation of telias first left their home world. Once introduced to the broader galaxy, telias have fallen in love with the near infinite diversity of life and experience available beyond their own star system, and they regularly make trips to the Pact Worlds and the Veskarium. The average telia is 4-1/2 feet tall and weighs 200 pounds.
 
-**Source**:: _Alien Archive 3 pg. 112_
+**Source**:  _Alien Archive 3 pg. 112_
 
 ## Telia Raconteur Cr 7
 

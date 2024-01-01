@@ -14,9 +14,11 @@ A typical expansion bay can store and launch one Gargantuan drop pod that can ho
 ## Drop Pod
 
 **Source**:: _Starship Operations Manual pg. 25_  
-**PCU** 5; **Cost (in BP)** 5
+**PCU**:: 5
+**Cost (in BP)**:: 5
 
 ## Drop Pod, Colossal
 
 **Source**:: _Starship Operations Manual pg. 25_  
-**PCU** 10; **Cost (in BP)** 10
+**PCU**:: 10
+**Cost (in BP)**:: 10

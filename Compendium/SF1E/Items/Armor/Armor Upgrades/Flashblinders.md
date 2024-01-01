@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 4 / 8 / 12 / 16
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -16,35 +16,39 @@ The crystals used at the core of this upgrade are harvested from a slow-moving, 
 ## Flashblinders, Mk 1
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 4;
-**Price**::  2,000  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
-**Capacity**:: 1; **Usage** 1  
+**Level**:: 4
+**Price**::  2000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
+**Capacity**:: 1 **Usage** 1  
 
 ## Flashblinders, Mk 2]
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 8;
-**Price**::  10,000  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
-**Capacity**:: 1; **Usage** 1  
+**Level**:: 8
+**Price**::  10000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
+**Capacity**:: 1 **Usage** 1  
   
   
 
 ## Flashblinders, Mk 3
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 12;
-**Price**::  38,000  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
-**Capacity**:: 1; **Usage** 1  
+**Level**:: 12
+**Price**::  38000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
+**Capacity**:: 1 **Usage** 1  
   
   
 
 ## Flashblinders, Mk 4
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 16;
-**Price**::  180,000  
-**Slots** 1; **Armor Type** Any; **Bulk** 1  
-**Capacity**:: 1; **Usage** 1
+**Level**:: 16
+**Price**::  180000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: 1  
+**Capacity**:: 1 **Usage** 1

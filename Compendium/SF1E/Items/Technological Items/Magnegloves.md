@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4
-price: 1,950
+
+price: 1950
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Magnegloves
 
 **Source**:: _Starfinder Armory pg. 105_  
-**Level** 4;
-**Price**::  1,950  
-**Capacity**:: 20; **Usage** Varies  
-**Hands** 2; **Bulk** 1
+**Level**:: 4
+**Price**::  1950  
+**Capacity**:: 20 **Usage** Varies  
+**Hands** 2 
+**Bulk**:: 1
 
 ### Description
 

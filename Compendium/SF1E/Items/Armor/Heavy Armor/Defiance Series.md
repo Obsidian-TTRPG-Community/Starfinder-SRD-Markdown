@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 10
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ The defiance series of heavy armor is the workhorse of squad armor. A formed har
 ## Defiance Series, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 7;
-**Price**::  6,300; **Category** Heavy  
-**EAC Bonus** +10; **KAC Bonus** +13; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -4; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 7
+**Price**::  6300 
+**Category**:: Heavy  
+
+**EAC**:: +10 
+**KAC**:: +13 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -4 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ## Defiance Series, Squad
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 3
-**Price**::  1,220; **Category** Heavy  
-**EAC Bonus** +5; **KAC Bonus** +8; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -4; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Price**::  1220 
+**Category**:: Heavy  
+
+**EAC**:: +5 
+**KAC**:: +8 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -4 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Defiance Series, Specialist
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 10;
-**Price**::  16,950; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +18; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -4; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 3; **Bulk** 3
+**Level**:: 10
+**Price**::  16950 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +18 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -4 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 3

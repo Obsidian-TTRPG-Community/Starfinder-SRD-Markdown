@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 5 / 8 / 13
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,51 @@ Many security forces and peacekeepers employ graviton pistols, since these weapo
 ## Graviton Pistol, Chiral
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 13;
-**Price**:: 49,500  
+**Level**:: 13
+**Price**:: 49500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 60 ft.;
+**Damage**:: — 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: gravitation (25 ft.)
+**Bulk**:: 2**Special**:: gravitation (25 ft.)
 
 ## Graviton Pistol, Linear
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 3;
-**Price**:: 1,450  
+**Level**:: 3
+**Price**:: 1450  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 60 ft.;
+**Damage**:: — 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: gravitation (10 ft.)
+**Bulk**:: 2**Special**:: gravitation (10 ft.)
 
 ## Graviton Pistol, Vector
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 5
-**Price**:: 3,050  
+**Price**:: 3050  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 60 ft.;
+**Damage**:: — 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: gravitation (15 ft.)
+**Bulk**:: 2**Special**:: gravitation (15 ft.)
 
 ## Graviton Pistol, Tensor
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 8;
-**Price**:: 9,800  
+**Level**:: 8
+**Price**:: 9800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 60 ft.;
+**Damage**:: — 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: gravitation (20 ft.)
+**Bulk**:: 2**Special**:: gravitation (20 ft.)

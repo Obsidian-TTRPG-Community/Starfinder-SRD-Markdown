@@ -3,12 +3,12 @@ aliases:
 NoteType: Mech
 tags: 
 Tier: 2
-Type: Huge skyspy
+type: Huge skyspy
 ---
 
 # Iau “TANGLER”
 
-**Source**:: _Tech Revolution pg. 122_  
+**Source**:  _Tech Revolution pg. 122_  
 Huge skyspy, **Tier** 2 
 **Operators** 1–2; **PP** 1 (2/turn, max 6)  
 **Speed** 30 ft., fly 80 ft. (average);  

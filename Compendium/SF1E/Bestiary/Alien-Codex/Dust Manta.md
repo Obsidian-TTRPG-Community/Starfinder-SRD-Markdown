@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 6
-Environment: warm deserts  
+Environment: warm deserts
 hp: 90
-modifier: 5
+Initmod: 5
 name: Dust Manta
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magucal beast(-)
+environment: deserts
+climate: warm
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - pod(3-8)
+  - fever(3-8) + dust manta monarch(1)
+source: Alien Archive 2
 ---
 
 # Dust Manta
@@ -26,7 +40,7 @@ The typical dust manta monarch stretches 20 feet across and weighs 8 tons.
 
 In Fullbright, some brave-or perhaps foolish-game hunters in the Outlaw Kingdoms pursue dust mantas for their desertadapted hides, despite the inherent danger in doing so. Those fortunate enough to survive their hunts craft suits of light armor from the hides, using nanocarbon filaments to stitch the armor together.
 
-**Source**:: _Alien Archive 2 pg. 46_
+**Source**:  _Alien Archive 2 pg. 46_
 
 ## Dust Manta Cr 6
 
@@ -72,3 +86,5 @@ N Large magical beast
 **Track** Strength; **Frequency** 1/round for 6 rounds  
 **Effect** At the dead state, the victim’s body disintegrates into dust. A creature that dies as a result of dust manta toxin can only be brought back to life by spells such as _miracle_, _wish_, or another similarly powerful effect.  
 **Cure** 1 save
+
+

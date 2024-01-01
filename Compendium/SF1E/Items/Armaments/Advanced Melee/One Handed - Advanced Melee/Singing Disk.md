@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 6 / 11 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Singing Disk, Alto
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 11;
-**Price**:: 23,600  
+**Level**:: 11
+**Price**:: 23600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 So;
+**Damage**:: 3d6 So
 **Critical**:: confuse  
 **Bulk**:: L
 **Special**:: analog, thrown (40 ft.)
@@ -32,7 +32,7 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 **Price**:: 115  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Damage**:: 1d4 So
 **Critical**:: confuse  
 **Bulk**:: L
 **Special**:: analog, thrown (20 ft.)
@@ -40,11 +40,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Singing Disk, Soprano
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 6;
-**Price**:: 3,900  
+**Level**:: 6
+**Price**:: 3900  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 So;
+**Damage**:: 1d6 So
 **Critical**:: confuse  
 **Bulk**:: L
 **Special**:: analog, thrown (30 ft.)
@@ -52,11 +52,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Singing Disk, Tenor
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 16;
-**Price**:: 146,000  
+**Level**:: 16
+**Price**:: 146000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d6 So;
+**Damage**:: 7d6 So
 **Critical**:: confuse  
 **Bulk**:: L
 **Special**:: analog, thrown (60 ft.)
@@ -64,11 +64,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Singing Disk, Bass
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 19;
-**Price**:: 482,000  
+**Level**:: 19
+**Price**:: 482000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 So;
+**Damage**:: 10d6 So
 **Critical**:: confuse  
 **Bulk**:: L
 **Special**:: analog, thrown (80 ft.)

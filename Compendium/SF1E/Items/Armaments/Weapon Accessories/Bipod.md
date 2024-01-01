@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 2 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,9 +14,10 @@ A bipod is a set of sturdy legs attached to a railed weapon’s bottom rail. You
 ## Bipod, Heavy
 
 **Source**:: _Starfinder Armory pg. 58_  
-**Level** 2;
-**Price**::  700; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 2
+**Price**::  700 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 
@@ -25,9 +26,10 @@ Reduce your total penalty by 2, or by 1 with a heavy weapon. In addition, a stab
 ## Bipod, light
 
 **Source**:: _Starfinder Armory pg. 58_  
-**Level** 1;
-**Price**::  350; **Bulk** —  
-**Weapon Types** railed weapon
+**Level**:: 1
+**Price**::  350 
+**Bulk**:: —  
+**WeaponTypes**:: railed weapon
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: any sky (Old Ustavia)  
+Environment: any sky (Old Ustavia)
 hp: 145
-modifier: 3
+Initmod: 3
 name: Vasporan
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Vasporan
@@ -20,7 +20,7 @@ In recent years, xenobiologists have posited that some particularly hardy specim
 
 A typical vasporan is 11 feet long and weighs 750 pounds.
 
-**Source**:: _Alien Archive 4 pg. 132_
+**Source**:  _Alien Archive 4 pg. 132_
 
 ## Vasporan Cr 9
 

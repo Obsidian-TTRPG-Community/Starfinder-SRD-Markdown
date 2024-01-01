@@ -1,18 +1,28 @@
 ---
 aliases: 
 cr: 10
-Environment: any (Embroi)  
+Environment: any (Embroi)
 hp: 140
-modifier: 4
+Initmod: 4
 name: Embri, Embri Speaker
 statblock: true
 tags: 
-Type: LE Medium aberration  
+Type: LE Medium aberration
+combatType: spellcaster
+alignment: LE
+size: medium
+type(subtype): aberration(-)
+environment: any
+climate: any
+planet: Embroi
+organization:
+  - solitary
+source: Alien Archive 2
 ---
 
 # Embri, Embri Speaker
 
-**Source**:: _Alien Archive 2 pg. 49_  
+**Source**:  _Alien Archive 2 pg. 49_  
 The embri are highly evolved mollusks with an exceptionally rigid social order. Every embri knows its place among the hierarchy of embri society and performs the duties of its station without complaint. The society’s few rebels or free thinkers, when discovered, are exiled or executed. This rigid order has allowed embri society to excel in technological and magical development, although outsiders view embri creations as soulless or downright gruesome— their vast, fiery factory-forges ring with the rhythmic clang of machinery, and blood-fueled vermicular vessels heave across their world with peristaltic contractions.
 
 Embri evolved from aquatic ancestors long ago, and their four strong limbs have sharp claws at the end allowing them to walk upright on land. These claws have significant flexibility, so embri can use tools and weapons. The average embri is 4 feet tall with a trailing tail that’s slightly longer, and most weigh around 200 pounds. Embri reproduce asexually, and while they once would bud young based on the seasons of their home world, budding is now rigidly controlled by embri bureaucracy and allowed only on schedules set by the office of the spawning administrator. Young embri are raised in institutional academies where they’re trained to be diligent and compliant and are rewarded for informing on classmates who demonstrate deviant thinking or “anomalous independence.”
@@ -30,7 +40,7 @@ The diabolic taint on embri society is pervasive, yet subtle. For example, the e
 Many embri work hard to afford masks with magical abilities. In addition to the ordinary functions of displaying social status and shielding an embri’s emotions, these masks provide additional abilities to embri wearing them. One of the most common of these masks is the _hivemask_.
 
 
-**Source**:: _Alien Archive 2 pg. 48_
+**Source**:  _Alien Archive 2 pg. 48_
 
 ## Embri Speaker Cr 10
 
@@ -81,3 +91,5 @@ At will—_mindlink_
 
 The following extra content was found for this creature:  
 \- Embri Race Entry
+
+

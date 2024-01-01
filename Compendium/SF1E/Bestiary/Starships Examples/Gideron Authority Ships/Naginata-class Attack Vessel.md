@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 14
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Naginata-class Attack Vessel

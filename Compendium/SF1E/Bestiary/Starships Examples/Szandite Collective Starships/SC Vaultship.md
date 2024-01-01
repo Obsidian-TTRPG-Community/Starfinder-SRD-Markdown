@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 7
-Type: Large heavy freighter
+type: Large heavy freighter
 ---
 
 # Sc Vaultship

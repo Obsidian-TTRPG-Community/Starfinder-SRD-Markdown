@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 7 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,25 +16,23 @@ This rifle fires compacted nyfiber nets that unravel and entangle on contact wit
 ## Net Gun, Bolt
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 7;
-**Price**:: 5,250  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d4 E; **Range**:: 30 ft.;
+**Level**:: 7
+**Price**:: 5250  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d4 E; 
+**Range**:: 30 ft.
 **Critical**:: Stunned  
 **Capacity**:: 2 nets ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Entangle, stun
+**Bulk**:: 1**Special**:: Entangle, stun
 
 ## Net Gun, Wireframe
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 4
-**Price**:: 1,750  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: — **Range**:: 30 ft.;
+**Price**:: 1750  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: — 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 2 nets ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Entangle
+**Bulk**:: 1**Special**:: Entangle

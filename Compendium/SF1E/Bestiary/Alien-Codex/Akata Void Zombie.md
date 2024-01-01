@@ -3,16 +3,17 @@ aliases:
 cr: 1
 Environment: any
 hp: 22
-modifier: 2
+Initmod: 2
 name: Akata, Void Zombie
 statblock: true
-tags: [1:]
-Type: NE Medium undead  
+tags:
+  - "1:"
+Type: NE Medium undead
 ---
 
 # Akata, Void Zombie
 
-**Source**:: _Alien Archive 2 pg. 8_, _Starfinder Incident at Absalom Station pg. 61_
+**Source**:  _Alien Archive 2 pg. 8_, _Starfinder Incident at Absalom Station pg. 61_
 
 ## Void Zombie Cr 1
 

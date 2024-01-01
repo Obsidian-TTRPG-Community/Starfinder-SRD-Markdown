@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 8
-Environment: any underground  
+Environment: any underground
 hp: 115
-modifier: 2
+Initmod: 2
 name: Bolida, Bolida Overseer
 statblock: true
 tags: 
-Type: CN Medium vermin  
+Type: CN Medium vermin
+combatType: expert
+alignment: CN
+size: medium
+type(subtype): vermin(-)
+environment: underground
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - convoy(1) + bolida miner()
+source: Alien Archive 2
 ---
 
 # Bolida, Bolida Overseer
@@ -22,7 +35,7 @@ Bolidas exhibit no discernible sexual dimorphism or gender, and each bolida is c
 
 ## Bolida, Bolida Overseer
 
-**Source**:: _Alien Archive 2 pg. 20_
+**Source**:  _Alien Archive 2 pg. 20_
 
 ## Bolida Overseer Cr 8
 
@@ -69,3 +82,5 @@ CN Medium vermin
 
 The following extra content was found for this creature:  
 \- Bolida Race Entry
+
+

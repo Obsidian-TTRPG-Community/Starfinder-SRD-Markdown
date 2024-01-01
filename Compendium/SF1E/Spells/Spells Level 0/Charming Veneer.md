@@ -4,10 +4,10 @@ Level: 0
 Mystic: 
 NoteType: Spell
 Precog: 
-School: illusion
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Charming Veneer

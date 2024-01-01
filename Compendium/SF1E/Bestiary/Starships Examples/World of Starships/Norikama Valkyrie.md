@@ -3,13 +3,13 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 15
-Type: Gargantuan battleship
+type: Gargantuan battleship
 ---
 
 # Norikama Valkyrie
 
-> [!infobox|locr n-th clean]
->  [[Starship_NorikamaValkyrie.jpg|Spielern zeigen!]]
+> [!infobox|locr n-th clean
+>  [[Starship_NorikamaValkyrie.jpg|Spielern zeigen!]
 > 
 Gargantuan battleship, **Tier** 15 
 **Speed** 6; **Maneuverability** average (turn 3); **Drift** 1  

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Neeroon)  
+Environment: any (Neeroon)
 hp: 45
-modifier: 3
+Initmod: 3
 name: Espraksa, Espraksa Performer
 statblock: true
 tags: 
-Type: CG Medium humanoid (espraksa)  
+Type: CG Medium humanoid (espraksa)
 ---
 
 # Espraksa, Espraksa Performer
@@ -24,7 +24,7 @@ Due to their exposure to many cultures and fields, espraksas fill many vocations
 
 An espraksa’s journey can last decades. Most return to Neeroon when they feel their travels have provided enough novelty. Then, such espraksas settle down on their icy world, find mates, and start families. Older espraksas are highly valued leaders, philosophers, and teachers, their know-how honed over a lifetime of exploration. Some elder espraksas are celebrated experts even beyond Neeroon, renowned across the galaxy for their breadth of experience.
 
-**Source**:: _Alien Archive 3 pg. 32_
+**Source**:  _Alien Archive 3 pg. 32_
 
 ## Espraksa Performer Cr 4
 

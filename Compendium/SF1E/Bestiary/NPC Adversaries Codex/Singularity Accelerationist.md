@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 100
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Singularity Accelerationist
-statblock: true
-Subtype: Tyrants
+statblock: true(Tyrants
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Singularity Accelerationist

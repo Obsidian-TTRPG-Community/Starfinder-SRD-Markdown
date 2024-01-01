@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13
+
 price: 
 tags: 
 Type: Magic Item
@@ -12,8 +12,9 @@ The cloak allows a number of rerolls per day based on its type.
 ## Diffraction Cloak, Mk 1
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 5;
-**Price**::  3,200; **Bulk** 1
+**Level**:: 5
+**Price**::  3200 
+**Bulk**:: 1
 
 ### Description
 
@@ -24,8 +25,9 @@ One reroll
 ## Diffraction Cloak, Mk 2
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 9;
-**Price**::  12,500; **Bulk** 1
+**Level**:: 9
+**Price**::  12500 
+**Bulk**:: 1
 
 ### Description
 
@@ -34,8 +36,9 @@ Two rerolls
 ## Diffraction Cloak, Mk 3
 
 **Source**:: _Starfinder Armory pg. 112_  
-**Level** 13;
-**Price**::  51,000; **Bulk** 1
+**Level**:: 13
+**Price**::  51000 
+**Bulk**:: 1
 
 ### Description
 

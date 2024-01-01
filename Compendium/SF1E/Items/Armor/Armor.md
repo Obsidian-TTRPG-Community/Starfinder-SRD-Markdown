@@ -15,15 +15,20 @@ Most suits of armor consist of a helmet, gloves, boots, and a bodysuit that offe
 
 Each entry on the armor tables starting on page 197 describes a single suit of armor, with the following statistics. 
 
--   **Level**: The armor’s item level (see page 167).
+-   **Level**::: The armor’s item level (see page 167).
 -   **Price**: This is the price in credits of the suit of armor.
--   **EAC Bonus**: This is the bonus your armor adds to your Energy Armor Class, which protects against attacks from laser [[Mech Weapons]], plasma cannons, and the like (see page 240).
--   **KAC Bonus**: This is the bonus your armor adds to your Kinetic Armor Class, which protects against projectiles, most melee weapons, and other solid objects (see page 240).
+-   
+**EAC**::: This is the bonus your armor adds to your Energy Armor Class, which protects against attacks from laser [[Mech Weapons]], plasma cannons, and the like (see page 240).
+-   
+**KAC**::: This is the bonus your armor adds to your Kinetic Armor Class, which protects against projectiles, most melee weapons, and other solid objects (see page 240).
 -   **Maximum Dex Bonus**: You normally add your Dexterity modifier to your Armor Class (for both EAC and KAC), but it’s limited by your armor. Your armor’s maximum Dexterity bonus indicates how much of your Dexterity modifier you can add to AC. Any excess Dexterity doesn’t raise your AC further and is simply ignored for this purpose.
--   **Armor Check Penalty**: You take a penalty to most Strengthand Dexterity-based [[Skill Checks]] equal to this number. See Chapter 5 for a more complete list of which [[Skills]] apply.
--   **Speed Adjustment**: While wearing the armor, your speed is adjusted by this number.
--   **Upgrade Slots**: You can improve your armor with magic and technological upgrades. This entry shows how many total upgrades your armor can accommodate. Some [[Armor Upgrades]] are larger or more complicated and take up multiple upgrade slots (see page 204.)
--   **Bulk**: This is the bulk of the item (see page 167).
+-   
+**Armor-Check-Penalty**::: You take a penalty to most Strengthand Dexterity-based [[Skill Checks]] equal to this number. See Chapter 5 for a more complete list of which [[Skills]] apply.
+-   
+**Speed-Adjustment**::: While wearing the armor, your speed is adjusted by this number.
+-   **Upgrade slots**::: You can improve your armor with magic and technological upgrades. This entry shows how many total upgrades your armor can accommodate. Some [[Armor Upgrades]] are larger or more complicated and take up multiple upgrade slots (see page 204.)
+-   
+**Bulk**::: This is the bulk of the item (see page 167).
 
 # Wearing Armor
 

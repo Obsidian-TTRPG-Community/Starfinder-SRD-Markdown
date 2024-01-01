@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: any forest or hills  
+Environment: any forest or hills
 hp: 105
-modifier: 4
+Initmod: 4
 name: Mordagast
 statblock: true
 tags: 
-Type: N Medium animal  
+Type: N Medium animal
 ---
 
 # Mordagast
@@ -20,7 +20,7 @@ Although mordagasts rarely live past 10 years, under special circumstances a mor
 
 Yet the strangest of mordagast butchers’ features is their adaptation to space environments. Survey vessels periodically identify these creatures patiently clinging to asteroids and other low-gravity bodies. From there they raid mining operations, launch themselves onto passing starships, or even ride space debris toward distant worlds. By detaching from meteorites high in a planet’s atmosphere, these mordagasts can dissipate and float to the surface to lay eggs and populate new worlds.
 
-**Source**:: _Alien Archive 4 pg. 72_
+**Source**:  _Alien Archive 4 pg. 72_
 
 ## Mordagast Cr 7
 

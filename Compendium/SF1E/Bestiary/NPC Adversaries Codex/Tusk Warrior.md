@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 145
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Tusk Warrior
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Tusk Warrior

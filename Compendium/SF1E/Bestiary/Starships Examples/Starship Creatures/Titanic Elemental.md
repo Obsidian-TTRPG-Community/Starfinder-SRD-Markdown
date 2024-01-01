@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: N Huge starship outsider (elemental, extraplanar)
+type: N Huge starship outsider (elemental, extraplanar)
 ---
 
 # Titanic Elemental
 
-**Source**:: _Alien Archive 4 pg. 30_
+**Source**:  _Alien Archive 4 pg. 30_
 
 N Huge starship outsider (elemental, extraplanar), **Tier** 10 
 **Speed** 8; **Maneuverability** average (turn 2); **Drift** —  

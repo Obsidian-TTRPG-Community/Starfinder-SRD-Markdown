@@ -9,7 +9,7 @@ tags:
 
 ``` dataview
 TABLE
-School, Mystic, Precog, Techomancer, Witchwarper
+School, Mystic, Precog, Technomancer, Witchwarper
 FROM #sf1e/spells/multilevel
 SORT Level ASC
 ```

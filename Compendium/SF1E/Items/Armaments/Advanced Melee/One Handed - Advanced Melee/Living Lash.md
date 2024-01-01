@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 6
+
 Notetype: Weapon
-price: 4,150
+price: 4150
 tags: 
 type: Advanced-Melee
 ---
@@ -11,11 +11,11 @@ type: Advanced-Melee
 # Living Lash
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 6;
-**Price**:: 4,150  
+**Level**:: 6
+**Price**:: 4150  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 S;
+**Damage**:: 1d8 S
 **Critical**:: bind  
 **Bulk**:: L
 **Special**:: living, powered (capacity 20; usage 1), reach, thought, unwieldy

@@ -1,25 +1,38 @@
 ---
 aliases: 
 cr: 7
-Environment: any land or underground (Castrovel)  
+Environment: any land or underground (Castrovel)
 hp: 90
-modifier: 2
+Initmod: 2
 name: Formian, Formian Taskmaster
 statblock: true
 tags: 
-Type: LN Medium monstrous humanoid  
+Type: LN Medium monstrous humanoid
+combatType: spellcaster
+alignment: LN
+size: medium
+type(subtype): monstrous humanoid(-)
+environment:
+  - lands
+  - underground
+climate: any
+planet: Castrovel
+organization:
+  - solitary
+  - exchange(2-6)
+source: Alien Archive 2
 ---
 
 # Formian, Formian Taskmaster
 
 ## Formian
 
-**Source**:: _Alien Archive pg. 50_  
+**Source**:  _Alien Archive pg. 50_  
 Formians resemble giant ants with humanoid upper bodies, and carve their chitinous plates with insignias reflecting their individual names and achievements. Members of a hive all share a telepathic link, allowing them to coordinate efficiently. Within a hive are castes specialized to particular tasks. The queen leads the hive and is its sole means of propagation, while castes like the aristocratic myrmarchs and mercantile taskmasters direct lower castes like warriors and workers. Formians are most common on Castrovel. For millennia they sought to eradicate the lashunta, their traditional foes, but their queens now instead focus on adopting other species’ technology to industrialize their traditional hive societies.
 
 ## Formian, Formian Taskmaster
 
-**Source**:: _Alien Archive 2 pg. 52_
+**Source**:  _Alien Archive 2 pg. 52_
 
 ## Formian Taskmaster Cr 7
 
@@ -80,3 +93,5 @@ Formian taskmasters play a mercantile role and often represent formian interests
 
 The following extra content was found for this creature:  
 \- Formian Race Entry
+
+

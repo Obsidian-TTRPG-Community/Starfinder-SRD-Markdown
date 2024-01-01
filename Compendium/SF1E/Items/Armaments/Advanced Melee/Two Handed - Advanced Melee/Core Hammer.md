@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,47 +21,39 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Core Hammer, Fusion
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 13;
-**Price**:: 48,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 E & F;
+**Level**:: 13
+**Price**:: 48200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d6 E & F
 **Critical**:: jet 4d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 5)
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 5)
 
 ## Core Hammer, Tactical
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 3;
-**Price**:: 1,320  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & F;
+**Level**:: 3
+**Price**:: 1320  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 E & F
 **Critical**:: jet 1d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2)
 
 ## Core Hammer, Advanced
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 8;
-**Price**:: 9,150  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 E & F;
+**Level**:: 8
+**Price**:: 9150  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 E & F
 **Critical**:: jet 2d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2)
 
 ## Core Hammer, Reactor
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 20;
-**Price**:: 725,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 15d6 E & F;
+**Level**:: 20
+**Price**:: 725000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 15d6 E & F
 **Critical**:: jet 8d6  
-**Bulk**:: 2;
-**Special**:: powered (capacity 80; usage 8)
+**Bulk**:: 2**Special**:: powered (capacity 80; usage 8)

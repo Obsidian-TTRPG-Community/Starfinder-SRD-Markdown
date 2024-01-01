@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 6 / 12 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,10 @@ This bulky glove fits over the user’s hand, with reinforced plates covering th
 
 **Source**:: _Starfinder Armory pg. 53_  
 **Level**:: 12
-**Price**:: 32,500  
+**Price**:: 32500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 4d8 B;
+**Damage**:: 4d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, shells (2; usage 2)
@@ -27,11 +27,11 @@ This bulky glove fits over the user’s hand, with reinforced plates covering th
 ## Shell Knuckles, Tactical
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 6;
-**Price**:: 4,050  
+**Level**:: 6
+**Price**:: 4050  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d4 B;
+**Damage**:: 3d4 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, shells (1; usage 1)
@@ -39,11 +39,11 @@ This bulky glove fits over the user’s hand, with reinforced plates covering th
 ## Shell Knuckles, Elite
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 16;
-**Price**:: 151,000  
+**Level**:: 16
+**Price**:: 151000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 10d8 B;
+**Damage**:: 10d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, shells (3; usage 3)
@@ -51,11 +51,11 @@ This bulky glove fits over the user’s hand, with reinforced plates covering th
 ## Shell Knuckles, Paragon
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 20;
-**Price**:: 525,000  
+**Level**:: 20
+**Price**:: 525000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 14d8 B;
+**Damage**:: 14d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, shells (4; usage 4)

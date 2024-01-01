@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,10 +14,11 @@ A sight is an improved version of the common targeting sights used by most range
 ## Sight, Laser
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 5;
-**Price**::  3,000; **Bulk** L  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 5
+**Price**::  3000 
+**Bulk**:: L  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 
@@ -26,9 +27,10 @@ A laser sight functions as a manual sight with additional laser targeting capabi
 ## Sight, Manual
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 2;
-**Price**::  1,000; **Bulk** L  
-**Weapon Types** railed weapon, small arm
+**Level**:: 2
+**Price**::  1000 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 

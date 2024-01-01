@@ -3,11 +3,24 @@ aliases:
 cr: 9
 Environment: any
 hp: 135
-modifier: 6
+Initmod: 6
 name: Robot, Assassin Robot
 statblock: true
 tags: 
-Type: N Medium construct (technological)  
+Type: N Medium construct (technological)
+combatType: expert
+alignment: N
+size: medium
+type(subtype): construct(technological)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - team(3-5)
+source: Alien Archive 2
 ---
 
 # Robot, Assassin Robot
@@ -24,7 +37,7 @@ There is nothing subtle, however, about a siege robot. These machines serve as a
 
 A siege robot can be used as a vehicle in vehicle combat or vehicle chases. In such cases it acts as its own pilot and has the following additional statistics: item level equal to its CR; drive speed 60 ft., full speed 500 ft., overland speed 60 mph, (hover); hardness 8; collision damage 16d10 B (DC 19); –3 attack roll penalty (–6 at full speed). A siege robot acting as a vehicle can carry up to 4 Medium passengers but provides them no cover.
 
-**Source**:: _Alien Archive 2 pg. 108_
+**Source**:  _Alien Archive 2 pg. 108_
 
 ## Assassin Robot Cr 9
 
@@ -71,3 +84,5 @@ N Medium construct (technological)
 **Retractable Weapons (Ex)** When not in use, each of an assassin robot’s weapons is folded inside the robot’s body and hidden from sight. A creature unaware of the robot’s hidden weapons must succeed at a DC 35 Perception check to notice one. An assassin robot can deploy any or all of its weapons as a swift action or as part of making an attack or full attack. Its weapons are mounted, leaving the robot’s hands free, and the robot can’t be disarmed of them. As a swift action, the robot can retract any or all of its weapons.
 
 **Target Tracking (Ex)** As a move action, an assassin robot can lock on to one target it can see. The tracked target doesn’t benefit from concealment against the robot and can’t succeed at Bluff checks against the robot to create a diversion. This tracking ends if the tracked target dies or is destroyed, the robot ceases being able to see the target, or the robot ends it as a move action.
+
+

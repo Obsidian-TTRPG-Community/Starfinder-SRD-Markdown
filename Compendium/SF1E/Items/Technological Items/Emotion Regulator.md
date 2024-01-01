@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 12
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,10 +13,11 @@ This small device is often worn strapped to the back of the neck or attached to 
 ## Emotion Regulator, Advanced
 
 **Source**:: _Starfinder Armory pg. 103_  
-**Level** 12;
-**Price**::  37,000  
-**Capacity**:: 100; **Usage** 1/10 minutes  
-**Hands** —; **Bulk** L
+**Level**:: 12
+**Price**::  37000  
+**Capacity**:: 100 **Usage** 1/10 minutes  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 
@@ -27,10 +28,11 @@ An advanced emotion regulator is more effective at suppressing a broader range o
 ## Emotion Regulator, Basic
 
 **Source**:: _Starfinder Armory pg. 103_  
-**Level** 2;
+**Level**:: 2
 **Price**::  800  
-**Capacity**:: 20; **Usage** 1/10 minutes  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 1/10 minutes  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -3,12 +3,12 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 9
-Type: N Huge starship magical beast
+type: N Huge starship magical beast
 ---
 
 # Vermelith
 
-**Source**:: _Alien Archive 2 pg. 130_
+**Source**:  _Alien Archive 2 pg. 130_
 
 N Huge starship magical beast, **Tier** 9 
 **Speed** 4; **Maneuverability** poor (turn 3); **Drift** —  

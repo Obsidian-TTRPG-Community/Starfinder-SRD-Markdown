@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 150
-modifier: 11
+Initmod: 11
 Monster Type: NPC
 name: Bounty Hunter
-statblock: true
-Subtype: Bounty Hunters
+statblock: true(Bounty Hunters
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Bounty Hunter

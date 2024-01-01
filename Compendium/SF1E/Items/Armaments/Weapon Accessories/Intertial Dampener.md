@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 6
+
 Notetype: Weapon
-price: 4,000
+price: 4000
 tags: 
 type: Weapon Accessories
 ---
@@ -10,10 +10,11 @@ type: Weapon Accessories
 # Intertial Dampener
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 6;
-**Price**::  4,000; **Bulk** L  
-**Capacity**:: 20; **Usage** 1/minute  
-**Weapon Types** any
+**Level**:: 6
+**Price**::  4000 
+**Bulk**:: L  
+**Capacity**:: 20 **Usage** 1/minute  
+**WeaponTypes**:: any
 
 ### Description
 

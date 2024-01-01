@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 11 / 19
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Produced by priests of good-aligned deities, holy water grenades explode with a 
 ## Holy Water Grenade, Mk 1
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 375  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Produced by priests of good-aligned deities, holy water grenades explode with a 
 **Price**:: 940  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Produced by priests of good-aligned deities, holy water grenades explode with a 
 ## Holy Water Grenade, Mk 3
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 11;
-**Price**:: 7,680  
+**Level**:: 11
+**Price**:: 7680  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Produced by priests of good-aligned deities, holy water grenades explode with a 
 ## Holy Water Grenade, Mk 4
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 19;
-**Price**:: 175,000  
+**Level**:: 19
+**Price**:: 175000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

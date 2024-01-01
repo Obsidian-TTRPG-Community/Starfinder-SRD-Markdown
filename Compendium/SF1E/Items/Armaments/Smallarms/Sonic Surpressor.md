@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,10 +19,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 12
-**Price**:: 36,500  
+**Price**:: 36500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 So; **Range**:: 40 ft.;
+**Damage**:: 2d8 So; 
+**Range**:: 40 ft.
 **Critical**:: stifle  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Suppressor, Murmur
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 3;
-**Price**:: 1,430  
+**Level**:: 3
+**Price**:: 1430  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 So; **Range**:: 40 ft.;
+**Damage**:: 1d4 So; 
+**Range**:: 40 ft.
 **Critical**:: stifle  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Suppressor, Whisper
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 8;
-**Price**:: 9,700  
+**Level**:: 8
+**Price**:: 9700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 So; **Range**:: 40 ft.;
+**Damage**:: 2d4 So; 
+**Range**:: 40 ft.
 **Critical**:: stifle  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Sonic Suppressor, Repose
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 17;
-**Price**:: 257,000  
+**Level**:: 17
+**Price**:: 257000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d8 So; **Range**:: 40 ft.;
+**Damage**:: 4d8 So; 
+**Range**:: 40 ft.
 **Critical**:: stifle  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L

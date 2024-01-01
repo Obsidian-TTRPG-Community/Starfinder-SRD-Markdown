@@ -3,11 +3,11 @@ aliases:
 cr: 13
 Environment: any
 hp: 190
-modifier: 8
+Initmod: 8
 name: Sombrian, Solmyr
 statblock: true
 tags: 
-Type: LN Medium fey  
+Type: LN Medium fey
 ---
 
 # Sombrian, Solmyr
@@ -18,7 +18,7 @@ Those born from a lunar eclipse are called lumyrs, while those born from a solar
 
 While lumyrs are insatiably curious and hedonistic, solmyrs are more reclusive and less focused on the ephemeral amusements of their kin. Many mythologies purport that each solmyr is granted a piece of prophecy upon their creation, most often a portent or warning about their star system of origin.
 
-**Source**:: _Alien Archive 4 pg. 112_
+**Source**:  _Alien Archive 4 pg. 112_
 
 ## Solmyr Cr 13
 

@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-5
+
 Type: Tiny ooze  
 ---
 # PROOG - COMPANIONS
@@ -8,7 +8,8 @@ Type: Tiny ooze
 **Source**:: _Alien Archive 3 pg. 144_  
 Proogs are highly active shape- and color-shifting oozes that enjoy mimicking small objects; they’re most commonly bred as novelty pets. Xenobiologists disagree on how the oozes manage to so accurately duplicate details like color and pattern without sight. Proogs tend to imprint on a single larger creature, and while naturally curious, they rarely stray farther from their owner than the range of their blindsight.
 
-## PROOGLEVELS 1-5
+## PROOG
+level:: 1-5
 
 Tiny ooze  
 **Senses** blindsight (life) 60 ft., sightless  

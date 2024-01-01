@@ -22,7 +22,8 @@ Weapons belong to one of three classifications. Light weapons can be mounted on 
 
 ## Type
 
-Starship weapons are one of two types. Direct-fire weapons fire projectiles or beams at amazing speed, targeting the opposing vessel’s AC. Tracking weapons’ projectiles are slower and must home in using a target’s TL. A tracking weapon’s projectile has a listed speed; once fired, it moves that number of hexes toward its target. Each subsequent round during the gunnery phase, it must succeed at a gunnery check against the target’s TL to continue to move its speed toward its target. On a failure, the projectile is lost. If the projectile reaches the target’s hex, it deals the listed damage.  
+Starship weapons are one of two types. Direct-fire weapons fire projectiles or beams at amazing speed, targeting the opposing vessel’s AC. Tracking weapons’ projectiles are slower and must home in using a target’s TL. A tracking weapon’s projectile has a listed speed
+once fired, it moves that number of hexes toward its target. Each subsequent round during the gunnery phase, it must succeed at a gunnery check against the target’s TL to continue to move its speed toward its target. On a failure, the projectile is lost. If the projectile reaches the target’s hex, it deals the listed damage.  
 
 ## Range
 
@@ -59,7 +60,8 @@ If you install two of the same direct-fire weapon in the same firing arc, you ca
 **Source**:: _Starship Operations Manual pg. 12_  
 Electronic countermeasure (ECM) modules are a type of powerful instrument designed to foil an enemy starship’s sensors, impair a starship’s systems, and in some cases alter the battlefield itself. ECM modules must be installed on weapon mounts, but they are activated by a science officer during the gunnery phase. ECM modules follow the same rules for range and quadrant targeting as conventional starship weapons.
 
-When activating an ECM module, a science officer attempts a special gunnery check, adding their ranks in the Computers skill but adding neither their base attack bonus nor their ranks in the Piloting skill, and adding their Intelligence modifier in place of their Dexterity modifier; an NPC officer typically has a gunnery modifier equal to that of the gunner’s gunnery modifier. Compare the result of this gunnery check to the target’s Target Lock (TL). If the result equals or exceeds the target’s TL, the science officer hits and applies the ECM module’s effects. Due to the interference created by shields, starships with functioning shields in the targeted quadrant gain a +2 circumstance bonus to their TL against ECM modules. ECM modules do not deal critical damage.
+When activating an ECM module, a science officer attempts a special gunnery check, adding their ranks in the Computers skill but adding neither their base attack bonus nor their ranks in the Piloting skill, and adding their Intelligence modifier in place of their Dexterity modifier
+an NPC officer typically has a gunnery modifier equal to that of the gunner’s gunnery modifier. Compare the result of this gunnery check to the target’s Target Lock (TL). If the result equals or exceeds the target’s TL, the science officer hits and applies the ECM module’s effects. Due to the interference created by shields, starships with functioning shields in the targeted quadrant gain a +2 circumstance bonus to their TL against ECM modules. ECM modules do not deal critical damage.
 
 ## Melee Weapons
 

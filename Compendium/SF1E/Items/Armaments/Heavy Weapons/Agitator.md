@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,14 +20,16 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Agitator, Blaze
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 6;
-**Price**:: 4,300  
-**Hands**:: 2;
+**Level**:: 6
+**Price**:: 4300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 F; **Range**:: 80 ft.;
+**Damage**:: 2d6 F 
+**Range**:: 80 ft.
 **Critical**:: burn 2d4  
-**Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: boost 1d6
 
 ## Agitator, Ember
@@ -35,36 +37,42 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 1
 **Price**:: 330  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 F; **Range**:: 60 ft.;
+**Damage**:: 1d8 F 
+**Range**:: 60 ft.
 **Critical**:: burn 1d4  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: boost 1d4
 
 ## Agitator, Inferno
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 13;
-**Price**:: 50,800  
-**Hands**:: 2;
+**Level**:: 13
+**Price**:: 50800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d6 F; **Range**:: 80 ft.;
+**Damage**:: 6d6 F 
+**Range**:: 80 ft.
 **Critical**:: burn 3d4  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 2d6
 
 ## Agitator, Solar Flare
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 19;
-**Price**:: 580,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 580000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 12d6 F; **Range**:: 100 ft.;
+**Damage**:: 12d6 F 
+**Range**:: 100 ft.
 **Critical**:: burn 4d4  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 5d6

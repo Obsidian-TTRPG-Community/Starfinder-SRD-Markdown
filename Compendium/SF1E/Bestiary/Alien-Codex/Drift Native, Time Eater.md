@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 2
-Environment: the Drift  
+Environment: the Drift
 hp: 25
-modifier: 0
+Initmod: 0
 name: Drift Native, Time Eater
 statblock: true
 tags: 
-Type: N Medium outsider (extraplanar)  
+Type: N Medium outsider (extraplanar)
 ---
 
 # Drift Native, time Eater
@@ -24,7 +24,7 @@ A small number of drift architects are constantly at work at the edges of Alluvi
 
 If Drift architects have a broader agenda, it is as yet unknown, as almost no known method of communication has proven successful in opening a dialogue with the creatures. They mostly ignore visitors to the Drift unless attacked or provoked, and even then they often flee rather than engage in combat. Only followers of Triune have reported any success at communicating with them, and even then, only if they’re on a mission of importance to Triune or their church. In those rare situations, drift architects can prove to be potent allies, transporting a small group of travelers to nearly any point in the Drift almost instantaneously.
 
-**Source**:: _Alien Archive 3 pg. 24_
+**Source**:  _Alien Archive 3 pg. 24_
 
 ## Time Eater Cr 2
 

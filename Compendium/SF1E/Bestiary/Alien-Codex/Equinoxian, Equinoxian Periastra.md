@@ -3,11 +3,11 @@ aliases:
 cr: 9
 Environment: any
 hp: 145
-modifier: 4
+Initmod: 4
 name: Equinoxian, Equinoxian Periastra
 statblock: true
 tags: 
-Type: LN Medium outsider (native)  
+Type: LN Medium outsider (native)
 ---
 
 # Equinoxian, Equinoxian Periastra
@@ -17,7 +17,7 @@ Equinoxians are rare and unusual native outsiders who simultaneously embody the 
 Equinoxian periastras are masters of the Cycle, perpetually balancing the gravitonic and photonic forces comprising their bodies, and they are legendary for their fighting prowess. They oppose forces of chaos and guard sites holy to solarians, allowing visitors to enter only after they have proven their mastery of the Cycle in combat.
 
 Those equinoxians who cannot maintain balance are driven mad, becoming the tragic and powerful figures known as apastras. Apastras seek to cause imbalance and collapse wherever they can, and solarians justly fear the enraged creatures.
-**Source**:: _Alien Archive 3 pg. 30_
+**Source**:  _Alien Archive 3 pg. 30_
 
 ## Equinoxian Periastra Cr 9
 

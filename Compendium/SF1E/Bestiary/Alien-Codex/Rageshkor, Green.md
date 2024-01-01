@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: temperate or warm forests or plains  
+Environment: temperate or warm forests or plains
 hp: 90
-modifier: 1
+Initmod: 1
 name: Rageshkor, Green
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Rageshkor, Green
@@ -21,7 +21,7 @@ The smaller green rageshkors are the most prolific species, still prevalent in V
 The might and ferocity of green rageshkors pale in comparison to those of their larger kin, rock rageshkors. These rare animals are typically solitary, and during less prosperous times, rock rageshkors hunker down into a form of hibernation. Combined with their camouflaged bodies and the accumulation of windblown debris, these animals often fade into the landscape, snapping to vicious alertness only to ambush prey that mistakes it for a boulder.
 
 
-**Source**:: _Alien Archive 4 pg. 96_
+**Source**:  _Alien Archive 4 pg. 96_
 
 ## Green Cr 6
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 8 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,47 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Serpent Laser, Aphelion
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 8;
-**Price**:: 8,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 F; **Range**:: 120 ft.;
+**Level**:: 8
+**Price**:: 8800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 3d4  
 **Capacity**:: 40 charges; **Usage** 20  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Serpent Laser, Azimuth
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 F; **Range**:: 100 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 10  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Serpent Laser, Corona
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 5
-**Price**:: 2,700  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 F; **Range**:: 100 ft.;
+**Price**:: 2700  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 40 charges; **Usage** 20  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Serpent Laser, Perihelion
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 14
-**Price**:: 66,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d12 F; **Range**:: 120 ft.;
+**Price**:: 66000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d12 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 4d4  
 **Capacity**:: 40 charges; **Usage** 20  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13
+
 price: 
 tags: 
 Type: Magic Item
@@ -20,19 +20,22 @@ Once the runeplates are activated, the flames persist for up to a total of 10 ro
 ## Fiery Runeplates, Mk 1
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 5;
-**Price**::  3,500; **Bulk** 3
+**Level**:: 5
+**Price**::  3500 
+**Bulk**:: 3
 
 ---
 
 ## Fiery Runeplates, Mk 2
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 9;
-**Price**::  14,000; **Bulk** 3
+**Level**:: 9
+**Price**::  14000 
+**Bulk**:: 3
 
 ##[Fiery Runeplates, Mk 3
 
 **Source**:: _Starfinder Armory pg. 113_  
-**Level** 13;
-**Price**::  56,000; **Bulk** 3
+**Level**:: 13
+**Price**::  56000 
+**Bulk**:: 3

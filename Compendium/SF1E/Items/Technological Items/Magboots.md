@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 750
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Magboots
 
 **Source**:: _Pact Worlds pg. 198_  
-**Level** 2;
+**Level**:: 2
 **Price**::  750  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** —; **Bulk** 1
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

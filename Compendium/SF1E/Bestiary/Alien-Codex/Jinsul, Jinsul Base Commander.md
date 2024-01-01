@@ -3,11 +3,11 @@ aliases:
 cr: 5
 Environment: any
 hp: 60
-modifier: 3
+Initmod: 3
 name: Jinsul, Jinsul Base Commander
 statblock: true
 tags: 
-Type: CE Medium monstrous humanoid  
+Type: CE Medium monstrous humanoid
 ---
 
 # Jinsul, Jinsul Base Commander
@@ -22,7 +22,7 @@ A capable, efficient species, jinsuls have developed ships, starbases, and space
 
 The average jinsul is 7 feet tall and weighs 300 pounds or more.
 
-**Source**:: _Alien Archive 3 pg. 60_
+**Source**:  _Alien Archive 3 pg. 60_
 
 ## Jinsul Base Commander Cr 5
 

@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 1/4
-Type: Tiny Racer
+type: Tiny Racer
 ---
 
 # Klokworx Drone

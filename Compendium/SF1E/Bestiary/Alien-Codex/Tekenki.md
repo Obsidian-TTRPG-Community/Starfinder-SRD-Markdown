@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 17
-Environment: any (Daimalko)  
+Environment: any (Daimalko)
 hp: 340
-modifier: 8
+Initmod: 8
 name: Tekenki
 statblock: true
 tags: 
-Type: CE Colossal construct (magical, technological)  
+Type: CE Colossal construct (magical, technological)
 ---
 
 # Tekenki

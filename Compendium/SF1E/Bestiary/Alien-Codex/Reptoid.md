@@ -3,11 +3,24 @@ aliases:
 cr: 1
 Environment: any
 hp: 16
-modifier: 0
+Initmod: 0
 name: Reptoid
 statblock: true
 tags: 
-Type: LE Medium humanoid (reptoid, shapechanger)  
+Type: LE Medium humanoid (reptoid, shapechanger)
+combatType: spellcaster
+alignment: LE
+size: medium
+type(subtype): humanoid(['reptoid', 'shapechanger'])
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - cabal(3-8) + Reptoid Master(1)
+source: Alien Archive
 ---
 
 # Reptoid
@@ -20,7 +33,7 @@ Reptoid masters are the masterminds behind the race’s plots and infiltration, 
 
 As might be expected, reptoids are secretive about the end goals of their infiltrations, and when under extreme duress, they choose to die rather than reveal information about their home world or race. Some posit they are weakening target societies in preparation for eventual invasion, while others argue they may already hold complete control, and thus have no need for an invasion, preferring to live like parasites within a host society.
 
-**Source**:: _Alien Archive pg. 92_
+**Source**:  _Alien Archive pg. 92_
 
 ## Reptoid Cr 1
 
@@ -55,3 +68,5 @@ At will—_daze_ (DC 14), _telepathic message_
 
 **Environment** any  
 **Organization** solitary, pair, or cabal (3–8 plus 1 reptoid master)
+
+

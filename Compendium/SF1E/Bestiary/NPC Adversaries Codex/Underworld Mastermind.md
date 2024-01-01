@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 19
 hp: 385
-modifier: 9
+Initmod: 9
 Monster Type: NPC
 name: Underworld Mastermind
-statblock: true
-Subtype: Tyrants
+statblock: true(Tyrants
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Underworld Mastermind

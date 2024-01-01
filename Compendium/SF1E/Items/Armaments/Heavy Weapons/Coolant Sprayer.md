@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,59 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Coolant Sprayer, Algid
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 7;
-**Price**:: 7,400  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 7400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d6 C; **Range**:: 30 ft.;
+**Damage**:: 1d6 C 
+**Range**:: 30 ft.
 **Critical**:: staggered  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: blast, entangle (1d4 rounds), unwieldy
 
 ## Coolant Sprayer, Hiemal
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 3;
-**Price**:: 1,600  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1600  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d4 C; **Range**:: 20 ft.;
+**Damage**:: 1d4 C 
+**Range**:: 20 ft.
 **Critical**:: staggered  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: blast, entangle (1d4 rounds), unwieldy
 
 ## Coolant Sprayer, Glacial
 
 **Source**:: _Starfinder Armory pg. 34_  
 **Level**:: 12
-**Price**:: 41,000  
-**Hands**:: 2;
+**Price**:: 41000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 C; **Range**:: 40 ft.;
+**Damage**:: 2d6 C 
+**Range**:: 40 ft.
 **Critical**:: staggered  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: blast, entangle (2d4 rounds), unwieldy
 
 ## Coolant Sprayer, Isothermal
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 17;
-**Price**:: 290,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 290000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d6 C; **Range**:: 40 ft.;
+**Damage**:: 3d6 C 
+**Range**:: 40 ft.
 **Critical**:: staggered  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: blast, entangle (2d4 rounds), unwieldy

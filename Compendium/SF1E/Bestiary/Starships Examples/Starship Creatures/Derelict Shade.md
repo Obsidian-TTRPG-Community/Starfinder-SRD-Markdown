@@ -3,7 +3,7 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 4
-Type: NE Small starship undead
+type: NE Small starship undead
 ---
 
 # Derelict Shade

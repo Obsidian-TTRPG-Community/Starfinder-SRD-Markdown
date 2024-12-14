@@ -3,11 +3,11 @@ aliases:
 cr: 4
 Environment: any
 hp: 43
-modifier: 5
+Initmod: 5
 name: Gremlin, Hobkins Gremlin Malefactor
 statblock: true
 tags: 
-Type: NE Small fey  
+Type: NE Small fey
 ---
 
 # Gremlin, Hobkins Gremlin Malefactor
@@ -17,7 +17,7 @@ Gremlins are fey spirits intimately tied to technological malfunctions. One vari
 A computer glitch gremlin’s appearance varies widely with the digital data it has eaten, but they average 1 foot in height and weigh around 4 pounds. Ship glitch gremlins have lamprey-like mouths and long, spidery arms and legs. They stand 2-1/2 feet tall and weigh approximately 20 pounds.
 
 
-**Source**:: _Alien Archive 3 pg. 44_
+**Source**:  _Alien Archive 3 pg. 44_
 
 ## Hobkins Gremlin Malefactor Cr 4
 

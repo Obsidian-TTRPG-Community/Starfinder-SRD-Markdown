@@ -3,11 +3,11 @@ aliases:
 cr: 7
 Environment: any
 hp: 108
-modifier: 4
+Initmod: 4
 name: Bear (Uplifted), Uplifted Bear Constellate
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
 ---
 
 # Bear (UPLIFTED), Uplifted Bear Constellate
@@ -28,7 +28,7 @@ An uplifted bear exploration team exploring the Vast recently discovered a plane
 
 ## Bear (UPLIFTED), Uplifted Bear Constellate
 
-**Source**:: _Alien Archive 2 pg. 16_
+**Source**:  _Alien Archive 2 pg. 16_
 
 ## Uplifted Bear Constellate Cr 7
 

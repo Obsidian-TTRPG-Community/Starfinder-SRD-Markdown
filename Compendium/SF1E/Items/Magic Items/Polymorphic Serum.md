@@ -1,6 +1,5 @@
 ---
 aliases: 
-Level: 3 / 6 / 9 / 12 / 15 / 18 
 price: 
 tags: 
 Type: Magic Item
@@ -15,36 +14,42 @@ Those unfamiliar with _polymorphic serum_ often believe the churning, neon-gre
 
 **Source**:: _Character Operations Manual pg. 126_  
 **Level**:: 3
-**Price**::  250; **Bulk** —
+**Price**::  250 
+**Bulk**:: —
 
 ---
 
 ## Polymorphic Serum, Mk 2
 
 **Source**:: _Character Operations Manual pg. 126_  
-**Level** 6;
-**Price**::  675; **Bulk** —
+**Level**:: 6
+**Price**::  675 
+**Bulk**:: —
 
 ## Polymorphic Serum, Mk 3
 
 **Source**:: _Character Operations Manual pg. 126_  
-**Level** 9;
-**Price**::  2,100; **Bulk** —
+**Level**:: 9
+**Price**::  2100 
+**Bulk**:: —
 
 ## Polymorphic Serum, Mk 4
 
 **Source**:: _Character Operations Manual pg. 126_  
-**Level** 12;
-**Price**::  5,700; **Bulk** —
+**Level**:: 12
+**Price**::  5700 
+**Bulk**:: —
 
 ## Polymorphic Serum, Mk 5
 
 **Source**:: _Character Operations Manual pg. 126_  
-**Level** 15;
-**Price**::  18,000; **Bulk** —
+**Level**:: 15
+**Price**::  18000 
+**Bulk**:: —
 
 ## Polymorphic Serum, Mk 6
 
 **Source**:: _Character Operations Manual pg. 126_  
-**Level** 18;
-**Price**::  60,000; **Bulk** —
+**Level**:: 18
+**Price**::  60000
+**Bulk**:: —

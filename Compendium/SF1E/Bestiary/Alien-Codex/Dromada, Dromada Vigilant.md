@@ -3,11 +3,11 @@ aliases:
 cr: 5
 Environment: any
 hp: 65
-modifier: 5
+Initmod: 5
 name: Dromada, Dromada Vigilant
 statblock: true
 tags: 
-Type: LN Medium magical beast  
+Type: LN Medium magical beast
 ---
 
 # Dromada, Dromada Vigilant
@@ -26,7 +26,7 @@ Crime within dromada society is rare, as the punishment can be exile—a sentenc
 
 Dromada adventurers or mercenaries are extremely rare, as dromadas who choose such paths would need to overcome their powerful instincts to flee when in danger. But when they are able to, dromadas make excellent lookouts, first responders, and even bodyguards, using their powerful legs for lightning-fast repositioning in the heat of battle. Their fearful natures also mean that most modern dromadas have some talent configuring and bypassing security systems and devices. Still, choosing an adventurer’s life isn’t easy, as even the bravest dromadas still sometimes find themselves automatically fleeing from dangers, both real and imagined.
 
-**Source**:: _Alien Archive 3 pg. 28_
+**Source**:  _Alien Archive 3 pg. 28_
 
 ## Dromada Vigilant Cr 5
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 4 / 9 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,7 +19,7 @@ A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be w
 **Price**:: 90  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 S;
+**Damage**:: 1d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (20 ft.)
@@ -28,10 +28,10 @@ A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be w
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 4
-**Price**:: 1,825  
+**Price**:: 1825  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 S;
+**Damage**:: 1d6 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (20 ft.)
@@ -39,11 +39,11 @@ A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be w
 ## Handaxe, Sintered
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 9;
-**Price**:: 12,500  
+**Level**:: 9
+**Price**:: 12500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d6 S;
+**Damage**:: 2d6 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (30 ft.)
@@ -52,10 +52,10 @@ A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be w
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 14
-**Price**:: 66,800  
+**Price**:: 66800  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 6d6 S;
+**Damage**:: 6d6 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (30 ft.)
@@ -63,11 +63,11 @@ A balanced, wedge-shaped blade affixed to a lightweight haft, a handaxe can be w
 ## Handaxe, Molecular Rift
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 19;
-**Price**:: 502,000  
+**Level**:: 19
+**Price**:: 502000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 12d6 S;
+**Damage**:: 12d6 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, thrown (40 ft.)

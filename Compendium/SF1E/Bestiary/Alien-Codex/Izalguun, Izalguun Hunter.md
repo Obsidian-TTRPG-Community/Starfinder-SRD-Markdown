@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Izalraan)  
+Environment: any (Izalraan)
 hp: 50
-modifier: 1
+Initmod: 1
 name: Izalguun, Izalguun Hunter
 statblock: true
 tags: 
-Type: LN Large monstrous humanoid  
+Type: LN Large monstrous humanoid
 ---
 
 # Izalguun, Izalguun Hunter
@@ -24,7 +24,7 @@ For those rare izalguuns who reject the traditional lives of their contemporarie
 
 The average izalguun is 7 feet tall and weighs around 900 pounds.
 
-**Source**:: _Alien Archive 3 pg. 58_
+**Source**:  _Alien Archive 3 pg. 58_
 
 ## Izalguun Hunter Cr 4
 

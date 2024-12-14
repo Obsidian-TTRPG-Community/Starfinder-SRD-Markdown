@@ -4,10 +4,10 @@ Level: /
 Mystic: 
 NoteType: Spell
 Precog: 
-School: universal  
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Warp Reality

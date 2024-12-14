@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,74 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Burner, Firedrake-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 16;
-**Price**:: 158,000  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 158000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d10 F; **Range**:: 60 ft.;
+**Damage**:: 6d10 F 
+**Range**:: 60 ft.
 **Critical**:: burn 4d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Burner, Ifrit-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 3;
-**Price**:: 1,300  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 F; **Range**:: 30 ft.;
+**Damage**:: 1d10 F 
+**Range**:: 30 ft.
 **Critical**:: burn 1d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Burner, Salamander-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 7;
-**Price**:: 6,050  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 6050  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d10 F; **Range**:: 40 ft.;
+**Damage**:: 2d10 F 
+**Range**:: 40 ft.
 **Critical**:: burn 2d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Burner, Hellhound-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 11;
-**Price**:: 23,800  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 23800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d10 F; **Range**:: 50 ft.;
+**Damage**:: 3d10 F 
+**Range**:: 50 ft.
 **Critical**:: burn 3d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Burner, Pheonic-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 20;
-**Price**:: 795,000  
-**Hands**:: 2;
+**Level**:: 20
+**Price**:: 795000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 10d10 F; **Range**:: 75 ft.;
+**Damage**:: 10d10 F 
+**Range**:: 75 ft.
 **Critical**:: burn 5d6  
-**Capacity**:: 40 petrol; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 petrol 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy

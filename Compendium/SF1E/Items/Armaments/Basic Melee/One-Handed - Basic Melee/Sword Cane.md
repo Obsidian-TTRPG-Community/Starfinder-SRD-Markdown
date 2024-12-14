@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 4 / 7 / 10 / 13 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,10 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 
 **Source**:: _Pact Worlds pg. 194_  
 **Level**:: 4
-**Price**:: 2,100  
+**Price**:: 2100  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: bleed 1d4  
 **Bulk**:: L
 **Special**:: analog, operative
@@ -31,7 +31,7 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 **Price**:: 250  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: bleed 1d3  
 **Bulk**:: L
 **Special**:: analog, operative
@@ -39,11 +39,11 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 ## Sword Cane, Ultrathin
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 7;
-**Price**:: 7,000  
+**Level**:: 7
+**Price**:: 7000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d4 P;
+**Damage**:: 2d4 P
 **Critical**:: bleed 1d4  
 **Bulk**:: L
 **Special**:: analog, operative
@@ -51,11 +51,11 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 ## Sword Cane, Zero-edge
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 10;
-**Price**:: 18,000  
+**Level**:: 10
+**Price**:: 18000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d6 P;
+**Damage**:: 2d6 P
 **Critical**:: bleed 1d6  
 **Bulk**:: L
 **Special**:: analog, operative
@@ -63,11 +63,11 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 ## Sword Cane, Molecular Rift
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 13;
-**Price**:: 50,900  
+**Level**:: 13
+**Price**:: 50900  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d8 P;
+**Damage**:: 3d8 P
 **Critical**:: bleed 1d8  
 **Bulk**:: L
 **Special**:: analog, operative
@@ -75,11 +75,11 @@ This thin blade comes with a scabbard that makes it resemble a stylish cane. Swo
 ## Sword Cane, Dimensional Slice
 
 **Source**:: _Pact Worlds pg. 194_  
-**Level**:: 16;
-**Price**:: 160,000  
+**Level**:: 16
+**Price**:: 160000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 5d8 P;
+**Damage**:: 5d8 P
 **Critical**:: bleed 2d6  
 **Bulk**:: L
 **Special**:: analog, operative

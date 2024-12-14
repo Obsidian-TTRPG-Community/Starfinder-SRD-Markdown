@@ -8,13 +8,13 @@ tags:
 ``` dataview
 TABLE
 System
-FROM "Codex/Gear, Weapons, Vehicles & more/Augmentations/Necrografts"
-SORT ItemLevel ASC
+FROM "Compendium/SF1E/Items/Augmentations/Necrografts"
+SORT Level ASC
 WHERE file.name != "Necrografts"
 ```
 
 **Source**:: _Starfinder Armory pg. 94_  
-Necrografts are [[Augmentations|augmentations]] utilizing [[Undead]] organs and necromantic [[Compendium/SF1E/Spells/Rituals/Rituals]] rather than technology. They were invented on [[Eox]], and they are most commonly available in [[Orphys]] and at the Necroforge within [[Eox]]’s Lifeline. Most other [[Pact Worlds]] outlaw the creation and installation of necrografts (though not their possession), but they can still be found in some less reputable back-alley augmentation clinics on multiple worlds throughout the system and beyond.  
+Necrografts are [[Augmentations|augmentations]] utilizing [[Eoxian]] organs and necromantic [[Starfinder-SRD/Compendium/Spells/Rituals/Rituals]] rather than technology. They were invented on [[Eox]], and they are most commonly available in [[Orphys]] and at the Necroforge within [[Eox]]’s Lifeline. Most other [[Pact Worlds]] outlaw the creation and installation of necrografts (though not their possession), but they can still be found in some less reputable back-alley augmentation clinics on multiple worlds throughout the system and beyond.  
   
 Necrografts follow the existing rules for [[Augmentations|augmentations]] (_Core Rulebook_ 208), but they use different components than [[Biotech]] and [[Cybernetics]]. Any [[Biotech]] or cybernetic augmentation can be created as a necrograft and installed for only 90% of the augmentation’s normal cost, but doing so causes the recipient to gain the necrograft subtype (see below). Necrografts have the same system restrictions that all [[Augmentations|augmentations]] share.  
   
@@ -33,7 +33,7 @@ In addition to necrograft versions of typical [[Biotech]] and [[Cybernetics]], t
 | Model | Level | Price   |
 |-------|-------|---------|
 | Mk 1  | 1     | 200     |
-| Mk 2  | 6     | 4,000   |
-| Mk 3  | 12    | 30,000  |
-| Mk 4  | 18    | 350,000 |
-| Mk 5  | 20    | 775,000 |
+| Mk 2  | 6     | 4000   |
+| Mk 3  | 12    | 30000  |
+| Mk 4  | 18    | 350000 |
+| Mk 5  | 20    | 775000 |

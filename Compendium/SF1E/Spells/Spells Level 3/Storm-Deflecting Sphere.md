@@ -1,12 +1,12 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: abjuration (electricity)
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

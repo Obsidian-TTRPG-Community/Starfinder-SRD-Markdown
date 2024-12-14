@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 10
-Environment: any land  
+Environment: any land
 hp: 140
-modifier: 5
+Initmod: 5
 name: Bodysnatcher Slime, Bodysnatcher Autocrat
 statblock: true
 tags: 
-Type: N Medium ooze  
+Type: N Medium ooze
+combatType: expert
+alignment: N
+size: medium
+type(subtype): ooze(-)
+environment: lands
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Bodysnatcher Slime, Bodysnatcher Autocrat
@@ -24,7 +34,7 @@ Having stowed away on countless ships, the slimes have spread across the Pact Wo
 
 ## Bodysnatcher Slime, Bodysnatcher Autocrat
 
-**Source**:: _Alien Archive 2 pg. 18_
+**Source**:  _Alien Archive 2 pg. 18_
 
 ## Bodysnatcher Autocrat Cr 10
 
@@ -67,3 +77,5 @@ N Medium ooze
 ## Bodysnatcher Implants
 
 Bioengineers can dilute the chemicals that allow a bodysnatcher slime to control a host; uses include sedating medical patients and suppressing neurological activity. Incorporated into a special biotech gland, this same technology can protect users against mental attacks.
+
+

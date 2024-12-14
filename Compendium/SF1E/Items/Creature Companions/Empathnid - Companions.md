@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-10
+
 Type: Diminutive vermin  
 ---
 # EMPATHNID - COMPANIONS
@@ -8,7 +8,8 @@ Type: Diminutive vermin
 **Source**:: _Alien Archive 3 pg. 143_  
 Originally discovered by Pact Worlds explorers on a jungle planet in the Vast, empathnids are available in a staggering array of colors and have become popular pets. The 8-inch spiders are most notable for their almost supernatural empathy for other creatures, and their venom has a stabilizing effect on most creatures.
 
-## EMPATHNIDLEVELS 1-10
+## EMPATHNID
+level:: 1-10
 
 Diminutive vermin  
 **Senses** blindsense (emotion) 60 ft., darkvision 60 ft.  

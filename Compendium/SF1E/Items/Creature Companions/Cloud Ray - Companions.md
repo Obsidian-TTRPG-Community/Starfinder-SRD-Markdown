@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 6-20
+
 Type: Large undead  
 ---
 # CLOUD RAY - COMPANIONS
@@ -8,7 +8,8 @@ _SFS Note: The cloud ray’s Natural Thruster ability grants benefits until the 
 **Source**:: _Alien Archive 4 pg. 21_  
 Cloud rays can be tamed with patience and food, making them favorite mounts for gas prospectors and naturalists on gas giants. Raised to smaller sizes than their wild counterparts, they serve as ideal companions for groups or industrial use in aerial environments. Their ability to survive by grazing on floating algae and lichen makes them more reliable than many vehicles in isolated frontiers. Careful control over what and how much the beast eats helps keep them in their docile grazing cycle and suppresses their combustible death throes as well. Most cloud rays bond to a single master, becoming notoriously difficult with new riders. Cloud rays can flourish on almost any gas giant, and domesticated rays can even survive in the skies above terrestrial worlds with proper supplements.
 
-## CLOUD RAYLEVELS 6-20
+## CLOUD RAY
+level:: 6-20
 
 Huge animal  
 **Senses** low-light vision  

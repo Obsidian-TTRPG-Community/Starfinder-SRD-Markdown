@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 6 / 12
+Item:
 price:  
-System: All legs and feet
+
 tags: 
 Type: Cybertech
 ---
@@ -16,12 +16,14 @@ An X-legs system uses similar connection points as standard prosthetic legs, all
 ## X-legs, Basic
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 6;
-**Price**::  4,295; **System** All legs and feet  
+**Level**:: 6
+**Price**::  4295 
+**System**:: All legs and feet  
   
 
 ## X-legs, Climbing
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 12;
-**Price**::  35,600; **System** All legs and feet
+**Level**:: 12
+**Price**::  35600 
+**System**:: All legs and feet

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 11 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,37 +21,43 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
 **Level**:: 14
-**Price**:: 81,400  
-**Hands**:: 2;
+**Price**:: 81400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d8 C; **Range**:: 60 ft.;
+**Damage**:: 5d8 C 
+**Range**:: 60 ft.
 **Critical**:: staggered  
-**Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Zero Cannon, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 11;
-**Price**:: 23,000  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 23000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d8 C; **Range**:: 60 ft.;
+**Damage**:: 3d8 C 
+**Range**:: 60 ft.
 **Critical**:: staggered  
-**Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 80 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Zero Cannon, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 18;
-**Price**:: 412,800  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 412800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d8 C; **Range**:: 80 ft.;
+**Damage**:: 8d8 C 
+**Range**:: 80 ft.
 **Critical**:: staggered  
-**Capacity**:: 100 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: line, unwieldy

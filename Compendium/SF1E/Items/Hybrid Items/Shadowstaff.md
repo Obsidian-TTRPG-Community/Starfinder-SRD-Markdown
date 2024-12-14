@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 8
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Draeliks who have proven their worth wield a _shadowstaff_, a weapon that chann
 ## Shadowstaff, Lesser
 
 **Source**:: _Alien Archive pg. 37_  
-**Level** 2;
-**Price**::  500; **Bulk** 1
+**Level**:: 2
+**Price**::  500 
+**Bulk**:: 1
 
 ### Description
 
@@ -25,8 +26,9 @@ A _lesser shadowstaff_ is covered with fell symbols and crackles with dark ene
 ## Shadowstaff, Standard
 
 **Source**:: _Alien Archive pg. 37_  
-**Level** 8;
-**Price**::  10,000; **Bulk** 1
+**Level**:: 8
+**Price**::  10000 
+**Bulk**:: 1
 
 ### Description
 

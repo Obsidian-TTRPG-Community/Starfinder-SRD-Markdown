@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 9 / 12 / 15 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ When a _microbot grenade_ detonates, the blast radius fills with microbots like 
 ## Microbot Grenade, Mk 1 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 6;
-**Price**:: 1,400  
+**Level**:: 6
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -30,11 +31,12 @@ When a _microbot grenade_ detonates, the blast radius fills with microbots like 
 ## Microbot Grenade, Mk 2 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 9;
-**Price**:: 4,200  
+**Level**:: 9
+**Price**:: 4200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -48,10 +50,11 @@ When a _microbot grenade_ detonates, the blast radius fills with microbots like 
 
 **Source**:: _Starfinder Armory pg. 122_  
 **Level**:: 12
-**Price**:: 12,500  
+**Price**:: 12500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -64,11 +67,12 @@ When a _microbot grenade_ detonates, the blast radius fills with microbots like 
 ## Microbot Grenade, Mk 4 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 15;
-**Price**:: 37,000  
+**Level**:: 15
+**Price**:: 37000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -81,11 +85,12 @@ When a _microbot grenade_ detonates, the blast radius fills with microbots like 
 ## Microbot Grenade, Mk 5 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 18;
-**Price**:: 109,000  
+**Level**:: 18
+**Price**:: 109000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

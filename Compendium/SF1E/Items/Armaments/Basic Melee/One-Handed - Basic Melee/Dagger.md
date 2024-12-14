@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 12 / 14 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ The thinness and lightness of daggers make them easy to carry or conceal. Ultrat
 ## Dagger, Molecular Rift
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 17;
-**Price**:: 275,000  
+**Level**:: 17
+**Price**:: 275000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 10d4 S;
+**Damage**:: 10d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, operative, thrown (20 ft.)
@@ -28,10 +28,10 @@ The thinness and lightness of daggers make them easy to carry or conceal. Ultrat
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
 **Level**:: 12
-**Price**:: 32,800  
+**Price**:: 32800  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 4d4 S;
+**Damage**:: 4d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, operative, thrown (20 ft.)
@@ -40,10 +40,10 @@ The thinness and lightness of daggers make them easy to carry or conceal. Ultrat
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
 **Level**:: 14
-**Price**:: 64,400  
+**Price**:: 64400  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 6d4 S;
+**Damage**:: 6d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, operative, thrown (20 ft.)

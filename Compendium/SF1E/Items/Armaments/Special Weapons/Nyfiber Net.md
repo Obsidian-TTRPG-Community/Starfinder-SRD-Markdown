@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 460
 tags: 
 type: Special Weapons
@@ -9,15 +9,15 @@ type: Special Weapons
 # Nyfiber Net
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 460  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: — **Range**:: 10 ft.;
+**Damage**:: — 
+**Range**:: 10 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
-**Bulk**:: 1;
-**Special**:: Analog, entangle, thrown
+**Bulk**:: 1**Special**:: Analog, entangle, thrown
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,55 @@ A specialized form of grenade launcher, a minelayer surrounds its ordnance with 
 ## Minelayer, Command
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 17;
-**Price**:: 243,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 243000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
 **Damage**:: —
 **Critical**:: —  
-**Capacity**:: 20 grenades; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 20 grenades 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: mine
 
 ## Minelayer, Merc
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 3;
-**Price**:: 1,470  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1470  
+**Hands**:: 2
 **Proficiency**:: Heavy  
 **Damage**:: —
 **Critical**:: —  
-**Capacity**:: 8 grenades; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 8 grenades 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: mine
 
 ## Minelayer, Squad
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 7;
-**Price**:: 6,930  
-**Hands**:: 2;
+**Level**:: 7
+**Price**:: 6930  
+**Hands**:: 2
 **Proficiency**:: Heavy  
 **Damage**:: —
 **Critical**:: —  
-**Capacity**:: 12 grenades; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 12 grenades 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: mine
 
 ## Minelayer, Platoon
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 13;
-**Price**:: 51,400  
-**Hands**:: 2;
+**Level**:: 13
+**Price**:: 51400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
 **Damage**:: —
 **Critical**:: —  
-**Capacity**:: 16 grenades; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 16 grenades 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: mine

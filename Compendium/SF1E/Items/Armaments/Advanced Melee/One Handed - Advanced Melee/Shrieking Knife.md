@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 9 / 14 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,10 +17,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 4
-**Price**:: 2,180  
+**Price**:: 2180  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Damage**:: 1d4 So
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, powered (capacity 20; usage 2)
@@ -28,11 +28,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Shrieking Knife, Interference
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 9;
-**Price**:: 13,700  
+**Level**:: 9
+**Price**:: 13700  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 So;
+**Damage**:: 2d4 So
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, powered (capacity 20; usage 2)
@@ -41,10 +41,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 14
-**Price**:: 77,400  
+**Price**:: 77400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d4 So;
+**Damage**:: 4d4 So
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, powered (capacity 20; usage 4)
@@ -52,11 +52,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Shrieking Knife, Ultrasonic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 17;
-**Price**:: 259,000  
+**Level**:: 17
+**Price**:: 259000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d4 So;
+**Damage**:: 7d4 So
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: operative, powered (capacity 20; usage 4)

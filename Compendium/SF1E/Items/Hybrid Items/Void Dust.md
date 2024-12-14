@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 10 
-price: 2,550
+
+price: 2550
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Void Dust
 
 **Source**:: _Starfinder Armory pg. 126_  
-**Level** 10;
-**Price**::  2,550; **Bulk** —
+**Level**:: 10
+**Price**::  2550 
+**Bulk**:: —
 
 ### Description
 

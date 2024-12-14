@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12 / 15 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,64 +18,74 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Cathode Cannon, Advanced
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 8;
-**Price**:: 9,300  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 9300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d12 E; **Range**:: 60 ft.;
+**Damage**:: 2d12 E 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy, wide line
 
 ## Cathode Cannon, Tactical
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 4
-**Price**:: 2,040  
-**Hands**:: 2;
+**Price**:: 2040  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 E; **Range**:: 40 ft.;
+**Damage**:: 1d10 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy, wide line
 
 ## Cathode Cannon, Elite
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 12
-**Price**:: 35,300  
-**Hands**:: 2;
+**Price**:: 35300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d12 E; **Range**:: 60 ft.;
+**Damage**:: 3d12 E 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy, wide line
 
 ## Cathode Cannon, Paragon
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 15;
-**Price**:: 109,000  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 109000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d12 E; **Range**:: 100 ft.;
+**Damage**:: 6d12 E 
+**Range**:: 100 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy, wide line
 
 ## Cathode Cannon, Shockstorm
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 18;
-**Price**:: 647,000  
-**Hands**:: 2;
+**Level**:: 18
+**Price**:: 647000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d12 E; **Range**:: 120 ft.;
+**Damage**:: 7d12 E 
+**Range**:: 120 ft.
 **Critical**:: —  
-**Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 80 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy, wide line

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 8
-Environment: aquatic (any water)  
+Environment: aquatic (any water)
 hp: 110
-modifier: 6
+Initmod: 6
 name: Osifern, Enigma
 statblock: true
 tags: 
-Type: N Large animal (aquatic)  
+Type: N Large animal (aquatic)
 ---
 
 # Osifern, Enigma
@@ -22,7 +22,7 @@ Enigmas demonstrate a surprising degree of aesthetic sensibilities, as they seem
 
 Scientific expeditions regularly hire adventurous divers and submersible pilots to help study (or even capture) enigmas, whereas conservation programs just as often send contractors with the same skills to eliminate osifern infestations.
 
-**Source**:: _Alien Archive 4 pg. 78_
+**Source**:  _Alien Archive 4 pg. 78_
 
 ## Enigma Cr 8
 

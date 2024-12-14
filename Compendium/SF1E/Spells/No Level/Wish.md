@@ -4,9 +4,9 @@ Level: /
 Mystic: 
 NoteType: Spell
 Precog: 
-School: universal  
+
 tags: 
-Technomancer: "`ris:Checkbox`" 
+Technomancer: X 
 Witchwarper: 
 ---
 

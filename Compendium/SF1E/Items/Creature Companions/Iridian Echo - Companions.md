@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Medium outsider  
 ---
 # IRIDIAN ECHO - COMPANIONS
@@ -8,7 +8,8 @@ Type: Medium outsider
 **Source**:: _Galaxy Exploration Manual pg. 95_  
 The mysterious spectra defend the Drift, and some can appear on multiple planes simultaneously. When an iridia spectra leaves the Material Plane, it sometimes leaves behind a crystalline, humanoid husk known as an iridian echo.
 
-## IRIDIAN ECHOLEVELS 1-20
+## IRIDIAN ECHO
+level:: 1-20
 
 Medium outsider  
 **Senses** darkvision 60 ft.  

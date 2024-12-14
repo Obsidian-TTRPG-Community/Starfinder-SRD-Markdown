@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 5 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Flare Axe, Blue Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 16;
-**Price**:: 148,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d12 E & F;
+**Level**:: 16
+**Price**:: 148000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d12 E & F
 **Critical**:: burn 3d6  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flare Axe, Red Star
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 1
 **Price**:: 120  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E & F;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d4 E & F
 **Critical**:: burn 1d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flare Axe, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 5
-**Price**:: 2,710  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 E & F;
+**Price**:: 2710  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 E & F
 **Critical**:: burn 1d8  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flare Axe, White Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 11;
-**Price**:: 23,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 E & F;
+**Level**:: 11
+**Price**:: 23100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 E & F
 **Critical**:: burn 1d10  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 14
+
 Notetype: Weapon
-price: 71,500
+price: 71500
 tags: 
 type: Heavy Weapon
 ---
@@ -11,13 +11,15 @@ type: Heavy Weapon
 
 **Source**:: _Tech Revolution pg. 62_  
 **Level**:: 14
-**Price**:: 71,500  
-**Hands**:: 2;
+**Price**:: 71500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: — **Range**:: 100 ft.;
+**Damage**:: — 
+**Range**:: 100 ft.
 **Critical**:: —  
-**Capacity**:: 3 missiles ; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 3 missiles  
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: Guided
 
 ### Description

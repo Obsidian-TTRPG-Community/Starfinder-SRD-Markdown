@@ -3,11 +3,11 @@ aliases:
 Level: 6
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: illusion (shadow)
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Usher Apocalypse

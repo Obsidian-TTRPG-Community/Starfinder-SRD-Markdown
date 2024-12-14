@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ Velstracs wield flensers— blades designed to slice skin from muscle and muscle
 ## Velstrac Flenser, Ascetic
 
 **Source**:: _Alien Archive 2 pg. 129_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 550  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 S & So;
+**Damage**:: 1d4 S & So
 **Critical**:: Bleed 1d4  
 **Bulk**:: L
 **Special**:: powered (capacity 20, usage 1)
@@ -27,11 +27,11 @@ Velstracs wield flensers— blades designed to slice skin from muscle and muscle
 ## Velstrac Flenser, Singer
 
 **Source**:: _Alien Archive 2 pg. 129_  
-**Level**:: 7;
-**Price**:: 6,600  
+**Level**:: 7
+**Price**:: 6600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 S & So;
+**Damage**:: 2d6 S & So
 **Critical**:: Bleed 1d8  
 **Bulk**:: L
 **Special**:: powered (capacity 20, usage 1)
@@ -40,10 +40,10 @@ Velstracs wield flensers— blades designed to slice skin from muscle and muscle
 
 **Source**:: _Alien Archive 2 pg. 129_  
 **Level**:: 12
-**Price**:: 37,600  
+**Price**:: 37600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 S & So;
+**Damage**:: 3d8 S & So
 **Critical**:: Bleed 2d8  
 **Bulk**:: L
 **Special**:: powered (capacity 20, usage 1)
@@ -51,11 +51,11 @@ Velstracs wield flensers— blades designed to slice skin from muscle and muscle
 ## Velstrac Flenser, Recluse
 
 **Source**:: _Alien Archive 2 pg. 129_  
-**Level**:: 17;
-**Price**:: 261,360  
+**Level**:: 17
+**Price**:: 261360  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 S & So;
+**Damage**:: 10d8 S & So
 **Critical**:: Bleed 4d8  
 **Bulk**:: L
 **Special**:: powered (capacity 20, usage 1)

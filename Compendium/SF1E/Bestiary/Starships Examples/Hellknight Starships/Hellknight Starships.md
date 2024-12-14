@@ -1,12 +1,9 @@
----
-aliases: 
-tags: 
----
+
 
 # Hellknight Starships
 
 Few vessels inspire more dread than a Hellknight ship. Built to be both technologically superior and fiercely intimidating, these craft are sleek, black, and festooned with forbidding horns, infernal insignia, and spikes—much like the armor and gear of their crew. More often than not, those who find themselves facing off against the Hellknights surrender before even a single shot is fired, hoping to curry favor with the ruthless law-keepers.  
-  
+ 
 Above all else, the Hellknights use their vessels as a means of maintaining order in the vast depths of space. The majority of their ships are constructed by the Hellknight-owned Infernex Inc., which has a massive shipyard near the sun that some say is directly connected to Hell, with enslaved devils enchanting ship components at the whim of Hellknight signifer technicians.  
-  
+ 
 If the situation is truly dire and supreme order is called for, the Hellknights can bring one of their Citadels to bear. These massive battle stations are the mobile headquarters of each Hellknight order, larger than almost any other vessel found in the Pact Worlds and capable of docking with up to four mighty battleships at once. Even more terrifying, these Citadels are Drift-capable, although only after a lengthy period of running their reactors at maximum capacity. To many Pact Worlds governments, the mere existence of these vessels is a dangerous provocation, but the Hellknights insist that they are necessary in light of recent threats to the system, and few who remember the onslaught of the Swarm or the war with the Veskarium can bring themselves to argue the point.

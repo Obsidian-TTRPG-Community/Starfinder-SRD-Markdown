@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 150
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Paranormal Investigator
-statblock: true
-Subtype: Investigators
+statblock: true(Investigators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Paranormal Investigator

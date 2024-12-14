@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 15
 hp: 255
-modifier: 9
+Initmod: 9
 Monster Type: NPC
 name: Ops Infiltrator
-statblock: true
-Subtype: Stewards
+statblock: true(Stewards
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Ops Infiltrator

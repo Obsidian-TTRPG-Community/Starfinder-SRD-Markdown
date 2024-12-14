@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 14 
-price: 85,000
+
+price: 85000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Drift Harness
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 14;
+**Level**:: 14
 **Price**::  85000  
-**Capacity**:: 100; **Usage** 5/use  
-**Hands** —; **Bulk** 2
+**Capacity**:: 100 **Usage** 5/use  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 

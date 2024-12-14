@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 2
 hp: 23
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Streamer
-statblock: true
-Subtype: Influencer
+statblock: true(Influencer
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Streamer

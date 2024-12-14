@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 5
+
 Notetype: Weapon
-price: 3,010
+price: 3010
 tags: 
 type: Longarms
 ---
@@ -11,14 +11,13 @@ type: Longarms
 
 **Source**:: _Starfinder Armory pg. 44_
 **Level**:: 5
-**Price**:: 3,010  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d12 B; **Range**:: 80 ft.;
+**Price**:: 3010  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d12 B; 
+**Range**:: 80 ft.
 **Critical**:: —  
 **Capacity**:: 5 mini-rockets; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: [analog][], [unwieldy][]
+**Bulk**:: 1**Special**:: [analog][], [unwieldy][]
 
 ### Description
 

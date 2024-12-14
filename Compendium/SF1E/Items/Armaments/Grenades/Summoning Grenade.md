@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 9 / 12 / 15 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -15,11 +15,12 @@ _Summoning grenades_ come in the following types.
 ## Summoning Grenade, Mk 1 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 250  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -32,11 +33,12 @@ _Summoning grenades_ come in the following types.
 ## Summoning Grenade, Mk 2 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 650  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -49,11 +51,12 @@ _Summoning grenades_ come in the following types.
 ## Summoning Grenade, Mk 3 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 9;
-**Price**:: 2,000  
+**Level**:: 9
+**Price**:: 2000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -67,10 +70,11 @@ _Summoning grenades_ come in the following types.
 
 **Source**:: _Starfinder Armory pg. 122_  
 **Level**:: 12
-**Price**:: 5,000  
+**Price**:: 5000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -83,11 +87,12 @@ _Summoning grenades_ come in the following types.
 ## Summoning Grenade, Mk 5 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 15;
-**Price**:: 16,000  
+**Level**:: 15
+**Price**:: 16000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -100,11 +105,12 @@ _Summoning grenades_ come in the following types.
 ## Summoning Grenade, Mk 6 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 122_  
-**Level**:: 18;
-**Price**:: 49,000  
+**Level**:: 18
+**Price**:: 49000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

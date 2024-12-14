@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8  
-price: 9,100
+
+price: 9100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Portable Gravity Field
 
 **Source**:: _Tech Revolution pg. 49_  
-**Level** 8;
+**Level**:: 8
 **Price**::  9100  
-**Capacity**:: 20; **Usage** 5/round  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 5/round  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

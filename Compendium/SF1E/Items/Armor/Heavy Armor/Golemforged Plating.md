@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 7 / 11 / 14
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,44 +14,79 @@ An economical choice for many mercenaries, golemforged plating is one of the uni
 ## Golemforged Plating, I
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level** 1;
-**Price**::  250; **Category** Heavy  
-**EAC Bonus** +2; **KAC Bonus** +5; **Max. Dex Bonus** +0  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 0; **Bulk** 3
+**Level**:: 1
+**Price**::  250 
+**Category**:: Heavy  
+
+**EAC**:: +2 
+**KAC**:: +5 
+**Max-Dex**:: +0  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 0 
+**Bulk**:: 3
 
 ## Golemforged Plating, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 3
-**Price**::  1,610; **Category** Heavy  
-**EAC Bonus** +5; **KAC Bonus** +7; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Price**::  1610 
+**Category**:: Heavy  
+
+**EAC**:: +5 
+**KAC**:: +7 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Golemforged Plating, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 7;
-**Price**::  5,500; **Category** Heavy  
-**EAC Bonus** +10; **KAC Bonus** +12; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 2; **Bulk** 2
+**Level**:: 7
+**Price**::  5500 
+**Category**:: Heavy  
+
+**EAC**:: +10 
+**KAC**:: +12 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 2
 
 ## Golemforged Plating, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 11;
-**Price**::  24,800; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 6; **Bulk** 3
+**Level**:: 11
+**Price**::  24800 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**:: 3
 
 ## Golemforged Plating, V
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 14;
-**Price**::  63,750; **Category** Heavy  
-**EAC Bonus** +18; **KAC Bonus** +20; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 7; **Bulk** 3
+**Level**:: 14
+**Price**::  63750 
+**Category**:: Heavy  
+
+**EAC**:: +18 
+**KAC**:: +20 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 7 
+**Bulk**:: 3

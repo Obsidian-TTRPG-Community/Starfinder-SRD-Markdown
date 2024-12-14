@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 12
-Environment: any forests (Orikolai)  
+Environment: any forests (Orikolai)
 hp: 210
-modifier: 2
+Initmod: 2
 name: Frujai, Frujai Soldier
 statblock: true
 tags: 
-Type: N Large plant  
+Type: N Large plant
+combatType: combatant
+alignment: N
+size: large
+type(subtype): plant(-)
+environment: forests
+climate: any
+planet: Orikolai
+organization:
+  - solitary
+  - squad(2-8)
+source: Alien Archive
 ---
 
 # Frujai, Frujai Soldier
@@ -18,7 +29,7 @@ The immature drones that sprout from these infested cadavers (use the statistics
 
 Despite their strange shapes, frujai colonies and soldiers are surprisingly intelligent. Frujais see themselves as ecological caretakers, weeding out the weak and clearing the path for stronger creatures. Several attempts at settling Orikolai have failed when frujais interpreted the settlements as well-stocked larders of weak-willed flesh. Larger frujai colonies sometimes entertain interviews with avid xenobiologists, though the dialogues are as likely to descend into ravenous feasting upon the scholars as they are to explore the deep philosophical musings that occupy the frujais the rest of the time.
 
-**Source**:: _Alien Archive pg. 53_
+**Source**:  _Alien Archive pg. 53_
 
 ## Frujai Soldier Cr 12
 
@@ -59,3 +70,5 @@ N Large plant
 **Colony Guard (Ex)** Whenever a frujai colony takes damage, all frujai soldiers within 300 feet gain a +4 morale bonus to attack rolls and a 10-foot bonus to their base speed for 1 round.
 
 **Gravity Anchor (Su)** A frujai soldier can create violent fluctuations in gravity as a ranged attack against EAC with a 150-foot range and no range increment. If the attack hits, the soldier can attempt either a reposition or a trip combat maneuver against the target as a free action, using its gravity anchor’s attack bonus of +4 to perform the maneuver. When repositioning a creature in this way, the frujai soldier can move the target up to 10 feet from its original position.
+
+

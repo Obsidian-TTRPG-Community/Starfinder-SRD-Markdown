@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 12 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,43 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Heat-amp Gauntlet, Mk 1
 
 **Source**:: _Alien Archive 2 pg. 105_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B & F;
+**Damage**:: 1d6 B & F
 **Critical**:: Burn 1d4  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20, usage 1)
 
 ## Heat-amp Gauntlet, Mk 2
 
 **Source**:: _Alien Archive 2 pg. 105_  
-**Level**:: 7;
-**Price**:: 7,500  
+**Level**:: 7
+**Price**:: 7500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 B & F;
+**Damage**:: 2d6 B & F
 **Critical**:: Burn 1d6  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20, usage 1)
 
 ## Heat-amp Gauntlet, Mk 3
 
 **Source**:: _Alien Archive 2 pg. 105_  
 **Level**:: 12
-**Price**:: 33,200  
+**Price**:: 33200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 B & F;
+**Damage**:: 5d6 B & F
 **Critical**:: Burn 2d6  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20, usage 1)
 
 ## Heat-amp Gauntlet, Mk 4
 
 **Source**:: _Alien Archive 2 pg. 105_  
-**Level**:: 16;
-**Price**:: 178,250  
+**Level**:: 16
+**Price**:: 178250  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 B & F;
+**Damage**:: 10d6 B & F
 **Critical**:: Burn 2d8  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20, usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20, usage 1)

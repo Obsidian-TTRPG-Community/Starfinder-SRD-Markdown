@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,10 +13,11 @@ These matching anklets and bracelets are light and comfortable and come in many 
 ## Swarmproof Bangles, Advanced
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 7;
-**Price**::  6,500  
-**Capacity**:: 40; **Usage** 1/minute  
-**Hands** —; **Bulk** —
+**Level**:: 7
+**Price**::  6500  
+**Capacity**:: 40 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 
@@ -27,10 +28,11 @@ Advanced swarmproof bangles generate a more precise modulating field that impede
 ## Swarmproof Bangles, Basic
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 2;
+**Level**:: 2
 **Price**::  900  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands** —; **Bulk** —
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

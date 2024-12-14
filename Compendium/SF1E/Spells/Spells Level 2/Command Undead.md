@@ -1,12 +1,12 @@
 ---
 aliases: 
 Level: 2
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: necromancy (sense-dependent) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

@@ -1,24 +1,30 @@
 ---
 aliases: 
-ItemLevel: 3
-NoteType: Terrestial Vehicles
-price: 4,100
+Item:
+NoteType: Terrestrial Vehicles
+price: 4100
 tags: 
 ---
 
 # Hogback
 
 **Source**:: _Galaxy Exploration Manual pg. 63_
-**Item Level** 3;
-**Price**::  4,100  
+**Level**:: 3
+**Price**::  4100  
 Large land vehicle (5 ft. wide, 10 ft. long, 3 ft. high)  
-**Speed** 30 ft., full 550 ft., 60 mph  
-**EAC** 13; **KAC** 14; **Cover** none  
-**HP** 24 (12); **Hardness** 4  
+**Speed**:: 30 ft., full 550 ft., 60 mph  
+
+**EAC**:: 13; 
+**KAC**:: 14; 
+**Cover**:: none  
+**HP**:: 24 (12); 
+**Hardness**:: 4  
 **Attack (Collision)** 5d4 B (DC 12)  
 **Attack** pulse staccato rifle (1d10 So; critical deafen)  
-**Modifiers** +3 Piloting, –1 attack (–3 at full speed)  
-**Systems** planetary comm unit; **Passengers** 1  
+
+**Modifiers**:: +3 Piloting, –1 attack (–3 at full speed)  
+**Systems**:: planetary comm unit
+**Passengers**:: 1  
 
 ### Description
 

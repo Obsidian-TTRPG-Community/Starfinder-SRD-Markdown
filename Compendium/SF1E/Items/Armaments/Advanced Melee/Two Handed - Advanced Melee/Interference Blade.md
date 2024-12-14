@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 6 / 10 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,47 +16,39 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Interference Blade, Harmonic
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 10;
-**Price**:: 18,700  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 So;
+**Level**:: 10
+**Price**:: 18700  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 So
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40, usage 8)
+**Bulk**:: 1**Special**:: powered (capacity 40, usage 8)
 
 ## Interference Blade, Monophonic
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 6;
-**Price**:: 4,420  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 So;
+**Level**:: 6
+**Price**:: 4420  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 So
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40, usage 4)
+**Bulk**:: 1**Special**:: powered (capacity 40, usage 4)
 
 ## Interference Blade, Polyphonic
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 14
-**Price**:: 76,700  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d10 So;
+**Price**:: 76700  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d10 So
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 100, usage 10)
+**Bulk**:: 1**Special**:: powered (capacity 100, usage 10)
 
 ## Interference Blade, Multiphonic
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 19;
-**Price**:: 597,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d10 So;
+**Level**:: 19
+**Price**:: 597000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d10 So
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 100, usage 20)
+**Bulk**:: 1**Special**:: powered (capacity 100, usage 20)

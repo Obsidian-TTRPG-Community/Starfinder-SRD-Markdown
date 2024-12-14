@@ -1,22 +1,28 @@
 ---
 aliases: 
-ItemLevel: 3
-NoteType: Terrestial Vehicles
-price: 3,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 3000
 tags: 
 ---
 
 # Racing Catamaran
 
 **Source**:: _Tech Revolution pg. 86_
-**Item Level** 3;
-**Price**::  3,000  
+**Level**:: 3
+**Price**::  3000  
 Large water vehicle (6 ft. wide, 10 ft. long, 20 ft. high)  
-**Speed** 5 ft., full 200 ft., 20 mph  
-**EAC** 12; **KAC** 13; **Cover** none  
-**HP** 31 (15); **Hardness** 2  
+**Speed**:: 5 ft., full 200 ft., 20 mph  
+
+**EAC**:: 12; 
+**KAC**:: 13; 
+**Cover**:: none  
+**HP**:: 31 (15); 
+**Hardness**:: 2  
 **Attack (Collision)** 5d4 (DC 12)  
-**Modifiers** +4 Piloting, –3 attack (–5 at full speed)  
+
+**Modifiers**:: +4 Piloting, –3 attack (–5 at full speed)  
+
 **Passengers** 1  
 
 ### Special Abilities

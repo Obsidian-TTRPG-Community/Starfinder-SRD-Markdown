@@ -1,0 +1,12 @@
+
+SFS Legal Xenoarchaeologist (+1 Int)
+Source Pact Worlds pg. 137
+You are driven to explore the ruins of bygone civilizations, whether they are millennia old or recently collapsed. You might seek to explore the interior of Apostae or travel the galaxy to discover lost settlements, and your motives might be purely academic or simply profiteering. You often employ modern technology to aid in your explorations, but you are no stranger to unusual and ancient machinery, sometimes using them in the field when in a pinch.
+Theme Knowledge (1st Level)
+You have trained yourself to have few presuppositions about the foreign devices you uncover. Reduce the DC to identify rare, ancient, or alien tech by 5. Engineering is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Engineering checks. In addition, you gain an ability adjustment of +1 to Intelligence at character creation.
+Trap Spotter (6th Level)
+You often encounter ancient, exotic traps and security devices, varying from mechanical defenses to magical wards. You have honed your senses to pick out warning signs of traps of any kind. When you come within 10 feet of a trap, you can immediately attempt a Perception check to notice the trap, which should be rolled in secret by the GM.
+Master Translator (12th Level)
+Your notable exposure to ancient and foreign writing systems allows you to gain the general meaning of new languages with ease, even if you have never been exposed to the language previously. You can attempt a Culture check to decipher writing of up to 250 words of text as a move action, and you have no chance of entirely misconstruing its meaning. Additionally, as long as you have any computer equipment (including just a comm unit), you are assumed to have the necessary data set to take 20 on Culture checks to decipher writing, which you can do even if you are not trained in the Computers skill. It normally takes you 20 minutes to take 20 on text up to 250 words.
+Archaeological Revelation (18th Level)
+Up to twice per day, when you document a new artifact from an ancient or unknown culture, you regain 1 Resolve Point. When you discover an item on an unexplored planet, this process usually takes 10 minutes at most (and doesn’t count as resting to regain Stamina Points), but even on known planets, you might be able to find new artifacts in 1d4 hours (or less) in old ruins or remote sections of cities with long histories or a high degree of trade with foreign cultures.

@@ -9,8 +9,8 @@ Functioning similarly to [[Cybernetics]], biotech items include modifications to
 
 ``` dataview
 TABLE
-System, ItemLevel as I-Level, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Augmentations/Biotech"
+System, Level, Price
+FROM "Compendium/SF1E/Items/Augmentations/Biotech"
 SORT Level ASC
 WHERE file.name != "Biotech"
 ```

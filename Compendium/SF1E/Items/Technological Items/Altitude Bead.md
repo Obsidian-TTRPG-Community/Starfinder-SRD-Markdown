@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 100
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Altitude Bead
 
 **Source**:: _Galaxy Exploration Manual pg. 128_  
-**Level** 2;
+**Level**:: 2
 **Price**::  100  
-**Hands**:: 1**Bulk** —
+**Hands**:: 1
+**Bulk**:: —
 
 ### Description
 

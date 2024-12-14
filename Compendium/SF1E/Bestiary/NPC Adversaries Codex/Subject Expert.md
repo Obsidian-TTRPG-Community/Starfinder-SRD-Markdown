@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Subject Expert
-statblock: true
-Subtype: Scholars
+statblock: true(Scholars
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Subject Expert

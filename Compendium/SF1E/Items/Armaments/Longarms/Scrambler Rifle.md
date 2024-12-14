@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 11 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Rifle, Cockroach
 
 **Source**:: _Drift Crisis pg. 107_
-**Level**:: 8;
-**Price**:: 9,850  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 E; **Range**:: 90 ft.;
+**Level**:: 8
+**Price**:: 9850  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 E; 
+**Range**:: 90 ft.
 **Critical**:: Confuse
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: 1; **Special**Scramble
@@ -26,11 +26,11 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Rifle, Termite
 
 **Source**:: _Drift Crisis pg. 107_
-**Level**:: 3;
-**Price**:: 1,520  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 E; **Range**:: 90 ft.;
+**Level**:: 3
+**Price**:: 1520  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 E; 
+**Range**:: 90 ft.
 **Critical**:: Confuse
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: 1; **Special**Scramble
@@ -38,11 +38,11 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Rifle, Dragonfly
 
 **Source**:: _Drift Crisis pg. 107_
-**Level**:: 11;
-**Price**:: 24,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d6 E; **Range**:: 90 ft.;
+**Level**:: 11
+**Price**:: 24900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d6 E; 
+**Range**:: 90 ft.
 **Critical**:: Confuse
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: 1; **Special**Scramble
@@ -51,10 +51,10 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 
 **Source**:: _Drift Crisis pg. 107_
 **Level**:: 14
-**Price**:: 82,600  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 E; **Range**:: 90 ft.;
+**Price**:: 82600  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 E; 
+**Range**:: 90 ft.
 **Critical**:: Confuse
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: 1; **Special**Scramble

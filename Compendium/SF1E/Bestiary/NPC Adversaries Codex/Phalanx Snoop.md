@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Phalanx Snoop
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Phalanx Snoop

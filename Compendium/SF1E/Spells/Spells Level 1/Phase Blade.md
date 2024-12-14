@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 1
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: transmutation 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Phase Blade

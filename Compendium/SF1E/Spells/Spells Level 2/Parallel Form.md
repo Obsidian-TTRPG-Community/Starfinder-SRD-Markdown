@@ -3,11 +3,11 @@ aliases:
 Level: 2
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: illusion 
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Parallel Form

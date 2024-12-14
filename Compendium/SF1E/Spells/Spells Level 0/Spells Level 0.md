@@ -1,13 +1,15 @@
 ---
-aliases: 
-tags: 
+cssclasses:
+aliases: []
+tags: []
 ---
 
 # Spells Level 0
 
 ``` dataview
 TABLE
-School, Mystic, Precog, Techomancer, Witchwarper
-FROM "Codex/Spells/Spells Level 0"
-SORT Level ASC
+School, Mystic as MYS, Precog as PRE, Technomancer as TM, Witchwarper as WW
+FROM "Compendium/SF1E/Spells/Spells Level 0"
+SORT file.name ASC
+WHERE !contains(file.name, "Spells")
 ```

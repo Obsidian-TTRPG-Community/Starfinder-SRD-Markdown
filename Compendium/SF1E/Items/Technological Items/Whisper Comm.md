@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5  
-price: 3,000
+
+price: 3000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Whisper Comm
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 5;
-**Price**::  3,000  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** —; **Bulk** —
+**Level**:: 5
+**Price**::  3000  
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

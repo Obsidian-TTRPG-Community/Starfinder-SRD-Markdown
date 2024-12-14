@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 9
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,9 +14,10 @@ A gunner harness is a wearable support mesh for an articulated arm that can serv
 ## Gunner Harness, Heavy
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 7;
-**Price**::  5,600; **Bulk** 2  
-**Weapon Types** heavy weapon
+**Level**:: 7
+**Price**::  5600 
+**Bulk**:: 2  
+**WeaponTypes**:: heavy weapon
 
 ### Description
 
@@ -26,8 +27,9 @@ Strength 14; reduce your total penalty by 2.
 
 **Source**:: _Starfinder Armory pg. 60_  
 **Level**:: 3
-**Price**::  1,400; **Bulk** 1  
-**Weapon Types** heavy weapon
+**Price**::  1400 
+**Bulk**:: 1  
+**WeaponTypes**:: heavy weapon
 
 ### Description
 
@@ -36,9 +38,10 @@ Strength 12; reduce your total penalty by 1.
 ## Gunner Harness, Null-space (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 9;
-**Price**::  15,000; **Bulk** 2  
-**Weapon Types** heavy weapon
+**Level**:: 9
+**Price**::  15000 
+**Bulk**:: 2  
+**WeaponTypes**:: heavy weapon
 
 ### Description
 

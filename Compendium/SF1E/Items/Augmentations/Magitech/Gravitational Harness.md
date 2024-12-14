@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 9 / 15
+Item:
 price:  
-System: Spinal Column 
+
 tags: 
 Type: Magitech
 ---
@@ -20,18 +20,21 @@ A _mk 3 gravitation harness_ functions as the mk 2 model, except as follows. T
 ## Gravitational Harness, Mk 1
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 2;
-**Price**::  515; **System** Spinal column  
+**Level**:: 2
+**Price**::  515 
+**System**:: Spinal column  
 
 ## Gravitational Harness, Mk 2
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 9;
-**Price**::  12,700; **System** Spinal column  
+**Level**:: 9
+**Price**::  12700 
+**System**:: Spinal column  
   
 
 ## Gravitational Harness, Mk 3
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 15;
-**Price**::  118,500; **System** Spinal column
+**Level**:: 15
+**Price**::  118500 
+**System**:: Spinal column

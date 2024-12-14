@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 1
-Environment: any underground (Weydana-4)  
+Environment: any underground (Weydana-4)
 hp: 22
-modifier: 2
+Initmod: 2
 name: Mole-Beetle Behemoth
 statblock: true
 tags: 
-Type: N Large vermin  
+Type: N Large vermin
 ---
 
 # Mole-beetle Behemoth
 
-[[Alien_MoleBeetle.webp|Zeigen!]]
+[[Alien_MoleBeetle.webp|Zeigen!]
 
 ## Mole-beetle Cr 1
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 12 / 16 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ Based on designs reverse-engineered from ancient troves and alloys rediscovered 
 ## Night Plate, I
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 8;
-**Price**::  9,400; **Category** Heavy  
-**EAC Bonus** +11; **KAC Bonus** +13; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 2; **Bulk** 2
+**Level**:: 8
+**Price**::  9400 
+**Category**:: Heavy  
+
+**EAC**:: +11 
+**KAC**:: +13 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 2
 
 ## Night Plate, Ii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 12;
-**Price**::  37,500; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 2
+**Level**:: 12
+**Price**::  37500 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 2
 
 ## Night Plate, Iii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 16;
-**Price**::  177,300; **Category** Heavy  
-**EAC Bonus** +21; **KAC Bonus** +24; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 2
+**Level**:: 16
+**Price**::  177300 
+**Category**:: Heavy  
+
+**EAC**:: +21 
+**KAC**:: +24 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 2
 
 ## Night Plate, Iv
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level** 20;
-**Price**::  886,500; **Category** Heavy  
-**EAC Bonus** +25; **KAC Bonus** +26; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 6; **Bulk** 2
+**Level**:: 20
+**Price**::  886500 
+**Category**:: Heavy  
+
+**EAC**:: +25 
+**KAC**:: +26 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 6 
+**Bulk**:: 2

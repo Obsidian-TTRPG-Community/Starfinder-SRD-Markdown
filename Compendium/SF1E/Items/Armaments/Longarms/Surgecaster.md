@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,24 +19,22 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 14
-**Price**:: 83,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 E; **Range**:: 60 ft.;
+**Price**:: 83000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 E; 
+**Range**:: 60 ft.
 **Critical**:: arc 2d10  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: boost 1d10, living
+**Bulk**:: 1**Special**:: boost 1d10, living
 
 ## Surgecaster, Standard
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 5
-**Price**:: 3,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 E; **Range**:: 40 ft.;
+**Price**:: 3300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 E; 
+**Range**:: 40 ft.
 **Critical**:: arc 1d10  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: boost 1d6, living
+**Bulk**:: 1**Special**:: boost 1d6, living

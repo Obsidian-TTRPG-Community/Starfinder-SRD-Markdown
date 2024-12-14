@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,51 @@ A shield projector is a heavy weapon that encases its target in a short-duration
 ## Shield Projector, Defender
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 9;
-**Price**:: 13,800  
+**Level**:: 9
+**Price**:: 13800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 40 ft.;
+**Damage**:: — 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 80 charges; **Usage** 10  
-**Bulk**:: 2;
-**Special**:: shield 2d6, unwieldy
+**Bulk**:: 2**Special**:: shield 2d6, unwieldy
 
 ## Shield Projector, Sentry
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 4
-**Price**:: 2,180  
+**Price**:: 2180  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 40 ft.;
+**Damage**:: — 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: shield 1d4, unwieldy
+**Bulk**:: 2**Special**:: shield 1d4, unwieldy
 
 ## Shield Projector, Guardian
 
 **Source**:: _Starfinder Armory pg. 53_  
 **Level**:: 14
-**Price**:: 75,200  
+**Price**:: 75200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 40 ft.;
+**Damage**:: — 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 80 charges; **Usage** 16  
-**Bulk**:: 2;
-**Special**:: shield 2d12, unwieldy
+**Bulk**:: 2**Special**:: shield 2d12, unwieldy
 
 ## Shield Projector, Warden
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 19;
-**Price**:: 594,000  
+**Level**:: 19
+**Price**:: 594000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 40 ft.;
+**Damage**:: — 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 100 charges; **Usage** 20  
-**Bulk**:: 2;
-**Special**:: shield 4d12, unwieldy
+**Bulk**:: 2**Special**:: shield 4d12, unwieldy

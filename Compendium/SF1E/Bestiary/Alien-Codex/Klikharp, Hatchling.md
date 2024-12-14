@@ -3,11 +3,11 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 13
-modifier: 2
+Initmod: 2
 name: Klikharp, Hatchling
 statblock: true
 tags: 
-Type: N Medium vermin  
+Type: N Medium vermin
 ---
 
 # Klikharp, Hatchling
@@ -20,7 +20,7 @@ Shirrens cherish klikharps not just for the history of their loyalty, but also f
 
 Klikharps endlessly shift themselves into helpful forms to work alongside their chosen friends. Feral klikharps are uncommon, as they have never been a truly wild species. If abandoned or neglected, they focus most on the mutations that will help them survive. Their songs never go completely silent; they instead shift from instrumental music to soft, plaintive sounds that echo their environment. Rescue groups that specialize in retrieving feral klikharps have found music to be key in both luring klikharps out of their hiding spaces but also teaching them to trust again.
 
-**Source**:: _Alien Archive 4 pg. 64_
+**Source**:  _Alien Archive 4 pg. 64_
 
 ## Hatchling Cr 1/2
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2
+
 Notetype: Weapon
 price: 490
 tags: 
@@ -11,11 +11,11 @@ type: Advanced-Melee
 # Injection Glove
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 490  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: analog, injection

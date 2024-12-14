@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11 / 16  / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ Each link in a suit of mind mail is a nanotechnological marvel: a psychically ac
 ## Lashunta Mind Mail, I
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 6;
-**Price**:: 4,250; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +6; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4250 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +6 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Lashunta Mind Mail, Ii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 11;
-**Price**:: 24,500; **Category** Light  
-**EAC Bonus** +13; **KAC Bonus** +14; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 11
+**Price**:: 24500 
+**Category**:: Light  
+
+**EAC**:: +13 
+**KAC**:: +14 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Lashunta Mind Mail, Iii
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 16;
-**Price**:: 166,500; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +20; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 16
+**Price**:: 166500 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +20 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Lashunta Mind Mail, Iv
 
 **Source**:: _Starfinder Armory pg. 70_  
-**Level**:: 19;
-**Price**:: 556,000; **Category** Light  
-**EAC Bonus** +22; **KAC Bonus** +22; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: L
+**Level**:: 19
+**Price**:: 556000 
+**Category**:: Light  
+
+**EAC**:: +22 
+**KAC**:: +22 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: L

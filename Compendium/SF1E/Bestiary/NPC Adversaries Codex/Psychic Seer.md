@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 4
 hp: 43
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Psychic Seer
-statblock: true
-Subtype: Investigators
+statblock: true(Investigators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Psychic Seer

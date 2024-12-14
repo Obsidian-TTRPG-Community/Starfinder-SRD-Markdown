@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 13 / 17
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,26 +15,47 @@ Ursikka hide armor is uncommon in shops on Triaxus, rare across the Pact Worlds 
 ## Ursikka Hide, Basic
 
 **Source**:: _Alien Archive 4 pg. 129_  
-**Level** 9;
-**Price**::  12,500; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +9; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk** L
+**Level**:: 9
+**Price**::  12500 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +9 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Ursikka Hide, Advanced
 
 **Source**:: _Alien Archive 4 pg. 129_  
-**Level** 13;
-**Price**::  46,500; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +16; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk** L
+**Level**:: 13
+**Price**::  46500 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +16 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Ursikka Hide, Elite
 
 **Source**:: _Alien Archive 4 pg. 129_  
-**Level** 17;
-**Price**::  240,000; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +20; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk** L
+**Level**:: 17
+**Price**::  240000 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +20 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L

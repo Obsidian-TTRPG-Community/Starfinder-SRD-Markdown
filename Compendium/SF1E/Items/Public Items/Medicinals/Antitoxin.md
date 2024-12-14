@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: Medicinal
-Level: 1 / 5 / 10 / 15
+
 price:  
 tags: 
 Type: Medicinal

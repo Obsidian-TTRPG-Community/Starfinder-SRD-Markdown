@@ -3,11 +3,11 @@ aliases:
 cr: 17
 Environment: any
 hp: 295
-modifier: 11
+Initmod: 11
 name: Hound of Tindalos, Thing from Beyond Time
 statblock: true
 tags: 
-Type: NE Huge outsider (evil, extraplanar)  
+Type: NE Huge outsider (evil, extraplanar)
 ---
 
 # Hound of Tindalos, Thing from beyond time
@@ -24,7 +24,7 @@ Tales are also told of enormous hounds, known as “things from beyond time,” 
 
 What “Tindalos” represents is another mystery. A few texts, such as Prekliken’s Book of Cults, refer to it as a location found on “the far side of time” that is guarded by the hounds. Other works claim Tindalos is a creature, such as a Great Old One. Still other scholarly pieces posit the word is from a lost language and means something akin to “apocalypse.”
 
-**Source**:: _Alien Archive 3 pg. 52_
+**Source**:  _Alien Archive 3 pg. 52_
 
 ## Thing from beyond time Cr 17
 

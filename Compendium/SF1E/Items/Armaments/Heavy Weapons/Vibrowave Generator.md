@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: [49:]
@@ -14,38 +14,44 @@ Sondrias usually patrol the Drift to help stranded travelers, but when some were
 ## Vibrowave Generator, Assault
 
 **Source**:: Starfinder A Light in the Dark pg. 43  
-**Level**:: 16;
-**Price**:: 175,000  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 175000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d8 So; **Range**:: 30 ft.;
+**Damage**:: 7d8 So 
+**Range**:: 30 ft.
 **Critical**:: Push (10 ft.)  
-**Capacity**:: 80; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 80 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: Blast, hybrid, unwieldy
 
 ## Vibrowave Generator, light
 
 **Source**:: Starfinder A Light in the Dark pg. 43  
-**Level**:: 6;
-**Price**:: 4,300  
-**Hands**:: 2;
+**Level**:: 6
+**Price**:: 4300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 So; **Range**:: 30 ft.;
+**Damage**:: 2d8 So 
+**Range**:: 30 ft.
 **Critical**:: Push (10 ft.)  
-**Capacity**:: 20; **Usage** 2  
-**Bulk**:: 3;
+**Capacity**:: 20 
+**Usage** 2  
+**Bulk**:: 3
 **Special**:: Blast, hybrid, unwieldy
 
 ## Vibrowave Generator, Heavy
 
 **Source**:: Starfinder A Light in the Dark pg. 43  
-**Level**:: 11;
-**Price**:: 25,000  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 25000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d8 So; **Range**:: 30 ft.;
+**Damage**:: 3d8 So 
+**Range**:: 30 ft.
 **Critical**:: Push (10 ft.)  
-**Capacity**:: 40; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 40 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: Blast, hybrid, unwieldy

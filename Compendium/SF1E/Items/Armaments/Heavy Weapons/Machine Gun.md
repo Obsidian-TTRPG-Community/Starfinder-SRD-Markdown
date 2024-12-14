@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 11 / 17 / 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,59 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Machine Gun, Heavy
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 17;
-**Price**:: 220,300  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 220300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d10 P; **Range**:: 120 ft.;
+**Damage**:: 7d10 P 
+**Range**:: 120 ft.
 **Critical**:: —  
-**Capacity**:: 100 rounds; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 100 rounds 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: analog, automatic
 
 ## Machine Gun, Squad
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
 **Level**:: 4
-**Price**:: 2,060  
-**Hands**:: 2;
+**Price**:: 2060  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 P; **Range**:: 60 ft.;
+**Damage**:: 1d10 P 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 40 rounds; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 rounds 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: analog, automatic
 
 ## Machine Gun, light
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 8;
-**Price**:: 8,600  
-**Hands**:: 2;
+**Level**:: 8
+**Price**:: 8600  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d10 P; **Range**:: 60 ft.;
+**Damage**:: 2d10 P 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 60 rounds; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 60 rounds 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: analog, automatic
 
 ## Machine Gun, Medium
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 11;
-**Price**:: 23,100  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 23100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d10 P; **Range**:: 60 ft.;
+**Damage**:: 3d10 P 
+**Range**:: 60 ft.
 **Critical**:: —  
-**Capacity**:: 60 rounds; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 60 rounds 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: analog, automatic

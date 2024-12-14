@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 9 / 12 / 17 / 20
+Item:
 price:  
-System: Hand
+
 tags: 
 Type: Biotech
 ---
@@ -13,16 +13,17 @@ When you attack with this bioelectric organ implanted in the palm of your hand, 
 
 | Model   | Level | Price     | Damage | Critical |
 |---------|-------|-----------|--------|----------|
-| Static  | 9     | 15,600    | 1d12 E | Arc 1d4  |
-| Aurora  | 12    | 41,400    | 2d12 E | Arc 2d4  |
-| Storm   | 17    | 297,000   | 4d12 E | Arc 3d4  |
-| Tempest | 20    | 1,075,000 | 6d12 E | Arc 6d4  |
+| Static  | 9     | 15600    | 1d12 E | Arc 1d4  |
+| Aurora  | 12    | 41400    | 2d12 E | Arc 2d4  |
+| Storm   | 17    | 297000   | 4d12 E | Arc 3d4  |
+| Tempest | 20    | 1075000 | 6d12 E | Arc 6d4  |
 
 ## Shock Fist, Aurora
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 12;
-**Price**::  41,400; **System** Hand  
+**Level**:: 12
+**Price**::  41400 
+**System**:: Hand  
   
 
 ---
@@ -30,19 +31,22 @@ When you attack with this bioelectric organ implanted in the palm of your hand, 
 ## Shock Fist, Static
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 9;
-**Price**::  15,600; **System** Hand  
+**Level**:: 9
+**Price**::  15600 
+**System**:: Hand  
   
 
 ## Shock Fist, Storm
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 17;
-**Price**::  297,000; **System** Hand  
+**Level**:: 17
+**Price**::  297000 
+**System**:: Hand  
   
 
 ## Shock Fist, Tempest
 
 **Source**:: _Starfinder Armory pg. 87_  
-**Item Level** 20;
-**Price**::  1,075,000; **System** Hand
+**Level**:: 20
+**Price**::  1075000 
+**System**:: Hand

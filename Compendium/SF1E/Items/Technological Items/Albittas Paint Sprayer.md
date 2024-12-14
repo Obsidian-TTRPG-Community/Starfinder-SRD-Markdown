@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4
+
 price: 0
 tags: 
 Type: Technological Item
@@ -8,12 +8,13 @@ Type: Technological Item
 
 # Albitta's Paint Sprayer
 
-_SFS Note: Albitta’s paint sprayer is a technological item with a price of 2,000 credits and bulk L._  
+_SFS Note: Albitta’s paint sprayer is a technological item with a price of 2000 credits and bulk L._  
 **Source**:: _Ports of Call pg. 63_
 **Level**:: 4
 **Price**:: 0  
-**Capacity**:: 10; **Usage** 1/use  
-**Hands**:: 1 **Bulk**:: —
+**Capacity**:: 10 **Usage** 1/use  
+**Hands**:: 1 
+**Bulk**:: —
 
 ### Description
 

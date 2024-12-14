@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: [4_]
+tags: [4_
 ---
 
 # Azlanti Empire Ships

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 40
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Hazard Response Crew
-statblock: true
-Subtype: Emergency Workers
+statblock: true(Emergency Workers
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Hazard Response Crew

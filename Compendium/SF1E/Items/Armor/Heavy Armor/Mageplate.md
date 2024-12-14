@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 14 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,35 +14,63 @@ Pahtra sorcerers have used carefully calibrated magnetic fields to enhance magic
 ## Mageplate, Apprentice
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level** 4;
-**Price**::  2,150; **Category** Heavy  
-**EAC Bonus** +5; **KAC Bonus** +6; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 0; **Bulk** 3
+**Level**:: 4
+**Price**::  2150 
+**Category**:: Heavy  
+
+**EAC**:: +5 
+**KAC**:: +6 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 0 
+**Bulk**:: 3
 
 ## Mageplate, Journeyman
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level** 9;
-**Price**::  12,800; **Category** Heavy  
-**EAC Bonus** +14; **KAC Bonus** +15; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Level**:: 9
+**Price**::  12800 
+**Category**:: Heavy  
+
+**EAC**:: +14 
+**KAC**:: +15 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Mageplate, Master
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level** 14;
-**Price**::  70,000; **Category** Heavy  
-**EAC Bonus** +18; **KAC Bonus** +20; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 14
+**Price**::  70000 
+**Category**:: Heavy  
+
+**EAC**:: +18 
+**KAC**:: +20 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ## Mageplate, Archmage
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level** 19;
-**Price**::  560,000; **Category** Heavy  
-**EAC Bonus** +24; **KAC Bonus** +25; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 3; **Bulk** 3
+**Level**:: 19
+**Price**::  560000 
+**Category**:: Heavy  
+
+**EAC**:: +24 
+**KAC**:: +25 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 3

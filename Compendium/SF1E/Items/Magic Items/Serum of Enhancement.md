@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5
+
 price: 475
 tags: 
 Type: Magic Item
@@ -14,8 +14,9 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Serum of Enhancement, Commando
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 
@@ -26,8 +27,9 @@ The creature gains a +2 insight bonus to Acrobatics and Athletics checks, and it
 ## Serum of Enhancement, Diplomat
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 
@@ -36,8 +38,9 @@ The creature gains a +2 insight bonus to Bluff and Diplomacy checks. Creatures w
 ## Serum of Enhancement, Scientist
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 
@@ -46,8 +49,9 @@ The creature gains a +2 insight bonus to Computers, Engineering, and Physical Sc
 ## Serum of Enhancement, Sensate
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 
@@ -56,8 +60,9 @@ The creature gains a +2 insight bonus to Life Science and Mysticism checks and c
 ## Serum of Enhancement, Sneak
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 
@@ -66,8 +71,9 @@ The creature gains a +2 insight bonus to Sleight of Hand and Stealth checks and 
 ## Serum of Enhancement, Warrior
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  475; **Bulk** L
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: L
 
 ### Description
 

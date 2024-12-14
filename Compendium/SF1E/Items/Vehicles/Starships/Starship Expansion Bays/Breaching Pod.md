@@ -15,21 +15,25 @@ By increasing a breaching pod’s BP cost to 7, the pod is automatically outfitt
 ## Breaching Pod
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 5
+**PCU**:: 5
+**Cost (in BP)**:: 5
 
 ---
 
 ## Breaching Pod, Autonomous Combatants
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 7
+**PCU**:: 5
+**Cost (in BP)**:: 7
 
 ## Breaching Pod, Skilled Autonomous Combatants
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 9
+**PCU**:: 5
+**Cost (in BP)**:: 9
 
 ## Breaching Pod, Specialized Autonomous Combatants
 
 **Source**:: _Starship Operations Manual pg. 24_  
-**PCU** 5; **Cost (in BP)** 11
+**PCU**:: 5
+**Cost (in BP)**:: 11

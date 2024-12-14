@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 5 / 12
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,22 +19,18 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 12
-**Price**:: 34,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 C;
+**Price**:: 34800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 C
 **Critical**:: staggered  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2), reach
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2), reach
 
 ## Cryopike, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 5
-**Price**:: 3,360  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 C;
+**Price**:: 3360  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 C
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2), reach
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2), reach

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 150
 tags: 
@@ -10,9 +10,10 @@ type: Weapon Accessories
 # Uniclamp
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 1;
-**Price**::  150; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 1
+**Price**::  150 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 

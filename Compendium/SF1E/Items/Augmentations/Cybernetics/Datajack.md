@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 2 / 5 / 8
+Item:
 price:  
-System: Brain
+
 tags: 
 Type: Cybertech
 ---
@@ -16,19 +16,22 @@ Advanced datajacks make it easier to process and send information through the da
 ## Datajack, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 2;
-**Price**::  625; **System** Brain  
+**Level**:: 2
+**Price**::  625 
+**System**:: Brain  
   
 
 ## Datajack, High-density
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 5;
-**Price**::  2,600; **System** Brains  
+**Level**:: 5
+**Price**::  2600 
+**System**:: Brains  
   
 
 ## Datajack, Accelerated
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 8;
-**Price**::  8,525; **System** Brain
+**Level**:: 8
+**Price**::  8525 
+**System**:: Brain

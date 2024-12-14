@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: any vacuum  
+Environment: any vacuum
 hp: 145
-modifier: 3
+Initmod: 3
 name: Vermin (Space), Planetoid Beetle
 statblock: true
 tags: 
-Type: N Huge vermin  
+Type: N Huge vermin
 ---
 
 # Vermin (SPACE), Planetoid Beetle
@@ -19,7 +19,7 @@ Asteroid lice and planetoid beetles feed on minerals in the rock of their airles
 Xenobiologists theorize many space vermin evolved in special circumstances. Necropedes were once centipede-like scavengers on Eox; they now have a bite that can digest undead flesh. A warpmoth is like a glowing blue-white speck attracted to moving light, such as other warpmoths or passing starships. Gathering in swarms and following ships helps the moths feed and mate. Comet wasps create nests in frozen interstellar bodies. These icy, venomous vespids lay their eggs in living creatures.
 
 
-**Source**:: _Alien Archive 2 pg. 132_
+**Source**:  _Alien Archive 2 pg. 132_
 
 ## Planetoid Beetle Cr 9
 

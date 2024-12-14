@@ -13,11 +13,11 @@ An antipersonnel weapon must be mounted near the boarding ramp of a Medium or sm
 ## Antipersonnel Weapon, Heavy
 
 **Source**:: _Starfinder Core Rulebook pg. 300_  
-**Cost (in BP)** 5 + item level of weapon  
-**PCU** —
+**Cost (in BP)**:: 5 + item level of weapon  
+**PCU**:: —
 
 ## Antipersonnel Weapon, Longarm
 
 **Source**:: _Starfinder Core Rulebook pg. 300_  
-**Cost (in BP)** Item level of weapon  
-**PCU** —
+**Cost (in BP)**:: Item level of weapon  
+**PCU**:: —

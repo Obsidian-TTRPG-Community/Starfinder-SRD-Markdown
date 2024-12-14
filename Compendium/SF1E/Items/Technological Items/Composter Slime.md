@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5
-price: 2,000
+
+price: 2000
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Composter Slime
 
 **Source**:: _Tech Revolution pg. 46_  
-**Level** 5;
+**Level**:: 5
 **Price**::  2000  
-**Hands** —; **Bulk** 1
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

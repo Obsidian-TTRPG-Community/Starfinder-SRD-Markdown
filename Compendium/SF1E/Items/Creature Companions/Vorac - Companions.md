@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 5-12
+
 Type: Tiny magical beast  
 ---
 # VORAC - COMPANIONS
@@ -8,7 +8,8 @@ Type: Tiny magical beast
 **Source**:: _Alien Archive 3 pg. 146_  
 Voracs are eyeless, six-winged, crow-like creatures common to forested areas on several of Bretheda’s moons. They travel in large flocks in the wild, singing low and haunting songs punctuated by the crackling of raw magical energy.
 
-## VORACLEVELS 5-12
+## VORAC
+level:: 5-12
 
 Tiny magical beast  
 **Senses** blindsight (thought) 60 ft.; sightless  

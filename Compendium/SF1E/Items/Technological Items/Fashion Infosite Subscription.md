@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 450
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Fashion Infosite Subscription
 
 **Source**:: _Tech Revolution pg. 48_  
-**Level** 2;
+**Level**:: 2
 **Price**::  450  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

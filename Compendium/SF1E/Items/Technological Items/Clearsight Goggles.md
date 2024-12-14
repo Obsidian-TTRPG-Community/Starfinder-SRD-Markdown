@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5 
-price: 2,750
+
+price: 2750
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Clearsight Goggles
 
 **Source**:: _Starfinder Armory pg. 100_  
-**Level** 5;
-**Price**::  2,750  
-**Hands** —; **Bulk** —
+**Level**:: 5
+**Price**::  2750  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

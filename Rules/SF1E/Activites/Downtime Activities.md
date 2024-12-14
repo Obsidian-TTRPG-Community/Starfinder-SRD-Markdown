@@ -5,7 +5,7 @@ tags:
 
 # Downtime Activites
 
-Not even the most battle-scarred and seasoned mercenary spends every day in combat. Most adventurers have a few days or weeks between jobs, and even if their schedule is packed, interplanetary travel and journeys through [[The Drift]] require time—time that can’t be spent fighting foes or exploring. The rules here detail what adventurers might be doing in the quiet times, between the excitement of exploration and the terror of combat.  
+Not even the most battle-scarred and seasoned mercenary spends every day in combat. Most adventurers have a few days or weeks between jobs, and even if their schedule is packed, interplanetary travel and journeys through [[the Drift]] require time—time that can’t be spent fighting foes or exploring. The rules here detail what adventurers might be doing in the quiet times, between the excitement of exploration and the terror of combat.  
 
 # Downtime Activities
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 10 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Pistol, Avalanche-class
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 19;
-**Price**:: 492,900  
+**Level**:: 19
+**Price**:: 492900  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 6d6 C; **Range**:: 60 ft.;
+**Damage**:: 6d6 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 80 charges; **Usage** 4  
 **Bulk**:: L
@@ -34,10 +35,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 5
-**Price**:: 3,060  
+**Price**:: 3060  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 C; **Range**:: 60 ft.;
+**Damage**:: 1d6 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Pistol, Hailstorm-class
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 10;
-**Price**:: 16,900  
+**Level**:: 10
+**Price**:: 16900  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 C; **Range**:: 60 ft.;
+**Damage**:: 2d6 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -59,11 +62,12 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Pistol, Blizzard-class
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 15;
-**Price**:: 94,500  
+**Level**:: 15
+**Price**:: 94500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d6 C; **Range**:: 60 ft.;
+**Damage**:: 4d6 C; 
+**Range**:: 60 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 12 / 15 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,50 +21,46 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 38_  
 **Level**:: 12
-**Price**:: 34,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: — **Range**:: 80 ft.;
+**Price**:: 34200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: burn 3d6  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: ignite 3d6
+**Bulk**:: 1**Special**:: ignite 3d6
 
 ## Igniter, Ember
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 8;
-**Price**:: 9,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: — **Range**:: 80 ft.;
+**Level**:: 8
+**Price**:: 9900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: burn 2d6  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: ignite 2d6
+**Bulk**:: 1**Special**:: ignite 2d6
 
 ## Igniter, Inferno
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 15;
-**Price**:: 108,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: — **Range**:: 80 ft.;
+**Level**:: 15
+**Price**:: 108000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: burn 4d6  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: ignite 4d6
+**Bulk**:: 1**Special**:: ignite 4d6
 
 ## Igniter, Solar Flare
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 18;
-**Price**:: 360,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: — **Range**:: 80 ft.;
+**Level**:: 18
+**Price**:: 360000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: burn 5d6  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: ignite 5d6
+**Bulk**:: 1**Special**:: ignite 5d6

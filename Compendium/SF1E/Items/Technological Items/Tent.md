@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 75
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Tent
 
 **Source**:: _Tech Revolution pg. 50_  
-**Level** 1;
+**Level**:: 1
 **Price**::  75  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

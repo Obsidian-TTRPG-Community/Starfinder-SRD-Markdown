@@ -3,11 +3,11 @@ aliases:
 cr: 3
 Environment: any
 hp: 40
-modifier: 4
+Initmod: 4
 name: Weaponized Toy, Weaponized Devil-in-a-box
 statblock: true
 tags: 
-Type: N Tiny construct (technological)  
+Type: N Tiny construct (technological)
 ---
 
 # Weaponized Toy, Weaponized Devil-in-a-box
@@ -21,7 +21,7 @@ High-end gaming devices have been used for similar ends. Gamedroids normally fun
 Laws to control weaponized toys are hard to create and enforce. Lobbyists balk at legislation that burdens manufacturers or slows shipping. Apostae’s lobbyists in particular have been vocal that laws mustn’t hold producers accountable for misuse of their goods, as the precedent would be untenable and the reach overlarge. Responsibility lies, industry advocates insist, with law enforcement and the criminals who perpetrate such abuse.
 
 
-**Source**:: _Alien Archive 3 pg. 132_
+**Source**:  _Alien Archive 3 pg. 132_
 
 ## Weaponized Devil-in-a-box Cr 3
 

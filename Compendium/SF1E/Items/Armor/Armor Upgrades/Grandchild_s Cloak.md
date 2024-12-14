@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: Light
-ItemLevel: 8 / 15
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -20,16 +20,18 @@ A _grandchild’s cloak’s_ charges replenish each day. This upgrade can be i
 ## Grandchild's Cloak, Normal (HYBRID)
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 8;
-**Price**::  10,000  
-**Slots** 1; **Armor Type** Light; **Bulk** L  
-**Capacity**:: 10; **Usage** 3/round  
+**Level**:: 8
+**Price**::  10000  
+**Slots** 1 **Armor Type** Light 
+**Bulk**:: L  
+**Capacity**:: 10 **Usage** 3/round  
   
 
 ## Grandchild's Cloak, Greater (HYBRID)
 
 **Source**:: _Pact Worlds pg. 197_  
-**Item Level** 15;
-**Price**::  120,000  
-**Slots** 1; **Armor Type** Light; **Bulk** L  
-**Capacity**:: 10; **Usage** 3/round
+**Level**:: 15
+**Price**::  120000  
+**Slots** 1 **Armor Type** Light 
+**Bulk**:: L  
+**Capacity**:: 10 **Usage** 3/round

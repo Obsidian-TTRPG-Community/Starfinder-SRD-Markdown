@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 14 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,46 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
 **Level**:: 14
-**Price**:: 72,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d8 P; **Range**:: 100 ft.;
+**Price**:: 72300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d8 P; 
+**Range**:: 100 ft.
 **Critical**:: —  
 **Capacity**:: 18 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Seeker Rifle, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 7;
-**Price**:: 6,030  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 P; **Range**:: 100 ft.;
+**Level**:: 7
+**Price**:: 6030  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 P; 
+**Range**:: 100 ft.
 **Critical**:: —  
 **Capacity**:: 8 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Seeker Rifle, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 17;
-**Price**:: 242,500  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 9d8 P; **Range**:: 100 ft.;
+**Level**:: 17
+**Price**:: 242500  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 9d8 P; 
+**Range**:: 100 ft.
 **Critical**:: —  
 **Capacity**:: 18 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Seeker Rifle, Paragon
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 20;
-**Price**:: 809,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 12d8 P; **Range**:: 100 ft.;
+**Level**:: 20
+**Price**:: 809200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 12d8 P; 
+**Range**:: 100 ft.
 **Critical**:: —  
 **Capacity**:: 24 rounds; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog

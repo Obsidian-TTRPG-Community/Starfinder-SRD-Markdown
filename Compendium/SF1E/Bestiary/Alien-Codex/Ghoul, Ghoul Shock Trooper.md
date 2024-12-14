@@ -3,11 +3,24 @@ aliases:
 cr: 11
 Environment: any
 hp: 180
-modifier: 5
+Initmod: 5
 name: Ghoul, Ghoul Shock Trooper
 statblock: true
 tags: 
-Type: CE Medium undead  
+Type: CE Medium undead
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - gang(2-6)
+  - pack(7-12)
+source: Alien Archive 2
 ---
 
 # Ghoul, Ghoul Shock Trooper
@@ -20,7 +33,7 @@ Rather than spread the undead scourge they carry inside them, ambitious ghouls i
 
 Whether on Eox or beyond, certain powerful ghouls known as ghasts can affect even elves with their paralysis, and exude a powerful stench; these undead usually hold important positions in ghoul society. Ghouls that lurk underwater and in coastal areas are called lacedons. In many cases, powerful ghouls and lacedons are high-ranking members of the military on Eox or even the Corpse Fleet.
 
-**Source**:: _Alien Archive 2 pg. 60_
+**Source**:  _Alien Archive 2 pg. 60_
 
 ## Ghoul Shock Trooper Cr 11
 
@@ -60,3 +73,5 @@ CE Medium undead
 ### Special Abilities
 
 **Paralysis (Ex)** When a ghoul shock trooper deals damage to a creature with its bite or claw attack, the target must succeed at a DC 18 Fortitude saving throw or gain the paralyzed condition for 1d4+1 rounds. As a full action, the target can attempt a new saving throw to end the condition. Creatures with the elf subtype are immune to a ghoul’s paralysis.
+
+

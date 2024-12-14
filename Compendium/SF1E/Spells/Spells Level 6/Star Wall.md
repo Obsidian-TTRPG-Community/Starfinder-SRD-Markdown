@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 6
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: evocation (electricity, fire) 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Star Wall

@@ -3,11 +3,11 @@ aliases:
 Level: 3
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: transmutation 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Preserve Specimen

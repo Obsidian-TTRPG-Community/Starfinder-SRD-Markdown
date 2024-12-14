@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Eox)  
+Environment: any (Eox)
 hp: 40
-modifier: 3
+Initmod: 3
 name: Vermin (Space), Necropede
 statblock: true
 tags: 
-Type: N Large vermin  
+Type: N Large vermin
 ---
 
 # Vermin (SPACE), Necropede
@@ -20,7 +20,7 @@ Xenobiologists theorize many space vermin evolved in special circumstances. Necr
 
 
 
-**Source**:: _Alien Archive 2 pg. 132_
+**Source**:  _Alien Archive 2 pg. 132_
 
 ## Necropede Cr 3
 

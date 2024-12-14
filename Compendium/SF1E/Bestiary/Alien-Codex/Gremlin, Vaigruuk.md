@@ -3,16 +3,16 @@ aliases:
 cr: 2
 Environment: any
 hp: 21
-modifier: 4
+Initmod: 4
 name: Gremlin, Vaigruuk
 statblock: true
 tags: 
-Type: CE Small fey  
+Type: CE Small fey
 ---
 
 # Gremlin, Vaigruuk
 
-[[Alien_GremlinVaigruuk.webp|Zeigen!]]
+[[Alien_GremlinVaigruuk.webp|Zeigen!]
 
 **XP 600**  
 CE Small fey  

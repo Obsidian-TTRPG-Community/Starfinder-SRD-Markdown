@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 3 / 9 / 13 / 19
+Item:
 price:  
-System: Lungs
+
 tags: 
 Type: Magitech
 ---
@@ -15,8 +15,9 @@ The hurricane model allows you to exhale forcefully, deflecting incoming blasts 
 ## Galeforce Lungs, Gust
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 9;
-**Price**::  12,900; **System** Lungs  
+**Level**:: 9
+**Price**::  12900 
+**System**:: Lungs  
   
 
 ---
@@ -24,19 +25,22 @@ The hurricane model allows you to exhale forcefully, deflecting incoming blasts 
 ## Galeforce Lungs, Standard
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 3;
-**Price**::  1,300; **System** Lungs  
+**Level**:: 3
+**Price**::  1300 
+**System**:: Lungs  
   
 
 ## Galeforce Lungs, Storm
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 13;
-**Price**::  49,000; **System** Lungs  
+**Level**:: 13
+**Price**::  49000 
+**System**:: Lungs  
   
 
 ## Galeforce Lungs, Hurricane
 
 **Source**:: _Tech Revolution pg. 59_  
-**Item Level** 19;
-**Price**::  545,000; **System** Lungs
+**Level**:: 19
+**Price**::  545000 
+**System**:: Lungs

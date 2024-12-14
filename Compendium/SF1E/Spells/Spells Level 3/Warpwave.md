@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: transmutation 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Warpwave

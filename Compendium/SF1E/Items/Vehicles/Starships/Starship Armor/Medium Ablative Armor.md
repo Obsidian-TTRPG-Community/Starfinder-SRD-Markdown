@@ -11,25 +11,35 @@ tags:
 
 ## Medium Ablative Armor Mk 1
 
-**AC Bonus** —; **BP Cost** 16; **Temp HP** 120;
+**AC-Bonus**:: —
+**BPCost**:: 16
+**TempHP**:: 120;
 **Special**:: –2 TL, +1 turn distance
 
 ## Medium Ablative Armor Mk 2
 
-**AC Bonus** —; **BP Cost** 17; **Temp HP** 140;
+**AC-Bonus**:: —
+**BPCost**:: 17
+**TempHP**:: 140;
 **Special**:: –2 TL, +1 turn distance
 
 ## Medium Ablative Armor Mk 3
 
-**AC Bonus** —; **BP Cost** 19; **Temp HP** 160;
+**AC-Bonus**:: —
+**BPCost**:: 19
+**TempHP**:: 160;
 **Special**:: –2 TL, +1 turn distance
 
 ## Medium Ablative Armor Mk 4
 
-**AC Bonus** —; **BP Cost** 21; **Temp HP** 180;
+**AC-Bonus**:: —
+**BPCost**:: 21
+**TempHP**:: 180;
 **Special**:: –2 TL, +1 turn distance
 
 ## Medium Ablative Armor Mk 5
 
-**AC Bonus** —; **BP Cost** 22; **Temp HP** 200;
+**AC-Bonus**:: —
+**BPCost**:: 22
+**TempHP**:: 200;
 **Special**:: –2 TL, +1 turn distance

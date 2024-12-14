@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 4
 hp: 46
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Erahthi Psychic
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Erahthi Psychic

@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 8
-price: 10,000
+
+price: 10000
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 8;
-**Price**::  10,000; **Bulk** L
+**Level**:: 8
+**Price**::  10000 
+**Bulk**:: L
 
 ### Description
 
@@ -16,10 +17,10 @@ Additionally, the coat has several other cards available. Roll 4d4 to determine 
 
 | D%     | Result                             |
 |--------|------------------------------------|
-| 01–08  | Satchel containing 1,000 UPBs      |
+| 01–08  | Satchel containing 1000 UPBs      |
 | 09–15  | Magnetic jack                      |
 | 16–22  | Average lock                       |
-| 23–30  | Credstick containing 1,000 credits |
+| 23–30  | Credstick containing 1000 credits |
 | 31–44  | Collapsible ladder (20 feet)       |
 | 45–51  | Basic enercycle                    |
 | 52–59  | Black nanite hypopen               |

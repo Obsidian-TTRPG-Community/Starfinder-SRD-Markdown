@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 5 / 8 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Injector Pistol, Elite
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 19;
-**Price**:: 532,000  
+**Level**:: 19
+**Price**:: 532000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 9d6 P; **Range**:: 80 ft.;
+**Damage**:: 9d6 P; 
+**Range**:: 80 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 20 darts; **Usage** 1  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Injector Pistol, Medic
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 3;
-**Price**:: 1,290  
+**Level**:: 3
+**Price**:: 1290  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 P; **Range**:: 40 ft.;
+**Damage**:: 1d6 P; 
+**Range**:: 40 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 10 darts; **Usage** 1  
 **Bulk**:: L
@@ -45,10 +47,11 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Starfinder Armory pg. 44_  
 **Level**:: 5
-**Price**:: 2,890  
+**Price**:: 2890  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 P; **Range**:: 60 ft.;
+**Damage**:: 1d8 P; 
+**Range**:: 60 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 20 darts; **Usage** 1  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Injector Pistol, Poacher
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 8;
-**Price**:: 9,050  
+**Level**:: 8
+**Price**:: 9050  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 P; **Range**:: 60 ft.;
+**Damage**:: 2d6 P; 
+**Range**:: 60 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 20 darts; **Usage** 1  
 **Bulk**:: L
@@ -71,10 +75,11 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Starfinder Armory pg. 44_  
 **Level**:: 14
-**Price**:: 68,500  
+**Price**:: 68500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d6 P; **Range**:: 80 ft.;
+**Damage**:: 5d6 P; 
+**Range**:: 80 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 20 darts; **Usage** 1  
 **Bulk**:: L

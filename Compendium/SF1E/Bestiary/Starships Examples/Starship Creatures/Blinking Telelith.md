@@ -3,41 +3,50 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 10
-Type: N Large starship magical beast 
+type: N Large starship magical beast 
 ---
 
 # Blinking Telelith
 
-N Large starship magical beast, **Tier** 10  
+N Large starship magical beast, Tier 10  
 
-**Speed** 8; **Maneuverability** average (turn 2); **Drift** —  
-**AC** 26; **TL** 26  
-**HP** 190; **DT** —; **CT** 38  
-**Shields** medium 200 (forward 50, port 50, starboard 50, aft 50)  
-**Attack (Forward)** linked railgun (16d4), slam (6d8, ripper)  
-**Attack (Turret)** hurl debris (10d6)  
-**Power Core** large telelith heart (300 PCU); **Drift Engine** none; **Systems** mk 7 armor, mk 8 defenses; **Expansion Bays** telelith matrix
+Speed: 8
+Maneuverability average (turn 2)
+Drift —  
+AC 26
+TL 26  
+HP: 190
+DT —
+CT 38  
+Shields medium 200 (forward 50, port 50, starboard 50, aft 50)  
+Attack (Forward) linked railgun (16d4), slam (6d8, ripper)  
+Attack (Turret) hurl debris (10d6)  
+Power Core large telelith heart (300 PCU)
+Drift Engine none
+Systems mk 7 armor, mk 8 defenses
+Expansion Bays telelith matrix
 
 ### Crew
 
-**Engineer (1 action)** Engineering +24 (10 ranks)  
-**Gunners (2 actions)** gunnery +15 (10th level)  
-**Pilot (1 action)** Piloting +24 (10 ranks)
+Engineer (1 action) Engineering +24 (10 ranks)  
+Gunners (2 actions) gunnery +15 (10th level)  
+Pilot (1 action) Piloting +24 (10 ranks)"
 
 ### Ecology
 
-**Environment** any vacuum or the Drift  
-**Organization** solitary, pair, or cluster (3–4)
+Environment any vacuum or the Drift  
+Organization solitary, pair, or cluster (3–4)
 
 ### Special Abilities
 
-**Auto-Destruct (Ex)** When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
+Auto-Destruct (Ex) When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
 
-**Hurl Debris (Ex)** A swarming telelith can hurl debris at short range. This weapon has the point (+8) special property.
+Hurl Debris (Ex) A swarming telelith can hurl debris at short range. This weapon has the point (+8) special property.
 
-Telelith Matrix (Su) Three times per day, a blinking telelith can attempt the telelith gambit stunt; it performs the maneuver if it succeeds at a DC 30 Piloting check.
+Telelith Matrix (Su) Three times per day, a blinking telelith can attempt the telelith gambit stunt
+it performs the maneuver if it succeeds at a DC 30 Piloting check.
 
-**Living Starship (Ex)** A swarming telelith is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below when the swarming telelith takes critical damage. A telelith’s brain can’t gain the wrecked condition.
+Living Starship (Ex) A swarming telelith is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below when the swarming telelith takes critical damage. A telelith’s brain can’t gain the wrecked condition.
 
 | D%     | SYSTEM             | EFFECT                                                                           |
 |--------|--------------------|----------------------------------------------------------------------------------|
@@ -47,7 +56,7 @@ Telelith Matrix (Su) Three times per day, a blinking telelith can attempt the te
 | 91–100 | Brain              | Condition applies to all actions                                                 |
 
 
-**Slam (Ex)** A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
+Slam (Ex) A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
 
 ## Description
 

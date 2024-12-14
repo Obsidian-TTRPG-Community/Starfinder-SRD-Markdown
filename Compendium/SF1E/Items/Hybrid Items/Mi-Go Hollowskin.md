@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 7 
-price: 5,500
+
+price: 5500
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Mi-go Hollowskin
 
 **Source**:: _Alien Archive 2 pg. 83_  
-**Level** 7;
-**Price**::  5,500; **Bulk** L
+**Level**:: 7
+**Price**::  5500 
+**Bulk**:: L
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Koshoria)  
+Environment: any (Koshoria)
 hp: 75
-modifier: 2
+Initmod: 2
 name: Dessamar, Dessamar Theurgist
 statblock: true
 tags: 
-Type: CG Medium humanoid (dessamar)  
+Type: CG Medium humanoid (dessamar)
 ---
 
 # Dessamar, Dessamar Theurgist
@@ -24,7 +24,7 @@ A typical dessamar adult is around 5 feet tall and weighs only 60 pounds. A deve
 
 ## Dessamar, Dessamar Theurgist
 
-**Source**:: _Alien Archive 3 pg. 14_
+**Source**:  _Alien Archive 3 pg. 14_
 
 ## Dessamar Theurgist Cr 6
 

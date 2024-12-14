@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 4
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: conjuration (teleporation) 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Planar Phase

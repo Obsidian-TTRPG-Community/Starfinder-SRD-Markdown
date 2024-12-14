@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 14 / 19
+
 price: 
 tags: 
 type: Shield
@@ -16,30 +16,42 @@ In addition, three times per day as a standard action, you can increase the rela
 
 **Source**:: _Near Space pg. 151_  
 **Level**:: 4
-**Price**:: 2,100  
-**Shield Bonus** +0/+2; **Max Dex** +4; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 1
+**Price**:: 2100  
+**Shield-Bonus**:: +0/+2
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 1
 
 ## Field
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 9;
-**Price**:: 13,500  
-**Shield Bonus** +1/+1; **Max Dex** +4; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 1
+**Level**:: 9
+**Price**:: 13500  
+**Shield-Bonus**:: +1/+1
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 1
 
 ## Advanced
 
 **Source**:: _Near Space pg. 151_  
 **Level**:: 14
-**Price**:: 73,000  
-**Shield Bonus** +1/+2; **Max Dex** +5; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Price**:: 73000  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +5
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2
 
 ## Elite
 
 **Source**:: _Near Space pg. 151_  
-**Level**:: 19;
-**Price**:: 570,000  
-**Shield Bonus** +1/+3; **Max Dex** +5; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Level**:: 19
+**Price**:: 570000  
+**Shield-Bonus**:: +1/+3
+**Max-Dex**:: +5
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2

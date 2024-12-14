@@ -1,20 +1,35 @@
 ---
 aliases: 
 cr: 3
-Environment: any land or underground (Castrovel)  
+Environment: any land or underground (Castrovel)
 hp: 39
-modifier: 2
+Initmod: 2
 name: Formian, Formian Warrior
 statblock: true
 tags: 
-Type: LN Medium monstrous humanoid  
+Type: LN Medium monstrous humanoid
+combatType: combatant
+alignment: LN
+size: medium
+type(subtype): monstrous humanoid(-)
+environment:
+  - lands
+  - underground
+climate: any
+planet: Castrovel
+organization:
+  - solitary
+  - pair
+  - patrol(3-12)
+  - band(5-8) + Formian Worker(3-15)
+source: Alien Archive
 ---
 
 # Formian, Formian Warrior
 
 Formians resemble giant ants with humanoid upper bodies, and carve their chitinous plates with insignias reflecting their individual names and achievements. Members of a hive all share a telepathic link, allowing them to coordinate efficiently. Within a hive are castes specialized to particular tasks. The queen leads the hive and is its sole means of propagation, while castes like the aristocratic myrmarchs and mercantile taskmasters direct lower castes like warriors and workers. Formians are most common on Castrovel. For millennia they sought to eradicate the lashunta, their traditional foes, but their queens now instead focus on adopting other species’ technology to industrialize their traditional hive societies.
 
-**Source**:: _Alien Archive pg. 50_
+**Source**:  _Alien Archive pg. 50_
 
 ## Formian Warrior Cr 3
 
@@ -70,3 +85,5 @@ Formian workers are the backbone of hive labor and hatched in large clutches-man
 
 The following extra content was found for this creature:  
 \- Formian Race Entry
+
+

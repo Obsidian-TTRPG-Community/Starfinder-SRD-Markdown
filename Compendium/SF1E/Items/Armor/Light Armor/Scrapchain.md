@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 13 / 17
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ Developed by the Daimalkan engineers in Scrapden, this metallic chainweave armor
 ## Scrapchain, Behemoth
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level**:: 13;
-**Price**:: 49,750; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Level**:: 13
+**Price**:: 49750 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ## Scrapchain, Giant
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level**:: 9;
-**Price**:: 14,500; **Category** Light  
-**EAC Bonus** +10; **KAC Bonus** +11; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: 1
+**Level**:: 9
+**Price**:: 14500 
+**Category**:: Light  
+
+**EAC**:: +10 
+**KAC**:: +11 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: 1
 
 ## Scrapchain, Titan
 
 **Source**:: _Tech Revolution pg. 52_  
-**Level**:: 17;
-**Price**:: 256,000; **Category** Light  
-**EAC Bonus** +18; **KAC Bonus** +20; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Level**:: 17
+**Price**:: 256000 
+**Category**:: Light  
+
+**EAC**:: +18 
+**KAC**:: +20 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4
-price: 2,000
+
+price: 2000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Magniscope
 
 **Source**:: _Pact Worlds pg. 198_  
-**Level** 4;
-**Price**::  2,000  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Level**:: 4
+**Price**::  2000  
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 13  
-price: 50,000
+
+price: 50000
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Memory Expunger
 
 **Source**:: _Alien Archive pg. 57_  
-**Level** 13;
-**Price**::  50,000  
-**Hands** —; **Bulk** L
+**Level**:: 13
+**Price**::  50000  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

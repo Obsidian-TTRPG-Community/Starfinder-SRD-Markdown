@@ -9,9 +9,9 @@ Any handheld weapon that must touch a target to damage it is considered a melee 
 
 
 ``` dataview
-TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Advanced Melee/One Handed - Advanced Melee"
+TABLE WITHOUT ID
+file.link as "Weapon", Level, Price, Damage , Critical
+FROM "Compendium/SF1E/Items/Armaments/Advanced Melee/One Handed - Advanced Melee"
 SORT Level ASC
 WHERE file.name != "One Handed - Advanced Melee"
 ```

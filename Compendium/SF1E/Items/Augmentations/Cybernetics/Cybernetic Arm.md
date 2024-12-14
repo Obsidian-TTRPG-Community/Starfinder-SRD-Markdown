@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 11 / 14
+Item:
 price:  
-System: Spinal Column
+
 tags: 
 Type: Cybertech
 ---
@@ -16,8 +16,9 @@ Dual cybernetic arms consist of a pair of arms, one on each side of your body, a
 ## Cybernetic Arm, Dual
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 14;
-**Price**::  70,150; **System** Spinal column  
+**Level**:: 14
+**Price**::  70150 
+**System**:: Spinal column  
   
 
 ---
@@ -25,5 +26,6 @@ Dual cybernetic arms consist of a pair of arms, one on each side of your body, a
 ## Cybernetic Arm, Single
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 11;
-**Price**::  24,750; **System** Spinal column
+**Level**:: 11
+**Price**::  24750 
+**System**:: Spinal column

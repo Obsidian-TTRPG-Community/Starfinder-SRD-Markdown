@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 7 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,33 +19,27 @@ Sentinel and repeller staves are made of conductive metal and deliver a painful,
 **Source**:: _Starfinder Core Rulebook pg. 171_  
 **Level**:: 1
 **Price**:: 80  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d4 B;
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d4 B
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Staff, Carbon
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 7;
-**Price**:: 6,150  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d8 B;
+**Level**:: 7
+**Price**:: 6150  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d8 B
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block
 
 ## Staff, Hardlight
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 18;
-**Price**:: 320,800  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 8d8 B;
+**Level**:: 18
+**Price**:: 320800  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 8d8 B
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: analog, block
+**Bulk**:: 1**Special**:: analog, block

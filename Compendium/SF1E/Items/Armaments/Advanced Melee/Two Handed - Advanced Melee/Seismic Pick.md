@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 5 / 9 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,47 +16,39 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Seismic Pick, Demolition
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 15;
-**Price**:: 101,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d8 So;
+**Level**:: 15
+**Price**:: 101000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d8 So
 **Critical**:: deafen  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 20, usage 1), profession
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 20, usage 1), profession
 
 ## Seismic Pick, light
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 1
 **Price**:: 180  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d4 So
 **Critical**:: deafen  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 20, usage 1), profession
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 20, usage 1), profession
 
 ## Seismic Pick, Heavy
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 5
-**Price**:: 2,790  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 So;
+**Price**:: 2790  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 So
 **Critical**:: deafen  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 20, usage 1), profession
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 20, usage 1), profession
 
 ## Seismic Pick, Driver
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 9;
-**Price**:: 12,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 So;
+**Level**:: 9
+**Price**:: 12600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d6 So
 **Critical**:: deafen  
-**Bulk**:: 1;
-**Special**:: penetrating, powered (capacity 20, usage 1), profession
+**Bulk**:: 1**Special**:: penetrating, powered (capacity 20, usage 1), profession

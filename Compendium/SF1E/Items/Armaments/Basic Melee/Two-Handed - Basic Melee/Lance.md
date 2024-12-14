@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ A lance is a long, heavy spear designed for use while riding a mount. While moun
 ## Lance, Advanced
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 8;
-**Price**:: 9,400  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 2d6 P;
+**Level**:: 8
+**Price**:: 9400  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 2d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, reach
+**Bulk**:: 1**Special**:: analog, reach
 
 ## Lance, Tactical
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 3;
-**Price**:: 1,450  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d6 P;
+**Level**:: 3
+**Price**:: 1450  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, reach
+**Bulk**:: 1**Special**:: analog, reach
 
 ## Lance, Elite
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 13;
-**Price**:: 50,800  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 5d6 P;
+**Level**:: 13
+**Price**:: 50800  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 5d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, reach
+**Bulk**:: 1**Special**:: analog, reach
 
 ## Lance, Paragon
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 18;
-**Price**:: 365,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 11d6 P;
+**Level**:: 18
+**Price**:: 365000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 11d6 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, reach
+**Bulk**:: 1**Special**:: analog, reach

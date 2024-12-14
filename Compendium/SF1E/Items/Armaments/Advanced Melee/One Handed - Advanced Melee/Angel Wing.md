@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 7 / 10
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,11 +17,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Angel Wing, Astral
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 10;
-**Price**:: 17,100  
+**Level**:: 10
+**Price**:: 17100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 E & F;
+**Damage**:: 4d6 E & F
 **Critical**:: burn 2d6  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2), unwieldy
@@ -32,10 +32,10 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 41_  
 **Level**:: 4
-**Price**:: 1,890  
+**Price**:: 1890  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & F;
+**Damage**:: 1d6 E & F
 **Critical**:: burn 1d6  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2), unwieldy
@@ -43,11 +43,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Angel Wing, Monadic
 
 **Source**:: _Starfinder Armory pg. 41_  
-**Level**:: 7;
-**Price**:: 5,500  
+**Level**:: 7
+**Price**:: 5500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 E & F;
+**Damage**:: 2d6 E & F
 **Critical**:: burn 2d6  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2), unwieldy

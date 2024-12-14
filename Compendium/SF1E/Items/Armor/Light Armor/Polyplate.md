@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14 / 18
+
 NoteType: Armor
 price: 
 tags: [15:]
@@ -14,35 +14,63 @@ Polyplate is flexible armor composed of interlocking scales that protects its we
 ## Polyplate, Basic
 
 **Source**:: _Starfinder Sun Divers pg. 44_  
-**Level**:: 6;
-**Price**:: 4,200; **Category** Light  
-**EAC Bonus** +5; **KAC Bonus** +7; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4200 
+**Category**:: Light  
+
+**EAC**:: +5 
+**KAC**:: +7 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Polyplate, Advanced
 
 **Source**:: _Starfinder Sun Divers pg. 44_  
-**Level**:: 10;
-**Price**:: 17,400; **Category** Light  
-**EAC Bonus** +11; **KAC Bonus** +13; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 10
+**Price**:: 17400 
+**Category**:: Light  
+
+**EAC**:: +11 
+**KAC**:: +13 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Polyplate, Elite
 
 **Source**:: _Starfinder Sun Divers pg. 44_  
 **Level**:: 14
-**Price**:: 65,000; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Price**:: 65000 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ## Polyplate, Paragon
 
 **Source**:: _Starfinder Sun Divers pg. 44_  
-**Level**:: 18;
-**Price**:: 345,000; **Category** Light  
-**EAC Bonus** +19; **KAC Bonus** +21; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: L
+**Level**:: 18
+**Price**:: 345000 
+**Category**:: Light  
+
+**EAC**:: +19 
+**KAC**:: +21 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: L

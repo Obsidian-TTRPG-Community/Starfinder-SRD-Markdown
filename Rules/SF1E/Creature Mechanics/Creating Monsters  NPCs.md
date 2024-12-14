@@ -328,8 +328,8 @@ Every creature belongs to one of 13 types. These broad categories indicate somet
 
 **Source** _Alien Archive pg. 132_  
 
-| Attack Bonuses | Ranged Damage | Melee Damage |
-|----------------|---------------|--------------|
+| Attack Bonuses | Ranged Damage | Melee Damage |         |         |              |               |              |
+| -------------- | ------------- | ------------ | ------- | ------- | ------------ | ------------- | ------------ |
 | CR             | High          | Low          | Energy  | Kinetic | Standard     | Three Attacks | Four Attacks |
 | 1/3            | +0            | -2           | 1d4     | 1d4     | 1d4+Str      | —             | —            |
 | 1/2            | +2            | +0           | 1d4     | 1d4     | 1d4+Str      | —             | —            |
@@ -440,7 +440,7 @@ The special abilities in this book cover common attributes and those granted by 
 # Step 7: Skills
 
 **Source** _Alien Archive pg. 142_  
-The NPC arrays use two categories for skills: master and good. The number for each categories is the NPC’s total bonus for skills in that category; don’t add ability score modifiers. For any skill that isn’t a master or good skill, use the appropriate ability score modifier. If the NPC’s ability score modifier associated with a master or good skill exceeds the bonus the array assigns, use the ability score modifier instead.  
+The NPC arrays use two categories for Skills: master and good. The number for each categories is the NPC’s total bonus for skills in that category; don’t add ability score modifiers. For any skill that isn’t a master or good skill, use the appropriate ability score modifier. If the NPC’s ability score modifier associated with a master or good skill exceeds the bonus the array assigns, use the ability score modifier instead.  
   
 As mentioned on page 128, NPCs have good Perception by default. You can still pick it as a master skill for an incredibly perceptive creature or use just the creature’s Wisdom ability score modifier if the creature is inept at detecting things.  
 

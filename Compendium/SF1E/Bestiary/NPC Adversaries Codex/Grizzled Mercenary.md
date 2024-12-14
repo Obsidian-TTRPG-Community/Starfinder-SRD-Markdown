@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 4
 hp: 60
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Grizzled Mercenary
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Grizzled Mercenary

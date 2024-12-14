@@ -1,23 +1,29 @@
 ---
 aliases: 
-ItemLevel: 6
-NoteType: Terrestial Vehicles
-price: 12,500
+Item:
+NoteType: Terrestrial Vehicles
+price: 12500
 tags: 
 ---
 
 # Water Bear
 
 **Source**:: _Alien Archive 3 pg. 41_
-**Item Level** 6;
-**Price**::  12,500  
+**Level**:: 6
+**Price**::  12500  
 Gargantuan water vehicle (20 ft. wide, 50 ft. long, 20 ft. high)  
-**Speed** 25 ft., full 600 ft., 65 mph (swim)  
-**EAC** 18; **KAC** 19; **Cover** total cover  
-**HP** 80 (40); **Hardness** 10  
+**Speed**:: 25 ft., full 600 ft., 65 mph (swim)  
+
+**EAC**:: 18; 
+**KAC**:: 19; 
+**Cover**:: total cover  
+**HP**:: 80 (40); 
+**Hardness**:: 10  
 **Attack (Collision)** 8d8 B (DC 10)  
-**Modifiers** -2 Piloting, -4 attack (-8 at full speed)  
-**Systems** autocontrol, expansion bays (2), planetary comm unit; **Passengers** 8  
+
+**Modifiers**:: -2 Piloting, -4 attack (-8 at full speed)  
+**Systems**:: autocontrol, expansion bays (2), planetary comm unit
+**Passengers**:: 8  
 
 ### Special Abilities
 

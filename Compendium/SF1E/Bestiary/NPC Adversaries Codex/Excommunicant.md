@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 20
 hp: 45
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Excommunicant
-statblock: true
-Subtype: Religious Figures
+statblock: true(Religious Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Excommunicant

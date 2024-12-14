@@ -1,6 +1,6 @@
 ---
 aliases: 
-tags: 
+tags:
 ---
 
 The galaxy’s weapons dealers offer a dizzying array of options, but sometimes the perfect weapon for a specialized job just isn’t available as a base model. Luckily, weapon accessories can provide additional utility with just a little tinkering, which you can do yourself or pay a professional to handle. Weapon accessories modify existing weapons to provide certain benefits to the weapon’s user. Experienced operators keep a variety of accessories on hand, swapping them out as needed.  
@@ -32,12 +32,44 @@ Weapon accessories must normally be added to a weapon to function. Most accessor
   
 **Attachment**: An attached weapon accessory is affixed to a weapon but is not really part of it. Anyone can attach or detach an accessory as a full action, and most weapons dealers will attach an accessory bought from them at no extra charge.  
   
-**Integration**: An integrated weapon accessory is built into the weapon, becoming part of it. Integrated accessories are usually purchased already integrated into the weapon at the combined price of the weapon and the accessory. If the weapon and accessory are purchased separately, a weapons dealer can integrate the accessory into the weapon for a fee of 10% of the accessory’s purchase price. You can integrate an accessory into a weapon (or remove an integrated accessory) if you have a number of ranks in [[Engineering Int, Trained only]] (or both [[Engineering Int, Trained only]] and [[Mysticism Wis, Trained Only]], for hybrid accessories) equal to the item level of the weapon or accessory, whichever is higher. It takes 1 hour to integrate an accessory or remove an integrated accessory from a weapon.
+**Integration**: An integrated weapon accessory is built into the weapon, becoming part of it. Integrated accessories are usually purchased already integrated into the weapon at the combined price of the weapon and the accessory. If the weapon and accessory are purchased separately, a weapons dealer can integrate the accessory into the weapon for a fee of 10% of the accessory’s purchase price. You can integrate an accessory into a weapon (or remove an integrated accessory) if you have a number of ranks in [[Engineering]] (or both [[Engineering]] and [[Mysticism]], for hybrid accessories) equal to the item level of the weapon or accessory, whichever is higher. It takes 1 hour to integrate an accessory or remove an integrated accessory from a weapon.
 
 ``` dataview
 TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Weapon Accessories"
+Level, WeaponTypes, Price
+FROM "Starfinder-SRD/Compendium/Items/Armaments/Weapon Accessories"
 SORT Level ASC
 WHERE file.name != "Weapon Accessories"
 ```
+
+
+---
+aliases:
+  - 
+tags:
+  - 
+---
+
+
+##### MERCENARIES (3)
+CR 1/2 
+NE Medium humanoid (human)
+Init +6; Perception +4 
+DEFENSE 
+HP 13 EACH 
+EAC 10; KAC 12 F
+ort +4; Ref +2; Will +0 
+OFFENSE 
+Speed 30 ft. 
+Melee assault hammer +6 (1d6+3 B) 
+Ranged azimuth laser pistol +3 (1d4 F; critical burn 1d4) 
+TACTICS 
+During Combat The mercenaries move toward foes to engage in melee, splitting up to attack different targets if possible. 
+Morale 
+When two mercenaries are defeated, the last mercenary attempts to flee. 
+STATISTICS 
+Str +3; Dex +2; Con +1; Int +0; Wis +0; Cha –1 
+Skills Athletics +9, Intimidate +4, Sense Motive +4, Survival +4 
+Feat Blind-Fight 
+Languages Common 
+Gear assault hammer, azimuth laser pistol with battery (20 charges), credstick with 250 credits ar assault hammer, azimuth laser pistol with battery (20 charges), credstick with 250 credits 

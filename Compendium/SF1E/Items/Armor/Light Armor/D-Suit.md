@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 7 / 9 / 13 / 17 / 19
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,52 +15,94 @@ Disembarkment suits, or d-suits, are designed for spacefarers who expect to leav
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 5
-**Price**:: 2,980; **Category** Light  
-**EAC Bonus** +5; **KAC Bonus** +6; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Price**:: 2980 
+**Category**:: Light  
+
+**EAC**:: +5 
+**KAC**:: +6 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## D-suit, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 7;
-**Price**:: 6,900; **Category** Light  
-**EAC Bonus** +8; **KAC Bonus** +9; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 7
+**Price**:: 6900 
+**Category**:: Light  
+
+**EAC**:: +8 
+**KAC**:: +9 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## D-suit, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 9;
-**Price**:: 13,300; **Category** Light  
-**EAC Bonus** +11; **KAC Bonus** +12; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 9
+**Price**:: 13300 
+**Category**:: Light  
+
+**EAC**:: +11 
+**KAC**:: +12 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## D-suit, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 13;
-**Price**:: 45,800; **Category** Light  
-**EAC Bonus** +16; **KAC Bonus** +17; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 13
+**Price**:: 45800 
+**Category**:: Light  
+
+**EAC**:: +16 
+**KAC**:: +17 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ## D-suit, V
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 17;
-**Price**:: 244,300; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +21; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk**:: L
+**Level**:: 17
+**Price**:: 244300 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +21 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: L
 
 ## D-suit, Vi
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 19;
-**Price**:: 552,000; **Category** Light  
-**EAC Bonus** +21; **KAC Bonus** +22; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 6; **Bulk**:: L
+**Level**:: 19
+**Price**:: 552000 
+**Category**:: Light  
+
+**EAC**:: +21 
+**KAC**:: +22 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 6 
+**Bulk**:: L

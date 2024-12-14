@@ -1,13 +1,14 @@
 ---
 aliases: 
-Level: 20
+
 price: 0
 tags: 
 Type: Magic Item
 ---
 **Source**:: _Starfinder Armory pg. 119_  
-**Level** 20;
-**Price**::  —; **Bulk** L
+**Level**:: 20
+**Price**::  — 
+**Bulk**:: L
 
 ### Description
 
@@ -19,9 +20,9 @@ As a full action that provokes attacks of opportunity, you can activate the _Tr
   
 When the singularity appears, creatures within 1 mile of the singularity feel drawn to it. A creature must succeed at a DC 25 Will save or use all its actions to move as quickly as possible toward the singularity. Although this is a mindaffecting effect, creatures immune to such effects still feel the pull and might seek the source of this attraction despite no compulsion to do so.  
   
-Creatures within 120 feet of the singularity must succeed at a DC 25 Athletics check or a DC 20 Strength check to move farther from it, and even then does so at one-quarter its speed. Each round, at the start of your turn, the singularity performs a special combat maneuver with a +30 bonus to the attack roll. If a creature is within 120 feet of the singularity, compare the result of this attack roll to the creature’s KAC + 8. If the maneuver is successful, that creature moves 5 feet toward the singularity, plus 1 foot per point the singularity’s result exceeded the creature’s KAC + 8; round the distance up to the nearest 5 feet. Huge or smaller unattended objects move 30 feet toward the singularity at the start of each of your turns, moving an additional 10 feet per size category below Medium or 10 fewer feet per size category above Medium.  
+Creatures within 120 feet of the singularity must succeed at a DC 25 Athletics check or a DC 20 Strength check to move farther from it, and even then does so at one-quarter its speed. Each round, at the start of your turn, the singularity performs a special combat maneuver with a +30 bonus to the attack roll. If a creature is within 120 feet of the singularity, compare the result of this attack roll to the creature’s KAC + 8. If the maneuver is successful, that creature moves 5 feet toward the singularity, plus 1 foot per point the singularity’s result exceeded the creature’s KAC + 8 round the distance up to the nearest 5 feet. Huge or smaller unattended objects move 30 feet toward the singularity at the start of each of your turns, moving an additional 10 feet per size category below Medium or 10 fewer feet per size category above Medium.  
   
-A creature or object that enters the singularity’s space is sucked into the void. While inside, a creature can take no actions other than a full action to escape, which requires a successful DC 30 Athletics check or DC 25 Strength check. A creature that ends its turn inside the singularity takes 5d10 force damage unless it succeeds at a DC 20 Will save to take half damage; if it succeeds by 5 or more, the creature negates the damage entirely. The creature that activated the artifact gains a +5 circumstance bonus to this saving throw. The amount of damage dealt by the void increases by 5d10 each round. If this damage reduces a creature to 0 Hit Points, the creature’s body is utterly destroyed.  
+A creature or object that enters the singularity’s space is sucked into the void. While inside, a creature can take no actions other than a full action to escape, which requires a successful DC 30 Athletics check or DC 25 Strength check. A creature that ends its turn inside the singularity takes 5d10 force damage unless it succeeds at a DC 20 Will save to take half damage if it succeeds by 5 or more, the creature negates the damage entirely. The creature that activated the artifact gains a +5 circumstance bonus to this saving throw. The amount of damage dealt by the void increases by 5d10 each round. If this damage reduces a creature to 0 Hit Points, the creature’s body is utterly destroyed.  
   
 A creature that succeeds at a Will save within the singularity senses a presence in the void. In myriad voices, one of which the listener can understand, the presence offers salvation from the crushing gravity. A creature that accepts this salvation leaves the void, transported to another location in the galaxy or among the planes. Upon escaping in this way, a creature regains half of the Hit Points it lost to the singularity. Escapees with strong emotional attachments to one another often arrive in the same location, while enemies rarely land in the same place.  
   

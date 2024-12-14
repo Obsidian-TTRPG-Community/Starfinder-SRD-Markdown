@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 NoteType: Armor
 price: 250
 tags: 
@@ -11,10 +11,17 @@ Type: Light Armor
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 1
-**Price**:: 250; **Category** Light  
-**EAC Bonus** +1; **KAC Bonus** +2; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Price**:: 250 
+**Category**:: Light  
+
+**EAC**:: +1 
+**KAC**:: +2 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ### Description
 

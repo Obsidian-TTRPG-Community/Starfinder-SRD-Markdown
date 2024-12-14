@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 4 / 8 / 12 / 16
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Waves of neuro-disruptive energy burst from this grenade and scramble brainwaves
 ## Mindspike Grenade, Mk 1
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 150  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Waves of neuro-disruptive energy burst from this grenade and scramble brainwaves
 **Price**:: 305  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Waves of neuro-disruptive energy burst from this grenade and scramble brainwaves
 ## Mindspike Grenade, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level**:: 8;
-**Price**:: 1,275  
+**Level**:: 8
+**Price**:: 1275  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -53,10 +56,11 @@ Waves of neuro-disruptive energy burst from this grenade and scramble brainwaves
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
 **Level**:: 12
-**Price**:: 5,000  
+**Price**:: 5000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -65,11 +69,12 @@ Waves of neuro-disruptive energy burst from this grenade and scramble brainwaves
 ## Mindspike Grenade, Mk 5
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level**:: 16;
-**Price**:: 21,000  
+**Level**:: 16
+**Price**:: 21000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

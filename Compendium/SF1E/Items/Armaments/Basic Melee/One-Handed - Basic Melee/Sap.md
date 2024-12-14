@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 6 / 11
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with
 ## Sap, Heavy
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 11;
-**Price**:: 23,100  
+**Level**:: 11
+**Price**:: 23100  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d8 B;
+**Damage**:: 2d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, nonlethal, operative
@@ -27,11 +27,11 @@ A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with
 ## Sap, light
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 450  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 B;
+**Damage**:: 1d4 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, nonlethal, operative
@@ -39,11 +39,11 @@ A weapon dating back to antiquity, a sap is shaped like a large, flat spoon with
 ## Sap, Medium
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 6;
-**Price**:: 3,900  
+**Level**:: 6
+**Price**:: 3900  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 B;
+**Damage**:: 1d6 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, nonlethal, operative

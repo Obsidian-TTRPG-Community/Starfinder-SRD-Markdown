@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 6 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ This short staff ends in reconfigurable wrench-like prongs suited for operating 
 ## Crisis Wrench, Artificer-class
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 16;
-**Price**:: 169,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d10 B|S;
+**Level**:: 16
+**Price**:: 169000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d10 B|S
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, lockdown, modal, professional (maintenance worker)
+**Bulk**:: 1**Special**:: Analog, lockdown, modal, professional (maintenance worker)
 
 ## Crisis Wrench, Tinker-class
 
 **Source**:: _Tech Revolution pg. 60_  
 **Level**:: 1
 **Price**:: 315  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B|S;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 B|S
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, lockdown, modal, professional (maintenance worker)
+**Bulk**:: 1**Special**:: Analog, lockdown, modal, professional (maintenance worker)
 
 ## Crisis Wrench, Scrapper-class
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 6;
-**Price**:: 4,250  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 B|S;
+**Level**:: 6
+**Price**:: 4250  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 B|S
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, lockdown, modal, professional (maintenance worker)
+**Bulk**:: 1**Special**:: Analog, lockdown, modal, professional (maintenance worker)
 
 ## Crisis Wrench, Engineer-class
 
 **Source**:: _Tech Revolution pg. 60_  
-**Level**:: 11;
-**Price**:: 25,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 B|S;
+**Level**:: 11
+**Price**:: 25500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 B|S
 **Critical**:: Staggered  
-**Bulk**:: 1;
-**Special**:: Analog, lockdown, modal, professional (maintenance worker)
+**Bulk**:: 1**Special**:: Analog, lockdown, modal, professional (maintenance worker)

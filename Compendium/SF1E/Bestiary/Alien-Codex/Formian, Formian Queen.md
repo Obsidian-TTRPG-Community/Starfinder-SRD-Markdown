@@ -1,20 +1,20 @@
 ---
 aliases: 
 cr: 17
-Environment: any land or underground (Castrovel)  
+Environment: any land or underground (Castrovel)
 hp: 290
-modifier: 3
+Initmod: 3
 name: Formian, Formian Queen
 statblock: true
 tags: 
-Type: LN Large monstrous humanoid  
+Type: LN Large monstrous humanoid
 ---
 
 # Formian, Formian Queen
 
 Formians resemble giant ants with humanoid upper bodies, and carve their chitinous plates with insignias reflecting their individual names and achievements. Members of a hive all share a telepathic link, allowing them to coordinate efficiently. Within a hive are castes specialized to particular tasks. The queen leads the hive and is its sole means of propagation, while castes like the aristocratic myrmarchs and mercantile taskmasters direct lower castes like warriors and workers. Formians are most common on Castrovel. For millennia they sought to eradicate the lashunta, their traditional foes, but their queens now instead focus on adopting other species’ technology to industrialize their traditional hive societies.
 
-**Source**:: _Alien Archive 3 pg. 38_
+**Source**:  _Alien Archive 3 pg. 38_
 
 ## Formian Queen Cr 17
 

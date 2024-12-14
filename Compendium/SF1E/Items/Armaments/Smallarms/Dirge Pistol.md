@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 10 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Dirge Pistol, Anharmonic
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 10;
-**Price**:: 20,500  
+**Level**:: 10
+**Price**:: 20500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d4 So; **Range**:: 40 ft.;
+**Damage**:: 3d4 So; 
+**Range**:: 40 ft.
 **Critical**:: sicken  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -35,7 +36,8 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 **Price**:: 440  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d3 So; **Range**:: 20 ft.;
+**Damage**:: 1d3 So; 
+**Range**:: 20 ft.
 **Critical**:: sicken  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Dirge Pistol, Resonant
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 6;
-**Price**:: 4,950  
+**Level**:: 6
+**Price**:: 4950  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 So; **Range**:: 40 ft.;
+**Damage**:: 1d8 So; 
+**Range**:: 40 ft.
 **Critical**:: sicken  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Dirge Pistol, Parametric
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 15;
-**Price**:: 133,000  
+**Level**:: 15
+**Price**:: 133000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 6d4 So; **Range**:: 60 ft.;
+**Damage**:: 6d4 So; 
+**Range**:: 60 ft.
 **Critical**:: sicken  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -70,11 +74,12 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Dirge Pistol, Radial
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 19;
-**Price**:: 660,000  
+**Level**:: 19
+**Price**:: 660000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 10d4 So; **Range**:: 60 ft.;
+**Damage**:: 10d4 So; 
+**Range**:: 60 ft.
 **Critical**:: sicken  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L

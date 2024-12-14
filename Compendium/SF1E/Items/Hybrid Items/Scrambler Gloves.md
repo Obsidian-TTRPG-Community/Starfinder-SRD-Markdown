@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -17,31 +17,34 @@ After you use the gloves, you can spend 1 Resolve Point to use them again. The g
 ## Scrambler Gloves, Mk 1
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 6;
-**Price**::  4,500; **Bulk** L
+**Level**:: 6
+**Price**::  4500 
+**Bulk**:: L
 
 ### Description
 
-Once per day; 1 Resolve Point
+Once per day 1 Resolve Point
 
 ---
 
 ## Scrambler Gloves, Mk 2
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 10;
-**Price**::  18,000; **Bulk** L
+**Level**:: 10
+**Price**::  18000 
+**Bulk**:: L
 
 ### Description
 
-Twice per day; 2 Resolve Points
+Twice per day 2 Resolve Points
 
 ## Scrambler Gloves, Mk 3
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 14;
-**Price**::  73,000; **Bulk** L
+**Level**:: 14
+**Price**::  73000 
+**Bulk**:: L
 
 ### Description
 
-Three times per day; 3 Resolve Points
+Three times per day 3 Resolve Points

@@ -3,10 +3,9 @@ aliases:
 tags: 
 ---
 
-# Whirlwind (EX or SU)
-
-**Source** _Alien Archive 2 pg. 154_, _Alien Archive pg. 158_  
-The creature can transform into a whirlwind as a standard action. Unless otherwise specified, the creature can remain in whirlwind form for a number of rounds equal to half its CR. If the creature has a fly speed, it retains that in its whirlwind form. If it does not have a fly speed, it gains an extraordinary fly speed (with average maneuverability) equal to its base speed. A creature in whirlwind form can move freely into and through other creatures’ spaces, and it does not provoke attacks of opportunity as a result of its movement.
+name:: Whirlwind (EX or SU)
+source:: _Alien Archive 2 pg. 154_, _Alien Archive pg. 158_  
+desc:: The creature can transform into a whirlwind as a standard action. Unless otherwise specified, the creature can remain in whirlwind form for a number of rounds equal to half its CR. If the creature has a fly speed, it retains that in its whirlwind form. If it does not have a fly speed, it gains an extraordinary fly speed (with average maneuverability) equal to its base speed. A creature in whirlwind form can move freely into and through other creatures’ spaces, and it does not provoke attacks of opportunity as a result of its movement.
 
 The base of a creature in whirlwind form occupies a 5-foot square. The whirlwind is twice as wide at its top as its base and has a height equal to four times the width of its base; this doesn’t change the size category of the creature. If a creature is Large or larger, it can vary the size of its whirlwind form up to a maximum of a base equal to its normal space as a swift or move action. A creature in whirlwind form does not threaten any spaces around it, and it cannot make its normal attacks.
 

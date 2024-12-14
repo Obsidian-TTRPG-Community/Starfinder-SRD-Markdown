@@ -3,11 +3,11 @@ aliases:
 Level: 0
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: transmutation 
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Stumble

@@ -1,14 +1,13 @@
 ---
-aliases: 
-CR: 4
+aliases: ---
+cr: 4
 hp: 45
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Performer
-statblock: true
-Subtype: Influencer
+statblock: true(Influencer
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Performer

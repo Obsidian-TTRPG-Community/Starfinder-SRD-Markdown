@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 16
+
 Notetype: Weapon
-price: 185,300
+price: 185300
 tags: 
 type: Basic-Melee
 ---
@@ -11,11 +11,11 @@ type: Basic-Melee
 # Peacemaker
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 16;
-**Price**:: 185,300  
+**Level**:: 16
+**Price**:: 185300  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 6d6 B;
+**Damage**:: 6d6 B
 **Critical**:: knockdown  
 **Bulk**:: L
 **Special**:: operative, powered (capacity 20; usage 2), stun

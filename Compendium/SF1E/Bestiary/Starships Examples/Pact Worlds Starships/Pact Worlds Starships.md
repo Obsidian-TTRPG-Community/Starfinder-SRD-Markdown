@@ -1,14 +1,11 @@
----
-aliases: 
-tags: 
----
+
 
 # Pact Worlds Starships
 
 The Pact Worlds have a long history of travel between the planets of their solar system, stretching back even before the Gap via magical portals and the technomagical aetherships of Verces. As trade increased and spaceflight became more commonplace, ideas flowed quickly and furiously, with designs converging as various corporations and militaries stole or purchased the best advances from other worlds. Castrovelian shipyards known for their delicate fins and speed in a vacuum adopted the ruggedness of Akiton’s sandstorm-blasted atmospheric fliers, while both incorporated the latest drive systems and armament advances from Verces and Absalom Station, plus powerful (but carefully limited) Aballonian AIs to aid in every aspect of piloting and navigation. Today, millennia after those early ships, the most common ship designs in the Pact Worlds have blended together so thoroughly that most are no longer strongly associated with any particular race, but simply with the system as a whole.  
-  
+ 
 Whether produced by AbadarCorp’s ATech subsidiary, Castrovel’s Kevolari Collective, Sanjaval Spaceflight Systems of Akiton, Verces’ Ringworks Industries, or any of a thousand smaller shops, Pact Worlds ships tend to share certain similar features. Many of the smaller freighters and fighters show their evolution from atmospheric jet fighters and orbital spacecraft, with functional wings, fins, and streamlined profiles. This grace gives way to the blocky bulk of larger ships that will never be used in an atmosphere, yet even massive ships like the ATech Immortal Series—a staple of the Stewards’ peacekeeping fleet— possess a certain severe, military beauty.  
-  
+ 
 Despite sharing certain elements of design, the umbrella of Pact World ship chassis contains plenty of diversity. No one is likely to confuse a dwarven rock-hopper from the Diaspora’s mining worlds for a big-bellied, ysoki-operated Sanjaval Redsun trader, let alone an Aballonian autofreighter or Skyfire Legion carrier. Even ships of the same model can still vary wildly thanks to paint schemes, decorative body flourishes, and other aftermarket modifications, and many captains choose their ships’ aesthetics as carefully as their own clothes. Certain factions employ only a single brand of ship, while others are a hodgepodge of makes and models.  
-  
+ 
 Not all groups within the Pact Worlds have allowed economic incentives to draw them into the engineering melting pot, however. In addition to the Eoxians (see page 306), many other Pact Worlds peoples have maintained proprietary designs, from the sleek, magical vessels of Castrovel’s elves to the half-sentient biological vessels of the Brethedans and Xenowardens, and more.

@@ -3,11 +3,25 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 13
-modifier: 2
+Initmod: 2
 name: Undead Minion, Skeletal Undead
 statblock: true
 tags: 
-Type: NE Medium undead  
+Type: NE Medium undead
+combatType: combatant
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - squad(3-8)
+  - legion(12-32)
+source: Alien Archive
 ---
 
 # Undead Minion, Skeletal Undead
@@ -22,7 +36,7 @@ Those cultists of Urgathoa who see undeath as the pinnacle of being surround the
 
 Undead minions can be formed from the corpses of any type of creature, though most of those appearing in folklore from across the galaxy are animated versions of whatever culture is telling the tale. Humanoids tell of ambulatory corpses rising from their ritual burial grounds, while aberrations, dragons, and magical beasts have their own legends of mindless dead of their own species returning to plague the living. Whatever the undead creatures’ original form, they often maintain natural attacks and other physical characteristics of their living counterparts even in undeath, though their mindless nature means they lose the ability to carry out complex tactics, conduct intricate or detailed tasks, and cast spells or take other mentally engaging actions. Yet the creatures’ mindlessness makes them all the more frightening and threatening, as they can be neither reasoned with nor cowed.
 
-**Source**:: _Alien Archive pg. 114_
+**Source**:  _Alien Archive pg. 114_
 
 ## Skeletal Undead Cr 1/2
 
@@ -61,3 +75,5 @@ The following extra content was found for this creature:
 \- Cybernetic Zombie (Undead Minion) Graft Template  
 \- Occult Zombie (Undead Minion) Graft Template  
 \- Skeletal Undead (Undead Minion) Graft Template
+
+

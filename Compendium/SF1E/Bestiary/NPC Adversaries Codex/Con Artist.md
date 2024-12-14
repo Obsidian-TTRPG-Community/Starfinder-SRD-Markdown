@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1/2
 hp: 12
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Con Artist
-statblock: true
-Subtype: Charlatans
+statblock: true(Charlatans
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Con Artist

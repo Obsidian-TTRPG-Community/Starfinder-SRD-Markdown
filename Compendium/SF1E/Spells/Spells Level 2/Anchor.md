@@ -4,10 +4,10 @@ Level: 2
 Mystic: 
 NoteType: Spell
 Precog: 
-School: conjuration (summoning) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Anchor

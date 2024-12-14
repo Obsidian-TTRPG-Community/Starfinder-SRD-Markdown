@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 price: 55
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Datapad
 
 **Source**:: _Starfinder Armory pg. 100_  
-**Level** 2;
+**Level**:: 2
 **Price**::  55  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

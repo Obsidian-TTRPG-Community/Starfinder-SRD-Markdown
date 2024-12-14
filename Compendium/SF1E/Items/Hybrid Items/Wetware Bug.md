@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 9  
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,7 +15,8 @@ Once planted, the wetware bug sprouts tiny legs, attaches to the target creature
 
 **Source**:: _Galactic Magic pg. 47_  
 **Level**:: 3
-**Price**::  255; **Bulk** —
+**Price**::  255 
+**Bulk**:: —
 
 ### Description
 
@@ -26,8 +27,9 @@ The bug has a Will save DC of 16.
 ## Wetware Bug, Mk 2
 
 **Source**:: _Galactic Magic pg. 47_  
-**Level** 6;
-**Price**::  630; **Bulk** —
+**Level**:: 6
+**Price**::  630 
+**Bulk**:: —
 
 ### Description
 
@@ -36,8 +38,9 @@ The bug has a Will save DC of 18.
 ## Wetware Bug, Mk 3
 
 **Source**:: _Galactic Magic pg. 47_  
-**Level** 9;
-**Price**::  2,000; **Bulk** —
+**Level**:: 9
+**Price**::  2000 
+**Bulk**:: —
 
 ### Description
 

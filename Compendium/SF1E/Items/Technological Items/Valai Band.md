@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 2
-price: 1,100
+
+price: 1100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Valai Band
 
 **Source**:: _Interstellar Species pg. 143_  
-**Level** 2;
+**Level**:: 2
 **Price**::  1100  
-**Capacity**:: 15; **Usage** 1/8 hours  
-**Hands** —; **Bulk** L
+**Capacity**:: 15 **Usage** 1/8 hours  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

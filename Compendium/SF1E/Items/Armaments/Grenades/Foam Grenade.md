@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 9 / 15
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ A foam grenade explodes on impact to release a burst of fire-suppressant foam ak
 ## Foam Grenade, Mk 1
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 410  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ A foam grenade explodes on impact to release a burst of fire-suppressant foam ak
 ## Foam Grenade, Mk 2
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 9;
-**Price**:: 3,520  
+**Level**:: 9
+**Price**:: 3520  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ A foam grenade explodes on impact to release a burst of fire-suppressant foam ak
 ## Foam Grenade, Mk 3
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 15;
-**Price**:: 26,100  
+**Level**:: 15
+**Price**:: 26100  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

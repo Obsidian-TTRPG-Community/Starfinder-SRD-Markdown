@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 7 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,23 +18,21 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Skyfire Sword, Inferno
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 17;
-**Price**:: 246,000  
+**Level**:: 17
+**Price**:: 246000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d8 F;
+**Damage**:: 7d8 F
 **Critical**:: burn 4d12  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Skyfire Sword, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 7;
-**Price**:: 6,120  
+**Level**:: 7
+**Price**:: 6120  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 F;
+**Damage**:: 2d4 F
 **Critical**:: burn 1d8  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)

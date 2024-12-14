@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 300
-modifier: 10
+Initmod: 10
 Monster Type: NPC
 name: Klaven Dragoon
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Klaven Dragoon

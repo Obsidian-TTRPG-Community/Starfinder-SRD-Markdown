@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6 
-price: 4,000 / 10ft.
+
+price: 4000 / 10ft.
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Smart Cable
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 6;
-**Price**::  4,000/10 ft.  
-**Hands** —; **Bulk** L
+**Level**:: 6
+**Price**::  4000/10 ft.  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

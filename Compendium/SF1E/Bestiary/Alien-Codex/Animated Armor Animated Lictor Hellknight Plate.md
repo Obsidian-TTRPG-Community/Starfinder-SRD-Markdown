@@ -3,11 +3,11 @@ aliases:
 cr: 5
 Environment: any
 hp: 70
-modifier: 3
+Initmod: 3
 name: Animated Armor, Animated Lictor Hellknight Plate
 statblock: true
 tags: 
-Type: N Medium construct (magical, technological; armor)  
+Type: N Medium construct (magical, technological; armor)
 ---
 
 # Animated Armor, Animated Lictor Hellknight Plate
@@ -20,7 +20,7 @@ More technologically minded factions have similarly diverse approaches to creati
 
 On Akiton, VitariTech Industries engages in unmonitored research into animated armor. The company recently claimed a long-abandoned shrine to Triune, using heavy security forces to keep interlopers out. Rumors indicate the corporation is using what it found within the site to build advanced constructs, including robot-like troops of animated heavy armor led by suits of powered armor. Devotees of various factions faithful to the All-Code want to know what VitariTech is up to within this holy place, as do members of the Perceptionists and the Augmented.
 
-**Source**:: _Alien Archive 3 pg. 6_
+**Source**:  _Alien Archive 3 pg. 6_
 
 ## Animated Lictor Hellknight Plate Cr 5
 

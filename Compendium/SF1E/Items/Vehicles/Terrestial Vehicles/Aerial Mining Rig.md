@@ -1,24 +1,31 @@
 ---
 aliases: 
-ItemLevel: 18
-NoteType: Terrestial Vehicles
-price: 1,080,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 1080000
 tags: 
 ---
 
 # Aerial Mining Rig
 
 **Source**:: _Starfinder Armory pg. 137_  
-**Item Level** 18;
-**Price**::  1,080,000  
+**Level**:: 18
+**Price**::  1080000  
 Colossal air, land, and water vehicle (80 ft. wide, 80 ft. long, 40 ft. high)  
-**Speed** 10 ft., full 450 ft., 50 mph (fly and hover)  
-**EAC** 31; **KAC** 32; **Cover** cover  
-**HP** 320 (160); **Hardness** 14  
+**Speed**:: 10 ft., full 450 ft., 50 mph (fly and hover)  
+
+**EAC**:: 31; 
+**KAC**:: 32; 
+**Cover**:: cover  
+**HP**:: 320 (160); 
+**Hardness**:: 14  
 **Attack (Collision)** 23d10 B (DC 17)  
 **Attack** mining grav laser (8d8 F & force; penetrating and see below)  
-**Modifiers** –4 Piloting, –3 attack (–5 at full speed)  
-**Systems** autopilot (Piloting +31), enhanced sensors (darkvision 5 miles, sense through [vision, stone only] 300 ft.), expansion bays (8), unlimited comm unit; **Complement** 39; **Passengers** 200  
+
+**Modifiers**:: –4 Piloting, –3 attack (–5 at full speed)  
+**Systems**:: autopilot (Piloting +31), enhanced sensors (darkvision 5 miles, sense through [vision, stone only] 300 ft.), expansion bays (8), unlimited comm unit; 
+**Complement**:: 39
+**Passengers**:: 200  
 
 ### Special Abilities
 

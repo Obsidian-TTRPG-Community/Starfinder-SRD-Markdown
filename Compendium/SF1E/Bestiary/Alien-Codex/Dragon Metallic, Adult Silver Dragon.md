@@ -3,11 +3,21 @@ aliases:
 cr: 14
 Environment: any
 hp: 235
-modifier: 3
+Initmod: 3
 name: Dragon (Metallic), Adult Silver Dragon
 statblock: true
 tags: 
-Type: LG Huge dragon (cold)  
+Type: LG Huge dragon (cold)
+combatType: expert
+alignment: LG
+size: huge
+type(subtype): dragon(cold)
+environment: any
+climate: any
+planet:
+  - 
+organization: solitary
+source: Alien Archive 2
 ---
 
 # Dragon (METALLIC), Adult Silver Dragon
@@ -16,7 +26,7 @@ Dragons are powerful reptilian creatures of high intelligence and great ingenuit
 
 Several metallic dragons lead countries and corporations found within the Drakelands of Triaxus, occasionally engaging in warfare (corporate and militaristic) with the chromatic dragons of that planet. The metallic dragons claim these struggles are for the good of those under their care, though those same people are sometimes trampled in the process.
 
-**Source**:: _Alien Archive 2 pg. 40_
+**Source**:  _Alien Archive 2 pg. 40_
 
 ## Adult Silver Dragon Cr 14
 
@@ -63,3 +73,5 @@ At will—_arcing surge_ (DC 20), _probability prediction_
 **Cloudwalking (Su)** A silver dragon can tread on clouds or fog as though on solid ground.
 
 **Paralyzing Breath (Su)** Instead of a cone of cold, a silver dragon can breathe a 30-foot cone of paralyzing gas. Each creature within the cone that inhales the gas must succeed at a Fortitude save or be paralyzed for 1d6 rounds plus a number of additional rounds equal to half the dragon’s CR.
+
+

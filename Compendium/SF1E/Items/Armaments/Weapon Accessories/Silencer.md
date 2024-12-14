@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 4
+
 Notetype: Weapon
-price: 1,850
+price: 1850
 tags: 
 type: Weapon Accessories
 ---
@@ -10,9 +10,10 @@ type: Weapon Accessories
 # Silencer
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 4;
-**Price**::  1,850; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 4
+**Price**::  1850 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 

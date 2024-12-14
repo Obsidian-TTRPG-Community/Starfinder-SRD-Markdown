@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 40
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Gnoll Rageborn
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Gnoll Rageborn

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 7 / 11 / 15 / 17 / 20
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 1
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 185  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 **Price**:: 810  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 3
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 7;
-**Price**:: 1,640  
+**Level**:: 7
+**Price**:: 1640  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 4
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 11;
-**Price**:: 6,910  
+**Level**:: 11
+**Price**:: 6910  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -65,11 +69,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 5
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 15;
-**Price**:: 28,200  
+**Level**:: 15
+**Price**:: 28200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -78,11 +83,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 6
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 17;
-**Price**:: 67,000  
+**Level**:: 17
+**Price**:: 67000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -91,11 +97,12 @@ Riot grenades are standard issue among police forces, as they deal nonlethal dam
 ## Riot Grenade, Mk 7
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 20;
-**Price**:: 222,000  
+**Level**:: 20
+**Price**:: 222000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 13 / 17
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,8 +15,9 @@ _Captive star amulets_ come in three types with varying functions.
 ## Captive-star Amulet, Magnetar
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 13;
-**Price**::  54,000; **Bulk** L
+**Level**:: 13
+**Price**::  54000 
+**Bulk**:: L
 
 ### Description
 
@@ -27,8 +28,9 @@ In addition to countering the spell, a _magnetar captive-star amulet_ allows y
 ## Captive-star Amulet, Red Dwarf
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 9;
-**Price**::  14,500; **Bulk** L
+**Level**:: 9
+**Price**::  14500 
+**Bulk**:: L
 
 ### Description
 
@@ -37,8 +39,9 @@ A _red dwarf captive-star amulet_ has no other functions.
 ## Captive-star Amulet, Pulsar
 
 **Source**:: _Starfinder Armory pg. 120_  
-**Level** 17;
-**Price**::  270,000; **Bulk** L
+**Level**:: 17
+**Price**::  270000 
+**Bulk**:: L
 
 ### Description
 

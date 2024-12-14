@@ -1,3 +1,6 @@
+
+
+
 ---
 aliases: 
 NoteType: Vehicle Modification
@@ -12,7 +15,7 @@ The grav-nav system harnesses gravitational fields to smooth the ride for passen
 ## Grav-nav, Mk 1 - Level 5
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 2,900  
+**Price**:: 2900  
 Increase attack modifier by +1.
 
 ---
@@ -20,5 +23,5 @@ Increase attack modifier by +1.
 ## Grav-nav, Mk 2 - Level 12
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 35,000  
+**Price**:: 35000  
 Increase attack modifier by +2.

@@ -1,79 +1,79 @@
 ---
-aliases: 
-tags: 
+aliases: []
+tags: []
 ---
 
 # Custom Species Builder
 
-**Source** _Interstellar Species pg. 42_  
-The Starfinder Roleplaying Game provides more than 100 playable species to choose from, but it’s missing a particularly fascinating species: the one you’ve yet to create! This article gives you tools and tips for making your own contribution to the galaxy’s panoply of species (while ensuring it’s of an appropriate power level for most games). Of course, you’ll still want to collaborate with your GM and other players to make sure it’s a good fit for your game.  
+**Source** _Interstellar Species pg. 42_
+The Starfinder Roleplaying Game provides more than 100 playable species to choose from, but it’s missing a particularly fascinating species: the one you’ve yet to create! This article gives you tools and tips for making your own contribution to the galaxy’s panoply of species (while ensuring it’s of an appropriate power level for most games). Of course, you’ll still want to collaborate with your GM and other players to make sure it’s a good fit for your game.
 
 # A Nonlinear Approach
 
-**Source** _Interstellar Species pg. 42_  
-You’ll see there are numbered steps in the species creation process because there’s no correct order. Sometimes you’ll be first inspired by an idea for an alien culture and home world, then follow with its physiology, both of which then inform its mechanical traits. Or you might come at it from the other direction, finding a fun combination of mechanics that you then justify with an interesting culture and bizarre physiology. Feel free to skip around the process and adjust as you learn more about your species, using what inspires you and ignoring what doesn’t.  
-**Inspiration:** You might want to recreate a species you’ve seen in a movie, novel, or elsewhere—go for it! By the end of the process, your choices will make your re-creation unique.  
-**Questions:** Several sections include questions meant to inspire you; consider as many or few as you find helpful.  
+**Source** _Interstellar Species pg. 42_
+You’ll see there are numbered steps in the species creation process because there’s no correct order. Sometimes you’ll be first inspired by an idea for an alien culture and home world, then follow with its physiology, both of which then inform its mechanical traits. Or you might come at it from the other direction, finding a fun combination of mechanics that you then justify with an interesting culture and bizarre physiology. Feel free to skip around the process and adjust as you learn more about your species, using what inspires you and ignoring what doesn’t.
+**Inspiration:** You might want to recreate a species you’ve seen in a movie, novel, or elsewhere—go for it! By the end of the process, your choices will make your re-creation unique.
+**Questions:** Several sections include questions meant to inspire you; consider as many or few as you find helpful.
 
 # Mechanics
 
-**Source** _Interstellar Species pg. 42_  
-When you’re creating a new species, the game mechanics might be at the forefront of your mind, yet many of the most compelling species have mechanics deeply intertwined with their physiology and culture, evoking rich visuals and narratives. If you have specific mechanics you want to use, it’s okay to start there! Don’t be afraid to look at other sections first, such as physiology or home world, and let the decisions you make there inform those mechanics.  
+**Source** _Interstellar Species pg. 42_
+When you’re creating a new species, the game mechanics might be at the forefront of your mind, yet many of the most compelling species have mechanics deeply intertwined with their physiology and culture, evoking rich visuals and narratives. If you have specific mechanics you want to use, it’s okay to start there! Don’t be afraid to look at other sections first, such as physiology or home world, and let the decisions you make there inform those mechanics.
 
 ## Ability Score Adjustments
 
-**Source** _Interstellar Species pg. 42_  
-Most playable species have one of two adjustments. First, they might grant a +2 bonus to a single ability score of the character’s choice (like humans). Second, they might grant a +2 bonus to two specific ability scores and a –2 penalty to a third (like vesk). The first option is simplest and recommended.  
+**Source** _Interstellar Species pg. 42_
+Most playable species have one of two adjustments. First, they might grant a +2 bonus to a single ability score of the character’s choice (like humans). Second, they might grant a +2 bonus to two specific ability scores and a –2 penalty to a third (like vesk). The first option is simplest and recommended.
 
 ## Hit Points
 
-**Source** _Interstellar Species pg. 42_  
-Typically, a species grants 4 Hit Points at 1st level. In some cases, you might instead have the species grant 2 (for smaller or frailer creatures) or 6 Hit Points (for especially tough species).  
+**Source** _Interstellar Species pg. 42_
+Typically, a species grants 4 Hit Points at 1st level. In some cases, you might instead have the species grant 2 (for smaller or frailer creatures) or 6 Hit Points (for especially tough species).
 
 ## Size, Speed, and Senses
 
-**Source** _Interstellar Species pg. 42_  
-Most creatures are Medium size, though your species can also be Small or Large. Making a species smaller than Small requires further considerations about how they might interact with a galaxy built for larger creatures, and mechanically Tiny characters usually have 0-foot reach that makes combat difficult. On the other hand, Huge and larger playable species become difficult to incorporate with most parties and adventures; many areas just aren’t big enough to accommodate them! If you create a Large species, their default reach is 5 feet (like that of most Medium creatures), but you might give them a 10-foot reach.  
-The default land speed is 30 feet. A species can have a single additional movement speed, but consider the physiological source of that speed and the environmental pressures that would’ve shaped its evolution. Choose from the following list: burrow 20 feet, climb 20 feet, fly 20 feet (average or clumsy maneuverability), or swim 30 feet. You might also reduce the species’ land speed by 10 feet to increase the additional movement speed by 10 feet.  
-Default vision is explained on page 260 of the Core Rulebook. A species can also have low-light vision as well as either blindsense (emotion, life, scent, sound, thought, or vibration) with a range of 30 feet or darkvision with a range of 60 feet. Again, consider its physiological source and evolutionary reason for existing. You can instead give your species both the sightless universal creature rule and blindsight (emotion, life, scent, sound, thought, or vibration) with a range of 60 feet.  
-Finally, consider how many abilities above you granted your species. If your species has powerful extra senses, an additional movement type, and other perks so far, it might be best to pick one less regular combat or noncombat ability to keep the power level roughly in line with other playable species.  
+**Source** _Interstellar Species pg. 42_
+Most creatures are Medium size, though your species can also be Small or Large. Making a species smaller than Small requires further considerations about how they might interact with a galaxy built for larger creatures, and mechanically Tiny characters usually have 0-foot reach that makes combat difficult. On the other hand, Huge and larger playable species become difficult to incorporate with most parties and adventures; many areas just aren’t big enough to accommodate them! If you create a Large species, their default reach is 5 feet (like that of most Medium creatures), but you might give them a 10-foot reach.
+The default land speed is 30 feet. A species can have a single additional movement speed, but consider the physiological source of that speed and the environmental pressures that would’ve shaped its evolution. Choose from the following list: burrow 20 feet, climb 20 feet, fly 20 feet (average or clumsy maneuverability), or swim 30 feet. You might also reduce the species’ land speed by 10 feet to increase the additional movement speed by 10 feet.
+Default vision is explained on page 260 of the Core Rulebook. A species can also have low-light vision as well as either blindsense (emotion, life, scent, sound, thought, or vibration) with a range of 30 feet or darkvision with a range of 60 feet. Again, consider its physiological source and evolutionary reason for existing. You can instead give your species both the sightless universal creature rule and blindsight (emotion, life, scent, sound, thought, or vibration) with a range of 60 feet.
+Finally, consider how many abilities above you granted your species. If your species has powerful extra senses, an additional movement type, and other perks so far, it might be best to pick one less regular combat or noncombat ability to keep the power level roughly in line with other playable species.
 
 ## Creature Type
 
-**Source** _Interstellar Species pg. 43_  
-Choosing a creature type is largely thematic, rather than mechanical. Many creature types include additional abilities like darkvision, specific immunities, or other abilities appropriate for NPCs designed using Alien Archive, yet you shouldn’t apply these abilities to your species automatically. Instead, consider them as inspiration. The creature type might inform your species’ abilities, physiology, and culture, or you might choose a creature type that best fits traits you’ve already chosen. You can also roll on Table 2-5: Creature Type on page 46 if you want to select randomly.  
-If your creature is aquatic, you can give it the water breathing universal creature rule. If you do, you can also give it the amphibious universal creature rule.  
+**Source** _Interstellar Species pg. 43_
+Choosing a creature type is largely thematic, rather than mechanical. Many creature types include additional abilities like darkvision, specific immunities, or other abilities appropriate for NPCs designed using Alien Archive, yet you shouldn’t apply these abilities to your species automatically. Instead, consider them as inspiration. The creature type might inform your species’ abilities, physiology, and culture, or you might choose a creature type that best fits traits you’ve already chosen. You can also roll on Table 2-5: Creature Type on page 46 if you want to select randomly.
+If your creature is aquatic, you can give it the water breathing universal creature rule. If you do, you can also give it the amphibious universal creature rule.
 
 ## Special Abilities and Weaknesses
 
-**Source** _Interstellar Species pg. 43_  
-Your species should gain several special abilities, which are broadly divided into combat and noncombat abilities. Your species should receive some of each to remain balanced in play against other species. Both categories have stronger abilities (the first 8 options listed on the corresponding table) and numerous regular abilities. Choose either one stronger combat ability or two regular ones, then do the same for noncombat abilities. Don’t choose the same ability more than once. As with all steps, consider the physiological or cultural sources of the ability and feel free to adjust the flavor of it to match your species concept.  
-You can also determine your abilities randomly. If you want to roll on a table for one stronger ability, roll a d8. If you want to roll for two abilities, reroll any results of 8 or less, as well as any duplicate results.  
-Weaknesses are optional, and they don’t grant additional abilities. Example weaknesses appear in Table 2–6: Weaknesses, and you can invent your own, though you should avoid sweeping penalties to AC or d20 rolls. Some weaknesses allow a saving throw (DC equals 13 + 1/2 the level, item level, or CR of the source that triggered the weakness ) to negate their effect.  
+**Source** _Interstellar Species pg. 43_
+Your species should gain several special abilities, which are broadly divided into combat and noncombat abilities. Your species should receive some of each to remain balanced in play against other species. Both categories have stronger abilities (the first 8 options listed on the corresponding table) and numerous regular abilities. Choose either one stronger combat ability or two regular ones, then do the same for noncombat abilities. Don’t choose the same ability more than once. As with all steps, consider the physiological or cultural sources of the ability and feel free to adjust the flavor of it to match your species concept.
+You can also determine your abilities randomly. If you want to roll on a table for one stronger ability, roll a d8. If you want to roll for two abilities, reroll any results of 8 or less, as well as any duplicate results.
+Weaknesses are optional, and they don’t grant additional abilities. Example weaknesses appear in Table 2–6: Weaknesses, and you can invent your own, though you should avoid sweeping penalties to AC or d20 rolls. Some weaknesses allow a saving throw (DC equals 13 + 1/2 the level, item level, or CR of the source that triggered the weakness ) to negate their effect.
 
 ## Species versus Individual
 
-**Source** _Interstellar Species pg. 43_  
-It’s important to keep in mind that you’re creating a species, not an individual character (though, of course, the hope is that you and others will create characters of your new species). As such, paint in broad strokes; among individual members of a culture, there will be plenty of exceptions to the overarching trends. Also keep in mind that individual members of the species whose life experience is of an entirely different culture (or cultures) won’t necessarily have strong links to that of their species’ home world.  
-The most interesting part comes when creating a character of your species; you can decide how exposed they were to their home world’s culture and what pieces they strongly identify with and which they might resist.  
+**Source** _Interstellar Species pg. 43_
+It’s important to keep in mind that you’re creating a species, not an individual character (though, of course, the hope is that you and others will create characters of your new species). As such, paint in broad strokes; among individual members of a culture, there will be plenty of exceptions to the overarching trends. Also keep in mind that individual members of the species whose life experience is of an entirely different culture (or cultures) won’t necessarily have strong links to that of their species’ home world.
+The most interesting part comes when creating a character of your species; you can decide how exposed they were to their home world’s culture and what pieces they strongly identify with and which they might resist.
 
 ## Other Abilities
 
-**Source** _Interstellar Species pg. 43_  
-It’s often appropriate for a species to have a very specific ability tied to its culture or physiology. While such abilities are beyond the scope of this species builder, which is meant to provide an easy and balanced way to create new species, you can work with your GM to create them, using the abilities presented here as rough guidelines for what’s appropriate.  
+**Source** _Interstellar Species pg. 43_
+It’s often appropriate for a species to have a very specific ability tied to its culture or physiology. While such abilities are beyond the scope of this species builder, which is meant to provide an easy and balanced way to create new species, you can work with your GM to create them, using the abilities presented here as rough guidelines for what’s appropriate.
 
 # Physiology
 
-**Source** _Interstellar Species pg. 44_  
-n determining the species’s appearance, you can use the tables above, inspirations from other media, or a mashup of both. Regardless, consider how a home world and evolutionary (or other) pressures might have shaped, or continue to shape, its physiology.  
-Consider how members of your species differ in appearance and physiology. What does your species eat? What eats your species? Are there other creatures on their home world, sapient or otherwise, that share similar physiological traits? Do these other creatures have traits that counter or complement your species’ traits? What advantages or challenges might your species face in an environment built for humans?  
-You might have already chosen a creature type in a different step. If not, you can roll a random one on Table 2–5: Creature Type. You might want your creature type to inform your species’ general body shape and exterior, but you can roll on Table 2–3: Body Shape and Exterior for random choices to get some interesting combinations!  
-Likewise, you might know what limbs your species has, but you can also randomly determine those limbs and how many there are by rolling 4d6 and using Table 2–4. The first d6 roll determines the number of upper limbs your species has. The second roll tells you what type of limbs those are. Similarly, the third roll tells you the number of limbs your species uses for locomotion, and the fourth roll tells you what kind they are (though you can just reuse your second result if you want your species’ limbs to be consistent).  
-Note that even a species with 0 or 1 manipulation limbs is still considered to be able to wield two hands’ worth of equipment. If your species has 3 or more limbs, consider giving it the multiarmed universal creature rule as one of its special abilities, though you might decide that one or more limbs are extraneous, vestigial, or otherwise unable to hold and wield objects. Either way, limit the multiarmed ability to 6 or fewer limbs.  
+**Source** _Interstellar Species pg. 44_
+n determining the species’s appearance, you can use the tables above, inspirations from other media, or a mashup of both. Regardless, consider how a home world and evolutionary (or other) pressures might have shaped, or continue to shape, its physiology.
+Consider how members of your species differ in appearance and physiology. What does your species eat? What eats your species? Are there other creatures on their home world, sapient or otherwise, that share similar physiological traits? Do these other creatures have traits that counter or complement your species’ traits? What advantages or challenges might your species face in an environment built for humans?
+You might have already chosen a creature type in a different step. If not, you can roll a random one on Table 2–5: Creature Type. You might want your creature type to inform your species’ general body shape and exterior, but you can roll on Table 2–3: Body Shape and Exterior for random choices to get some interesting combinations!
+Likewise, you might know what limbs your species has, but you can also randomly determine those limbs and how many there are by rolling 4d6 and using Table 2–4. The first d6 roll determines the number of upper limbs your species has. The second roll tells you what type of limbs those are. Similarly, the third roll tells you the number of limbs your species uses for locomotion, and the fourth roll tells you what kind they are (though you can just reuse your second result if you want your species’ limbs to be consistent).
+Note that even a species with 0 or 1 manipulation limbs is still considered to be able to wield two hands’ worth of equipment. If your species has 3 or more limbs, consider giving it the multiarmed universal creature rule as one of its special abilities, though you might decide that one or more limbs are extraneous, vestigial, or otherwise unable to hold and wield objects. Either way, limit the multiarmed ability to 6 or fewer limbs.
 
 # Table 2-1: Combat Options
 
-**Source** _Interstellar Species pg. 44_  
+**Source** _Interstellar Species pg. 44_
 
 | D100   | NAME                   | DESCRIPTION                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |--------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -106,33 +106,30 @@ Note that even a species with 0 or 1 manipulation limbs is still considered to b
 | 93–96  | Sturdy                 | This species gains a +4 bonus to AC against bull rush, disarm, reposition, and trip combat maneuvers.                                                                                                                                                                                                                                                                                                                                                                                     |
 | 97–100 | Warding spines         | This species bristles with thorns, quills, or spikes. A creature attacking the species with a natural weapon or unarmed strike takes 1d4 piercing damage; as a reaction, the species can thrash and add its character level to the damage dealt.                                                                                                                                                                                                                                          |
 
-
-  
-
 # Culture
 
-**Source** _Interstellar Species pg. 45_  
-A species’ culture provides social context in which individuals exist. Any given character of your species might fully embrace each cultural value of that overall species, might reject all of them, or—most likely—fall somewhere in between. Of course, any given character might also have grown up disconnected from the traditional culture of their species, adopting another (which you can also create using this system, or you can choose from the many featured in other Starfinder products).  
-Asking yourself questions can prompt exciting ideas that make the culture more engaging and believable. How widespread is your species’ culture? How does your species’ culture look upon those who set off to adventure throughout the galaxy? What traditions are important for those who leave the home world behind to carry on? What holidays does your species’ culture celebrate? How are extraplanar outsiders treated? Are there any idioms or customs that those unfamiliar with the culture would nevertheless immediately understand?  
+**Source** _Interstellar Species pg. 45_
+A species’ culture provides social context in which individuals exist. Any given character of your species might fully embrace each cultural value of that overall species, might reject all of them, or—most likely—fall somewhere in between. Of course, any given character might also have grown up disconnected from the traditional culture of their species, adopting another (which you can also create using this system, or you can choose from the many featured in other Starfinder products).
+Asking yourself questions can prompt exciting ideas that make the culture more engaging and believable. How widespread is your species’ culture? How does your species’ culture look upon those who set off to adventure throughout the galaxy? What traditions are important for those who leave the home world behind to carry on? What holidays does your species’ culture celebrate? How are extraplanar outsiders treated? Are there any idioms or customs that those unfamiliar with the culture would nevertheless immediately understand?
 
 ## Cultural Attributes
 
-**Source** _Interstellar Species pg. 45_  
-One way to think about your species’ culture is through the presence and interaction of certain cultural attributes—accord, alignment, magic, religion, and technology—as defined (and explored in depth) in other Starfinder products, such as the Starfinder Deck of Many Worlds and Starfinder Galaxy Exploration Manual. Each should be considered the average or tendency of the culture, rather than a set of hard and fast rules that every member of that culture observes.  
-Accord in this context is a measure of a culture’s cooperation, both among individuals and with the galaxy at large. The culture’s predominant alignment shapes many approaches to justice, altruism, and rules. You can use the relative presence or absence of magic, technology, or both to think about how these features have shaped your species’ culture and their interactions with the galaxy. Finally, religion can shape a culture, whether monotheistic, diverse, or purposefully defiant despite a setting where the gods are very real. For an overview of deities and other faiths, see pages 482–493 of the Core Rulebook, and you can find even greater depth and more options on pages 100–123 of Starfinder Galactic Magic. Which faiths are especially prevalent, adored, or detested by your species?  
+**Source** _Interstellar Species pg. 45_
+One way to think about your species’ culture is through the presence and interaction of certain cultural attributes—accord, alignment, magic, religion, and technology—as defined (and explored in depth) in other Starfinder products, such as the Starfinder Deck of Many Worlds and Starfinder Galaxy Exploration Manual. Each should be considered the average or tendency of the culture, rather than a set of hard and fast rules that every member of that culture observes.
+Accord in this context is a measure of a culture’s cooperation, both among individuals and with the galaxy at large. The culture’s predominant alignment shapes many approaches to justice, altruism, and rules. You can use the relative presence or absence of magic, technology, or both to think about how these features have shaped your species’ culture and their interactions with the galaxy. Finally, religion can shape a culture, whether monotheistic, diverse, or purposefully defiant despite a setting where the gods are very real. For an overview of deities and other faiths, see pages 482–493 of the Core Rulebook, and you can find even greater depth and more options on pages 100–123 of Starfinder Galactic Magic. Which faiths are especially prevalent, adored, or detested by your species?
 
 ## Values
 
-**Source** _Interstellar Species pg. 46_  
-Beyond the attributes above, you can explore culture through various spectrums, like the examples below. Each presents two ends of that spectrum and a middle ground. Yet these dichotomies can become more engaging if you include major exceptions. For example, a society could believe in unhindered progress… except regarding some sacred, ancient institution.  
-**Tradition/Progress:** Is the culture steeped in history and tradition, constantly looking ahead to the next development or using one to inform the other?  
-**Community/Individual:** Does the culture promote the needs of the many over those of the few, encourage and empower individuals to enrich themselves regardless of the impact on others, or fall somewhere in between?  
-**Liberty/Law:** How tightly does society regulate individual or group behavior, and where does one’s rights end and another’s begin?  
-**Exceptionalism/Universalism:** Does the culture embrace and learn from the galaxy’s diversity, hold itself up as the shining example to the rest of the galaxy, or do a little bit of both?  
+**Source** _Interstellar Species pg. 46_
+Beyond the attributes above, you can explore culture through various spectrums, like the examples below. Each presents two ends of that spectrum and a middle ground. Yet these dichotomies can become more engaging if you include major exceptions. For example, a society could believe in unhindered progress… except regarding some sacred, ancient institution.
+**Tradition/Progress:** Is the culture steeped in history and tradition, constantly looking ahead to the next development or using one to inform the other?
+**Community/Individual:** Does the culture promote the needs of the many over those of the few, encourage and empower individuals to enrich themselves regardless of the impact on others, or fall somewhere in between?
+**Liberty/Law:** How tightly does society regulate individual or group behavior, and where does one’s rights end and another’s begin?
+**Exceptionalism/Universalism:** Does the culture embrace and learn from the galaxy’s diversity, hold itself up as the shining example to the rest of the galaxy, or do a little bit of both?
 
 # Table 2-2: Noncombat Options
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D100 | NAME DESCRIPTION |
 |-----------------------|----------------------|
@@ -157,12 +154,9 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 87–93                 | Photosynthesis       | This species can undergo photosynthesis to gain nutrition instead of eating. The species can go without light for 3 days, after which they must attempt Constitution checks to avoid starvation.                                                                                                                                                                                                                                                                            |
 | 94–100                | Rapid recovery       | Once per day, when this species takes a 10-minute rest to regain Stamina Points, they can additionally recover Hit Points as though they’d taken a full night’s rest.                                                                                                                                                                                                                                                                                                       |
 
-
-  
-
 # Table 2-3: Body Shape and Exterior
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D4 | SHAPE        | EXTERIOR |
 |----|--------------|----------|
@@ -171,12 +165,9 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 3  | Round        | Feathers |
 | 4  | Asymmetrical | Slime    |
 
-
-  
-
 # Table 2-4: Limbs
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D6 | NUMBER | TYPE      |
 |----|--------|-----------|
@@ -187,12 +178,9 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 5  | 5+     | Insectile |
 | 6  | 6      | Unusual   |
 
-
-  
-
 # Table 2-5: Creature Type
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D12 | TYPE               | DESCRIPTION                                                                                                                        |
 |-----|--------------------|------------------------------------------------------------------------------------------------------------------------------------|
@@ -209,12 +197,9 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 11  | Plant              | A creature that’s a plant with a magical, supernatural, or technological source of sentience.                                      |
 | 12  | Undead             | A once-living creature (likely formerly one of the above creature types) animated by magic or advanced technological forces.       |
 
-
-  
-
 # Table 2-6: Weaknesses
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D10 | NAME                       | DESCRIPTION                                                                                                                                                                                                                                                                                       |
 |-----|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -229,12 +214,9 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 9   | Susceptible to sonic       | When this species takes sonic damage, it is deafened for 1d4 rounds and has a 10% chance of also being stunned for 1 round (Fortitude negates both effects).                                                                                                                                      |
 | 10  | Uncommon allergy           | Choose a material like silver or saltwater. Contact with at least a handful of the material deals 1d6 damage per round to this species. This effect is negated by the environmental protections built into most armor.                                                                            |
 
-
-  
-
 # Table 2-7: Biomes
 
-**Source** _Interstellar Species pg. 45_  
+**Source** _Interstellar Species pg. 45_
 
 | D10 | BIOME        |
 |-----|--------------|
@@ -249,30 +231,27 @@ Beyond the attributes above, you can explore culture through various spectrums, 
 | 9   | Subterranean |
 | 10  | Urban        |
 
-
-  
-
 # Home World
 
-**Source** _Interstellar Species pg. 46_  
-Most—but not all—species evolve on a single world, shaped by its environmental pressures and events both mundane and magical. As with any other step, you can start here or simply use this framing to consider your species’ past, present, or future. Starfinder offers several ways to create your species’ home world. You can use the Deck of Many Worlds to get a randomly generated world (one of millions of possibilities) with just a few of that accessory’s 100 world cards. You can also use Galaxy Exploration Manual to create a world (or expand on one conceived with the Deck of Many Worlds). Or you can repurposean existing Starfinder world (or even mash up several), pulling from any number of sources, including Starfinder Pact Worlds, Starfinder Near Space, or the backmatter of Adventure Path volumes. Regardless of the method, it’s helpful to explore the interplay between a species and its home world’s physical and cultural characteristics, as the influence is often bidirectional.  
-While your species’ home world likely has numerous biomes, your species likely evolved in and adapted to primarily one or two, which you can pick or roll for on Table 2–7: Biomes.  
-Ask some thought-provoking questions as you go. How did the environment of your species’ home world shape its physiology and culture? How does your species treat the environment: with stewardship and care, fear, or disregard for finite resources? Is there a resource harvested or skill cultivated here that’s of particular value to the greater galaxy?  
+**Source** _Interstellar Species pg. 46_
+Most—but not all—species evolve on a single world, shaped by its environmental pressures and events both mundane and magical. As with any other step, you can start here or simply use this framing to consider your species’ past, present, or future. Starfinder offers several ways to create your species’ home world. You can use the Deck of Many Worlds to get a randomly generated world (one of millions of possibilities) with just a few of that accessory’s 100 world cards. You can also use Galaxy Exploration Manual to create a world (or expand on one conceived with the Deck of Many Worlds). Or you can repurposean existing Starfinder world (or even mash up several), pulling from any number of sources, including Starfinder Pact Worlds, Starfinder Near Space, or the backmatter of Adventure Path volumes. Regardless of the method, it’s helpful to explore the interplay between a species and its home world’s physical and cultural characteristics, as the influence is often bidirectional.
+While your species’ home world likely has numerous biomes, your species likely evolved in and adapted to primarily one or two, which you can pick or roll for on Table 2–7: Biomes.
+Ask some thought-provoking questions as you go. How did the environment of your species’ home world shape its physiology and culture? How does your species treat the environment: with stewardship and care, fear, or disregard for finite resources? Is there a resource harvested or skill cultivated here that’s of particular value to the greater galaxy?
 
 # Final Details
 
-**Source** _Interstellar Species pg. 47_  
-Here are a few final touches to consider for your species.  
-**Name:** Names can be difficult! Mashing up roots of words related to features of your species can lead to interesting, evocative names. To help weed out any unintended correlations for your species’ name, be sure to say the name out loud, have a friend do the same, and search for it on the internet.  
-**Language:** It can be fun to think about the unique features of your species’ language based on their physiology and culture; most species have a language with the same name as the species’ (or a similar name), but yours might speak only Common, or widely speak several languages, especially if from a home world with several other common sapient species. See page 40 of the Core Rulebook for example languages.  
-**Relative Commonness:** Consider how populous and well-traveled your species is. How recently did your species contact other worlds? How likely are people in the galaxy to know about your species and its home world? How does that inform their interactions?  
+**Source** _Interstellar Species pg. 47_
+Here are a few final touches to consider for your species.
+**Name:** Names can be difficult! Mashing up roots of words related to features of your species can lead to interesting, evocative names. To help weed out any unintended correlations for your species’ name, be sure to say the name out loud, have a friend do the same, and search for it on the internet.
+**Language:** It can be fun to think about the unique features of your species’ language based on their physiology and culture; most species have a language with the same name as the species’ (or a similar name), but yours might speak only Common, or widely speak several languages, especially if from a home world with several other common sapient species. See page 40 of the Core Rulebook for example languages.
+**Relative Commonness:** Consider how populous and well-traveled your species is. How recently did your species contact other worlds? How likely are people in the galaxy to know about your species and its home world? How does that inform their interactions?
 
 # An Example Species
 
-**Source** _Interstellar Species pg. 47_  
-As an example, let’s build a species together. We’ll let the randomness of the dice determine many attributes, but even so, we’ll have plenty of interesting choices to make.  
-Let’s start with a **home world**. While we could repurpose a world from the Starfinder setting, for now let’s just look at Table 2–7: Biomes and say we want a forest world dotted with magical volcanoes. We don’t need much more than that to get started! Looking at the questions in the home world section, we decide our species treats the environment with care and harvests a unique magical obsidian formed by the volcanoes, available only on this world.  
-Now let’s get a sense of what our species looks like using the **physiology** step. Time to let the dice decide! First, we roll on the creature type table and get a 5, so our creature type is fey. Fey can look like almost anything, but it tells us we have a strong connection to some aspect of nature—let’s say those magical volcanoes! Perhaps our species was born of the volcanoes themselves. Now let’s roll on Table 2–3 for our body shape and exterior. We get a 1 and a 3, so our species has a tall body shape and is covered in feathers—perhaps they’re birdlike and glide on the hot air generated by the volcanoes. We’ll roll for our number of locomotion limbs (getting a 2, for 2 limbs), but let’s just pick wings as the limb type to match our concept. For our manipulation limbs, we’ll choose two limbs for symmetry and then roll a 5, giving us insectile limbs.  
-Let’s move on to our species’ **culture**. We might envision them as relatively solitary, at least in adulthood, each charged with the cultivation, protection, and harvesting of a single volcano. Their culture might value tradition, individualism, and liberty. It seems like we have a focus on magic and possibly religion, though there’s probably the presence of at least some technology, in that we want them to harvest magical obsidian.  
-Alright, let’s explore **mechanics**! First, let’s select fire resistance for our volcano-centric species. That’s one combat ability, so let’s roll for the other one. We get a 13 for alerting presence. Let’s say this ability comes from our species’ innate sense of when a volcanic eruption is imminent, upon which they issue a warning call to creatures in the area. For our noncombat ability, let’s pick spellcasting and give our species the ability to cast life bubble once per day and detect magic and psychokinetic hand at will—all handy for a species adapted to a dangerous magical environment.  
+**Source** _Interstellar Species pg. 47_
+As an example, let’s build a species together. We’ll let the randomness of the dice determine many attributes, but even so, we’ll have plenty of interesting choices to make.
+Let’s start with a **home world**. While we could repurpose a world from the Starfinder setting, for now let’s just look at Table 2–7: Biomes and say we want a forest world dotted with magical volcanoes. We don’t need much more than that to get started! Looking at the questions in the home world section, we decide our species treats the environment with care and harvests a unique magical obsidian formed by the volcanoes, available only on this world.
+Now let’s get a sense of what our species looks like using the **physiology** step. Time to let the dice decide! First, we roll on the creature type table and get a 5, so our creature type is fey. Fey can look like almost anything, but it tells us we have a strong connection to some aspect of nature—let’s say those magical volcanoes! Perhaps our species was born of the volcanoes themselves. Now let’s roll on Table 2–3 for our body shape and exterior. We get a 1 and a 3, so our species has a tall body shape and is covered in feathers—perhaps they’re birdlike and glide on the hot air generated by the volcanoes. We’ll roll for our number of locomotion limbs (getting a 2, for 2 limbs), but let’s just pick wings as the limb type to match our concept. For our manipulation limbs, we’ll choose two limbs for symmetry and then roll a 5, giving us insectile limbs.
+Let’s move on to our species’ **culture**. We might envision them as relatively solitary, at least in adulthood, each charged with the cultivation, protection, and harvesting of a single volcano. Their culture might value tradition, individualism, and liberty. It seems like we have a focus on magic and possibly religion, though there’s probably the presence of at least some technology, in that we want them to harvest magical obsidian.
+Alright, let’s explore **mechanics**! First, let’s select fire resistance for our volcano-centric species. That’s one combat ability, so let’s roll for the other one. We get a 13 for alerting presence. Let’s say this ability comes from our species’ innate sense of when a volcanic eruption is imminent, upon which they issue a warning call to creatures in the area. For our noncombat ability, let’s pick spellcasting and give our species the ability to cast life bubble once per day and detect magic and psychokinetic hand at will—all handy for a species adapted to a dangerous magical environment.
 Let’s finish with some **details**. We’ll call our species olca (who speak the Olca language, but not Common) and decide they’re relatively uncommon in the galaxy, mostly content to remain on their home world and trade with visitors.

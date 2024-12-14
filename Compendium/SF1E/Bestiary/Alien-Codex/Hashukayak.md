@@ -3,11 +3,25 @@ aliases:
 cr: 5
 Environment: any
 hp: 70
-modifier: 0
+Initmod: 0
 name: Hashukayak
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
+combatType: combatant
+alignment: N
+size: large
+type(subtype): animal(-)
+environment:
+  - hills
+  - plains
+climate: temperate
+planet: Orikolai
+organization:
+  - solitary
+  - gang(2-9)
+  - herd(5-20)
+source: Alien Archive 2
 ---
 
 # Hashukayak
@@ -64,3 +78,5 @@ There, the males live year round in the low-gravity plains. Male hashukayaks gro
 ## Gravity Serum
 
 Pharmaceutical experts have developed ways to adapt the contents of hashukayaks’ sundry glands to grant consumers some of the creatures’ resilience in high-gravity environments. Regularly consuming this gravity serum can lead to increased bone density and muscle growth, making it a popular supplement for athletes. However, the long-term effects of this serum remain untested, with apocryphal reports of unseemly hair growth and difficulty processing meat. Many sports leagues ban the substance on principle.
+
+

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 11 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,13 +19,15 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 5
-**Price**:: 3,160  
-**Hands**:: 2;
+**Price**:: 3160  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 E; **Range**:: 60 ft.;
+**Damage**:: 2d6 E 
+**Range**:: 60 ft.
 **Critical**:: second arc 1d6  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: first arc 1d6, unwieldy
 
 ## Arc Caster, Static
@@ -33,36 +35,42 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 1
 **Price**:: 375  
-**Hands**:: 2;
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 E; **Range**:: 60 ft.;
+**Damage**:: 1d8 E 
+**Range**:: 60 ft.
 **Critical**:: second arc 1d6  
-**Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 20 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: first arc 1d6, unwieldy
 
 ## Arc Caster, Storm
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 11;
-**Price**:: 25,600  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 25600  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d6 E; **Range**:: 80 ft.;
+**Damage**:: 5d6 E 
+**Range**:: 80 ft.
 **Critical**:: second arc 2d6  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: first arc 2d6, unwieldy
 
 ## Arc Caster, Tempest
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 17;
-**Price**:: 262,000  
-**Hands**:: 2;
+**Level**:: 17
+**Price**:: 262000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 10d6 E; **Range**:: 80 ft.;
+**Damage**:: 10d6 E 
+**Range**:: 80 ft.
 **Critical**:: second arc 4d6  
-**Capacity**:: 40 charges; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: first arc 4d6, unwieldy

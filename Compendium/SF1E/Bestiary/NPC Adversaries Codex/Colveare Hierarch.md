@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 215
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Colveare Hierarch
-statblock: true
-Subtype: Tyrants
+statblock: true(Tyrants
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Colveare Hierarch

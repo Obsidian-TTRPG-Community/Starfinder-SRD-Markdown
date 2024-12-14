@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 9 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,50 +21,46 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 5
-**Price**:: 3,010  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 E & F; **Range**:: 60 ft.;
+**Price**:: 3010  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 E & F; 
+**Range**:: 60 ft.
 **Critical**:: wound  
 **Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 2;
-**Special**:: unwieldy
+**Bulk**:: 2**Special**:: unwieldy
 
 ## Plasma Bolter, Tactical
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 1
 **Price**:: 260  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 E & F; **Range**:: 40 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 E & F; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: unwieldy
+**Bulk**:: 2**Special**:: unwieldy
 
 ## Plasma Bolter, Elite
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 9;
-**Price**:: 14,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 E & F; **Range**:: 60 ft.;
+**Level**:: 9
+**Price**:: 14000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 E & F; 
+**Range**:: 60 ft.
 **Critical**:: wound  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: unwieldy
+**Bulk**:: 2**Special**:: unwieldy
 
 ## Plasma Bolter, Paragon
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 16;
-**Price**:: 170,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 9d8 E & F; **Range**:: 60 ft.;
+**Level**:: 16
+**Price**:: 170000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 9d8 E & F; 
+**Range**:: 60 ft.
 **Critical**:: wound  
 **Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: unwieldy
+**Bulk**:: 2**Special**:: unwieldy

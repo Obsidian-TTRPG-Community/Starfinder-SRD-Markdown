@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 450
 tags: 
@@ -12,13 +12,12 @@ type: Longarms
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 1
 **Price**:: 450  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d4 So; **Range**:: 30 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d4 So; 
+**Range**:: 30 ft.
 **Critical**:: demoralize  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: blast, nonlethal, unwieldy
+**Bulk**:: 1**Special**:: blast, nonlethal, unwieldy
 
 ### Description
 

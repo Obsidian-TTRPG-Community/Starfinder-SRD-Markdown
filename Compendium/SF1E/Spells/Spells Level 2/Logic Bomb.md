@@ -4,9 +4,9 @@ Level: 2
 Mystic: 
 NoteType: Spell
 Precog: 
-School: abjuration 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper: 
 ---
 

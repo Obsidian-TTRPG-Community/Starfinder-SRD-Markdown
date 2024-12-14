@@ -3,11 +3,24 @@ aliases:
 cr: 2
 Environment: any
 hp: 23
-modifier: 5
+Initmod: 5
 name: Planar Scion, Tiefling
 statblock: true
 tags: 
-Type: LE Medium outsider (native)  
+Type: LE Medium outsider (native)
+combatType: expert
+alignment: LE
+size: medium
+type(subtype): outsider(native)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - gang(3-6)
+source: Alien Archive 2
 ---
 
 # Planar Scion, Tiefling
@@ -20,7 +33,7 @@ However, in insular or tradition-bound communities, any signs of plane-touched h
 
 Planar scions are often outliers in their community, either put on a pedestal or ostracized because of their ancestry. The potent blood that courses through the veins of aasimars and tieflings also makes them ambitious; many choose a dangerous but rewarding profession, such as explorer, mercenary, spy, or pilot.
 
-**Source**:: _Alien Archive 2 pg. 98_
+**Source**:  _Alien Archive 2 pg. 98_
 
 ## Tiefling Cr 2
 
@@ -59,3 +72,5 @@ LE Medium outsider (native)
 ### Special Abilities
 
 **Fiendish Gloom (Su)** As a standard action, the tiefling causes light within 20 feet of her to decrease one step. This gloom lasts for up to 1 minute, but the tiefling can dismiss it as a swift action. Nonmagical light sources can’t increase the light level in this area. Magical light can increase the light level in this area only if it’s from an item or creature of a level or CR higher than that of the tiefling. A tiefling can use this ability once per day, plus a number of times equal to half her CR or level.
+
+

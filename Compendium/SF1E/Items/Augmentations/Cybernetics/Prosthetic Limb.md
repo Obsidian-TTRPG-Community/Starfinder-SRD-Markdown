@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 1 / 3
+Item:
 price:  
-System: Arm and hand, or leg and foot 
+
 tags: 
 Type: Cybertech
 ---
@@ -16,8 +16,9 @@ A storage prosthetic limb has a built-in concealed storage compartment, which fu
 ## Prosthetic Limb, Storage
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 3;
-**Price**::  1,450; **System** Arm and hand, or leg and foot  
+**Level**:: 3
+**Price**::  1450 
+**System**:: Arm and hand, or leg and foot  
   
 
 ---
@@ -25,5 +26,6 @@ A storage prosthetic limb has a built-in concealed storage compartment, which fu
 ## Prosthetic Limb, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 1;
-**Price**::  100; **System** Arm and hand, or leg and foot
+**Level**:: 1
+**Price**::  100 
+**System**:: Arm and hand, or leg and foot

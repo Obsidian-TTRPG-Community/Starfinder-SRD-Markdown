@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 1 / 5
+Item:
 price:  
-System: Arm or leg
+
 tags: 
 Type: Cybertech
 ---
@@ -24,8 +24,9 @@ Nothing stored in a hideaway limb is considered part of the cybernetic, and the 
 ## Hideaway Limb, Standard
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 1;
-**Price**::  150; **System** Arm or leg  
+**Level**:: 1
+**Price**::  150 
+**System**:: Arm or leg  
   
 
 ---
@@ -33,5 +34,6 @@ Nothing stored in a hideaway limb is considered part of the cybernetic, and the 
 ## Hideaway Limb, Quickdraw
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 5;
-**Price**::  3,050; **System** Arm or leg
+**Level**:: 5
+**Price**::  3050 
+**System**:: Arm or leg

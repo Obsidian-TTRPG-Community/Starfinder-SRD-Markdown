@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 12 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,47 +16,43 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Pulse Gauntlet, Banshee
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 16;
-**Price**:: 148,200  
+**Level**:: 16
+**Price**:: 148200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 B & So;
+**Damage**:: 10d6 B & So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Pulse Gauntlet, Thunderstrike
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 475  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B & So;
+**Damage**:: 1d6 B & So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Pulse Gauntlet, Lfd
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 7;
-**Price**:: 7,340  
+**Level**:: 7
+**Price**:: 7340  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 B & So;
+**Damage**:: 2d6 B & So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Pulse Gauntlet, Hfd
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
 **Level**:: 12
-**Price**:: 31,300  
+**Price**:: 31300  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 B & So;
+**Damage**:: 5d6 B & So
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)

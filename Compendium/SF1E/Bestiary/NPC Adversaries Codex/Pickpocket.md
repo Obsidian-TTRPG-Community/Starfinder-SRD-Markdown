@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Pickpocket
-statblock: true
-Subtype: Thieves
+statblock: true(Thieves
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Pickpocket

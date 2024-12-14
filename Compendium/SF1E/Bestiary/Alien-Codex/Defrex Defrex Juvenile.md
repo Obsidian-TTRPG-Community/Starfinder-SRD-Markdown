@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: temperate forests and hills (Vesk-2)  
+Environment: temperate forests and hills (Vesk-2)
 hp: 105
-modifier: 2
+Initmod: 2
 name: Defrex, Defrex Juvenile
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Defrex, Defrex Juvenile
@@ -24,7 +24,7 @@ Adult defrexes are loners, but they form loosely connected social networks maint
 
 Thanks to this behavior, an encounter with a wild defrex can escalate as the predators attract reinforcements with calls or the scent of blood. Escaping one defrex is no guarantee of safety. However, defrexes’ social aggression can create an opening to flee as two defrexes become distracted by their dominance displays. Defrexes are difficult to tame, although vesk have attempted to do so for centuries. Shortly after vesk first landed on Vesk-2, the defrex captured their imagination and respect as a reffection of vesk virtues of dueling and fearlessness. A defrex mount or pet is a status symbol among vesk. Demand for defrex hide has led to defrex ranches, which are risky enterprises.
 
-**Source**:: _Alien Archive 3 pg. 12_
+**Source**:  _Alien Archive 3 pg. 12_
 
 ## Defrex Juvenile Cr 7
 

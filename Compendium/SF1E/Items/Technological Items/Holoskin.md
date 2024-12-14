@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 500
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Holoskin
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 2;
+**Level**:: 2
 **Price**::  500  
-**Capacity**:: 20; **Usage** 1/10 minute  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 1/10 minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

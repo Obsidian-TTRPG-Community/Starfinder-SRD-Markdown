@@ -3,11 +3,23 @@ aliases:
 cr: 8
 Environment: any
 hp: 125
-modifier: 2
+Initmod: 2
 name: Golem, Cybernetic Golem
 statblock: true
 tags: 
-Type: N Large construct (magical, technological)  
+Type: N Large construct (magical, technological)
+combatType: combatant
+alignment: N
+size: large
+type(subtype): construct(['technological', 'magical'])
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - gang(2-4)
+source: Alien Archive 2
 ---
 
 # Golem, Cybernetic Golem
@@ -16,7 +28,7 @@ These automatons, created by powerful spellcasters, differ from most robots in t
 
 
 
-**Source**:: _Alien Archive 2 pg. 66_
+**Source**:  _Alien Archive 2 pg. 66_
 
 ## Cybernetic Golem Cr 8
 
@@ -65,3 +77,5 @@ N Large construct (magical, technological)
 -   The golem automatically fails saving throws against weapons and magical effects that deal electricity damage. However, such an effect merely breaks any slow effect on the golem and heals it for 1 Hit Point per 3 damage the effect would have dealt. Any damage that exceeds the golem’s maximum Hit Points is stored as charges for its weapons, at a rate of 1 charge per Hit Point the golem would have gained. Any additional damage is ignored.
 
 **X-Ray Vision (Ex)** As a move action, the golem can grant itself X-ray vision, which functions like an X-ray visor.
+
+

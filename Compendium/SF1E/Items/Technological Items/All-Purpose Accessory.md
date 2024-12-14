@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3
+
 price: 1500
 tags: 
 Type: Technological Item
@@ -11,8 +11,9 @@ Type: Technological Item
 **Source** [_Tech Revolution pg. 46_](https://paizo.com/products/btq026mr/discuss?Starfinder-Tech-Revolution)  
 **Level**:: 3
 **Price**::  1500  
-**Capacity**:: 20; **Usage** 1/reconfiguration  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** 1/reconfiguration  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -3,11 +3,11 @@ aliases:
 cr: 15
 Environment: any
 hp: 255
-modifier: 9
+Initmod: 9
 name: Dragon (Starmetal), Mature Adult Horacalcum Dragon
 statblock: true
 tags: 
-Type: N Huge dragon  
+Type: N Huge dragon
 ---
 
 # Dragon (STARMETAL), Mature Adult Horacalcum Dragon
@@ -16,7 +16,7 @@ Ancient myths assert that the first metallic dragons were created from metallic 
 
 Starmetal dragons look different than most other true dragons, with scales that reffect their particular namesakes.
 
-**Source**:: _Alien Archive 3 pg. 22_
+**Source**:  _Alien Archive 3 pg. 22_
 
 ## Mature Adult Horacalcum Dragon Cr 15
 

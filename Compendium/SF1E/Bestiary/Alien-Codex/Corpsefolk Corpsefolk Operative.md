@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Eox)  
+Environment: any (Eox)
 hp: 42
-modifier: 4
+Initmod: 4
 name: Corpsefolk, Corpsefolk Operative
 statblock: true
-tags: [6:]
-Type: NE Medium undead  
+tags:
+  - "6:"
+Type: NE Medium undead
+combatType: expert
+alignment: NE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - association(3-10)
+source: Alien Archive 2
 ---
 
 # Corpsefolk, Corpsefolk Operative
@@ -24,7 +38,7 @@ Most corpsefolk, however, still experience emotions and desires, though they hav
 
 Some corpsefolk have great ambition. These drives can be tied to some aspect of a corpsefolk’s original life or an activity experienced early in their undeath that sparks significant interest. Such corpsefolk might settle old scores from their life, become fascinated with a specific kind of art, eagerly embrace new skills and opportunities, explore situations they feared in life, or seek to excel at assigned tasks as a way to track their progress through a potentially eternal unlife.
 
-**Source**:: _Alien Archive 2 pg. 30_, _Starfinder Empire of Bones pg. 56_
+**Source**:  _Alien Archive 2 pg. 30_, _Starfinder Empire of Bones pg. 56_
 
 ## Corpsefolk Operative Cr 3
 
@@ -64,3 +78,7 @@ NE Medium undead
 
 The following extra content was found for this creature:  
 \- Corpsefolk (Other) Graft Template
+
+
+
+

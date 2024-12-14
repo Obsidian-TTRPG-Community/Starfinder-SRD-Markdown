@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 10 / 13 / 17 / 20
+Item:
 price: 
-System: Brain and eyes
+
 tags: 
 Type: Magitech
 ---
@@ -14,8 +14,9 @@ A tiny rune is carved into your occipital lobe that is magically connected to mi
 ## Holographic Eyes, Mk 1
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 10;
-**Price**::  18,300; **System** Brain and eyes  
+**Level**:: 10
+**Price**::  18300 
+**System**:: Brain and eyes  
   
 
 ---
@@ -23,19 +24,22 @@ A tiny rune is carved into your occipital lobe that is magically connected to mi
 ## Holographic Eyes, Mk 2
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 13;
-**Price**::  49,700; **System** Brain and eyes  
+**Level**:: 13
+**Price**::  49700 
+**System**:: Brain and eyes  
   
 
 ## Holographic Eyes, Mk 3
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 17;
-**Price**::  266,000; **System** Brain and eyes  
+**Level**:: 17
+**Price**::  266000 
+**System**:: Brain and eyes  
   
 
 ## Holographic Eyes, Mk 4
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 20;
-**Price**::  820,000; **System** Brain and eyes
+**Level**:: 20
+**Price**::  820000 
+**System**:: Brain and eyes

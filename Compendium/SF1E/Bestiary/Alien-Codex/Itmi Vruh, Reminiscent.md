@@ -3,11 +3,11 @@ aliases:
 cr: 10
 Environment: any
 hp: 140
-modifier: 5
+Initmod: 5
 name: Itmi Vruh, Reminiscent
 statblock: true
 tags: 
-Type: LE Medium undead (incorporeal)  
+Type: LE Medium undead (incorporeal)
 ---
 
 # Itmi Vruh, Reminiscent
@@ -20,7 +20,7 @@ Usually, though, an itmi vruh possessing another creature concludes that the bod
 
 An itmi vruh that has possessed numerous bodies can slowly grow stronger as they absorb some of the residual energy, memories, and sometimes even abilities of those they have possessed, eventually becoming a powerful itmi vruh reminiscent. These rarer undead often have a number of additional magical abilities garnered from their victims over time.
 
-**Source**:: _Alien Archive 4 pg. 52_
+**Source**:  _Alien Archive 4 pg. 52_
 
 ## Reminiscent Cr 10
 

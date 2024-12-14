@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 9 / 13 / 19
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Developed using samples of haans’ biological webbing, a web grenade explodes t
 ## Web Grenade, Mk 1
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 490  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Developed using samples of haans’ biological webbing, a web grenade explodes t
 ## Web Grenade, Mk 2
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 9;
-**Price**:: 3,950  
+**Level**:: 9
+**Price**:: 3950  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Developed using samples of haans’ biological webbing, a web grenade explodes t
 ## Web Grenade, Mk 3
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 13;
-**Price**:: 14,700  
+**Level**:: 13
+**Price**:: 14700  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Developed using samples of haans’ biological webbing, a web grenade explodes t
 ## Web Grenade, Mk 4
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 19;
-**Price**:: 163,000  
+**Level**:: 19
+**Price**:: 163000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

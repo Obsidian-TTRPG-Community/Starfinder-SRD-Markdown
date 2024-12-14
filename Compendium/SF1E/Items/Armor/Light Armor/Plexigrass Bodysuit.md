@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,25 +15,46 @@ The lush forests of Ghorus Prime are host to all manner of flora, and ghoran bio
 
 **Source**:: _Near Space pg. 152_  
 **Level**:: 5
-**Price**:: 2,700; **Category** Light  
-**EAC Bonus** +3; **KAC Bonus** +4; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Price**:: 2700 
+**Category**:: Light  
+
+**EAC**:: +3 
+**KAC**:: +4 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Plexigrass Bodysuit, Ii
 
 **Source**:: _Near Space pg. 152_  
-**Level**:: 9;
-**Price**:: 13,500; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +10; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 9
+**Price**:: 13500 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +10 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Plexigrass Bodysuit, Iii
 
 **Source**:: _Near Space pg. 152_  
-**Level**:: 13;
-**Price**:: 51,000; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +16; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 13
+**Price**:: 51000 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +16 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L

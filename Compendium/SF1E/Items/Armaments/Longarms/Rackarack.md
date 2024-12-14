@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,51 +14,47 @@ Most often employed by overeager skittermanders and named from the concussive so
 ## Rackarack, Drum
 
 **Source**:: _Near Space pg. 150_  
-**Level**:: 13;
-**Price**:: 46,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d6 So; **Range**:: 60 ft.;
+**Level**:: 13
+**Price**:: 46100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nuisance  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost 2d4
+**Bulk**:: 1**Special**:: Boost 2d4
 
 ## Rackarack, Pulse
 
 **Source**:: _Near Space pg. 150_  
 **Level**:: 1
 **Price**:: 205  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 So; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nuisance  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: —
+**Bulk**:: 1**Special**:: —
 
 ## Rackarack, Surge
 
 **Source**:: _Near Space pg. 150_  
-**Level**:: 6;
-**Price**:: 4,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 So; **Range**:: 60 ft.;
+**Level**:: 6
+**Price**:: 4400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nuisance  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost 1d4
+**Bulk**:: 1**Special**:: Boost 1d4
 
 ## Rackarack, Hammer
 
 **Source**:: _Near Space pg. 150_  
-**Level**:: 18;
-**Price**:: 371,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 So; **Range**:: 60 ft.;
+**Level**:: 18
+**Price**:: 371000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 So; 
+**Range**:: 60 ft.
 **Critical**:: Nuisance  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Boost 4d4
+**Bulk**:: 1**Special**:: Boost 4d4

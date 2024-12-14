@@ -3,11 +3,11 @@ aliases:
 cr: 11
 Environment: any
 hp: 155
-modifier: 3
+Initmod: 3
 name: Sapient Purple Orb, Luminant
 statblock: true
 tags: 
-Type: NG Large aberration  
+Type: NG Large aberration
 ---
 
 # Sapient Purple Orb, Luminant
@@ -20,7 +20,7 @@ A curious and rarely observed aspect of purple orbs is their bonding process. Cl
 
 Sightings of purple orbs are sporadic, though not necessarily uncommon; they’re spotted in large numbers for short periods of time, then seem to almost completely disappear from the entirety of the Pact Worlds for a year or longer. Those who have studied purple orbs have noted that each time they reappear, it’s in lower numbers than before.
 
-**Source**:: _Alien Archive 4 pg. 104_
+**Source**:  _Alien Archive 4 pg. 104_
 
 ## Luminant Cr 11
 

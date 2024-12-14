@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Anchor Pistol, Emergent
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 9;
-**Price**:: 13,200  
+**Level**:: 9
+**Price**:: 13200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 E; **Range**:: 40 ft.;
+**Damage**:: 2d6 E; 
+**Range**:: 40 ft.
 **Critical**:: bind  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 44_  
 **Level**:: 4
-**Price**:: 2,100  
+**Price**:: 2100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 E; **Range**:: 40 ft.;
+**Damage**:: 1d6 E; 
+**Range**:: 40 ft.
 **Critical**:: bind  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Anchor Pistol, Inductive
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 15;
-**Price**:: 108,000  
+**Level**:: 15
+**Price**:: 108000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d6 E; **Range**:: 40 ft.;
+**Damage**:: 4d6 E; 
+**Range**:: 40 ft.
 **Critical**:: bind  
 **Capacity**:: 80 charges; **Usage** 4  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Anchor Pistol, Flux
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 20;
-**Price**:: 814,000  
+**Level**:: 20
+**Price**:: 814000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 8d6 E; **Range**:: 60 ft.;
+**Damage**:: 8d6 E; 
+**Range**:: 60 ft.
 **Critical**:: bind  
 **Capacity**:: 80 charges; **Usage** 5  
 **Bulk**:: L

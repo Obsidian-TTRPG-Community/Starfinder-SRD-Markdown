@@ -1,14 +1,14 @@
 ---
-aliases: 
-cr: 1
-Environment: any
+aliases: ---
+cr: 1)
+environment: any
 hp: 20
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Aether Soldier
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Aether Soldier

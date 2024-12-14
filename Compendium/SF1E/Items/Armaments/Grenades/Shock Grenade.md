@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 10 / 14 / 20
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ A shock grenade releases a pulse of electrical energy on impact.
 **Price**:: 50  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 1d8 E; **Range**:: 20 ft.;
+**Damage**:: 1d8 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ A shock grenade releases a pulse of electrical energy on impact.
 **Price**:: 290  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 1d12 E; **Range**:: 20 ft.;
+**Damage**:: 1d12 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ A shock grenade releases a pulse of electrical energy on impact.
 ## Shock Grenade, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 10;
-**Price**:: 2,500  
+**Level**:: 10
+**Price**:: 2500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 3d12 E; **Range**:: 20 ft.;
+**Damage**:: 3d12 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -53,10 +56,11 @@ A shock grenade releases a pulse of electrical energy on impact.
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
 **Level**:: 14
-**Price**:: 10,500  
+**Price**:: 10500  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 6d12 E; **Range**:: 20 ft.;
+**Damage**:: 6d12 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -65,11 +69,12 @@ A shock grenade releases a pulse of electrical energy on impact.
 ## Shock Grenade, Mk 5
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 20;
-**Price**:: 110,000  
+**Level**:: 20
+**Price**:: 110000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 9d12 E; **Range**:: 20 ft.;
+**Damage**:: 9d12 E; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

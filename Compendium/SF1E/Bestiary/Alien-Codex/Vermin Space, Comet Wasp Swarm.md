@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: any vacuum  
+Environment: any vacuum
 hp: 200
-modifier: 8
+Initmod: 8
 name: Vermin (Space), Comet Wasp Swarm
 statblock: true
 tags: 
-Type: N Diminutive vermin (swarm)  
+Type: N Diminutive vermin (swarm)
 ---
 
 # Vermin (SPACE), Comet Wasp Swarm
@@ -19,7 +19,7 @@ Asteroid lice and planetoid beetles feed on minerals in the rock of their airles
 Xenobiologists theorize many space vermin evolved in special circumstances. Necropedes were once centipede-like scavengers on Eox; they now have a bite that can digest undead flesh. A warpmoth is like a glowing blue-white speck attracted to moving light, such as other warpmoths or passing starships. Gathering in swarms and following ships helps the moths feed and mate. Comet wasps create nests in frozen interstellar bodies. These icy, venomous vespids lay their eggs in living creatures.
 
 
-**Source**:: _Alien Archive 2 pg. 133_
+**Source**:  _Alien Archive 2 pg. 133_
 
 ## Comet Wasp Swarm Cr 12
 

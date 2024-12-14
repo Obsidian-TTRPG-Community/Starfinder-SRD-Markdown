@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 12
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Derived from the gravitational organs of shipkiller bulbs, gravity grenades gene
 ## Gravity Grenade, I
 
 **Source**:: _Alien Archive 4 pg. 109_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 135  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Derived from the gravitational organs of shipkiller bulbs, gravity grenades gene
 ## Gravity Grenade, Ii
 
 **Source**:: _Alien Archive 4 pg. 109_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 600  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -40,10 +42,11 @@ Derived from the gravitational organs of shipkiller bulbs, gravity grenades gene
 
 **Source**:: _Alien Archive 4 pg. 109_  
 **Level**:: 12
-**Price**:: 4,800  
+**Price**:: 4800  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

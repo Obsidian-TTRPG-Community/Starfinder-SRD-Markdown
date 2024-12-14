@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Scepter, Cadaver
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 19;
-**Price**:: 598,000  
+**Level**:: 19
+**Price**:: 598000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 12d6 C;
+**Damage**:: 12d6 C
 **Critical**:: leech  
 **Bulk**:: L
 **Special**:: analog, antibiological
@@ -32,11 +32,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Scepter, Chill
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 3;
-**Price**:: 1,490  
+**Level**:: 3
+**Price**:: 1490  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C;
+**Damage**:: 1d6 C
 **Critical**:: leech  
 **Bulk**:: L
 **Special**:: analog, antibiological
@@ -44,11 +44,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Scepter, Void
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 8;
-**Price**:: 9,850  
+**Level**:: 8
+**Price**:: 9850  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 C;
+**Damage**:: 2d6 C
 **Critical**:: leech  
 **Bulk**:: L
 **Special**:: analog, antibiological
@@ -56,11 +56,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Bone Scepter, Rigor
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 13;
-**Price**:: 51,800  
+**Level**:: 13
+**Price**:: 51800  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 C;
+**Damage**:: 5d6 C
 **Critical**:: leech  
 **Bulk**:: L
 **Special**:: analog, antibiological

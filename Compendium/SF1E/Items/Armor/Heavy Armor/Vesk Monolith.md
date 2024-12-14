@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 12 / 16 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ The ultimate battle gear, pioneered by the vesk, these suits of heavy armor have
 ## Vesk Monolith, I
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 12;
-**Price**::  39,650; **Category** Heavy  
-**EAC Bonus** +16; **KAC Bonus** +18; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 5; **Bulk** 2
+**Level**:: 12
+**Price**::  39650 
+**Category**:: Heavy  
+
+**EAC**:: +16 
+**KAC**:: +18 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 2
 
 ## Vesk Monolith, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 16;
-**Price**::  163,400; **Category** Heavy  
-**EAC Bonus** +22; **KAC Bonus** +24; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 6; **Bulk** 2
+**Level**:: 16
+**Price**::  163400 
+**Category**:: Heavy  
+
+**EAC**:: +22 
+**KAC**:: +24 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**:: 2
 
 ## Vesk Monolith, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 20;
-**Price**::  827,250; **Category** Heavy  
-**EAC Bonus** +26; **KAC Bonus** +27; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 7; **Bulk** 2
+**Level**:: 20
+**Price**::  827250 
+**Category**:: Heavy  
+
+**EAC**:: +26 
+**KAC**:: +27 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 7 
+**Bulk**:: 2

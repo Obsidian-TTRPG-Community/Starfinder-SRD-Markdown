@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 8 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Frost Maul, Aufeis
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 3;
-**Price**:: 1,240  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 C;
+**Level**:: 3
+**Price**:: 1240  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 C
 **Critical**:: staggered  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 2), sunder
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 2), sunder
 
 ## Frost Maul, Iceberg
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 8;
-**Price**:: 8,700  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 B & C;
+**Level**:: 8
+**Price**:: 8700  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d8 B & C
 **Critical**:: staggered  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 2), sunder
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 2), sunder
 
 ## Frost Maul, Floe
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 13;
-**Price**:: 46,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d8 B & C;
+**Level**:: 13
+**Price**:: 46100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d8 B & C
 **Critical**:: staggered  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 2), sunder
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 2), sunder
 
 ## Frost Maul, Glacier
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 17;
-**Price**:: 224,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 B & C;
+**Level**:: 17
+**Price**:: 224000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d8 B & C
 **Critical**:: staggered  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2), sunder
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2), sunder

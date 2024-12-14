@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: necromancy 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Ray of Exhaustion

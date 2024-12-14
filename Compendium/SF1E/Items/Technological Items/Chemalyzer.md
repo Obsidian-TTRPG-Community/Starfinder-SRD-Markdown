@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 150
 tags: 
 Type: Technological Item
@@ -9,14 +9,15 @@ Type: Technological Item
 # Chemalyzer
 
 Type: Technological Item
-Level:  
+
 price: 
 ---
 **Source**:: _Starfinder Armory pg. 100_  
-**Level** 1;
+**Level**:: 1
 **Price**::  150  
-**Capacity**:: 20; **Usage** 2/use  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 2/use  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

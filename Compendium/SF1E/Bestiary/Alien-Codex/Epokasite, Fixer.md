@@ -3,11 +3,11 @@ aliases:
 cr: 3
 Environment: any land
 hp: 28
-modifier: 2
+Initmod: 2
 name: Epokasite, Fixer
 statblock: true
 tags: 
-Type: NG Tiny fey  
+Type: NG Tiny fey
 ---
 
 # Epokasite, Fixer
@@ -22,7 +22,7 @@ An epokasite most often imprints on the culture and time period in which they ca
 
 The most tragic and contentious of all epokasites are those who embody eras now lost to the Gap. These distraught individuals rarely maintain more than a memento or faint memory from that lost time, and they strive to piece together whatever they can, sometimes teaming up with Starfinders and other scholars.
 
-**Source**:: _Alien Archive 4 pg. 36_
+**Source**:  _Alien Archive 4 pg. 36_
 
 ## Fixer Cr 3
 

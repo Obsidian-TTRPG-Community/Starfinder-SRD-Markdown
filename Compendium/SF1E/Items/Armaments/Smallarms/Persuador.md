@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 9
+
 Notetype: Weapon
-price: 13,500
+price: 13500
 tags: 
 type: Smallarm
 ---
@@ -10,11 +10,12 @@ type: Smallarm
 # Persuador
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 9;
-**Price**:: 13,500  
+**Level**:: 9
+**Price**:: 13500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 E & F; **Range**:: 30 ft.;
+**Damage**:: 2d4 E & F; 
+**Range**:: 30 ft.
 **Critical**:: wound  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L

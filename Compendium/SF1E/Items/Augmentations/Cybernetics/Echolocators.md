@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 6 / 9 / 13
+Item:
 price:  
-System: Ears
+
 tags: 
 Type: Cybertech
 ---
@@ -14,19 +14,22 @@ As a swift action, you can fan out these replacement ears to triple their surfac
 ## Echolocators, Active
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 9;
-**Price**::  13,700; **System** Ears  
+**Level**:: 9
+**Price**::  13700 
+**System**:: Ears  
   
 
 ## Echolocators, Reactive
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 6;
-**Price**::  4,450; **System** Ears  
+**Level**:: 6
+**Price**::  4450 
+**System**:: Ears  
   
 
 ## Echolocators, Enhanced
 
 **Source**:: _Starfinder Armory pg. 88_  
-**Item Level** 13;
-**Price**::  50,900; **System** Ears
+**Level**:: 13
+**Price**::  50900 
+**System**:: Ears

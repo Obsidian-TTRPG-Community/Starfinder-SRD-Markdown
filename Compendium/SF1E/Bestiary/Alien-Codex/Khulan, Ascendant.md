@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: any mountains or underground (Akiton)  
+Environment: any mountains or underground (Akiton)
 hp: 175
-modifier: 5
+Initmod: 5
 name: Khulan, Ascendant
 statblock: true
 tags: 
-Type: LN Medium fey (fire, incorporeal)  
+Type: LN Medium fey (fire, incorporeal)
 ---
 
 # Khulan, Ascendant
@@ -22,7 +22,7 @@ Dozens of khulans patrol Akiton’s Hivemarket, a partly subterranean bazaar in 
 
 These Akitonian khulans’ visibility makes them one of the best-studied populations in the galaxy, thus most assume that khulans both are endemic to Akiton and are naturally legless ghost beings. However, Akiton’s molten core has cooled dramatically over the past millions of years, and ancient cave art suggests that the planet’s khulans have grown weaker and more ephemeral as the core’s energy and geomagnetic field dwindle. The art depicts khulans with faint digitigrade legs bearing stout fins for swimming, and rare sightings of khulans on younger planets report similar findings. Popular theories suggest the khulans slowly fade as their homes die, and although Akiton’s khulans are no longer able to protect the dying planet’s core, they strive to at least protect the market and its inhabitants.
 
-**Source**:: _Alien Archive 4 pg. 60_
+**Source**:  _Alien Archive 4 pg. 60_
 
 ## Ascendant Cr 12
 

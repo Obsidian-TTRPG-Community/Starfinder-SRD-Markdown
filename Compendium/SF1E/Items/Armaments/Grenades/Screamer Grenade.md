@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12 / 16
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ When detonated, a screamer grenade releases a piercing shriek of sonic energy.
 **Price**:: 320  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 1d10 So; **Range**:: 20 ft.;
+**Damage**:: 1d10 So; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ When detonated, a screamer grenade releases a piercing shriek of sonic energy.
 ## Screamer Grenade, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 8;
-**Price**:: 1,340  
+**Level**:: 8
+**Price**:: 1340  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 2d10 So; **Range**:: 20 ft.;
+**Damage**:: 2d10 So; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -40,10 +42,11 @@ When detonated, a screamer grenade releases a piercing shriek of sonic energy.
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
 **Level**:: 12
-**Price**:: 5,200  
+**Price**:: 5200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 4d10 So; **Range**:: 20 ft.;
+**Damage**:: 4d10 So; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ When detonated, a screamer grenade releases a piercing shriek of sonic energy.
 ## Screamer Grenade, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 16;
-**Price**:: 20,000  
+**Level**:: 16
+**Price**:: 20000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 7d10 So; **Range**:: 20 ft.;
+**Damage**:: 7d10 So; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

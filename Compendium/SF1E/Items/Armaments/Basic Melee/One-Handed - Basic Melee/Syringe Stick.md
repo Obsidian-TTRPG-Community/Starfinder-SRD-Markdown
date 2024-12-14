@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 5 / 9 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ This weapon is a lightweight, handheld auto-injector device designed to quickly 
 ## Syringe Stick, Hyper-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 9;
-**Price**:: 12,000  
+**Level**:: 9
+**Price**:: 12000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d4 P;
+**Damage**:: 2d4 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Conceal, injection, operative
@@ -31,7 +31,7 @@ This weapon is a lightweight, handheld auto-injector device designed to quickly 
 **Price**:: 125  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d3 P;
+**Damage**:: 1d3 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Conceal, injection, operative
@@ -40,10 +40,10 @@ This weapon is a lightweight, handheld auto-injector device designed to quickly 
 
 **Source**:: _Character Operations Manual pg. 122_  
 **Level**:: 5
-**Price**:: 2,650  
+**Price**:: 2650  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Conceal, injection, operative
@@ -51,11 +51,11 @@ This weapon is a lightweight, handheld auto-injector device designed to quickly 
 ## Syringe Stick, Ultra-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 13;
-**Price**:: 46,000  
+**Level**:: 13
+**Price**:: 46000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 5d4 P;
+**Damage**:: 5d4 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Conceal, injection, operative
@@ -63,11 +63,11 @@ This weapon is a lightweight, handheld auto-injector device designed to quickly 
 ## Syringe Stick, Supreme-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 17;
-**Price**:: 225,000  
+**Level**:: 17
+**Price**:: 225000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 10d4 P;
+**Damage**:: 10d4 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Conceal, injection, operative

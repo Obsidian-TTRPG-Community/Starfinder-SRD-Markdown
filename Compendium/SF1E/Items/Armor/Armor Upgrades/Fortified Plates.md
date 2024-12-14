@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: Heavy, Powered
-ItemLevel: 14 / 15 / 16 / 17 / 19
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -24,41 +24,46 @@ This upgrade can be installed only in heavy or powered armor.
 ## Fortified Plates, Mk 1
 
 **Source**:: _Starfinder Armory pg. 83_  
-**Item Level** 14;
-**Price**::  65,500  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 2  
+**Level**:: 14
+**Price**::  65500  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 2  
   
 
 ## Fortified Plates, Mk 2
 
 **Source**:: _Starfinder Armory pg. 83_  
-**Item Level** 15;
-**Price**::  104,000  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 2  
+**Level**:: 15
+**Price**::  104000  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 2  
   
   
 
 ## Fortified Plates, Mk 3
 
 **Source**:: _Starfinder Armory pg. 83_  
-**Item Level** 16;
-**Price**::  151,000  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 2  
+**Level**:: 16
+**Price**::  151000  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 2  
   
   
 
 ## Fortified Plates, Mk 4
 
 **Source**:: _Starfinder Armory pg. 83_  
-**Item Level** 17;
-**Price**::  262,000  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 2  
+**Level**:: 17
+**Price**::  262000  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 2  
   
   
 
 ## Fortified Plates, Mk 5
 
 **Source**:: _Starfinder Armory pg. 83_  
-**Item Level** 19;
-**Price**::  550,000  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 2
+**Level**:: 19
+**Price**::  550000  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 2

@@ -3,11 +3,23 @@ aliases:
 cr: 7
 Environment: any
 hp: 105
-modifier: 5
+Initmod: 5
 name: Hobgoblin, Hobgoblin Lieutenant
 statblock: true
 tags: 
-Type: LE Medium humanoid (goblinoid)  
+Type: LE Medium humanoid (goblinoid)
+combatType: combatant
+alignment: LE
+size: medium
+type(subtype): humanoid(goblinoid)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - small command(1-2)
+source: Alien Archive 2
 ---
 
 # Hobgoblin, Hobgoblin Lieutenant
@@ -26,7 +38,7 @@ However, other ancient prohibitions remain to this day, though their origins are
 
 A typical hobgoblin is 5 feet tall and weighs 160 pounds.
 
-**Source**:: _Alien Archive 2 pg. 76_
+**Source**:  _Alien Archive 2 pg. 76_
 
 ## Hobgoblin Lieutenant Cr 7
 
@@ -71,3 +83,5 @@ LE Medium humanoid (goblinoid)
 
 The following extra content was found for this creature:  
 \- Hobgoblin Race Entry
+
+

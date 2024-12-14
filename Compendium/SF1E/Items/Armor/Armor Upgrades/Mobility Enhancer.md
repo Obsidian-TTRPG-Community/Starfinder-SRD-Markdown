@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: Heavy
-ItemLevel: 3 / 8
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -21,13 +21,15 @@ This upgrade can be installed only in heavy armor.
 ## Mobility Enhancer, Mk 1
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 3;
-**Price**::  1,500  
-**Slots** 1; **Armor Type** Heavy; **Bulk** —  
+**Level**:: 3
+**Price**::  1500  
+**Slots** 1 **Armor Type** Heavy 
+**Bulk**:: —  
 
 ## Mobility Enhancer, Mk 2
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 8;
-**Price**::  9,500  
-**Slots** 1; **Armor Type** Heavy; **Bulk** —
+**Level**:: 8
+**Price**::  9500  
+**Slots** 1 **Armor Type** Heavy 
+**Bulk**:: —

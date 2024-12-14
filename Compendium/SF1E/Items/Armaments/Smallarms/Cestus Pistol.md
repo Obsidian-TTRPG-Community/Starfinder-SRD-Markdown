@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ This weapon consists of a black leather glove that is mounted with a small, sing
 ## Cestus Pistol, Advanced
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 6;
-**Price**:: 4,170  
+**Level**:: 6
+**Price**:: 4170  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 P; **Range**:: Reach ft.;
+**Damage**:: 1d10 P; 
+**Range**:: Reach ft.
 **Critical**:: Bleed 1d4  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -31,7 +32,8 @@ This weapon consists of a black leather glove that is mounted with a small, sing
 **Price**:: 250  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 P; **Range**:: Reach ft.;
+**Damage**:: 1d4 P; 
+**Range**:: Reach ft.
 **Critical**:: —  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -40,11 +42,12 @@ This weapon consists of a black leather glove that is mounted with a small, sing
 ## Cestus Pistol, Elite
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 11;
-**Price**:: 24,400  
+**Level**:: 11
+**Price**:: 24400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d10 P; **Range**:: Reach ft.;
+**Damage**:: 2d10 P; 
+**Range**:: Reach ft.
 **Critical**:: Bleed 1d6  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -53,11 +56,12 @@ This weapon consists of a black leather glove that is mounted with a small, sing
 ## Cestus Pistol, Paragon
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 16;
-**Price**:: 162,000  
+**Level**:: 16
+**Price**:: 162000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d10 P; **Range**:: Reach ft.;
+**Damage**:: 4d10 P; 
+**Range**:: Reach ft.
 **Critical**:: Bleed 1d8  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —

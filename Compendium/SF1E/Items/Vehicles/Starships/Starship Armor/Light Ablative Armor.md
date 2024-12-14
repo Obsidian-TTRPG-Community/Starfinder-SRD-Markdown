@@ -11,25 +11,35 @@ tags:
 
 ## Light Ablative Armor Mk 1
 
-**AC Bonus** —; **BP Cost** 8; **Temp HP** 52;
+**AC-Bonus**:: —
+**BPCost**:: 8
+**TempHP**:: 52;
 **Special**:: –1 TL
 
 ## Light Ablative Armor Mk 2
 
-**AC Bonus** —; **BP Cost** 10; **Temp HP** 64;
+**AC-Bonus**:: —
+**BPCost**:: 10
+**TempHP**:: 64;
 **Special**:: –1 TL
 
 ## Light Ablative Armor Mk 3
 
-**AC Bonus** —; **BP Cost** 12; **Temp HP** 76;
+**AC-Bonus**:: —
+**BPCost**:: 12
+**TempHP**:: 76;
 **Special**:: –1 TL
 
 ## Light Ablative Armor Mk 4
 
-**AC Bonus** —; **BP Cost** 13; **Temp HP** 88;
+**AC-Bonus**:: —
+**BPCost**:: 13
+**TempHP**:: 88;
 **Special**:: –1 TL
 
 ## Light Ablative Armor Mk 5
 
-**AC Bonus** —; **BP Cost** 14; **Temp HP** 100;
+**AC-Bonus**:: —
+**BPCost**:: 14
+**TempHP**:: 100;
 **Special**:: –1 TL

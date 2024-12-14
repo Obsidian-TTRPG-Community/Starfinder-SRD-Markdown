@@ -5,7 +5,7 @@ tags:
 
 # Bonus & Penalties
 
-Throughout the course of her adventures, a character often comes under the effects of conditions, circumstances, magic, technology, or other factors that provide her with bonuses or penalties to certain game statistics, such as her [[Armor]] Class (AC), attack rolls, or [[Saving Throws]]. The situations that can grant bonuses or impose penalties in Starfinder are practically limitless, but bonuses and penalties all function using the rules described in this section.
+Throughout the course of her adventures, a character often comes under the effects of conditions, circumstances, magic, technology, or other factors that provide her with bonuses or penalties to certain game statistics, such as her [[Armor]] Class (AC), attack rolls, or [[Combat Mechanics#Saving Throws|Saving Throws]]. The situations that can grant bonuses or impose penalties in Starfinder are practically limitless, but bonuses and penalties all function using the rules described in this section.
 
 While it’s always a good idea to keep track of all bonuses and penalties affecting your character at any given time, such tracking is particularly important during combat. After all, that +1 morale bonus to attack rolls from the [[Envoy]]’s get ’em improvisation might mean the difference between either landing the blow that fells a security robot or allowing it to remain standing (and subsequently take out a wounded ally). GMs should take care to note all bonuses and penalties that are in effect during combat, but ultimately, it’s usually up to the player to track the bonuses and penalties affecting her character at any given time so that she has an accurate handle on how she performs in combat.
 
@@ -17,7 +17,7 @@ The term “bonus” in Starfinder can refer to a benefit you receive outside th
 
 When multiple bonuses apply to the same value, different types of bonuses all apply, but in most cases bonuses of the same type do not add together (or “stack” with each other), unless a source specifies otherwise. (For an exception, see Circumstance Bonus below.) Bonuses that do not list a bonus type do stack, both with each other and with all typed bonuses. Such bonuses, often referred to as “untyped” bonuses, are among the most utilitarian of all bonuses in the game.
 
-For example, Keskodai has a +2 morale bonus to his [[Saving Throws]], because an angelic being is protecting him with aura of mettle, one of its [[Special Abilities]]. While benefiting from the aura, Keskodai casts the _[[Death Ward]]_ spell on himself. As a result, when attempting a saving throw against death spells and death effects, he can add the +4 morale bonus granted by his [[Death Ward]] spell, but he cannot also add the morale bonus from the angelic being’s aura of mettle. Only the higher of the two bonuses applies, because they are both morale bonuses and therefore do not stack with each other. While benefiting from the angelic being’s aura of mettle ability, though, Keskodai still gains the +2 morale bonus to [[Saving Throws]] other than those against death spells and death effects, because such [[Saving Throws]] are not affected by the _[[Death Ward]]_ spell.
+For example, Keskodai has a +2 morale bonus to his [[Combat Mechanics#Saving Throws|Saving Throws]], because an angelic being is protecting him with aura of mettle, one of its [[Special Abilities]]. While benefiting from the aura, Keskodai casts the _[[Death Ward]]_ spell on himself. As a result, when attempting a saving throw against death spells and death effects, he can add the +4 morale bonus granted by his [[Death Ward]] spell, but he cannot also add the morale bonus from the angelic being’s aura of mettle. Only the higher of the two bonuses applies, because they are both morale bonuses and therefore do not stack with each other. While benefiting from the angelic being’s aura of mettle ability, though, Keskodai still gains the +2 morale bonus to [[Combat Mechanics#Saving Throws|Saving Throws]] other than those against death spells and death effects, because such [[Combat Mechanics#Saving Throws|Saving Throws]] are not affected by the _[[Death Ward]]_ spell.
 
 The following describe the most common forms of bonuses, what they represent, and the kinds of things to which they apply.
 
@@ -31,7 +31,7 @@ An [[Armor]] bonus represents a protective barrier that makes attacks less likel
 
 ## Base Bonus
 
-Characters receive base bonuses to attacks and [[Saving Throws]] from their class levels. Your base attack bonus is added to all your attack rolls and is determined by your class and level. A higher number means you’re better at combat. Similarly, the three categories of base saving throw bonuses, also determined by your class and level, are added to [[Saving Throws]] you attempt against various effects (as indicated by each effect that calls for a saving throw).
+Characters receive base bonuses to attacks and [[Combat Mechanics#Saving Throws|Saving Throws]] from their class levels. Your base attack bonus is added to all your attack rolls and is determined by your class and level. A higher number means you’re better at combat. Similarly, the three categories of base saving throw bonuses, also determined by your class and level, are added to [[Combat Mechanics#Saving Throws|Saving Throws]] you attempt against various effects (as indicated by each effect that calls for a saving throw).
 
 You receive the base bonuses listed for your level in a class on the class’s level progression chart. For example, if you are a 5th-level [[Soldier]], you have a base attack bonus of +5, a base Fortitude save bonus of +4, a base Reflex save bonus of +1, and a base Will save bonus of +4 (see page 111). If you take levels in more than one class (known as multiclassing), your base bonuses from different [[Classes]] stack with each other. Add together the base bonuses from each of your [[Classes]] to determine your base values. For example, if you have 5 levels of [[Soldier]] and 1 level of [[Operative]], you have a base attack bonus of +5, a base Fortitude save bonus of +4, a base Reflex save bonus of +3, and a base Will save bonus of +6.
 
@@ -43,7 +43,7 @@ For example, you might use a firecracker as part of a Bluff check to create a di
 
 ## Divine Bonus
 
-A divine bonus stems from the power of a deity or another [[Potent]] supernatural creature, such as a demon lord. These bonuses are most commonly granted by spells and [[Atlas Magic Items]], though priests of deities can sometimes access them through different [[Special Abilities]] they can use.
+A divine bonus stems from the power of a deity or another [[Potent]] supernatural creature, such as a demon lord. These bonuses are most commonly granted by spells and [[Magic Items]], though priests of deities can sometimes access them through different [[Special Abilities]] they can use.
 
 ## Enhancement Bonus
 

@@ -3,11 +3,24 @@ aliases:
 cr: 15
 Environment: any
 hp: 330
-modifier: 7
+Initmod: 7
 name: Robot, Siege Robot
 statblock: true
 tags: 
-Type: N Huge construct (technological) 
+Type: N Huge construct (technological)
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): construct(technological)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - battery(3-8)
+source: Alien Archive 2
 ---
 
 # Robot, Siege Robot
@@ -24,7 +37,7 @@ There is nothing subtle, however, about a siege robot. These machines serve as a
 
 A siege robot can be used as a vehicle in vehicle combat or vehicle chases. In such cases it acts as its own pilot and has the following additional statistics: item level equal to its CR; drive speed 60 ft., full speed 500 ft., overland speed 60 mph, (hover); hardness 8; collision damage 16d10 B (DC 19); –3 attack roll penalty (–6 at full speed). A siege robot acting as a vehicle can carry up to 4 Medium passengers but provides them no cover.
 
-**Source**:: _Alien Archive 2 pg. 108_
+**Source**:  _Alien Archive 2 pg. 108_
 
 ## Siege Robot Cr 15
 
@@ -71,3 +84,5 @@ N Huge construct (technological)
 **Limited Flight (Ex)** A siege robot’s thruster-based flight works in a vacuum, but in gravity, it can fly a maximum of 10 feet above the ground.
 
 **Nanite Repair (Ex)** A siege robot’s nanites heal it, restoring a number of Hit Points per hour equal to its CR. Once per day as a full action, the robot can regain 10d8 Hit Points.
+
+

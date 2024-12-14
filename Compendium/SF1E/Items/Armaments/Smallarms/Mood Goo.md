@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 4
+
 Notetype: Weapon
-price: 2,500
+price: 2500
 tags: 
 type: Smallarm
 ---
@@ -13,14 +13,14 @@ type: Smallarm
 
 **Source**:: _Drift Crisis pg. 51_  
 **Level**:: 4
-**Price**:: 2,500  
+**Price**:: 2500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 30 ft.;
+**Damage**:: — 
+**Range**:: 30 ft.
 **Critical**:: Knockdown  
 **Capacity**:: 10 mood goo ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Analog, line, unwieldy
+**Bulk**:: 1**Special**:: Analog, line, unwieldy
 
 ### Description
 

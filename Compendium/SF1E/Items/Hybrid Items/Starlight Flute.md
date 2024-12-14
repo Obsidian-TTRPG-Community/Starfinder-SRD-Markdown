@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 3 
-price: 1,400
+
+price: 1400
 tags: 
 Type: Hybrid Item
 ---
@@ -10,7 +10,8 @@ Type: Hybrid Item
 
 **Source**:: _Interstellar Species pg. 91_  
 **Level**:: 3
-**Price**::  1,400; **Bulk** L
+**Price**::  1400 
+**Bulk**:: L
 
 ### Description
 

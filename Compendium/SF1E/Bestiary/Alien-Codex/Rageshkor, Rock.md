@@ -3,11 +3,11 @@ aliases:
 cr: 12
 Environment: aany deserts or mountains  ny
 hp: 200
-modifier: 4
+Initmod: 4
 name: Rageshkor, Rock
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
 ---
 
 # Rageshkor, Rock
@@ -20,7 +20,7 @@ The smaller green rageshkors are the most prolific species, still prevalent in V
 
 The might and ferocity of green rageshkors pale in comparison to those of their larger kin, rock rageshkors. These rare animals are typically solitary, and during less prosperous times, rock rageshkors hunker down into a form of hibernation. Combined with their camouflaged bodies and the accumulation of windblown debris, these animals often fade into the landscape, snapping to vicious alertness only to ambush prey that mistakes it for a boulder.
 
-**Source**:: _Alien Archive 4 pg. 96_
+**Source**:  _Alien Archive 4 pg. 96_
 
 ## Rock Cr 12
 

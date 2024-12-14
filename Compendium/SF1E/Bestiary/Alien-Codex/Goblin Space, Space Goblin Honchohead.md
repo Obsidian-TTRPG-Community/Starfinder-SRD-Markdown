@@ -3,11 +3,24 @@ aliases:
 cr: 2
 Environment: any
 hp: 24
-modifier: 4
+Initmod: 4
 name: Goblin (Space), Space Goblin Honchohead
 statblock: true
 tags: 
-Type: NE Small humanoid (goblinoid)  
+Type: NE Small humanoid (goblinoid)
+combatType: expert
+alignment: NE
+size: small
+type(subtype): humanoid(goblinoid)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - gang(2-12)
+  - tribe(1) + Space Goblin Zaperator(13+) noncombatants(13+) + alien pets(5-6)
+source: Alien Archive
 ---
 
 # Goblin (SPACE), Space Goblin Honchohead
@@ -25,7 +38,7 @@ Goblins’ instinctive hatred and fear of dogs and horses has also adapted over 
 The physical differences between space goblins and their cousins from Golarion (none of which have been seen for centuries) are slight. Space goblins tend to be a few inches taller, and their eyes are a deeper shade of red. A typical space goblin is about 3-1/2 feet tall and weighs about 35 pounds—most of that weight is in the head.
 
 
-**Source**:: _Alien Archive pg. 54_
+**Source**:  _Alien Archive pg. 54_
 
 ## Space Goblin Honchohead Cr 2
 
@@ -57,3 +70,5 @@ NE Small humanoid (goblinoid)
 
 **Environment** any  
 **Organization** tribe (1 plus 13+ zaperators, 13+ noncombatants, and 5–6 alien pets)
+
+

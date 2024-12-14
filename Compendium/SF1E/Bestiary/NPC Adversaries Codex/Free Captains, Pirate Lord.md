@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 110
-modifier: 8
+Initmod: 8
 Monster Type: NPC
 name: Free Captains, Pirate Lord
 statblock: true
 tags: 
-Type: Bestiary NPC 
+type: Bestiary NPC
 ---
 
 # Free Captains, Pirate Lord

@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 10 / 13
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -17,25 +17,25 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Missile, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 13;
-**Price**:: 14,600  
+**Level**:: 13
+**Price**:: 14600  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: 13d8 b & f
 
 ## Missile, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 10;
-**Price**:: 5,700  
+**Level**:: 10
+**Price**:: 5700  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: explode (6d8 B & P; 30 ft.)

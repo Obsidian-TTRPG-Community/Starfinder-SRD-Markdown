@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 17 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -15,8 +15,9 @@ Bioengineered to grow specific chemicals and cellular structures, even those tha
 ## Vital Seed, Regrower
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 17;
-**Price**::  40,000; **Bulk** —
+**Level**:: 17
+**Price**::  40000 
+**Bulk**:: —
 
 ### Description
 
@@ -27,8 +28,9 @@ As a standard action, you can swallow a _regrower vital seed_. This allows you 
 ## Vital Seed, Beast
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 4;
-**Price**::  650; **Bulk** —
+**Level**:: 4
+**Price**::  650 
+**Bulk**:: —
 
 ### Description
 
@@ -37,8 +39,9 @@ As a standard action, you can squeeze a _beast vital seed_ and place it on the
 ## Vital Seed, Zeolite
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 10;
-**Price**::  5,000; **Bulk** —
+**Level**:: 10
+**Price**::  5000 
+**Bulk**:: —
 
 ### Description
 

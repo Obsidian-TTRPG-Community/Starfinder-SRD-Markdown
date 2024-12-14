@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5
+
 price: 475
 tags: 
 Type: Magic Item
@@ -13,8 +13,9 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Pact World Serum, Aballon Spark
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -25,8 +26,9 @@ This cool, sparkling fluid grants you a +2 insight bonus to Computers checks, an
 ## Pact World Serum, Absalom Affable
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -35,8 +37,9 @@ When you imbibe this clear, syrupy fluid, you gain a +2 insight bonus to Diploma
 ## Pact World Serum, Akiton Rustrider
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -45,18 +48,20 @@ Upon consumption, this bitter, rust-red fluid grants you a +2 insight bonus to A
 ## Pact World Serum, Bretheda Effervescent
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
-When you drink this sweet, bubbling, yellow fluid, you find your memory expanded; you gain a +2 insight bonus to recall knowledge with the Culture, Life Science, Mysticism, Physical Science, and Profession skills and can attempt checks to recall knowledge untrained with these skills.
+When you drink this sweet, bubbling, yellow fluid, you find your memory expanded you gain a +2 insight bonus to recall knowledge with the Culture, Life Science, Mysticism, Physical Science, and Profession skills and can attempt checks to recall knowledge untrained with these skills.
 
 ## Pact World Serum, Castrovel Effloresce
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -65,8 +70,9 @@ This green, floral-smelling concoction grants you a +2 insight bonus to Life Sci
 ## Pact World Serum, Diaspora Daredevil
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -75,8 +81,9 @@ Popular with pilots throughout the Pact Worlds, this serum is bright orange with
 ## Pact World Serum, Eox Deliquesce
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -85,8 +92,9 @@ Eppro Enterprises doesn’t include this serum in its public catalogs, but the s
 ## Pact World Serum, Idari Gold
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -95,8 +103,9 @@ Imbibing this translucent, golden fluid grants physical and mental grace. You ga
 ## Pact World Serum, Triaxus Dragonsight
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 
@@ -105,8 +114,9 @@ This warm, fiery-red fluid grants you a +2 insight bonus to Perception checks, a
 ## Pact World Serum, Verces Gleam
 
 **Source**:: _Pact Worlds pg. 201_  
-**Level** 5;
-**Price**::  475; **Bulk** —
+**Level**:: 5
+**Price**::  475 
+**Bulk**:: —
 
 ### Description
 

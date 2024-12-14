@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 11 / 15 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Convergent Laser, Multiwave
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 11;
-**Price**:: 24,500  
-**Hands**:: 2;
+**Level**:: 11
+**Price**:: 24500  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d10 F; **Range**:: 120 ft.;
+**Damage**:: 4d10 F 
+**Range**:: 120 ft.
 **Critical**:: burn 3d6  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy
 
 ## Convergent Laser, Single-wave
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 4
-**Price**:: 2,100  
-**Hands**:: 2;
+**Price**:: 2100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d12 F; **Range**:: 100 ft.;
+**Damage**:: 1d12 F 
+**Range**:: 100 ft.
 **Critical**:: burn 1d6  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy
 
 ## Convergent Laser, Wide-spectrum
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 15;
-**Price**:: 118,000  
-**Hands**:: 2;
+**Level**:: 15
+**Price**:: 118000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d10 F; **Range**:: 120 ft.;
+**Damage**:: 7d10 F 
+**Range**:: 120 ft.
 **Critical**:: burn 4d6  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: unwieldy

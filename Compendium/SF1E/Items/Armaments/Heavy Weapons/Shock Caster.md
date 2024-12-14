@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,59 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Shock Caster, Aurora
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 10;
-**Price**:: 19,100  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 19100  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d12 E; **Range**:: 40 ft.;
+**Damage**:: 2d12 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 4  
+**Bulk**:: 2
 **Special**:: explode (15 ft.), unwieldy
 
 ## Shock Caster, Static
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 6;
-**Price**:: 4,620  
-**Hands**:: 2;
+**Level**:: 6
+**Price**:: 4620  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d12 E; **Range**:: 40 ft.;
+**Damage**:: 1d12 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: explode (10 ft.), unwieldy
 
 ## Shock Caster, Storm
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 16;
-**Price**:: 164,800  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 164800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d12 E; **Range**:: 40 ft.;
+**Damage**:: 5d12 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: explode (20 ft.), unwieldy
 
 ## Shock Caster, Tempest
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 20;
-**Price**:: 735,000  
-**Hands**:: 2;
+**Level**:: 20
+**Price**:: 735000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 7d12 E; **Range**:: 40 ft.;
+**Damage**:: 7d12 E 
+**Range**:: 40 ft.
 **Critical**:: —  
-**Capacity**:: 100 charges; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 100 charges 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: explode (20 ft.), unwieldy

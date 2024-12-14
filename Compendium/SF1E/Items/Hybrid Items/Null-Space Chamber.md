@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13 / 17  
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -17,8 +17,9 @@ A readout on a _null-space chamber_ automatically catalogs all items within it
 ## Null-space Chamber, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 5;
-**Price**::  3,050; **Bulk** L
+**Level**:: 5
+**Price**::  3050 
+**Bulk**:: L
 
 ### Description
 
@@ -29,8 +30,9 @@ You can close up to 25 bulk in this device’s pocket space, a 3-foot cube. It c
 ## Null-space Chamber, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 9;
-**Price**::  12,250; **Bulk** L
+**Level**:: 9
+**Price**::  12250 
+**Bulk**:: L
 
 ### Description
 
@@ -39,8 +41,9 @@ You can close up to 50 bulk in this device’s pocket space, a 6-foot cube. It c
 ## Null-space Chamber, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 13;
-**Price**::  50,000; **Bulk** L
+**Level**:: 13
+**Price**::  50000 
+**Bulk**:: L
 
 ### Description
 
@@ -49,8 +52,9 @@ You can close up to 100 bulk in this device’s pocket space, a 9-foot cube. It 
 ## Null-space Chamber, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 226_  
-**Level** 17;
-**Price**::  250,000; **Bulk** L
+**Level**:: 17
+**Price**::  250000 
+**Bulk**:: L
 
 ### Description
 

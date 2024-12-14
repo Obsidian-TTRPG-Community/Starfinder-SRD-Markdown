@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 5 / 12 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,45 +20,37 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 1
 **Price**:: 225  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 F;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 F
 **Critical**:: burn 1d4  
-**Bulk**:: 1;
-**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy
+**Bulk**:: 1**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy
 
 ## Flame Spinner, Immolation
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 5
-**Price**:: 2,860  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 F;
+**Price**:: 2860  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 F
 **Critical**:: burn 1d6  
-**Bulk**:: 1;
-**Special**:: analog, free hands (2), fueled (capacity 20; usage 2), unwieldy
+**Bulk**:: 1**Special**:: analog, free hands (2), fueled (capacity 20; usage 2), unwieldy
 
 ## Flame Spinner, Supernova
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 12
-**Price**:: 33,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d10 F;
+**Price**:: 33900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d10 F
 **Critical**:: burn 2d6  
-**Bulk**:: 1;
-**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy
+**Bulk**:: 1**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy
 
 ## Flame Spinner, Fission
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 20;
-**Price**:: 802,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d12 F;
+**Level**:: 20
+**Price**:: 802000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d12 F
 **Critical**:: burn 5d6  
-**Bulk**:: 1;
-**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy
+**Bulk**:: 1**Special**:: analog, free hands (2), fueled (capacity 20; usage 1), unwieldy

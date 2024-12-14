@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,10 +19,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 14
-**Price**:: 80,000  
+**Price**:: 80000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d4 E; **Range**:: 30 ft.;
+**Damage**:: 5d4 E; 
+**Range**:: 30 ft.
 **Critical**:: arc 3d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Ionizer, Cupric
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 6;
-**Price**:: 4,650  
+**Level**:: 6
+**Price**:: 4650  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 E; **Range**:: 30 ft.;
+**Damage**:: 2d4 E; 
+**Range**:: 30 ft.
 **Critical**:: arc 1d6  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Ionizer, Feric
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 10;
-**Price**:: 20,100  
+**Level**:: 10
+**Price**:: 20100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 E; **Range**:: 30 ft.;
+**Damage**:: 4d4 E; 
+**Range**:: 30 ft.
 **Critical**:: arc 2d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -57,11 +60,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Ionizer, Stannic
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 19;
-**Price**:: 611,000  
+**Level**:: 19
+**Price**:: 611000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d8 E; **Range**:: 30 ft.;
+**Damage**:: 5d8 E; 
+**Range**:: 30 ft.
 **Critical**:: arc 5d8  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L

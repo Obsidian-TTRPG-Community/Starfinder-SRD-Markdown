@@ -1,13 +1,23 @@
 ---
 aliases: 
 cr: 7
-Environment: any sky (Bretheda)  
+Environment: any sky (Bretheda)
 hp: 102
-modifier: 5
+Initmod: 5
 name: Haan, Haan Combat Pilot
 statblock: true
 tags: 
-Type: CN Large monstrous humanoid  
+Type: CN Large monstrous humanoid
+combatType: expert
+alignment: CN
+size: large
+type(subtype): monstrous humanoid(-)
+environment: sky
+climate: any
+planet: Bretheda
+organization:
+  - solitary
+source: Alien Archive
 ---
 
 # Haan, Haan Combat Pilot
@@ -18,7 +28,7 @@ Though haans are intelligent, their society is highly traditional and forbids al
 
 The average haan is 8 feet long and weighs 180 pounds. Their chitin tends toward a pinkish purple, and they have barbed limbs and spiky pedipalps, which stretch wide on either side of their faces. Though the mottled colors on their shells can be quite beautiful, haan vanity is focused almost exclusively on the large, hairlike spikes extending from the tips of their abdomen. Haans never cover these unless they absolutely have to, and they frequently carve, cut, and decorate them with the same care humans reserve for head hair. Indeed, even traditionalist haans on Bretheda often sneak onto mining settlements in search of offworlder barbers and other artisans offering “file and style” services to help them establish unique and identifiable looks.
 
-**Source**:: _Alien Archive pg. 58_
+**Source**:  _Alien Archive pg. 58_
 
 ## Haan Combat Pilot Cr 7
 
@@ -65,3 +75,5 @@ CN Large monstrous humanoid
 
 The following extra content was found for this creature:  
 \- Haan Race Entry
+
+

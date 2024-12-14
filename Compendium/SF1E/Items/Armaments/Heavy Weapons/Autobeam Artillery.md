@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 10 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Autobeam Artillery, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 16;
-**Price**:: 145,700  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 145700  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d8 F; **Range**:: 120 ft.;
+**Damage**:: 4d8 F 
+**Range**:: 120 ft.
 **Critical**:: burn 2d8  
-**Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic
 
 ## Autobeam Artillery, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 10;
-**Price**:: 19,400  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 19400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 F; **Range**:: 120 ft.;
+**Damage**:: 2d8 F 
+**Range**:: 120 ft.
 **Critical**:: burn 1d8  
-**Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic
 
 ## Autobeam Artillery, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 177_  
-**Level**:: 19;
-**Price**:: 543,300  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 543300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d8 F; **Range**:: 120 ft.;
+**Damage**:: 6d8 F 
+**Range**:: 120 ft.
 **Critical**:: burn 2d10  
-**Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 1  
+**Bulk**:: 2
 **Special**:: automatic

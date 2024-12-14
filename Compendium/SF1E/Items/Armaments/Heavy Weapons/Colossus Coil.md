@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 9 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,59 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Colossus Coil, Brush
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 9;
-**Price**:: 13,800  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 13800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d8 E; **Range**:: 100 ft.;
+**Damage**:: 3d8 E 
+**Range**:: 100 ft.
 **Critical**:: arc 2d6  
-**Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: boost 1d8
 
 ## Colossus Coil, Corona
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 3;
-**Price**:: 1,450  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1450  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 E; **Range**:: 80 ft.;
+**Damage**:: 1d8 E 
+**Range**:: 80 ft.
 **Critical**:: arc 1d6  
-**Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 4  
+**Bulk**:: 3
 **Special**:: boost 1d8
 
 ## Colossus Coil, Streamer Arc
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 14
-**Price**:: 76,400  
-**Hands**:: 2;
+**Price**:: 76400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d8 E; **Range**:: 100 ft.;
+**Damage**:: 5d8 E 
+**Range**:: 100 ft.
 **Critical**:: arc 3d6  
-**Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 3;
+**Capacity**:: 40 charges 
+**Usage** 8  
+**Bulk**:: 3
 **Special**:: boost 2d8
 
 ## Colossus Coil, Multistream
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 19;
-**Price**:: 888,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 888000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 10d8 E; **Range**:: 120 ft.;
+**Damage**:: 10d8 E 
+**Range**:: 120 ft.
 **Critical**:: arc 4d6  
-**Capacity**:: 80 charges; **Usage** 10  
-**Bulk**:: 3;
+**Capacity**:: 80 charges 
+**Usage** 10  
+**Bulk**:: 3
 **Special**:: boost 3d8

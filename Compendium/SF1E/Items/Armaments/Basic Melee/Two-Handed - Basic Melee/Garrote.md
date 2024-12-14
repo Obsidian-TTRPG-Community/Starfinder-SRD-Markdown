@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,9 @@ A pair of slim handles connected by flexible cable made of a strong alloy, the g
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 12
-**Price**:: 34,800  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 4d4 S;
+**Price**:: 34800  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 4d4 S
 **Critical**:: bleed 1d6  
 **Bulk**:: L
 **Special**:: analog, conceal, grapple, operative, throttle
@@ -27,11 +26,10 @@ A pair of slim handles connected by flexible cable made of a strong alloy, the g
 ## Garrote, Wire
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 900  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d2 S;
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d2 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, grapple, operative, throttle
@@ -39,11 +37,10 @@ A pair of slim handles connected by flexible cable made of a strong alloy, the g
 ## Garrote, Nanofiber
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 7;
-**Price**:: 6,700  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 2d4 S;
+**Level**:: 7
+**Price**:: 6700  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 2d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, conceal, grapple, operative, throttle
@@ -51,11 +48,10 @@ A pair of slim handles connected by flexible cable made of a strong alloy, the g
 ## Garrote, Monowire
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 17;
-**Price**:: 225,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 5d8 S;
+**Level**:: 17
+**Price**:: 225000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 5d8 S
 **Critical**:: bleed 2d6  
 **Bulk**:: L
 **Special**:: analog, conceal, grapple, operative, throttle

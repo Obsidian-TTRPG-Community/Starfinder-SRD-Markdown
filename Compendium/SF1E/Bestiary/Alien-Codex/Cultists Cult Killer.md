@@ -3,11 +3,21 @@ aliases:
 cr: 6
 Environment: any
 hp: 90
-modifier: 3
+Initmod: 3
 name: Cultists, Cult Killer
 statblock: true
 tags: 
-Type: CE Medium humanoid (lashunta)  
+Type: CE Medium humanoid (lashunta)
+combatType: combatant
+alignment: CE
+size: medium
+type(subtype): humanoid(lashunta)
+environment: any
+climate: any
+planet:
+  - 
+organization: any
+source: PW
 ---
 
 # Cultists, Cult Killer
@@ -15,7 +25,7 @@ Type: CE Medium humanoid (lashunta)
 Cultists follow a fringe religion, often one deemed dangerous or even illegal by the surrounding society. The most common and dangerous cults in the Pact Worlds are those devoted to evil deities such as Lao Shu Po, Nyarlathotep, Urgathoa, and Zon-Kuthon. However, many other cults exist, worshiping such diverse entities as archdevils (especially Asmodeus), demon lords (especially Lamashtu), the Devourer, and alien Outer Gods.  
 Regardless of the object of their worship, cultists must operate in the shadowy parts of society where their unwanted or illegal activities can go unnoticed. They lurk in frontier areas without strong authorities, such as the Diaspora or Fullbright on Verces, or behind innocent-seeming fronts within settlements or on space stations. Many stalk the poorer districts of Absalom Station, hiding within the multitudinous population and taking advantage of disaffected citizens. A particular large and brazen cult might be more blatant about its activities, though the members still hide themselves away behind fortified walls and laser turrets when the authorities wish to speak to them.
 
-**Source**:: _Pact Worlds pg. 168_
+**Source**:  _Pact Worlds pg. 168_
 
 ## Cult Killer Cr 6
 
@@ -54,3 +64,5 @@ At will—_daze_ (DC 12), _psychokinetic hand_
 
 Cult killers obsess over how they can use death to further the interests of their grim deities. Many see their mystical training as being connected to the dark teachings of their patron deity, but some simply enjoy having an excuse to use their abilities to their full, lethal potential. In serving a cult, a cult killer tracks down and slays the cult's enemies, hopefully before those foes can interfere with the cult's actions. Cult killers also guard unhallowed sites against intruders and have the honor of killing sacrificial victims. A cult killer's solar weapon generally resembles a weapon the cult's deity favors, such as a scythe in the case of Urgathoa.  
 **Adaptation:** A cult killer can be part of a wall breaker choir devoted to the Devourer, traveling around the fringes of the Pact Worlds.
+
+

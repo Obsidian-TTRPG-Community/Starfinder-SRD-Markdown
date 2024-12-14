@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 9
-price: 13,500
+
+price: 13500
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Telekinetic Gloves
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 9;
-**Price**::  13,500; **Bulk** L
+**Level**:: 9
+**Price**::  13500 
+**Bulk**:: L
 
 ### Description
 

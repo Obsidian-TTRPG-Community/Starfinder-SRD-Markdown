@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 80
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Physician
-statblock: true
-Subtype: Medical Staff
+statblock: true(Medical Staff
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Physician

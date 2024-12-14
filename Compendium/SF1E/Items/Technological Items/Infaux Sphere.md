@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 12 / 16 
+
 price:  
 tags: 
 Type: Technological Item
@@ -15,10 +15,11 @@ To function properly, an infaux sphere must be activated and remain immobile for
 ## Infaux Sphere, Advanced
 
 **Source**:: _Tech Revolution pg. 48_  
-**Level** 12;
+**Level**:: 12
 **Price**::  32500  
-**Capacity**:: 80; **Usage** 4/hour  
-**Hands** —; **Bulk** 2
+**Capacity**:: 80 **Usage** 4/hour  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 
@@ -29,10 +30,11 @@ This infaux sphere affects a 750-foot radius and automatically deceives computer
 ## Infaux Sphere, Basic
 
 **Source**:: _Tech Revolution pg. 48_  
-**Level** 8;
+**Level**:: 8
 **Price**::  8500  
-**Capacity**:: 80; **Usage** 4/hour  
-**Hands** —; **Bulk** 2
+**Capacity**:: 80 **Usage** 4/hour  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 
@@ -41,10 +43,11 @@ This infaux sphere affects a 500-foot radius and automatically deceives computer
 ## Infaux Sphere, Elite
 
 **Source**:: _Tech Revolution pg. 48_  
-**Level** 16;
+**Level**:: 16
 **Price**::  148000  
-**Capacity**:: 100; **Usage** 4/hour  
-**Hands** —; **Bulk** 2
+**Capacity**:: 100 **Usage** 4/hour  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 

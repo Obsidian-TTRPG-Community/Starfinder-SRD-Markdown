@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: Heavy, Powered
-ItemLevel: 7 / 11 / 13
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -16,24 +16,27 @@ This armor upgrade became popular for adventurers who needed to traverse the Pla
 ## Burrowing Arms, Mk 1
 
 **Source**:: _Drift Crisis pg. 53_  
-**Item Level** 7;
-**Price**::  7,350  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 1  
+**Level**:: 7
+**Price**::  7350  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 1  
 5-foot burrow speed  
 
 ## Burrowing Arms, Mk 2
 
 **Source**:: _Drift Crisis pg. 53_  
-**Item Level** 11;
-**Price**::  25,000  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 1  
+**Level**:: 11
+**Price**::  25000  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 1  
 10-foot burrow speed  
   
 
 ## Burrowing Arms, Mk 3
 
 **Source**:: _Drift Crisis pg. 53_  
-**Item Level** 13;
-**Price**::  51,500  
-**Slots** 1; **Armor Type** Heavy, Powered; **Bulk** 1  
-15-foot burrow speed; you can burrow through solid rock at a speed of 5 feet
+**Level**:: 13
+**Price**::  51500  
+**Slots** 1 **Armor Type** Heavy, Powered 
+**Bulk**:: 1  
+15-foot burrow speed you can burrow through solid rock at a speed of 5 feet

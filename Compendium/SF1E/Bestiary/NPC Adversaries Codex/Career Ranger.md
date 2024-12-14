@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 35
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Career Ranger
-statblock: true
-Subtype: Survivalist
+statblock: true(Survivalist
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Career Ranger

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any (Koshoria)  
+Environment: any (Koshoria)
 hp: 17
-modifier: 1
+Initmod: 1
 name: Dessamar, Dessamar Imago
 statblock: true
 tags: 
-Type: CG Medium humanoid (dessamar)  
+Type: CG Medium humanoid (dessamar)
 ---
 
 # Dessamar, Dessamar Imago
@@ -22,7 +22,7 @@ Dessamars have a secret, however. The magical violet auras of Koshoria have vary
 
 A typical dessamar adult is around 5 feet tall and weighs only 60 pounds. A developed instar is about 3 feet tall and weighs 40 pounds. Female dessamars are most often larger and stronger than males.
 
-**Source**:: _Alien Archive 3 pg. 14_
+**Source**:  _Alien Archive 3 pg. 14_
 
 ## Dessamar Imago Cr 1
 

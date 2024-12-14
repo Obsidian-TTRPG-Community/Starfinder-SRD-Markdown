@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 2 / 3 / 5 / 7 / 9 
+
 price:  
 tags: 
 Type: Technological Item
@@ -14,9 +14,10 @@ Scanners are common items that allow you to extend your senses and record your e
 
 **Source**:: _Starfinder Armory pg. 107_  
 **Level**:: 3
-**Price**::  1,375  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Price**::  1375  
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -27,10 +28,11 @@ An enhanced camera functions as a video camera, but it can view a wider band of 
 ## Scanner, Video Camera
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 1;
+**Level**:: 1
 **Price**::  275  
-**Capacity**:: 20; **Usage** 2/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 2/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -39,10 +41,11 @@ The most typical scanner is a video camera, which requires one hand to use. A vi
 ## Scanner, Shotgun Microphone
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 2;
+**Level**:: 2
 **Price**::  625  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -51,10 +54,11 @@ A shotgun microphone amplifies your sense of hearing within a particular directi
 ## Scanner, Laser Microphone
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 5;
-**Price**::  2,725  
-**Capacity**:: 10; **Usage** 1/minute  
-**Hands** 2; **Bulk** L
+**Level**:: 5
+**Price**::  2725  
+**Capacity**:: 10 **Usage** 1/minute  
+**Hands** 2 
+**Bulk**:: L
 
 ### Description
 
@@ -63,10 +67,11 @@ This handheld sensor allows you to hear through normally sound-impervious materi
 ## Scanner, Motion DETECTOR](HTTPS://AONSRD.COM/TECHITEMS.ASPX?ITEMNAME=MOTION%20DETECTOR&FAMILY=SCANNER)
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 7;
-**Price**::  6,000  
-**Capacity**:: 10; **Usage** 1/hour  
-**Hands**:: 1**Bulk** L
+**Level**:: 7
+**Price**::  6000  
+**Capacity**:: 10 **Usage** 1/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -75,10 +80,11 @@ This handheld scanner is capable of detecting sweeping kinetic moves, such as th
 ## Scanner, True-frame Camera
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 9;
-**Price**::  12,250  
-**Capacity**:: 100; **Usage** 2/hour  
-**Hands**:: 1**Bulk** L
+**Level**:: 9
+**Price**::  12250  
+**Capacity**:: 100 **Usage** 2/hour  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 
@@ -87,10 +93,11 @@ A true-frame camera functions as an enhanced camera, and it also has supplementa
 ## Scanner, X-ray Visor
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 9;
-**Price**::  15,000  
-**Capacity**:: 40; **Usage** 1/round  
-**Hands** —; **Bulk** L
+**Level**:: 9
+**Price**::  15000  
+**Capacity**:: 40 **Usage** 1/round  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

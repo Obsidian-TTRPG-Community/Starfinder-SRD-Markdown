@@ -5,13 +5,10 @@ tags:
 
 # Longarms
 
-> [!grid]
-> > 
-
 ``` dataview
-TABLE
-Level, Price, Type
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Longarms"
+TABLE WITHOUT ID
+file.link AS "Weapon", Level, Price, Damage, Critical
+FROM "Compendium/SF1E/Items/Armaments/Longarms"
 SORT Level ASC
 WHERE file.name != "Longarms"
 ```

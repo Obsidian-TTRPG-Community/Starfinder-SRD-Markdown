@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: transmutation (electricity)
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Gravity Tether

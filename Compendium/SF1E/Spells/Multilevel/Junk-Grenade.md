@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 
 NoteType: Spell
 Precog: 
-School: transmutation
+
 tags: []
 Technomancer: 1-6
 ---

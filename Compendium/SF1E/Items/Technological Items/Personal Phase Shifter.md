@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 18  
-price: 380,000
+
+price: 380000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Personal Phase Shifter
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 18;
-**Price**::  380,000  
-**Capacity**:: 100; **Usage** 10/round  
-**Hands** —; **Bulk** 1
+**Level**:: 18
+**Price**::  380000  
+**Capacity**:: 100 **Usage** 10/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

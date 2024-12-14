@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 15
-Environment: any land  
+Environment: any land
 hp: 275
-modifier: 7
+Initmod: 7
 name: Flayer Leech, Flayer Leech Effigy
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
 ---
 
 # Flayer Leech, Flayer Leech Effigy
@@ -20,7 +20,7 @@ Once full, the flayer leech returns its attention to the pieces of skin, using i
 
 A flayer leech effigy then attempts to insert itself into the dead creature’s life, though close friends might recognize a changed demeanor, as the effigy speaks rarely and doesn’t engage in as many social functions as the victim. In addition, an effigy’s auditory organs are sensitive to sounds that wouldn’t normally harm humanoids of the same type, which can sometimes give away the effigy’s true nature. When threatened, an effigy can protrude larger versions of its pharyngeal proboscis from small slits just below its wrists to defend itself. It also uses these tubes to extract the marrow it needs to reproduce—a disgusting parthenogenesis wherein the effigy belches forth fully grown flayer leeches.
 
-**Source**:: _Alien Archive 3 pg. 36_
+**Source**:  _Alien Archive 3 pg. 36_
 
 ## Flayer Leech Effigy Cr 15
 

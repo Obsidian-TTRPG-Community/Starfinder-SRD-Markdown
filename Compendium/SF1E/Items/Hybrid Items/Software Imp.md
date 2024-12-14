@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 5 / 7 / 9 / 11 / 13 / 15 / 17 / 19
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -23,12 +23,13 @@ The tiers of _software imps_ and the capabilities of each are as follows.
 ## Software Imp, Tier 1
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 1;
-**Price**::  400; **Bulk** —
+**Level**:: 1
+**Price**::  400 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +5; Will +4; no copies
+Skill bonus +5 Will +4 no copies
 
 ---
 
@@ -36,88 +37,97 @@ Skill bonus +5; Will +4; no copies
 
 **Source**:: _Starfinder Armory pg. 124_  
 **Level**:: 3
-**Price**::  1,400; **Bulk** —
+**Price**::  1400 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +8; Will +6; one copy
+Skill bonus +8 Will +6 one copy
 
 ## Software Imp, Tier 3
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 5;
-**Price**::  2,800; **Bulk** —
+**Level**:: 5
+**Price**::  2800 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +11; Will +8; one copy
+Skill bonus +11 Will +8 one copy
 
 ## Software Imp, Tier 4
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 7;
-**Price**::  6,000; **Bulk** —
+**Level**:: 7
+**Price**::  6000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +14; Will +10; two copies
+Skill bonus +14 Will +10 two copies
 
 ## Software Imp, Tier 5
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 9;
-**Price**::  12,500; **Bulk** —
+**Level**:: 9
+**Price**::  12500 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +17; Will +12; two copies
+Skill bonus +17 Will +12 two copies
 
 ## Software Imp, Tier 6
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 11;
-**Price**::  25,000; **Bulk** —
+**Level**:: 11
+**Price**::  25000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +20; Will +14; three copies
+Skill bonus +20 Will +14 three copies
 
 ## Software Imp, Tier 7
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 13;
-**Price**::  50,000; **Bulk** —
+**Level**:: 13
+**Price**::  50000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +23; Will +16; three copies
+Skill bonus +23 Will +16 three copies
 
 ## Software Imp, Tier 8
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 15;
-**Price**::  100,000; **Bulk** —
+**Level**:: 15
+**Price**::  100000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +26; Will +18; four copies
+Skill bonus +26 Will +18 four copies
 
 ## Software Imp, Tier 9
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 17;
-**Price**::  225,000; **Bulk** —
+**Level**:: 17
+**Price**::  225000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +29; Will +20; four copies
+Skill bonus +29 Will +20 four copies
 
 ## Software Imp, Tier 10
 
 **Source**:: _Starfinder Armory pg. 124_  
-**Level** 19;
-**Price**::  550,000; **Bulk** —
+**Level**:: 19
+**Price**::  550000 
+**Bulk**:: —
 
 ### Description
 
-Skill bonus +32; Will +21; five copies
+Skill bonus +32 Will +21 five copies

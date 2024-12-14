@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 6
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: conjuration (summoning) 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Summon Corpse

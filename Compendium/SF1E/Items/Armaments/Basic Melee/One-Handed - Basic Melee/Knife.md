@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 7 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,7 +19,7 @@ These light blades can be used for both mundane tasks and combat. A typical surv
 **Price**:: 95  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 S;
+**Damage**:: 1d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, operative, thrown (20 ft.)
@@ -27,11 +27,11 @@ These light blades can be used for both mundane tasks and combat. A typical surv
 ## Knife, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 7;
-**Price**:: 6,000  
+**Level**:: 7
+**Price**:: 6000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d4 S;
+**Damage**:: 2d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, operative, thrown (20 ft.)

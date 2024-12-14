@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 16
-price: 180,000
+
+price: 180000
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Superposition Belt
 
 **Source**:: _Alien Archive 3 pg. 81_  
-**Level** 16;
-**Price**::  180,000  
+**Level**:: 16
+**Price**::  180000  
 **Usage** 2/use  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

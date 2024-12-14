@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 10
 hp: 165
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Overwatch Captain
-statblock: true
-Subtype: Stewards
+statblock: true(Stewards
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Overwatch Captain

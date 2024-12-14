@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 14 
+
 price: 12
 tags: 
 Type: Technological Item
@@ -18,10 +18,11 @@ Type: Technological Item
 | 6  | Nanites form a protective shell around your weakest areas. You gain 25 temporary Hit Points (or 30 if you’re a construct) that expire at the end of the duration.                                                            |
 
 **Source**:: _Alien Archive 4 pg. 39_  
-**Level** 14;
+**Level**:: 14
 **Price**::  12  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 
-As a move action, you can swallow this silvery, one-time-use pill to hopefully gain an edge on the competition, though you risk deleterious side effects. Roll 1d6 on the table below to determine the nanite capsule’s effect; each effect lasts for 1 hour, and you can be under the effect of only one nanite capsule at a time.
+As a move action, you can swallow this silvery, one-time-use pill to hopefully gain an edge on the competition, though you risk deleterious side effects. Roll 1d6 on the table below to determine the nanite capsule’s effect each effect lasts for 1 hour, and you can be under the effect of only one nanite capsule at a time.

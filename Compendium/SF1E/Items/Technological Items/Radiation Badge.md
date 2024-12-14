@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 price: 100
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Radiation Badge
 
 **Source**:: _Pact Worlds pg. 198_  
-**Level** 1;
+**Level**:: 1
 **Price**::  100  
 **Usage** See text  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

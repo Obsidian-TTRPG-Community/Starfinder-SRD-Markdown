@@ -3,11 +3,11 @@ aliases:
 cr: 2
 Environment: any
 hp: 23
-modifier: 8
+Initmod: 8
 name: Jububnan, Traveler
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
 ---
 
 # Jububnan, Traveler
@@ -20,7 +20,7 @@ Many followers of Weydan believe jububnans to be a species blessed by The Endles
 
 Thanks to jububnans’ ability to reproduce rapidly, their normally solitary species can sometimes form tight-knit familial communities. Some pirate outfits in Near Space and the Vast consist of jububnan outlaws who bred multiple generations of offspring with the sole goal of staffing starships and creating a larger enterprise with trusted family allies. In other cases, jububnan explorers who come across sites of extreme value or danger may birth a new generational line whose existence is based on protecting such locations from outside interference. However, even when these larger groups of jububnans—known as tangles—form, the elders commonly encourage some of their offspring to depart and travel the galaxy, spreading their species throughout the reaches of space. As a result, members of jububnan tangles can often be found across several different planets, watching over specific sites of interest.
 
-**Source**:: _Alien Archive 4 pg. 56_
+**Source**:  _Alien Archive 4 pg. 56_
 
 ## Traveler Cr 2
 

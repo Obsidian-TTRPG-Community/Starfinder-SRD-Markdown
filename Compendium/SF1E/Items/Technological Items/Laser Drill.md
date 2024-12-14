@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 200
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Laser Drill
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 1;
+**Level**:: 1
 **Price**::  200  
-**Capacity**:: 20; **Usage** 1/minute  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 1/minute  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

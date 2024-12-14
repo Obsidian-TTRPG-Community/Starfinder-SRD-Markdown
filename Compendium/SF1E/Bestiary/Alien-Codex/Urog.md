@@ -1,15 +1,30 @@
 ---
 aliases: 
 cr: 3
-Environment: warm hills and mountains (Dykon)  
+Environment: warm hills and mountains (Dykon)
 hp: 35
-modifier: 1
+Initmod: 1
 name: Urog
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: expert
+alignment: N
+size: large
+type(subtype): magical beast(-)
+environment:
+  - hills
+  - mountains
+climate: warm
+planet: Dykon
+organization:
+  - solitary
+  - binomial(2)
+  - coefficient(3-5)
+  - polynomial(6-32)
+source: Alien Archive
 ---
-[[AA1_Urog.png|Spielern zeigen!]]
+[[AA1_Urog.png|Spielern zeigen!]
 
 # Urog Cr 3
 
@@ -67,3 +82,5 @@ Urogs who choose lives of adventure often do so because they believe mathematica
 
 The following extra content was found for this creature:  
 \- Urog Race Entry
+
+

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 9 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Spined Iceblade, Avalanche-class
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 19;
-**Price**:: 570,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 C;
+**Level**:: 19
+**Price**:: 570000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d6 C
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Spined Iceblade, Frostbite-class
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 4
-**Price**:: 2,150  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C;
+**Price**:: 2150  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 C
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Spined Iceblade, Hailstorm-class
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 9;
-**Price**:: 13,700  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 C;
+**Level**:: 9
+**Price**:: 13700  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 C
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Spined Iceblade, Blizzard-class
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 16;
-**Price**:: 170,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d6 C;
+**Level**:: 16
+**Price**:: 170000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d6 C
 **Critical**:: staggered  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)

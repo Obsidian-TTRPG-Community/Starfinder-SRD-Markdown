@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: Personel Items
-Level: 2
+
 price: 75
 tags: 
 Type: Personel Items

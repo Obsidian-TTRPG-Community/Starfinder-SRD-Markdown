@@ -3,11 +3,11 @@ aliases:
 cr: 3
 Environment: any
 hp: 35
-modifier: 4
+Initmod: 4
 name: Tryziarka, Explorer
 statblock: true
 tags: 
-Type: N Medium humanoid (tryziarka)  
+Type: N Medium humanoid (tryziarka)
 ---
 
 # Tryziarka, Explorer
@@ -20,7 +20,7 @@ Each individual tryziarka’s ooze-tattoo manifests in its own unique design, an
 
 As tryziarkas spread across the galaxy in their legacy ships, some found new homes on uninhabited worlds, others fatally crash landed or succumbed to dangerous stellar phenomena, and some travel still on a quest for a new world.
 
-**Source**:: _Alien Archive 4 pg. 126_
+**Source**:  _Alien Archive 4 pg. 126_
 
 ## Explorer Cr 3
 

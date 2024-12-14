@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 1
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: divination (mind-affecting) 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Detect Thoughts

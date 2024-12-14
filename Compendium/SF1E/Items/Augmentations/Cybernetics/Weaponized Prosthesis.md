@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 4 / 8
+Item:
 price:  
-System: Arm and hand
+
 tags: 
 Type: Cybertech
 ---
@@ -13,18 +13,20 @@ This prosthesis functions as a standard prosthetic arm but is lighter and hollow
 
 | Model | Level | Price | Slots |
 | ----- | ----- | ----- | ----- |
-| Mk 1  | 4     | 2,120 | 1     |
-| Mk 2  | 8     | 9,250 | 2     |
+| Mk 1  | 4     | 2120 | 1     |
+| Mk 2  | 8     | 9250 | 2     |
 
 ## Weaponized Prosthesis, Mk 1
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 4;
-**Price**::  2,120; **System** Arm and hand  
+**Level**:: 4
+**Price**::  2120 
+**System**:: Arm and hand  
   
 
 ## Weaponized Prosthesis, Mk 2
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 8;
-**Price**::  9,250; **System** Arm and hand
+**Level**:: 8
+**Price**::  9250 
+**System**:: Arm and hand

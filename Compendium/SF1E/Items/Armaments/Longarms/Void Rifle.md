@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 11 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,59 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Void Rifle, Barrow-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 19;
-**Price**:: 606,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 C; **Range**:: 100 ft.;
+**Level**:: 19
+**Price**:: 606000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 C; 
+**Range**:: 100 ft.
 **Critical**:: suffocate  
 **Capacity**:: 80 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: antibiological
+**Bulk**:: 1**Special**:: antibiological
 
 ## Void Rifle, Grave-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 2;
-**Price**:: 1,020  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 C; **Range**:: 60 ft.;
+**Level**:: 2
+**Price**:: 1020  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 C; 
+**Range**:: 60 ft.
 **Critical**:: suffocate  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: antibiological
+**Bulk**:: 1**Special**:: antibiological
 
 ## Void Rifle, Crypt-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 6;
-**Price**:: 4,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 C; **Range**:: 60 ft.;
+**Level**:: 6
+**Price**:: 4400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 C; 
+**Range**:: 60 ft.
 **Critical**:: suffocate  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: antibiological
+**Bulk**:: 1**Special**:: antibiological
 
 ## Void Rifle, Tomb-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 11;
-**Price**:: 26,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 C; **Range**:: 80 ft.;
+**Level**:: 11
+**Price**:: 26300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 C; 
+**Range**:: 80 ft.
 **Critical**:: suffocate  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: antibiological
+**Bulk**:: 1**Special**:: antibiological
 
 ## Void Rifle, Ossuary-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 16;
-**Price**:: 182,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d10 C; **Range**:: 100 ft.;
+**Level**:: 16
+**Price**:: 182000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d10 C; 
+**Range**:: 100 ft.
 **Critical**:: suffocate  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: antibiological
+**Bulk**:: 1**Special**:: antibiological

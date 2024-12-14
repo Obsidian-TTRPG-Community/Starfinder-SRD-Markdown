@@ -1,23 +1,22 @@
 ---
-aliases: 
+aliases: []
 Level: 2
-Mystic: "`ris:Checkbox`"
+Mystic: true
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: transmutation 
-tags: 
-Technomancer: 
-Witchwarper: 
+Precog: true
+tags: []
+Technomancer: false
+Witchwarper: false
 ---
 
 # Accelerate step
 
-**Source**:: _Galactic Magic pg. 67_  
-**Classes**:: Mystic 2, Precog 2  
-**School**:: transmutation  
-**Casting-Time**:: 1 standard action  
-**Range**:: personal  
-**Duration**:: 1 round/level  
+**Source**:: _Galactic Magic pg. 67_
+**Classes**:: Mystic 2, Precog 2
+**School**:: transmutation
+**Casting-Time**:: 1 standard action
+**Range**:: personal
+**Duration**:: 1 round/level
 
 ## Description
 

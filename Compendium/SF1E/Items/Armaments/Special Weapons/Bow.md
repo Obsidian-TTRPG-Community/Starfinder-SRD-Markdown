@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 225
 tags: 
 type: Special Weapons
@@ -11,13 +11,12 @@ type: Special Weapons
 **Source**:: _Starfinder Core Rulebook pg. 179_  
 **Level**:: 1
 **Price**:: 255  
-**Hands**:: 2;
-**Proficiency**:: Special  
-**Damage**:: 1d6 P; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Special  
+**Damage**:: 1d6 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: drawn; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Analog, quick reload
+**Bulk**:: 1**Special**:: Analog, quick reload
 
 ### Description
 

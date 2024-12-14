@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 12
-price: 6,000
+
+price: 6000
 tags: 
 type: Grenades
 ---
@@ -12,10 +12,11 @@ type: Grenades
 
 **Source**:: _Starfinder Armory pg. 122_  
 **Level**:: 12
-**Price**:: 6,000  
+**Price**:: 6000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

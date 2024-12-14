@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,13 +15,13 @@ Wraith-sting rifles fire darts that are loaded with an injectable substance. The
 
 **Source**:: _Starfinder Armory pg. 55_  
 **Level**:: 14
-**Price**:: 71,200  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: — **Range**:: 80 ft.;
+**Price**:: 71200  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: — 
+**Range**:: 80 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 dart; **Usage** 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: injection, sniper (750 ft.), subtle, unwieldy
 
 ## Wraith-sting Rifle, Yellow Jacket
@@ -29,23 +29,23 @@ Wraith-sting rifles fire darts that are loaded with an injectable substance. The
 **Source**:: _Starfinder Armory pg. 55_  
 **Level**:: 1
 **Price**:: 375  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: — **Range**:: 40 ft.;
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: — 
+**Range**:: 40 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 dart; **Usage** 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: injection, sniper (250 ft.), subtle, unwieldy
 
 ## Wraith-sting Rifle, Wasp
 
 **Source**:: _Starfinder Armory pg. 55_  
 **Level**:: 5
-**Price**:: 2,980  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: — **Range**:: 60 ft.;
+**Price**:: 2980  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: — 
+**Range**:: 60 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 dart; **Usage** 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: injection, sniper (500 ft.), subtle, unwieldy

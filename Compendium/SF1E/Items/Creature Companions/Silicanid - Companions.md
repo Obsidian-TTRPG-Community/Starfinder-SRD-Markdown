@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-15
+
 Type: Small animal (fire)  
 ---
 # SILICANID - COMPANIONS
@@ -11,7 +11,8 @@ _SFS Note: The silicanid companion is not legal for play without a boon permitti
 **Source**:: _Starfinder #40: Planetfall pg. 61_  
 Silicanids have surged in popularity as pets, especially on worlds outside of the Weydana system. Although they can adapt to most environments, they don't reproduce in captivity, greatly increasing their value. Small breeding populations have been released into the wild on a handful of worlds in Near Space. Silicanids can be found on the black market, where they demand an emperor’s ransom. Starfarers have happened upon silicanids on their adventures, adopting the creatures as companions.
 
-## SILICANIDLEVELS 1-15
+## SILICANID
+level:: 1-15
 
 Small animal (fire)  
 **Senses** blindsense (scent) 60 ft., low-light vision  

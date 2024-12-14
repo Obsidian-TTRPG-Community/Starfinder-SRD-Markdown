@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 12
 hp: 185
-modifier: 7
+Initmod: 7
 Monster Type: NPC
 name: Officer
-statblock: true
-Subtype: Former Military
+statblock: true(Former Military
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Officer

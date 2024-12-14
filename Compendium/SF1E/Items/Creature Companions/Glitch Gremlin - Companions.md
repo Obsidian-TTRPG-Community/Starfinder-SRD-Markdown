@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-20
+
 Type: Tiny fey  
 ---
 # GLITCH GREMLIN - COMPANIONS
@@ -8,7 +8,8 @@ Type: Tiny fey
 **Source**:: _Tech Revolution pg. 34_  
 See Magic Hack Gremlin Companion.
 
-## GLITCH GREMLINLEVELS 1-20
+## GLITCH GREMLIN
+level:: 1-20
 
 Tiny fey  
 **Senses** low-light vision  

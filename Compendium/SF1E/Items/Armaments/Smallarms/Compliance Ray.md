@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 11 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Compliance Ray, Flare
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 7;
-**Price**:: 6,400  
+**Level**:: 7
+**Price**:: 6400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 F; **Range**:: 60 ft.;
+**Damage**:: 2d4 F; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -33,11 +34,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Compliance Ray, Flash
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 3;
-**Price**:: 1,400  
+**Level**:: 3
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 F; **Range**:: 60 ft.;
+**Damage**:: 1d6 F; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Compliance Ray, Strobe
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 11;
-**Price**:: 25,100  
+**Level**:: 11
+**Price**:: 25100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 F; **Range**:: 60 ft.;
+**Damage**:: 4d4 F; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Compliance Ray, Starburst
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 15;
-**Price**:: 171,000  
+**Level**:: 15
+**Price**:: 171000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 6d4 F; **Range**:: 60 ft.;
+**Damage**:: 6d4 F; 
+**Range**:: 60 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -72,11 +76,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Compliance Ray, Sunspot
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 19;
-**Price**:: 545,000  
+**Level**:: 19
+**Price**:: 545000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 9d4 F; **Range**:: 80 ft.;
+**Damage**:: 9d4 F; 
+**Range**:: 80 ft.
 **Critical**:: blind  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L

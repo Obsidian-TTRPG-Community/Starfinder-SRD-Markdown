@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 4 / 10 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ Theoretically kin to the electron crystal, a muon crystal turns its user’s sol
 ## Muon, Greater
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 20;
-**Price**:: 760,000  
+**Level**:: 20
+**Price**:: 760000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +10d4 ;
+**Damage**:: +10d4 
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: penetrating
@@ -26,11 +26,11 @@ Theoretically kin to the electron crystal, a muon crystal turns its user’s sol
 ## Muon, Least
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 760  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 ;
+**Damage**:: +1 
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: penetrating
@@ -39,10 +39,10 @@ Theoretically kin to the electron crystal, a muon crystal turns its user’s sol
 
 **Source**:: _Starfinder Armory pg. 49_  
 **Level**:: 4
-**Price**:: 2,200  
+**Price**:: 2200  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d2 ;
+**Damage**:: +1d2 
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: penetrating
@@ -50,11 +50,11 @@ Theoretically kin to the electron crystal, a muon crystal turns its user’s sol
 ## Muon, Lesser
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 10;
-**Price**:: 18,100  
+**Level**:: 10
+**Price**:: 18100  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d4 ;
+**Damage**:: +2d4 
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: penetrating
@@ -62,11 +62,11 @@ Theoretically kin to the electron crystal, a muon crystal turns its user’s sol
 ## Muon, Standard
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 16;
-**Price**:: 166,000  
+**Level**:: 16
+**Price**:: 166000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d4 ;
+**Damage**:: +6d4 
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: penetrating

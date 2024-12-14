@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 7 / 12 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Pistol, Blue Star
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 19;
-**Price**:: 565,000  
+**Level**:: 19
+**Price**:: 565000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d8 E & F; **Range**:: 40 ft.;
+**Damage**:: 5d8 E & F; 
+**Range**:: 40 ft.
 **Critical**:: burn 3d8  
 **Capacity**:: 100 charges; **Usage** 20  
 **Bulk**:: L
@@ -33,11 +34,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Pistol, Red Star
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 7;
-**Price**:: 7,200  
+**Level**:: 7
+**Price**:: 7200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 E & F; **Range**:: 20 ft.;
+**Damage**:: 1d8 E & F; 
+**Range**:: 20 ft.
 **Critical**:: burn 1d8  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -47,10 +49,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 12
-**Price**:: 40,300  
+**Price**:: 40300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 E & F; **Range**:: 25 ft.;
+**Damage**:: 2d8 E & F; 
+**Range**:: 25 ft.
 **Critical**:: burn 1d8  
 **Capacity**:: 40 charges; **Usage** 8  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Pistol, White Star
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 15;
-**Price**:: 107,500  
+**Level**:: 15
+**Price**:: 107500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d8 E & F; **Range**:: 30 ft.;
+**Damage**:: 3d8 E & F; 
+**Range**:: 30 ft.
 **Critical**:: burn 2d8  
 **Capacity**:: 100 charges; **Usage** 20  
 **Bulk**:: L

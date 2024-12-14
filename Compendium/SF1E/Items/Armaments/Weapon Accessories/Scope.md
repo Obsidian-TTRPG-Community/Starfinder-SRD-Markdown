@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 4 / 6 / 9 / 12
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,10 +18,11 @@ You can also view distant objects through a scope as a move action, which grants
 ## Scope, Clarity
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 12;
-**Price**::  37,500; **Bulk** —  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 12
+**Price**::  37500 
+**Bulk**:: —  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 
@@ -31,8 +32,9 @@ A clarity scope functions as a _revealing scope_, with additional capabilities 
 
 **Source**:: _Starfinder Armory pg. 60_  
 **Level**:: 3
-**Price**::  1,350; **Bulk** —  
-**Weapon Types** railed weapon, small arm
+**Price**::  1350 
+**Bulk**:: —  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 
@@ -41,10 +43,11 @@ A sniper scope reduces penalties due to range and AC bonuses from cover by 2.
 ## Scope, Nightvision
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 4;
-**Price**::  2,350; **Bulk** —  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 4
+**Price**::  2350 
+**Bulk**:: —  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 
@@ -53,22 +56,24 @@ A nightvision scope functions as a sniper scope, but also amplifies light with w
 ## Scope, Laser
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 6;
-**Price**::  4,300; **Bulk** —  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 6
+**Price**::  4300 
+**Bulk**:: —  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 
-A laser scope functions as a sniper scope with additional laser targeting capabilities. Activating or deactivating a laser scope is a move action. An active laser scope reduces penalties due to range and AC bonuses from cover by 4. You can add the nightvision capabilities of a nightvision scope to a laser scope for an extra 1,000 credits.
+A laser scope functions as a sniper scope with additional laser targeting capabilities. Activating or deactivating a laser scope is a move action. An active laser scope reduces penalties due to range and AC bonuses from cover by 4. You can add the nightvision capabilities of a nightvision scope to a laser scope for an extra 1000 credits.
 
 ## Scope, Revealing
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 9;
-**Price**::  12,500; **Bulk** —  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 9
+**Price**::  12500 
+**Bulk**:: —  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 

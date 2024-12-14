@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 9 / 13 / 18
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,11 +14,18 @@ Crafted by the talented smiths of the drow of Apostae, this armor is designed to
 ## Zeizerer Diffractor, I
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 2;
-**Price**:: 650; **Category** Light  
-**EAC Bonus** +2; **KAC Bonus** +2; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 2
+**Price**:: 650 
+**Category**:: Light  
+
+**EAC**:: +2 
+**KAC**:: +2 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ### Description
 
@@ -27,35 +34,63 @@ Crafted by the talented smiths of the drow of Apostae, this armor is designed to
 ## Zeizerer Diffractor, Ii
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 6;
-**Price**:: 4,150; **Category** Light  
-**EAC Bonus** +6; **KAC Bonus** +6; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: L
+**Level**:: 6
+**Price**:: 4150 
+**Category**:: Light  
+
+**EAC**:: +6 
+**KAC**:: +6 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: L
 
 ## Zeizerer Diffractor, Iii
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 9;
-**Price**:: 12,500; **Category** Light  
-**EAC Bonus** +11; **KAC Bonus** +11; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 9
+**Price**:: 12500 
+**Category**:: Light  
+
+**EAC**:: +11 
+**KAC**:: +11 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Zeizerer Diffractor, Iv
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 13;
-**Price**:: 48,500; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +15; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 13
+**Price**:: 48500 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +15 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L
 
 ## Zeizerer Diffractor, V
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 18;
-**Price**:: 340,000; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +20; **Max. Dex Bonus** +9  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 18
+**Price**:: 340000 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +20 
+**Max-Dex**:: +9  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L

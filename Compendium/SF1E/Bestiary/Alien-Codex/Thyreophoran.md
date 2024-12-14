@@ -3,11 +3,24 @@ aliases:
 cr: 6
 Environment: any
 hp: 83
-modifier: 0
+Initmod: 0
 name: Thyreophoran
 statblock: true
 tags: 
-Type: N Huge animal  
+Type: N Huge animal
+combatType: combatant
+alignment: N
+size: huge
+type(subtype): animal(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - herd(3-12)
+source: Alien Archive 2
 ---
 
 # Thyreophoran
@@ -18,7 +31,7 @@ The term “dinosaur” refers to a category of reptilelike fauna associated wit
 
 The dinosaurs in this entry serve a couple of purposes. Employ them as written when you need statistics for this sort of creature. To create a unique dinosaur, use the stat blocks here and your concept as starting points. Decide what type of natural weapon the animal has, altering the damage type to suit the weapon. Then add elements from Appendix 2: Environmental Grafts. Tailor anything you want to fit your concept.
 
-**Source**:: _Alien Archive 2 pg. 38_
+**Source**:  _Alien Archive 2 pg. 38_
 
 ## Thyreophoran Cr 6
 
@@ -46,3 +59,5 @@ N Huge animal
 
 **Environment** any  
 **Organization** solitary, pair, or herd (3-12)
+
+

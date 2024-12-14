@@ -3,11 +3,11 @@ aliases:
 Level: 1
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: evocation (fire) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Overheat

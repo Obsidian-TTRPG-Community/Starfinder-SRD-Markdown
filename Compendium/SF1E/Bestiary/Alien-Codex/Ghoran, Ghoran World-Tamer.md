@@ -3,11 +3,24 @@ aliases:
 cr: 1
 Environment: any
 hp: 17
-modifier: 5
+Initmod: 5
 name: Ghoran, Ghoran World-Tamer
 statblock: true
 tags: 
-Type: N Small plant  
+Type: N Small plant
+combatType: combatant
+alignment: N
+size: small
+type(subtype): plant(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - team(2-6)
+source: Alien Archive 2
 ---
 
 # Ghoran, Ghoran World-tamer
@@ -21,7 +34,7 @@ Each ghoran has a ghorus seed within its navel. As a full action, a ghoran can e
 Many ghorans are withdrawn around flesh-and-blood creatures. They often prefer the company of vesk to humans—in fact, a popular conspiracy holds that ghorans fed information about humans to the vesk during the Silent War between the Pact Worlds and the Veskarium. Thus, ghoran-colonized planets and the Pact Worlds view each other with distrust. Despite these grounds for suspicion, ghoran society emphasizes the importance of community life, friendship, and companionship—all luxuries most ghorans could only dream of when they were few and hunted.
 
 
-**Source**:: _Alien Archive 2 pg. 56_
+**Source**:  _Alien Archive 2 pg. 56_
 
 ## Ghoran World-tamer Cr 1
 
@@ -65,3 +78,5 @@ N Small plant
 **Limited Plant Benefits (Ex)** Despite being plant creatures, ghorans don’t gain the standard immunities associated with creatures of the plant type. Instead, they gain a +2 racial bonus on saving throws against mindaffecting effects, paralysis, poison, polymorph, sleep, and stunning effects, unless the effect specifies that it is effective against plants.
 
 **Photosynthesis (Ex)** Ghorans undergo photosynthesis to gain nutrition instead of eating (although they can eat if they so wish). A ghoran can go without light (either sunlight or UV light, such as from starships) for 3 days, after which they must attempt Constitution checks to avoid starvation.
+
+

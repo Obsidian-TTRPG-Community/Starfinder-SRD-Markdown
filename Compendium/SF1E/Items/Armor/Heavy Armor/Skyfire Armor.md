@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 13
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,17 +14,31 @@ These suits of interlocking metal and ceramic plates are usually highly decorate
 ## Skyfire Armor, Exident
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 13;
-**Price**::  53,600; **Category** Heavy  
-**EAC Bonus** +18; **KAC Bonus** +20; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 5; **Bulk** 2
+**Level**:: 13
+**Price**::  53600 
+**Category**:: Heavy  
+
+**EAC**:: +18 
+**KAC**:: +20 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 2
 
 ## Skyfire Armor, Pinion
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 9;
-**Price**::  14,200; **Category** Heavy  
-**EAC Bonus** +14; **KAC Bonus** +16; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 2
+**Level**:: 9
+**Price**::  14200 
+**Category**:: Heavy  
+
+**EAC**:: +14 
+**KAC**:: +16 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 2

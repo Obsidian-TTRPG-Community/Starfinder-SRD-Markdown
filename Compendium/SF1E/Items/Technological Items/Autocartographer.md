@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 9
-price: 13,500
+
+price: 13500
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Autocartographer
 
 **Source**:: _Starfinder Armory pg. 98_  
-**Level** 9;
-**Price**::  13,500  
-**Capacity**:: 100; **Usage** 10/hour  
-**Hands**:: 1**Bulk** 1
+**Level**:: 9
+**Price**::  13500  
+**Capacity**:: 100 **Usage** 10/hour  
+**Hands**:: 1
+**Bulk**:: 1
 
 ### Description
 

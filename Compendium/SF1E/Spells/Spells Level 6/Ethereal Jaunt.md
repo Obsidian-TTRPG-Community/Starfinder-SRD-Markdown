@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 6
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: transmutation
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Ethereal Jaunt

@@ -4,10 +4,10 @@ Level: 4
 Mystic: 
 NoteType: Spell
 Precog: 
-School: conjuration (electricity) 
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Crystal Mine

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 11
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ A tactical lash, or taclash as it is commonly called, is a length of nylon cord 
 ## Taclash, Numbing
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 11;
-**Price**:: 24,800  
+**Level**:: 11
+**Price**:: 24800  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d4 S;
+**Damage**:: 5d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: disarm, powered (capacity 20; usage 2), reach, stun, trip
@@ -31,7 +31,7 @@ A tactical lash, or taclash as it is commonly called, is a length of nylon cord 
 **Price**:: 240  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 S;
+**Damage**:: 1d4 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, disarm, nonlethal, reach, trip

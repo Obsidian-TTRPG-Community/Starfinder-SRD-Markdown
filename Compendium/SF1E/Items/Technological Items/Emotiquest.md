@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4
+
 price: 50
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Emotiquest
 
 **Source**:: _Tech Revolution pg. 47_  
-**Level** 4;
+**Level**:: 4
 **Price**::  50  
-**Capacity**:: 20; **Usage** 1/day  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 1/day  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

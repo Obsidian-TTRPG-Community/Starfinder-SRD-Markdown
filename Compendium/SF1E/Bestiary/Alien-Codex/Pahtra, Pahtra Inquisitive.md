@@ -1,13 +1,26 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Vesk-6)  
+Environment: any (Vesk-6)
 hp: 20
-modifier: 2
+Initmod: 2
 name: Pahtra, Pahtra Inquisitive
 statblock: true
 tags: 
-Type: N Medium humanoid (pahtra)  
+Type: N Medium humanoid (pahtra)
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): humanoid(pahtra)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - clowder(3-8)
+source: Alien Archive 2
 ---
 
 # Pahtra, Pahtra Inquisitive
@@ -26,7 +39,7 @@ Vesk-6 and its people are now unquestionably part of the Veskarium, but most pah
 
 Most pahtras who refuse to live under vesk rule instead take advantage of the opportunities presented by the Veskarium’s alliance with the Pact Worlds, and travel far from their home planet to try their luck as explorers, mercenaries, musicians, or seers.
 
-**Source**:: _Alien Archive 2 pg. 94_
+**Source**:  _Alien Archive 2 pg. 94_
 
 ## Pahtra Inquisitive Cr 2
 
@@ -67,3 +80,5 @@ N Medium humanoid (pahtra)
 ### Special Abilities
 
 **Nimble (Ex)** An off-kilter pahtra doesn’t gain the flat-footed condition or take the normal penalty to attacks, and she can steady herself as a swift action instead of a move action.
+
+

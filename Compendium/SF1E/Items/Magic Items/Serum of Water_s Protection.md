@@ -1,11 +1,11 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 price: 
 tags: 
 Type: Magic Item
 ---
-A serum of water’s protection looks like a standard bottle of drinking water, but consuming it covers you with a thin layer of magically animated water. This has two effects, both of which last 1 hour. First, you gain resistance against acid and fire damage; a mk 1 serum of water’s protection grants acid and fire resistance 5, a mk 2 serum grants acid and fire resistance 10, and a mk 3 serum grants acid and fire resistance 15. Second, you become vulnerable to cold damage, taking 50% more damage from cold effects.
+A serum of water’s protection looks like a standard bottle of drinking water, but consuming it covers you with a thin layer of magically animated water. This has two effects, both of which last 1 hour. First, you gain resistance against acid and fire damage a mk 1 serum of water’s protection grants acid and fire resistance 5, a mk 2 serum grants acid and fire resistance 10, and a mk 3 serum grants acid and fire resistance 15. Second, you become vulnerable to cold damage, taking 50% more damage from cold effects.
 
 ### Serums
 
@@ -14,19 +14,22 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Serum of WATER’S Protection, Mk 1
 
 **Source**:: _Drift Crisis pg. 113_  
-**Level** 4;
-**Price**::  350; **Bulk** L
+**Level**:: 4
+**Price**::  350 
+**Bulk**:: L
 
 ---
 
 ## Serum of WATER’S Protection, Mk 2
 
 **Source**:: _Drift Crisis pg. 113_  
-**Level** 8;
-**Price**::  1,500; **Bulk** L
+**Level**:: 8
+**Price**::  1500 
+**Bulk**:: L
 
 ## Serum of WATER’S Protection, Mk 3
 
 **Source**:: _Drift Crisis pg. 113_  
-**Level** 12;
-**Price**::  5,500; **Bulk** L
+**Level**:: 12
+**Price**::  5500 
+**Bulk**:: L

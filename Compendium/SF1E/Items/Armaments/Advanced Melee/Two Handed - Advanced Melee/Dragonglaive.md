@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 8 / 12 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,62 +18,52 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 _SFS Note: Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4._  
 **Source**:: _Alien Archive pg. 41_  
 **Level**:: 4
-**Price**:: 2,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 S & E;
+**Price**:: 2000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 S & E
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Dragonglaive, Thunderhead
 
 _SFS Note: Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4._  
 **Source**:: _Alien Archive pg. 41_  
-**Level**:: 8;
-**Price**:: 9,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 S & E;
+**Level**:: 8
+**Price**:: 9000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 S & E
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Dragonglaive, Stormstrike
 
 _SFS Note: Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4._  
 **Source**:: _Alien Archive pg. 41_  
 **Level**:: 12
-**Price**:: 34,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 S & E;
+**Price**:: 34000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d8 S & E
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Dragonglaive, Skyshatter
 
 _SFS Note: Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4._  
 **Source**:: _Alien Archive pg. 41_  
-**Level**:: 16;
-**Price**:: 160,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d8 S & E;
+**Level**:: 16
+**Price**:: 160000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d8 S & E
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Dragonglaive, Wyrmlord
 
 _SFS Note: Dragonglaives can only be wielded by Large creatures or creatures with Strength modifiers of at least +4._  
 **Source**:: _Alien Archive pg. 41_  
-**Level**:: 19;
-**Price**:: 525,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 13d8 S & E;
+**Level**:: 19
+**Price**:: 525000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 13d8 S & E
 **Critical**:: —  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8
-price: 10,000
+
+price: 10000
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Vampiric Charger
 
 **Source**:: _Starfinder Armory pg. 125_  
-**Level** 8;
-**Price**::  10,000; **Bulk** L
+**Level**:: 8
+**Price**::  10000 
+**Bulk**:: L
 
 ### Description
 

@@ -1,7 +1,4 @@
----
-aliases: 
-tags: 
----
+
 
 # Szandite Collective Starships
 

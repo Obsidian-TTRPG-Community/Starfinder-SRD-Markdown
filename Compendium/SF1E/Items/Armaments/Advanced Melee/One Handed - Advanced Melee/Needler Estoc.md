@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 6 / 10 / 14 / 18 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ This slender blade is designed to puncture weak points in modern armor and infli
 ## Needler Estoc, Hyper-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 10;
-**Price**:: 17,500  
+**Level**:: 10
+**Price**:: 17500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 P;
+**Damage**:: 4d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -27,11 +27,11 @@ This slender blade is designed to puncture weak points in modern armor and infli
 ## Needler Estoc, Standard
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 175  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 P;
+**Damage**:: 1d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -39,11 +39,11 @@ This slender blade is designed to puncture weak points in modern armor and infli
 ## Needler Estoc, Sharp-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 6;
-**Price**:: 4,000  
+**Level**:: 6
+**Price**:: 4000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 P;
+**Damage**:: 1d8 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -52,10 +52,10 @@ This slender blade is designed to puncture weak points in modern armor and infli
 
 **Source**:: _Character Operations Manual pg. 122_  
 **Level**:: 14
-**Price**:: 67,000  
+**Price**:: 67000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 9d6 P;
+**Damage**:: 9d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -63,11 +63,11 @@ This slender blade is designed to puncture weak points in modern armor and infli
 ## Needler Estoc, Supreme-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 18;
-**Price**:: 342,000  
+**Level**:: 18
+**Price**:: 342000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 14d6 P;
+**Damage**:: 14d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection
@@ -75,11 +75,11 @@ This slender blade is designed to puncture weak points in modern armor and infli
 ## Needler Estoc, Master-pointed
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 20;
-**Price**:: 750,000  
+**Level**:: 20
+**Price**:: 750000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 18d6 P;
+**Damage**:: 18d6 P
 **Critical**:: Injection DC +2  
 **Bulk**:: L
 **Special**:: Injection

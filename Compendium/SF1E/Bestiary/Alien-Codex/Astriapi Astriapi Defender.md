@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any urban (Colveare)  
+Environment: any urban (Colveare)
 hp: 20
-modifier: 8
+Initmod: 8
 name: Astriapi, Astriapi Defender
 statblock: true
 tags: 
-Type: LN Medium monstrous humanoid  
+Type: LN Medium monstrous humanoid
 ---
 
 # Astriapi, Astriapi Defender
@@ -20,7 +20,7 @@ According to pre-Gap records, the city-planet of Colveare formed when a caste of
 
 Some posit that Yaraesa granted visions through these dreams, while others see evidence of Oras’ evolutionary influence. Many astriapis, however, believe that the visions granted by the zhufera honey came from several gods.
 
-**Source**:: _Alien Archive 4 pg. 12_
+**Source**:  _Alien Archive 4 pg. 12_
 
 ## Astriapi Defender Cr 1
 

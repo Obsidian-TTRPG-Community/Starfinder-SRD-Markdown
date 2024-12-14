@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 90
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Chlorvian Justice
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Chlorvian Justice

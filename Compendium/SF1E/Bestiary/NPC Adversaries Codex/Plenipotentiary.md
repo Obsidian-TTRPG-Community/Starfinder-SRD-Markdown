@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 11
 hp: 155
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Plenipotentiary
-statblock: true
-Subtype: Diplomats
+statblock: true(Diplomats
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Plenipotentiary

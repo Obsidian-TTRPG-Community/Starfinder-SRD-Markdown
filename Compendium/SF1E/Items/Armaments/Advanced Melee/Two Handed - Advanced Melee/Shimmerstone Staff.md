@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 6 / 11 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,35 +17,29 @@ A shimmerstone staff is a hybrid item that functions as a two-handed advanced me
 ## Shimmerstone Staff, Evenfall
 
 **Source**:: Alien Archive 3 pg. 65  
-**Level**:: 11;
-**Price**:: 25,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 B;
+**Level**:: 11
+**Price**:: 25000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: Unwieldy
+**Bulk**:: 1**Special**:: Unwieldy
 
 ## Shimmerstone Staff, Sunset
 
 **Source**:: Alien Archive 3 pg. 65  
-**Level**:: 6;
-**Price**:: 4,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 B;
+**Level**:: 6
+**Price**:: 4000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: Unwieldy
+**Bulk**:: 1**Special**:: Unwieldy
 
 ## Shimmerstone Staff, Twilight
 
 **Source**:: Alien Archive 3 pg. 65  
-**Level**:: 15;
-**Price**:: 105,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d12 B;
+**Level**:: 15
+**Price**:: 105000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d12 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: Unwieldy
+**Bulk**:: 1**Special**:: Unwieldy

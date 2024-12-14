@@ -13,15 +13,17 @@ A life-giving tree of light with roots penetrating every corner of the vessel fe
 ## Magic Power Core, Arcane Dawn
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 300; **Cost (in BP)** 35  
+**PCU**:: 300
+**Cost (in BP)**:: 35  
 
 ## Magic Power Core, Arcane Dusk
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 600; **Cost (in BP)** 65  
-  
+**PCU**:: 600
+**Cost (in BP)**:: 65   
 
 ## Magic Power Core, Arcane Zenith
 
 **Source**:: _Ports of Call pg. 30_  
-**PCU** 400; **Cost (in BP)** 45
+**PCU**:: 400
+**Cost (in BP)**:: 45

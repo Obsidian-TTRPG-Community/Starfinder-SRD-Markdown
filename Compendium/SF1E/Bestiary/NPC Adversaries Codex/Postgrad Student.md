@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 17
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Postgrad Student
-statblock: true
-Subtype: Scholars
+statblock: true(Scholars
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Postgrad Student

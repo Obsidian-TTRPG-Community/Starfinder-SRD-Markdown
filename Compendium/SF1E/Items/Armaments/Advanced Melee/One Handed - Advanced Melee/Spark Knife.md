@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 5 / 10 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Spark Knife, Boss
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 15;
-**Price**:: 112,000  
+**Level**:: 15
+**Price**:: 112000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 E & S;
+**Damage**:: 5d6 E & S
 **Critical**:: arc 3d6  
 **Bulk**:: L
 **Special**:: drain charge, operative, powered (capacity 20; usage 1)
@@ -32,7 +32,7 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 **Price**:: 390  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E & S;
+**Damage**:: 1d4 E & S
 **Critical**:: arc 1d4  
 **Bulk**:: L
 **Special**:: drain charge, operative, powered (capacity 20; usage 1)
@@ -41,10 +41,10 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 5
-**Price**:: 3,070  
+**Price**:: 3070  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E & S;
+**Damage**:: 1d6 E & S
 **Critical**:: arc 1d6  
 **Bulk**:: L
 **Special**:: drain charge, operative, powered (capacity 20; usage 1)
@@ -52,11 +52,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Spark Knife, Crew
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 10;
-**Price**:: 18,200  
+**Level**:: 10
+**Price**:: 18200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 E & S;
+**Damage**:: 2d6 E & S
 **Critical**:: arc 2d6  
 **Bulk**:: L
 **Special**:: drain charge, operative, powered (capacity 20; usage 1)

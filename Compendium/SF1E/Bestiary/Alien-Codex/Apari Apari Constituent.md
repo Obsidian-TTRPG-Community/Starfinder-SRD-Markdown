@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 2
-Environment: temperate or warm plains  
+Environment: temperate or warm plains
 hp: 20
-modifier: 4
+Initmod: 4
 name: Apari, Apari Constituent
 statblock: true
 tags: 
-Type: N Tiny vermin  
+Type: N Tiny vermin
 ---
 
 # Apari, Apari Constituent
 
-**Source**:: _Alien Archive pg. 14_
+**Source**:  _Alien Archive pg. 14_
 
 ## Apari Constituent Cr 2
 

@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 
 NoteType: Spell
 Precog: 
-School: illusion 
+
 tags: 
 Technomancer: 1-6
 Witchwarper: 

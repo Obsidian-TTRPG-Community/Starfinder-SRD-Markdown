@@ -3,11 +3,11 @@ aliases:
 cr: 1/2
 Environment: any
 hp: 13
-modifier: 2
+Initmod: 2
 name: Herd Animal, Medium Herd Animal
 statblock: true
 tags: 
-Type: N Medium animal  
+Type: N Medium animal
 ---
 
 # Herd Animal, Medium Herd Animal
@@ -18,7 +18,7 @@ In the Pact Worlds, the most common herd animals are domesticated. When various 
 
 More rarely, some xenobiologists even cultivate groups of herd animals for scientists and corporations who wish to stabilize wild planets’ ecosystems. In this case, interested parties might place large numbers of pack animals in foreign locales to help tame rampant vegetation growth or provide prey for a dying species of predator. The goal of such projects is almost always to improve a planet’s suitability for colonization, mining, or farming. However, this practice is often controversial among ethnobiologists, who argue that introducing large populations of non-native species in this manner produces harmful and unforeseen results more often than it aids environments.
 
-**Source**:: _Alien Archive 2 pg. 74_
+**Source**:  _Alien Archive 2 pg. 74_
 
 ## Medium Herd Animal Cr 1/2
 

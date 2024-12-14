@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 11
-Environment: any (Boneyard)  
+Environment: any (Boneyard)
 hp: 155
-modifier: 5
+Initmod: 5
 name: Psychopomp, Morrigna
 statblock: true
 tags: 
-Type: N Medium outsider (psychopomp)  
+Type: N Medium outsider (psychopomp)
 ---
 
 # Psychopomp, Morrigna
@@ -19,7 +19,7 @@ Erabryths are psychopomps who welcome and escort the souls of androids who have 
 In contrast to their erabryth kin, morrignas are warriors who uphold the sanctity of life and death by tracking down and destroying those who interfere with the natural flow of souls in any way. Cautious, cunning, and patient, morrignas unrelentingly hunt immortals, necromancers, and undead with extreme prejudice.
 
 
-**Source**:: _Alien Archive 4 pg. 90_
+**Source**:  _Alien Archive 4 pg. 90_
 
 ## Morrigna Cr 11
 

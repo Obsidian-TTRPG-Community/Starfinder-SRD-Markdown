@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 10 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Dragon Pistol, Drake
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 10;
-**Price**:: 17,000  
+**Level**:: 10
+**Price**:: 17000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d4 F; **Range**:: 30 ft.;
+**Damage**:: 3d4 F; 
+**Range**:: 30 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 20 petrol; **Usage** 1  
 **Bulk**:: L
@@ -34,10 +35,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 5
-**Price**:: 2,650  
+**Price**:: 2650  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 F; **Range**:: 30 ft.;
+**Damage**:: 1d6 F; 
+**Range**:: 30 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 20 petrol; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Dragon Pistol, Wyvern
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 15;
-**Price**:: 95,000  
+**Level**:: 15
+**Price**:: 95000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d6 F; **Range**:: 30 ft.;
+**Damage**:: 4d6 F; 
+**Range**:: 30 ft.
 **Critical**:: burn 3d6  
 **Capacity**:: 20 petrol; **Usage** 1  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Dragon Pistol, True
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 19;
-**Price**:: 489,000  
+**Level**:: 19
+**Price**:: 489000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d8 F; **Range**:: 40 ft.;
+**Damage**:: 5d8 F; 
+**Range**:: 40 ft.
 **Critical**:: burn 5d6  
 **Capacity**:: 20 petrol; **Usage** 1  
 **Bulk**:: L

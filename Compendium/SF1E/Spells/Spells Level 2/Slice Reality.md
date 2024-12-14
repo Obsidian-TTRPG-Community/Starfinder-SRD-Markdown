@@ -4,10 +4,10 @@ Level: 2
 Mystic: 
 NoteType: Spell
 Precog: 
-School: evocation 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Slice Reality

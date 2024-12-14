@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 820
 tags: 
 Type: Hybrid Item
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Everlength Rope
 
 **Source** [_Galactic Magic pg. 44_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 2;
-**Price**::  820; **Bulk** 1
+**Level**:: 2
+**Price**::  820 
+**Bulk**:: 1
 
 ### Description
 

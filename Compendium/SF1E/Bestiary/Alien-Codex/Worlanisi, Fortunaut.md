@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: any (Worlan)  
+Environment: any (Worlan)
 hp: 135
-modifier: 4
+Initmod: 4
 name: Worlanisi, Fortunaut
 statblock: true
 tags: 
-Type: CG Small humanoid (worlanisi)  
+Type: CG Small humanoid (worlanisi)
 ---
 
 # Worlanisi, Fortunaut
@@ -20,7 +20,7 @@ Desna, goddess of luck and travelers, is a favorite patron among the worlanisi. 
 
 Worlanisi develop horn-cones at an early age, with additional concentric rings forming during puberty. These structures amplify both incoming and outgoing mental signals. In their distant evolutionary past, worlanisi used these structures to detect and follow faint telepathic signatures while on the hunt, similar to how some insects track pheromone trails. However, untold millennia of other selective pressures and improved technologies have diminished their horn-cones’ size and functions. Presently, many worlanisi have to exercise their minds regularly to simply maintain their telepathic abilities. Though no longer sensitive enough to detect minds or parse others’ thoughts, the vestigial horn-cones still painfully amplify incoming mental effects to psychically deafening levels.
 
-**Source**:: _Alien Archive 4 pg. 138_
+**Source**:  _Alien Archive 4 pg. 138_
 
 ## Fortunaut Cr 9
 

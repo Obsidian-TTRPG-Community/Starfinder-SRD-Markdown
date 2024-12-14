@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 9 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,47 +15,39 @@ The serrated, sweeping blade of a chitinblade is based on technology recovered f
 ## Chitinblade, Microserrated
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 9;
-**Price**:: 12,400  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 4d4 S;
+**Level**:: 9
+**Price**:: 12400  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 4d4 S
 **Critical**:: bleed 2d4  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Chitinblade, Tactical
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 4
-**Price**:: 1,890  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d6 S;
+**Price**:: 1890  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d6 S
 **Critical**:: bleed 1d6  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Chitinblade, Nanoserrated
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 13;
-**Price**:: 46,400  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 4d8 S;
+**Level**:: 13
+**Price**:: 46400  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 4d8 S
 **Critical**:: bleed 2d8  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Chitinblade, Ultraserrated
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 17;
-**Price**:: 219,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 8d8 S;
+**Level**:: 17
+**Price**:: 219000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 8d8 S
 **Critical**:: bleed 3d8  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog

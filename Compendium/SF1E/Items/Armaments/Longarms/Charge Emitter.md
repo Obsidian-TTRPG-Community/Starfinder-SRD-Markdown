@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,38 +18,35 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Charge Emitter, Impulse
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 8;
-**Price**:: 10,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d4 E; **Range**:: 20 ft.;
+**Level**:: 8
+**Price**:: 10900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d4 E; 
+**Range**:: 20 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: integrated (1 slot), stun
+**Bulk**:: 1**Special**:: integrated (1 slot), stun
 
 ## Charge Emitter, Jolt
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 13;
-**Price**:: 57,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 E; **Range**:: 30 ft.;
+**Level**:: 13
+**Price**:: 57000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 E; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: integrated (1 slot), stun
+**Bulk**:: 1**Special**:: integrated (1 slot), stun
 
 ## Charge Emitter, Surge
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 18;
-**Price**:: 435,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d10 E; **Range**:: 40 ft.;
+**Level**:: 18
+**Price**:: 435000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d10 E; 
+**Range**:: 40 ft.
 **Critical**:: staggered  
 **Capacity**:: 80 charges; **Usage** 5  
-**Bulk**:: 1;
-**Special**:: integrated (1 slot), stun
+**Bulk**:: 1**Special**:: integrated (1 slot), stun

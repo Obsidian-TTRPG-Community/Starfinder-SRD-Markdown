@@ -3,11 +3,24 @@ aliases:
 cr: 1
 Environment: any
 hp: 20
-modifier: 4
+Initmod: 4
 name: Squox, Trained Squox
 statblock: true
 tags: 
-Type: N Tiny animal  
+Type: N Tiny animal
+combatType: combatant
+alignment: N
+size: tiny
+type(subtype): animal(-)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - team(3-6)
+source: Alien Archive 2
 ---
 
 # Squox, Trained Squox
@@ -36,7 +49,7 @@ This item, known colloquially as a squox pocket, is available to PCs who want to
 
 This feat is for PCs who have a trained squox pet.
 
-**Source**:: _Alien Archive 2 pg. 118_
+**Source**:  _Alien Archive 2 pg. 118_
 
 ## Trained Squox Cr 1
 
@@ -70,3 +83,5 @@ N Tiny animal
 ### Special Abilities
 
 **Squox Tricks (Ex)** A squox can use Acrobatics to jump instead of Athletics. In addition, a squox can use its Acrobatics bonus as its attack bonus when it attempts a dirty trick, disarm, or trip combat maneuver. If the squox succeeds at a dirty trick maneuver, it can choose only between the entangled and off-target conditions. A squox’s tail, two front paws, and mouth count as hands free for a disarm attempt.
+
+

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Inquisitor
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Inquisitor

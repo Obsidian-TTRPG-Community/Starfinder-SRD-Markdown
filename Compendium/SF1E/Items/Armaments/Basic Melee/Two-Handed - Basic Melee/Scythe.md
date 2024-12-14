@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 6 / 11 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,35 +15,29 @@ Few weapons send a more distinctive and imposing message than a scythe, given it
 ## Scythe, Sintered
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 11;
-**Price**:: 23,200  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 4d6 S;
+**Level**:: 11
+**Price**:: 23200  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 4d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, trip
+**Bulk**:: 1**Special**:: analog, trip
 
 ## Scythe, Tactical
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 6;
-**Price**:: 3,900  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d8 S;
+**Level**:: 6
+**Price**:: 3900  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, trip
+**Bulk**:: 1**Special**:: analog, trip
 
 ## Scythe, Ultrathin
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 16;
-**Price**:: 160,000  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 7d8 S;
+**Level**:: 16
+**Price**:: 160000  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 7d8 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, trip
+**Bulk**:: 1**Special**:: analog, trip

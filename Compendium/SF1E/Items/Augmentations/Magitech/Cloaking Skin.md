@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 10 / 17
+Item:
 price:  
-System: Skin
+
 tags: 
 Type: Magitech
 ---
@@ -14,8 +14,9 @@ Many of your pores are replaced with magically regulated and directed holographi
 ## Cloaking Skin, Greater
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 17;
-**Price**::  270,000; **System** Skin  
+**Level**:: 17
+**Price**::  270000 
+**System**:: Skin  
   
 
 ---
@@ -23,5 +24,6 @@ Many of your pores are replaced with magically regulated and directed holographi
 ## Cloaking Skin, Standard
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 10;
-**Price**::  18,000; **System** Skin
+**Level**:: 10
+**Price**::  18000 
+**System**:: Skin

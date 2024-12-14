@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 100
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Emergency Beacon
 
 **Source**:: _Starfinder Armory pg. 106_  
-**Level** 1;
+**Level**:: 1
 **Price**::  100  
-**Capacity**:: 20; **Usage** Varies  
-**Hands** —; **Bulk** L
+**Capacity**:: 20 **Usage** Varies  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

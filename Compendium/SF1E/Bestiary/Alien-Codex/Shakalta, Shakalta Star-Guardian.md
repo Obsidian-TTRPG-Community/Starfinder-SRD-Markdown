@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 7
-Environment: any (Accara IV)  
+Environment: any (Accara IV)
 hp: 100
-modifier: 2
+Initmod: 2
 name: Shakalta, Shakalta Star-Guardian
 statblock: true
 tags: 
-Type: NG Medium humanoid (shakalta)  
+Type: NG Medium humanoid (shakalta)
 ---
 
 # Shakalta, Shakalta Star-guardian
@@ -26,7 +26,7 @@ Shakaltas average 6-1/2 feet in height and weigh about 100 pounds. Shakaltas liv
 
 
 
-**Source**:: _Alien Archive 3 pg. 92_
+**Source**:  _Alien Archive 3 pg. 92_
 
 ## Shakalta Star-guardian Cr 7
 

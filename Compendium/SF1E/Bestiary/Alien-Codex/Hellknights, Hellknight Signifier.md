@@ -3,16 +3,26 @@ aliases:
 cr: 7
 Environment: any
 hp: 90
-modifier: 1
+Initmod: 1
 name: Hellknights, Hellknight Signifier
 statblock: true
 tags: 
-Type: LN Medium humanoid (human)  
+Type: LN Medium humanoid (human)
+combatType: spellcaster
+alignment: LN
+size: medium
+type(subtype): humanoid(human)
+environment: any
+climate: any
+planet:
+  - 
+organization: any
+source: PW
 ---
 
 # Hellknights, Hellknight Signifier
 
-**Source**:: _Pact Worlds pg. 172_
+**Source**:  _Pact Worlds pg. 172_
 
 ## Hellknight Signifier Cr 7
 
@@ -55,3 +65,5 @@ At will—_mindlink_
 Famous for the impersonal masks they wear, Hellknight signifers use a combination of magic and weaponry to enforce the law. Their masks help them maintain emotional distance from whatever matter is at hand and discourage appeals to any outside affiliation, creed, or race. These masks also typically provide the Hellknight signifers with data about ambient magic and unsecured communications and help them focus on their orders.  
 More practically, Hellknight signifers are specialists trained to handle spells and technology. Most of the time, this means providing support to other Hellknights or identifying and neutralizing enemy spellcasters or stranger threats. They remain watchful in combat, often demanding to know the nature of any trickery they don't immediately recognize.  
 **Adaptation:** A Hellknight signifer can serve as an exceptionally disciplined mid-level Steward spellcaster. By changing the spells to focus more strongly on mind-affecting spells such as _charm person_, this character can be a mystic of the Sholar Adat on the _Idari_.
+
+

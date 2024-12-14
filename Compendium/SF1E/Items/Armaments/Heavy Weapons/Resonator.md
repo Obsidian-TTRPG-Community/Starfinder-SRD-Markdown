@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,58 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 4
-**Price**:: 2,080  
-**Hands**:: 2;
+**Price**:: 2080  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d8 So; **Range**:: 60 ft.;
+**Damage**:: 1d8 So 
+**Range**:: 60 ft.
 **Critical**:: Deafen  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 1d8, penetrating
 
 ## Resonator, Refraction
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 10;
-**Price**:: 18,300  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 18300  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 So; **Range**:: 80 ft.;
+**Damage**:: 2d8 So 
+**Range**:: 80 ft.
 **Critical**:: Deafen  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 2d8, penetrating
 
 ## Resonator, Linear
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 14
-**Price**:: 73,800  
-**Hands**:: 2;
+**Price**:: 73800  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 4d8 So; **Range**:: 100 ft.;
+**Damage**:: 4d8 So 
+**Range**:: 100 ft.
 **Critical**:: Deafen  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 3d8, penetrating
 
 ## Resonator, Phased
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 19;
-**Price**:: 565,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 565000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d8 So; **Range**:: 110 ft.;
+**Damage**:: 8d8 So 
+**Range**:: 110 ft.
 **Critical**:: Deafen  
-**Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
+**Capacity**:: 40 charges 
+**Usage** 2  
+**Bulk**:: 2
 **Special**:: boost 5d8, penetrating

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 10 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Gauntlet, Atomic
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 15;
-**Price**:: 124,000  
+**Level**:: 15
+**Price**:: 124000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d4 So;
+**Damage**:: 8d4 So
 **Critical**:: nauseate  
 **Bulk**:: L
 **Special**:: boost 4d4, powered (capacity 20; usage 1)
@@ -31,10 +31,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Starfinder Armory pg. 50_  
 **Level**:: 5
-**Price**:: 3,230  
+**Price**:: 3230  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 So;
+**Damage**:: 1d4 So
 **Critical**:: nauseate  
 **Bulk**:: L
 **Special**:: boost 1d4, powered (capacity 20; usage 1)
@@ -42,11 +42,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Gauntlet, Molecular
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 10;
-**Price**:: 19,900  
+**Level**:: 10
+**Price**:: 19900  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 So;
+**Damage**:: 3d4 So
 **Critical**:: nauseate  
 **Bulk**:: L
 **Special**:: boost 3d4, powered (capacity 20; usage 1)
@@ -54,11 +54,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Resonant Gauntlet, Quantum
 
 **Source**:: _Starfinder Armory pg. 50_  
-**Level**:: 20;
-**Price**:: 901,000  
+**Level**:: 20
+**Price**:: 901000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d12 So;
+**Damage**:: 6d12 So
 **Critical**:: nauseate  
 **Bulk**:: L
 **Special**:: boost 3d12, powered (capacity 20; usage 1)

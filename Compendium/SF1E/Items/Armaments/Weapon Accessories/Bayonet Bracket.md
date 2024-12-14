@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,9 +14,10 @@ A bayonet bracket allows you to attach a one-handed melee weapon to the bottom r
 ## Bayonet Bracket, Heavy
 
 **Source**:: _Starfinder Armory pg. 58_  
-**Level** 1;
-**Price**::  300; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 1
+**Price**::  300 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 
@@ -25,9 +26,10 @@ A heavy bracket allows you to fasten a melee weapon of 1 bulk or less to a longa
 ## Bayonet Bracket, light
 
 **Source**:: _Starfinder Armory pg. 58_  
-**Level** 1;
-**Price**::  150; **Bulk** L  
-**Weapon Types** railed weapon, small arm
+**Level**:: 1
+**Price**::  150 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 

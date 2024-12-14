@@ -3,11 +3,11 @@ aliases:
 cr: 1
 Environment: any
 hp: 20
-modifier: 2
-name: Medium Predator 
+Initmod: 2
+name: Medium Predator
 statblock: true
 tags: 
-Type: N Medium animal  
+Type: N Medium animal
 ---
 
 # Medium Predator
@@ -16,7 +16,7 @@ From the vortex sharks of Kalo-Mahoi to the hoarbats of Verces’s Darkside, and
 
 Predators come in all shapes and sizes, limited only by the environment where they are found. Bigger predators rely on abundant food, cycles of inactivity, an omnivorous diet, or a combination of these. Smaller predators have fewer requirements and can be equally dangerous; even very small animals can evolve pack tactics to overwhelm larger and stronger creatures. Some of these swarms, such as the flying viper eels of Bretheda, strip flesh from bone as they move over and around prey.
 
-**Source**:: _Alien Archive 2 pg. 102_
+**Source**:  _Alien Archive 2 pg. 102_
 
 ## Medium Predator Cr 1
 

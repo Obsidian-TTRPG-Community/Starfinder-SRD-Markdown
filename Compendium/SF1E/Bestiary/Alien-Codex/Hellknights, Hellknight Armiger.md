@@ -3,11 +3,21 @@ aliases:
 cr: 5
 Environment: any
 hp: 70
-modifier: 5
+Initmod: 5
 name: Hellknights, Hellknight Armiger
 statblock: true
 tags: 
-Type: LN Medium humanoid (lashunta)  
+Type: LN Medium humanoid (lashunta)
+combatType: combatant
+alignment: LN
+size: medium
+type(subtype): humanoid(lashunta)
+environment: any
+climate: any
+planet:
+  - 
+organization: any
+source: PW
 ---
 
 # Hellknights, Hellknight Armiger
@@ -16,7 +26,7 @@ Hellknights preserve law and order at any cost. They coordinate their efforts fr
 
 ## Hellknights, Hellknight Armiger
 
-**Source**:: _Pact Worlds pg. 172_
+**Source**:  _Pact Worlds pg. 172_
 
 ## Hellknight Armiger Cr 5
 
@@ -56,3 +66,5 @@ At will—_daze_ (DC 11), _psychokinetic hand_
 
 Hellknight armigers train under more experienced Hellknights until they succeed at the test that grants them the full rank of Hellknight. They have little to no leeway in interpreting their orders and strive to enforce all edicts given by their superiors.  
 **Adaptation:** A Hellknight armiger can function as an exceptionally disciplined Steward or bounty hunter. Alternatively, a Hellknight armiger could also be one of the soldiers of Castrovel's lashunta city-states.
+
+

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 14
-Environment: any (the Drift)  
+Environment: any (the Drift)
 hp: 250
-modifier: 6
+Initmod: 6
 name: Spectra, Sondria
 statblock: true
 tags: 
-Type: N Small outsider (extraplanar, spectra)  
+Type: N Small outsider (extraplanar, spectra)
 ---
 
 # Spectra, Sondria
@@ -18,7 +18,7 @@ Iridias are one of the few spectra encountered outside the Drift, most often on 
 
 Aspecnas, powerful spectra paragons with fan-like tails and faces that resemble blooming flowers, rarely interact directly with the Material Plane. These formidable outsiders instead concern themselves with maintaining the precarious balance of power among extraplanar forces in the Drift, opposing any who would attempt to establish strongholds with the intent of laying their own claim to a substantial expanse of Triune’s realm. Aspecnas have on occasion appeared to correct the course of mortals who have become lost in the ever-shifting plane, and even intervened to protect weaker mortals from the predation of malevolent Drift-marooned outsiders. These rare but memorable acts have earned aspecnas the nickname “Drift angels” among those who regularly travel through the plane.
 
-**Source**:: _Alien Archive 4 pg. 114_
+**Source**:  _Alien Archive 4 pg. 114_
 
 ## Sondria Cr 14
 

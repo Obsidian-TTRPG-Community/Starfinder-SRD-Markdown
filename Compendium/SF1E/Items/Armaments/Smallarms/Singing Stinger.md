@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 200
 tags: 
@@ -14,11 +14,11 @@ type: Smallarm
 **Price**:: 200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: injection +2  
 **Capacity**:: 1 dart; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Analog, breakdown, injection, professional (musician), subtle
+**Bulk**:: 1**Special**:: Analog, breakdown, injection, professional (musician), subtle
 
 ### Description
 

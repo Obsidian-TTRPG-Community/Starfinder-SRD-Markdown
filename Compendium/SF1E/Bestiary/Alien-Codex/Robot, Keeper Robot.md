@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 18
-Environment: any land  
+Environment: any land
 hp: 380
-modifier: 8
+Initmod: 8
 name: Robot, Keeper Robot
 statblock: true
 tags: 
-Type: N Large construct (technological)  
+Type: N Large construct (technological)
 ---
 
 # Robot, Keeper Robot
@@ -24,7 +24,7 @@ There is nothing subtle, however, about a siege robot. These machines serve as a
 
 A siege robot can be used as a vehicle in vehicle combat or vehicle chases. In such cases it acts as its own pilot and has the following additional statistics: item level equal to its CR; drive speed 60 ft., full speed 500 ft., overland speed 60 mph, (hover); hardness 8; collision damage 16d10 B (DC 19); –3 attack roll penalty (–6 at full speed). A siege robot acting as a vehicle can carry up to 4 Medium passengers but provides them no cover.
 
-**Source**:: _Alien Archive 3 pg. 86_
+**Source**:  _Alien Archive 3 pg. 86_
 
 ## Keeper Robot Cr 18
 

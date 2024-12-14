@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 90
-modifier: 7
+Initmod: 7
 Monster Type: NPC
 name: Spell Hunter
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Spell Hunter

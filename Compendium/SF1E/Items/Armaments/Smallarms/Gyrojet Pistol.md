@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 15 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Gyrojet Pistol, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 17;
-**Price**:: 212,700  
+**Level**:: 17
+**Price**:: 212700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d12 B; **Range**:: 80 ft.;
+**Damage**:: 4d12 B; 
+**Range**:: 80 ft.
 **Critical**:: knockdown  
 **Capacity**:: 8 mini-rockets; **Usage** 1  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Gyrojet Pistol, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 15;
-**Price**:: 91,500  
+**Level**:: 15
+**Price**:: 91500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d12 B; **Range**:: 80 ft.;
+**Damage**:: 3d12 B; 
+**Range**:: 80 ft.
 **Critical**:: knockdown  
 **Capacity**:: 8 mini-rockets; **Usage** 1  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Gyrojet Pistol, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 20;
-**Price**:: 715,800  
+**Level**:: 20
+**Price**:: 715800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d12 B; **Range**:: 80 ft.;
+**Damage**:: 5d12 B; 
+**Range**:: 80 ft.
 **Critical**:: knockdown  
 **Capacity**:: 8 mini-rockets; **Usage** 1  
 **Bulk**:: L

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 7 / 11 / 16 / 20 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Vibrogarrote, Basic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 410  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d3 So;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d3 So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: conceal, grapple, operative, powered (capacity 20; usage 1), throttle
@@ -28,11 +27,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Vibrogarrote, Harmonic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 7;
-**Price**:: 7,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d4 So;
+**Level**:: 7
+**Price**:: 7200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d4 So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: conceal, grapple, operative, powered (capacity 20; usage 1), throttle
@@ -40,11 +38,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Vibrogarrote, Interference
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 11;
-**Price**:: 27,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 So;
+**Level**:: 11
+**Price**:: 27100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: conceal, grapple, operative, powered (capacity 20; usage 1), throttle
@@ -52,11 +49,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Vibrogarrote, Infrasonic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 16;
-**Price**:: 189,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 So;
+**Level**:: 16
+**Price**:: 189000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d6 So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: conceal, grapple, operative, powered (capacity 20; usage 1), throttle
@@ -64,11 +60,10 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Vibrogarrote, Ultrasonic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 20;
-**Price**:: 927,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 So;
+**Level**:: 20
+**Price**:: 927000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d6 So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: conceal, grapple, operative, powered (capacity 20; usage 1), throttle

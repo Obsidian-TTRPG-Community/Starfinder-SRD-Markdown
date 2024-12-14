@@ -3,11 +3,11 @@ aliases:
 cr: 14
 Environment: any
 hp: 250
-modifier: 8
+Initmod: 8
 name: Golem, Nanotech Golem
 statblock: true
 tags: 
-Type: N Large construct (magical, technological)  
+Type: N Large construct (magical, technological)
 ---
 
 # Golem, Nanotech Golem
@@ -15,7 +15,7 @@ Type: N Large construct (magical, technological)
 These automatons, created by powerful spellcasters, differ from most robots in that each has an elemental spirit bound within. Properly binding this spirit, which is usually from an earth elemental, is the most important part of creating a golem. As the spirit is only semiconscious, the golem exists in a mindless state and acts only to defend itself or to follow orders from its creator. In some golems, injury causes the elemental spirit to stir in its artificial shell. As it gains awareness, it rages at its imprisonment.
 
 
-**Source**:: _Alien Archive 2 pg. 67_
+**Source**:  _Alien Archive 2 pg. 67_
 
 ## Nanotech Golem Cr 14
 

@@ -3,11 +3,24 @@ aliases:
 cr: 17
 Environment: any
 hp: 285
-modifier: 5
+Initmod: 5
 name: Emotivore, Emotivore Mastermind
 statblock: true
 tags: 
-Type: NE Medium undead (shapechanger)  
+Type: NE Medium undead (shapechanger)
+combatType: spellcaster
+alignment: NE
+size: medium
+type(subtype): undead(shapechanger)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - cabal(1) + emotivore(2-6)
+source: Alien Archive 2
 ---
 
 # Emotivore, Emotivore Mastermind
@@ -16,7 +29,7 @@ Emotivores are undead that come into being when someone dies in the throes of in
 
 An emotivore manipulates and deceives to evoke feelings it can psychically feed upon. It chooses its appearance based on information it gleans from potential victims, assuming a shape that evokes a passionate response.
 
-**Source**:: _Alien Archive 2 pg. 51_
+**Source**:  _Alien Archive 2 pg. 51_
 
 ## Emotivore Mastermind Cr 17
 
@@ -75,3 +88,5 @@ At will—_detect thoughts_ (DC 21), _holographic image_ (3rd level; DC 23), _mi
 
 The following extra content was found for this creature:  
 \- Emotivore (Other) Graft Template
+
+

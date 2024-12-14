@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Stabrisis-14)  
+Environment: any (Stabrisis-14)
 hp: 75
-modifier: 3
+Initmod: 3
 name: Kiirinta, Shaman
 statblock: true
 tags: 
-Type: CN Small fey  
+Type: CN Small fey
 ---
 
 # Kiirinta, Shaman
@@ -22,7 +22,7 @@ Kiirinta society rewards boldness and daring, and the ability to recount one’s
 
 Recently, the Starfinder Society interceded on Stabrisis-14 when several weapon caches were dropped on the planet, inciting conflict within a kiirinta tribe and resulting in kiirintas’ introduction to the larger galaxy. Though still somewhat localized, word of the life forms and technologies on other planets is spreading quickly among kiirintas, and their natural curiosity is encouraging many to find their way off Stabrisis-14 to explore the universe. Kiirintas of both castes have taken an eager interest in newly discovered technologies and peoples.
 
-**Source**:: _Alien Archive 4 pg. 62_
+**Source**:  _Alien Archive 4 pg. 62_
 
 ## Shaman Cr 6
 

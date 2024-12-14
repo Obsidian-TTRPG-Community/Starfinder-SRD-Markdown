@@ -8,7 +8,7 @@ tags:
 ``` dataview
 TABLE
 Prerequisites, Benefit
-FROM "Codex/Feats/General Feats"
-SORT Name ASC
+FROM "Starfinder-SRD/SF1E/Compendium/Feats/General Feats"
+SORT file.name ASC
 WHERE file.name != "General Feats"
 ```

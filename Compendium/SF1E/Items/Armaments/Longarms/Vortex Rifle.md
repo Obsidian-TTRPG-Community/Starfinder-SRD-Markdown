@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,46 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 
 **Source**:: _Galaxy Exploration Manual pg. 55_  
 **Level**:: 12
-**Price**:: 38,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d6 So; **Range**:: 60 ft.;
+**Price**:: 38000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nauseate  
 **Capacity**:: 20 charges ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breach, underwater
+**Bulk**:: 1**Special**:: Breach, underwater
 
 ## Vortex Rifle, Pulse
 
 **Source**:: _Galaxy Exploration Manual pg. 55_  
-**Level**:: 3;
-**Price**:: 1,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d4 So; **Range**:: 60 ft.;
+**Level**:: 3
+**Price**:: 1400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d4 So; 
+**Range**:: 60 ft.
 **Critical**:: Nauseate  
 **Capacity**:: 20 charges ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breach, underwater
+**Bulk**:: 1**Special**:: Breach, underwater
 
 ## Vortex Rifle, Surge
 
 **Source**:: _Galaxy Exploration Manual pg. 55_  
-**Level**:: 6;
-**Price**:: 4,150  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d6 So; **Range**:: 60 ft.;
+**Level**:: 6
+**Price**:: 4150  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nauseate  
 **Capacity**:: 20 charges ; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: Breach, underwater
+**Bulk**:: 1**Special**:: Breach, underwater
 
 ## Vortex Rifle, Hammer
 
 **Source**:: _Galaxy Exploration Manual pg. 55_  
-**Level**:: 17;
-**Price**:: 250,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 8d6 So; **Range**:: 60 ft.;
+**Level**:: 17
+**Price**:: 250000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 8d6 So; 
+**Range**:: 60 ft.
 **Critical**:: Nauseate  
 **Capacity**:: 40 charges ; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: Breach, underwater
+**Bulk**:: 1**Special**:: Breach, underwater

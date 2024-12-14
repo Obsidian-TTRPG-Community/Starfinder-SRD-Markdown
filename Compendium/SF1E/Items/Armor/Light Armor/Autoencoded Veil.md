@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12 / 16 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,43 +15,78 @@ This sleek armor integrates extensive wiring and recycled material directly into
 
 **Source**:: _Drift Crisis pg. 85_  
 **Level**:: 4
-**Price**:: 2,100; **Category** Light  
-**EAC Bonus** +4; **KAC Bonus** +4; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Price**:: 2100 
+**Category**:: Light  
+
+**EAC**:: +4 
+**KAC**:: +4 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ## Autoencoded Veil, Ii
 
 **Source**:: _Drift Crisis pg. 85_  
-**Level**:: 8;
-**Price**:: 9,500; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +10; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Level**:: 8
+**Price**:: 9500 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +10 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1
 
 ## Autoencoded Veil, Iii
 
 **Source**:: _Drift Crisis pg. 85_  
 **Level**:: 12
-**Price**:: 36,500; **Category** Light  
-**EAC Bonus** +13; **KAC Bonus** +15; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: 1
+**Price**:: 36500 
+**Category**:: Light  
+
+**EAC**:: +13 
+**KAC**:: +15 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: 1
 
 ## Autoencoded Veil, Vi
 
 **Source**:: _Drift Crisis pg. 85_  
-**Level**:: 16;
-**Price**:: 175,000; **Category** Light  
-**EAC Bonus** +19; **KAC Bonus** +20; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Level**:: 16
+**Price**:: 175000 
+**Category**:: Light  
+
+**EAC**:: +19 
+**KAC**:: +20 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## Autoencoded Veil, V
 
 **Source**:: _Drift Crisis pg. 85_  
-**Level**:: 20;
-**Price**:: 850,000; **Category** Light  
-**EAC Bonus** +22; **KAC Bonus** +22; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: 1
+**Level**:: 20
+**Price**:: 850000 
+**Category**:: Light  
+
+**EAC**:: +22 
+**KAC**:: +22 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: 1

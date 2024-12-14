@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 2
 hp: 23
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Prisoner
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Prisoner

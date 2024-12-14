@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 0
+
 Notetype: Weapon
 price: 0
 tags: 
@@ -11,11 +11,11 @@ type: Basic-Melee
 # Club
 
 **Source**:: _Starfinder Core Rulebook pg. 171_  
-**Level**:: 0;
+**Level**:: 0
 **Price**:: —  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 B;
+**Damage**:: 1d6 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Analog, archaic, thrown (10 ft.)

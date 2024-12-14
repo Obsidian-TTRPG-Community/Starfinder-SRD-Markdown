@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 13
-Environment: any (the Drift)  
+Environment: any (the Drift)
 hp: 225
-modifier: 8
+Initmod: 8
 name: Driftdead, Driftdead Amalgam
 statblock: true
 tags: 
-Type: NE Medium undead (extraplanar)  
+Type: NE Medium undead (extraplanar)
 ---
 
 # Driftdead, Driftdead Amalgam
@@ -24,7 +24,7 @@ Though driftdead retain a shred of the intelligence they possessed in life, thei
 
 Some evil and intelligent undead have even been known to deliberately lure and collect driftdead, installing the creatures as traps for the unwary living. Rumors claim that the Corpse Fleet conducts regular trawling missions through Drift wreckage to recover driftdead and then weaponize them against the living. Whether Eox’s renegade military truly engages in such a practice or whether this is a case of fearmongers spreading misinformation is unclear. Unfortunately, few survivors of Corpse Fleet aggression remain to shed light on the issue.
 
-**Source**:: _Alien Archive 3 pg. 26_
+**Source**:  _Alien Archive 3 pg. 26_
 
 ## Driftdead Amalgam Cr 13
 

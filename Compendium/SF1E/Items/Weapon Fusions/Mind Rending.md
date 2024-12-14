@@ -1,7 +1,7 @@
 ---
 aliases: 
 Effect: Scoring a critical hit with a weapon with the _mind rending_ fusion damages the psyche of the creature struck. The target can negate this effect with a successful Will save; otherwise, roll on the Psychic Trauma table to determine how the target creature is affected. If the weapon already has a critical hit effect, when you score a critical hit, you can apply either the weapon’s normal critical hit effect or a psychic trauma. Psychic trauma is a mind-affecting effect. While each psychic trauma exploits a potential neurosis, the trauma does not cause actual insanity. The effects of psychic trauma can be removed with the remove affliction spell (DC = 15 + half the item level of the mind rending weapon).
-ItemLevel: 7
+Item
 NoteType: Weapon
 tags: 
 Type: Weapon Fusions
@@ -10,7 +10,7 @@ Type: Weapon Fusions
 # Mind Reading
 
 **Source**:: _Starfinder Armory pg. 64_  
-**Item Level** 7  
+**Level**:: 7  
 Scoring a critical hit with a weapon with the _mind rending_ fusion damages the psyche of the creature struck. The target can negate this effect with a successful Will save; otherwise, roll on the Psychic Trauma table to determine how the target creature is affected. If the weapon already has a critical hit effect, when you score a critical hit, you can apply either the weapon’s normal critical hit effect or a psychic trauma. Psychic trauma is a mind-affecting effect. While each psychic trauma exploits a potential neurosis, the trauma does not cause actual insanity. The effects of psychic trauma can be removed with the remove affliction spell (DC = 15 + half the item level of the mind rending weapon).
 
 | 1-5   | Anxiety    | Shaken 1d4 rounds                                                                  |

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any sky (Bretheda, Liavara)  
+Environment: any sky (Bretheda, Liavara)
 hp: 90
-modifier: 5
+Initmod: 5
 name: Cloud Ray, Cloud Skate
 statblock: true
 tags: 
-Type: N Large animal  
+Type: N Large animal
 ---
 
 # Cloud Ray, Cloud Skate
@@ -22,7 +22,7 @@ Though cloud rays travel in small groups during their passive cycles and when br
 
 Despite their fish-like appearance, the predominantly warm-blooded cloud rays supplement their warmth by basking in sunlight and adjusting their coloration to absorb or reflect more solar energy. Their movements generate electrical charges that they store in an organic capacitor at the base of their tails and can discharge into prey. However, the smaller cloud skates possess only a rudimentary version of this organ that merely absorbs minor charges and gradually releases them as an underdeveloped form of electroreception.
 
-**Source**:: _Alien Archive 4 pg. 20_
+**Source**:  _Alien Archive 4 pg. 20_
 
 ## Cloud Skate Cr 6
 

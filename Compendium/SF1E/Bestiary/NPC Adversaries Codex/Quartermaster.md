@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 8
 hp: 115
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Quartermaster
-statblock: true
-Subtype: Former Military
+statblock: true(Former Military
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Quartermaster

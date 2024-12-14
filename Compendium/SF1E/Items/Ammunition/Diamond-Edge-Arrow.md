@@ -1,21 +1,17 @@
 ---
 aliases:
   - Diamond-Edge Arrow
-bulk: L
-capacity: "20"
-critical: 
-damage: 
 tags:
-  - sf1e/items/ammunition
+  - ammunition
 type:
-  - Arrow
+  - ammo
 ---
 
 # Diamond-edge Arrow
 
 **Source**:: _Starfinder Armory pg. 55_  
 **Level**:: 12
-**Price**:: 5,200  
+**Price**:: 5200  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

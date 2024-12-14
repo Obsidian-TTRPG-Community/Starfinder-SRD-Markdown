@@ -1,24 +1,23 @@
 ---
-aliases: 
+aliases: []
 Level: 2
 Mystic: 
 NoteType: Spell
 Precog: 
-School: transmutation 
-tags: 
+tags: []
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Alter Enhancement
 
-**Source**:: _Near Space pg. 155_  
-**Classes**:: Witchwarper 2  
-**School**:: transmutation  
-**Casting-Time**:: 1 standard action  
-**Range**:: close (25 ft. + 5 ft./2 levels)  
-**Targets**:: one weapon with at least one weapon fusion or one suit of armor with at least one armor upgrade  
-**Duration**:: 1 round/level (D)  
+**Source**:: _Near Space pg. 155_
+**Classes**:: Witchwarper 2
+**School**:: transmutation
+**Casting-Time**:: 1 standard action
+**Range**:: close (25 ft. + 5 ft./2 levels)
+**Targets**:: one weapon with at least one weapon fusion or one suit of armor with at least one armor upgrade
+**Duration**:: 1 round/level (D)
 **Saving-Throw**:: Fortitude negates (object);
 **Spell Resistance**:: yes
 

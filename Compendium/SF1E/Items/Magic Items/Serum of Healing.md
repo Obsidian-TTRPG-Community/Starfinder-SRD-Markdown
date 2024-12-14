@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 9
+
 price: 
 tags: 
 Type: Magic Item
@@ -21,17 +21,20 @@ This vial of medical serum quickly sets bones and repairs other physical damage.
 ## Serum of Healing, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 1;
-**Price**::  50; **Bulk** L
+**Level**:: 1
+**Price**::  50 
+**Bulk**:: L
 
 ## Serum of Healing, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  425; **Bulk** L
+**Level**:: 5
+**Price**::  425 
+**Bulk**:: L
 
 ## Serum of Healing, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 9;
-**Price**::  1,950; **Bulk** L|                |
+**Level**:: 9
+**Price**::  1950 
+**Bulk**:: L|                |

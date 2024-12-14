@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6
-price: 4,500
+
+price: 4500
 tags: 
 Type: Technological Item
 ---
@@ -11,10 +11,11 @@ Type: Technological Item
 These rare items are bits of lost technology or unique items less powerful than artifacts. A relic has an item level but can be sold for 100% of the item’s price (like trade goods). A relic cannot be crafted without the means of a specific formula, which is almost always long lost, and often requires specific materials. A relic that became understood well enough to be reproduced, standardized, and mass-marketed might lose its relic status.
 
 **Source**:: _Tech Revolution pg. 66_  
-**Level** 6;
+**Level**:: 6
 **Price**::  4500  
-**Capacity**:: 100; **Usage** 1/hour  
-**Hands** —; **Bulk** 12
+**Capacity**:: 100 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: 12
 
 ### Description
 

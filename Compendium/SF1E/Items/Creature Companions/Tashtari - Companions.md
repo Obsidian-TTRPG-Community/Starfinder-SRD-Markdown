@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 4-20
+
 Type: Medium magical beast  
 ---
 # TASHTARI - COMPANIONS
@@ -8,7 +8,8 @@ Type: Medium magical beast
 **Source**:: _Alien Archive 3 pg. 145_  
 Nicknamed “laser wolves,” tashtaris are covered in a twinkling phosphorescent coat that they can use to communicate and power their muzzle beams. Domesticated tashtaris are less dangerous than their wild counterparts, but they can still be potent threats on the battlefield.
 
-## TASHTARILEVELS 4-20
+## TASHTARI
+level:: 4-20
 
 Medium magical beast  
 **Senses** darkvision 60 ft., low-light vision  

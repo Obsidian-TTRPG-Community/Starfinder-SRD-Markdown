@@ -1,23 +1,29 @@
 ---
 aliases: 
-ItemLevel: 11
-NoteType: Terrestial Vehicles
-price: 65,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 65000
 tags: 
 ---
 
 # Dioxide Wingship
 
 **Source**:: _Tech Revolution pg. 84_
-**Item Level** 11;
-**Price**::  65,000  
+**Level**:: 11
+**Price**::  65000  
 Colossal land vehicle (160 ft. wide, 1200 ft. long, 40 ft. high)  
-**Speed** 70 ft., full 550 ft., 65 mph (fly)  
-**EAC** 23; **KAC** 24; **Cover** total cover  
-**HP** 180 (90); **Hardness** 5  
+**Speed**:: 70 ft., full 550 ft., 65 mph (fly)  
+
+**EAC**:: 23; 
+**KAC**:: 24; 
+**Cover**:: total cover  
+**HP**:: 180 (90); 
+**Hardness**:: 5  
 **Attack (Collision)** 13d10 B (DC 12)  
-**Modifiers** –5 Piloting, –1 attack (–3 at full speed)  
-**Systems** autopilot (Piloting +17), enhanced sensors (sense through [vision; clouds only] 100 ft.), expansion bay; **Passengers** 50  
+
+**Modifiers**:: –5 Piloting, –1 attack (–3 at full speed)  
+**Systems**:: autopilot (Piloting +17), enhanced sensors (sense through [vision; clouds only] 100 ft.), expansion bay
+**Passengers**:: 50  
 
 ### Description
 

@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 7 / 11 / 15
+Item:
 price:  
-System: Hand
+
 tags: 
 Type: Biotech
 ---
@@ -23,14 +23,15 @@ You can choose not to spend a Resolve Point before you use this ability, but doi
 | 6   | Target is affected by a restoration spell                                                                                       |
 | 7   | Target is confused for 1d4 rounds                                                                                               |
 | 8   | Target gains 1d4 negative levels                                                                                                |
-| 9   | Target is affected by baleful polymorph (level 6); its polymorphed form is random                                               |
+| 9   | Target is affected by baleful polymorph (level 6) its polymorphed form is random                                               |
 | 10  | Target’s head is wracked with pain, dealing 18d6 damage (half on a successful save)                                             |
 
 ## Probability Tendril, Mk 1
 
 **Source**:: _Drift Crisis pg. 112_  
-**Item Level** 7;
-**Price**::  6,250; **System** Hand  
+**Level**:: 7
+**Price**::  6250 
+**System**:: Hand  
 Roll 1d4 on the table.  
 
 ---
@@ -38,13 +39,15 @@ Roll 1d4 on the table.
 ## Probability Tendril, Mk 2
 
 **Source**:: _Drift Crisis pg. 112_  
-**Item Level** 11;
-**Price**::  22,500; **System** Hand  
+**Level**:: 11
+**Price**::  22500 
+**System**:: Hand  
 Roll 1d8 on the table.  
 
 ## Probability Tendril, Mk 3
 
 **Source**:: _Drift Crisis pg. 112_  
-**Item Level** 15;
-**Price**::  115,000; **System** Hand  
+**Level**:: 15
+**Price**::  115000 
+**System**:: Hand  
 Roll 1d10 on the table.

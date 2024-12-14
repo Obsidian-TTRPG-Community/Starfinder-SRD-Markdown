@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 215
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Deep One Elder
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Deep One Elder

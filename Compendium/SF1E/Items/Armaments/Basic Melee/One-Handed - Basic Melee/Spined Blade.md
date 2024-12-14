@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 8 / 11 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,10 +16,10 @@ Kasathas on their home world wielded spined blades to better poison foes. Replic
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 5
-**Price**:: 2,600  
+**Price**:: 2600  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 P;
+**Damage**:: 1d6 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: analog
@@ -27,11 +27,11 @@ Kasathas on their home world wielded spined blades to better poison foes. Replic
 ## Spined Blade, Buzzblade
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 8;
-**Price**:: 9,400  
+**Level**:: 8
+**Price**:: 9400  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d10 P;
+**Damage**:: 1d10 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -39,11 +39,11 @@ Kasathas on their home world wielded spined blades to better poison foes. Replic
 ## Spined Blade, Ripper
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 11;
-**Price**:: 24,500  
+**Level**:: 11
+**Price**:: 24500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d10 P;
+**Damage**:: 2d10 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -52,10 +52,10 @@ Kasathas on their home world wielded spined blades to better poison foes. Replic
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 14
-**Price**:: 62,400  
+**Price**:: 62400  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 4d10 P;
+**Damage**:: 4d10 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2)
@@ -63,11 +63,11 @@ Kasathas on their home world wielded spined blades to better poison foes. Replic
 ## Spined Blade, Rivener
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 18;
-**Price**:: 325,000  
+**Level**:: 18
+**Price**:: 325000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 8d10 P;
+**Damage**:: 8d10 P
 **Critical**:: injection DC +2  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2)

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: any sky (Osoro)  
+Environment: any sky (Osoro)
 hp: 208
-modifier: 5
+Initmod: 5
 name: Irokiroi, Oshirokiroi
 statblock: true
 tags: 
-Type: N Gargantuan animal  
+Type: N Gargantuan animal
 ---
 
 # Irokiroi, Oshirokiroi
@@ -18,7 +18,7 @@ Irokirois are largely solitary creatures. Roughly twice every year, they congreg
 
 In recent years, irokiroi and oshirokiroi attacks have increased drastically, with some Osoran settlements fighting off multiple instances each month. A strong correlation exists between the rise in attacks and the growing popularity of Bhalakosti Excursion’s survival safari trips into the moon’s poisonous jungles, run by dirindi (see pages 20–21) natives of the moon and patronized by predominantly vesk customers. Though the company’s representatives have declined to comment on the situation, biologists theorize that the excursions’ hunting of predators that feed on immature irokirois has led to a surge in the irokiroi population and therefore more attacks.
 
-**Source**:: _Alien Archive 3 pg. 56_
+**Source**:  _Alien Archive 3 pg. 56_
 
 ## Oshirokiroi Cr 12
 

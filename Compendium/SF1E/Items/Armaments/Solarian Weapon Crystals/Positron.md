@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ A positron crystal’s interactions with matter release both heat and radiation,
 ## Positron, Least
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 3;
-**Price**:: 1,310  
+**Level**:: 3
+**Price**:: 1310  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d2 F;
+**Damage**:: +1d2 F
 **Critical**:: irradiate  
 **Bulk**:: —
 **Special**:: —
@@ -26,11 +26,11 @@ A positron crystal’s interactions with matter release both heat and radiation,
 ## Positron, Minor
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 13;
-**Price**:: 47,000  
+**Level**:: 13
+**Price**:: 47000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d8 F;
+**Damage**:: +2d8 F
 **Critical**:: irradiate  
 **Bulk**:: —
 **Special**:: —
@@ -38,11 +38,11 @@ A positron crystal’s interactions with matter release both heat and radiation,
 ## Positron, Lesser
 
 **Source**:: _Starfinder Armory pg. 49_  
-**Level**:: 19;
-**Price**:: 528,000  
+**Level**:: 19
+**Price**:: 528000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +5d6 F;
+**Damage**:: +5d6 F
 **Critical**:: irradiate  
 **Bulk**:: —
 **Special**:: —

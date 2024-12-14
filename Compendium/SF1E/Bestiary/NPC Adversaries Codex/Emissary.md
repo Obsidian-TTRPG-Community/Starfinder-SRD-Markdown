@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 35
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Emissary
-statblock: true
-Subtype: Diplomats
+statblock: true(Diplomats
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Emissary

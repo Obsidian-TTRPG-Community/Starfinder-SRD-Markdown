@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: any (moons of Hadrogess)  
+Environment: any (moons of Hadrogess)
 hp: 35
-modifier: 2
+Initmod: 2
 name: Hadrogaan, Hyper-analyst
 statblock: true
 tags: 
-Type: N Medium humanoid (hadrogaan)  
+Type: N Medium humanoid (hadrogaan)
 ---
 
 # Hadrogaan, Hyper-analyst
@@ -28,7 +28,7 @@ Luma hadrogaans possess the increased intellect that was, in theory, the goal of
 
 Most hadrogaans see no practical purpose in returning to their home planet and have made few efforts to directly study or explore the surface of Hadrogess, instead preferring to focus on future developments for their current lunar homes. A few iconoclastic philosophers and scientists have directed their attention to the planet, however, and the discovery of obliterated cities, desolate landscapes, and signs of a once-extant mutant population hint at a possibly more sinister past.
 
-**Source**:: _Alien Archive 4 pg. 42_
+**Source**:  _Alien Archive 4 pg. 42_
 
 ## Hyper-analyst Cr 3
 

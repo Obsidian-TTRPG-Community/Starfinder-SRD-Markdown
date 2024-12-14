@@ -1,8 +1,8 @@
 ---
 aliases: 
 Category: Upgrade
-Level: 
-price: 50% of computer's base price
+
+price: "50% of computer's base price"
 tags: 
 Type: Computer Gear
 ---

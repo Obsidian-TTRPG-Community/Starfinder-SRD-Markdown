@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 4-5
 NoteType: Spell
 Precog: 4-5
-School: abjuration 
+
 tags: sf1e/spells/multilevel
 Technomancer: 4-5
 Witchwarper: 4-5

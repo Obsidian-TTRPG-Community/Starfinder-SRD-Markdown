@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 250
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Champion
-statblock: true
-Subtype: Religious Figures 
+statblock: true(Religious Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Champion

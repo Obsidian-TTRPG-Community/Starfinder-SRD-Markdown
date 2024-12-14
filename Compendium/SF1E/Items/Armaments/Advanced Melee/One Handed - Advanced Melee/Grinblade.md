@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 13
+
 Notetype: Weapon
-price: 45,700
+price: 45700
 tags: 
 type: Advanced-Melee
 ---
@@ -11,14 +11,13 @@ type: Advanced-Melee
 # Grinblade
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 13;
-**Price**:: 45,700  
+**Level**:: 13
+**Price**:: 45700  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d10 S;
+**Damage**:: 4d10 S
 **Critical**:: bleed 2d8  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ### Description
 

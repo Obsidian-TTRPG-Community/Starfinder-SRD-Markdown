@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 20
+
 Notetype: Weapon
 price: 325
 tags: 
@@ -10,10 +10,11 @@ type: Weapon Accessories
 # Rangefinder
 
 **Source**:: _Starfinder Armory pg. 60_  
-**Level** 1;
-**Price**::  325; **Bulk** L  
-**Capacity**:: 20; **Usage** 1/hour  
-**Weapon Types** railed weapon, small arm
+**Level**:: 1
+**Price**::  325 
+**Bulk**:: L  
+**Capacity**:: 20 **Usage** 1/hour  
+**WeaponTypes**:: railed weapon, small arm
 
 ### Description
 

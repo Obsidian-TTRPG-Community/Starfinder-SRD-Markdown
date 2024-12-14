@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Lajok)  
+Environment: any (Lajok)
 hp: 80
-modifier: 2
+Initmod: 2
 name: Vlaka, Vlaka Handler
 statblock: true
 tags: 
-Type: NG Medium humanoid (vlaka)  
+Type: NG Medium humanoid (vlaka)
+combatType: expert
+alignment: NG
+size: medium
+type(subtype): humanoid(vlaka)
+environment: any
+climate: any
+planet: Lajok
+organization:
+  - solitary
+  - pair
+source: Alien Archive 2
 ---
 
 # Vlaka, Vlaka Handler
@@ -26,7 +37,7 @@ Many sapient creatures find themselves drawn to the camaraderie vlakas offer, bu
 
 
 
-**Source**:: _Alien Archive 2 pg. 134_
+**Source**:  _Alien Archive 2 pg. 134_
 
 ## Vlaka Handler Cr 6
 
@@ -70,3 +81,5 @@ NG Medium humanoid (vlaka)
 The following extra content was found for this creature:  
 \- Vlaka (Creature Subtype) Graft Template  
 \- Vlaka Race Entry
+
+

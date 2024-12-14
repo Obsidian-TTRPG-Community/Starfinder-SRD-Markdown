@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1 / 10 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,43 +19,39 @@ Assault hammers have heavily weighted metal heads and relatively light aluminum 
 **Price**:: 95  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B;
+**Damage**:: 1d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Hammer, Comet
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 10;
-**Price**:: 16,900  
+**Level**:: 10
+**Price**:: 16900  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 B;
+**Damage**:: 4d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Hammer, Meteoric
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 16;
-**Price**:: 164,500  
+**Level**:: 16
+**Price**:: 164500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 11d6 B;
+**Damage**:: 11d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Hammer, Gravity well
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 19;
-**Price**:: 551,000  
+**Level**:: 19
+**Price**:: 551000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 15d6 B;
+**Damage**:: 15d6 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 40; usage 2)

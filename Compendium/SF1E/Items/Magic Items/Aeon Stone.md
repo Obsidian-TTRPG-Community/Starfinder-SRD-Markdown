@@ -1,8 +1,7 @@
 ---
 aliases: 
-Level: 1 - 14 
 price:  
-tags: [8:, 1-27:]
+tags: 
 Type: Magic Item
 ---
 
@@ -14,23 +13,13 @@ Placing an _aeon stone_ in orbit around your head is a standard action, and re
   
 Each _aeon stone_ also has at least one other power that comes into effect when in orbit around you, detailed in the individual descriptions below.  
 
-## Aeon Stone, Alabaster Helix
-
-**Source**:: _Starfinder Armory pg. 110_  
-**Level** 11;
-**Price**::  30,000; **Bulk** —
-
-### Description
-
-Rumor says the first _alabaster helix_ originated on a hidden world somewhere in the Vast. This _aeon stone_ must adjust to your physiology by orbiting you for 24 hours. If the stone stops orbiting you for more than 1 minute, it must readjust to you. The stone can orbit you while you’re prone or unconscious, but it stops orbiting you if you die. While the _alabaster helix_ orbits and remains adjusted to you, you regain 1 Hit Point per hour. You can have only one _alabaster helix_ adjusted to your physiology at a time.
-
----
 
 ## Aeon Stone, Clear Spindle
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 1;
-**Price**::  245; **Bulk** —
+**Level**:: 1
+**Price**::  245
+**Bulk**:: —
 
 ### Description
 
@@ -39,8 +28,9 @@ This _aeon stone_ sustains you by negating the need for food or water.
 ## Aeon Stone, Turquoise Cube
 
 **Source**:: _Galactic Magic pg. 48_  
-**Level** 1;
-**Price**::  250; **Bulk** —
+**Level**:: 1
+**Price**::  250
+**Bulk**:: —
 
 ### Description
 
@@ -49,8 +39,9 @@ First seen in the back-alley gambling houses of Broken Rock, pirate crews have s
 ## Aeon Stone, Iridescent Spindle
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 2;
-**Price**::  740; **Bulk** —
+**Level**:: 2
+**Price**::  740
+**Bulk**:: —
 
 ### Description
 
@@ -60,7 +51,8 @@ This _aeon stone_ sustains you by negating the need to breathe.
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
 **Level**:: 3
-**Price**::  1,300; **Bulk** —
+**Price**::  1300
+**Bulk**:: —
 
 ### Description
 
@@ -70,7 +62,8 @@ While this _aeon stone_ orbits you, as a reaction while falling, you can cast�
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
 **Level**:: 3
-**Price**::  1,400; **Bulk** —
+**Price**::  1400
+**Bulk**:: —
 
 ### Description
 
@@ -79,8 +72,9 @@ While this _aeon stone_ orbits you, you have proficiency with one kind of weap
 ## Aeon Stone, Amber Hyperboloid
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 4;
-**Price**::  2,200; **Bulk** —
+**Level**:: 4
+**Price**::  2200
+**Bulk**:: —
 
 ### Description
 
@@ -89,18 +83,20 @@ AbadarCorp first manufactured _amber hyperboloids_ as defensive devices for la
 ## Aeon Stone, Banded Malachite Cabochon
 
 **Source**:: _Drift Crisis pg. 69_  
-**Level** 4;
-**Price**::  2,000; **Bulk** —
+**Level**:: 4
+**Price**::  2000
+**Bulk**:: —
 
 ### Description
 
-This aeon stone functions as a specialized scrying sensor that’s constantly alert for a specific trigger. Once per hour as a move action, you can task the aeon stone with watching for a specific simple stimulus such as “any Medium or larger creature,” “the sound of an approaching creature,” or “smoke.” The aeon stone constantly perceives your surroundings in a 30-foot radius with human-like senses and darkvision; the stone cannot detect anything beyond that range. The stone has a +15 modifier to Life Science, Perception, or Physical Science checks to identify that assigned stimulus. If the stone senses the stimulus, it telepathically signals you, imparting information about the stimulus’s direction and distance for 1 round. The stone can provide up to three such signals per hour and no more than one per minute. The stone watches for its assigned stimulus until you deactivate the aeon stone or task it with detecting a new stimulus.
+This aeon stone functions as a specialized scrying sensor that’s constantly alert for a specific trigger. Once per hour as a move action, you can task the aeon stone with watching for a specific simple stimulus such as “any Medium or larger creature,” “the sound of an approaching creature,” or “smoke.” The aeon stone constantly perceives your surroundings in a 30-foot radius with human-like senses and darkvision the stone cannot detect anything beyond that range. The stone has a +15 modifier to Life Science, Perception, or Physical Science checks to identify that assigned stimulus. If the stone senses the stimulus, it telepathically signals you, imparting information about the stimulus’s direction and distance for 1 round. The stone can provide up to three such signals per hour and no more than one per minute. The stone watches for its assigned stimulus until you deactivate the aeon stone or task it with detecting a new stimulus.
 
 ## Aeon Stone, Bright Yellow Cabochon
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
-**Level** 4;
-**Price**::  2,000; **Bulk** —
+**Level**:: 4
+**Price**::  2000
+**Bulk**:: —
 
 ### Description
 
@@ -109,8 +105,9 @@ While this _aeon stone_ orbits you, you gain a +4 insight bonus to Culture c
 ## Aeon Stone, Scarlet Prism
 
 **Source**:: _SFS Scenario King Xeros of Star Azlant pg. 17_  
-**Level** 4;
-**Price**::  2,140; **Bulk** —
+**Level**:: 4
+**Price**::  2140
+**Bulk**:: —
 
 ### Description
 
@@ -119,8 +116,9 @@ A scarlet prism aeon stone stores a single charge that it can discharge as a tin
 ## Aeon Stone, Kehtarite Oval
 
 **Source**:: _Drift Crisis pg. 69_  
-**Level** 5;
-**Price**::  3,000; **Bulk** —
+**Level**:: 5
+**Price**::  3000
+**Bulk**:: —
 
 ### Description
 
@@ -129,8 +127,9 @@ Although found on other worlds, the brittle blue mineral kehtarite is named afte
 ## Aeon Stone, Sapphire Cone
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 5;
-**Price**::  3,200; **Bulk** —
+**Level**:: 5
+**Price**:: 3200
+**Bulk**:: —
 
 ### Description
 
@@ -139,8 +138,9 @@ Aballonian corporations initially distributed _sapphire cones_, but none of tho
 ## Aeon Stone, Ruby Sphere
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
-**Level** 6;
-**Price**::  3,850; **Bulk** —
+**Level**:: 6
+**Price**::  3850 
+**Bulk**:: —
 
 ### Description
 
@@ -149,18 +149,20 @@ While this _aeon stone_ orbits you, it functions as a comm unit and a tier 3 c
 ## Aeon Stone, Viridian Balbis
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 6;
-**Price**::  4,200; **Bulk** —
+**Level**:: 6
+**Price**::  4200
+**Bulk**:: —
 
 ### Description
 
-The Veskarium is the source of the _viridian balbis_, although the popular story is that the vesk “liberated” the stone’s design from skittermanders during the conquest of Vesk-3. While this _aeon stone_ orbits you, your speed increases by 10 feet; this enhancement bonus applies to any movement speed you have.
+The Veskarium is the source of the _viridian balbis_, although the popular story is that the vesk “liberated” the stone’s design from skittermanders during the conquest of Vesk-3. While this _aeon stone_ orbits you, your speed increases by 10 feet this enhancement bonus applies to any movement speed you have.
 
 ## Aeon Stone, Purple Sphere
 
 **Source**:: _Alien Archive pg. 7_  
-**Level** 7;
-**Price**::  7,500; **Bulk** —
+**Level**:: 7
+**Price**::  7500 
+**Bulk**:: —
 
 ### Description
 
@@ -169,8 +171,9 @@ This _aeon stone_ creates an invisible force field around you that functions a
 ## Aeon Stone, Iridium Star
 
 **Source**:: _Galactic Magic pg. 48_  
-**Level** 8;
-**Price**::  9,250; **Bulk** —
+**Level**:: 8
+**Price**::  9250
+**Bulk**:: —
 
 ### Description
 
@@ -179,19 +182,21 @@ Developed by the Academy of Purpose on New Thespera, iridium stars see everyday 
 ## Aeon Stone, Lusinite Rose
 
 **Source**:: _Drift Crisis pg. 69_  
-**Level** 8;
-**Price**::  9,500; **Bulk** —
+**Level**:: 8
+**Price**::  9500
+**Bulk**:: —
 
 ### Description
 
-Renowned for its iridescence, the gemstone lusinite has a dazzling quality that often sees the mineral hoarded by birds and other animals as treasures. As an aeon stone, it captivate creatures in three ways. As part of the action used to cast a spell with the charm descriptor, you can activate this aeon stone to negate any bonus to the saving throw one target might receive for being threatened or attacked by you or your allies. Second, you can activate the aeon stone as a reaction when you attempt a Charisma check to convince a charmed creature to follow your suggestions. Third, you can activate the aeon stone as a reaction when a threatening behavior by you or your allies would end the effects of your spell with the charm descriptor. The charmed creature attempts a Will save against the spell with a +5 enhancement bonus; if it succeeds, it ends the spell as normal, but if it fails, that threatening action does not break the spell (though subsequent actions might do so).  
+Renowned for its iridescence, the gemstone lusinite has a dazzling quality that often sees the mineral hoarded by birds and other animals as treasures. As an aeon stone, it captivate creatures in three ways. As part of the action used to cast a spell with the charm descriptor, you can activate this aeon stone to negate any bonus to the saving throw one target might receive for being threatened or attacked by you or your allies. Second, you can activate the aeon stone as a reaction when you attempt a Charisma check to convince a charmed creature to follow your suggestions. Third, you can activate the aeon stone as a reaction when a threatening behavior by you or your allies would end the effects of your spell with the charm descriptor. The charmed creature attempts a Will save against the spell with a +5 enhancement bonus if it succeeds, it ends the spell as normal, but if it fails, that threatening action does not break the spell (though subsequent actions might do so).  
 You can activate the lusinite rose twice per day, using any combination of these three effects. A creature is immune to the aeon stone’s effects if it cannot see the item.
 
 ## Aeon Stone, Vibrant Green Prism
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
-**Level** 9;
-**Price**::  14,000; **Bulk** —
+**Level**:: 9
+**Price**::  14000
+**Bulk**:: —
 
 ### Description
 
@@ -200,18 +205,32 @@ Highly prized by Azlanti pilots and astrogators, a _vibrant green prism aeon st
 ## Aeon Stone, Dark Blue Rhomboid
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 10;
-**Price**::  18,000; **Bulk** —
+**Level**:: ::10
+**Price**::  18000
+**Bulk**:: —
 
 ### Description
 
 This _aeon stone_ grants you a +2 insight bonus to Perception and Sense Motive skill checks.
 
+## Aeon Stone, Alabaster Helix
+
+**Source**:: _Starfinder Armory pg. 110_  
+**Level**:: 11
+**Price**::  30000
+**Bulk**:: —
+
+### Description
+
+Rumor says the first _alabaster helix_ originated on a hidden world somewhere in the Vast. This _aeon stone_ must adjust to your physiology by orbiting you for 24 hours. If the stone stops orbiting you for more than 1 minute, it must readjust to you. The stone can orbit you while you’re prone or unconscious, but it stops orbiting you if you die. While the _alabaster helix_ orbits and remains adjusted to you, you regain 1 Hit Point per hour. You can have only one _alabaster helix_ adjusted to your physiology at a time.
+
+---
 ## Aeon Stone, Pearly White Spindle
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 11;
-**Price**::  25,000; **Bulk** —
+**Level**:: 11
+**Price**::  25000
+**Bulk**:: —
 
 ### Description
 
@@ -220,8 +239,9 @@ This _aeon stone_ increases your caster level by 1. This affects only calculat
 ## Aeon Stone, Iridescent Trillian
 
 **Source**:: _Starfinder Escape from the Prison Moon pg. 44_  
-**Level** 12;
-**Price**::  32,000; **Bulk** —
+**Level**:: 12
+**Price**::  32000
+**Bulk**:: —
 
 ### Description
 
@@ -230,8 +250,9 @@ While this _aeon stone_ orbits you, when you are hit by a ranged attack, you c
 ## Aeon Stone, Kaleidoscopic Icosahedron
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 12;
-**Price**::  35,000; **Bulk** —
+**Level**:: 12
+**Price**::  35000
+**Bulk**:: —
 
 ### Description
 
@@ -240,8 +261,9 @@ The _kaleidoscopic icosahedron_ originated within the Azlanti Star Empire as a
 ## Aeon Stone, Obsidian Annulus
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 13;
-**Price**::  55,000; **Bulk** —
+**Level**:: 13
+**Price**::  55000
+**Bulk**:: —
 
 ### Description
 
@@ -250,8 +272,9 @@ The first _obsidian annuluses_ appeared as protective devices worn by importan
 ## Aeon Stone, Silver Lemniscate
 
 **Source**:: _Starfinder Armory pg. 110_  
-**Level** 14;
-**Price**::  65,000; **Bulk** —
+**Level**:: 14
+**Price**::  65000
+**Bulk**:: —
 
 ### Description
 

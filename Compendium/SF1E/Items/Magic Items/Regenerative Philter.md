@@ -1,11 +1,11 @@
 ---
 aliases: 
-Level: 4 / 11 / 16
+
 price: 
 tags: 
 Type: Magic Item
 ---
-This potent violet serum accelerates the body’s natural healing to astounding levels, though doing so expends vital energy. For 1 minute, you gain fast healing based on the philter’s formula: fast healing 2 for mk 1, fast healing 5 for mk 2, and fast healing 10 for mk 3. After this effect ends, you become fatigued until you take a 10-minute rest to recover Stamina Points, during which you must eat a full day’s food; this food only helps you recover from the fatigue and does not contribute to your typical food needs for the day. If you do not eat after consuming this serum, you experience starvation equivalent to going a full day without eating. You cannot benefit from a regenerative philter more than once per day.
+This potent violet serum accelerates the body’s natural healing to astounding levels, though doing so expends vital energy. For 1 minute, you gain fast healing based on the philter’s formula: fast healing 2 for mk 1, fast healing 5 for mk 2, and fast healing 10 for mk 3. After this effect ends, you become fatigued until you take a 10-minute rest to recover Stamina Points, during which you must eat a full day’s food this food only helps you recover from the fatigue and does not contribute to your typical food needs for the day. If you do not eat after consuming this serum, you experience starvation equivalent to going a full day without eating. You cannot benefit from a regenerative philter more than once per day.
 
 ### Serums
 
@@ -14,19 +14,22 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Regenerative Philter, Mk 1
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level** 4;
-**Price**::  350; **Bulk** —
+**Level**:: 4
+**Price**::  350 
+**Bulk**:: —
 
 ---
 
 ## Regenerative Philter, Mk 2
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level** 11;
-**Price**::  3,850; **Bulk** —
+**Level**:: 11
+**Price**::  3850 
+**Bulk**:: —
 
 ## Regenerative Philter, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 43_  
-**Level** 16;
-**Price**::  26,000; **Bulk** —
+**Level**:: 16
+**Price**::  26000 
+**Bulk**:: —

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 12
+
 price: 
 tags: 
 type: Shield
@@ -14,15 +14,21 @@ Vesk have used rageshkor frill plates for shields since ancient times. In the po
 ## Green
 
 **Source**:: _Alien Archive 4 pg. 97_  
-**Level**:: 6;
-**Price**:: 4,250  
-**Shield Bonus** +1/+2; **Max Dex** +3; **Armor Check Penalty** -1  
-**Bulk**:: 2; **Upgrades** 1
+**Level**:: 6
+**Price**:: 4250  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +3
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 2
+**Upgrades**:: 1
 
 ## Rock
 
 **Source**:: _Alien Archive 4 pg. 97_  
 **Level**:: 12
-**Price**:: 37,500  
-**Shield Bonus** +1/+2; **Max Dex** +4; **Armor Check Penalty** -1  
-**Bulk**:: 2; **Upgrades** 1
+**Price**:: 37500  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 2
+**Upgrades**:: 1

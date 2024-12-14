@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 5 / 11 / 17
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -16,22 +16,25 @@ A molting coat module replicates the quick-molting skin of a vasporan. You can a
 ## Molting Coat Module, Mk 1
 
 **Source**:: _Alien Archive 4 pg. 133_  
-**Item Level** 5;
-**Price**::  2,700  
-**Slots** 1; **Armor Type** Any; **Bulk** L  
+**Level**:: 5
+**Price**::  2700  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: L  
 
 ## Molting Coat Module, Mk 2
 
 **Source**:: _Alien Archive 4 pg. 133_  
-**Item Level** 11;
-**Price**::  23,000  
-**Slots** 1; **Armor Type** Any; **Bulk** L  
+**Level**:: 11
+**Price**::  23000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: L  
   
   
 
 ## Molting Coat Module, Mk 3
 
 **Source**:: _Alien Archive 4 pg. 133_  
-**Item Level** 17;
-**Price**::  225,000  
-**Slots** 1; **Armor Type** Any; **Bulk** L
+**Level**:: 17
+**Price**::  225000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: L

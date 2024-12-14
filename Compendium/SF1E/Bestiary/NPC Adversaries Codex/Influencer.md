@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 95
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Influencer
-statblock: true
-Subtype: Influencer
+statblock: true(Influencer
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Influencer

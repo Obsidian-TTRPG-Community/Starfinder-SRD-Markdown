@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1  
+
 price: 
 tags: 
 Type: Technological Item
@@ -13,15 +13,17 @@ Industrial-strength cabling is typically woven from hundreds of cords of high-du
 ## Cable Line, Adamantine Alloy
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  500/10 ft.  
-**Hands** —; **Bulk** L/20 ft.
+**Hands** — 
+**Bulk**:: L/20 ft.
 
 ---
 
 ## Cable Line, Titanium Alloy
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  5/10 ft.  
-**Hands** —; **Bulk** L/10 ft.
+**Hands** — 
+**Bulk**:: L/10 ft.

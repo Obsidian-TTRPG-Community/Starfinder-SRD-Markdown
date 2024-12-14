@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 9 / 14 / 17 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,11 +17,11 @@ Hardlight hand wraps can be customized to shine in any color in the visible spec
 ## Hardlight Hand Wrap, Ambient
 
 **Source**:: _Alien Archive 3 pg. 67_  
-**Level**:: 9;
-**Price**:: 13,100  
+**Level**:: 9
+**Price**:: 13100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 B;
+**Damage**:: 2d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Bright, Force, Powered (capacity 20, usage 2)
@@ -30,10 +30,10 @@ Hardlight hand wraps can be customized to shine in any color in the visible spec
 
 **Source**:: _Alien Archive 3 pg. 67_  
 **Level**:: 5
-**Price**:: 3,180  
+**Price**:: 3180  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B;
+**Damage**:: 1d6 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Bright, Force, Powered (capacity 20, usage 2)
@@ -42,10 +42,10 @@ Hardlight hand wraps can be customized to shine in any color in the visible spec
 
 **Source**:: _Alien Archive 3 pg. 67_  
 **Level**:: 14
-**Price**:: 75,000  
+**Price**:: 75000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d10 B;
+**Damage**:: 4d10 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Bright, Force, Powered (capacity 40, usage 4)
@@ -53,11 +53,11 @@ Hardlight hand wraps can be customized to shine in any color in the visible spec
 ## Hardlight Hand Wrap, Fluorescent
 
 **Source**:: _Alien Archive 3 pg. 67_  
-**Level**:: 17;
-**Price**:: 250,000  
+**Level**:: 17
+**Price**:: 250000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d10 B;
+**Damage**:: 6d10 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Bright, Force, Powered (capacity 40, usage 4)
@@ -65,11 +65,11 @@ Hardlight hand wraps can be customized to shine in any color in the visible spec
 ## Hardlight Hand Wrap, Incandescent
 
 **Source**:: _Alien Archive 3 pg. 67_  
-**Level**:: 20;
-**Price**:: 880,000  
+**Level**:: 20
+**Price**:: 880000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 11d8 B;
+**Damage**:: 11d8 B
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: Bright, Force, Powered (capacity 40, usage 2)

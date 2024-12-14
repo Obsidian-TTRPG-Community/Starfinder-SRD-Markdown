@@ -1,24 +1,23 @@
 ---
-aliases: 
+aliases: []
 Level: 1
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: 
-School: conjuration (acid) 
-tags: 
-Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Precog: false
+tags: []
+Technomancer: false
+Witchwarper: X
 ---
 
 # Acidic Mist
 
-**Source**:: _Near Space pg. 154_  
-**Classes**:: Mystic 1, Witchwarper 1  
-**School**:: conjuration (acid)  
-**Casting-Time**:: 1 standard action  
-**Range**:: close (25 ft. + 5 ft./2 levels)  
-**Area** 10-ft.-radius spread  
-**Duration**:: 1 round/level (D)  
+**Source**:: _Near Space pg. 154_
+**Classes**:: Mystic 1, Witchwarper 1
+**School**:: conjuration (acid)
+**Casting-Time**:: 1 standard action
+**Range**:: close (25 ft. + 5 ft./2 levels)
+**Area** 10-ft.-radius spread
+**Duration**:: 1 round/level (D)
 **Saving-Throw**:: Fortitude half;
 **Spell Resistance**:: No
 

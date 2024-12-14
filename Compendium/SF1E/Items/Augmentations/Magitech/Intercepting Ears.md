@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 3 / 9
+Item:
 price:  
-System: Ears
+
 tags: 
 Type: Magitech
 ---
@@ -14,11 +14,13 @@ Your eardrums are partially perforated with psychic crystals that resonate at th
 ## Intercepting Ears, Mk 1
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 3;
-**Price**::  1,225; **System** Ears  
+**Level**:: 3
+**Price**::  1225 
+**System**:: Ears  
 
 ## Intercepting Ears, Mk 2
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 9;
-**Price**::  13,600; **System** Ears
+**Level**:: 9
+**Price**::  13600 
+**System**:: Ears

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 80
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Garil Archaeologist
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Garil Archaeologist

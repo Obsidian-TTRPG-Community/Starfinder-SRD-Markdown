@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 14
 hp: 250
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Okanta Runebreaker
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Okanta Runebreaker

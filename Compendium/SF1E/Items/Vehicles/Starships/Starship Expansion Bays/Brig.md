@@ -8,5 +8,6 @@ tags:
 
 # Brig
 
-**PCU** 1; **Cost (in BP)** 1  
+**PCU**:: 1
+**Cost (in BP)**:: 1  
 A brig contains all the necessary restraints and security systems to incarcerate up to eight Medium creatures.

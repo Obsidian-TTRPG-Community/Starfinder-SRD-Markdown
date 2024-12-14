@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 price: 
 tags: 
 Type: Magic Item
@@ -14,19 +14,22 @@ Serums are vials of magic liquid that you can imbibe as a standard action or car
 ## Adaptive Serum, Mk 1
 
 **Source**:: _Alien Archive pg. 71_  
-**Level** 4;
-**Price**::  350; **Bulk** —
+**Level**:: 4
+**Price**::  350 
+**Bulk**:: —
 
 ---
 
 ## Adaptive Serum, Mk 2
 
 **Source**:: _Alien Archive pg. 71_  
-**Level** 8;
-**Price**::  1,500; **Bulk** —
+**Level**:: 8
+**Price**::  1500 
+**Bulk**:: —
 
 ## Adaptive Serum, Mk 3
 
 **Source**:: _Alien Archive pg. 71_  
-**Level** 12;
-**Price**::  5,500; **Bulk** —
+**Level**:: 12
+**Price**::  5500 
+**Bulk**:: —

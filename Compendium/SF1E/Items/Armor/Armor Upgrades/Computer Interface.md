@@ -1,9 +1,9 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 7
+Item:
 NoteType: Armor
-price: 6,000
+price: 6000
 Slots: 1
 tags: 
 Type: Armor Upgrades
@@ -12,9 +12,10 @@ Type: Armor Upgrades
 # Computer Interface
 
 **Source**:: _Starfinder Armory pg. 82_  
-**Item Level** 7;
-**Price**::  6,000  
-**Slots** 1; **Armor Type** Any; **Bulk** L  
+**Level**:: 7
+**Price**::  6000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: L  
 Your armor is wired to allow an integrated onboard computer to monitor your condition and operate some functions of your armor. An armor interface comes with a tier 1 computer with an artificial personality and a single control module linked to your armor. You can access this computer without exposing it or yourself to the environment outside of your armor, and you receive information from it through heads-up displays and broadcasts via your armor’s integrated comm unit.  
   
 With a successful Computers check (DC = the DC needed to hack the computer) you can set the computer to give basic information about your condition (blood pressure, heart rate, temperature, and so on) to authorized users (which you designate), or to anyone with a medkit, advanced medkit, or medical lab. Characters who can access this information gain a +2 circumstance bonus to Medicine checks they attempt on you.  

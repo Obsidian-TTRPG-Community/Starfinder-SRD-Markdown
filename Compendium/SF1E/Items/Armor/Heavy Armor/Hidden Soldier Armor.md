@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 NoteType: Armor
 price: 465
 tags: 
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Hidden Soldier Armor
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level** 2;
-**Price**::  465; **Category** Heavy  
-**EAC Bonus** +3; **KAC Bonus** +5; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 1; **Bulk** 2
+**Level**:: 2
+**Price**::  465 
+**Category**:: Heavy  
+
+**EAC**:: +3 
+**KAC**:: +5 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 2
 
 ### Description
 

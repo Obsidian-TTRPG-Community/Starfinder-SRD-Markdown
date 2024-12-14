@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 14 / 17
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,17 +14,31 @@ Modeled after the universe’s most cutting-edge fashions, this lightly armored 
 ## Echelon Fashion, Bespoke
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 17;
-**Price**:: 285,000; **Category** Light  
-**EAC Bonus** +18; **KAC Bonus** +19; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Level**:: 17
+**Price**:: 285000 
+**Category**:: Light  
+
+**EAC**:: +18 
+**KAC**:: +19 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Echelon Fashion, Ready to Wear
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 14
-**Price**:: 71,300; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +16; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Price**:: 71300 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +16 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L

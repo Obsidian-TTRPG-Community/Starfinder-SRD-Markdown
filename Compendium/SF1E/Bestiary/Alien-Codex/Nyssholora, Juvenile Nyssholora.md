@@ -1,13 +1,27 @@
 ---
 aliases: 
 cr: 4
-Environment: temperate or warm plains (Castrovel)  
+Environment: temperate or warm plains (Castrovel)
 hp: 50
-modifier: 0
+Initmod: 0
 name: Nyssholora, Juvenile Nyssholora
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
+combatType: combatant
+alignment: N
+size: large
+type(subtype): magical beast(-)
+environment: plains
+climate:
+  - temperate
+  - warm
+planet: Castrovel
+organization:
+  - solitary
+  - pair
+  - pack(3-6)
+source: Alien Archive 2
 ---
 
 # Nyssholora, Juvenile Nyssholora
@@ -24,7 +38,7 @@ Similarly, the volume and force with which a nyssholora releases its low, resona
 
 In its horizontal walking pose, an adult nyssholora is 15 feet tall at the hip but can stand upright to over 20 feet. The typical adult nyssholora stretches as much as 40 feet from the tip of its tail to its nose and weighs 15 tons, although formian and lashunta legends tell of epic specimens two or three times recorded sizes. Juvenile nyssholoras are less than half the size and weigh almost 2 tons.
 
-**Source**:: _Alien Archive 2 pg. 86_
+**Source**:  _Alien Archive 2 pg. 86_
 
 ## Juvenile Nyssholora Cr 4
 
@@ -64,3 +78,5 @@ N Large magical beast
 **Phasic Claws (Su)** A nyssholora’s claws ignore half an object’s hardness.
 
 **Telepathy Sense (Su)** A nyssholora can sense any creature within 60 feet of it that has telepathy, limited telepathy, or a similar ability, such as that from a mystic’s telepathic bond. This sense works through walls or other obstacles, functioning like blindsense (vibration) and sense through (vibration).
+
+

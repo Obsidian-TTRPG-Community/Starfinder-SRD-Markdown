@@ -3,11 +3,11 @@ aliases:
 Level: 6
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: conjuration (teleportation) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Interplanetary Teleport

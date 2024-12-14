@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 9 / 13
+
 price: 
 tags: 
 Type: Magic Item
@@ -14,8 +14,9 @@ The exact benefits of _travel treads_ are based on their model, including the 
 ## Travel Treads, Mk 1
 
 **Source**:: _Starfinder Armory pg. 117_  
-**Level** 5;
-**Price**::  2,750; **Bulk** —
+**Level**:: 5
+**Price**::  2750 
+**Bulk**:: —
 
 ### Description
 
@@ -24,8 +25,9 @@ Reduce hustling damage by 1, +1 enhancement bonus to checks during a forced marc
 ## Travel Treads, Mk 2
 
 **Source**:: _Starfinder Armory pg. 117_  
-**Level** 9;
-**Price**::  12,000; **Bulk** —
+**Level**:: 9
+**Price**::  12000 
+**Bulk**:: —
 
 ### Description
 
@@ -34,8 +36,9 @@ Reduce hustling damage by 2, +2 enhancement bonus to checks during a forced marc
 ## Travel Treads, Mk 3
 
 **Source**:: _Starfinder Armory pg. 117_  
-**Level** 13;
-**Price**::  46,500; **Bulk** —
+**Level**:: 13
+**Price**::  46500 
+**Bulk**:: —
 
 ### Description
 

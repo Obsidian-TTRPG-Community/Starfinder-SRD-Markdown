@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 5 
-price: 3,100
+
+price: 3100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Combat Controller
 
 **Source**:: _Tech Revolution pg. 46_  
-**Level** 5;
+**Level**:: 5
 **Price**::  3100  
-**Capacity**:: 20; **Usage** 1/hour  
-**Hands** 2; **Bulk** L
+**Capacity**:: 20 **Usage** 1/hour  
+**Hands** 2 
+**Bulk**:: L
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 
+
 price:  
 tags: 
 Type: Technological Item
@@ -15,15 +15,17 @@ Manacles are reusable wrist restraints made of hardened metal or ceramics and ke
 ## Restraints, Binders
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 1;
+**Level**:: 1
 **Price**::  5  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ---
 
 ## Restraints, Manacles
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 4;
+**Level**:: 4
 **Price**::  350  
-**Hands** —; **Bulk** 1
+**Hands** — 
+**Bulk**:: 1

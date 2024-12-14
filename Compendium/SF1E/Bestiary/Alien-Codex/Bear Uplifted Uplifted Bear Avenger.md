@@ -3,11 +3,11 @@ aliases:
 cr: 4
 Environment: any
 hp: 56
-modifier: 7
+Initmod: 7
 name: Bear (Uplifted), Uplifted Bear Avenger
 statblock: true
 tags: 
-Type: CN Large magical beast  
+Type: CN Large magical beast
 ---
 
 # Bear (UPLIFTED), Uplifted Bear Avenger
@@ -28,7 +28,7 @@ An uplifted bear exploration team exploring the Vast recently discovered a plane
 
 ## Bear (UPLIFTED), Uplifted Bear Avenger
 
-**Source**:: _Alien Archive 2 pg. 16_
+**Source**:  _Alien Archive 2 pg. 16_
 
 ## Uplifted Bear Avenger Cr 4
 

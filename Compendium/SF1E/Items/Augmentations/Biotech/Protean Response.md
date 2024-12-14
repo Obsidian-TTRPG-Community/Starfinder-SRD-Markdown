@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 5 / 8 / 11 / 14 / 17 / 20
+Item:
 price:  
-System: Endocrine
+
 tags: 
 Type: Biotech
 ---
@@ -15,8 +15,9 @@ As a reaction when you take a critical hit in combat or fail a Fortitude save, y
 ## Protean Response, Mk 1
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 5;
-**Price**::  3,000; **System** Endocrine  
+**Level**:: 5
+**Price**::  3000 
+**System**:: Endocrine  
   
 
 ---
@@ -24,33 +25,38 @@ As a reaction when you take a critical hit in combat or fail a Fortitude save, y
 ## Protean Response, Mk 2
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 8;
-**Price**::  9,500; **System** Endocrine  
+**Level**:: 8
+**Price**::  9500 
+**System**:: Endocrine  
   
 
 ## Protean Response, Mk 3
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 11;
-**Price**::  25,500; **System** Endocrine  
+**Level**:: 11
+**Price**::  25500 
+**System**:: Endocrine  
   
 
 ## Protean Response, Mk 4
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 14;
-**Price**::  74,000; **System** Endocrine  
+**Level**:: 14
+**Price**::  74000 
+**System**:: Endocrine  
   
 
 ## Protean Response, Mk 5
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 17;
-**Price**::  255,000; **System** Endocrine  
+**Level**:: 17
+**Price**::  255000 
+**System**:: Endocrine  
   
 
 ## Protean Response, Mk 6
 
 **Source**:: _Tech Revolution pg. 56_  
-**Item Level** 20;
-**Price**::  850,000; **System** Endocrine
+**Level**:: 20
+**Price**::  850000 
+**System**:: Endocrine

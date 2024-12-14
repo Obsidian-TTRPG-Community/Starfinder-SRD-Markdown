@@ -8,9 +8,9 @@ tags:
 
 # Telelith Matrix (HYBRID)
 
-**PCU** 10; **Cost (in BP)** 8  
-A _telelith matrix_ contains bizarre fibers that flex when they build up enough energy. When they do, they can hurl the connected starship through a temporary wormhole. A _telelith matrix_ takes 1 expansion bay, consumes 10 PCUs, and costs 8 Build Points. A _telelith matrix_ works only in starships of Large or smaller size.  
-  
+**PCU**:: 10
+**Cost (in BP)**:: 8  
+A _telelith matrix_ contains bizarre fibers that flex when they build up enough energy. When they do, they can hurl the connected starship through a temporary wormhole. A _telelith matrix_ takes 1 expansion bay, consumes 10 PCUs, and costs 8 Build Points. A _telelith matrix_ works only in starships of Large or smaller size.   
 
 ### Telelith Gambit (STUNT)
 

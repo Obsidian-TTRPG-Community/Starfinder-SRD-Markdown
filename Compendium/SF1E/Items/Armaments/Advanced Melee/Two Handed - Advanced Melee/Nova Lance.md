@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 7 / 12 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Nova Lance, Blue Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 17;
-**Price**:: 279,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d6 E & F;
+**Level**:: 17
+**Price**:: 279000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d6 E & F
 **Critical**:: severe wound  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 4), reach
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 4), reach
 
 ## Nova Lance, Red Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 995  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E & F;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d4 E & F
 **Critical**:: wound  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Nova Lance, Yellow Star
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 7;
-**Price**:: 6,870  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 E & F;
+**Level**:: 7
+**Price**:: 6870  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d4 E & F
 **Critical**:: wound  
-**Bulk**:: 2;
-**Special**:: powered (capacity 20; usage 1), reach
+**Bulk**:: 2**Special**:: powered (capacity 20; usage 1), reach
 
 ## Nova Lance, White Star
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 12
-**Price**:: 39,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d4 E & F;
+**Price**:: 39500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d4 E & F
 **Critical**:: severe wound  
-**Bulk**:: 2;
-**Special**:: powered (capacity 40; usage 2), reach
+**Bulk**:: 2**Special**:: powered (capacity 40; usage 2), reach

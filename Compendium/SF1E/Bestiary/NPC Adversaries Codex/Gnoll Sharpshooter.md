@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 40
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Gnoll Sharpshooter
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Gnoll Sharpshooter

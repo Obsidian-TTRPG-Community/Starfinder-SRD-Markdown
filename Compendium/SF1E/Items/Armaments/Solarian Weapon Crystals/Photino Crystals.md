@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 7 / 10 / 13 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,11 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 ## Photino Crystals, Greater
 
 **Source**:: _Alien Archive 2 pg. 117_  
-**Level**:: 16;
-**Price**:: 145,000  
+**Level**:: 16
+**Price**:: 145000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +4d4 F;
+**Damage**:: +4d4 F
 **Critical**:: burn 3d6  
 **Bulk**:: —
 **Special**:: —
@@ -30,7 +30,7 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 **Price**:: 110  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1 F;
+**Damage**:: +1 F
 **Critical**:: —  
 **Bulk**:: —
 **Special**:: —
@@ -39,10 +39,10 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 
 **Source**:: _Alien Archive 2 pg. 117_  
 **Level**:: 4
-**Price**:: 1,850  
+**Price**:: 1850  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d2 F;
+**Damage**:: +1d2 F
 **Critical**:: burn 1  
 **Bulk**:: —
 **Special**:: —
@@ -50,11 +50,11 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 ## Photino Crystals, Minor
 
 **Source**:: _Alien Archive 2 pg. 117_  
-**Level**:: 7;
-**Price**:: 5,500  
+**Level**:: 7
+**Price**:: 5500  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +1d4 F;
+**Damage**:: +1d4 F
 **Critical**:: burn 1d4  
 **Bulk**:: —
 **Special**:: —
@@ -62,11 +62,11 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 ## Photino Crystals, Lesser
 
 **Source**:: _Alien Archive 2 pg. 117_  
-**Level**:: 10;
-**Price**:: 17,000  
+**Level**:: 10
+**Price**:: 17000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +2d4 F;
+**Damage**:: +2d4 F
 **Critical**:: burn 1d6  
 **Bulk**:: —
 **Special**:: —
@@ -74,11 +74,11 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 ## Photino Crystals, Standard
 
 **Source**:: _Alien Archive 2 pg. 117_  
-**Level**:: 13;
-**Price**:: 46,000  
+**Level**:: 13
+**Price**:: 46000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +3d4 F;
+**Damage**:: +3d4 F
 **Critical**:: burn 2d6  
 **Bulk**:: —
 **Special**:: —
@@ -86,11 +86,11 @@ In their travels, solar wisps sometimes shed portions of themselves, which cool 
 ## Photino Crystals, True
 
 **Source**:: _Alien Archive 2 pg. 117_  
-**Level**:: 19;
-**Price**:: 495,000  
+**Level**:: 19
+**Price**:: 495000  
 **Hands**:: 1
 **Proficiency**:: Solarian  
-**Damage**:: +6d4 F;
+**Damage**:: +6d4 F
 **Critical**:: burn 4d6  
 **Bulk**:: —
 **Special**:: —

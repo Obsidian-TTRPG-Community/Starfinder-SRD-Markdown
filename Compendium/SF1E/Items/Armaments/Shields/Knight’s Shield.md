@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 13 / 18
+
 price: 
 tags: 
 type: Shield
@@ -14,31 +14,43 @@ A knight’s shield is a sizable plate of advanced material, normally thin layer
 ## Basic
 
 **Source**:: _Character Operations Manual pg. 125_  
-**Level**:: 3;
-**Price**:: 1,500  
-**Shield Bonus** +0/+2; **Max Dex** +4; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Level**:: 3
+**Price**:: 1500  
+**Shield-Bonus**:: +0/+2
+**Max-Dex**:: +4
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2
 
 ## Field
 
 **Source**:: _Character Operations Manual pg. 125_  
-**Level**:: 8;
-**Price**:: 9,500  
-**Shield Bonus** +1/+2; **Max Dex** +5; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Level**:: 8
+**Price**:: 9500  
+**Shield-Bonus**:: +1/+2
+**Max-Dex**:: +5
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2
 
 ## Advanced
 
 **Source**:: _Character Operations Manual pg. 125_  
-**Level**:: 13;
-**Price**:: 50,000  
-**Shield Bonus** +1/+3; **Max Dex** +6; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Level**:: 13
+**Price**:: 50000  
+**Shield-Bonus**:: +1/+3
+**Max-Dex**:: +6
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2
 
 ## Elite
 
 **Source**:: _Character Operations Manual pg. 125_  
-**Level**:: 18;
-**Price**:: 400,000  
-**Shield Bonus** +1/+3; **Max Dex** +7; **Armor Check Penalty** -1  
-**Bulk**:: 1; **Upgrades** 2
+**Level**:: 18
+**Price**:: 400000  
+**Shield-Bonus**:: +1/+3
+**Max-Dex**:: +7
+**Armor-Check-Penalty**:: -1  
+**Bulk**:: 1
+**Upgrades**:: 2

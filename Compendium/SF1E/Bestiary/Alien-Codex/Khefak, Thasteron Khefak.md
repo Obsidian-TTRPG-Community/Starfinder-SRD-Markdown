@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 3
-Environment: any (Akiton)  
+Environment: any (Akiton)
 hp: 40
-modifier: 2
+Initmod: 2
 name: Khefak, Thasteron Khefak
 statblock: true
 tags: 
-Type: N Medium vermin  
+Type: N Medium vermin
+combatType: combatant
+alignment: N
+size: medium
+type(subtype): vermin(-)
+environment: any
+climate: any
+planet: Akiton
+organization:
+  - solitary
+  - pair
+source: Alien Archive 2
 ---
 
 # Khefak, Thasteron Khefak
@@ -30,7 +41,7 @@ The survival of the khefak species on Akiton is all but assured, since some loca
 
 Genetic engineers designed the khefak carapace for easy harvest. Within hours of a khefak’s death, its connective tissue degenerates, making the carapace easy to hollow out with about 1 minute of work. The carapace can then be refined for various uses. Depending on the diet of a khefak, its clean exoskeleton has a market value between 5 and 50 credits. A thasteron khefak carapace is worth 30 credits.
 
-**Source**:: _Alien Archive 2 pg. 78_
+**Source**:  _Alien Archive 2 pg. 78_
 
 ## Thasteron Khefak Cr 3
 
@@ -69,3 +80,5 @@ N Medium vermin
 **Break Objects (Ex)** When attacking an object, a thasteron khefak treats that object’s hardness as if it were 15 lower.
 
 **Consume Objects (Ex)** A thasteron khefak can eat objects with hardness 15 or lower. A thasteron khefak deals 2 damage to the object it’s consuming per minute. A thasteron khefak is sated and stops feeding on a given day after dealing 100 damage this way.
+
+

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Masked Assassin
-statblock: true
-Subtype: Assassins
+statblock: true(Assassins
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Masked Assassin

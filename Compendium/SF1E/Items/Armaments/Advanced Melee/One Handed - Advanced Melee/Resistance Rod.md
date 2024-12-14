@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 9 / 12 / 15
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Resistance Rod, Induction
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 15;
-**Price**:: 94,200  
+**Level**:: 15
+**Price**:: 94200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d4 F;
+**Damage**:: 10d4 F
 **Critical**:: burn 4d4  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -30,11 +30,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Resistance Rod, Strain-gauge
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 510  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 F;
+**Damage**:: 1d4 F
 **Critical**:: burn 1d4  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -42,11 +42,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Resistance Rod, Thermistor
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 9;
-**Price**:: 12,600  
+**Level**:: 9
+**Price**:: 12600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d4 F;
+**Damage**:: 4d4 F
 **Critical**:: burn 2d4  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -55,10 +55,10 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 39_  
 **Level**:: 12
-**Price**:: 31,500  
+**Price**:: 31500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d4 F;
+**Damage**:: 6d4 F
 **Critical**:: burn 3d4  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)

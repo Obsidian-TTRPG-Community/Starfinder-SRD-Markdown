@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 10
+
 NoteType: Armor
 price: 
 tags: 
@@ -16,11 +16,18 @@ For all its utility, Aeon Guard armor is also highly stylized, designed to impre
 ## Aeon Guard, Battle Dress (Command)
 
 **Source**:: _Alien Archive pg. 7_  
-**Level** 10;
-**Price**::  18,750; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +17; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 5; **Bulk** 3
+**Level**:: 10
+**Price**::  18750 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +17 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 3
 
 ### Description
 
@@ -30,10 +37,17 @@ Of this armor's 5 upgrade slots, 3 of them can only be used to hold _aeon stone
 
 **Source**:: _Alien Archive pg. 7_  
 **Level**:: 3
-**Price**::  1,650; **Category** Heavy  
-**EAC Bonus** +5; **KAC Bonus** +7; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -3; **Speed Adjustment** -10 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Price**::  1650 
+**Category**:: Heavy  
+
+**EAC**:: +5 
+**KAC**:: +7 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -10 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ### Description
 
@@ -42,11 +56,18 @@ Of this armor's 2 upgrade slots, 1 of them can only be used to hold _aeon stone
 ## Aeon Guard, Specops Armor
 
 **Source**:: _Alien Archive pg. 7_  
-**Level** 7;
-**Price**::  7,500; **Category** Light  
-**EAC Bonus** +7; **KAC Bonus** +8; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 5; **Bulk** 1
+**Level**:: 7
+**Price**::  7500 
+**Category**:: Light  
+
+**EAC**:: +7 
+**KAC**:: +8 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 5 
+**Bulk**:: 1
 
 ### Description
 

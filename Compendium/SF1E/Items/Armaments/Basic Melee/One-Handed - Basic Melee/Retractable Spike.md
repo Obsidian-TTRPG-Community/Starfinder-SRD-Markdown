@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 10 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ These keen-edged spikes are installed in an armor upgrade slot rather than held,
 ## Retractable Spike, Advanced
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 10;
-**Price**:: 18,400  
+**Level**:: 10
+**Price**:: 18400  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 3d4 P;
+**Damage**:: 3d4 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: conceal, integrated (1 slot), operative
@@ -28,10 +28,10 @@ These keen-edged spikes are installed in an armor upgrade slot rather than held,
 
 **Source**:: _Starfinder Armory pg. 53_  
 **Level**:: 5
-**Price**:: 3,150  
+**Price**:: 3150  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d4 P;
+**Damage**:: 1d4 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: conceal, integrated (1 slot), operative
@@ -39,11 +39,11 @@ These keen-edged spikes are installed in an armor upgrade slot rather than held,
 ## Retractable Spike, Elite
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 15;
-**Price**:: 119,000  
+**Level**:: 15
+**Price**:: 119000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 7d4 P;
+**Damage**:: 7d4 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: conceal, integrated (1 slot), operative
@@ -51,11 +51,11 @@ These keen-edged spikes are installed in an armor upgrade slot rather than held,
 ## Retractable Spike, Paragon
 
 **Source**:: _Starfinder Armory pg. 53_  
-**Level**:: 20;
-**Price**:: 895,000  
+**Level**:: 20
+**Price**:: 895000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 6d10 P;
+**Damage**:: 6d10 P
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: conceal, integrated (1 slot), operative

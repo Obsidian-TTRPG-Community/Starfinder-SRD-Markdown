@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 14 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ Featuring a hand-mounted firing device that injects its target with acidic compo
 ## Glove Needler, Advanced
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 7;
-**Price**:: 5,800  
+**Level**:: 7
+**Price**:: 5800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d12 A; **Range**:: Reach ft.;
+**Damage**:: 1d12 A; 
+**Range**:: Reach ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -27,11 +28,12 @@ Featuring a hand-mounted firing device that injects its target with acidic compo
 ## Glove Needler, Tactical
 
 **Source**:: _Character Operations Manual pg. 122_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 560  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 A; **Range**:: Reach ft.;
+**Damage**:: 1d4 A; 
+**Range**:: Reach ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -41,10 +43,11 @@ Featuring a hand-mounted firing device that injects its target with acidic compo
 
 **Source**:: _Character Operations Manual pg. 122_  
 **Level**:: 14
-**Price**:: 69,300  
+**Price**:: 69300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d12 A; **Range**:: Reach ft.;
+**Damage**:: 3d12 A; 
+**Range**:: Reach ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —
@@ -53,11 +56,12 @@ Featuring a hand-mounted firing device that injects its target with acidic compo
 ## Glove Needler, Paragon
 
 **Source**:: _Character Operations Manual pg. 123_  
-**Level**:: 20;
-**Price**:: 765,000  
+**Level**:: 20
+**Price**:: 765000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 6d12 A; **Range**:: Reach ft.;
+**Damage**:: 6d12 A; 
+**Range**:: Reach ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: 1 round; **Usage** 1  
 **Bulk**:: —

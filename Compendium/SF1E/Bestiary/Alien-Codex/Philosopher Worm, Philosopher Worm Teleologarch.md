@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 16
-Environment: any (Nchak)  
+Environment: any (Nchak)
 hp: 280
-modifier: 0
+Initmod: 0
 name: Philosopher Worm, Philosopher Worm Teleologarch
 statblock: true
 tags: 
-Type: LG Large monstrous humanoid  
+Type: LG Large monstrous humanoid
 ---
 
 # Philosopher Worm, Philosopher Worm Teleologarch
@@ -21,7 +21,7 @@ Philosopher worms occupy a unique role in the Forever Queen’s government. Alth
 Only the most prestigious and accomplished worms warrant regular audiences with the queen. Most significant among these is the teleologarch, who acts as the queen’s primary advisor and is second only to her in authority. Philosopher worms who have yet to rise to such positions either assist their elders or organize other Nchaki citizens for institutional projects. Numerous trox serve the philosopher worms directly, most often working as the muscle and face to the worms’ intellect and political wishes. Most such trox serve as explorers, laborers, or sentinels, but some are aides, diplomats, or students. These trox act as surrogates for the worms in the wider galaxy, facilitating the worms’ aims and studies. This connection between the two species, which the trox are unforthcoming about, has led to all sorts of conspiracy theories about the nature of the philosopher worms. However, the trox speak the truth when they say the worms loyally serve the benevolent Forever Queen.
 
 Shirrens are second only to trox in their service to philosopher worms. Since shirrens arrived in the Pact Worlds and rediscovered their ties to Hylax, countless shirrens have sought to serve on Nchak. Few shirrens work for a philosopher worm directly, instead taking positions in a worm’s staff, subordinate to the trox. However, the shirrens have been in the Pact Worlds for centuries now, and several have risen to prominence on Nchak and studied directly with the worms.
-**Source**:: _Alien Archive 3 pg. 78_
+**Source**:  _Alien Archive 3 pg. 78_
 
 ## Philosopher Worm Teleologarch Cr 16
 

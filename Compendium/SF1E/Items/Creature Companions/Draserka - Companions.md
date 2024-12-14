@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 7-20
+
 Type: Large dragon  
 ---
 # DRASERKA - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large dragon
 **Source**:: _Alien Archive 3 pg. 143_  
 Often called “desert drakes,” draserkas are draconic creatures native to the side of Verces known as Fullbright, where the sun never sets, the earth is scorched, and the air is always superheated. These red drakes with blue wings are infamous for breathing balls of crackling electricity at foes, and they can fly at incredible speeds when they’ve built up their momentum.
 
-## DRASERKA LEVELS 7-20
+## DRASERKA 
+level:: 7-20
 
 Large dragon  
 **Senses** blindsense (vibration and scent) 60 ft., darkvision 60 ft., low-light vision  

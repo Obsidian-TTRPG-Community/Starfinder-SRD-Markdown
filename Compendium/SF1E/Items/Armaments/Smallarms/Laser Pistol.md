@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 6 / 9 / 12 / 14 / 17 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Laser Pistol, Aphelion
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 9;
-**Price**:: 14,820  
+**Level**:: 9
+**Price**:: 14820  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d4 F; **Range**:: 90 ft.;
+**Damage**:: 3d4 F; 
+**Range**:: 90 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -33,7 +34,8 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 **Price**:: 350  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 F; **Range**:: 80 ft.;
+**Damage**:: 1d4 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -42,11 +44,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Laser Pistol, Corona
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 6;
-**Price**:: 4,270  
+**Level**:: 6
+**Price**:: 4270  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 F; **Range**:: 90 ft.;
+**Damage**:: 2d4 F; 
+**Range**:: 90 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -56,10 +59,11 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 12
-**Price**:: 40,200  
+**Price**:: 40200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 F; **Range**:: 90 ft.;
+**Damage**:: 4d4 F; 
+**Range**:: 90 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -69,10 +73,11 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
 **Level**:: 14
-**Price**:: 82,000  
+**Price**:: 82000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d4 F; **Range**:: 90 ft.;
+**Damage**:: 5d4 F; 
+**Range**:: 90 ft.
 **Critical**:: burn 3d4  
 **Capacity**:: 80 charges; **Usage** 4  
 **Bulk**:: L
@@ -81,11 +86,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Laser Pistol, Zenith
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 17;
-**Price**:: 245,200  
+**Level**:: 17
+**Price**:: 245200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 8d4 F; **Range**:: 100 ft.;
+**Damage**:: 8d4 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 4d4  
 **Capacity**:: 80 charges; **Usage** 4  
 **Bulk**:: L

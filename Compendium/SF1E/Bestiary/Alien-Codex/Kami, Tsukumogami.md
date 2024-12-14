@@ -3,11 +3,11 @@ aliases:
 cr: 4
 Environment: any
 hp: 43
-modifier: 5
+Initmod: 5
 name: Kami, Tsukumogami
 statblock: true
 tags: 
-Type: NE Diminutive outsider (kami, native)  
+Type: NE Diminutive outsider (kami, native)
 ---
 
 # Kami, Tsukumogami
@@ -18,7 +18,7 @@ According to folktales, a personal object that is at least 100 years old can att
 
 A chinjugami is much larger than a tsukumogami and often selects a constructed ecosystem, especially one separated from a planet, as its ward. Although a chinjugami prefers to stay merged with its ward, it can manifest as a titan of metal and greenery. A chinjugami might claim a park on a space station as its host. When a kami claims an occupied ecosystem, it intervenes only in subtle ways, such as removing rust from pipes. It is when such constructed ecosystems are abandoned that chinjugami fully embrace their roles as protectors and stewards of their wards, patrolling relevant areas, performing upkeep, maintaining ecological balance, and ensuring enough resources exist for sustainability. Those chinjugami that guard abandoned spaces are suspicious of strangers, often believing them to be interlopers that might try to reclaim the area only to forsake it again. A typical chinjugami is about 40 feet tall.
 
-**Source**:: _Alien Archive 3 pg. 62_
+**Source**:  _Alien Archive 3 pg. 62_
 
 ## Tsukumogami Cr 4
 

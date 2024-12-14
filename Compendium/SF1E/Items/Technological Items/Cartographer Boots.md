@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4 
-price: 2,100
+
+price: 2100
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Cartographer Boots
 
 **Source**:: _Drift Crisis pg. 79_  
-**Level** 4;
+**Level**:: 4
 **Price**::  2100  
-**Capacity**:: 40; **Usage** 4/hour  
-**Hands** —; **Bulk** L
+**Capacity**:: 40 **Usage** 4/hour  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

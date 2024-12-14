@@ -1,24 +1,23 @@
 ---
-aliases: 
+aliases: []
 Level: 3
-Mystic: 
+Mystic: false
 NoteType: Spell
-Precog: 
-School: 
-tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Precog: false
+tags: []
+Technomancer: true
+Witchwarper: true
 ---
 
 # Acid Puddle
 
-**Source**:: _Galactic Magic pg. 67_  
-**Classes**:: Technomancer 3, Witchwarper 3  
-**School**:: conjuration (acid, creation)  
-**Casting-Time**:: 1 standard action  
-**Range**:: medium (100 ft. + 10 ft./level)  
-**Area** 20-ft.-radius spread  
-**Duration**:: 1 round/level (D)  
+**Source**:: _Galactic Magic pg. 67_
+**Classes**:: Technomancer 3, Witchwarper 3
+**School**:: conjuration (acid, creation)
+**Casting-Time**:: 1 standard action
+**Range**:: medium (100 ft. + 10 ft./level)
+**Area** 20-ft.-radius spread
+**Duration**:: 1 round/level (D)
 **Saving-Throw**:: Reflex half
 **Spell Resistance**:: No
 

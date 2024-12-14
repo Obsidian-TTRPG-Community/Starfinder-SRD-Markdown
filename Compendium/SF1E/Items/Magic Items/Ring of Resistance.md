@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 18
+
 price: 
 tags: 
 Type: Magic Item
@@ -18,31 +18,36 @@ This ring grants you magic protection against attacks and effects to which you a
 ## Ring of Resistance, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 2;
-**Price**::  735; **Bulk** —
+**Level**:: 2
+**Price**::  735 
+**Bulk**:: —
 
 ---
 
 ## Ring of Resistance, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 6;
-**Price**::  4,200; **Bulk** —
+**Level**:: 6
+**Price**::  4200 
+**Bulk**:: —
 
 ## Ring of Resistance, Mk 3
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 10;
-**Price**::  18,100; **Bulk** —
+**Level**:: 10
+**Price**::  18100 
+**Bulk**:: —
 
 ## Ring of Resistance, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 14;
-**Price**::  70,000; **Bulk** —
+**Level**:: 14
+**Price**::  70000 
+**Bulk**:: —
 
 ## Ring of Resistance, Mk 5
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 18;
-**Price**::  361,500; **Bulk** —
+**Level**:: 18
+**Price**::  361500 
+**Bulk**:: —

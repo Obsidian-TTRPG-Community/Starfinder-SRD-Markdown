@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 105
 tags: 
@@ -14,7 +14,8 @@ type: Smallarm
 **Price**:: 105  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 P; **Range**:: 30 ft.;
+**Damage**:: 1d4 P; 
+**Range**:: 30 ft.
 **Critical**:: injection DC +2  
 **Capacity**:: 6 darts; **Usage** 1  
 **Bulk**:: L

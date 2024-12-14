@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 10 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Claw, Biodynamic
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 16;
-**Price**:: 189,000  
+**Level**:: 16
+**Price**:: 189000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d6 E & F; **Range**:: 30 ft.;
+**Damage**:: 4d6 E & F; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 8  
 **Bulk**:: L
@@ -37,7 +38,8 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 **Price**:: 280  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 E & F; **Range**:: 20 ft.;
+**Damage**:: 1d4 E & F; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -47,10 +49,11 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 5
-**Price**:: 3,350  
+**Price**:: 3350  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 E & F; **Range**:: 30 ft.;
+**Damage**:: 1d6 E & F; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 4  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Claw, Organic
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 10;
-**Price**:: 20,100  
+**Level**:: 10
+**Price**:: 20100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d6 E & F; **Range**:: 30 ft.;
+**Damage**:: 2d6 E & F; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 40 charges; **Usage** 8  
 **Bulk**:: L

@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 120
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Hetzuud Void Sorcerer
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Hetzuud Void Sorcerer

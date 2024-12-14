@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 14
-price: 75,000
+
+price: 75000
 tags: 
 Type: Technological Item
 ---
@@ -12,10 +12,11 @@ These rare items are bits of lost technology or unique items less powerful than 
 
 
 **Source**:: _Tech Revolution pg. 65_  
-**Level** 14;
+**Level**:: 14
 **Price**::  75000  
-**Capacity**:: 10; **Usage** 1/round  
-**Hands** —; **Bulk** 1
+**Capacity**:: 10 **Usage** 1/round  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

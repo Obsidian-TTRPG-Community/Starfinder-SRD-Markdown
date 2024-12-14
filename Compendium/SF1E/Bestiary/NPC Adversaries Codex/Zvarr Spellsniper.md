@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 90
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Zvarr Spellsniper
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Zvarr Spellsniper

@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 9
-Environment: any (Verces)  
+Environment: any (Verces)
 hp: 116
-modifier: 4
+Initmod: 4
 name: Verthani, Verthani Pure One
 statblock: true
 tags: 
-Type: N Medium humanoid (verthani)  
+Type: N Medium humanoid (verthani)
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): humanoid(verthani)
+environment: any
+climate: any
+planet: Verces
+organization:
+  - solitary
+  - pair
+  - cabal(3-5)
+source: Alien Archive
 ---
 
 # Verthani, Verthani Pure One
@@ -26,7 +38,7 @@ God-Vessels serve faithfully as living avatars of their deities, displaying this
 
 Verthani culture is a model of independent, democratic cooperation. Forced to live on a cramped sliver of their planet, surrounded by nearly inhospitable lands on either side, verthani learned how to work together without violence or subjugation, and they choose to harness technology to increase resources rather than battle one another over scraps. Verces’s Ring of Nations remains a shining example of a one-world government in which citizens remain protected yet free to go their own way, and in many ways the Pact Worlds system itself was directly inspired by this aspect of verthani culture.
 
-**Source**:: _Alien Archive pg. 118_
+**Source**:  _Alien Archive pg. 118_
 
 ## Verthani Pure One Cr 9
 
@@ -77,3 +89,5 @@ At will—_mindlink_
 The following extra content was found for this creature:  
 \- Verthani (Creature Subtype) Graft Template  
 \- Verthani Race Entry
+
+

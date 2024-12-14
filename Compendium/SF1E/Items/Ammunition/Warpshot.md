@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 14
 price: 9,750
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -18,7 +18,7 @@ Special weapons resist classification into any other category. Some adventurers 
 
 **Source**:: _Alien Archive 4 pg. 137_  
 **Level**:: 14
-**Price**:: 9,750  
+**Price**:: 9750  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
@@ -31,7 +31,7 @@ Special weapons resist classification into any other category. Some adventurers 
 
 **Source**:: _Alien Archive 4 pg. 137_  
 **Level**:: 14
-**Price**:: 9,750  
+**Price**:: 9750  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
@@ -44,7 +44,7 @@ Special weapons resist classification into any other category. Some adventurers 
 
 **Source**:: _Alien Archive 4 pg. 137_  
 **Level**:: 14
-**Price**:: 9,750  
+**Price**:: 9750  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

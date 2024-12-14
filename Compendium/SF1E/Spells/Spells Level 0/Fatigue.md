@@ -1,15 +1,14 @@
 ---
 aliases: 
 tags: 
----
----
 NoteType: Spell
 Level: 0
-School: necromancy
-Mystic: "`ris:Checkbox`"
+
+Mystic: X
 Precog:
 Technomancer:
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
+
 --- 
 
 # Fatigue

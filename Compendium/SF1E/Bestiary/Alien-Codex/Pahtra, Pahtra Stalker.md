@@ -1,13 +1,24 @@
 ---
 aliases: 
 cr: 6
-Environment: any (Vesk-6)  
+Environment: any (Vesk-6)
 hp: 82
-modifier: 7
+Initmod: 7
 name: Pahtra, Pahtra Stalker
 statblock: true
 tags: 
-Type: N Medium humanoid (pahtra)  
+Type: N Medium humanoid (pahtra)
+combatType: expert
+alignment: N
+size: medium
+type(subtype): humanoid(pahtra)
+environment: any
+climate: any
+planet: Vesk-6
+organization:
+  - solitary
+  - pair
+source: Alien Archive 2
 ---
 
 # Pahtra, Pahtra Stalker
@@ -26,7 +37,7 @@ Vesk-6 and its people are now unquestionably part of the Veskarium, but most pah
 
 Most pahtras who refuse to live under vesk rule instead take advantage of the opportunities presented by the Veskarium’s alliance with the Pact Worlds, and travel far from their home planet to try their luck as explorers, mercenaries, musicians, or seers.
 
-**Source**:: _Alien Archive 2 pg. 94_
+**Source**:  _Alien Archive 2 pg. 94_
 
 ## Pahtra Stalker Cr 6
 
@@ -65,3 +76,5 @@ N Medium humanoid (pahtra)
 ### Special Abilities
 
 **Nimble (Ex)** An off-kilter pahtra doesn’t gain the flat-footed condition or take the normal penalty to attacks, and she can steady herself as a swift action instead of a move action.
+
+

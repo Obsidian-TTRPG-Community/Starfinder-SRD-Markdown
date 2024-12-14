@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 13 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ This device resembles and functions as a mundane head accessory like eyeglasses,
 ## Mask of Scrambling, Mk 1
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 2;
-**Price**::  755; **Bulk** L
+**Level**:: 2
+**Price**::  755 
+**Bulk**:: L
 
 ### Description
 
@@ -25,8 +26,9 @@ The effect lasts for 1 minute.
 ## Mask of Scrambling, Mk 2
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 5;
-**Price**::  3,100; **Bulk** L
+**Level**:: 5
+**Price**::  3100 
+**Bulk**:: L
 
 ### Description
 
@@ -35,8 +37,9 @@ The effect lasts for 10 minutes.
 ## Mask of Scrambling, Mk 3
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 9;
-**Price**::  13,200; **Bulk** L
+**Level**:: 9
+**Price**::  13200 
+**Bulk**:: L
 
 ### Description
 
@@ -45,8 +48,9 @@ The effect lasts for 1 hour.
 ## Mask of Scrambling, Mk 4
 
 **Source**:: _Galactic Magic pg. 46_  
-**Level** 13;
-**Price**::  50,500; **Bulk** L
+**Level**:: 13
+**Price**::  50500 
+**Bulk**:: L
 
 ### Description
 

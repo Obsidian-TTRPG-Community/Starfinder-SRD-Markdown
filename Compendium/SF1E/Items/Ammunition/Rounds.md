@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 1 / 2
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 

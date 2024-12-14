@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 1-12
+
 Type: Small aberration  
 ---
 # TETLOTOLAN - COMPANIONS
@@ -8,7 +8,8 @@ Type: Small aberration
 **Source**:: _Galaxy Exploration Manual pg. 95_  
 This squat hexapod’s body has radial symmetry and resembles a starfish with tall, fern-like crests that chime softly when rustled. They filter feed on sounds, migrating slowly to absorb a varied diet.
 
-## TETLOTOLANLEVELS 1-12
+## TETLOTOLAN
+level:: 1-12
 
 Small aberration  
 **Senses** darkvision 60 ft.  

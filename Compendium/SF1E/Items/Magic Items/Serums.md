@@ -1,6 +1,5 @@
 ---
 aliases: 
-Level: 2 / 3 / 4 / 5 / 7
 price: 
 tags: 
 Type: Magic Item
@@ -10,23 +9,12 @@ Type: Magic Item
 
 Serums are vials of magic liquid that you can imbibe as a standard action or carefully trickle down the throat of a helpless or unconscious creature as a full action. Serums are normally 1 ounce of liquid (though it is possible to make serums with larger volumes, these are no more effective than standard serums), and lose potency if they are mixed with any other material. A serum can be used only once. Regardless of a serum’s actual item level, all serum vials have their hardness and Hit Points calculated as if they were 1st-level items.  
 
-## Serum, Close-quarters
-
-**Source**:: _Starfinder Armory pg. 116_  
-**Level** 7;
-**Price**::  950; **Bulk** —
-
-### Description
-
-A _close-quarters serum_ provides heightened awareness in combat, so the fluorescent-green concoction is a favorite among mercenaries and other warriors. It’s also minty. For 10 minutes after you drink this serum, enemies gain no benefit from flanking you.
-
----
-
 ## Serum, Lingo
 
 **Source**:: _Starfinder Armory pg. 116_  
-**Level** 2;
-**Price**::  100; **Bulk** —
+**Level**:: 2
+**Price**::  100
+**Bulk**:: —
 
 ### Description
 
@@ -36,7 +24,8 @@ Useful for explorers and scholars alike, the _lingo serum_ has layers of rainb
 
 **Source**:: _Starfinder Armory pg. 116_  
 **Level**:: 3
-**Price**::  200; **Bulk** —
+**Price**::  200
+**Bulk**:: —
 
 ### Description
 
@@ -45,8 +34,9 @@ The drow of House Xicton commonly brew _daywalker serum_, which is an oily, eff
 ## Serum, Shadowblend
 
 **Source**:: _Starfinder Armory pg. 116_  
-**Level** 4;
-**Price**::  325; **Bulk** —
+**Level**:: 4
+**Price**::  325
+**Bulk**:: —
 
 ### Description
 
@@ -55,8 +45,9 @@ When you drink _shadowblend serum_, a purple, earthy-tasting liquid, you gain a
 ## Serum, X-ray
 
 **Source**:: _Starfinder Armory pg. 116_  
-**Level** 4;
-**Price**::  350; **Bulk** —
+**Level**:: 4
+**Price**::  350
+**Bulk**:: —
 
 ### Description
 
@@ -65,8 +56,9 @@ When you drink _X-ray serum_, a fluid that looks like mercury and tastes like m
 ## Serum, Veracity
 
 **Source**:: _Starfinder Armory pg. 116_  
-**Level** 5;
-**Price**::  450; **Bulk** —
+**Level**:: 5
+**Price**::  450
+**Bulk**:: —
 
 ### Description
 
@@ -75,8 +67,9 @@ A clear liquid, _veracity serum_ has a sickly-sweet taste and syrupy consisten
 ## Serum, Close-quarters
 
 **Source**:: _Starfinder Armory pg. 116_  
-**Level** 7;
-**Price**::  950; **Bulk** —
+**Level**:: 7
+**Price**::  950
+**Bulk**:: —
 
 ### Description
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
 ArmorType: any
-ItemLevel: 9 / 15 / 19
+Item:
 NoteType: Armor
 price:  
 Slots: 1
@@ -22,23 +22,26 @@ This medical upgrade stimulates your metabolism and natural healing capabilities
 ## Medical Interface, Mk 1 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 9;
-**Price**::  14,000  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
+**Level**:: 9
+**Price**::  14000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
   
 
 ## Medical Interface, Mk 2 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 15;
-**Price**::  100,000  
-**Slots** 1; **Armor Type** Any; **Bulk** —  
+**Level**:: 15
+**Price**::  100000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —  
   
   
 
 ## Medical Interface, Mk 3 (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 84_  
-**Item Level** 19;
-**Price**::  600,000  
-**Slots** 1; **Armor Type** Any; **Bulk** —
+**Level**:: 19
+**Price**::  600000  
+**Slots** 1 **Armor Type** Any 
+**Bulk**:: —

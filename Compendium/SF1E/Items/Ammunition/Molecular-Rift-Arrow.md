@@ -1,20 +1,11 @@
 ---
 aliases:
   - Molecular-Rift Arrow
-bulk: L
-capacity: "20"
-critical: 
-damage: 
-equipped-hands: "1"
 level: "18"
-page: "55"
 price: 53700
-proficiency: Ammo
 source: Starfinder Armory pg. 55
-special: 10d6
-special-extra: p
 tags:
-  - sf1e/items/ammunition
+  - ammunition
 type:
   - Arrow
 ---
@@ -22,8 +13,8 @@ type:
 # Molecular-rift Arrow
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 18;
-**Price**:: 53,700  
+**Level**:: 18
+**Price**:: 53700  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

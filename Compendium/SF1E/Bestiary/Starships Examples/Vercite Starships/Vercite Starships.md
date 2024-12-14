@@ -1,14 +1,11 @@
----
-aliases: 
-tags: 
----
+
 
 # Vercite Starships
 
 The stars have always been a second home to the people of Verces, who explored the depths of space in their dirigible aetherships before many worlds even mastered the wheel. While the Augmented are still among the most common Vercite explorers, the pleasures of space travel are now enjoyed by those of any caste, as long as they have the credits to pay for it.  
-  
+ 
 Verces is home to several of the most prominent and versatile ship manufacturers in the Pact Worlds, most notably Ringworks Industries, yet its original aethership designs never completely faded away. Instead, dramatic evolutions of these ancient vessels became the modern aetherships, high-end luxury craft known for their style and comfort, whose amenities often come at the cost of armaments and defenses. These vessels are designed for recreation and flagrant displays of status, whether that’s jetting around in a Terminator-brand Star Drake racer or boarding one of the elite Opulos cruise ships that take guests on voyages to view amazing astronomical phenomena and once-in-a-lifetime cosmic events.  
-  
+ 
 Bookings on these latter vessels, many fitted with ostentatious antique brass and upholstery older than the Pact Worlds government itself, are frequently made years in advance, while other vessels depart seemingly at the whims of their captains. Owing to the relatively small number of publicly bookable Drift Cruisers, such berths are highly sought after. Only the ultra-wealthy can afford to own their own Drift Cruisers, often using them as mobile mansions or corporate headquarters, and the Opulos Corporation steadfastly refuses to reveal who may have purchased such vessels.  
-  
+ 
 Even more than for luxury, Vercite aetherships are known for their speed. Designed more as toys for the prosperous than true exploratory vessels, smaller aetherships are often limited to travel within the Pact Worlds system but offer extreme real-space acceleration. From Redshift Revolution’s two-seater X Series to Terminator’s sleek Drake models, the shipyards at Skydock boast a wide variety of these vessels outfitted for various events and challenges.

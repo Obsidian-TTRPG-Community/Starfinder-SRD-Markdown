@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Ring Fire, Advanced
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 10;
-**Price**:: 17,300  
+**Level**:: 10
+**Price**:: 17300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 P; **Range**:: 20 ft.;
+**Damage**:: 2d8 P; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 1 round ; **Usage** 1  
 **Bulk**:: —
@@ -31,11 +32,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Ring Fire, Tactical
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 6;
-**Price**:: 3,900  
+**Level**:: 6
+**Price**:: 3900  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 P; **Range**:: 20 ft.;
+**Damage**:: 1d8 P; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 1 round ; **Usage** 1  
 **Bulk**:: —
@@ -45,10 +47,11 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 14
-**Price**:: 68,500  
+**Price**:: 68500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d8 P; **Range**:: 20 ft.;
+**Damage**:: 4d8 P; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 1 round ; **Usage** 1  
 **Bulk**:: —
@@ -57,11 +60,12 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Ring Fire, Paragon
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 18;
-**Price**:: 357,000  
+**Level**:: 18
+**Price**:: 357000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 6d8 P; **Range**:: 20 ft.;
+**Damage**:: 6d8 P; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 1 round ; **Usage** 1  
 **Bulk**:: —

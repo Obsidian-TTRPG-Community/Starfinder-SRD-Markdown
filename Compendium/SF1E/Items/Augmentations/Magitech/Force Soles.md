@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 4 / 8
+Item:
 price:  
-System: All feet
+
 tags: 
 Type: Magitech
 ---
@@ -14,12 +14,14 @@ Nodes in the soles of your feet project tiny fields of force energy when you int
 ## Force Soles, Mk 1
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 4;
-**Price**::  2,260; **System** All feet  
+**Level**:: 4
+**Price**::  2260 
+**System**:: All feet  
   
 
 ## Force Soles, Mk 2
 
 **Source**:: _Starfinder Armory pg. 92_  
-**Item Level** 8;
-**Price**::  10,700; **System** All feet
+**Level**:: 8
+**Price**::  10700 
+**System**:: All feet

@@ -1,24 +1,30 @@
 ---
 aliases: 
-ItemLevel: 4
-NoteType: Terrestial Vehicles
-price: 6,195
+Item:
+NoteType: Terrestrial Vehicles
+price: 6195
 tags: 
 ---
 
 # Police Cruiser
 
 **Source**:: _Starfinder Core Rulebook pg. 229_
-**Item Level** 4;
-**Price**::  6,195  
+**Level**:: 4
+**Price**::  6195  
 Large land and air vehicle (10 ft. wide, 10 ft. long, 5 ft. high)  
-**Speed** 25 ft., full 650 ft., 75 mph (ground and fly)  
-**EAC** 17; **KAC** 19; **Cover** improved cover  
-**HP** 50 (25); **Hardness** 7  
+**Speed**:: 25 ft., full 650 ft., 75 mph (ground and fly)  
+
+**EAC**:: 17; 
+**KAC**:: 19; 
+**Cover**:: improved cover  
+**HP**:: 50 (25); 
+**Hardness**:: 7  
 **Attack (Collision)** 5d6 B (DC 13)  
 **Attack** autodisabler (3d8 E)  
-**Modifiers** +2 Piloting, –2 attack (–4 at full speed)  
-**Systems** autopilot (Piloting +13), planetary comm unit; **Passengers** 1 plus 2 prisoner(s)  
+
+**Modifiers**:: +2 Piloting, –2 attack (–4 at full speed)  
+**Systems**:: autopilot (Piloting +13), planetary comm unit
+**Passengers**:: 1 plus 2 prisoner(s)  
 
 ### Special Abilities
 

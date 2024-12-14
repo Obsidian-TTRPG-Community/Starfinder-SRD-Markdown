@@ -4,7 +4,7 @@ Level: Multilevel
 Mystic: 1-6
 NoteType: Spell
 Precog: 
-School: necromancy 
+
 tags: 
 Technomancer: 1-6
 Witchwarper: 

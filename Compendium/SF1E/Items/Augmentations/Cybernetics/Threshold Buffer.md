@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 4 / 9 / 15
+Item:
 price:  
-System: Heart
+
 tags: 
 Type: Cybertech
 ---
@@ -13,26 +13,29 @@ This system monitors your vitals, injecting a burst of synthetic adrenaline into
 
 | Model | Level | Price   | DR | 
 | -------|-------|---------|----| 
-|  Mk 1  | 5     | 3,300   | 3  | 
-|  Mk 2  | 11    | 26,750  | 6  | 
-|  Mk 3  | 17    | 278,100 | 10 | 
+|  Mk 1  | 5     | 3300   | 3  | 
+|  Mk 2  | 11    | 26750  | 6  | 
+|  Mk 3  | 17    | 278100 | 10 | 
 
 ## Threshold Buffer, Mk 1
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 4;
-**Price**::  2,080; **System** Heart  
+**Level**:: 4
+**Price**::  2080 
+**System**:: Heart  
   
 
 ## Threshold Buffer, Mk 2
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 9;
-**Price**::  13,500; **System** Heart  
+**Level**:: 9
+**Price**::  13500 
+**System**:: Heart  
   
 
 ## Threshold Buffer, Mk 3
 
 **Source**:: _Starfinder Armory pg. 89_  
-**Item Level** 15;
-**Price**::  110,000; **System** Heart
+**Level**:: 15
+**Price**::  110000 
+**System**:: Heart

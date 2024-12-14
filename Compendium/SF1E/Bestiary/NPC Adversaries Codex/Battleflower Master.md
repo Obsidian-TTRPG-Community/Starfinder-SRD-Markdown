@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 16
 hp: 300
-modifier: 10
+Initmod: 10
 Monster Type: NPC
 name: Battleflower Master
-statblock: true
-Subtype: Sport Figures
+statblock: true(Sport Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Battleflower Master

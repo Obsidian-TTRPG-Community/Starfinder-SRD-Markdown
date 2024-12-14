@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 11 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Disintegration Pistol, Decimator
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 11;
-**Price**:: 28,000  
+**Level**:: 11
+**Price**:: 28000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d20 A; **Range**:: 20 ft.;
+**Damage**:: 1d20 A; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -27,11 +28,12 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Disintegration Pistol, Liquidator
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 6;
-**Price**:: 4,500  
+**Level**:: 6
+**Price**:: 4500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 A; **Range**:: 15 ft.;
+**Damage**:: 1d10 A; 
+**Range**:: 15 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -40,11 +42,12 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Disintegration Pistol, Executioner
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 16;
-**Price**:: 200,000  
+**Level**:: 16
+**Price**:: 200000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d20 A; **Range**:: 25 ft.;
+**Damage**:: 2d20 A; 
+**Range**:: 25 ft.
 **Critical**:: corrode 1d6  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -53,11 +56,12 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Disintegration Pistol, Eradicator
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 20;
-**Price**:: 745,000  
+**Level**:: 20
+**Price**:: 745000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d20 A; **Range**:: 30 ft.;
+**Damage**:: 3d20 A; 
+**Range**:: 30 ft.
 **Critical**:: corrode 2d6  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L

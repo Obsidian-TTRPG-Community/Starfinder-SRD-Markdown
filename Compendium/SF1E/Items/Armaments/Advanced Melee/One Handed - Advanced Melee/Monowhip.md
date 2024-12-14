@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 15
+
 Notetype: Weapon
-price: 107,000
+price: 107000
 tags: 
 type: Advanced-Melee
 ---
@@ -11,11 +11,11 @@ type: Advanced-Melee
 # Monowhip
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 15;
-**Price**:: 107,000  
+**Level**:: 15
+**Price**:: 107000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d4 S;
+**Damage**:: 10d4 S
 **Critical**:: severe wound  
 **Bulk**:: L
 **Special**:: analog, disarm, reach, trip

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 135
-modifier: 6
+Initmod: 6
 Monster Type: NPC
 name: Enercopter Pilot
-statblock: true
-Subtype: Emergency Workers
+statblock: true(Emergency Workers
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Enercopter Pilot

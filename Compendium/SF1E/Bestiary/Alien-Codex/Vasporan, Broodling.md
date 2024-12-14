@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any sky (Old Ustavia)  
+Environment: any sky (Old Ustavia)
 hp: 50
-modifier: 3
+Initmod: 3
 name: Vasporan, Broodling
 statblock: true
 tags: 
-Type: N Medium animal  
+Type: N Medium animal
 ---
 
 # Vasporan, Broodling
@@ -20,7 +20,7 @@ In recent years, xenobiologists have posited that some particularly hardy specim
 
 A typical vasporan is 11 feet long and weighs 750 pounds.
 
-**Source**:: _Alien Archive 4 pg. 132_
+**Source**:  _Alien Archive 4 pg. 132_
 
 ## Broodling Cr 4
 

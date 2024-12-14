@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 70
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Deepsea Guardian
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Deepsea Guardian

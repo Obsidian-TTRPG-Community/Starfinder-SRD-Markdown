@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 9 / 13 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -15,11 +15,11 @@ Ignursos wield enough strength to punch through rock, and even after death, thei
 ## Ignurso Knuckles, Blaze
 
 **Source**:: _Alien Archive 4 pg. 51_  
-**Level**:: 9;
-**Price**:: 13,500  
+**Level**:: 9
+**Price**:: 13500  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 2d6 F & S;
+**Damage**:: 2d6 F & S
 **Critical**:: Wound  
 **Bulk**:: L
 **Special**:: Analog, penetrating
@@ -28,10 +28,10 @@ Ignursos wield enough strength to punch through rock, and even after death, thei
 
 **Source**:: _Alien Archive 4 pg. 51_  
 **Level**:: 5
-**Price**:: 3,100  
+**Price**:: 3100  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d6 F & S;
+**Damage**:: 1d6 F & S
 **Critical**:: Wound  
 **Bulk**:: L
 **Special**:: Analog, penetrating
@@ -39,11 +39,11 @@ Ignursos wield enough strength to punch through rock, and even after death, thei
 ## Ignurso Knuckles, Inferno
 
 **Source**:: _Alien Archive 4 pg. 51_  
-**Level**:: 13;
-**Price**:: 50,250  
+**Level**:: 13
+**Price**:: 50250  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 4d6 F & S;
+**Damage**:: 4d6 F & S
 **Critical**:: Wound  
 **Bulk**:: L
 **Special**:: Analog, penetrating
@@ -51,11 +51,11 @@ Ignursos wield enough strength to punch through rock, and even after death, thei
 ## Ignurso Knuckles, Solar Flare
 
 **Source**:: _Alien Archive 4 pg. 51_  
-**Level**:: 17;
-**Price**:: 262,000  
+**Level**:: 17
+**Price**:: 262000  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 9d6 F & S;
+**Damage**:: 9d6 F & S
 **Critical**:: Severe wound  
 **Bulk**:: L
 **Special**:: Analog, penetrating

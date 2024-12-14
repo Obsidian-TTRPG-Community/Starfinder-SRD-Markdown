@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ When an early attempt at creating synthetic zhufera honey went awry, the resulti
 ## Panic Grenade, Mk 1
 
 **Source**:: _Interstellar Species pg. 55_  
-**Level**:: 6;
-**Price**:: 1,400  
+**Level**:: 6
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn; **Usage** 1  
 **Bulk**:: L
@@ -26,11 +27,12 @@ When an early attempt at creating synthetic zhufera honey went awry, the resulti
 ## Panic Grenade, Mk 2
 
 **Source**:: _Interstellar Species pg. 55_  
-**Level**:: 10;
-**Price**:: 5,600  
+**Level**:: 10
+**Price**:: 5600  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn; **Usage** 1  
 **Bulk**:: L
@@ -40,10 +42,11 @@ When an early attempt at creating synthetic zhufera honey went awry, the resulti
 
 **Source**:: _Interstellar Species pg. 55_  
 **Level**:: 14
-**Price**:: 22,400  
+**Price**:: 22400  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn; **Usage** 1  
 **Bulk**:: L
@@ -52,11 +55,12 @@ When an early attempt at creating synthetic zhufera honey went awry, the resulti
 ## Panic Grenade, Mk 4
 
 **Source**:: _Interstellar Species pg. 55_  
-**Level**:: 18;
-**Price**:: 89,600  
+**Level**:: 18
+**Price**:: 89600  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn; **Usage** 1  
 **Bulk**:: L

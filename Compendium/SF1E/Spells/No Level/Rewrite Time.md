@@ -3,8 +3,8 @@ aliases:
 Level: /
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: universal  
+Precog: X
+
 tags: 
 Technomancer: 
 Witchwarper: 

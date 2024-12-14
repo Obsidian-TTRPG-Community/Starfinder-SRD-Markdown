@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,25 +18,29 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Nanite Decoupler, Caustic
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 9;
-**Price**:: 15,000  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 15000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 A; **Range**:: 60 ft.;
+**Damage**:: 2d6 A 
+**Range**:: 60 ft.
 **Critical**:: corrode 1d6  
-**Capacity**:: 10 nanites; **Usage** 2  
-**Bulk**:: 3;
+**Capacity**:: 10 nanites 
+**Usage** 2  
+**Bulk**:: 3
 **Special**:: explode (10 ft.), unwieldy
 
 ## Nanite Decoupler, Vitriolic
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 19;
-**Price**:: 650,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 650000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d20 A; **Range**:: 80 ft.;
+**Damage**:: 2d20 A 
+**Range**:: 80 ft.
 **Critical**:: corrode 3d6  
-**Capacity**:: 10 nanites; **Usage** 5  
-**Bulk**:: 3;
+**Capacity**:: 10 nanites 
+**Usage** 5  
+**Bulk**:: 3
 **Special**:: explode (20 ft.), unwieldy

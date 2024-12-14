@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,25 +15,46 @@ The Veskarium’s occupation forces often wear these suits of lightweight armor 
 
 **Source**:: _Near Space pg. 152_  
 **Level**:: 4
-**Price**:: 2,000; **Category** Light  
-**EAC Bonus** +4; **KAC Bonus** +5; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Price**:: 2000 
+**Category**:: Light  
+
+**EAC**:: +4 
+**KAC**:: +5 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ## PEACEKEEPER’S Aegis, Ii
 
 **Source**:: _Near Space pg. 152_  
-**Level**:: 8;
-**Price**:: 8,100; **Category** Light  
-**EAC Bonus** +9; **KAC Bonus** +10; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Level**:: 8
+**Price**:: 8100 
+**Category**:: Light  
+
+**EAC**:: +9 
+**KAC**:: +10 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1
 
 ## PEACEKEEPER’S Aegis, Iii
 
 **Source**:: _Near Space pg. 152_  
 **Level**:: 12
-**Price**:: 33,500; **Category** Light  
-**EAC Bonus** +14; **KAC Bonus** +15; **Max. Dex Bonus** +6  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: 1
+**Price**:: 33500 
+**Category**:: Light  
+
+**EAC**:: +14 
+**KAC**:: +15 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: 1

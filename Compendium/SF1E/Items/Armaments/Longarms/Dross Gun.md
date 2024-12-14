@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 5 / 10
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,38 +18,35 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Dross Gun, Flux
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 10;
-**Price**:: 19,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d12 A; **Range**:: 20 ft.;
+**Level**:: 10
+**Price**:: 19200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d12 A; 
+**Range**:: 20 ft.
 **Critical**:: severe wound  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 1;
-**Special**:: penetrating
+**Bulk**:: 1**Special**:: penetrating
 
 ## Dross Gun, Scrapper
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 720  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 A; **Range**:: 15 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 A; 
+**Range**:: 15 ft.
 **Critical**:: —  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: penetrating
+**Bulk**:: 1**Special**:: penetrating
 
 ## Dross Gun, Scoring
 
 **Source**:: _Starfinder Armory pg. 36_  
 **Level**:: 5
-**Price**:: 3,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 A; **Range**:: 20 ft.;
+**Price**:: 3300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 A; 
+**Range**:: 20 ft.
 **Critical**:: wound  
 **Capacity**:: 20 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: penetrating
+**Bulk**:: 1**Special**:: penetrating

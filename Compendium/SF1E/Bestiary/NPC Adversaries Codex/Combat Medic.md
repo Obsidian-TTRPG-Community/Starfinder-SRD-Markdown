@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 3
 hp: 35
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Combat Medic
-statblock: true
-Subtype: Former Military
+statblock: true(Former Military
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Combat Medic

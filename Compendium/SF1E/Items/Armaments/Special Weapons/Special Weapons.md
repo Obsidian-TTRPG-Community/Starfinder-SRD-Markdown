@@ -7,8 +7,8 @@ tags:
 
 ``` dataview
 TABLE
-Level, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Armaments/Special Weapons"
+Level, Damage, Critical, Special, Price
+FROM "Starfinder-SRD/Compendium/Items/Armaments/Special Weapons"
 SORT Level ASC
 WHERE file.name != "Special Weapons"
 ```

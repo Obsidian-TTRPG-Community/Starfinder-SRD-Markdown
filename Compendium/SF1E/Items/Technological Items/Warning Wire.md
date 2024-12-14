@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12  
+
 price:  
 tags: 
 Type: Technological Item
@@ -21,25 +21,28 @@ This 50 feet of thin, nearly invisible wire is spooled around a dull-gray, flat 
  ##  Warning Wire, Mk 1
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 4;
-**Price**::  2,000  
-**Capacity**:: 40; **Usage** 1/hour  
-**Hands** —; **Bulk** L
+**Level**:: 4
+**Price**::  2000  
+**Capacity**:: 40 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: L
 
 ---
 
 ## Warning Wire, Mk 2
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 8;
-**Price**::  8,800  
-**Capacity**:: 40; **Usage** 1/hour  
-**Hands** —; **Bulk** L
+**Level**:: 8
+**Price**::  8800  
+**Capacity**:: 40 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: L
 
 ## Warning Wire, Mk 3
 
 **Source**:: _Starfinder Armory pg. 109_  
-**Level** 12;
-**Price**::  32,900  
-**Capacity**:: 40; **Usage** 1/hour  
-**Hands** —; **Bulk** L
+**Level**:: 12
+**Price**::  32900  
+**Capacity**:: 40 **Usage** 1/hour  
+**Hands** — 
+**Bulk**:: L

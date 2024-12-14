@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 4
 hp: 50
-modifier: 5
+Initmod: 5
 Monster Type: NPC
 name: Lizardfolk Scaled Soldier
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Lizardfolk Scaled Soldier

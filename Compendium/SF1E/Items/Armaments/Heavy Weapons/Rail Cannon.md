@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 12 / 16 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,50 +19,58 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 
 **Source**:: _Starfinder Armory pg. 44_  
 **Level**:: 12
-**Price**:: 37,000  
-**Hands**:: 2;
+**Price**:: 37000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d10 P; **Range**:: 80 ft.;
+**Damage**:: 3d10 P 
+**Range**:: 80 ft.
 **Critical**:: bleed 2d4  
-**Capacity**:: 40 rounds; **Usage** 8  
-**Bulk**:: 2;
+**Capacity**:: 40 rounds 
+**Usage** 8  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Rail Cannon, Tactical
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 3;
-**Price**:: 1,410  
-**Hands**:: 2;
+**Level**:: 3
+**Price**:: 1410  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d10 P; **Range**:: 60 ft.;
+**Damage**:: 1d10 P 
+**Range**:: 60 ft.
 **Critical**:: bleed 1d4  
-**Capacity**:: 20 rounds; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 20 rounds 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Rail Cannon, Elite
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 16;
-**Price**:: 176,000  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 176000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 8d10 P; **Range**:: 80 ft.;
+**Damage**:: 8d10 P 
+**Range**:: 80 ft.
 **Critical**:: bleed 3d6  
-**Capacity**:: 50 rounds; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 50 rounds 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: line, unwieldy
 
 ## Rail Cannon, Paragon
 
 **Source**:: _Starfinder Armory pg. 44_  
-**Level**:: 19;
-**Price**:: 591,000  
-**Hands**:: 2;
+**Level**:: 19
+**Price**:: 591000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 12d10 P; **Range**:: 100 ft.;
+**Damage**:: 12d10 P 
+**Range**:: 100 ft.
 **Critical**:: bleed 4d6  
-**Capacity**:: 60 rounds; **Usage** 10  
-**Bulk**:: 2;
+**Capacity**:: 60 rounds 
+**Usage** 10  
+**Bulk**:: 2
 **Special**:: line, unwieldy

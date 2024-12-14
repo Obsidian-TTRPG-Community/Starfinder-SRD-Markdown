@@ -1,8 +1,8 @@
 ---
 aliases: 
 Category: Control
-Level: 
-price: 10% of controlled device;
+
+price: 10% of controlled device
 tags: 
 Type: Computer Gear
 ---

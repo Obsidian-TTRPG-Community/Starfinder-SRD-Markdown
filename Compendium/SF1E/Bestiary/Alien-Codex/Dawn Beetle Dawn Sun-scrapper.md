@@ -3,11 +3,11 @@ aliases:
 cr: 2
 Environment: any
 hp: 23
-modifier: 0
+Initmod: 0
 name: Dawn Beetle, Dawn Sun-scrapper
 statblock: true
 tags: 
-Type: N Large vermin  
+Type: N Large vermin
 ---
 
 # Dawn Beetle, Dawn Sun-scrapper
@@ -22,7 +22,7 @@ Thanks to their plodding compliance, dawn beetles are rather easy to domesticate
 
 Some of Sarenrae’s faithful consider dawn beetles a sacred animal. Acolytes take them as mounts and follow them through the galaxy, trusting in their patron’s power to deliver them safely to other worlds to spread the Dawnflower’s healing. They believe those who can ride core-divers bareback without being burned are especially blessed. The Sarenites of the Burning Archipelago maintain small herds of the beetles on the surface, training them to recycle the settlement’s waste. However, these beetles periodically become too greedy, and the Archipelago’s security must fend off hundreds of the scavengers.
 
-**Source**:: _Alien Archive 4 pg. 26_
+**Source**:  _Alien Archive 4 pg. 26_
 
 ## Dawn Sun-scrapper Cr 2
 

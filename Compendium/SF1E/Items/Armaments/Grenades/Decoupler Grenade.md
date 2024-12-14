@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 10 / 14 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Although tripods can use other grenades, they are infamous for the decoupler gre
 ## Decoupler Grenade, I
 
 **Source**:: _Alien Archive 3 pg. 119_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Although tripods can use other grenades, they are infamous for the decoupler gre
 ## Decoupler Grenade, Ii
 
 **Source**:: _Alien Archive 3 pg. 119_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 700  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Although tripods can use other grenades, they are infamous for the decoupler gre
 ## Decoupler Grenade, Iii
 
 **Source**:: _Alien Archive 3 pg. 119_  
-**Level**:: 10;
-**Price**:: 3,000  
+**Level**:: 10
+**Price**:: 3000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -53,10 +56,11 @@ Although tripods can use other grenades, they are infamous for the decoupler gre
 
 **Source**:: _Alien Archive 3 pg. 119_  
 **Level**:: 14
-**Price**:: 12,000  
+**Price**:: 12000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -65,11 +69,12 @@ Although tripods can use other grenades, they are infamous for the decoupler gre
 ## Decoupler Grenade, V
 
 **Source**:: _Alien Archive 3 pg. 119_  
-**Level**:: 18;
-**Price**:: 65,000  
+**Level**:: 18
+**Price**:: 65000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

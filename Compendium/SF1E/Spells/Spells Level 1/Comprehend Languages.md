@@ -3,11 +3,11 @@ aliases:
 Level: 1
 Mystic: 
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: divination 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # Comprehend Languages

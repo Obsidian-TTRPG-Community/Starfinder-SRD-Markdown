@@ -3,11 +3,11 @@ aliases:
 cr: 12
 Environment: any
 hp: 200
-modifier: 5
+Initmod: 5
 name: Haeshi-Shaa, Haeshi-Shaa (Haeshi Form)
 statblock: true
 tags: 
-Type: CE Large aberration  
+Type: CE Large aberration
 ---
 
 # Haeshi-shaa, Haeshi-shaa (HAESHI FORM)
@@ -26,7 +26,7 @@ Many believe that the two species came into the role of priests among the Domini
 
 Haeshi-shaas can’t predict when they might shift into their variant form. Some seek out events that might serve as a catalyst, while others wait for the change to occur naturally. These creatures can exist for ages, shifting thousands of times, but over time, the bonds that cause the cyclical shifts of a haeshi-shaa’s form deteriorate. A haeshi-shaa can live for as long as 25,000 years before its final shift comes to pass and it completely dissipates among the winds of the universe.
 
-**Source**:: _Alien Archive 2 pg. 70_
+**Source**:  _Alien Archive 2 pg. 70_
 
 ## Haeshi-shaa (HAESHI FORM) Cr 12
 

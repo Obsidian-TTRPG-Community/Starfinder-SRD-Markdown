@@ -1,22 +1,28 @@
 ---
 aliases: 
-ItemLevel: 6
-NoteType: Terrestial Vehicles
-price: 14,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 14000
 tags: 
 ---
 
 # Rally Jammer
 
 **Source**:: _Galaxy Exploration Manual pg. 63_
-**Item Level** 6;
-**Price**::  14,000  
+**Level**:: 6
+**Price**::  14000  
 Large land and air vehicle (5 ft. wide, 10 ft. long, 5 ft. high)  
-**Speed** 40 ft., full 700 ft., 80 mph (hover)  
-**EAC** 15; **KAC** 17; **Cover** cover  
-**HP** 76 (38); **Hardness** 6  
+**Speed**:: 40 ft., full 700 ft., 80 mph (hover)  
+
+**EAC**:: 15; 
+**KAC**:: 17; 
+**Cover**:: cover  
+**HP**:: 76 (38); 
+**Hardness**:: 6  
 **Attack (Collision)** 6d8 B (DC 14)  
-**Modifiers** +2 Piloting, –2 attack (–4 at full speed)  
+
+**Modifiers**:: +2 Piloting, –2 attack (–4 at full speed)  
+
 **Passengers** 1  
 
 ### Special Abilities

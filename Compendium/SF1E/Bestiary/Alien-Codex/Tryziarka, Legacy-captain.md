@@ -3,11 +3,11 @@ aliases:
 cr: 12
 Environment: any
 hp: 185
-modifier: 5
+Initmod: 5
 name: Tryziarka, Legacy-captain
 statblock: true
 tags: 
-Type: N Medium humanoid (tryziarka)  
+Type: N Medium humanoid (tryziarka)
 ---
 
 # Tryziarka, Legacy-captain
@@ -20,7 +20,7 @@ Each individual tryziarka’s ooze-tattoo manifests in its own unique design, an
 
 As tryziarkas spread across the galaxy in their legacy ships, some found new homes on uninhabited worlds, others fatally crash landed or succumbed to dangerous stellar phenomena, and some travel still on a quest for a new world.
 
-**Source**:: _Alien Archive 4 pg. 126_
+**Source**:  _Alien Archive 4 pg. 126_
 
 ## Legacy-captain Cr 12
 

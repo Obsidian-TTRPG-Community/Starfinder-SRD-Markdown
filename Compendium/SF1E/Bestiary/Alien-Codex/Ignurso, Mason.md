@@ -1,20 +1,20 @@
 ---
 aliases: 
 cr: 11
-Environment: warm and temperate mountains and underground  
+Environment: warm and temperate mountains and underground
 hp: 180
-modifier: 5
+Initmod: 5
 name: Ignurso, Mason
 statblock: true
 tags: 
-Type: N Large magical beast  
+Type: N Large magical beast
 ---
 
 # Ignurso, Mason
 
 ## Ignurso
 
-**Source**:: _Alien Archive 4 pg. 50_  
+**Source**:  _Alien Archive 4 pg. 50_  
 Ignursos are ursine mammals typically found in geothermally active areas, from hot springs to calderas. Standing up to 10 feet tall when on their hind legs and weighing up to 800 pounds, ignursos are physically intimidating. Yet they rarely make use of their fearsome appearance, instead preferring to burrow underground or lounge wherever it’s warm. When they do act out of hunger or stress, ignursos become forces of destruction, their cyclopean eyes blazing with ferocity as the creatures exhale gouts of fire.
 
 An ignurso’s body is ideally suited for extremely warm environments. Wiry, flame-resistant fur covers its legs and belly, giving the creature crucial insulation in cooler areas. Its back and head are protected by thick scales able to shed incoming blows and fiery ash with equal ease, allowing an ignurso to remain active even during moderate volcanic events. Thick foreclaws allow the ignurso to dig swiftly through soil and softer igneous rock, climb with ease, and knock down prey. The only part of its body ill-suited to its fiery, subterranean terrain is its single eye—a liability around spraying soil or stray sparks. Having a single eye is evolutionarily common on the ignurso’s home planet, and they have developed a nictitating membrane to protect their eye, keen vision in darkness and smoke alike, and a plow-like horn above the eye that serves as a visor against the worst debris.
@@ -27,7 +27,7 @@ Ignursos remain usually solitary unless courting a mate or raising cubs. Females
 
 For all the danger they represent, ignursos serve two crucial roles in their ecosystems: volcanic mitigation and habitat creation. Periodically, an overzealous ignurso digs so close to a volcano’s magma chamber that lava breaks through the rock, wells up within the ignurso’s tunnels, and vents lazily to the surface. In such events, the destruction is minimal, and geologists have determined that these vents release some of the underground pressure, making true eruptions less frequent and devastating. As some of the few creatures able to tunnel through solid rock, ignursos are also a keystone species in volcanically active areas. Their heavy claws pulverize the hard surface, making way for small plants to colonize the new soil, and their broad tunnels create new habitats for a variety of animals. Ignurso mason construction has even shaped early cultures, with several planets’ earliest cities having relied on their structures as rudimentary shelters. As hot spots migrate over the millennia, so too do ignurso populations, consistently reshaping the land.
 
-**Source**:: _Alien Archive 4 pg. 50_
+**Source**:  _Alien Archive 4 pg. 50_
 
 ## Mason Cr 11
 

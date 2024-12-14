@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6
-price: 3,850
+
+price: 3850
 tags: 
 Type: Technological Item
 ---
@@ -9,10 +9,11 @@ Type: Technological Item
 # Subdermal Extractor
 
 **Source**:: _Starfinder Armory pg. 108_  
-**Level** 6;
-**Price**::  3,850  
-**Capacity**:: 20; **Usage** 1/use  
-**Hands**:: 1**Bulk** 1
+**Level**:: 6
+**Price**::  3850  
+**Capacity**:: 20 **Usage** 1/use  
+**Hands**:: 1
+**Bulk**:: 1
 
 ### Description
 

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 6
 hp: 80
-modifier: 9
+Initmod: 9
 Monster Type: NPC
 name: Recovery Agent
-statblock: true
-Subtype: Bounty Hunters
+statblock: true(Bounty Hunters
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Recovery Agent

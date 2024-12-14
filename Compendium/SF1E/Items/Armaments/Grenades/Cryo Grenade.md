@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 10 / 14 / 18
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ Cryo grenades release a blast of supercooled chemicals on impact, which immediat
 ## Cryo Grenade, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 600  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 1d8 C; **Range**:: 20 ft.;
+**Damage**:: 1d8 C; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Cryo grenades release a blast of supercooled chemicals on impact, which immediat
 ## Cryo Grenade, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 10;
-**Price**:: 2,350  
+**Level**:: 10
+**Price**:: 2350  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 2d8 C; **Range**:: 20 ft.;
+**Damage**:: 2d8 C; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -40,10 +42,11 @@ Cryo grenades release a blast of supercooled chemicals on impact, which immediat
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
 **Level**:: 14
-**Price**:: 9,400  
+**Price**:: 9400  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 4d8 C; **Range**:: 20 ft.;
+**Damage**:: 4d8 C; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Cryo grenades release a blast of supercooled chemicals on impact, which immediat
 ## Cryo Grenade, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 18;
-**Price**:: 54,100  
+**Level**:: 18
+**Price**:: 54100  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: 6d8 C; **Range**:: 20 ft.;
+**Damage**:: 6d8 C; 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

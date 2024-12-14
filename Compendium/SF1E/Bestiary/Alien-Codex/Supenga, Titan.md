@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 15
-Environment: warm and temperate deserts  
+Environment: warm and temperate deserts
 hp: 290
-modifier: 5
+Initmod: 5
 name: Supenga, Titan
 statblock: true
 tags: 
-Type: N Huge plant  
+Type: N Huge plant
 ---
 
 # Supenga, Titan
@@ -23,7 +23,7 @@ Upon growing to about 15 feet in total length, a supenga’s physical developmen
 In the Pact Worlds, supengas roam stretches of Akiton and the Fullbright wastes of Verces, but their largest population traverses the northern and western deserts of Castrovel’s Colonies.
 
 
-**Source**:: _Alien Archive 4 pg. 120_
+**Source**:  _Alien Archive 4 pg. 120_
 
 ## Titan Cr 15
 

@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any (Vesk-3)  
+Environment: any (Vesk-3)
 hp: 23
-modifier: 2
+Initmod: 2
 name: Skittermander Alien
 statblock: true
 tags: 
-Type: CN Small humanoid (skittermander)  
+Type: CN Small humanoid (skittermander)
+combatType: expert
+alignment: CN
+size: small
+type(subtype): humanoid(skittermander)
+environment: any
+climate: any
+planet: Vesk-3
+organization:
+  - solitary
+  - pair
+  - mob(3-12)
+source: Alien Archive
 ---
 
 # Skittermander Alien
@@ -26,7 +38,7 @@ After 6 years, whelps mature into adult skittermanders, begin to walk upright, a
 
 The average adult skittermander is 3 feet tall and weighs about 35 pounds.
 
-**Source**:: _Alien Archive pg. 106_
+**Source**:  _Alien Archive pg. 106_
 
 ## Skittermander Cr 2
 
@@ -70,3 +82,5 @@ CN Small humanoid (skittermander)
 The following extra content was found for this creature:  
 \- Skittermander (Creature Subtype) Graft Template  
 \- Skittermander Race Entry
+
+

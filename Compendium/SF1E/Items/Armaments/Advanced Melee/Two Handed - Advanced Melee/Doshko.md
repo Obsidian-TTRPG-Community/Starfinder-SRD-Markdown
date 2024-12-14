@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 7 / 11 / 14 / 17 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,71 +17,59 @@ Ultrathin doshko blades look exceptionally delicate but hold a fine edge. Zero-e
 ## Doshko, Advanced
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 7;
-**Price**:: 5,300  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d12 P;
+**Level**:: 7
+**Price**:: 5300  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Doshko, Tactical
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 1
 **Price**:: 240  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d12 P;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Doshko, Ultrathin
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 11;
-**Price**:: 24,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d12 P;
+**Level**:: 11
+**Price**:: 24600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Doshko, Zero-edge
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
 **Level**:: 14
-**Price**:: 71,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 7d12 P;
+**Price**:: 71500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 7d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Doshko, Molecular Rift
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 17;
-**Price**:: 248,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d12 P;
+**Level**:: 17
+**Price**:: 248000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1), unwieldy
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1), unwieldy
 
 ## Doshko, Dimensional Blade
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 19;
-**Price**:: 546,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 13d12 P;
+**Level**:: 19
+**Price**:: 546100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 13d12 P
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy

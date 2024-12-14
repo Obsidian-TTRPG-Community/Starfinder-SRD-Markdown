@@ -3,7 +3,7 @@ aliases:
   - Arrows
 price: 0
 tags:
-  - sf1e/items/ammunition
+  - ammunition
 type:
   - Ammo
 ---
@@ -25,5 +25,5 @@ Arrow shafts are made of carbon fiber–reinforced plastic and have metal or cer
 
 ## Arrow Types
 
-- [Diamond-Edge Arrow](Compendium/SF1E/Items/Ammunition/Diamond-Edge-Arrow)
-- [Molecular-Rift Arrow](Compendium/SF1E/Items/Ammunition/Molecular-Rift-Arrow)
+- [Diamond-Edge Arrow](Diamond-Edge-Arrow.md)
+- [Molecular-Rift Arrow](Molecular-Rift-Arrow.md)

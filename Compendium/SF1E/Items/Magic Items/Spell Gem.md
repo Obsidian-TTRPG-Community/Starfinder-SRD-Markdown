@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 2 / 5 / 8 / 11 / 14 / 17
+
 price: 
 tags: 
 Type: Magic Item
@@ -14,41 +14,48 @@ To craft a spell gem, you have to know the spell you’re encoding into the gem.
 ## Spell Gem, 0
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 1;
-**Price**::  50; **Bulk** L
+**Level**:: 1
+**Price**::  50 
+**Bulk**:: L
 
 ## Spell Gem, 1ST
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 2;
-**Price**::  140; **Bulk** L
+**Level**:: 2
+**Price**::  140 
+**Bulk**:: L
 
 ## Spell Gem, 2ND
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 5;
-**Price**::  450; **Bulk** L
+**Level**:: 5
+**Price**::  450 
+**Bulk**:: L
 
 ## Spell Gem, 3RD
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 8;
-**Price**::  1,400; **Bulk** L
+**Level**:: 8
+**Price**::  1400 
+**Bulk**:: L
 
 ## Spell Gem, 4TH
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 11;
-**Price**::  3,700; **Bulk** L
+**Level**:: 11
+**Price**::  3700 
+**Bulk**:: L
 
 ## Spell Gem, 5TH
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 14;
-**Price**::  10,600; **Bulk** L
+**Level**:: 14
+**Price**::  10600 
+**Bulk**:: L
 
 ## Spell Gem, 6TH
 
 **Source**:: _Starfinder Core Rulebook pg. 222_  
-**Level** 17;
-**Price**::  36,650; **Bulk** L
+**Level**:: 17
+**Price**::  36650 
+**Bulk**:: L

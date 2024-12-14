@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 Notetype: Weapon
 price: 90
 tags: 
@@ -14,13 +14,12 @@ type: Longarms
 **Source**:: [_Starfinder Armory pg. 38_][]  
 **Level**:: 1
 **Price**:: 90  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 F; **Range**:: 20 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 F; 
+**Range**:: 20 ft.
 **Critical**:: [burn 1d6][]  
 **Capacity**:: 4 shells; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: [analog][]
+**Bulk**:: 1**Special**:: [analog][]
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 12
-Environment: urban  
+Environment: urban
 hp: 200
-modifier: 4
+Initmod: 4
 name: Ferrofluid Ooze, Ferrofluid Magneto-Cluster
 statblock: true
 tags: 
-Type: N Large ooze  
+Type: N Large ooze
 ---
 
 # Ferrofluid Ooze, Ferrofluid Magneto-cluster
@@ -20,7 +20,7 @@ While not inherently ill meaning, ferrofluid oozes often are at odds with the ow
 
 As ferrofluid oozes skulk around places profuse with magnetized materials, they occasionally leave behind droplets of magnetic fluid. So long as these droplets remain in the magnetized environments provided by their parent, their size and magnetic power grow in parallel with their access to additional magnetized material. Due to this propagation, it is not unusual to see several ferrofluid oozes enjoying the same magnetically charged environment, so experienced adventurers are wary when they find only a single ooze in such a place. Given enough time and magnetic material, multiple oozes can form into a single, much larger ferrofluid magneto-cluster around 8 feet in diameter.
 
-**Source**:: _Alien Archive 3 pg. 34_
+**Source**:  _Alien Archive 3 pg. 34_
 
 ## Ferrofluid Magneto-cluster Cr 12
 

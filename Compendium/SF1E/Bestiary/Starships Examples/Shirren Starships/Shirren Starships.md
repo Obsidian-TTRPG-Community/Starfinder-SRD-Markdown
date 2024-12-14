@@ -1,12 +1,9 @@
----
-aliases: 
-tags: 
----
+
 
 # Shirren Starships
 
 Based on Swarm technology, shirren ships are manufactured in dry docks like any other, yet incorporate organic parts grown in specialized assembly vats. Often off-putting to members of other races, the twisting, hive-like corridors on shirren ships make the insect people feel instantly at home.  
-  
+ 
 Since shirren technology originated as an almost entirely biological enterprise, the ships resemble shirrens in many ways. Smooth, shell-like hulls guard blisters of eye-like windows and clusters of thin, protruding weapons and sensor arrays. While the Swarm (and thus, by extension, shirrens) learned to incorporate more conventional industrial processes as it overwhelmed and consumed other races, it never quite lost its instinctive desire to model its creations upon itself. From the wasplike Drone Mk III to the hulking Titan Haulers, shirren ships are known for their dependability and versatility, and they can often be found retrofitted with accommodations for non-shirren races. Still, not every mechanic likes dealing with a ship whose components might bleed or shudder when operated upon.  
-  
+ 
 A variety of organizations produce shirren-style ships, often including as many members of other races as shirrens themselves. The largest, the pacifist collective Hivonyx Industries, churns out a tremendous number of freighters and couriers, but includes software locking all the ship’s armaments to keep them from firing unless the ship has first taken damage—restrictions most of their customers immediately remove. Hivonyx’s closest competitors, Starhive and United Interfaith Engineering, publicly respect their rival’s moral stance, yet add no such safeguards.

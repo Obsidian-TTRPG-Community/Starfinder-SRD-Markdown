@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 2
-Environment: any urban (Akiton)  
+Environment: any urban (Akiton)
 hp: 18
-modifier: 1
+Initmod: 1
 name: Contemplative (Alien)
 statblock: true
 tags: 
-Type: N Medium monstrous humanoid  
+Type: N Medium monstrous humanoid
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): monstrous humanoid(-)
+environment: urban
+climate: any
+planet: Akiton
+organization:
+  - solitary
+  - pair
+  - symposium(3-7)
+source: Alien Archive
 ---
 
 # Contemplative (ALIEN)
@@ -22,7 +34,7 @@ Contemplatives are able to speak, though their voices are reedy and soft. Most c
 
 Despite their frail appearance, contemplatives are able to survive in unforgiving environments. They find indoor sites far more comfortable, however especially areas that are cool and still, as these conditions facilitate their concentration. When contemplatives do build their own communities, the structures are often windowless and difficult to navigate for those unable to fly.
 
-**Source**:: _Alien Archive pg. 28_
+**Source**:  _Alien Archive pg. 28_
 
 ## Contemplative Cr 2
 
@@ -69,3 +81,7 @@ At will—_daze_ (DC 14), _psychokinetic hand_
 
 The following extra content was found for this creature:  
 \- Contemplative Race Entry
+
+
+
+

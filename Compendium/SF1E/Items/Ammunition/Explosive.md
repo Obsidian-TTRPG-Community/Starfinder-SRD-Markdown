@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 2 / 3 / 5
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -17,7 +17,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Arrow
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 75  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -30,7 +30,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Darts
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 50  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -43,7 +43,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Rounds, Small Arms
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 60  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -56,7 +56,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Scattergun Shells
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 110  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -69,7 +69,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Rounds, Longarm and Sniper
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 150  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -82,7 +82,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Explosive, Rounds, Heavy
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 180  
 **Hands**:: 1
 **Proficiency**:: Ammo  

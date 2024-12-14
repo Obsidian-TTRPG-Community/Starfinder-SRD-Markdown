@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 17
+
 NoteType: Armor
 price: 
 tags: 
@@ -17,25 +17,46 @@ Grave mantle models include the base enlisted version, specialist models customi
 
 **Source**:: _Starfinder Armory pg. 68_  
 **Level**:: 4
-**Price**:: 2,100; **Category** Light  
-**EAC Bonus** +4; **KAC Bonus** +5; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 0; **Bulk**:: L
+**Price**:: 2100 
+**Category**:: Light  
+
+**EAC**:: +4 
+**KAC**:: +5 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 0 
+**Bulk**:: L
 
 ## Grave Mantle, Specialist
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level**:: 10;
-**Price**:: 17,950; **Category** Light  
-**EAC Bonus** +13; **KAC Bonus** +15; **Max. Dex Bonus** +4  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 2; **Bulk**:: L
+**Level**:: 10
+**Price**:: 17950 
+**Category**:: Light  
+
+**EAC**:: +13 
+**KAC**:: +15 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 2 
+**Bulk**:: L
 
 ## Grave Mantle, Officer
 
 **Source**:: _Starfinder Armory pg. 68_  
-**Level**:: 17;
-**Price**:: 256,500; **Category** Light  
-**EAC Bonus** +20; **KAC Bonus** +22; **Max. Dex Bonus** +5  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 3; **Bulk**:: L
+**Level**:: 17
+**Price**:: 256500 
+**Category**:: Light  
+
+**EAC**:: +20 
+**KAC**:: +22 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 3 
+**Bulk**:: L

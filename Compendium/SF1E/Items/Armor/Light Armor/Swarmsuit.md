@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 15
+
 NoteType: Armor
-price: 95,200
+price: 95200
 tags: 
 Type: Light Armor
 ---
@@ -10,11 +10,18 @@ Type: Light Armor
 # Swarmsuit
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 15;
-**Price**:: 95,200; **Category** Light  
-**EAC Bonus** +18; **KAC Bonus** +19; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 15
+**Price**:: 95200 
+**Category**:: Light  
+
+**EAC**:: +18 
+**KAC**:: +19 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ### Description
 

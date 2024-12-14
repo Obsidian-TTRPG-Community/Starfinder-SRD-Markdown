@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 19
+
 NoteType: Armor
-price: 610,250
+price: 610250
 tags: 
 Type: Heavy Armor
 ---
@@ -10,11 +10,18 @@ Type: Heavy Armor
 # Voidshield Armor
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 19;
-**Price**::  610,250; **Category** Heavy  
-**EAC Bonus** +25; **KAC Bonus** +26; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 7; **Bulk** 2
+**Level**:: 19
+**Price**::  610250 
+**Category**:: Heavy  
+
+**EAC**:: +25 
+**KAC**:: +26 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 7 
+**Bulk**:: 2
 
 ### Description
 

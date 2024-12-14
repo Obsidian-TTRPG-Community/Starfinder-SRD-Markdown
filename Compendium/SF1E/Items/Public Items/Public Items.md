@@ -1,6 +1,7 @@
 ---
-aliases: 
-tags: 
+cssclasses:
+aliases: []
+tags: []
 ---
 
 # Public Items & Service
@@ -12,16 +13,18 @@ Beyond weapons, armor, and crucial technological, magical, and hybrid equipment,
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Food, Drinks & Lodgings"
+FROM "Compendium/SF1E/Items/Public Items/Food, Drinks _ Lodgings"
 SORT Category ASC
+WHERE file.name != "Food, Drinks _ Lodgings"
 ```
 
 ## Transportation
 
 ``` dataview
 TABLE
-Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Transportation"
+Price, type
+FROM "Compendium/SF1E/Items/Public Items/Transportation"
+WHERE !contains(file.name, "Transportation")
 SORT Category ASC
 ```
 
@@ -30,8 +33,9 @@ SORT Category ASC
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Trade Goods"
+FROM "Compendium/SF1E/Items/Public Items/Trade Goods"
 SORT Category ASC
+WHERE file.name != "Trade Goods"
 ```
 
 ## Recharging Stations
@@ -39,7 +43,8 @@ SORT Category ASC
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Recharging Stations"
+FROM "Compendium/SF1E/Items/Public Items/Recharging Stations"
+WHERE file.name != "Recharging Stations"
 ```
 
 ## Personal Items
@@ -47,7 +52,8 @@ FROM "Pact Worlds & Beyond/Public Items/Recharging Stations"
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Personal Items"
+FROM "Compendium/SF1E/Items/Public Items/Personal Items"
+WHERE file.name != Personal Items
 ```
 
 ## Professional Services
@@ -55,7 +61,8 @@ FROM "Pact Worlds & Beyond/Public Items/Personal Items"
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Professional Services"
+FROM "Compendium/SF1E/Items/Public Items/Professional Services"
+WHERE file.name != "Professional Services"
 ```
 
 ## Medicinals
@@ -63,5 +70,6 @@ FROM "Pact Worlds & Beyond/Public Items/Professional Services"
 ``` dataview
 TABLE
 Category, Price
-FROM "Pact Worlds & Beyond/Public Items/Medicinals"
+FROM "Compendium/SF1E/Items/Public Items/Medicinals"
+WHERE file.name != "Medicinals"
 ```

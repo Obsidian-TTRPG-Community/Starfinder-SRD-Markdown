@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 2
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
 Precog: 
-School: enchantment (compulsion, mind-affecting) 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Song of the Cosmos

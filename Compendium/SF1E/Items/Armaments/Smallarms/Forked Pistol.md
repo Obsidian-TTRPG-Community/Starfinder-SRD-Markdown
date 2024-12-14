@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 / 13 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Forked Pistol, 10-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 20;
-**Price**:: 801,000  
+**Level**:: 20
+**Price**:: 801000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 9d4 E & F; **Range**:: 30 ft.;
+**Damage**:: 9d4 E & F; 
+**Range**:: 30 ft.
 **Critical**:: burn 4d4  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -33,11 +34,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Forked Pistol, 6-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 720  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d3 E & F; **Range**:: 30 ft.;
+**Damage**:: 1d3 E & F; 
+**Range**:: 30 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Forked Pistol, 8-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 6;
-**Price**:: 4,100  
+**Level**:: 6
+**Price**:: 4100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 E & F; **Range**:: 30 ft.;
+**Damage**:: 1d4 E & F; 
+**Range**:: 30 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 1  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Forked Pistol, 9-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 13;
-**Price**:: 48,100  
+**Level**:: 13
+**Price**:: 48100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 E & F; **Range**:: 30 ft.;
+**Damage**:: 4d4 E & F; 
+**Range**:: 30 ft.
 **Critical**:: burn 3d4  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L

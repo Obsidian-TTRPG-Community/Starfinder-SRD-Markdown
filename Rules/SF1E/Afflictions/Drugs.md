@@ -13,7 +13,7 @@ Though numerous pharmaceuticals and similar substances can be referred to as dru
 **Level**:: 6;
 **Price**:: 600  
 **Type** drug (ingested, inhaled); **Save** Fortitude DC 19; **Addiction** DC 19 (physical)  
-**Track** Dexterity; **Effect** For 1 hour, a +2 morale bonus to [[Saving Throws]] against [[Fear]] effects and +5 to subsequent saves against the same effect.
+**Track** Dexterity; **Effect** For 1 hour, a +2 morale bonus to [[Combat Mechanics#Saving Throws|Saving Throws]] against [[Fear]] effects and +5 to subsequent saves against the same effect.
 
 # Brawn
 
@@ -38,7 +38,7 @@ Though numerous pharmaceuticals and similar substances can be referred to as dru
 **Price**:: 650  
 **Type** drug (drug (injury)); **Save** Fortitude DC 16; **Addiction** DC 16 (mental)  
 **Track** Dexterity; **Effect** +1 morale bonus to Culture checks for 2 hours. During this time, gain [[Fear]] (2nd level) and [[Share Language]] as spell-like abilities (CL 6th), each usable once.  
-Dragontongue bonds to the language center of the brain, granting psychic confidence and an intuitive understanding of [[Languages]].
+Dragontongue bonds to the language center of the brain, granting psychic confidence and an intuitive understanding of [[Character Generation#Languages]].
 
 # Dreamshiver
 
@@ -46,7 +46,7 @@ Dragontongue bonds to the language center of the brain, granting psychic confide
 **Level**:: 5
 **Price**:: 2,500  
 **Type** drug (ingested or injury); **Save** Fortitude DC 18; **Addiction** DC 18 (mental and physical)  
-**Track** Constitution; **Effect** 50% chance of falling [[unconscious]] (as per the Constitution poison track state) for 1d4 hours or +8 morale bonus to saves against [[Fear]] for 1d20 minutes.
+**Track** Constitution; **Effect** 50% chance of falling [[Conditions#unconscious|unconscious]] (as per the Constitution poison track state) for 1d4 hours or +8 morale bonus to saves against [[Fear]] for 1d20 minutes.
 
 # Dreamsnuff
 
@@ -87,7 +87,7 @@ The most challenging mogrant to refine, fairy tale triggers soothing hallucinati
 **Level**:: 4
 **Price**:: 335  
 **Type** drug (drug (injury)); **Save** Fortitude DC 15; **Addiction** DC 15 (mental)  
-**Track** Wisdom; **Effect** +1 morale bonus to Intimidate checks and light blindness for 3 hours. During this time, gain [[Detect Thoughts]] and [[Compendium/SF1E/Spells/Multilevel/Mind-Thrust]] (1st level) as spell-like abilities (CL 4th), each usable once.  
+**Track** Wisdom; **Effect** +1 morale bonus to Intimidate checks and light blindness for 3 hours. During this time, gain [[Detect Thoughts]] and [[Mind-Thrust]] (1st level) as spell-like abilities (CL 4th), each usable once.  
 Moonflower develops into webs of sensory filaments that cause synesthesia, and they let the user sense psychic emanations and focus their own psychokinetic energy into a powerful attack.
 
 # Peace of the Void
@@ -104,7 +104,7 @@ Moonflower develops into webs of sensory filaments that cause synesthesia, and t
 **Level**:: 2;
 **Price**:: 200  
 **Type** drug (ingested or inhaled); **Save** Fortitude DC 13; **Addiction** DC 13 (mental)  
-**Track** Charisma; **Effect** +2 morale bonus to saves against [[Fear]] effects and being [[sickened]] or [[nauseated]] and a –2 penalty to Sense Motive checks for 1 hour.
+**Track** Charisma; **Effect** +2 morale bonus to saves against [[Fear]] effects and being [[Conditions#sickened|sickened]] or [[nauseated]] and a –2 penalty to Sense Motive checks for 1 hour.
 
 # Transdimensional Pesh
 
@@ -120,7 +120,7 @@ Moonflower develops into webs of sensory filaments that cause synesthesia, and t
 **Level**:: 3;
 **Price**:: 550  
 **Type** drug (ingested or injury); **Save** Fortitude DC 14; **Addiction** DC 14 (mental)  
-**Track** Wisdom; **Effect** +2 morale bonus to Charisma-based [[Skill Checks]] for 1 hour.
+**Track** Wisdom; **Effect** +2 morale bonus to Charisma-based [[Skills#Skill Checks|Skill Checks]]hecks|Skill Checks]] for 1 hour.
 
 # White Petal
 

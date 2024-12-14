@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 2 / 7 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Electrovore Glove, Aurora
 
 **Source**:: _Alien Archive pg. 45_  
-**Level**:: 7;
-**Price**:: 6,250  
+**Level**:: 7
+**Price**:: 6250  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 P & E;
+**Damage**:: 2d6 P & E
 **Critical**:: recharge 2  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -28,11 +28,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Electrovore Glove, Static
 
 **Source**:: _Alien Archive pg. 45_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 750  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 P & E;
+**Damage**:: 1d6 P & E
 **Critical**:: recharge 2  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 1)
@@ -40,11 +40,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Electrovore Glove, Storm
 
 **Source**:: _Alien Archive pg. 45_  
-**Level**:: 13;
-**Price**:: 49,000  
+**Level**:: 13
+**Price**:: 49000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 P & E;
+**Damage**:: 6d6 P & E
 **Critical**:: recharge 4  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2)
@@ -52,11 +52,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Electrovore Glove, Tempest
 
 **Source**:: _Alien Archive pg. 45_  
-**Level**:: 18;
-**Price**:: 375,000  
+**Level**:: 18
+**Price**:: 375000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 12d6 P & E;
+**Damage**:: 12d6 P & E
 **Critical**:: recharge 4  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2)

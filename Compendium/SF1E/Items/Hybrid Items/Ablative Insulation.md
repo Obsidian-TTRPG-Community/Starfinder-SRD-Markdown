@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -19,19 +19,22 @@ Civilization on Verces exists on the thin line between fiery heat and frozen des
 ## Ablative Insulation, Mk 1
 
 **Source**:: _Pact Worlds pg. 202_  
-**Level** 4;
-**Price**::  350; **Bulk** L
+**Level**:: 4
+**Price**::  350 
+**Bulk**:: L
 
 ---
 
 ## Ablative Insulation, Mk 2
 
 **Source**:: _Pact Worlds pg. 202_  
-**Level** 8;
-**Price**::  1,500; **Bulk** L
+**Level**:: 8
+**Price**::  1500 
+**Bulk**:: L
 
 ## Ablative Insulation, Mk 3
 
 **Source**:: _Pact Worlds pg. 202_  
-**Level** 12;
-**Price**::  5,500; **Bulk** L
+**Level**:: 12
+**Price**::  5500 
+**Bulk**:: L

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 
+
 price: 825
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Snapshot Sphere
 
 **Source**:: _Drift Crisis pg. 79_  
-**Level** 2;
+**Level**:: 2
 **Price**::  825  
-**Capacity**:: 20; **Usage** 5  
-**Hands**:: 1**Bulk** L
+**Capacity**:: 20 **Usage** 5  
+**Hands**:: 1
+**Bulk**:: L
 
 ### Description
 

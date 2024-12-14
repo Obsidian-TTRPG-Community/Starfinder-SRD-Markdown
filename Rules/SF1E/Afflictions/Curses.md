@@ -39,6 +39,6 @@ Curses are magical [[Afflictions]] and usually have a single effect, though some
 
 **Source** _Starfinder Core Rulebook pg. 418_  
 **Type** curse; **Save** Will DC 20  
-**Effect** Each combat, whenever the victim would take its first hostile action, it is instead [[confused]] for 1d4 rounds.  
+**Effect** Each combat, whenever the victim would take its first hostile action, it is instead [[Conditions#confused|confused]] for 1d4 rounds.  
 **Cure** The victim must take no hostile actions for 1 month of active adventuring.
 

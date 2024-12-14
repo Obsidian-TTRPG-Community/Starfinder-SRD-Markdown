@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 6 & 12 / 16
+
 price: 
 tags: 
 type: Grenades
@@ -13,11 +13,12 @@ When detonated, a flash grenade releases a pulse of intense radiance.
 ## Flash Grenade, Mk 1
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 120  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ When detonated, a flash grenade releases a pulse of intense radiance.
 ## Flash Grenade, Mk 2
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 620  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -40,10 +42,11 @@ When detonated, a flash grenade releases a pulse of intense radiance.
 
 **Source**:: _Starfinder Core Rulebook pg. 178_  
 **Level**:: 12
-**Price**:: 4,800  
+**Price**:: 4800  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ When detonated, a flash grenade releases a pulse of intense radiance.
 ## Flash Grenade, Mk 4
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 16;
-**Price**:: 24,300  
+**Level**:: 16
+**Price**:: 24300  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

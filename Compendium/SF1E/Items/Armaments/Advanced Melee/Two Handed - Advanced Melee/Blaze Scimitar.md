@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 8 / 12 / 16
+
 Notetype: Weapon
 price: 
 tags: [13:]
@@ -18,47 +18,39 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Blaze Scimitar, Acolyte
 
 **Source**:: _Tech Revolution pg. 60_, _Starfinder Fire Starters pg. 52_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 740  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 F;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 F
 **Critical**:: Burn 1d6  
-**Bulk**:: 1;
-**Special**:: Bright, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: Bright, powered (capacity 20; usage 1)
 
 ## Blaze Scimitar, Disciple
 
 **Source**:: _Tech Revolution pg. 60_, _Starfinder Fire Starters pg. 52_  
-**Level**:: 8;
-**Price**:: 9,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 F;
+**Level**:: 8
+**Price**:: 9200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d6 F
 **Critical**:: Burn 1d8  
-**Bulk**:: 1;
-**Special**:: Bright, powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: Bright, powered (capacity 20; usage 1)
 
 ## Blaze Scimitar, Cleric
 
 **Source**:: _Tech Revolution pg. 60_, _Starfinder Fire Starters pg. 52_  
 **Level**:: 12
-**Price**:: 34,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 F;
+**Price**:: 34600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d6 F
 **Critical**:: Burn 2d6  
-**Bulk**:: 1;
-**Special**:: Bright, powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: Bright, powered (capacity 40; usage 2)
 
 ## Blaze Scimitar, Divine
 
 **Source**:: _Tech Revolution pg. 60_, _Starfinder Fire Starters pg. 52_  
-**Level**:: 16;
-**Price**:: 162,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 8d6 F;
+**Level**:: 16
+**Price**:: 162000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 8d6 F
 **Critical**:: Burn 2d8  
-**Bulk**:: 1;
-**Special**:: Bright, powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: Bright, powered (capacity 40; usage 2)

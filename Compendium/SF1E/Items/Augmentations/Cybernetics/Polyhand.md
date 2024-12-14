@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 14
-price: 71,000
-System: Hand
+Item:
+price: 71000
+
 tags: 
 Type: Cybertech
 ---
@@ -10,8 +10,9 @@ Type: Cybertech
 # Polyhand
 
 **Source**:: _Starfinder Core Rulebook pg. 209_  
-**Item Level** 14;
-**Price**::  71,000; **System** Hand  
+**Level**:: 14
+**Price**::  71000 
+**System**:: Hand  
 You replace your entire hand with a hand made of reprogrammable microscopic adamantine prisms. With either a mental command or a programmable interface built into the hand, you can reconfigure your hand into the shape of various tools. The hand can contain programming for nine different tools, in addition to a configuration for a normal hand for your species. As a move action, you can switch the setting, causing the adamantine pieces to realign into the shape of the chosen tool. The tool has all the flexibility of the normal tool (or of a hand, if set to that).  
   
 Programming a new tool into the polyhand takes 10 minutes, and you must choose either to fill an empty slot or to replace a programmed tool. The tool replicated must be 8th level or lower. The polyhand can replicate the moving parts of a tool, but you must supply any fuel or batteries needed for the tool to function. The tool cannot produce substances, and since it’s not very conductive (important so as to avoid shocking the user), it can’t serve as a power conduit or data transmission line. The GM has final say in deciding which tools you can duplicate. The tools within engineering kits and similar kits can be duplicated, subject to the restrictions above.  

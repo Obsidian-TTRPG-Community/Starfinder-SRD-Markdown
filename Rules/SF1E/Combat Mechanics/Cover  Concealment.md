@@ -20,7 +20,7 @@ tags:
 | Regular Concealment | 20%         |
 | Total Concealment   | 50%         | 
 
-**Source** [_Starfinder Core Rulebook pg. 253_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+**Source** _Starfinder Core Rulebook pg. 253_
 Originating from sources such as dense smoke and battlefield position, concealment obscures precise senses and imposes a miss chance on attacks. When you have concealment, it’s harder for enemies to see you clearly. This might be due to your position on the battlefield, or it might be due to another effect that makes it more difficult for enemies to perceive and hit you with an attack.  
   
 To determine whether you have concealment from a creature’s ranged attack, choose a corner of the enemy’s square. If any line from this corner to any corner of your square passes through a square that provides concealment or the border of such a square, you have concealment. Also use these rules when a creature makes a melee attack against a target that isn’t adjacent to it.  
@@ -45,7 +45,7 @@ If a creature has line of effect to you but not line of sight (see page 271), yo
 
 Concealment might be ineffective. Dim light or darkness doesn’t provide concealment against creatures with darkvision. Creatures with low-light vision can see in dim light as if it were normal light.
 
-**Source** [_Starfinder Core Rulebook pg. 253_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+**Source** _Starfinder Core Rulebook pg. 253_
 Cover does not necessarily block precise senses, but it does make it more difficult to hit a target. To determine whether your target has cover from your attack, choose a corner of your square. If any line from this corner to any corner of the target’s square passes through a square or border that blocks line of effect or provides cover, or through a square occupied by a creature, the target has cover. Cover grants you a +4 bonus to AC and a +2 bonus to Reflex saves against attacks that originate from a point on the other side of the cover from you. Note that spread effects can extend around corners and negate these bonuses. 
 
 # Cover and Attacks of Opportunity

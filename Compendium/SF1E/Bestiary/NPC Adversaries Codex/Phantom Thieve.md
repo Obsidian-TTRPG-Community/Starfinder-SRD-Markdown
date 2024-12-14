@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 15
 hp: 255
-modifier: 9
+Initmod: 9
 Monster Type: NPC
 name: Phantom Thieve
-statblock: true
-Subtype: Thieves
+statblock: true(Thieves
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Phantom Thieve

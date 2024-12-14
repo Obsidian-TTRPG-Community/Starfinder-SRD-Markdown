@@ -12,7 +12,7 @@ Artificial intelligence in the vehicle’s onboard computer automatically course
 ## Pilot Assist, Mk 1 - Level 6
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 4,400  
+**Price**:: 4400  
 Increase Piloting modifier by +1 (maximum +2).
 
 ---
@@ -20,5 +20,5 @@ Increase Piloting modifier by +1 (maximum +2).
 ## Pilot Assist, Mk 2 - Level 13
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 52,000  
+**Price**:: 52000  
 Increase Piloting modifier by +2 (maximum +3).

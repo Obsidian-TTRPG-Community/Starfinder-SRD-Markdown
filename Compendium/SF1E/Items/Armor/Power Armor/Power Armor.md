@@ -9,8 +9,8 @@ Unlike light and [[Heavy Armor]], powered armor requires its own [[Battery]], an
 
 ``` dataview
 TABLE
-ItemLevel as I-Level, UpgradeSlots as Slots, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Armor/Power Armor"
-SORT ItemLevel ASC
+Level, KAC, EAC, Armor-Check-Penalty as ACP, Upgrade-slots as U-Slots, Weapon-Slots as W-Slots, Bulk, Price
+FROM "Compendium/SF1E/Items/Armor/Power Armor"
+SORT Level ASC
 WHERE file.name != "Power Armor"
 ```

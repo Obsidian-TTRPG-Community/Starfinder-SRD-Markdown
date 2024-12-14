@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 4 / 7 / 11 / 14 / 17
+
 Notetype: Weapon
 price: 
 tags: 
@@ -19,58 +19,48 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 4
-**Price**:: 2,080  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C|f;
+**Price**:: 2080  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 C|f
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, double (flame), powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: block, double (flame), powered (capacity 40; usage 2)
 
 ## Icestar Staff, Seeker
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 7;
-**Price**:: 6,320  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 C|f;
+**Level**:: 7
+**Price**:: 6320  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d6 C|f
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, double (flame), powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: block, double (flame), powered (capacity 40; usage 2)
 
 ## Icestar Staff, Warrior
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 11;
-**Price**:: 25,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 4d6 C|f;
+**Level**:: 11
+**Price**:: 25200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 4d6 C|f
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, double (flame), powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: block, double (flame), powered (capacity 40; usage 2)
 
 ## Icestar Staff, Drifter
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 14
-**Price**:: 73,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 C|f;
+**Price**:: 73100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d6 C|f
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, double (flame), powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: block, double (flame), powered (capacity 40; usage 2)
 
 ## Icestar Staff, Leader
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 17;
-**Price**:: 251,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d6 C|f;
+**Level**:: 17
+**Price**:: 251000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d6 C|f
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, double (flame), powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: block, double (flame), powered (capacity 40; usage 2)

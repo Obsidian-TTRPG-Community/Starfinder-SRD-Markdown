@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 8 / 12 / 15 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,64 +18,59 @@ Projectile weapons fire solid rounds, such as bullets or rockets. While projecti
 ## Scattergun, Snub
 
 **Source**:: _Starfinder Core Rulebook pg. 176_
-**Level**:: 8;
-**Price**:: 8,300  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d12 P; **Range**:: 15 ft.;
+**Level**:: 8
+**Price**:: 8300  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d12 P; 
+**Range**:: 15 ft.
 **Critical**:: —  
 **Capacity**:: 8 shells; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, blast
+**Bulk**:: 1**Special**:: analog, blast
 
 ## Scattergun, Utility
 
 **Source**:: _Starfinder Core Rulebook pg. 176_
 **Level**:: 1
 **Price**:: 235  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d4 P; **Range**:: 15 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d4 P; 
+**Range**:: 15 ft.
 **Critical**:: —  
 **Capacity**:: 4 shells; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: analog, blast
+**Bulk**:: 1**Special**:: analog, blast
 
 ## Scattergun, Impact
 
 **Source**:: _Starfinder Core Rulebook pg. 176_
 **Level**:: 12
-**Price**:: 30,400  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d12 P; **Range**:: 15 ft.;
+**Price**:: 30400  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d12 P; 
+**Range**:: 15 ft.
 **Critical**:: —  
 **Capacity**:: 12 shells; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: analog, blast
+**Bulk**:: 2**Special**:: analog, blast
 
 ## Scattergun, Vortex
 
 **Source**:: _Starfinder Core Rulebook pg. 176_
-**Level**:: 15;
-**Price**:: 91,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d12 P; **Range**:: 30 ft.;
+**Level**:: 15
+**Price**:: 91900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d12 P; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 12 shells; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: analog, blast
+**Bulk**:: 2**Special**:: analog, blast
 
 ## Scattergun, Grapeshot
 
 **Source**:: _Starfinder Core Rulebook pg. 176_
-**Level**:: 18;
-**Price**:: 331,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d12 P; **Range**:: 30 ft.;
+**Level**:: 18
+**Price**:: 331000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d12 P; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 12 shells; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: analog, blast
+**Bulk**:: 2**Special**:: analog, blast

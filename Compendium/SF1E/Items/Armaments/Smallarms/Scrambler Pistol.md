@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 / 10 / 13
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Pistol, Cockroach
 
 **Source**:: _Drift Crisis pg. 107_  
-**Level**:: 7;
-**Price**:: 5,200  
+**Level**:: 7
+**Price**:: 5200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 E; **Range**:: 60 ft.;
+**Damage**:: 2d4 E; 
+**Range**:: 60 ft.
 **Critical**:: Confuse  
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: L
@@ -27,11 +28,12 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Pistol, Termite
 
 **Source**:: _Drift Crisis pg. 107_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 E; **Range**:: 60 ft.;
+**Damage**:: 1d4 E; 
+**Range**:: 60 ft.
 **Critical**:: Confuse  
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: L
@@ -40,11 +42,12 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Pistol, Dragonfly
 
 **Source**:: _Drift Crisis pg. 107_  
-**Level**:: 10;
-**Price**:: 19,400  
+**Level**:: 10
+**Price**:: 19400  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d4 E; **Range**:: 60 ft.;
+**Damage**:: 3d4 E; 
+**Range**:: 60 ft.
 **Critical**:: Confuse  
 **Capacity**:: 20 charges ; **Usage** 2  
 **Bulk**:: L
@@ -53,11 +56,12 @@ A group of skittermander researchers on Pritinzo have found a way to fight back 
 ## Scrambler Pistol, Locust
 
 **Source**:: _Drift Crisis pg. 107_  
-**Level**:: 13;
-**Price**:: 44,700  
+**Level**:: 13
+**Price**:: 44700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d4 E; **Range**:: 60 ft.;
+**Damage**:: 4d4 E; 
+**Range**:: 60 ft.
 **Critical**:: Confuse  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L

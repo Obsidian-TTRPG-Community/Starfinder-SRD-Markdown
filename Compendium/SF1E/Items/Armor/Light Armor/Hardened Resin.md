@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 3
+
 NoteType: Armor
-price: 1,200
+price: 1200
 tags: 
 Type: Light Armor
 ---
@@ -10,11 +10,18 @@ Type: Light Armor
 # Hardened Resin
 
 **Source**:: _Pact Worlds pg. 196_  
-**Level**:: 3;
-**Price**:: 1,200; **Category** Light  
-**EAC Bonus** +2; **KAC Bonus** +3; **Max. Dex Bonus** +5  
-**Armor Check Penalty** -1; **Speed Adjustment** —  
-**Upgrade Slots** 1; **Bulk**:: 1
+**Level**:: 3
+**Price**:: 1200 
+**Category**:: Light  
+
+**EAC**:: +2 
+**KAC**:: +3 
+**Max-Dex**:: +5  
+
+**Armor-Check-Penalty**:: -1 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 1 
+**Bulk**:: 1
 
 ### Description
 

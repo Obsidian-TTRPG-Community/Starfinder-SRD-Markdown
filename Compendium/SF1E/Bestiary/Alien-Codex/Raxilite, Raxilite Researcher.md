@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1/2
-Environment: any (Raxil)  
+Environment: any (Raxil)
 hp: 12
-modifier: 2
+Initmod: 2
 name: Raxilite, Raxilite Researcher
 statblock: true
 tags: 
-Type: N Tiny plant  
+Type: N Tiny plant
 ---
 
 # Raxilite, Raxilite Researcher
@@ -23,7 +23,7 @@ When a raxilite reaches adulthood, they sprout a flower. Flowering raxilites are
 A typical raxilite is 16 inches tall and weighs 4 pounds.
 
 
-**Source**:: _Alien Archive 3 pg. 82_
+**Source**:  _Alien Archive 3 pg. 82_
 
 ## Raxilite Researcher Cr 1/2
 

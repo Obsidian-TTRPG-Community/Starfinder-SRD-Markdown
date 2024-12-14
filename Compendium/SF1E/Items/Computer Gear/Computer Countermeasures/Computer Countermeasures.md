@@ -1,6 +1,6 @@
 ---
-aliases: 
-tags: 
+aliases: ["countermeasures"]
+tags: []
 ---
 
 # Computer Countermeasures
@@ -9,8 +9,10 @@ Countermeasures form a computer system’s last defense against hackers trying t
 
 ``` dataview
 TABLE
-Category, Price
-FROM "Codex/Gear, Weapons, Vehicles & more/Computer Gear/Computer Countermeasures"
+Category, price
+FROM "Starfinder-SRD/Compendium/Items/Computer Gear/Computer Countermeasures"
 SORT Level ASC
 WHERE file.name != "Computer Countermeasures"
 ```
+
+![[Computer Gear#Countermeasures]]

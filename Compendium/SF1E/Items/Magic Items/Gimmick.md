@@ -1,7 +1,5 @@
 ---
 aliases: 
-Level: 1 / 2 / 3
-price: 0 
 tags: 
 Type: Magic Item
 ---
@@ -10,9 +8,10 @@ A gimmick requires time to attune to a new user, functioning only once it has be
 
 ## Gimmick, Basic
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 1;
-**Price**::  175; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 1
+**Price**::  175
+**Bulk**:: L
 
 ### Description
 
@@ -22,157 +21,171 @@ The simplest gimmick merely personalizes your magic, giving spells channeled thr
 
 ## Gimmick, Cutting Apprentice
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 2;
-**Price**::  750; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 2
+**Price**::  750
+**Bulk**:: L
 
 ### Description
 
-This gimmick grants you a bonus to any caster level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
+This gimmick grants you a bonus to any caster Level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
 The model’s bonus is +1.
 
 ## Gimmick, Devastating Apprentice
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 2;
-**Price**::  850; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 2
+**Price**::  850
+**Bulk**:: L
 
 ### Description
 
-This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell level (or 1d4 for a 0-level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
-Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum level spell that a devastating gimmick can modify is based on its model.  
-The gimmick can modify a spell of 2nd level or lower.
+This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell Level (or 1d4 for a 0-Level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
+Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum Level spell that a devastating gimmick can modify is based on its model.  
+The gimmick can modify a spell of 2nd Level or lower.
 
 ## Gimmick, Elemental Apprentice
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
 **Level**:: 3
-**Price**::  1,300; **Bulk** L
+**Price**::  1300
+**Bulk**:: L
 
 ### Description
 
-This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell; the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum level spell that an elemental gimmick can modify is based on its model.  
-The gimmick can modify a spell of 2nd level or lower.
+This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum Level spell that an elemental gimmick can modify is based on its model.  
+The gimmick can modify a spell of 2nd Level or lower.
 
 ## Gimmick, Targeting Apprentice
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 4;
-**Price**::  2,100; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 4
+**Price**::  2100
+**Bulk**:: L
 
 ### Description
 
-This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your levels in that class (such as a 5th-level technomancer treating their BAB from technomancer levels as +5 rather than +3 for a channeled technomancer spell). The maximum level spell a targeting gimmick can modify is based on its model.  
-The gimmick can modify a spell of 2nd level or lower.
+This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your Levels in that class (such as a 5th-Level technomancer treating their BAB from technomancer Levels as +5 rather than +3 for a channeled technomancer spell). The maximum Level spell a targeting gimmick can modify is based on its model.  
+The gimmick can modify a spell of 2nd Level or lower.
 
 ## Gimmick, Focused Apprentice
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 5;
-**Price**::  3,000; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 5
+**Price**::  3000
+**Bulk**:: L
 
 ### Description
 
-This gimmick intensifies a weaker spell channeled through it, delivering the spell with the force of one of your greatest incantations. Calculate the saving throw DC of the channeled spell as though its spell level were equal to that of the highest-level spell you can cast from that spell list. The maximum level spell a focused gimmick can modify is based on its model.  
-The gimmick can modify a spell of 3rd level or lower.
+This gimmick intensifies a weaker spell channeled through it, delivering the spell with the force of one of your greatest incantations. Calculate the saving throw DC of the channeled spell as though its spell Level were equal to that of the highest-Level spell you can cast from that spell list. The maximum Level spell a focused gimmick can modify is based on its model.  
+The gimmick can modify a spell of 3rd Level or lower.
 
 ## Gimmick, Cutting Expert
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 6;
-**Price**::  4,200; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 6
+**Price**::  4200
+**Bulk**:: L
 
 ### Description
 
-This gimmick grants you a bonus to any caster level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
+This gimmick grants you a bonus to any caster Level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
 The model’s bonus is +2.
 
 ## Gimmick, Devastating Expert
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 8;
-**Price**::  9,600; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 8
+**Price**::  9600
+**Bulk**:: L
 
 ### Description
 
-This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell level (or 1d4 for a 0-level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
-Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum level spell that a devastating gimmick can modify is based on its model.  
-The gimmick can modify a spell of 4th level or lower.
+This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell Level (or 1d4 for a 0-Level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
+Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum Level spell that a devastating gimmick can modify is based on its model.  
+The gimmick can modify a spell of 4th Level or lower.
 
 ## Gimmick, Elemental Expert
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 9;
-**Price**::  12,500; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 9
+**Price**::  12500
+**Bulk**:: L
 
 ### Description
 
-This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell; the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum level spell that an elemental gimmick can modify is based on its model.  
-The gimmick can modify a spell of 4th level or lower.
+This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum Level spell that an elemental gimmick can modify is based on its model.  
+The gimmick can modify a spell of 4th Level or lower.
 
 ## Gimmick, Cutting Master
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 10;
-**Price**::  18,500; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 10
+**Price**::  18500
+**Bulk**:: L
 
 ### Description
 
-This gimmick grants you a bonus to any caster level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
+This gimmick grants you a bonus to any caster Level checks you make to overcome targets’ spell resistance with the channeled spell, based on the gimmick’s model. This bonus does not stack with that provided by the Spell Penetration or Greater Spell Penetration feats.  
 The model’s bonus is +3.
 
 ## Gimmick, Targeting Expert
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 10;
-**Price**::  18,500; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 10
+**Price**::  18500
+**Bulk**:: L
 
 ### Description
 
-This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your levels in that class (such as a 5th-level technomancer treating their BAB from technomancer levels as +5 rather than +3 for a channeled technomancer spell). The maximum level spell a targeting gimmick can modify is based on its model.  
-The gimmick can modify a spell of 4th level or lower.
+This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your Levels in that class (such as a 5th-Level technomancer treating their BAB from technomancer Levels as +5 rather than +3 for a channeled technomancer spell). The maximum Level spell a targeting gimmick can modify is based on its model.  
+The gimmick can modify a spell of 4th Level or lower.
 
 ## Gimmick, Focused Expert
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 11;
-**Price**::  25,500; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 11
+**Price**::  25500
+**Bulk**:: L
 
 ### Description
 
-This gimmick intensifies a weaker spell channeled through it, delivering the spell with the force of one of your greatest incantations. Calculate the saving throw DC of the channeled spell as though its spell level were equal to that of the highest-level spell you can cast from that spell list. The maximum level spell a focused gimmick can modify is based on its model.  
-The gimmick can modify a spell of any level.
+This gimmick intensifies a weaker spell channeled through it, delivering the spell with the force of one of your greatest incantations. Calculate the saving throw DC of the channeled spell as though its spell Level were equal to that of the highest-Level spell you can cast from that spell list. The maximum Level spell a focused gimmick can modify is based on its model.  
+The gimmick can modify a spell of any Level.
 
 ## Gimmick, Devastating Master
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 14;
-**Price**::  75,000; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 14
+**Price**::  75000
+**Bulk**:: L
 
 ### Description
 
-This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell level (or 1d4 for a 0-level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
-Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum level spell that a devastating gimmick can modify is based on its model.  
-The gimmick can modify a spell of any level.
+This gimmick gives your damaging spells a small chance of inflicting devastating harm, giving the channeled spell a critical hit effect based on the spell’s damage type: corrode for acid damage, staggered for cold damage, arc for electricity damage, burn for fire damage, deafen for sonic damage, knockdown for bludgeoning or force damage, bleed for piercing damage, and wound for slashing damage. For a critical hit effect that deals additional damage, such as arc or bleed, the additional damage equals 1d6 per spell Level (or 1d4 for a 0-Level spell). If a spell deals multiple types of damage or would already apply a different critical hit effect, you can apply one of the applicable critical hit effects of your choice when you score a critical hit. If the channeled spell doesn’t require an attack roll but instead allows a saving throw to reduce its damage, you can apply the critical hit effect to one affected creature that rolls a natural 1 on its saving throw.  
+Unlike with most gimmicks, if the channeled spell does not score a critical hit against any target, then the gimmick’s power is not expended, and another spell can be channeled through it. The maximum Level spell that a devastating gimmick can modify is based on its model.  
+The gimmick can modify a spell of any Level.
 
 ## Gimmick, Elemental Master
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 15;
-**Price**::  105,000; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 15
+**Price**::  105000
+**Bulk**:: L
 
 ### Description
 
-This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell; the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum level spell that an elemental gimmick can modify is based on its model.  
-The gimmick can modify a spell of any level.
+This gimmick changes all instances of one damage type with another. When you purchase or create an elemental gimmick, choose one of the following: acid, cold, electricity, or fire. When you channel a spell through the gimmick, choose one type of damage dealt by the spell the spell deals an equal amount of damage of the gimmick’s type instead, and the spell gains that energy type’s descriptor. The maximum Level spell that an elemental gimmick can modify is based on its model.  
+The gimmick can modify a spell of any Level.
 
 ## Gimmick, Targeting Master
 
-**Source** [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
-**Level** 16;
-**Price**::  172,000; **Bulk** L
+**Source**:: [_Galactic Magic pg. 49_](https://paizo.com/products/btq02aow?Starfinder-Galactic-Magic)  
+**Level**:: 16
+**Price**::  172000
+**Bulk**:: L
 
 ### Description
 
-This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your levels in that class (such as a 5th-level technomancer treating their BAB from technomancer levels as +5 rather than +3 for a channeled technomancer spell). The maximum level spell a targeting gimmick can modify is based on its model.  
-The gimmick can modify a spell of any level.
+This gimmick helps direct the channeled spell, enhancing its accuracy. Make your attacks with the channeled spell as if your base attack bonus from the associated spellcasting class were equal to your Levels in that class (such as a 5th-Level technomancer treating their BAB from technomancer Levels as +5 rather than +3 for a channeled technomancer spell). The maximum Level spell a targeting gimmick can modify is based on its model.  
+The gimmick can modify a spell of any Level.

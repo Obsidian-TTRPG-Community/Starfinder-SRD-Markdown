@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 13 / 17
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ When the skittermanders of Vesk-3 realized that their new overlords intended to 
 ## Skittersuit, I
 
 **Source**:: _Near Space pg. 152_  
-**Level** 9;
-**Price**::  13,200; **Category** Heavy  
-**EAC Bonus** +13; **KAC Bonus** +15; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 5; **Bulk** 2
+**Level**:: 9
+**Price**::  13200 
+**Category**:: Heavy  
+
+**EAC**:: +13 
+**KAC**:: +15 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 2
 
 ## Skittersuit, Ii
 
 **Source**:: _Near Space pg. 152_  
-**Level** 13;
-**Price**::  52,000; **Category** Heavy  
-**EAC Bonus** +18; **KAC Bonus** +20; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -3; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 6; **Bulk** 2
+**Level**:: 13
+**Price**::  52000 
+**Category**:: Heavy  
+
+**EAC**:: +18 
+**KAC**:: +20 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 6 
+**Bulk**:: 2
 
 ## Skittersuit, Iii
 
 **Source**:: _Near Space pg. 152_  
-**Level** 17;
-**Price**::  240,000; **Category** Heavy  
-**EAC Bonus** +22; **KAC Bonus** +24; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** –5 ft.  
-**Upgrade Slots** 7; **Bulk** 3
+**Level**:: 17
+**Price**::  240000 
+**Category**:: Heavy  
+
+**EAC**:: +22 
+**KAC**:: +24 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: –5 ft.  
+**Upgrade-slots**:: 7 
+**Bulk**:: 3

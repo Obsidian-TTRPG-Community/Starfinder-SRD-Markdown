@@ -3,44 +3,55 @@ aliases:
 NoteType: Starship
 tags: 
 Tier: 15
-Type: NE Gargantuan starship fey
+type: NE Gargantuan starship fey
 ---
 
 # Gwahled
 
-**Source**:: _Alien Archive 3 pg. 46_
+source:  _Alien Archive 3 pg. 46_
 
-NE Gargantuan starship fey, **Tier** 15 
-**Speed** 10; **Maneuverability** average (turn 2); **Drift** —  
-**AC** 29; **TL** 29  
-**HP** 400; **DT** 10; **CT** 80  
-**Shields** heavy 420 (forward 105, port 105, starboard 105, aft 105)  
-**Attack (Forward)** bite (5d12 plus swallow starship)  
-**Attack (Turret)** photon flare (2d10×10)  
-**Attack (Turret)** graviton net (10d6)  
-**Power Core** gwahled heart (500 PCU); **Drift Engine** none; **Systems** mk 8 armor, mk 9 defenses; **Expansion Bays** none  
-**Other Abilities** fear-eater aura, living starship, paranormal astrogation, void adaptation
+NE Gargantuan starship fey, Tier 15 
+Speed: 10
+Maneuverability average (turn 2)
+Drift —  
+AC 29
+TL 29  
+HP: 400
+DT 10
+CT 80  
+Shields heavy 420 (forward 105, port 105, starboard 105, aft 105)  
+Attack (Forward) bite (5d12 plus swallow starship)  
+Attack (Turret) photon flare (2d10×10)  
+Attack (Turret) graviton net (10d6)  
+Power Core gwahled heart (500 PCU)
+Drift Engine none
+Systems mk 8 armor, mk 9 defenses
+Expansion Bays none  
+otherabil:
+  - name: ""
+    desc: "fear-eater aura, living starship, paranormal astrogation, void adaptation
 
 ### Crew
 
-**Engineer (1 action)** Engineering +31 (15 ranks)  
-**Gunners (2 actions)** gunnery +22 (15th level)  
-**Pilot (1 action)** Piloting +26 (15 ranks)
+Engineer (1 action) Engineering +31 (15 ranks)  
+Gunners (2 actions) gunnery +22 (15th level)  
+Pilot (1 action) Piloting +26 (15 ranks)"
 
 ### Ecology
 
-**Environment** any vacuum  
-**Organization** solitary
+Environment any vacuum  
+Organization solitary
 
 ### Special Abilities
 
-**Bite (Ex)** A gwahled can use its bite only against a ship in an adjacent hex. If the gwahled deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 32 Piloting check to break free of the gwahled’s maw. While holding a starship in its maw, the gwahled can’t move or turn, but it can make attacks with its photon flare and graviton net, or attempt to bite or swallow the same starship. The gwahled and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
+Bite (Ex) A gwahled can use its bite only against a ship in an adjacent hex. If the gwahled deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 32 Piloting check to break free of the gwahled’s maw. While holding a starship in its maw, the gwahled can’t move or turn, but it can make attacks with its photon flare and graviton net, or attempt to bite or swallow the same starship. The gwahled and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
 
-**Fear-Eater Aura (Su)** A creature that starts its turn within 20 hexes of the gwahled and able to see it (or engaged in starship combat with it) must succeed at a DC 22 Will saving throw or become frightened. A creature that fails by 5 or more is panicked instead. A creature that successfully saves cannot be affected again by the same gwahled’s fear-eater aura for 24 hours.
+Fear-Eater   - name: "Aura"
+    desc: "(Su) A creature that starts its turn within 20 hexes of the gwahled and able to see it (or engaged in starship combat with it) must succeed at a DC 22 Will saving throw or become frightened. A creature that fails by 5 or more is panicked instead. A creature that successfully saves cannot be affected again by the same gwahled’s fear-eater aura for 24 hours.
 
-**Graviton Net (Su)** A gwahled’s graviton net has short range, and the point (+12) and tractor beam special properties.
+Graviton Net (Su) A gwahled’s graviton net has short range, and the point (+12) and tractor beam special properties.
 
-**Living Starship (Ex)** A gwahled is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below whenever the gwahled takes critical damage. The gwahled’s brain can’t gain the wrecked condition.
+Living Starship (Ex) A gwahled is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below whenever the gwahled takes critical damage. The gwahled’s brain can’t gain the wrecked condition.
 
 | D%     | SYSTEM          | EFFECT                                                                                  |
 |--------|-----------------|-----------------------------------------------------------------------------------------|
@@ -49,11 +60,11 @@ NE Gargantuan starship fey, **Tier** 15
 | 61–90  | Heart           | Condition applies to engineer actions except patching or repairing the heart.           |
 | 91–100 | Brain           | Condition applies to all actions.                                                       |
 
-**Paranormal Astrogation (Su)** A gwahled can transport itself through space at astonishing speeds, arriving anywhere in the galaxy within 10d6 days. They rarely do so, except when hungry, and otherwise mostly do so randomly.
+Paranormal Astrogation (Su) A gwahled can transport itself through space at astonishing speeds, arriving anywhere in the galaxy within 10d6 days. They rarely do so, except when hungry, and otherwise mostly do so randomly.
 
-**Photon Flare (Ex)** A gwahled’s photon flare has medium range. To a starship without functioning shields, this weapon not only deals damage but also has the EMP special property.
+Photon Flare (Ex) A gwahled’s photon flare has medium range. To a starship without functioning shields, this weapon not only deals damage but also has the EMP special property.
 
-**Swallow Starship (Ex)** If the gwahled is holding a starship smaller than it in place, it can swallow that vessel by making a successful bite attack against it. A gwahled’s gullet can hold one Huge ship, two Large ships, four Medium ships, eight Small ships, or sixteen Tiny ships. A gwahled can take an action during the gunnery phase to attempt to incinerate starships inside it, dealing 5d12 damage (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise) and applying the EMP special property. A swallowed vessel can still attack. The gwahled’s interior has AC 25, TL 25, and DT 5. However, starship weapons deal half damage to the firing ship through a combination of blowback and the gwahled’s physical reactions. If a swallowed starship deals 100 damage to the gwahled’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a DC 32 Piloting check, or DC 37 if the gwahled has no hole in it. On a failure, the starship remains within the gwahled.
+Swallow Starship (Ex) If the gwahled is holding a starship smaller than it in place, it can swallow that vessel by making a successful bite attack against it. A gwahled’s gullet can hold one Huge ship, two Large ships, four Medium ships, eight Small ships, or sixteen Tiny ships. A gwahled can take an action during the gunnery phase to attempt to incinerate starships inside it, dealing 5d12 damage (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise) and applying the EMP special property. A swallowed vessel can still attack. The gwahled’s interior has AC 25, TL 25, and DT 5. However, starship weapons deal half damage to the firing ship through a combination of blowback and the gwahled’s physical reactions. If a swallowed starship deals 100 damage to the gwahled’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a DC 32 Piloting check, or DC 37 if the gwahled has no hole in it. On a failure, the starship remains within the gwahled.
 
 ## Description
 

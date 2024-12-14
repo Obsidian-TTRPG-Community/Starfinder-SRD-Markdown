@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: varies 
+
 price:  
 tags: 
 Type: Technological Item
@@ -9,10 +9,11 @@ Type: Technological Item
 # Signal Jammer
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** Varies;
+**Level**:: Varies
 **Price**::  Level squared x 100  
-**Capacity**:: 12; **Usage** 1/10 minute  
-**Hands** —; **Bulk** L
+**Capacity**:: 12 **Usage** 1/10 minute  
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 6 / 10 / 
+
 NoteType: Armor
 price: 
 tags: 
@@ -15,25 +15,46 @@ The sturdy moraine mantle resembles the bleak, rocky tundra where it first origi
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
 **Level**:: 3
-**Price**::  1,100; **Category** Heavy  
-**EAC Bonus** +5; **KAC Bonus** +7; **Max. Dex Bonus** +1  
-**Armor Check Penalty** –4 ; **Speed Adjustment** –10 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Price**::  1100 
+**Category**:: Heavy  
+
+**EAC**:: +5 
+**KAC**:: +7 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: –4  
+**Speed-Adjustment**:: –10 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Moraine Mantle, Gneiss
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level** 6;
-**Price**::  5,700; **Category** Heavy  
-**EAC Bonus** +9; **KAC Bonus** +11; **Max. Dex Bonus** +2  
-**Armor Check Penalty** –4 ; **Speed Adjustment** –10 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 6
+**Price**::  5700 
+**Category**:: Heavy  
+
+**EAC**:: +9 
+**KAC**:: +11 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: –4  
+**Speed-Adjustment**:: –10 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3
 
 ## Moraine Mantle, Orogen
 
 **Source**:: _Galaxy Exploration Manual pg. 59_  
-**Level** 10;
-**Price**::  19,800; **Category** Heavy  
-**EAC Bonus** +15; **KAC Bonus** +18; **Max. Dex Bonus** +2  
-**Armor Check Penalty** –4 ; **Speed Adjustment** –10 ft.  
-**Upgrade Slots** 4; **Bulk** 3
+**Level**:: 10
+**Price**::  19800 
+**Category**:: Heavy  
+
+**EAC**:: +15 
+**KAC**:: +18 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: –4  
+**Speed-Adjustment**:: –10 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 3

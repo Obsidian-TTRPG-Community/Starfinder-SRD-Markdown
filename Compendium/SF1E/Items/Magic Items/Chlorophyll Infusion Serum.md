@@ -1,14 +1,14 @@
 ---
 aliases: 
-Level: 3
 price: 250
 tags: 
 Type: Magic Item
 ---
 
 
-**Level**:: 3;
-**Price**:: 250; **Bulk**:: L
+**Level**:: 3
+**Price**:: 250
+**Bulk**:: L
 
 ### Description
 

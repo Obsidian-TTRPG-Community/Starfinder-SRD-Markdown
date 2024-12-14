@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 6
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ Although designed for extravehicular activity in hazardous conditions, reinforce
 ## Reinforced Eva Suit, I
 
 **Source**:: _Starfinder Armory pg. 71_  
-**Level** 1;
-**Price**::  200; **Category** Heavy  
-**EAC Bonus** +1; **KAC Bonus** +4; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 1; **Bulk** 2
+**Level**:: 1
+**Price**::  200 
+**Category**:: Heavy  
+
+**EAC**:: +1 
+**KAC**:: +4 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 2
 
 ## Reinforced Eva Suit, Ii
 
 **Source**:: _Starfinder Armory pg. 71_  
 **Level**:: 3
-**Price**::  1,300; **Category** Heavy  
-**EAC Bonus** +4; **KAC Bonus** +8; **Max. Dex Bonus** +1  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 1; **Bulk** 3
+**Price**::  1300 
+**Category**:: Heavy  
+
+**EAC**:: +4 
+**KAC**:: +8 
+**Max-Dex**:: +1  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 3
 
 ## Reinforced Eva Suit, Iii
 
 **Source**:: _Starfinder Armory pg. 71_  
-**Level** 6;
-**Price**::  4,060; **Category** Heavy  
-**EAC Bonus** +8; **KAC Bonus** +12; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 2; **Bulk** 3
+**Level**:: 6
+**Price**::  4060 
+**Category**:: Heavy  
+
+**EAC**:: +8 
+**KAC**:: +12 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 2 
+**Bulk**:: 3

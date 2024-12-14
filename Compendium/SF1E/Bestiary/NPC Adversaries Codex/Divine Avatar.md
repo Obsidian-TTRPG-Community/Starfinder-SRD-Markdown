@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 20
 hp: 395
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Divine Avatar
-statblock: true
-Subtype: Religious Figures
+statblock: true(Religious Figures
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Divine Avatar
@@ -34,9 +33,9 @@ LN Medium humanoid (vlaka)
 **Melee** touch +28 (6d10+25 E)  
 **Ranged** rebuke +30 (6d10+20 So; critical deafen)  
 Spell-Like Abilities (CL 20th)  
-1/day—_[[Enshrining Refuge]]_ (DC 29), _mass [[Inflict Pain]]_ (DC 29), _mass [[Compendium/SF1E/Spells/Multilevel/Mystic-Cure]]_ (6th level), _[[Shadow Walk]]_ (DC 29)  
+1/day—_[[Enshrining Refuge]]_ (DC 29), _mass [[Inflict Pain]]_ (DC 29), _mass [[Mystic-Cure]]_ (6th level), _[[Shadow Walk]]_ (DC 29)  
 3/day—_[[Break Enchantment]]_, _[[Call Cosmos]]_, _greater [[Dispel Magic]]_  
-At will—_[[Discern Lies]]_ (DC 25), _[[Compendium/SF1E/Spells/Multilevel/Mind-Thrust]]_ (4th level, DC 25)
+At will—_[[Discern Lies]]_ (DC 25), _[[Mind-Thrust]]_ (4th level, DC 25)
 
 ### Statistics
 

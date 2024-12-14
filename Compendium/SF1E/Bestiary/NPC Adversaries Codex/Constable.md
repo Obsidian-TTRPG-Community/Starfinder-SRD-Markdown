@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 105
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Constable
-statblock: true
-Subtype: Stewards
+statblock: true(Stewards
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Constable

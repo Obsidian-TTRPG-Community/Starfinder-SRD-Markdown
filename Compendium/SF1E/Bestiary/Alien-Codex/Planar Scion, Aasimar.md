@@ -3,11 +3,24 @@ aliases:
 cr: 1
 Environment: any
 hp: 17
-modifier: 2
+Initmod: 2
 name: Planar Scion, Aasimar
 statblock: true
 tags: 
-Type: NG Medium outsider (native)  
+Type: NG Medium outsider (native)
+combatType: expert
+alignment: NG
+size: medium
+type(subtype): outsider(native)
+environment: any
+climate: any
+planet:
+  - 
+organization:
+  - solitary
+  - pair
+  - band(3-6)
+source: Alien Archive 2
 ---
 
 # Planar Scion, Aasimar
@@ -20,7 +33,7 @@ However, in insular or tradition-bound communities, any signs of plane-touched h
 
 Planar scions are often outliers in their community, either put on a pedestal or ostracized because of their ancestry. The potent blood that courses through the veins of aasimars and tieflings also makes them ambitious; many choose a dangerous but rewarding profession, such as explorer, mercenary, spy, or pilot.
 
-**Source**:: _Alien Archive 2 pg. 98_
+**Source**:  _Alien Archive 2 pg. 98_
 
 ## Aasimar Cr 1
 
@@ -58,3 +71,5 @@ NG Medium outsider (native)
 ### Special Abilities
 
 **Celestial Radiance (Su)** As a standard action, an aasimar can shed light, causing light within 10 feet of him to increase two steps, up to bright, and light for 10 more feet beyond that to increase one step, up to normal. This lasts for 1 minute, but the aasimar can dismiss it as a swift action. Magical darkness can decrease the light level in this area only if it’s from an item or creature of a level or CR higher than that of the aasimar. An aasimar can use this ability once per day, plus a number of times equal to half his CR or level.
+
+

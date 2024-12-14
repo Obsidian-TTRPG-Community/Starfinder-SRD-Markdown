@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 11
-Environment: any (Apostae) 
+Environment: any (Apostae)
 hp: 170
-modifier: 3
+Initmod: 3
 name: Drow, Drow Noble Arms Dealer
 statblock: true
 tags: 
-Type: CE Medium humanoid (elf)  
+Type: CE Medium humanoid (elf)
+combatType: expert
+alignment: CE
+size: medium
+type(subtype): humanoid(elf)
+environment: any
+climate: any
+planet: Apostae
+organization:
+  - solitary
+  - pair
+  - delegation(1) + Drow Enforcer(5-8)
+source: Alien Archive
 ---
 
 # Drow, Drow Noble Arms Dealer
@@ -22,7 +34,7 @@ Some drow are born with gifts beyond those of most of their kind, including grea
 
 A drow noble scion of a powerful arms-dealing house might lead a branch of the family arms dealership, traveling throughout the Pact Worlds and fledgling colonies to secure buyers for the advanced technology her house produces based on the relics plumbed from their world. Other scions reinforce their noble houses’ connections with their demon lord patrons, becoming powerful mystics, or train as technomancers with a goal of unraveling the mysteries of the portal-gate at the center of Nightarch (see pages 458–459 of the _Starfinder Core Rulebook_).
 
-**Source**:: _Alien Archive pg. 42_
+**Source**:  _Alien Archive pg. 42_
 
 ## Drow Noble Arms Dealer Cr 11
 
@@ -71,3 +83,5 @@ Constant—_detect magic_
 
 The following extra content was found for this creature:  
 \- Drow Race Entry
+
+

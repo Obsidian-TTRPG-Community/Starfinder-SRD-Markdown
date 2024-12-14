@@ -4,10 +4,10 @@ Level: 3
 Mystic: 
 NoteType: Spell
 Precog: 
-School: abjuration 
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Antiradiation

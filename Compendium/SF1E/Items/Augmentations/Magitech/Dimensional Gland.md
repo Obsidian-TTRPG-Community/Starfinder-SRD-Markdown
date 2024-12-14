@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 5 / 13
+Item:
 price:  
-System: Endocrine 
+
 tags: 
 Type: Magitech
 ---
@@ -15,12 +15,14 @@ An experimental dimensional gland can sustain this transformation for a number o
 ## Dimensional Gland, Experimental
 
 **Source**:: _Tech Revolution pg. 58_  
-**Item Level** 5;
-**Price**::  3,100; **System** Endocrine  
+**Level**:: 5
+**Price**::  3100 
+**System**:: Endocrine  
   
 
 ## Dimensional Gland, Immersive
 
 **Source**:: _Tech Revolution pg. 58_  
-**Item Level** 13;
-**Price**::  50,000; **System** Endocrine
+**Level**:: 13
+**Price**::  50000 
+**System**:: Endocrine

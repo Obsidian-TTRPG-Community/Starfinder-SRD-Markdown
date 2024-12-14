@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 9 / 11 / 15
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ Invented by accident when an engineer didn’t open a steam valve on a reactor, 
 **Price**:: 110  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -30,7 +31,8 @@ Invented by accident when an engineer didn’t open a steam valve on a reactor, 
 **Price**:: 820  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ Invented by accident when an engineer didn’t open a steam valve on a reactor, 
 ## Thasphalt Grenade, Iii
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 9;
-**Price**:: 4,200  
+**Level**:: 9
+**Price**:: 4200  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Invented by accident when an engineer didn’t open a steam valve on a reactor, 
 ## Thasphalt Grenade, Iv
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 11;
-**Price**:: 8,250  
+**Level**:: 11
+**Price**:: 8250  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -65,11 +69,12 @@ Invented by accident when an engineer didn’t open a steam valve on a reactor, 
 ## Thasphalt Grenade, V
 
 **Source**:: _Drift Crisis pg. 51_  
-**Level**:: 15;
-**Price**:: 37,000  
+**Level**:: 15
+**Price**:: 37000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft. ft.;
+**Damage**:: — 
+**Range**:: 20 ft. ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 2-16
+
 Type: Large vermin  
 ---
 # SUN-SCRAPPER BEETLE - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large vermin
 **Source**:: _Alien Archive 4 pg. 27_  
 Dawn beetles make agreeable companions so long as their keepers periodically remind them not to disassemble nearby vehicles and architecture. A sun-scrapper becomes anxious unless regularly provided junk and a place to store it, but properly bribed, it remains content to live with others for years. Core-divers, on the other hand, rarely remain on the surface long enough to serve as long-term companions.
 
-## SUN-SCRAPPER BEETLELEVELS 2-16
+## SUN-SCRAPPER BEETLE
+level:: 2-16
 
 Large vermin  
 **Senses** darkvision 60ft  

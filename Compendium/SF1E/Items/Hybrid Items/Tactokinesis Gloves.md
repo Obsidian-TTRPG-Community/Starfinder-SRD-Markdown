@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6 
-price: 4,450
+
+price: 4450
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Tactokinesis Gloves
 
 **Source**:: _Pact Worlds pg. 203_  
-**Level** 6;
-**Price**::  4,450; **Bulk** L
+**Level**:: 6
+**Price**::  4450 
+**Bulk**:: L
 
 ### Description
 

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 6 
-price: 4,300
+
+price: 4300
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Plasma Diverter
 
 **Source**:: _Alien Archive 2 pg. 101_  
-**Level** 6;
-**Price**::  4,300  
-**Hands** —; **Bulk** 1
+**Level**:: 6
+**Price**::  4300  
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

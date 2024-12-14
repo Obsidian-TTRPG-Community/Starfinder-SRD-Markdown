@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 7 / 10 / 13 / 16 / 19
+
 price: 
 tags: 
 type: Special Weapons
@@ -22,11 +22,12 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 ## Shuriken, Dynamo
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 19;
-**Price**:: 98,000  
+**Level**:: 19
+**Price**:: 98000  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 12d6 E; **Range**:: 40 ft.;
+**Damage**:: 12d6 E; 
+**Range**:: 40 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -39,7 +40,8 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 **Price**:: 370  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 1d8 P; **Range**:: 20 ft.;
+**Damage**:: 1d8 P; 
+**Range**:: 20 ft.
 **Critical**:: Injection DC +2  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -48,11 +50,12 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 ## Shuriken, Microserrated
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 7;
-**Price**:: 1,120  
+**Level**:: 7
+**Price**:: 1120  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 3d6 P; **Range**:: 20 ft.;
+**Damage**:: 3d6 P; 
+**Range**:: 20 ft.
 **Critical**:: Bleed  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -61,11 +64,12 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 ## Shuriken, Flash
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 10;
-**Price**:: 3,120  
+**Level**:: 10
+**Price**:: 3120  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 4d6 F; **Range**:: 20 ft.;
+**Damage**:: 4d6 F; 
+**Range**:: 20 ft.
 **Critical**:: Blind  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -74,11 +78,12 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 ## Shuriken, Singing
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 13;
-**Price**:: 8,550  
+**Level**:: 13
+**Price**:: 8550  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 6d6 So; **Range**:: 20 ft.;
+**Damage**:: 6d6 So; 
+**Range**:: 20 ft.
 **Critical**:: Confuse  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -87,11 +92,12 @@ Shuriken are bladed thrown weapons most common in the carbonedge form kasathas f
 ## Shuriken, Ultraserrated
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 16;
-**Price**:: 29,100  
+**Level**:: 16
+**Price**:: 29100  
 **Hands**:: 1
 **Proficiency**:: Special  
-**Damage**:: 7d10 P; **Range**:: 20 ft.;
+**Damage**:: 7d10 P; 
+**Range**:: 20 ft.
 **Critical**:: Bleed  
 **Capacity**:: drawn  
 **Bulk**:: L

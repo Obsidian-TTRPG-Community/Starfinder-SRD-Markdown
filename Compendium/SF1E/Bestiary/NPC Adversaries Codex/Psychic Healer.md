@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 9
 hp: 120
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Psychic Healer
-statblock: true
-Subtype: Medical Staff
+statblock: true(Medical Staff
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Psychic Healer

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 6 / 13 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Mirage Dagger, Distortion
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 6;
-**Price**:: 4,450  
+**Level**:: 6
+**Price**:: 4450  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 F;
+**Damage**:: 1d4 F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: feint, operative, powered (capacity 20; usage 1)
@@ -30,11 +30,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Mirage Dagger, Hallucination
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 13;
-**Price**:: 50,800  
+**Level**:: 13
+**Price**:: 50800  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 4d4 F;
+**Damage**:: 4d4 F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: feint, operative, powered (capacity 20; usage 1)
@@ -42,11 +42,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Mirage Dagger, Illusion
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 20;
-**Price**:: 897,000  
+**Level**:: 20
+**Price**:: 897000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 10d4 F;
+**Damage**:: 10d4 F
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: feint, operative, powered (capacity 20; usage 1)

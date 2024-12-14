@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 3
-Environment: warm forests (Mulkaxi)  
+Environment: warm forests (Mulkaxi)
 hp: 35
-modifier: 4
+Initmod: 4
 name: Huitz’plina, Youngling
 statblock: true
 tags: 
-Type: CG Medium magical beast  
+Type: CG Medium magical beast
 ---
 
 # HUITZ’PLINA, Youngling
@@ -27,7 +27,7 @@ While not all the creatures they encounter know about huitz’plina’s precogni
 Huitz’plinas reach maturity around 30 and can live over one hundred years each, though their spines first show signs of color around 15 years of age.
 
 
-**Source**:: _Alien Archive 4 pg. 46_
+**Source**:  _Alien Archive 4 pg. 46_
 
 ## Youngling Cr 3
 

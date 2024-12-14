@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 16 / 20 
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Comm units capable of piercing the barriers between planes are rare. Such marvel
 ## Interplanar Comm Unit, Inner Sphere
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 16;
-**Price**::  160,000; **Bulk** 60
+**Level**:: 16
+**Price**::  160000 
+**Bulk**:: 60
 
 ### Description
 
@@ -25,8 +26,9 @@ These can send and receive transmissions between two of the following: the Mater
 ## Interplanar Comm Unit, Outer Sphere
 
 **Source**:: _Drift Crisis pg. 55_  
-**Level** 20;
-**Price**::  880,000; **Bulk** 100
+**Level**:: 20
+**Price**::  880000 
+**Bulk**:: 100
 
 ### Description
 

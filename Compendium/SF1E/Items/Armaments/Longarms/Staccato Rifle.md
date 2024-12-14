@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 15 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,51 +18,47 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Staccato Rifle, Drum
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 15;
-**Price**:: 107,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 4d10 So; **Range**:: 60 ft.;
+**Level**:: 15
+**Price**:: 107000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 4d10 So; 
+**Range**:: 60 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Staccato Rifle, Pulse
 
 **Source**:: _Starfinder Armory pg. 51_  
 **Level**:: 4
-**Price**:: 2,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 So; **Range**:: 40 ft.;
+**Price**:: 2000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 So; 
+**Range**:: 40 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Staccato Rifle, Surge
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 9;
-**Price**:: 13,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 So; **Range**:: 60 ft.;
+**Level**:: 9
+**Price**:: 13000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 So; 
+**Range**:: 60 ft.
 **Critical**:: deafen  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic
 
 ## Staccato Rifle, Hammer
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 20;
-**Price**:: 810,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 8d10 So; **Range**:: 80 ft.;
+**Level**:: 20
+**Price**:: 810000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 8d10 So; 
+**Range**:: 80 ft.
 **Critical**:: deafen  
 **Capacity**:: 80 charges; **Usage** 4  
-**Bulk**:: 2;
-**Special**:: automatic
+**Bulk**:: 2**Special**:: automatic

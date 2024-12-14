@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 7 / 10 / 14 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,59 +18,49 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Shadow Chains, Acolyte
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 7;
-**Price**:: 6,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 C;
+**Level**:: 7
+**Price**:: 6800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d4 C
 **Critical**:: bind  
-**Bulk**:: 2;
-**Special**:: analog, disarm, reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, reach, trip
 
 ## Shadow Chains, Follower
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 1
 **Price**:: 390  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d3 C;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d3 C
 **Critical**:: bind  
-**Bulk**:: 2;
-**Special**:: analog, disarm, reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, reach, trip
 
 ## Shadow Chains, Penitent
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 10;
-**Price**:: 18,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d4 C;
+**Level**:: 10
+**Price**:: 18800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d4 C
 **Critical**:: bind  
-**Bulk**:: 2;
-**Special**:: analog, disarm, reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, reach, trip
 
 ## Shadow Chains, Ecclesiastic
 
 **Source**:: _Starfinder Armory pg. 35_  
 **Level**:: 14
-**Price**:: 76,800  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 9d4 C;
+**Price**:: 76800  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 9d4 C
 **Critical**:: bind  
-**Bulk**:: 2;
-**Special**:: analog, disarm, reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, reach, trip
 
 ## Shadow Chains, Devotional
 
 **Source**:: _Starfinder Armory pg. 35_  
-**Level**:: 18;
-**Price**:: 261,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 9d8 C;
+**Level**:: 18
+**Price**:: 261000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 9d8 C
 **Critical**:: bind  
-**Bulk**:: 2;
-**Special**:: analog, disarm, reach, trip
+**Bulk**:: 2**Special**:: analog, disarm, reach, trip

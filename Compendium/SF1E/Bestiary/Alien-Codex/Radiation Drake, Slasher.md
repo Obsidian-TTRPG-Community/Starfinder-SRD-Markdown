@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any land  
+Environment: any land
 hp: 50
-modifier: 2
+Initmod: 2
 name: Radiation Drake, Slasher
 statblock: true
 tags: 
-Type: CE Medium dragon  
+Type: CE Medium dragon
 ---
 
 # Radiation Drake, Slasher
@@ -22,7 +22,7 @@ Yet whelps don’t come only from adult radiation drakes. Their eggs periodicall
 
 Radiation drakes rarely bother to do anything but act out on their most instinctive impulses unless driven to do so or guided by a worthy ally. Those allies are few and far between, as the drakes are violently territorial and radioactive, and they rarely form bonds with creatures. Ellicoths occasionally form friendly bands with radiation drakes, with the latter perching atop the spindly beasts and periodically dragging prey to drop before the ellicoths to maintain the peace. Hespers occasionally recruit radiation drakes, relying on the latter’s raw strength to access well-defended reactors and other technology. However, the alliances are usually short‑lived, as the drakes rarely have the patience to act as guards, usually instead laying waste to the devices the hespers so desperately want.
 
-**Source**:: _Alien Archive 4 pg. 94_
+**Source**:  _Alien Archive 4 pg. 94_
 
 ## Slasher Cr 4
 

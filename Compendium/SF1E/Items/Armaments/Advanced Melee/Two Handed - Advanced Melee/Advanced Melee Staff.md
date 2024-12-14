@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 7 / 13
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,23 +17,19 @@ Sentinel and repeller staves are made of conductive metal and deliver a painful,
 ## Staff, Repeller
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 13;
-**Price**:: 45,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 B;
+**Level**:: 13
+**Price**:: 45200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d8 B
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: block, powered (capacity 20; usage 1), stun
+**Bulk**:: 1**Special**:: block, powered (capacity 20; usage 1), stun
 
 ## Staff, Sentinel
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 7;
-**Price**:: 6,320  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d10 B;
+**Level**:: 7
+**Price**:: 6320  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d10 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: block, powered (capacity 20; usage 1), stun
+**Bulk**:: 1**Special**:: block, powered (capacity 20; usage 1), stun

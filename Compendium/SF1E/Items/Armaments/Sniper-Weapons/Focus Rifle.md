@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 7 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,51 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Focus Rifle, Compound
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 18;
-**Price**:: 375,000  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 13d4 F; **Range**:: 150 ft.;
+**Level**:: 18
+**Price**:: 375000  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 13d4 F; 
+**Range**:: 150 ft.
 **Critical**:: burn 4d4  
 **Capacity**:: 80 charges; **Usage** 8  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: penetrating, sniper (1, 000 ft.), unwieldy
 
 ## Focus Rifle, Dual
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 3;
-**Price**:: 1,400  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 2d4 F; **Range**:: 100 ft.;
+**Level**:: 3
+**Price**:: 1400  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 2d4 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 4  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: penetrating, sniper (500 ft.), unwieldy
 
 ## Focus Rifle, Triple
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 7;
-**Price**:: 6,460  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 3d4 F; **Range**:: 120 ft.;
+**Level**:: 7
+**Price**:: 6460  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 3d4 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 2d4  
 **Capacity**:: 40 charges; **Usage** 4  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: penetrating, sniper (650 ft.), unwieldy
 
 ## Focus Rifle, Quad
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 13;
-**Price**:: 50,800  
-**Hands**:: 2;
-**Proficiency**:: Sniper  
-**Damage**:: 7d4 F; **Range**:: 120 ft.;
+**Level**:: 13
+**Price**:: 50800  
+**Hands**:: 2**Proficiency**:: Sniper  
+**Damage**:: 7d4 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 3d4  
 **Capacity**:: 40 charges; **Usage** 8  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: penetrating, sniper (800 ft.), unwieldy

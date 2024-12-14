@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 1
 hp: 20
-modifier: 4
+Initmod: 4
 Monster Type: NPC
 name: Okanta Pilot
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Okanta Pilot

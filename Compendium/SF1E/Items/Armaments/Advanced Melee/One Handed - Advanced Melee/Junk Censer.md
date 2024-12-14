@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 1
+
 Notetype: Weapon
 price: 125
 tags: 
@@ -15,7 +15,7 @@ type: Advanced-Melee
 **Price**:: 125  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 B & f;
+**Damage**:: 1d6 B & f
 **Critical**:: burn 1d4  
 **Bulk**:: L
 **Special**:: analog, fueled (capacity 20; usage 4), thrown (10 ft.)

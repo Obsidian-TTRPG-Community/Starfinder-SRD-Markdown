@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 12 / 17 / 20
+
 price: 
 tags: 
 Type: Magic Item
@@ -11,8 +11,9 @@ If you score a critical hit against a creature with the extraplanar subtype, tha
 ## Banishing Blade, Mk 1
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 8;
-**Price**::  10,500; **Bulk** 1
+**Level**:: 8
+**Price**::  10500 
+**Bulk**:: 1
 
 ### Description
 
@@ -23,8 +24,9 @@ Functions as a sintered longsword.
 ## Banishing Blade, Mk 2
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 12;
-**Price**::  39,000; **Bulk** 1
+**Level**:: 12
+**Price**::  39000 
+**Bulk**:: 1
 
 ### Description
 
@@ -33,8 +35,9 @@ Functions as an ultrathin longsword.
 ## Banishing Blade, Mk 3
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 17;
-**Price**::  289,000; **Bulk** 1
+**Level**:: 17
+**Price**::  289000 
+**Bulk**:: 1
 
 ### Description
 
@@ -43,8 +46,9 @@ Functions as a molecular rift longsword.
 ## Banishing Blade, Mk 4
 
 **Source**:: _Drift Crisis pg. 54_  
-**Level** 20;
-**Price**::  967,000; **Bulk** 1
+**Level**:: 20
+**Price**::  967000 
+**Bulk**:: 1
 
 ### Description
 

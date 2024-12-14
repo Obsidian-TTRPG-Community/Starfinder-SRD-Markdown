@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 5
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: conjuration (healing) 
+Precog: X
+
 tags: 
 Technomancer: 
-Witchwarper: "`ris:Checkbox`"
+Witchwarper: X
 ---
 
 # Raise Dead

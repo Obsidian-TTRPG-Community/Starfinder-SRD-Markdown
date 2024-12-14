@@ -2,7 +2,7 @@
 Notetype: Weapon
 type: Advanced-Melee
 Hands: One-Handed
-Level: & / 11 / 17
+
 price: 
 ---
 A vortex of supercooled air swirls around this slender baton, freezing targets before the baton even makes contact and knocking dangerous projectiles off course. The tempest gale baton is the most common model and is widely available on the Idari and in other kasathan communities, with later developments resulting in the more powerful cyclone and hurricane gale batons.
@@ -16,11 +16,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ##  GALE BATON, CYCLONE
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 11;
-**Price**:: 24,500  
+**Level**:: 11
+**Price**:: 24500  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 C;
+**Damage**:: 3d8 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: deflect, operative, powered (capacity 80; usage 4)
@@ -28,11 +28,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ##  GALE BATON, TEMPEST
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 6;
-**Price**:: 4,240  
+**Level**:: 6
+**Price**:: 4240  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C;
+**Damage**:: 1d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: deflect, operative, powered (capacity 80; usage 4)
@@ -40,11 +40,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ##  GALE BATON, HURRICAN
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 17;
-**Price**:: 245,000  
+**Level**:: 17
+**Price**:: 245000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 9d6 C;
+**Damage**:: 9d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: deflect, operative, powered (capacity 80; usage 4)

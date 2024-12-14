@@ -1,3 +1,5 @@
+
+
 ---
 aliases: 
 NoteType: Vehicle Modification
@@ -12,7 +14,7 @@ Compartments inside the vehicle’s hull contain microscopic nanites capable of 
 # Nanite Node, Mk 1 - Level 5
 
 **Source**:: _Tech Revolution pg. 82_ 
-**Price** 3,100  
+**Price**:: 3100  
 Restores 5 Hit Points each round.
 
 ---
@@ -20,11 +22,11 @@ Restores 5 Hit Points each round.
 ## Nanite Node, Mk 2 - Level 10
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 18,750  
+**Price**:: 18750  
 Restores 10 Hit Points each round.
 
 ## Nanite Node, Mk 3 - Level 15
 
 **Source**:: _Tech Revolution pg. 82_
-**Price** 110,000  
+**Price**:: 110000  
 Restores 20 Hit Points each round.

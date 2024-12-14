@@ -1,7 +1,7 @@
 ---
 aliases: 
 Category: Countermeasure
-Level: 
+
 price: 100
 tags: 
 Type: Computer Gear

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -21,10 +21,11 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 
 **Source**:: _Starfinder Armory pg. 40_  
 **Level**:: 4
-**Price**:: 1,850  
+**Price**:: 1850  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 F; **Range**:: 80 ft.;
+**Damage**:: 1d8 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 1d4  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -33,11 +34,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Lens Pistol, Lenticular
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 10;
-**Price**:: 17,100  
+**Level**:: 10
+**Price**:: 17100  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d8 F; **Range**:: 80 ft.;
+**Damage**:: 2d8 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 1d8  
 **Capacity**:: 40 charges; **Usage** 4  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Lens Pistol, Electron
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 16;
-**Price**:: 146,000  
+**Level**:: 16
+**Price**:: 146000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 4d8 F; **Range**:: 100 ft.;
+**Damage**:: 4d8 F; 
+**Range**:: 100 ft.
 **Critical**:: burn 2d8  
 **Capacity**:: 80 charges; **Usage** 5  
 **Bulk**:: L
@@ -59,11 +62,12 @@ Laser weapons use various means to concentrate beams of light into deadly intens
 ## Lens Pistol, Sunglass
 
 **Source**:: _Starfinder Armory pg. 40_  
-**Level**:: 20;
-**Price**:: 728,000  
+**Level**:: 20
+**Price**:: 728000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 7d8 F; **Range**:: 120 ft.;
+**Damage**:: 7d8 F; 
+**Range**:: 120 ft.
 **Critical**:: burn 3d8  
 **Capacity**:: 80 charges; **Usage** 8  
 **Bulk**:: L

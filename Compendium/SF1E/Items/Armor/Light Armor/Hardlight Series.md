@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 12 / 15 / 20
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,26 +14,47 @@ The last word in light infantry armor, hardlight series armor features an inflex
 ## Hardlight Series, Elite
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 15;
-**Price**:: 123,500; **Category** Light  
-**EAC Bonus** +18; **KAC Bonus** +18; **Max. Dex Bonus** +7  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Level**:: 15
+**Price**:: 123500 
+**Category**:: Light  
+
+**EAC**:: +18 
+**KAC**:: +18 
+**Max-Dex**:: +7  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ## Hardlight Series, Squad
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
 **Level**:: 12
-**Price**:: 37,500; **Category** Light  
-**EAC Bonus** +15; **KAC Bonus** +15; **Max. Dex Bonus** +6  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 4; **Bulk**:: L
+**Price**:: 37500 
+**Category**:: Light  
+
+**EAC**:: +15 
+**KAC**:: +15 
+**Max-Dex**:: +6  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 4 
+**Bulk**:: L
 
 ## Hardlight Series, Specialist
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level**:: 20;
-**Price**:: 928,000; **Category** Light  
-**EAC Bonus** +22; **KAC Bonus** +22; **Max. Dex Bonus** +8  
-**Armor Check Penalty** —; **Speed Adjustment** —  
-**Upgrade Slots** 6; **Bulk**:: L
+**Level**:: 20
+**Price**:: 928000 
+**Category**:: Light  
+
+**EAC**:: +22 
+**KAC**:: +22 
+**Max-Dex**:: +8  
+
+**Armor-Check-Penalty**:: — 
+**Speed-Adjustment**:: —  
+**Upgrade-slots**:: 6 
+**Bulk**:: L

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 6 / 10 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,46 +16,38 @@ No one can argue against the damage potential of a greataxe. Half-orcs who take 
 
 **Source**:: _Starfinder Armory pg. 52_  
 **Level**:: 14
-**Price**:: 69,800  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 4d12 S;
+**Price**:: 69800  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 4d12 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Greataxe, Tactical
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 3;
-**Price**:: 1,100  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 1d12 S;
+**Level**:: 3
+**Price**:: 1100  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 1d12 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Greataxe, Sintered
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 6;
-**Price**:: 4,150  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 3d6 S;
+**Level**:: 6
+**Price**:: 4150  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 3d6 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog
 
 ## Greataxe, Ultrathin
 
 **Source**:: _Starfinder Armory pg. 52_  
-**Level**:: 10;
-**Price**:: 18,100  
-**Hands**:: 2;
-**Proficiency**:: Basic Melee  
-**Damage**:: 2d12 S;
+**Level**:: 10
+**Price**:: 18100  
+**Hands**:: 2**Proficiency**:: Basic Melee  
+**Damage**:: 2d12 S
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog
+**Bulk**:: 1**Special**:: analog

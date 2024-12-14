@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 7 
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,9 +14,10 @@ A stock is a part of a two-handed ranged weapon that rests against the shoulder 
 ## Stock, Collapsing
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 2;
-**Price**::  850; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 2
+**Price**::  850 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 
@@ -25,9 +26,10 @@ Only a weapon of 1 bulk or less can have a collapsing stock. As a move action, y
 ## Stock, Null-space (HYBRID)
 
 **Source**:: _Starfinder Armory pg. 61_  
-**Level** 7;
-**Price**::  5,950; **Bulk** L  
-**Weapon Types** railed weapon
+**Level**:: 7
+**Price**::  5950 
+**Bulk**:: L  
+**WeaponTypes**:: railed weapon
 
 ### Description
 

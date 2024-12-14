@@ -1,8 +1,8 @@
 ---
 aliases: 
-ItemLevel: 15 / 16 / 18 / 19 / 20
+Item:
 price:  
-System: Skin
+
 tags: 
 Type: Magitech
 ---
@@ -23,39 +23,45 @@ Your skin is infused with alchemical components extracted from fey, hags, and ot
 ## Antimagic Skin, Mk 1
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 15;
-**Price**::  109,400; **System** Skin  
+**Level**:: 15
+**Price**::  109400 
+**System**:: Skin  
 
 ## Antimagic Skin, Mk 2
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 16;
-**Price**::  170,800; **System** Skin  
+**Level**:: 16
+**Price**::  170800 
+**System**:: Skin  
   
 
 ## Antimagic Skin, Mk 3
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 17;
-**Price**::  263,000; **System** Skin  
+**Level**:: 17
+**Price**::  263000 
+**System**:: Skin  
   
 
 ## Antimagic Skin, Mk 4
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 18;
-**Price**::  388,000; **System** Skin  
+**Level**:: 18
+**Price**::  388000 
+**System**:: Skin  
   
 
 ## Antimagic Skin, Mk 5
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 19;
-**Price**::  587,000; **System** Skin  
+**Level**:: 19
+**Price**::  587000 
+**System**:: Skin  
   
 
 ## Antimagic Skin, Mk 6
 
 **Source**:: _Starfinder Armory pg. 90_  
-**Item Level** 20;
-**Price**::  891,000; **System** Skin
+**Level**:: 20
+**Price**::  891000 
+**System**:: Skin

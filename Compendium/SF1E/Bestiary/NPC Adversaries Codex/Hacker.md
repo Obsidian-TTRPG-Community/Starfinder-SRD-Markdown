@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 65
-modifier: 3
+Initmod: 3
 Monster Type: NPC
 name: Hacker
-statblock: true
-Subtype: Infilitrators
+statblock: true(Infilitrators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Hacker

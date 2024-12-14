@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1
+
 price: 75
 tags: 
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Enviro Mask
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 1;
+**Level**:: 1
 **Price**::  75  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 

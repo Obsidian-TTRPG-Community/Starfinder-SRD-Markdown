@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any urban  
+Environment: any urban
 hp: 52
-modifier: 5
+Initmod: 5
 name: Robot (Security), Patrol-Class Security Robot
 statblock: true
 tags: 
-Type: N Medium construct (technological)  
+Type: N Medium construct (technological)
 ---
 
 # Robot (SECURITY), Patrol-class Security Robot
@@ -22,7 +22,7 @@ Unfortunately, not all security bots end up working for law-abiding corporations
 
 Though both observer and patrol models have safeguards to protect against it, glitches can occasionally develop in a security robot’s firmware, often the result of massive damage sustained during a firefight or improper diagnostics after such an altercation. In such cases, the glitch can override the bot’s usual baselevel programming regarding tiers of force and the logic of conflict escalation, or even its protocol to protect the innocent. This can result in a bloody rampage, with the robot either going berserk over perceived violation of nonexistent laws, or technically following the law but executing lethal punishment for even the smallest infraction. Even worse, an infected patrol bot’s nanites can carry its corrupted code like a virus, turning other security robots rogue. When this occurs, manufacturers like AbadarCorp are usually quick to hire discreet “contractors” to deal with the menace (as maintaining their own strike-and-disassembly force would publicly acknowledge the threat).
 
-**Source**:: _Alien Archive pg. 94_
+**Source**:  _Alien Archive pg. 94_
 
 ## Patrol-class Security Robot Cr 4
 

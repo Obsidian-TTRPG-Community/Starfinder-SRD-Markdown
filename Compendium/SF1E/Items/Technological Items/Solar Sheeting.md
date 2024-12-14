@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 4 
-price: 2,000
+
+price: 2000
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Solar Sheeting
 
 **Source**:: _Starfinder Armory pg. 107_  
-**Level** 4;
-**Price**::  2,000  
-**Hands** —; **Bulk** 2
+**Level**:: 4
+**Price**::  2000  
+**Hands** — 
+**Bulk**:: 2
 
 ### Description
 

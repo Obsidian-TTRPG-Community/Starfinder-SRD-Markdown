@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 3
+
 Notetype: Weapon
-price: 1,250
+price: 1250
 tags: 
 type: Weapon Accessories
 ---
@@ -11,8 +11,9 @@ type: Weapon Accessories
 
 **Source**:: _Starfinder Armory pg. 59_  
 **Level**:: 3
-**Price**::  1,250; **Bulk** L  
-**Weapon Types** melee weapon
+**Price**::  1250 
+**Bulk**:: L  
+**WeaponTypes**:: melee weapon
 
 ### Description
 

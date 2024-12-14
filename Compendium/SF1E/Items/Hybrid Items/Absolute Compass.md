@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -13,8 +13,9 @@ Once per day as a standard action, you can register the exact molecular makeup o
 ## Absolute Compass, Mk 1
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 1;
-**Price**::  250; **Bulk** L
+**Level**:: 1
+**Price**::  250 
+**Bulk**:: L
 
 ### Description
 
@@ -25,8 +26,9 @@ The compass can register one creature.
 ## Absolute Compass, Mk 2
 
 **Source**:: _Galactic Magic pg. 44_  
-**Level** 4;
-**Price**::  1,800; **Bulk** L
+**Level**:: 4
+**Price**::  1800 
+**Bulk**:: L
 
 ### Description
 

@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any land  
+Environment: any land
 hp: 65
-modifier: 1
+Initmod: 1
 name: Polyphonic Gel, Polyphonic Plasm
 statblock: true
 tags: 
-Type: N Large ooze  
+Type: N Large ooze
 ---
 
 # Polyphonic Gel, Polyphonic Plasm
@@ -24,7 +24,7 @@ Early in life, a polyphonic gel spans about 2–3 feet in diameter and weighs a 
 
 Despite the dangers associated with polyphonic gels, they’re easy to detect and slow-moving, allowing careful xenobiologists and other researchers to study them with relative ease. Some Shelynites consider the oozes sacred, believing the creatures’ songs encode messages from the Eternal Rose herself. Worshippers have compiled years-long recordings and distributed them across Pact Worlds infospheres for free, and while the acolytes try to decode these soundscapes to understand their goddess, digital music artists have shamelessly sampled the files in hundreds of songs. These musical byproducts as well as the alien tones that only the gels can create only reinforce the Shelynites’ belief that polyphonic gels sing with divine will. Some priests happily shepherd these oozes across alien landscapes to help their charges learn new music. Though the priests might have good intentions, the wild and willful gels regularly escape to pursue some distant tune or tone. With so many incidents, several Pact Worlds have condemned and criminalized this expression of Shelyn’s faith.
 
-**Source**:: _Alien Archive 4 pg. 84_
+**Source**:  _Alien Archive 4 pg. 84_
 
 ## Polyphonic Plasm Cr 4
 

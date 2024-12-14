@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 4
-Environment: any (Vesk-2)  
+Environment: any (Vesk-2)
 hp: 50
-modifier: 3
+Initmod: 3
 name: Ijtikri, Ijtikri Commando
 statblock: true
 tags: 
-Type: N Medium aberration  
+Type: N Medium aberration
 ---
 
 # Ijtikri, Ijtikri Commando
@@ -28,7 +28,7 @@ Ijtikris clashed with the vesk most strongly over ancient ruins that predate ijt
 
 ## Ijtikri, Ijtikri Commando
 
-**Source**:: _Alien Archive 3 pg. 54_
+**Source**:  _Alien Archive 3 pg. 54_
 
 ## Ijtikri Commando Cr 4
 

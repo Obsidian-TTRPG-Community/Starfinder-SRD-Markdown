@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 1
-Environment: any or vacuum  
+Environment: any or vacuum
 hp: 14
-modifier: 3
+Initmod: 3
 name: Gremlin, Ship Glitch Gremlin
 statblock: true
 tags: 
-Type: CE Small fey  
+Type: CE Small fey
 ---
 
 # Gremlin, Ship Glitch Gremlin
@@ -17,7 +17,7 @@ Gremlins are fey spirits intimately tied to technological malfunctions. One vari
 A computer glitch gremlin’s appearance varies widely with the digital data it has eaten, but they average 1 foot in height and weigh around 4 pounds. Ship glitch gremlins have lamprey-like mouths and long, spidery arms and legs. They stand 2-1/2 feet tall and weigh approximately 20 pounds.
 
 
-**Source**:: _Alien Archive 2 pg. 69_
+**Source**:  _Alien Archive 2 pg. 69_
 
 ## Ship Glitch Gremlin Cr 1
 

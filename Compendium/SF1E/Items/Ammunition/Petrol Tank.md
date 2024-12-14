@@ -1,8 +1,8 @@
 ---
 aliases: 
-Level: 1 / 3
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -13,14 +13,14 @@ Petrol is a highly flammable blend of hydrocarbons that is used in flame weapons
 ## Petrol Tank, High-capacity
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 280  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 40  
-**Bulk**:: 2;
+**Bulk**:: 2
 **Special**:: —
 
 ## Petrol Tank, Standard
@@ -33,5 +33,5 @@ Petrol is a highly flammable blend of hydrocarbons that is used in flame weapons
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 20  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: —

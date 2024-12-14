@@ -1,13 +1,13 @@
 ---
 aliases: 
 Level: 3
-Mystic: "`ris:Checkbox`"
+Mystic: X
 NoteType: Spell
-Precog: "`ris:Checkbox`"
-School: divination (scrying) 
+Precog: X
+
 tags: 
-Technomancer: "`ris:Checkbox`"
-Witchwarper: "`ris:Checkbox`"
+Technomancer: X
+Witchwarper: X
 ---
 
 # CLAIRAUDIENCE_CLAIRVOYANCE

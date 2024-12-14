@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 8 / 13 / 18
+
 price: 
 tags: 
 Type: Magic Item
@@ -14,25 +14,29 @@ An _encryption tattoo_ doesn’t count as a worn magic item, and it can’t be
 ## Encryption Tattoo, Agent
 
 **Source** Pact Worlds pg. 200
-**Level** 1;
-**Price**::  50; **Bulk** L
+**Level**:: 1
+**Price**::  50 
+**Bulk**:: L
 
 ---
 
 ## [ENCRYPTION Tattoo, Operative
 
 **Source** Pact Worlds pg. 200
-**Level** 8;
-**Price**::  8,900; **Bulk** L
+**Level**:: 8
+**Price**::  8900 
+**Bulk**:: L
 
 ## Encryption Tattoo, Provocateur
 
 **Source** Pact Worlds pg. 200
-**Level** 13;
-**Price**::  48,000; **Bulk** L
+**Level**:: 13
+**Price**::  48000 
+**Bulk**:: L
 
 ## Encryption Tattoo, Master
 
 **Source** Pact Worlds pg. 200
-**Level** 18;
-**Price**::  360,000; **Bulk** L
+**Level**:: 18
+**Price**::  360000 
+**Bulk**:: L

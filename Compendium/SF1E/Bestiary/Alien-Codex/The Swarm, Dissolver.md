@@ -3,11 +3,11 @@ aliases:
 cr: 11
 Environment: any
 hp: 180
-modifier: 3
+Initmod: 3
 name: The Swarm, Dissolver
 statblock: true
 tags: 
-Type: CE Large monstrous humanoid  
+Type: CE Large monstrous humanoid
 ---
 
 # The Swarm, Dissolver
@@ -21,7 +21,7 @@ While individual components of the Swarm have some form of intelligence—or at 
 The Swarm rarely wields manufactured weapons, instead integrating biotechnology grown or grafted onto component creatures. Because of its constant genetic upgrading and experimentation, the Swarm encompasses components with a wide variety of shapes, sizes, and capabilities, from the mighty dreadlancers to the microscopic, bloodstream-infesting toxicytes.
 
 
-**Source**:: _Alien Archive 3 pg. 106_
+**Source**:  _Alien Archive 3 pg. 106_
 
 ## Dissolver Cr 11
 

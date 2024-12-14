@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 2 / 4 / 7 / 10 / 13 / 16
+
 price: 
 tags: 
 Type: Magic Item
@@ -12,41 +12,48 @@ The maximum spell level that a piece of spell putty can absorb is based on its m
 ## Spell Putty, 0-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 1;
-**Price**::  25; **Bulk** —
+**Level**:: 1
+**Price**::  25 
+**Bulk**:: —
 
 ## Spell Putty, 1ST-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 2;
-**Price**::  100; **Bulk** —
+**Level**:: 2
+**Price**::  100 
+**Bulk**:: —
 
 ## Spell Putty, 2ND-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 4;
-**Price**::  300; **Bulk** —
+**Level**:: 4
+**Price**::  300 
+**Bulk**:: —
 
 ## Spell Putty, 3RD-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 7;
-**Price**::  850; **Bulk** —
+**Level**:: 7
+**Price**::  850 
+**Bulk**:: —
 
 ## Spell Putty, 4TH-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 10;
-**Price**::  2,550; **Bulk** —
+**Level**:: 10
+**Price**::  2550 
+**Bulk**:: —
 
 ## Spell Putty, 5TH-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 13;
-**Price**::  7,000; **Bulk** —
+**Level**:: 13
+**Price**::  7000 
+**Bulk**:: —
 
 ## Spell Putty, 6TH-LEVEL
 
 **Source**:: _Galactic Magic pg. 52_  
-**Level** 16;
-**Price**::  22,000; **Bulk** —
+**Level**:: 16
+**Price**::  22000 
+**Bulk**:: —

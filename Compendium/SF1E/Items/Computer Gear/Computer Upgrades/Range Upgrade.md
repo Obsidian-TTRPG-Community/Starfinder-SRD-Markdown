@@ -1,8 +1,8 @@
 ---
 aliases: 
 Category: Upgrade
-Level: 
-price:  
+
+price:  5-100 credits
 tags: 
 Type: Computer Gear
 ---

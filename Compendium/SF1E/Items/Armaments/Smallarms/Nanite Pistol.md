@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 9 / 11 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,11 +14,12 @@ These pistols were designed as extraction tools, providing disaster relief worke
 ## Nanite Pistol, Artificer-class
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 19;
-**Price**:: 555,000  
+**Level**:: 19
+**Price**:: 555000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 A; **Range**:: 30 ft.;
+**Damage**:: 1d10 A; 
+**Range**:: 30 ft.
 **Critical**:: Wound  
 **Capacity**:: 10 nanites ; **Usage** 1  
 **Bulk**:: L
@@ -27,11 +28,12 @@ These pistols were designed as extraction tools, providing disaster relief worke
 ## Nanite Pistol, Tinker-class
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 9;
-**Price**:: 13,300  
+**Level**:: 9
+**Price**:: 13300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 A; **Range**:: 30 ft.;
+**Damage**:: 1d4 A; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 10 nanites ; **Usage** 1  
 **Bulk**:: L
@@ -40,11 +42,12 @@ These pistols were designed as extraction tools, providing disaster relief worke
 ## Nanite Pistol, Scrapper-class
 
 **Source**:: _Tech Revolution pg. 61_  
-**Level**:: 11;
-**Price**:: 25,200  
+**Level**:: 11
+**Price**:: 25200  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 A; **Range**:: 30 ft.;
+**Damage**:: 1d6 A; 
+**Range**:: 30 ft.
 **Critical**:: —  
 **Capacity**:: 10 nanites ; **Usage** 1  
 **Bulk**:: L
@@ -54,10 +57,11 @@ These pistols were designed as extraction tools, providing disaster relief worke
 
 **Source**:: _Tech Revolution pg. 61_  
 **Level**:: 14
-**Price**:: 72,000  
+**Price**:: 72000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d8 A; **Range**:: 30 ft.;
+**Damage**:: 1d8 A; 
+**Range**:: 30 ft.
 **Critical**:: Wound  
 **Capacity**:: 10 nanites ; **Usage** 1  
 **Bulk**:: L

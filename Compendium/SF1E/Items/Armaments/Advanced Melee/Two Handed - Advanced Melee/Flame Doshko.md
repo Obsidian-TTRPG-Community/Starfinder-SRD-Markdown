@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 2 / 8 / 13 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,47 +18,39 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Flame Doshko, Blaze
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 8;
-**Price**:: 8,500  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 F;
+**Level**:: 8
+**Price**:: 8500  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d8 F
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flame Doshko, Ember
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 750  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 F;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 F
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flame Doshko, Inferno
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 13;
-**Price**:: 53,200  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d8 F;
+**Level**:: 13
+**Price**:: 53200  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d8 F
 **Critical**:: wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)
 
 ## Flame Doshko, Solar Flare
 
 **Source**:: _Starfinder Core Rulebook pg. 172_  
-**Level**:: 19;
-**Price**:: 595,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 10d8 F;
+**Level**:: 19
+**Price**:: 595000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 10d8 F
 **Critical**:: severe wound  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 1)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 1)

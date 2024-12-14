@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 6
-Environment: any urban (Colveare)  
+Environment: any urban (Colveare)
 hp: 75
-modifier: 2
+Initmod: 2
 name: Astriapi, Astriapi Warden
 statblock: true
 tags: 
-Type: LG Medium monstrous humanoid  
+Type: LG Medium monstrous humanoid
 ---
 
 # Astriapi, Astriapi Warden
@@ -20,7 +20,7 @@ According to pre-Gap records, the city-planet of Colveare formed when a caste of
 
 Some posit that Yaraesa granted visions through these dreams, while others see evidence of Oras’ evolutionary influence. Many astriapis, however, believe that the visions granted by the zhufera honey came from several gods.
 
-**Source**:: _Alien Archive 4 pg. 12_
+**Source**:  _Alien Archive 4 pg. 12_
 
 ## Astriapi Warden Cr 6
 

@@ -3,11 +3,22 @@ aliases:
 cr: 8
 Environment: any
 hp: 125
-modifier: 10
+Initmod: 10
 name: Bone Trooper, Bone Trooper Captain
 statblock: true
 tags: 
-Type: LE Medium undead  
+Type: LE Medium undead
+combatType: combatant
+alignment: LE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet: Eox
+organization:
+  - solitary
+  - crew(1) + bone trooper technomancer(5-10)
+source: Alien Archive 2
 ---
 
 # Bone Trooper, Bone Trooper Captain
@@ -22,7 +33,7 @@ A bone trooper looks like a fleshless skeleton with a cold, cunning light burnin
 
 ## Bone Trooper, Bone Trooper Captain
 
-**Source**:: _Alien Archive 2 pg. 22_
+**Source**:  _Alien Archive 2 pg. 22_
 
 ## Bone Trooper Captain Cr 8
 
@@ -62,3 +73,5 @@ LE Medium undead
 
 The following extra content was found for this creature:  
 \- Bone Trooper (Other) Graft Template
+
+

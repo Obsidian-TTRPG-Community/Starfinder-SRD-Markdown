@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 8 / 12 / 16
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ Though scientists understand little about how a vracinea’s paralyzing scent af
 **Price**:: 325  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ Though scientists understand little about how a vracinea’s paralyzing scent af
 ## _PHEROMONE Grenade, Mk 2_
 
 **Source**:: _Alien Archive 3 pg. 131_  
-**Level**:: 8;
-**Price**:: 1,400  
+**Level**:: 8
+**Price**:: 1400  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -40,10 +42,11 @@ Though scientists understand little about how a vracinea’s paralyzing scent af
 
 **Source**:: _Alien Archive 3 pg. 131_  
 **Level**:: 12
-**Price**:: 5,300  
+**Price**:: 5300  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ Though scientists understand little about how a vracinea’s paralyzing scent af
 ## _PHEROMONE Grenade, Mk 4_
 
 **Source**:: _Alien Archive 3 pg. 131_  
-**Level**:: 16;
-**Price**:: 26,000  
+**Level**:: 16
+**Price**:: 26000  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: drawn  
 **Bulk**:: L

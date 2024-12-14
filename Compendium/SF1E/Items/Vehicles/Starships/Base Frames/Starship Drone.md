@@ -8,14 +8,17 @@ tags:
 
 # Starship Drone
 
-**Source**
-**Size** Tiny  
-**Maneuverability** perfect (+2 Piloting, turn 0)  
-**HP** 15 (increment 5); **DT** —; **CT** 3  
-**Mounts** none  
-**Expansion Bays** —  
-**Minimum Crew** 0; **Maximum Crew** 0  
-**Cost** 3
+**Source**::
+**Size**:: Tiny  
+**Maneuverability**:: perfect (+2 Piloting, turn 0)  
+**HP**:: 15 (increment 5)
+**DT**:: —
+**CT**:: 3  
+**Mounts**:: none  
+**Expansion Bays**:: —  
+**Minimum Crew**:: 0
+**Maximum Crew**:: 0  
+**Cost**:: 3
 
 ### Special Abilities
 

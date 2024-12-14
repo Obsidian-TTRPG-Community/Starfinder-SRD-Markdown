@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 5 / 8 / 11 / 15
+
 NoteType: Armor
 price: 
 tags: 
@@ -14,44 +14,79 @@ These beautiful suits of heavy armor feature engraved metal bands that fit above
 ## Lashunta Ringwear, I
 
 **Source**:: _Starfinder Core Rulebook pg. 197_  
-**Level** 1;
-**Price**::  415; **Category** Heavy  
-**EAC Bonus** +2; **KAC Bonus** +4; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 0; **Bulk** 2
+**Level**:: 1
+**Price**::  415 
+**Category**:: Heavy  
+
+**EAC**:: +2 
+**KAC**:: +4 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 0 
+**Bulk**:: 2
 
 ## Lashunta Ringwear, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 5;
-**Price**::  2,970; **Category** Heavy  
-**EAC Bonus** +8; **KAC Bonus** +10; **Max. Dex Bonus** +2  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 1; **Bulk** 2
+**Level**:: 5
+**Price**::  2970 
+**Category**:: Heavy  
+
+**EAC**:: +8 
+**KAC**:: +10 
+**Max-Dex**:: +2  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 1 
+**Bulk**:: 2
 
 ## Lashunta Ringwear, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 8;
-**Price**::  8,420; **Category** Heavy  
-**EAC Bonus** +12; **KAC Bonus** +14; **Max. Dex Bonus** +3  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 3; **Bulk** 2
+**Level**:: 8
+**Price**::  8420 
+**Category**:: Heavy  
+
+**EAC**:: +12 
+**KAC**:: +14 
+**Max-Dex**:: +3  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 3 
+**Bulk**:: 2
 
 ## Lashunta Ringwear, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 11;
-**Price**::  27,100; **Category** Heavy  
-**EAC Bonus** +16; **KAC Bonus** +18; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -3; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 4; **Bulk** 2
+**Level**:: 11
+**Price**::  27100 
+**Category**:: Heavy  
+
+**EAC**:: +16 
+**KAC**:: +18 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -3 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 4 
+**Bulk**:: 2
 
 ## Lashunta Ringwear, V
 
 **Source**:: _Starfinder Core Rulebook pg. 198_  
-**Level** 15;
-**Price**::  94,200; **Category** Heavy  
-**EAC Bonus** +20; **KAC Bonus** +22; **Max. Dex Bonus** +4  
-**Armor Check Penalty** -2; **Speed Adjustment** -5 ft.  
-**Upgrade Slots** 5; **Bulk** 2
+**Level**:: 15
+**Price**::  94200 
+**Category**:: Heavy  
+
+**EAC**:: +20 
+**KAC**:: +22 
+**Max-Dex**:: +4  
+
+**Armor-Check-Penalty**:: -2 
+**Speed-Adjustment**:: -5 ft.  
+**Upgrade-slots**:: 5 
+**Bulk**:: 2

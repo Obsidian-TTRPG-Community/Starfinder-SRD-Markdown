@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2
+
 Notetype: Weapon
 price: 755
 tags: 
@@ -10,15 +10,14 @@ type: Longarms
 # Autotarget Rifle
 
 **Source**:: _Starfinder Core Rulebook pg. 176_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 755  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d6 P; **Range**:: 60 ft.;
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d6 P; 
+**Range**:: 60 ft.
 **Critical**:: —  
 **Capacity**:: 10 rounds; **Usage** 1  
-**Bulk**:: 2;
-**Special**:: analog, automatic
+**Bulk**:: 2**Special**:: analog, automatic
 
 # Description
 

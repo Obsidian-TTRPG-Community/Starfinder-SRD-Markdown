@@ -1,13 +1,25 @@
 ---
 aliases: 
 cr: 12
-Environment: any (Daimalko)  
+Environment: any (Daimalko)
 hp: 170
-modifier: 1
+Initmod: 1
 name: Damai, Damai Guardian
 statblock: true
 tags: 
-Type: N Medium humanoid (damai)  
+Type: N Medium humanoid (damai)
+combatType: spellcaster
+alignment: N
+size: medium
+type(subtype): humanoid(damai)
+environment: any
+climate: any
+planet: Daimalko
+organization:
+  - solitary
+  - pair
+  - adjudication(3-7)
+source: Alien Archive 2
 ---
 
 # Damai, Damai Guardian
@@ -28,7 +40,7 @@ Though some whisper that the magic flowing through the leaders is somehow tied t
 
 The average damai has gray skin, stands 6 feet tall, and weighs around 175 pounds.
 
-**Source**:: _Alien Archive 2 pg. 32_
+**Source**:  _Alien Archive 2 pg. 32_
 
 ## Damai Guardian Cr 12
 
@@ -82,3 +94,5 @@ At will—_mindlink_, _telepathic bond_
 The following extra content was found for this creature:  
 \- Damai (Creature Subtype) Graft Template  
 \- Damai Race Entry
+
+

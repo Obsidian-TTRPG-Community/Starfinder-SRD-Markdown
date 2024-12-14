@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 2 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Arc Pistol, Aurora
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 13;
-**Price**:: 45,700  
+**Level**:: 13
+**Price**:: 45700  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d6 E; **Range**:: 50 ft.;
+**Damage**:: 3d6 E; 
+**Range**:: 50 ft.
 **Critical**:: arc 2d6  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -31,11 +32,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Arc Pistol, Static
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 2;
+**Level**:: 2
 **Price**:: 750  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 E; **Range**:: 50 ft.;
+**Damage**:: 1d6 E; 
+**Range**:: 50 ft.
 **Critical**:: arc 2  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Arc Pistol, Storm
 
 **Source**:: _Starfinder Core Rulebook pg. 173_  
-**Level**:: 18;
-**Price**:: 365,500  
+**Level**:: 18
+**Price**:: 365500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 3d12 E; **Range**:: 50 ft.;
+**Damage**:: 3d12 E; 
+**Range**:: 50 ft.
 **Critical**:: arc 4d6  
 **Capacity**:: 100 charges; **Usage** 10  
 **Bulk**:: L

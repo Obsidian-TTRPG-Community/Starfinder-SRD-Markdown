@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4
+
 price: 375
 tags: [15:]
 Type: Technological Item
@@ -9,9 +9,10 @@ Type: Technological Item
 # Jammer charge
 
 **Source**:: _Tech Revolution pg. 49_, _Starfinder Sun Divers pg. 53_  
-**Level** 4;
+**Level**:: 4
 **Price**::  375  
-**Hands** —; **Bulk** 1
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

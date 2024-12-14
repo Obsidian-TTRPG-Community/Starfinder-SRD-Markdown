@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 9 / 14 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Neural Lash, Amperometric
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 9;
-**Price**:: 14,600  
+**Level**:: 9
+**Price**:: 14600  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d4 E;
+**Damage**:: 3d4 E
 **Critical**:: arc 2d4  
 **Bulk**:: L
 **Special**:: Living, powered (capacity 20; usage 1), reach, stun, thought, unwieldy
@@ -29,10 +29,10 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 4
-**Price**:: 2,230  
+**Price**:: 2230  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 E;
+**Damage**:: 1d4 E
 **Critical**:: arc 1d4  
 **Bulk**:: L
 **Special**:: Living, powered (capacity 20; usage 1), reach, stun, thought, unwieldy
@@ -41,10 +41,10 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 
 **Source**:: _Starfinder Armory pg. 45_  
 **Level**:: 14
-**Price**:: 79,400  
+**Price**:: 79400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d4 E;
+**Damage**:: 8d4 E
 **Critical**:: arc 4d4  
 **Bulk**:: L
 **Special**:: Living, powered (capacity 20; usage 1), reach, stun, thought, unwieldy
@@ -52,11 +52,11 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Neural Lash, Voltaic
 
 **Source**:: _Starfinder Armory pg. 45_  
-**Level**:: 20;
-**Price**:: 909,000  
+**Level**:: 20
+**Price**:: 909000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 8d10 E;
+**Damage**:: 8d10 E
 **Critical**:: arc 3d10  
 **Bulk**:: L
 **Special**:: Living, powered (capacity 20; usage 1), reach, stun, thought, unwieldy

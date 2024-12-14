@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 3 / 7 / 11 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,59 +16,49 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Storm Hammer, Antiferromagnetic
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 16;
-**Price**:: 145,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 12d6 B & E;
+**Level**:: 16
+**Price**:: 145000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 12d6 B & E
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Storm Hammer, Diamagnetic
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 3;
-**Price**:: 1,300  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 B & E;
+**Level**:: 3
+**Price**:: 1300  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d8 B & E
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Storm Hammer, Paramagnetic
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 7;
-**Price**:: 5,520  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 B & E;
+**Level**:: 7
+**Price**:: 5520  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 B & E
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Storm Hammer, Ferromagnetic
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 11;
-**Price**:: 22,900  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 B & E;
+**Level**:: 11
+**Price**:: 22900  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 6d6 B & E
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)
 
 ## Storm Hammer, Metamagnetic
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 20;
-**Price**:: 728,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 20d6 B & E;
+**Level**:: 20
+**Price**:: 728000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 20d6 B & E
 **Critical**:: knockdown  
-**Bulk**:: 1;
-**Special**:: powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: powered (capacity 20; usage 2)

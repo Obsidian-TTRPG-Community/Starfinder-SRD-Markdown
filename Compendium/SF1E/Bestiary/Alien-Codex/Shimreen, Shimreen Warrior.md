@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 5
-Environment: any (Shimrinsara)  
+Environment: any (Shimrinsara)
 hp: 74
-modifier: 7
+Initmod: 7
 name: Shimreen, Shimreen Warrior
 statblock: true
 tags: 
-Type: LN Medium humanoid (shimreen)  
+Type: LN Medium humanoid (shimreen)
 ---
 
 # Shimreen, Shimreen Warrior
@@ -21,7 +21,7 @@ The most popular legend about how shimreens came to be holds that the first shim
 Thanks to Shimrinsara’s endless source of energy, its citizens are employed chiefly in the pursuit of culture and trade, rather than toiling to gather resources. Two castes make up the majority of shimreen inhabitants: workers and warriors. Workers can have a variety of skilled occupations and include artisans, engineers, entertainers, and scientists. Warriors are mainly tasked with fending off attempted incursions from outsiders who covet the shimreens’ plentiful resources, though they are also skilled in hunting the wild creatures that survive unprotected in the planet’s harsh atmosphere.
 
 The seven glowing cities of Shimrinsara are called the Jewels of Shimreen, and the largest of these is Kaniqlu, where elected representatives from each city form a council of seven that governs the planet. While most shimreens are fiercely protective of their home world, they do enjoy engaging in trade with other cultures so that they may learn and grow. During shimreen holidays, citizens gather to watch parades featuring several battalions of warriors, all performing intricate routines that are a mixture of elegant, flowing dance and ruthlessly lethal combat maneuvers.
-**Source**:: _Alien Archive 3 pg. 96_
+**Source**:  _Alien Archive 3 pg. 96_
 
 ## Shimreen Warrior Cr 5
 

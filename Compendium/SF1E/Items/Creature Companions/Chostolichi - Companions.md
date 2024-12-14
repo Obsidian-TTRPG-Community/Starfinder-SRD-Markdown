@@ -1,13 +1,14 @@
 ---
 Type: Creature Companion
-Level: 4-20
+
 Type: Large undead  
 ---
 # CHOSTOLICHI - COMPANIONS
 **Source**:: _Galaxy Exploration Manual pg. 95_  
 Reanimated from several smaller bodies and fused into a vaguely saurian shape, chostolichi servitors develop a pack mentality that desperately seeks a leader.
 
-## CHOSTOLICHILEVELS 4-20
+## CHOSTOLICHI
+level:: 4-20
 
 Large undead  
 **Senses** darkvision 60 ft.  

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 8
 hp: 105
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: False Prophet
-statblock: true
-Subtype: Charlatans
+statblock: true(Charlatans
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # False Prophet

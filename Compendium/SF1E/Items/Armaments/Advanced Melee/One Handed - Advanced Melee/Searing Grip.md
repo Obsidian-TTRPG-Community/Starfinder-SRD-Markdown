@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5 / 11 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Searing Grip, High-heat
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 11;
-**Price**:: 25,200  
+**Level**:: 11
+**Price**:: 25200  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 3d8 F;
+**Damage**:: 3d8 F
 **Critical**:: burn 2d6  
 **Bulk**:: L
 **Special**:: grapple, powered (capacity 20; usage 2)
@@ -31,10 +31,10 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 39_  
 **Level**:: 5
-**Price**:: 3,010  
+**Price**:: 3010  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 F;
+**Damage**:: 1d6 F
 **Critical**:: burn 1d6  
 **Bulk**:: L
 **Special**:: grapple, powered (capacity 20; usage 2)
@@ -42,11 +42,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Searing Grip, Weaponized
 
 **Source**:: _Starfinder Armory pg. 39_  
-**Level**:: 18;
-**Price**:: 364,000  
+**Level**:: 18
+**Price**:: 364000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 11d6 F;
+**Damage**:: 11d6 F
 **Critical**:: burn 3d6  
 **Bulk**:: L
 **Special**:: grapple, powered (capacity 20; usage 2)

@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 5
+
 Notetype: Weapon
-price: 3,070
+price: 3070
 tags: 
 type: Advanced-Melee
 ---
@@ -12,10 +12,10 @@ type: Advanced-Melee
 
 **Source**:: _Starfinder Armory pg. 54_  
 **Level**:: 5
-**Price**:: 3,070  
+**Price**:: 3070  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d8 S;
+**Damage**:: 1d8 S
 **Critical**:: —  
 **Bulk**:: L
 **Special**:: analog, block

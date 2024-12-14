@@ -3,11 +3,23 @@ aliases:
 cr: 3
 Environment: any
 hp: 34
-modifier: 7
+Initmod: 7
 name: Bone Trooper, Bone Trooper Technomancer
 statblock: true
 tags: 
-Type: LE Medium undead  
+Type: LE Medium undead
+combatType: spellcaster
+alignment: LE
+size: medium
+type(subtype): undead(-)
+environment: any
+climate: any
+planet: Eox
+organization:
+  - solitary
+  - pair
+  - platoon(3-12)
+source: Alien Archive 2
 ---
 
 # Bone Trooper, Bone Trooper Technomancer
@@ -22,7 +34,7 @@ A bone trooper looks like a fleshless skeleton with a cold, cunning light burnin
 
 ## Bone Trooper, Bone Trooper Technomancer
 
-**Source**:: _Alien Archive 2 pg. 22_
+**Source**:  _Alien Archive 2 pg. 22_
 
 ## Bone Trooper Technomancer Cr 3
 
@@ -64,3 +76,5 @@ LE Medium undead
 
 The following extra content was found for this creature:  
 \- Bone Trooper (Other) Graft Template
+
+

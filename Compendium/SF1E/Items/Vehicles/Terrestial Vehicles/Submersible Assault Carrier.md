@@ -1,23 +1,29 @@
 ---
 aliases: 
-ItemLevel: 17
-NoteType: Terrestial Vehicles
-price: 825,000
+Item:
+NoteType: Terrestrial Vehicles
+price: 825000
 tags: 
 ---
 
 # Submersible Assault Carrier
 
 **Source**:: _Tech Revolution pg. 87_  
-**Item Level** 17;
-**Price**::  825,000  
+**Level**:: 17
+**Price**::  825000  
 Colossal water vehicle (80 ft. wide, 440 ft. long, 60 ft. high)  
-**Speed** 50 ft., full 500 ft., 55 mph (swim)  
-**EAC** 31; **KAC** 32; **Cover** total cover  
-**HP** 340 (170); **Hardness** 20  
+**Speed**:: 50 ft., full 500 ft., 55 mph (swim)  
+
+**EAC**:: 31; 
+**KAC**:: 32; 
+**Cover**:: total cover  
+**HP**:: 340 (170); 
+**Hardness**:: 20  
 **Attack (Collision)** 21d10 B (DC 16)  
-**Modifiers** –3 Piloting, –3 attack (–5 at full speed)  
-**Systems** autopilot (Piloting +30), hangar, launch catapults, unlimited comm unit; **Passengers** 250  
+
+**Modifiers**:: –3 Piloting, –3 attack (–5 at full speed)  
+**Systems**:: autopilot (Piloting +30), hangar, launch catapults, unlimited comm unit
+**Passengers**:: 250  
 
 ### Description
 

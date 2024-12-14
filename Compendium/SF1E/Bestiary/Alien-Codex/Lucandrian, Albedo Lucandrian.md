@@ -3,11 +3,11 @@ aliases:
 cr: 3
 Environment: any
 hp: 33
-modifier: 2
+Initmod: 2
 name: Lucandrian, Albedo Lucandrian
 statblock: true
 tags: 
-Type: N Medium fey  
+Type: N Medium fey
 ---
 
 # Lucandrian, Albedo Lucandrian
@@ -21,7 +21,7 @@ Because of their nature, lucandrians are drawn to worlds that have numerous moon
 Though lucandrians are an overall-peaceful species, they can be territorial, which has led to clashes with those interested in commercializing the moons on which these fey dwell. Lucandrians sometimes set their sights on inscrutable personal aims as they explore or develop their supernatural capabilities, bringing them into conflict with those around them. Lucandrians also fight to protect their secrets. Offering help, honest respect, or a gift can head off such clashes. Lucandrians treasure and defend young creatures of any species, perhaps because lucandrian offspring are difficult to create. Prospective parents combine tiny bits of soul with dust from a moon in a complex magical process, placing the mixture into an ovoid crystalline vessel. This “egg” gestates for 27 days. If the ritual is successful, a new lucandrian coalesces inside the vessel at that time, emerging as a small, yet fully formed lucandrian another 27 days later.
 
 
-**Source**:: _Alien Archive 3 pg. 68_
+**Source**:  _Alien Archive 3 pg. 68_
 
 ## Albedo Lucandrian Cr 3
 

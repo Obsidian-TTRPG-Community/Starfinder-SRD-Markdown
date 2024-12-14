@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 13-20
+
 Type: Large magical beast  
 ---
 # THAKASA - COMPANIONS
@@ -8,7 +8,8 @@ Type: Large magical beast
 **Source**:: _Alien Archive 3 pg. 146_  
 Thakasas are close evolutionary relatives of Castrovel’s shotalashus. Long before the Gap, they were the chosen mount of an aerial cavalry, but with the proliferation of flying vehicles, they have become much rarer.
 
-## THAKASALEVELS 13-20
+## THAKASA
+level:: 13-20
 
 Large magical beast  
 **Senses** darkvision 60 ft., low-light vision  

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 / 8 / 13 / 18
+
 Notetype: Weapon
 price: 
 tags: 
@@ -16,11 +16,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Wailing Blade, Euphonic
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 8;
-**Price**:: 9,080  
+**Level**:: 8
+**Price**:: 9080  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d8 S & So;
+**Damage**:: 2d8 S & So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 2)
@@ -28,11 +28,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Wailing Blade, Tymbal
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 3;
-**Price**:: 1,270  
+**Level**:: 3
+**Price**:: 1270  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 S & So;
+**Damage**:: 1d6 S & So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: powered (capacity 20; usage 2)
@@ -40,11 +40,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Wailing Blade, Strident
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 13;
-**Price**:: 47,100  
+**Level**:: 13
+**Price**:: 47100  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 6d6 S & So;
+**Damage**:: 6d6 S & So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: powered (capacity 40; usage 4)
@@ -52,11 +52,11 @@ Sonic weapons emit sonar waves at frequencies that are designed to injure or inc
 ## Wailing Blade, Warbler
 
 **Source**:: _Starfinder Armory pg. 51_  
-**Level**:: 18;
-**Price**:: 363,000  
+**Level**:: 18
+**Price**:: 363000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 15d6 S & So;
+**Damage**:: 15d6 S & So
 **Critical**:: deafen  
 **Bulk**:: L
 **Special**:: powered (capacity 80; usage 4)

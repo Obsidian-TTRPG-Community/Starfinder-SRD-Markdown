@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 8
 hp: 125
-modifier: 0
+Initmod: 0
 Monster Type: NPC
 name: Quantum Mage
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Quantum Mage

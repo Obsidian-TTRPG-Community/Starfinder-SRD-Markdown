@@ -1,13 +1,13 @@
 ---
 aliases: 
 cr: 9
-Environment: any (Nolasa)  
+Environment: any (Nolasa)
 hp: 144
-modifier: 4
+Initmod: 4
 name: Psacynoid, Gallant
 statblock: true
 tags: 
-Type: NG Medium monstrous humanoid  
+Type: NG Medium monstrous humanoid
 ---
 
 # Psacynoid, Gallant
@@ -22,7 +22,7 @@ Long ago, Nolasa’s psacynoids discovered that these caverns are infinite wells
 
 Psacynoids learned that each cavern created only certain types of magical crystals, much like certain seeds can take root only in the right soil and climate. One cavern’s magic could grow only crystals that harnessed electrical energy, while the gems from another could summon creatures from other planes. Psacynoids who cultivate these crystals are known as custodians, and must be versed in the same type of magic as the caverns in which they work. Some psacynoids train in martial arts to become gallants and guard the underground settlements against dangerous wildlife. Gallants often exhibit mystical prowess themselves and harness it during combat. Regardless of psacynoids’ focus, most exhibit aptitude for crafting magical crystals, such as spell gems and solarian weapon crystals.
 
-**Source**:: _Alien Archive 4 pg. 88_
+**Source**:  _Alien Archive 4 pg. 88_
 
 ## Gallant Cr 9
 

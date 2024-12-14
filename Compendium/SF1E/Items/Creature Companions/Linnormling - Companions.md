@@ -1,6 +1,6 @@
 ---
 Type: Creature Companion
-Level: 6-20
+
 Type: Tiny fey (aquatic)  
 ---
 # LINNORMLING - COMPANIONS
@@ -8,7 +8,8 @@ Type: Tiny fey (aquatic)
 **Source**:: _Interstellar Species pg. 82_  
 Despite their size, linnormlings claim to be descendants of the Eldest Ragadahn. They’re willful creatures yet offer their expertise with curses to anyone offering them proper tribute.
 
-## LINNORMLINGLEVELS 6-20
+## LINNORMLING
+level:: 6-20
 
 Tiny fey (aquatic)  
 **Senses** darkvision 60 ft.; low-light vision  

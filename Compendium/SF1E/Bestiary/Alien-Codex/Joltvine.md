@@ -1,18 +1,18 @@
 ---
 aliases: 
 cr: 1
-Environment: any land (Weydana-4)  
+Environment: any land (Weydana-4)
 hp: 20
-modifier: 4
+Initmod: 4
 name: Joltvine
 statblock: true
 tags: 
-Type: N Medium plant  
+Type: N Medium plant
 ---
 
 # Joltvine
 
-[[Alien_Joltvine.webp|Zeigen!]]
+[[Alien_Joltvine.webp|Zeigen!]
 
 ## Joltvine Cr 1
 

@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5
+
 price: 2800
 tags: 
 Type: Technological Item
@@ -11,8 +11,9 @@ Type: Technological Item
 **Source**:: _Ports of Call pg. 63_  
 **Level**:: 5
 **Price**:: 2800  
-**Capacity**:: 20; **Usage** 1/round  
-**Hands**:: 2; **Bulk**:: 1
+**Capacity**:: 20 **Usage** 1/round  
+**Hands**:: 2 
+**Bulk**:: 1
 
 ### Description
 

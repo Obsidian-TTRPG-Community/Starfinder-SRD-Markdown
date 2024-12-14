@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 9 / 14
+
 Notetype: Weapon
 price: 
 tags: 
@@ -14,38 +14,44 @@ Kaions’ ability to reel in all manner of prey has led to emulations of their e
 ## Sclerite Harpooner, Hook
 
 **Source**:: _Alien Archive 4 pg. 59_  
-**Level**:: 9;
-**Price**:: 13,000  
-**Hands**:: 2;
+**Level**:: 9
+**Price**:: 13000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 5d8 P; **Range**:: 120 ft.;
+**Damage**:: 5d8 P 
+**Range**:: 120 ft.
 **Critical**:: Embed 1d8  
-**Capacity**:: 50 sclerites; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 50 sclerites 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: Unwieldy
 
 ## Sclerite Harpooner, Lure
 
 **Source**:: _Alien Archive 4 pg. 59_  
 **Level**:: 4
-**Price**:: 2,000  
-**Hands**:: 2;
+**Price**:: 2000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d6 P; **Range**:: 90 ft.;
+**Damage**:: 2d6 P 
+**Range**:: 90 ft.
 **Critical**:: Embed 1d6  
-**Capacity**:: 25 sclerites; **Usage** 5  
-**Bulk**:: 2;
+**Capacity**:: 25 sclerites 
+**Usage** 5  
+**Bulk**:: 2
 **Special**:: Unwieldy
 
 ## Sclerite Harpooner, Lodestone
 
 **Source**:: _Alien Archive 4 pg. 59_  
 **Level**:: 14
-**Price**:: 70,000  
-**Hands**:: 2;
+**Price**:: 70000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 6d12 P; **Range**:: 150 ft.;
+**Damage**:: 6d12 P 
+**Range**:: 150 ft.
 **Critical**:: Embed 1d12  
-**Capacity**:: 100 sclerites; **Usage** 10  
-**Bulk**:: 3;
+**Capacity**:: 100 sclerites 
+**Usage** 10  
+**Bulk**:: 3
 **Special**:: Unwieldy

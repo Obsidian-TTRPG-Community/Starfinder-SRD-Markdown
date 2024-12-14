@@ -1,20 +1,20 @@
 ---
 aliases: 
 cr: 16
-Environment: any (Maelstrom)  
+Environment: any (Maelstrom)
 hp: 255
-modifier: 7
+Initmod: 7
 name: Protean, Durgastr
 statblock: true
 tags: 
-Type: CN Medium outsider (chaotic, extraplanar, protean,  
+Type: CN Medium outsider (chaotic, extraplanar, protean,
 ---
 
 # Protean, Durgastr
 
 As embodiments of chaos, most proteans remain in the comforting unpredictability of the Maelstrom, where they happily create and destroy at their ever-changing whims. Durgastrs in particular are explorers—often inadvertently. They delight in examining alternate realities, particularly planes that present imperfect reflections of each other, such as how the Shadow Plane and Ethereal Plane mirror aspects of the Material Plane. Where they find inspiring inconsistencies, durgastrs endeavor to overlay and fuse the strange realities into a multifaceted whole, often disrupting living creatures, cityscapes, and even whole ecosystems in the process.
 
-**Source**:: _Alien Archive 4 pg. 86_
+**Source**:  _Alien Archive 4 pg. 86_
 
 ## Durgastr Cr 16
 

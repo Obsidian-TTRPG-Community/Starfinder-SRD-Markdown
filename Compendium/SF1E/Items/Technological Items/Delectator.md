@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 3 
-price: 1,250
+
+price: 1250
 tags: 
 Type: Technological Item
 ---
@@ -11,8 +11,9 @@ Type: Technological Item
 **Source**:: _Tech Revolution pg. 46_  
 **Level**:: 3
 **Price**::  1250  
-**Capacity**:: 20; **Usage** 1/day  
-**Hands** —; **Bulk** —
+**Capacity**:: 20 **Usage** 1/day  
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 

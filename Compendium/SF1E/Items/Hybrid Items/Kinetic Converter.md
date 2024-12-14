@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 8 / 12 / 16
+
 price:  
 tags: 
 Type: Hybrid Item
@@ -19,31 +19,34 @@ The damage-to-distance conversion rate and daily uses of a _kinetic converter_�
 ## Kinetic Converter, Mk 1
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 8;
-**Price**::  10,500; **Bulk** L
+**Level**:: 8
+**Price**::  10500 
+**Bulk**:: L
 
 ### Description
 
-Distance 10 feet per 5 damage; one use
+Distance 10 feet per 5 damage one use
 
 ---
 
 ## Kinetic Converter, Mk 2
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 12;
-**Price**::  42,000; **Bulk** L
+**Level**:: 12
+**Price**::  42000 
+**Bulk**:: L
 
 ### Description
 
-Distance 5 feet per 5 damage; two uses
+Distance 5 feet per 5 damage two uses
 
 ## Kinetic Converter, Mk 3
 
 **Source**:: _Starfinder Armory pg. 123_  
-**Level** 16;
-**Price**::  172,000; **Bulk** L
+**Level**:: 16
+**Price**::  172000 
+**Bulk**:: L
 
 ### Description
 
-Distance 5 feet per 10 damage; three uses
+Distance 5 feet per 10 damage three uses

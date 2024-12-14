@@ -1,13 +1,28 @@
 ---
 aliases: 
 cr: 2
-Environment: any deserts, hills, or mountains (Akiton)  
+Environment: any deserts, hills, or mountains (Akiton)
 hp: 21
-modifier: 2
+Initmod: 2
 name: Ikeshti, Ikeshti Brood-Minder
 statblock: true
 tags: 
-Type: N Small humanoid (ikeshti)  
+Type: N Small humanoid (ikeshti)
+combatType: spellcaster
+alignment: N
+size: small
+type(subtype): humanoid(ikeshti)
+environment:
+  - deserts
+  - hills
+  - mountains
+climate: any
+planet: Akiton
+organization:
+  - solitary
+  - team(2-4)
+  - nest(5-12)
+source: Alien Archive
 ---
 
 # Ikeshti, Ikeshti Brood-minder
@@ -26,7 +41,7 @@ Congregants instinctively feel the need to ensure the success of ikeshti society
 
 Riveners are ikeshtis who were unable to find a mate while rutting and lost their personalities to the brew of hormones swirling inside them. They are bestial and irrational, remembering only the rudiments of language and unable to engage in more than low cunning. Riveners care only about killing, eating, and the thrill of battle. Ikeshtis who come across a rivener go to almost any lengths to put it down, as they believe the existence of these terrors brings shame to their race.
 
-**Source**:: _Alien Archive pg. 64_
+**Source**:  _Alien Archive pg. 64_
 
 ## Ikeshti Brood-minder Cr 2
 
@@ -68,3 +83,5 @@ N Small humanoid (ikeshti)
 ### Special Abilities
 
 **Squirt Blood (Ex)** Once per day as a move action, an ikeshti brood-minder can squirt blood from one of his eyes at a foe within 30 feet, making a ranged attack (+6 for most ikeshti brood-minders) against the target’s KAC. A successful hit grants the next ally who hits that foe the benefit of harrying fire against it (_Starfinder Core Rulebook_ 247).
+
+

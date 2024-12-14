@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 5 / 8 / 12 
+
 price:  
 tags: 
 Type: Technological Item
@@ -13,9 +13,10 @@ Nano gadget loadouts incorporate technological or personal items into their shap
 ## Nano Gadget Loadout, Belt
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 8;
+**Level**:: 8
 **Price**::  9650  
-**Hands** —; **Bulk** L
+**Hands** — 
+**Bulk**:: L
 
 ### Description
 
@@ -26,9 +27,10 @@ Can contain up to 5 items with light or negligible bulk.
 ## Nano Gadget Loadout, Wristband
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 5;
+**Level**:: 5
 **Price**::  3100  
-**Hands** —; **Bulk** —
+**Hands** — 
+**Bulk**:: —
 
 ### Description
 
@@ -37,9 +39,10 @@ Can contain up to 3 items of negligible bulk.
 ## Nano Gadget Loadout, Duster
 
 **Source**:: _Drift Crisis pg. 53_  
-**Level** 12;
+**Level**:: 12
 **Price**::  35400  
-**Hands** —; **Bulk** 1
+**Hands** — 
+**Bulk**:: 1
 
 ### Description
 

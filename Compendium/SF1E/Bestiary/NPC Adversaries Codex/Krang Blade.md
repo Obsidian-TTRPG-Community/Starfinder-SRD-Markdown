@@ -1,13 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 5
 hp: 70
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: Krang Blade
 statblock: true
 tags: 
-Type: Legendary Games NPC Codex
+type: Legendary Games NPC Codex
 ---
 
 # Krang Blade

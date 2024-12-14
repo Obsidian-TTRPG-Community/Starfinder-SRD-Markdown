@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 12 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,35 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Frost Projector, Blizzard-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 19;
-**Price**:: 680,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d10 C; **Range**:: 30 ft.;
+**Level**:: 19
+**Price**:: 680000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d10 C; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: integrated (2 slots)
+**Bulk**:: 1**Special**:: integrated (2 slots)
 
 ## Frost Projector, Frostbite-class
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 6;
-**Price**:: 5,100  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 C; **Range**:: 30 ft.;
+**Level**:: 6
+**Price**:: 5100  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 C; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: integrated (2 slots)
+**Bulk**:: 1**Special**:: integrated (2 slots)
 
 ## Frost Projector, Hailstorm-class
 
 **Source**:: _Starfinder Armory pg. 34_  
 **Level**:: 12
-**Price**:: 42,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d10 C; **Range**:: 30 ft.;
+**Price**:: 42000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d10 C; 
+**Range**:: 30 ft.
 **Critical**:: staggered  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: integrated (2 slots)
+**Bulk**:: 1**Special**:: integrated (2 slots)

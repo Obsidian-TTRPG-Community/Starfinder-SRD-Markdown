@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 6 / 14 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,11 +20,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Radshot, Electromagnetic
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 6;
-**Price**:: 4,010  
+**Level**:: 6
+**Price**:: 4010  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 2d4 F; **Range**:: 40 ft.;
+**Damage**:: 2d4 F; 
+**Range**:: 40 ft.
 **Critical**:: irradiate  
 **Capacity**:: 40 charges; **Usage** 1  
 **Bulk**:: L
@@ -34,10 +35,11 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 
 **Source**:: _Starfinder Armory pg. 38_  
 **Level**:: 14
-**Price**:: 69,500  
+**Price**:: 69500  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 5d4 F; **Range**:: 40 ft.;
+**Damage**:: 5d4 F; 
+**Range**:: 40 ft.
 **Critical**:: irradiate  
 **Capacity**:: 80 charges; **Usage** 2  
 **Bulk**:: L
@@ -46,11 +48,12 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Radshot, Rapid-decay
 
 **Source**:: _Starfinder Armory pg. 38_  
-**Level**:: 20;
-**Price**:: 767,000  
+**Level**:: 20
+**Price**:: 767000  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 11d4 F; **Range**:: 40 ft.;
+**Damage**:: 11d4 F; 
+**Range**:: 40 ft.
 **Critical**:: irradiate  
 **Capacity**:: 80 charges; **Usage** 4  
 **Bulk**:: L

@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 105
-modifier: 1
+Initmod: 1
 Monster Type: NPC
 name: Detective
-statblock: true
-Subtype: Investigators
+statblock: true(Investigators
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Detective

@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 8 
-price: 8,500
+
+price: 8500
 tags: 
 Type: Hybrid Item
 ---
@@ -9,8 +9,9 @@ Type: Hybrid Item
 # Void Projector
 
 **Source**:: _Drift Crisis pg. 93_  
-**Level** 8;
-**Price**::  8,500; **Bulk** L
+**Level**:: 8
+**Price**::  8500 
+**Bulk**:: L
 
 ### Description
 

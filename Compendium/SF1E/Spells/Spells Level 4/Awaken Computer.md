@@ -4,7 +4,7 @@ Level: 4
 School:transmutation 
 Mystic:
 Precog:
-Technomancer: "`ris:Checkbox`"
+Technomancer: X
 Witchwarper:
 ---
 # AWAKEN COMPUTER

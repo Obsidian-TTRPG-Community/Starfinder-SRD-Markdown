@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 7 / 11 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,64 +20,59 @@ Most flame weapons rely on a reactive blend of hydrocarbons called petrol for am
 ## Blaze Rifle, Firedrake-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 16;
-**Price**:: 153,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 5d10 F; **Range**:: 60 ft.;
+**Level**:: 16
+**Price**:: 153000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 5d10 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 4d6  
 **Capacity**:: 40 petrol; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Blaze Rifle, Ifrit-class
 
 **Source**:: _Starfinder Armory pg. 37_  
 **Level**:: 4
-**Price**:: 1,900  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 F; **Range**:: 40 ft.;
+**Price**:: 1900  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 F; 
+**Range**:: 40 ft.
 **Critical**:: burn 1d6  
 **Capacity**:: 40 petrol; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Blaze Rifle, Salamander-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 7;
-**Price**:: 5,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 2d8 F; **Range**:: 60 ft.;
+**Level**:: 7
+**Price**:: 5800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 2d8 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 2d6  
 **Capacity**:: 40 petrol; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Blaze Rifle, Hellhound-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 11;
-**Price**:: 23,200  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 F; **Range**:: 60 ft.;
+**Level**:: 11
+**Price**:: 23200  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 F; 
+**Range**:: 60 ft.
 **Critical**:: burn 3d6  
 **Capacity**:: 40 petrol; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ## Blaze Rifle, Pheonix-class
 
 **Source**:: _Starfinder Armory pg. 37_  
-**Level**:: 20;
-**Price**:: 765,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 9d10 F; **Range**:: 80 ft.;
+**Level**:: 20
+**Price**:: 765000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 9d10 F; 
+**Range**:: 80 ft.
 **Critical**:: burn 5d6  
 **Capacity**:: 40 petrol; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy

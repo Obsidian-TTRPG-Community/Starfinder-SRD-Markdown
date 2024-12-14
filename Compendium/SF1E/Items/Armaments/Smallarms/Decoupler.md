@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 4 / 8
+
 Notetype: Weapon
 price: 
 tags: 
@@ -22,7 +22,8 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 **Price**:: 430  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d4 A; **Range**:: 20 ft.;
+**Damage**:: 1d4 A; 
+**Range**:: 20 ft.
 **Critical**:: demoralize  
 **Capacity**:: 20 charges; **Usage** 2  
 **Bulk**:: L
@@ -32,10 +33,11 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 
 **Source**:: _Starfinder Armory pg. 36_  
 **Level**:: 4
-**Price**:: 2,300  
+**Price**:: 2300  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d6 A; **Range**:: 30 ft.;
+**Damage**:: 1d6 A; 
+**Range**:: 30 ft.
 **Critical**:: demoralize  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L
@@ -44,11 +46,12 @@ Available as pistols (small arms), rifles (longarms), and cannons (heavy weapons
 ## Decoupler, Screamer
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 8;
-**Price**:: 10,800  
+**Level**:: 8
+**Price**:: 10800  
 **Hands**:: 1
 **Proficiency**:: Small Arms  
-**Damage**:: 1d10 A; **Range**:: 30 ft.;
+**Damage**:: 1d10 A; 
+**Range**:: 30 ft.
 **Critical**:: demoralize  
 **Capacity**:: 40 charges; **Usage** 2  
 **Bulk**:: L

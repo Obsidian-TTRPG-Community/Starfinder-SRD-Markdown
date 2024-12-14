@@ -1,9 +1,9 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 3 
+
 Notetype: Weapon
-price: 1,050
+price: 1050
 tags: 
 type: Basic-Melee
 ---
@@ -11,14 +11,13 @@ type: Basic-Melee
 # Sledge
 
 **Source**:: _Starfinder Armory pg. 54_  
-**Level**:: 3;
-**Price**:: 1,050  
+**Level**:: 3
+**Price**:: 1050  
 **Hands**:: 1
 **Proficiency**:: Basic Melee  
-**Damage**:: 1d8 B;
+**Damage**:: 1d8 B
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: analog, unwieldy
+**Bulk**:: 1**Special**:: analog, unwieldy
 
 ### Description
 

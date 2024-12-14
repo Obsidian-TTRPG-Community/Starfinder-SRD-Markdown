@@ -1,14 +1,13 @@
 ---
-aliases: 
+aliases: ---
 cr: 7
 hp: 105
-modifier: 2
+Initmod: 2
 Monster Type: NPC
 name: False Prophet
-statblock: true
-Subtype: Scholars
+statblock: true(Scholars
 tags: 
-Type: Bestiary NPC
+type: Bestiary NPC
 ---
 
 # Field Biologist

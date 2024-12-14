@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 4 / 10 / 16
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,38 +20,44 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Energy Converter, Advanced
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 10;
-**Price**:: 20,900  
-**Hands**:: 2;
+**Level**:: 10
+**Price**:: 20900  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 2d8 C; **Range**:: 90 ft.;
+**Damage**:: 2d8 C 
+**Range**:: 90 ft.
 **Critical**:: staggered  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 3
 **Special**:: explode (15 ft.), unwieldy
 
 ## Energy Converter, Tactical
 
 **Source**:: _Starfinder Armory pg. 34_  
 **Level**:: 4
-**Price**:: 2,400  
-**Hands**:: 2;
+**Price**:: 2400  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 1d6 C; **Range**:: 90 ft.;
+**Damage**:: 1d6 C 
+**Range**:: 90 ft.
 **Critical**:: staggered  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 3
 **Special**:: explode (10 ft.), unwieldy
 
 ## Energy Converter, Elite
 
 **Source**:: _Starfinder Armory pg. 34_  
-**Level**:: 16;
-**Price**:: 198,000  
-**Hands**:: 2;
+**Level**:: 16
+**Price**:: 198000  
+**Hands**:: 2
 **Proficiency**:: Heavy  
-**Damage**:: 3d10 C; **Range**:: 100 ft.;
+**Damage**:: 3d10 C 
+**Range**:: 100 ft.
 **Critical**:: staggered  
-**Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 3;
+**Capacity**:: 20 charges 
+**Usage** 1  
+**Bulk**:: 3
 **Special**:: explode (20 ft.), unwieldy

@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: Two-Handed
-Level: 1 / 4 / 8 12 / 15 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -17,71 +17,59 @@ Shock weapons emit powerful electrical blasts that can damage and potentially st
 ## Polarity Gauntlets, Aurora
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 8;
-**Price**:: 10,600  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 E;
+**Level**:: 8
+**Price**:: 10600  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 2d6 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 1d6, powered (capacity 40; usage 4)
+**Bulk**:: 1**Special**:: operative, polarize 1d6, powered (capacity 40; usage 4)
 
 ## Polarity Gauntlets, Spark
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 1
 **Price**:: 410  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d3 E;
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d3 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 1d3, powered (capacity 20; usage 2)
+**Bulk**:: 1**Special**:: operative, polarize 1d3, powered (capacity 20; usage 2)
 
 ## Polarity Gauntlets, Static
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 4
-**Price**:: 2,350  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 E;
+**Price**:: 2350  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 1d6 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 1d4, powered (capacity 40; usage 2)
+**Bulk**:: 1**Special**:: operative, polarize 1d4, powered (capacity 40; usage 2)
 
 ## Polarity Gauntlets, Current
 
 **Source**:: _Starfinder Armory pg. 48_  
 **Level**:: 12
-**Price**:: 39,100  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 3d6 E;
+**Price**:: 39100  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 3d6 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 2d6, powered (capacity 80; usage 4)
+**Bulk**:: 1**Special**:: operative, polarize 2d6, powered (capacity 80; usage 4)
 
 ## Polarity Gauntlets, Storm
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 15;
-**Price**:: 122,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 E;
+**Level**:: 15
+**Price**:: 122000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 5d6 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 2d6, powered (capacity 80; usage 8)
+**Bulk**:: 1**Special**:: operative, polarize 2d6, powered (capacity 80; usage 8)
 
 ## Polarity Gauntlets, Tempest
 
 **Source**:: _Starfinder Armory pg. 48_  
-**Level**:: 19;
-**Price**:: 615,000  
-**Hands**:: 2;
-**Proficiency**:: Advanced Melee  
-**Damage**:: 9d6 E;
+**Level**:: 19
+**Price**:: 615000  
+**Hands**:: 2**Proficiency**:: Advanced Melee  
+**Damage**:: 9d6 E
 **Critical**:: —  
-**Bulk**:: 1;
-**Special**:: operative, polarize 3d6, powered (capacity 100; usage 10)
+**Bulk**:: 1**Special**:: operative, polarize 3d6, powered (capacity 100; usage 10)

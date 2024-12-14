@@ -1,7 +1,7 @@
 ---
 aliases: 
-Level: 16
-price: 45,000
+
+price: 45000
 tags: 
 Type: Technological Item
 ---
@@ -9,9 +9,10 @@ Type: Technological Item
 # Regenaration Table
 
 **Source**:: _Starfinder Core Rulebook pg. 219_  
-**Level** 16;
-**Price**::  45,000  
-**Hands** 2; **Bulk** 20
+**Level**:: 16
+**Price**::  45000  
+**Hands** 2 
+**Bulk**:: 20
 
 ### Description
 

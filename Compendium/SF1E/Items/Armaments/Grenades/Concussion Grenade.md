@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 1 / 3 / 6 / 10 / 14
+
 price: 
 tags: 
 type: Grenades
@@ -17,7 +17,8 @@ The powerful blast from a concussion grenade causes a small shockwave that blast
 **Price**:: 50  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -26,11 +27,12 @@ The powerful blast from a concussion grenade causes a small shockwave that blast
 ## Concussion Grenade, Mk 2
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 3;
+**Level**:: 3
 **Price**:: 230  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -39,11 +41,12 @@ The powerful blast from a concussion grenade causes a small shockwave that blast
 ## Concussion Grenade, Mk 3
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 615  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -52,11 +55,12 @@ The powerful blast from a concussion grenade causes a small shockwave that blast
 ## Concussion Grenade, Mk 4
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
-**Level**:: 10;
-**Price**:: 2,600  
+**Level**:: 10
+**Price**:: 2600  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L
@@ -66,10 +70,11 @@ The powerful blast from a concussion grenade causes a small shockwave that blast
 
 **Source**:: _Galaxy Exploration Manual pg. 42_  
 **Level**:: 14
-**Price**:: 9,800  
+**Price**:: 9800  
 **Hands**:: 1
 **Proficiency**:: Grenade  
-**Damage**:: — **Range**:: 20 ft.;
+**Damage**:: — 
+**Range**:: 20 ft.
 **Critical**:: —  
 **Capacity**:: Drawn  
 **Bulk**:: L

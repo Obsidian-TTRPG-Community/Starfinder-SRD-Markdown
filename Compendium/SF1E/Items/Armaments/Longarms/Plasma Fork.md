@@ -1,6 +1,6 @@
 ---
 aliases: 
-Level: 3 / 8 / 14 / 19
+
 Notetype: Weapon
 price: 
 tags: 
@@ -20,51 +20,47 @@ Followers of Sarenrae popularized terms for the different intensities of plasma 
 ## Plasma Fork, 12-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 3;
-**Price**:: 1,290  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d8 E & F; **Range**:: 60 ft.;
+**Level**:: 3
+**Price**:: 1290  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d8 E & F; 
+**Range**:: 60 ft.
 **Critical**:: knockdown  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 1d4
+**Bulk**:: 1**Special**:: boost 1d4
 
 ## Plasma Fork, 15-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 8;
-**Price**:: 8,850  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 1d10 E & F; **Range**:: 80 ft.;
+**Level**:: 8
+**Price**:: 8850  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 1d10 E & F; 
+**Range**:: 80 ft.
 **Critical**:: knockdown  
 **Capacity**:: 20 charges; **Usage** 1  
-**Bulk**:: 1;
-**Special**:: boost 1d10
+**Bulk**:: 1**Special**:: boost 1d10
 
 ## Plasma Fork, 19-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
 **Level**:: 14
-**Price**:: 64,800  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 3d10 E & F; **Range**:: 80 ft.;
+**Price**:: 64800  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 3d10 E & F; 
+**Range**:: 80 ft.
 **Critical**:: knockdown  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: boost 2d10
+**Bulk**:: 1**Special**:: boost 2d10
 
 ## Plasma Fork, 22-NOTCH
 
 **Source**:: _Starfinder Armory pg. 42_  
-**Level**:: 19;
-**Price**:: 750,000  
-**Hands**:: 2;
-**Proficiency**:: Longarms  
-**Damage**:: 6d10 E & F; **Range**:: 100 ft.;
+**Level**:: 19
+**Price**:: 750000  
+**Hands**:: 2**Proficiency**:: Longarms  
+**Damage**:: 6d10 E & F; 
+**Range**:: 100 ft.
 **Critical**:: knockdown  
 **Capacity**:: 40 charges; **Usage** 2  
-**Bulk**:: 1;
-**Special**:: boost 3d10
+**Bulk**:: 1**Special**:: boost 3d10

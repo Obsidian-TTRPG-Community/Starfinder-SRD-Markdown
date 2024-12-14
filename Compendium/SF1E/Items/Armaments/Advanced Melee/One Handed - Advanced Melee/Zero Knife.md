@@ -1,7 +1,7 @@
 ---
 aliases: 
 Hands: One-Handed
-Level: 4 / 7 / 12 / 16 / 20
+
 Notetype: Weapon
 price: 
 tags: 
@@ -18,11 +18,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Knife, Avalanche-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 16;
-**Price**:: 145,000  
+**Level**:: 16
+**Price**:: 145000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 5d6 C;
+**Damage**:: 5d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: conceal, operative, powered (capacity 40; usage 1)
@@ -31,10 +31,10 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 36_  
 **Level**:: 4
-**Price**:: 2,810  
+**Price**:: 2810  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d4 C;
+**Damage**:: 1d4 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: conceal, operative, powered (capacity 40; usage 1)
@@ -42,11 +42,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Knife, Hailstorm-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 7;
-**Price**:: 5,540  
+**Level**:: 7
+**Price**:: 5540  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 1d6 C;
+**Damage**:: 1d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: conceal, operative, powered (capacity 40; usage 1)
@@ -55,10 +55,10 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 
 **Source**:: _Starfinder Armory pg. 36_  
 **Level**:: 12
-**Price**:: 32,400  
+**Price**:: 32400  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 2d6 C;
+**Damage**:: 2d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: conceal, operative, powered (capacity 40; usage 1)
@@ -66,11 +66,11 @@ One of the most popular lines of cryo weapons are zero weapons, including zero c
 ## Zero Knife, Icequake-class
 
 **Source**:: _Starfinder Armory pg. 36_  
-**Level**:: 20;
-**Price**:: 729,000  
+**Level**:: 20
+**Price**:: 729000  
 **Hands**:: 1
 **Proficiency**:: Advanced Melee  
-**Damage**:: 7d6 C;
+**Damage**:: 7d6 C
 **Critical**:: staggered  
 **Bulk**:: L
 **Special**:: conceal, operative, powered (capacity 40; usage 1)

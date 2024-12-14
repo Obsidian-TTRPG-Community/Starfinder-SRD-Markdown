@@ -1,24 +1,24 @@
 ---
-aliases: 
+aliases: []
 Level: 2
 Mystic: X
 NoteType: Spell
 Precog: 
 
-tags: 
+tags: []
 Technomancer: 
 Witchwarper: 
 ---
 
 # Hurl Forcedisk
 
-**Source**:: _Starfinder Core Rulebook pg. 360_  
-**Classes**:: Mystic 2  
-**School**:: evocation (force)  
-**Casting-Time**:: 1 standard action  
-**Range**:: medium (100 ft. +10 ft./level)  
-**Targets**:: up to five creatures; see text  
-**Duration**:: instantaneous  
+**Source**:: _Starfinder Core Rulebook pg. 360_
+**Classes**:: Mystic 2
+**School**:: evocation (force)
+**Casting-Time**:: 1 standard action
+**Range**:: medium (100 ft. +10 ft./level)
+**Targets**:: up to five creatures; see text
+**Duration**:: instantaneous
 **Saving-Throw**:: None
 **Spell Resistance**:: yes
 

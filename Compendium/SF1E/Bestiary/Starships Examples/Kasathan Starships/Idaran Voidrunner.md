@@ -12,17 +12,28 @@ type: Tiny racer
 >  [[Starship_IdaranVoidrunner.jpg|Spielern zeigen!]
 > 
 
-Tiny racer, **Tier** 1/3 
-**Speed** 12; **Maneuverability** perfect (turn 0); **Drift** —  
-**AC** 15; **TL** 14  
-**HP** 20; **DT** —; **CT** 4  
-**Shields** basic 10 (forward 3, port 2, starboard 2, aft 3)  
-**Attack (Forward)** gyrolaser (1d8)  
-**Power Core** Micron Heavy (70 PCU); **Drift Engine** none; **Systems** basic computer, basic mid-range sensors, mk 2 armor, mk 1 defenses; **Expansion Bays** none; **Modifiers** +2 Computers, +1 Piloting; **Complement** 1
+Tiny racer, Tier 1/3 
+Speed: 12
+Maneuverability perfect (turn 0)
+Drift —  
+AC 15
+TL 14  
+HP: 20
+DT —
+CT 4  
+Shields basic 10 (forward 3, port 2, starboard 2, aft 3)  
+Attack (Forward) gyrolaser (1d8)  
+Power Core Micron Heavy (70 PCU)
+Drift Engine none
+Systems basic computer, basic mid-range sensors, mk 2 armor, mk 1 defenses
+Expansion Bays none
+Modifiers +2 Computers, +1 Piloting
+Complement 1
 
 ### Crew
 
-**Pilot** Computers +7 (1 rank), gunnery +3, Piloting +11 (1 rank)
+Pilot Computers +7 (1 rank), gunnery +3
+  - Piloting: +11 (1 rank)
 
 ## Description
 

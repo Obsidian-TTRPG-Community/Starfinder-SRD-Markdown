@@ -6,9 +6,9 @@ tags:
 # Longarms
 
 ``` dataview
-TABLE
-Level, Price, Damage, Critical
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Longarms"
+TABLE WITHOUT ID
+file.link AS "Weapon", Level, Price, Damage, Critical
+FROM "Compendium/SF1E/Items/Armaments/Longarms"
 SORT Level ASC
 WHERE file.name != "Longarms"
 ```

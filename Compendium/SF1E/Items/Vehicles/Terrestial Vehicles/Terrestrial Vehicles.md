@@ -9,7 +9,7 @@ tags:
 ``` dataview
 TABLE
 Price, Level
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Terrestrial Vehicles"
+FROM "Starfinder-SRD/Compendium/Items/Vehicles/Terrestrial Vehicles"
 SORT Level ASC
 WHERE file.name != "Terrestrial Vehicles"
 ```

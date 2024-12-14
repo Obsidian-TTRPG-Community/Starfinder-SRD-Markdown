@@ -20,7 +20,7 @@ A solarian weapon crystal is a hybrid item that blends magic and technology. Whe
 ``` dataview
 TABLE
 Level, Damage, Critical, Special, Price
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Solarian Weapon Crystals"
+FROM "Starfinder-SRD/Compendium/Items/Armaments/Solarian Weapon Crystals"
 SORT Level ASC
 WHERE file.name != "Solarian Weapon Crystals"
 ```

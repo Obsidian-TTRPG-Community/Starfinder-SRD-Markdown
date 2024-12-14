@@ -1,24 +1,24 @@
 ---
-aliases: 
-Level: Multilevel
-Mystic: 
+aliases: []
+Level: 
+Mystic: false
 NoteType: Spell
-Precog: 
-
-tags: 
-Technomancer: 1-6
-Witchwarper: 1-6
+Precog: false
+tags: []
+Technomancer: true
+Witchwarper: true
+multilevel: true
 ---
 
 # Adamantine Shot
 
-**Source**:: _Galactic Magic pg. 67_  
-**Classes**:: Technomancer 1-6, Witchwarper 1-6  
-**School**:: transmutation  
-**Casting-Time**:: 1 standard action  
-**Range**:: close (25 ft. + 5 ft./2 levels)  
-**Targets**:: up to three creatures  
-**Duration**:: instantaneous  
+**Source**:: _Galactic Magic pg. 67_
+**Classes**:: Technomancer 1-6, Witchwarper 1-6
+**School**:: transmutation
+**Casting-Time**:: 1 standard action
+**Range**:: close (25 ft. + 5 ft./2 levels)
+**Targets**:: up to three creatures
+**Duration**:: instantaneous
 **Saving-Throw**:: None
 **Spell Resistance**:: No
 

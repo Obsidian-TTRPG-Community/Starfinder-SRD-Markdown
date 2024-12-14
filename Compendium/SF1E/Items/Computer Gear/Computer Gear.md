@@ -11,7 +11,7 @@ Computers control most of the modern tools and conveniences in the Starfinder un
 ``` dataview
 TABLE
 Category, price
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Computer Gear"
+FROM "Compendium/SF1E/Items/Computer Gear"
 SORT Category ASC
 WHERE !contains(file.name, "Computer")
 ```

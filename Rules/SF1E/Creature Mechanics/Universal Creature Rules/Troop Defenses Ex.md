@@ -3,10 +3,9 @@ aliases:
 tags: [21:]
 ---
 
-# Troop Defenses (EX)
-
-**Source** _Starfinder Huskworld pg. 61_  
-Troops take damage from attacks differently depending on how the attack targets them.
+name:: Troop Defenses (EX)
+source:: _Starfinder Huskworld pg. 61_  
+desc:: Troops take damage from attacks differently depending on how the attack targets them.
 
 A troop takes half damage from attacks that effect a single target (such as shot from a semi-auto pistol). A troop is immune to effects that target a specific number of creatures (including single-target spells and multiple-target spells such as _haste_).
 

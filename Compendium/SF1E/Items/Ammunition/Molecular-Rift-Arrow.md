@@ -5,7 +5,7 @@ level: "18"
 price: 53700
 source: Starfinder Armory pg. 55
 tags:
-  - sf1e/items/ammunition
+  - ammunition
 type:
   - Arrow
 ---
@@ -13,8 +13,8 @@ type:
 # Molecular-rift Arrow
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 18;
-**Price**:: 53,700  
+**Level**:: 18
+**Price**:: 53700  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

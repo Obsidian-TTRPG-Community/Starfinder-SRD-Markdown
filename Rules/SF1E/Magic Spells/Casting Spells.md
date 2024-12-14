@@ -3,7 +3,7 @@ aliases:
 tags: 
 ---
 **Source** _Starfinder Core Rulebook pg. 330_  
-When your Starfinder character casts a spell, she is harnessing the latent magical energy that permeates the universe to achieve specific, measured effects. Whether you’re playing a mystic or a technomancer, or a character who has gained the ability to manipulate magical energies through some other more unusual means, casting a spell in Starfinder follows one basic process, as described below. A cast spell always has obvious effects that are noticeable by nearby creatures; it is not possible to clandestinely cast a spell. For information about casting a spell as a spell-like ability, see Spell-Like Abilities on page 262.  
+When your Starfinder character casts a spell, she is harnessing the latent magical energy that permeates the universe to achieve specific, measured effects. Whether you’re playing a mystic or a technomancer, or a character who has gained the ability to manipulate magical energies through some other more unusual means, casting a spell in Starfinder follows one basic process, as described below. A cast spell always has obvious effects that are noticeable by nearby creatures; it is not possible to clandestinely cast a spell. For information about casting a spell as a spell-like ability, see [[Special Abilities#Spell-like Abilities (SP)|spell-like abilities]].  
 
 # Choosing a Spell
 
@@ -17,7 +17,7 @@ When you cast a spell, you can select any spell you know, provided you are capab
 **Source** _Starfinder Core Rulebook pg. 330_  
 Once you’ve chosen a spell to cast, take note of its spell level, and then determine the caster level at which you cast it. A spell’s spell level (also referred to as simply “a spell’s level”) defines at what class level you can cast the spell. In the case of variable-level spells, the spell’s level determines the spell’s exact effects (see Variable-Level Spells below). On the other hand, the caster level at which you cast a spell governs many aspects of how the spell works, often including its range and duration. The following sections further describe and differentiate spell level and caster level.  
   
-Some of the rules in this chapter make reference to spell slots. The number of spell slots of any given level that you have is equal to the number of spells of that level that you can cast each day (for details about exactly when you regain your daily spell slots, see Regaining Daily-Use Abilities and Spells on page 262).  
+Some of the rules in this chapter make reference to spell slots. The number of spell slots of any given level that you have is equal to the number of spells of that level that you can cast each day (for details about exactly when you regain your daily spell slots, see[[Special Abilities#Regaining Daily-use Abilities and Spells|Regaining Daily-Use Abilities and Spells]]).  
   
 When the rules say you must have an available spell slot, it means that you can’t have cast all of your spells per day of that level. When the rules say that you lose a spell slot or the spell fails, that means that you have expended one of the total number of spells of that level that you can cast per day.
 

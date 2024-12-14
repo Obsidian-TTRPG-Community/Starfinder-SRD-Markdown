@@ -1,8 +1,8 @@
 ---
 aliases: 
-
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -17,7 +17,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Phasing, I Longarm and Sniper Rounds
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 7;
+**Level**:: 7
 **Price**:: 820  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -31,7 +31,7 @@ Special weapons resist classification into any other category. Some adventurers 
 
 **Source**:: _Starfinder Armory pg. 55_  
 **Level**:: 14
-**Price**:: 9,420  
+**Price**:: 9420  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

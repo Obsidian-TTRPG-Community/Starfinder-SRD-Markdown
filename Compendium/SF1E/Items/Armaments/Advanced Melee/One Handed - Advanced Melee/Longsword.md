@@ -1,22 +1,22 @@
 ---
-aliases: 
+aliases: []
 Hands: One-Handed
 
 Notetype: Weapon
 price: 
-tags: 
+tags: []
 type: Advanced-Melee
 ---
 
 # Longsword
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 20
-**Price**:: 727300  
+**Price**:: 727300
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 14d8 S
-**Critical**:: —  
+**Critical**:: —
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -25,13 +25,13 @@ The ultimate advancement in metallurgic technology, designed by a tech firm owne
 
 ## Longsword, Standard
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 1
-**Price**:: 375  
+**Price**:: 375
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 1d8 S
-**Critical**:: —  
+**Critical**:: —
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -40,13 +40,13 @@ A longsword is a straight, double-edged blade that typically protrudes from a ha
 
 ## Longsword, Sintered
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 7
-**Price**:: 8420  
+**Price**:: 8420
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 2d8 S
-**Critical**:: —  
+**Critical**:: —
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -55,13 +55,13 @@ A sintered longsword is made of compacted ceramics, forming a durable and finely
 
 ## Longsword, Microserrated
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 9
-**Price**:: 12100  
+**Price**:: 12100
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 2d10 S
-**Critical**:: bleed 2d6  
+**Critical**:: bleed 2d6
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -70,13 +70,13 @@ The single edge of this sword looks homogeneous to the naked eye, but it is actu
 
 ## Longsword, Ultrathin
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 11
-**Price**:: 26300  
+**Price**:: 26300
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 4d8 S
-**Critical**:: —  
+**Critical**:: —
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -85,13 +85,13 @@ The double-edged blade of an ultrathin longsword is made of dense metal that hol
 
 ## Longsword, Zero-edge
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 14
-**Price**:: 79500  
+**Price**:: 79500
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 7d8 S
-**Critical**:: severe wound  
+**Critical**:: severe wound
 **Bulk**:: L
 **Special**:: analog
 
@@ -101,13 +101,13 @@ Crafted with quantum technology, the blade of this sword seems blurry due to its
 
 ## Longsword, Molecular Rift
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 17
-**Price**:: 245200  
+**Price**:: 245200
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 10d8 S
-**Critical**:: —  
+**Critical**:: —
 **Bulk**:: 1**Special**:: analog
 
 ### Description
@@ -116,13 +116,13 @@ The molecules of this longsword have been artificially agitated, creating a deva
 
 ## Longsword, Ultraserrated
 
-**Source**:: _Starfinder Core Rulebook pg. 172_  
+**Source**:: _Starfinder Core Rulebook pg. 172_
 **Level**:: 18
-**Price**:: 368100  
+**Price**:: 368100
 **Hands**:: 1
-**Proficiency**:: Advanced Melee  
+**Proficiency**:: Advanced Melee
 **Damage**:: 8d10 S
-**Critical**:: bleed 6d6  
+**Critical**:: bleed 6d6
 **Bulk**:: 1**Special**:: analog
 
 ### Description

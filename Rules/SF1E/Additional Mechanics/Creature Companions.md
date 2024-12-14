@@ -1,11 +1,11 @@
 ---
-aliases: 
-tags: 
+aliases: []
+tags: []
 ---
 
 # Creature Companion Rules
 
-**Source** _Alien Archive 3 pg. 149_  
+**Source** _Alien Archive 3 pg. 149_
 The solitude of space can prove tough to bear for even the most hardened soloist. It's no wonder, then, that across the entire galaxy, members of countless species take up creature companions ranging from show pets to emotional support animals to combat-ready mounts. Whether such a pairing is born of cultural tradition, lucky happenstance, or even reluctant necessity, few bonds are stronger.
 
 This section presents rules for creature companions in Starfinder. Whether you want a pet that primarily participates in roleplay, a combat-ready tactical ally, or some blend of the two, this system has you covered! First, Gaining a Creature Companion explains how to secure your own companion. Next, Creature Companions in Combat and Creature Companion Mounts introduce the feats needed to control your companion, as well as rules for utilizing it in combat and as a mount. On page 141, Creating Companions provides statistics for a creature companion of any level, followed by a number of common creature companions in the Pact Worlds. Finally, Creature Companion Equipment on page 147 has equipment you might find useful in conjunction with your creature companion.
@@ -42,28 +42,28 @@ If you're riding your creature companion as a mount, it may also have other opti
 
 The following are the only actions a creature companion can take unless otherwise stated.
 
-**Standard**  
-Attack  
-Fight defensively  
+**Standard**
+Attack
+Fight defensively
 Total defense
 
-**Move**  
-Crawl  
-Guarded step  
-Move your speed  
+**Move**
+Crawl
+Guarded step
+Move your speed
 Stand up
 
-**Swift**  
+**Swift**
 Drop prone
 
-**Full\***  
-Charge  
-Fight defensively  
-Full attack  
-Run  
+**Full\***
+Charge
+Fight defensively
+Full attack
+Run
 Withdraw
 
-**Reaction\***  
+**Reaction\***
 Attack of opportunity
 
 \*These actions are available only if you have the appropriate creature companion feat.
@@ -145,7 +145,6 @@ At the GM's discretion, you can work with them to create a custom creature compa
 | 19    | 480,000 | 275        | +23          | 9d8+19  | 34  | 37  | +13             | +9              | +5, +4            | +26         |
 | 20    | 720,000 | 300        | +23          | 13d6+20 | 35  | 38  | +14             | +9              | +5, +4            | +27         |
 
-
 Use the following information to determine your creature companion's statistics. Use the statistics presented on the table without applying ability modifiers unless otherwise stated.
 
 **Level**: Your creature companion's statistics, and sometimes its abilities, are based on its level.
@@ -170,6 +169,8 @@ Use the following information to determine your creature companion's statistics.
 
 Most creature companions can't use standard equipment, including weapons, armor, augmentations, and so forth. The following equipment is widely available and designed specifically for use with creature companions, accommodating virtually every kind and size of creature. Most adventurers purchase an environmental field collar to protect their companion from any hazards—expected or otherwise.
 
-[[Environmental Field Collar]] 
-[[Pet Carrier]] 
-[[Riding Saddle]] 
+[[Environmental Field Collar]]
+
+[[Pet Carrier]]
+
+[[Riding Saddle]]

@@ -8,33 +8,41 @@ type: N Small starship magical beast
 
 # Swarming Telelith
 
-N Small starship magical beast, **Tier** 2
-**Speed** 12; **Maneuverability** perfect (turn 0); **Drift** —  
-**AC** 17; **TL** 17  
-**HP** 35; **DT** —; **CT** 7  
-**Shields** light 50 (forward 13, port 12, starboard 12, aft 13)  
-**Attack (Forward)** slam (6d4)  
-**Attack (Turret)** hurl debris (4d4)  
-**Power Core** small telelith heart (120 PCU); **Drift Engine** none; **Systems** mk 4 armor, mk 4 defenses; **Expansion Bays** none
+N Small starship magical beast, Tier 2
+Speed: 12
+Maneuverability perfect (turn 0)
+Drift —  
+AC 17
+TL 17  
+HP: 35
+DT —
+CT 7  
+Shields light 50 (forward 13, port 12, starboard 12, aft 13)  
+Attack (Forward) slam (6d4)  
+Attack (Turret) hurl debris (4d4)  
+Power Core small telelith heart (120 PCU)
+Drift Engine none
+Systems mk 4 armor, mk 4 defenses
+Expansion Bays none
 
 ### Crew
 
-**Engineer (1 action)** Engineering +12 (2 ranks)  
-**Gunner (1 action)** gunnery +6 (2nd level)  
-**Pilot (1 action)** Piloting +13 (2 ranks)
+Engineer (1 action) Engineering +12 (2 ranks)  
+Gunner (1 action) gunnery +6 (2nd level)  
+Pilot (1 action) Piloting +13 (2 ranks)"
 
 ### Ecology
 
-**Environment** any vacuum or the Drift  
-**Organization** solitary, pair, or knot (3–12)
+Environment any vacuum or the Drift  
+Organization solitary, pair, or knot (3–12)
 
 ### Special Abilities
 
-**Auto-Destruct (Ex)** When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
+Auto-Destruct (Ex) When a swarming telelith drops to 0 Hull Points, it explodes as if it activated a self-destruct system.
 
-**Hurl Debris (Ex)** A swarming telelith can hurl debris at short range. This weapon has the point (+8) special property.
+Hurl Debris (Ex) A swarming telelith can hurl debris at short range. This weapon has the point (+8) special property.
 
-**Living Starship (Ex)** A swarming telelith is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below when the swarming telelith takes critical damage. A telelith’s brain can’t gain the wrecked condition.
+Living Starship (Ex) A swarming telelith is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the table below when the swarming telelith takes critical damage. A telelith’s brain can’t gain the wrecked condition.
 
 | D%     | SYSTEM             | EFFECT                                                                           |
 |--------|--------------------|----------------------------------------------------------------------------------|
@@ -43,7 +51,7 @@ N Small starship magical beast, **Tier** 2
 | 61–90  | Heart              | Condition applies to all engineer actions except patching or repairing the heart |
 | 91–100 | Brain              | Condition applies to all actions                                                 |
 
-**Slam (Ex)** A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
+Slam (Ex) A telelith can use its slam only against a target in an adjacent hex. This attack has the ripper special property.
 
 ## Description
 

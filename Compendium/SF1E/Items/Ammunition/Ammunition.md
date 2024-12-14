@@ -7,9 +7,8 @@ tags: #sf1e/items
 
 ``` dataview
 TABLE without ID
-link(file.path, aliases) as Name,
-level, price, type
-FROM #sf1e/items/ammunition 
+file.link as "Name", level, Price
+FROM #ammunition 
 SORT Level ASC
 WHERE file.name != "Ammunition"
 ```

@@ -8,42 +8,57 @@ type: N Huge starship vermin
 
 # Stellar Protozoa
 
-N Huge starship vermin, **Tier** 7 
-**Speed** 8; **Maneuverability** poor (turn 3); **Drift** —  
-**AC** 19; **TL** 19  
-**HP** 180; **DT** 5; **CT** 36  
-**Shields** medium 90 (forward 24, port 22, starboard 22, aft 22)  
-**Attack (Forward)** stellar membrane (2d4 plus swallow starship), light cytoplasm launcher (4d6)  
-**Attack (Aft)** particle beam (8d6)  
-**Attack (Turret)** heavy cytoplasm launcher (6d8)  
-**Power Core** stellar protozoa nucleus (250 PCU); **Drift Engine** none; **Systems** mk 4 armor, mk 5 defenses; **Expansion Bays** none  
-**Other Abilities** biotic weapons, draining aura, living starship, void adaptation
+N Huge starship vermin, Tier 7 
+Speed: 8
+Maneuverability poor (turn 3)
+Drift —  
+AC 19
+TL 19  
+HP: 180
+DT 5
+CT 36  
+Shields medium 90 (forward 24, port 22, starboard 22, aft 22)  
+Attack (Forward) stellar membrane (2d4 plus swallow starship), light cytoplasm launcher (4d6)  
+Attack (Aft) particle beam (8d6)  
+Attack (Turret) heavy cytoplasm launcher (6d8)  
+Power Core stellar protozoa nucleus (250 PCU)
+Drift Engine none
+Systems mk 4 armor, mk 5 defenses
+Expansion Bays none  
+otherabil:
+  - name: ""
+    desc: "biotic weapons, draining aura, living starship, void adaptation
 
 ### Crew
 
-**Engineer (1 action)** Engineering +15 (7 ranks)  
-**Gunner (1 action)** gunnery +12 (7th level)  
-**Pilot (1 action)** +18 (7 ranks)
+Engineer (1 action) Engineering +15 (7 ranks)  
+Gunner (1 action) gunnery +12 (7th level)  
+Pilot (1 action) +18 (7 ranks)"
 
 ### Ecology
 
-**Environment** any vacuum  
-**Organization** solitary, pair, or swarm (3–6)
+Environment any vacuum  
+Organization solitary, pair, or swarm (3–6)
 
 ### Special Abilities
 
-**Biotic Weapons (Ex)** A stellar protozoa’s flexible body grants its particle beam the broad arc special property. See the Starship Weapons page for cytoplasm weapons.
+Biotic Weapons (Ex) A stellar protozoa’s flexible body grants its particle beam the broad arc special property. See the Starship Weapons page for cytoplasm weapons.
 
-**Draining Aura (Su)** A power core within 5 hexes of a stellar protozoa at the start of a round produces 10 fewer PCUs; this might force some starship systems, as determined by the crew, to become inactive. These reduced PCUs are restored when the stellar protozoa is disabled or when the power core is no longer within 20 hexes of the stellar protozoa. Any creature within 5 hexes of a stellar protozoa at the start of a round gains a temporary negative level unless it succeeds at a DC 15 Fortitude saving throw. The stellar protozoa gains no temporary HP for draining levels. A creature that successfully saves cannot be affected again by the same stellar protozoa’s draining aura for 24 hours. These negative levels are removed if the stellar protozoa is disabled or when the affected creature is no longer within 20 hexes of the protozoa. Stellar protozoans are immune to this ability.
+Draining   - name: "Aura"
+    desc: "(Su) A power core within 5 hexes of a stellar protozoa at the start of a round produces 10 fewer PCUs
+this might force some starship systems, as determined by the crew, to become inactive. These reduced PCUs are restored when the stellar protozoa is disabled or when the power core is no longer within 20 hexes of the stellar protozoa. Any creature within 5 hexes of a stellar protozoa at the start of a round gains a temporary negative level unless it succeeds at a DC 15 saves:
+  - Fort:itude saving throw. The stellar protozoa gains no temporary HP: for draining levels. A creature that successfully saves cannot be affected again by the same stellar protozoa’s draining aura for 24 hours. These negative levels are removed if the stellar protozoa is disabled or when the affected creature is no longer within 20 hexes of the protozoa. Stellar protozoans are immune to this ability.
 
-**Living Starship (Ex)** A stellar protozoa is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed in Crew Actions above. Modifiers for its size, speed, and maneuverability are already factored into its statistics. Use the following table to determine the effects when a stellar protozoa takes critical damage.
+Living Starship (Ex) A stellar protozoa is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed in Crew Actions above. Modifiers for its size, speed, and maneuverability are already factored into its statistics. Use the following table to determine the effects when a stellar protozoa takes critical damage.
 
-<table><tbody><tr><td><b>D%</b></td><td><b>System</b></td><td><b>Effect</b></td></tr><tr><td>1–10</td><td>Aura generator</td><td>While this system has critical damage, the stellar protozoa cannot drain PCUs or impose negative levels with its draining aura. If this system is wrecked, PCU reductions and negative levels the aura imposed are immediately restored.</td></tr><tr><td>11–40</td><td>Weapons array</td><td>Randomly determine one arc containing weapons; condition applies to gunner actions using weapons in that arc.</td></tr><tr><td>41–70</td><td>Propulsion</td><td>Condition applies to pilot actions</td></tr><tr><td>71–100</td><td>Nucleus</td><td>Condition applies to engineer actions except hold it together and patch.</td></tr></tbody></table>
+<table><tbody><tr><td><b>D%</b></td><td><b>System</b></td><td><b>Effect</b></td></tr><tr><td>1–10</td><td>  - name: "Aura"
+    desc: "generator</td><td>While this system has critical damage, the stellar protozoa cannot drain PCUs or impose negative levels with its draining aura. If this system is wrecked, PCU reductions and negative levels the aura imposed are immediately restored.</td></tr><tr><td>11–40</td><td>Weapons array</td><td>Randomly determine one arc containing weapons
+condition applies to gunner actions using weapons in that arc.</td></tr><tr><td>41–70</td><td>Propulsion</td><td>Condition applies to pilot actions</td></tr><tr><td>71–100</td><td>Nucleus</td><td>Condition applies to engineer actions except hold it together and patch.</td></tr></tbody></table>
 
-  
-**Stellar Membrane (Ex)** A stellar protozoa can make a stellar membrane attack against only a Large or smaller starship that is in its forward firing arc and in a hex adjacent to the stellar protozoa.
+ 
+Stellar Membrane (Ex) A stellar protozoa can make a stellar membrane attack against only a Large or smaller starship that is in its forward firing arc and in a hex adjacent to the stellar protozoa.
 
-**Swallow Starship (Ex)** If a stellar protozoa’s stellar membrane attack deals Hull Point damage to a target, that vessel is pulled into the stellar protozoa’s body. The protozoa can hold one Large ship, two Medium ships, four Small ships, or eight Tiny ships. A vessel takes 4d4 damage each time it starts a round of starship combat inside the stellar protozoa (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise). A swallowed starship can still attack, and the protozoa’s interior has AC 14, TL 14, and DT 0. However, at such close range, starship weapons deal half their damage to the firing ship through a combination of blowback and the protozoa’s physical reactions. If a swallowed starship deals 20 Hull Points to the protozoa’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a Piloting check (DC 20, or DC 25 if the protozoa has no hole in it). On a failure, the starship remains within the protozoa.
+Swallow Starship (Ex) If a stellar protozoa’s stellar membrane attack deals Hull Point damage to a target, that vessel is pulled into the stellar protozoa’s body. The protozoa can hold one Large ship, two Medium ships, four Small ships, or eight Tiny ships. A vessel takes 4d4 damage each time it starts a round of starship combat inside the stellar protozoa (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise). A swallowed starship can still attack, and the protozoa’s interior has AC 14, TL 14, and DT 0. However, at such close range, starship weapons deal half their damage to the firing ship through a combination of blowback and the protozoa’s physical reactions. If a swallowed starship deals 20 Hull Points to the protozoa’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a Piloting check (DC 20, or DC 25 if the protozoa has no hole in it). On a failure, the starship remains within the protozoa.
 
 ## Description
 

@@ -11,7 +11,7 @@ type: Longarms
 
 The longarm model of a gyrojet pistol, a gyrojet rifle fires mini-rockets with devastating force.
 
-### Projectile Weapons
+## Projectile Weapons
 
 Projectile weapons fire solid rounds, such as bullets or rockets. While projectile weapons are relatively antiquated, they provide serviceable firepower at a reasonable price to many travelers and traders.  
 

@@ -8,13 +8,13 @@ tags:
 ``` dataview
 TABLE
 System
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Augmentations/Necrografts"
+FROM "Compendium/SF1E/Items/Augmentations/Necrografts"
 SORT Level ASC
 WHERE file.name != "Necrografts"
 ```
 
 **Source**:: _Starfinder Armory pg. 94_  
-Necrografts are [[Augmentations|augmentations]] utilizing [[Undead]] organs and necromantic [[Starfinder-SRD/SF1E/Compendium/Spells/Rituals/Rituals]] rather than technology. They were invented on [[Eox]], and they are most commonly available in [[Orphys]] and at the Necroforge within [[Eox]]’s Lifeline. Most other [[Pact Worlds]] outlaw the creation and installation of necrografts (though not their possession), but they can still be found in some less reputable back-alley augmentation clinics on multiple worlds throughout the system and beyond.  
+Necrografts are [[Augmentations|augmentations]] utilizing [[Eoxian]] organs and necromantic [[Starfinder-SRD/Compendium/Spells/Rituals/Rituals]] rather than technology. They were invented on [[Eox]], and they are most commonly available in [[Orphys]] and at the Necroforge within [[Eox]]’s Lifeline. Most other [[Pact Worlds]] outlaw the creation and installation of necrografts (though not their possession), but they can still be found in some less reputable back-alley augmentation clinics on multiple worlds throughout the system and beyond.  
   
 Necrografts follow the existing rules for [[Augmentations|augmentations]] (_Core Rulebook_ 208), but they use different components than [[Biotech]] and [[Cybernetics]]. Any [[Biotech]] or cybernetic augmentation can be created as a necrograft and installed for only 90% of the augmentation’s normal cost, but doing so causes the recipient to gain the necrograft subtype (see below). Necrografts have the same system restrictions that all [[Augmentations|augmentations]] share.  
   

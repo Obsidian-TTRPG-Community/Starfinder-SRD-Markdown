@@ -6,7 +6,7 @@ tags:
 # Hacking Reference
 
 > [!attention] HACK SYSTEM
-> **Source** [_Starfinder Core Rulebook pg. 139_](https://paizo.com/products/btpy9ssr?Starfinder-Core-Rulebook)  
+> **Source** [_Starfinder Core Rulebook pg. 139_]  
 > You can use Computers to hack a computer system to which you don’t already have access. Hacking a computer system typically takes one full action per tier of the computer system. You can cut this time in half (to a minimum of one full action) for every 5 by which you increase the DC of the Computers check. If you succeed at the check, you gain access to any part of the computer that is not behind a firewall (see page 217). This allows you to use the basic functions of the computer and to make further checks that require you to have access. Accessing parts of a computer behind a firewall requires an additional Computers check for each firewall.
 
 ## Access Unsecured System (p. 138)

@@ -12,7 +12,7 @@ The base frames below are organized by size (from smallest to largest) and cost 
 ``` dataview
 TABLE
 BPCost as BP, Size, HP, CT
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Starships/Base Frames"
+FROM "Starfinder-SRD/Compendium/Items/Vehicles/Starships/Base Frames"
 SORT BPCost ASC
 WHERE file.name != "Base Frames"
 ```

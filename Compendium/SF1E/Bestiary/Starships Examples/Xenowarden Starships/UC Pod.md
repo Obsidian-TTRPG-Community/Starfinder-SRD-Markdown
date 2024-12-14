@@ -12,17 +12,28 @@ type: Tiny biomechanical interceptor
 >  [[Starship_UCPod.jpg|Spielern zeigen!]
 > 
 
-Tiny biomechanical interceptor, **Tier** 1/2 
-**Speed** 12; **Maneuverability** perfect (turn 0); **Drift** —  
-**AC** 16; **TL** 16  
-**HP** 30; **DT** —; **CT** 6  
-**Shields** basic 10 (forward 3, port 2, starboard 2, aft 3)  
-**Attack (Forward)** gyrolaser (1d8), light spore pod launcher (special)  
-**Power Core** Micron Heavy (70 PCU); **Drift Engine** none; **Systems** basic mid-range sensors, hive joining, mk 1 mononode computer, mk 3 armor, mk 3 defenses; **Expansion Bays** none; **Modifiers** +1 any one check each round, +2 Computers, +1 Piloting; **Complement** 1
+Tiny biomechanical interceptor, Tier 1/2 
+Speed: 12
+Maneuverability perfect (turn 0)
+Drift —  
+AC 16
+TL 16  
+HP: 30
+DT —
+CT 6  
+Shields basic 10 (forward 3, port 2, starboard 2, aft 3)  
+Attack (Forward) gyrolaser (1d8), light spore pod launcher (special)  
+Power Core Micron Heavy (70 PCU)
+Drift Engine none
+Systems basic mid-range sensors, hive joining, mk 1 mononode computer, mk 3 armor, mk 3 defenses
+Expansion Bays none
+Modifiers +1 any one check each round, +2 Computers, +1 Piloting
+Complement 1
 
 ### Crew
 
-**Pilot** Computers +7 (1 rank), gunnery +6, Piloting +11 (1 rank)
+Pilot Computers +7 (1 rank), gunnery +6
+  - Piloting: +11 (1 rank)
 
 ## Description
 

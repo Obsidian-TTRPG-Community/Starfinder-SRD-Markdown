@@ -1,18 +1,18 @@
 ---
-aliases: 
-tags: 
+aliases: []
+tags: []
 ---
 
 # Afflictions Progress Tracks
 
 # Curses
 
-**Source** _Starfinder Core Rulebook pg. 414_  
-Curses are magical afflictions and usually have a single effect, though some curses use tracks like diseases and poisons do. Removing a curse requires either using _remove affliction_ or fulfilling a special condition that varies by curse (and sometimes differs between individual applications of the same curse).  
+**Source** _Starfinder Core Rulebook pg. 414_
+Curses are magical afflictions and usually have a single effect, though some curses use tracks like diseases and poisons do. Removing a curse requires either using _remove affliction_ or fulfilling a special condition that varies by curse (and sometimes differs between individual applications of the same curse).
 
 # Diseases
 
-**Source** _Starfinder Core Rulebook pg. 414_  
+**Source** _Starfinder Core Rulebook pg. 414_
 Diseases are typically inhaled contagions (though these are usually filtered out by a standard space suit or suit of armor) or injury contagions. Page 417 explains the details of each method of contagion. If a disease lacks a Cure entry, its progression may be irreversible without powerful magic or technology, but a successful casting of _remove affliction_ usually prevents further deterioration. Physical and mental diseases have separate tracks.
 
 ## Physical Disease Track
@@ -77,11 +77,11 @@ A victim rendered comatose by a mental disease has lost all grip on reality and 
 
 ### Dead
 
-The victim is dead, and his corpse may still be contagious.  
+The victim is dead, and his corpse may still be contagious.
 
 # Poisons
 
-**Source** _Starfinder Core Rulebook pg. 415_  
+**Source** _Starfinder Core Rulebook pg. 415_
 Each poison has a delivery mechanism. Page 417 explains the details of the various methods of delivery. A character who is poisoned attempts a saving throw after the listed onset and at the listed frequency thereafter. Upon initial exposure, regardless of whether she succeeds at her saving throw, the victim loses a number of Hit Points equal to the poison’s DC – 10. If a victim is exposed to multiple doses of the same poison, she must attempt a separate save for each dose and progresses to the next state on the poison track with each failed save.
 
 ## Strength Poison Track

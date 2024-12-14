@@ -1,15 +1,16 @@
 ---
-aliases: 
-tags: 
+cssclasses:
+aliases: []
+tags: []
 ---
 
 # Starship Combat Rules
 
-The fathomless depths of space are dangerous to even the most experienced crews, but they can be deadly to those who wander the stars unprepared. Planet-crushing black holes, invisible radiation belts, and chaotic meteor storms are found in any system. But of all the hazards that you might encounter between the stars, hostile vessels are by far the most common. The following rules govern combat between starships—or in rare cases, between immense spacefaring creatures.  
+The fathomless depths of space are dangerous to even the most experienced crews, but they can be deadly to those who wander the stars unprepared. Planet-crushing black holes, invisible radiation belts, and chaotic meteor storms are found in any system. But of all the hazards that you might encounter between the stars, hostile vessels are by far the most common. The following rules govern combat between starships—or in rare cases, between immense spacefaring creatures.
 
 # Roles
 
-**Source** _Starfinder Core Rulebook pg. 316_  
+**Source** _Starfinder Core Rulebook pg. 316_
 The actions crew members on a starship can take depend upon their roles. For most roles, multiple people can perform actions each round, but for other roles, only one person can fill that role and only one action for that role can be performed each round. Your role also determines when you act in combat. Starship combat uses the five roles below. You should declare your role when you board a ship (if you declare yourself a passenger, however, you take no special actions in combat unless you assume a role), though you can change your role in the heat of combat (see page 322). See Building Starships on page 292 for information on starship terminology, systems, and stat blocks.
 
 ## Captain
@@ -30,30 +31,30 @@ You plot the course of the ship. Each starship has speed and maneuverability rat
 
 ## Science Officer
 
-You use the starship’s computers, scanners, and other systems to identify threats, target foes, and navigate hazards. A starship can have any number of science officers. A science officer acts during the helm phase of combat (see page 317). The actions a science officer can take are described starting on page 324.  
+You use the starship’s computers, scanners, and other systems to identify threats, target foes, and navigate hazards. A starship can have any number of science officers. A science officer acts during the helm phase of combat (see page 317). The actions a science officer can take are described starting on page 324.
 
 # Large and Small Crews
 
-**Source** _Starfinder Core Rulebook pg. 316_  
-A starship’s base frame determines the minimum and maximum number of crew members needed to operate that vessel. A starship without its minimum complement can’t be flown. However, when a large NPC starship with its full complement enters starship combat, each individual crew member doesn’t take a regular action—it would take hours to resolve a single round! In such cases, usually on Large or larger starships, most roles simulate entire teams of personnel. The number of crew members required to assist a single officer who wants to attempt a check in that role is listed after the role’s name in a starship stat block. This number varies between starships, and some vessels might have a crew large enough to allow multiple checks for a single role—for instance, a dreadnought might have several teams of engineers or gunners.  
+**Source** _Starfinder Core Rulebook pg. 316_
+A starship’s base frame determines the minimum and maximum number of crew members needed to operate that vessel. A starship without its minimum complement can’t be flown. However, when a large NPC starship with its full complement enters starship combat, each individual crew member doesn’t take a regular action—it would take hours to resolve a single round! In such cases, usually on Large or larger starships, most roles simulate entire teams of personnel. The number of crew members required to assist a single officer who wants to attempt a check in that role is listed after the role’s name in a starship stat block. This number varies between starships, and some vessels might have a crew large enough to allow multiple checks for a single role—for instance, a dreadnought might have several teams of engineers or gunners.
 
 # Preparing for Starship Combat
 
-**Source** _Starfinder Core Rulebook pg. 316_  
+**Source** _Starfinder Core Rulebook pg. 316_
 Starship combat is played on a grid of hexes with figures representing the starship combatants. _Starfinder Flip-Mat: Basic Starfield_ and the starship pawns in _Starfinder Core Rulebook Pawn Collection_ make perfect accessories for this portion of the game.
 
 The hexes don’t represent a specific distance, as Starfinder’s portrayal of movement and combat in three-dimensional space is more fluid and narrative than realistic. Unless otherwise specified, each ship occupies 1 hex, regardless of its size.
 
 # Beginning Starship Combat
 
-**Source** _Starfinder Core Rulebook pg. 316_  
+**Source** _Starfinder Core Rulebook pg. 316_
 When the crew of a starship has hostile intentions toward another vessel, they go to their battle stations and activate their starship’s targeting systems. This is clearly obvious to all other starships in the vicinity with working sensors, though there could still be a chance a hostile vessel can be talked down, if the GM allows it.
 
 In general, the GM decides when starship combat begins, where the combatants are, and which way their starships are facing. This might mean that both sides are facing each other from opposite sides of the grid. However, their relative positions and facing can also be established randomly. Roll 3d6+5 to determine how many hexes separate the opposing sides. If either side consists of more than one starship, this result is the distance between the highest-tier starship on one side of the battle and its counterpart on the other. Other starships should be placed within 3 hexes of an allied starship. Then, roll 1d6 for each group of starships to determine the facing of the starships in that group, with a 1 meaning the starships are facing the top edge of the grid, and with 2 through 6 proceeding clockwise around the hex.
 
 # Rounds and Phases
 
-**Source** _Starfinder Core Rulebook pg. 317_  
+**Source** _Starfinder Core Rulebook pg. 317_
 Like combat between characters, starship combat occurs over a number of rounds until one side flees, surrenders, or is otherwise defeated. Unlike rounds in combat between characters, a round of starship combat doesn’t correlate to a specific amount of time. Each round of starship combat is divided up into three phases, resolved in order. Each character aboard a starship typically acts in only one of these phases, depending on her role on the starship.
 
 ## 1. Engineering
@@ -76,7 +77,7 @@ Once all of the phases have been resolved, if there are still combatants engaged
 
 # Moving
 
-**Source** _Starfinder Core Rulebook pg. 317_  
+**Source** _Starfinder Core Rulebook pg. 317_
 The pilot of a starship has a variety of actions (see page 324) that allow her to guide her starship through the cold vastness of space. Unlike in battles between characters, starships face a specific direction, and this determines their firing arcs and shield quadrants, as well as their direction of movement.
 
 ## Speed
@@ -141,11 +142,11 @@ The starship moves up to its speed in the direction of either the forward-port o
 
 ## Turn in place
 
-The ship does not move but instead can turn to face any direction. If the ship has a maneuverability of clumsy, it takes a –4 penalty to its AC and TL until the start of the next round. If it has a maneuverability of poor, it instead takes a –2 penalty to its AC and TL until the start of the next round. Ships with a maneuverability of average or better do not take a penalty. This stunt doesn’t require a skill check.  
+The ship does not move but instead can turn to face any direction. If the ship has a maneuverability of clumsy, it takes a –4 penalty to its AC and TL until the start of the next round. If it has a maneuverability of poor, it instead takes a –2 penalty to its AC and TL until the start of the next round. Ships with a maneuverability of average or better do not take a penalty. This stunt doesn’t require a skill check.
 
 # Attacking
 
-**Source** _Starfinder Core Rulebook pg. 320_  
+**Source** _Starfinder Core Rulebook pg. 320_
 Whenever one starship fires a weapon at another starship, that action is resolved with a gunnery check. Attacks are made during the gunnery phase of combat, in the order determined during the helm phase, but the damage and critical damage effects (see page 321) are applied after all of the attacks have been made (meaning every starship gets to attack, even if it would be destroyed or crippled by an attack that happened during the same gunnery phase). With only very rare exceptions, each of a starship’s weapons can be fired only once per round. You make an attack using the following procedure.
 
 ## Range and Arc
@@ -170,7 +171,7 @@ If the attack is made with a tracking weapon such as a missile launcher (see pag
 
 # Damage
 
-**Source** _Starfinder Core Rulebook pg. 320_  
+**Source** _Starfinder Core Rulebook pg. 320_
 Combat in space can be highly dangerous to the vessel and its crew. Once a starship has been damaged, critical systems might malfunction or shut down altogether, leaving its passengers without electricity, gravity, or even air. Such damage might also cause a starship to lose its sensors, propulsion, or weapons systems, which could spell defeat during an active engagement.
 
 When a gunner hits with an attack, she rolls the damage dealt by the weapon she is using and determines which quadrant of the targeted starship she hits. A starship’s shield quadrants are the same as its firing arcs (see the diagram on page 318). Damage is first applied to any shields the target starship has in the quadrant hit by the attack, depleting a number of Shield Points equal to the amount of damage dealt. If that quadrant’s Shield Points reach 0, that shield is entirely depleted and any excess damage is applied to the target starship’s Hull Points. If the ship doesn’t have shields or if its shields in that quadrant have already been depleted, apply all damage directly to the target’s Hull Points.
@@ -239,19 +240,19 @@ Repairing damage to the hull (restoring lost Hull Points) is more difficult. You
 
 # Other Actions in Starship Combat
 
-**Source** _Starfinder Core Rulebook pg. 322_  
-While your role determines what actions you can take during a starship combat encounter, on occasion you might want to perform some other kind of action, such as casting a spell or using a class feature. The GM has the final say on what kind of regular actions you can take, but generally, you can take only a move or standard action in a single round, and you can take only a minor crew action (see page 326) during that round. You aren’t assumed to be adjacent to any of your allies during starship combat, so the GM might also decide that you need to take an additional round to get close enough to an ally to affect him with an ability or spell. Any such action is resolved at the beginning of the round, before the engineering phase.  
+**Source** _Starfinder Core Rulebook pg. 322_
+While your role determines what actions you can take during a starship combat encounter, on occasion you might want to perform some other kind of action, such as casting a spell or using a class feature. The GM has the final say on what kind of regular actions you can take, but generally, you can take only a move or standard action in a single round, and you can take only a minor crew action (see page 326) during that round. You aren’t assumed to be adjacent to any of your allies during starship combat, so the GM might also decide that you need to take an additional round to get close enough to an ally to affect him with an ability or spell. Any such action is resolved at the beginning of the round, before the engineering phase.
 
 # Npc Ship Gunnery Bonuses
 
-**Source** _Starfinder Core Rulebook pg. 326_  
+**Source** _Starfinder Core Rulebook pg. 326_
 The gunnery check bonus for an NPC starship of tier 9 or lower is equal to the starship’s tier plus the highest ability score modifier for an NPC of a CR equivalent to the starship’s tier (using the array on page 129 of _Alien Archive_).
 
 For an NPC starship of tier 10 or higher, use the same calculation but substitute the second-highest ability score modifier instead.
 
 # Designing Starship Encounters
 
-**Source** _Starfinder Core Rulebook pg. 326_  
+**Source** _Starfinder Core Rulebook pg. 326_
 From a simple skirmish against pirates to a massive fleet engagement, designing a fun and challenging space combat requires thoughtful planning and careful design on the part of the GM. A crew of PCs can’t simply spend their hard-earned credits to upgrade their starship between encounters as they could with ordinary gear. In addition, often due to the circumstances of the story, the characters might find themselves in a ship that is significantly more or less powerful than their Average Party Level might indicate. The GM needs to take these factors into account when deciding what sort of enemies the PCs will face.
 
 ## Challenge

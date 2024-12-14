@@ -1,0 +1,12 @@
+
+SFS Legal Colonist (+1 Con)
+Source Starfinder #7: The Reach of Empire pg. 45
+You have an unquenchable trailblazer’s spirit, matched with the training and fortitude you’ll need to carve out a new life for yourself and others in the wilderness. Although you might be the sort to go it alone on the frontier, you’re more likely part of a small group of settlers. You might be preparing for your first voyage, or you might be a grizzled veteran who has already helped found several successful colonies.
+Theme Knowledge (1st Level)
+You have amassed a vast knowledge of past colonization efforts, including those that have failed due to ignorance or carelessness. You know that basic knowledge about a new, uncharted world is the most valuable resource any colonist can have. Reduce the DC to identify average creatures using Life Science by 5. Survival is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to Survival checks. In addition, you gain an ability adjustment of +1 to Constitution at character creation.
+Providing for Others (6th Level)
+You know that a colony’s survival means that each colonist look out for everyone else in times of hardship or privation. When you successfully use the Survival skill to endure severe weather or live off the land, increase the number of other creatures you can grant saving throw bonuses or sustenance to by an amount equal to half your level. You can give another creature any benefit that you would gain from a Survival check to endure severe weather or live off the land (such as a bonus to Fortitude saves or sustenance you would gain), but if you do, you don’t gain it for yourself.
+Pioneer's Resilience (12th Level)
+You are more resistant to effects that would overwhelm a less experienced settler. Once per day, you can reroll a Fortitude saving throw to resist the effects of a disease, poison, or severe weather.
+An Eye to the Future (18th Level)
+Up to twice per day when you successfully use the Survival skill to predict the weather, you can spend 10 minutes contemplating what the future holds to regain 1 Resolve Point; this doesn’t count as resting to regain Stamina Points. You must spend 1 minute observing the surrounding area and its weather patterns to use this ability, even if you have another ability that allows you to predict the weather in a shorter amount of time.

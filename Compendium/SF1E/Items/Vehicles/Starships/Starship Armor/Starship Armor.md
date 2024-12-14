@@ -19,7 +19,7 @@ Ablative armor can be restored only when the starship undergoes repairs, and it 
 ``` dataview
 TABLE
 BPCost, AC-Bonus, TempHP, Special
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Starships/Starship Armor"
+FROM "Starfinder-SRD/Compendium/Items/Vehicles/Starships/Starship Armor"
 SORT BPCost ASC
 WHERE file.name != "Starship Armor"
 ```

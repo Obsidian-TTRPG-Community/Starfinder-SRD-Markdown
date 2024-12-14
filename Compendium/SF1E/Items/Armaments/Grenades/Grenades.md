@@ -10,7 +10,7 @@ Grenades are thrown weapons that detonate in an explosive radius when they reach
 ``` dataview
 TABLE
 Level, Price, Damage, Special
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Armaments/Grenades"
+FROM "Starfinder-SRD/Compendium/Items/Armaments/Grenades"
 SORT Level ASC
 WHERE file.name != "Grenades"
 ```

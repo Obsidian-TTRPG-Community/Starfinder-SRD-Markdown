@@ -1,16 +1,16 @@
 ---
 aliases: 
-
 price: 2,150
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
 # Nanite Canisters
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 9;
-**Price**:: 2,150  
+**Level**:: 9
+**Price**:: 2150  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

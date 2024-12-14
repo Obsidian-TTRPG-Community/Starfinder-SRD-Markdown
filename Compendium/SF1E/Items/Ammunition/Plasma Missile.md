@@ -1,8 +1,8 @@
 ---
 aliases: 
-
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -17,38 +17,38 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Plasma Missile, Hed
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 19;
-**Price**:: 175,000  
+**Level**:: 19
+**Price**:: 175000  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: 17d12 e&f
 
 ## Plasma Missile, Ionized
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 11;
-**Price**:: 6,700  
+**Level**:: 11
+**Price**:: 6700  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: 8d8 e&f
 
 ## Plasma Missile, Stellar
 
 **Source**:: _Starfinder Armory pg. 55_  
-**Level**:: 16;
-**Price**:: 53,200  
+**Level**:: 16
+**Price**:: 53200  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
 **Critical**:: —  
 **Capacity**:: 1  
-**Bulk**:: 1;
+**Bulk**:: 1
 **Special**:: 12d10 e&f

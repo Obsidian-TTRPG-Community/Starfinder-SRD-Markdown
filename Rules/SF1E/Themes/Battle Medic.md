@@ -1,0 +1,14 @@
+# Battle Medic (+1 Int)
+You’ve been trained to treat combat wounds on and off the battlefield. Operating in high-intensity situations in remote rural locales, on city streets, and amid the din of combat, you honed your ability to remain calm and collected under duress and heal those around you. Your peers likely see you as an incredibly valuable team member and, because of this, they defend you with their lives.
+
+## Theme Knowledge (1st Level)
+Having studied and even occasionally treated infirmities and illnesses across the galaxy, you can detect and diagnose a wide array of maladies in both your own species and in beings from all walks of life. You have also done extensive research on unusual—even mystical—aspects of biology and chemistry, and now almost nothing in those fields surprises you. Reduce the DC of any [[Life Science]] or [[Mysticism]] check to recall knowledge about a disease or poison by 5. [[Medicine]] is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to [[Medicine]] checks. In addition, you gain an ability adjustment of +1 to Intelligence at character creation.
+
+## Exposure Immunity (6th Level)
+Because of your time spent administering long-term care to infirm and quarantined patients, your immune system has been greatly boosted. While these repeated exposures have raised concerns about your health in the past, you have rebounded from them stronger and healthier than ever. You gain a +1 bonus to Fortitude saving throws against poisons and diseases.
+
+## Bedside Manner (12th Level)
+You are known for the quality of healing that you can provide to a patient even under imperfect circumstances. When you successfully ensure a creature’s long-term stability with the [[Medicine]] skill, you grant the unconscious creature a +4 bonus to their Constitution check (instead of +2). In addition, when you successfully provide long-term care with the [[Medicine]] skill, you need to exceed the DC by only 5 to have the patient recover Hit Points and ability score damage (as well as recovering from poison states) at three times the normal rate.
+
+## Preeminent Physican (18th Level)
+Your reputation as a battle medic hinges on your ability to keep your patients alive even in the most dire of circumstances, so when the chips are down, you rise to the challenge. Up to twice per day, when you successfully treat deadly wounds with the [[Medicine]] skill, you recover 1 Resolve Point. If the patient had 1 Hit Point or fewer remaining, you instead regain 2 Resolve Points, but can’t regain Resolve Points with this ability again until you have rested for 8 hours.

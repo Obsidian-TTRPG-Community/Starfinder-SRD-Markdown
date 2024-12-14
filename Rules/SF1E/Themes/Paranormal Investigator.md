@@ -1,0 +1,12 @@
+
+SFS Legal Paranormal Investigator (+1 Int, Wis, or Cha)
+Source Starfinder Enhanced pg. 13, Starfinder #10: The Diaspora Strain pg. 53
+Some, upon waking, want to forget their nightmares, find comfort among their companions, and dream of new adventures. That’s not you. No, you know waking life can be a dream and the nightmares can be real. You are a truth-seeker, chasing the shadows in search of a world hidden behind the veneer of normalcy. Each fresh horror you uncover proves your work is right and important, and makes you want to delve deeper into the galaxy’s haunting secrets.
+Theme Knowledge (1st Level)
+You’re skilled at identifying patterns, finding clues, and piecing together puzzles about the paranormal. Reduce the DC of Diplomacy checks to gather information about the paranormal by 5. Apply the same reduction to DCs for any checks you attempt to recall knowledge about the paranormal, including personalities, events, and mysteries of the occult. Choose Diplomacy, Life Science, Mysticism, or Physical Science. The chosen skill is a class skill for you, and it’s your field for other theme features. If the chosen skill is a class skill from the class you take at 1st level, you instead gain a +1 bonus to checks with it. In addition, at character creation, you gain an ability adjustment of +1 to the ability score associated with your chosen skill (Intelligence, Wisdom or Charisma).
+Attention to Detail (6th Level)
+Halve the time it takes you to gather information (minimum 30 minutes), search an area, or perform research to take 20 when recalling knowledge or identifying a creature, a magic item, or technology. In addition, once per day, if you fail a Sense Motive check or a check in your field, you can reroll the check and use the higher result.
+Gnawing Hunch (12th Level)
+You’ve learned to trust your hunches. When you come within 10 feet of a hidden object or clue that requires a Perception check to notice, you can immediately attempt a Perception check to notice the clue, which should be rolled in secret by the GM.
+Truth-Seeker (18th Level)
+Organizing evidence about your case and researching it refreshes you and sets you back on your path. Twice per day, you can take 10 minutes to consider and record your findings or look for new insights into them. If you do so, you recover 1 Resolve Point. If you instead take 1 hour and succeed at a research task, you regain 2 Resolve Points, but you can’t regain Resolve Points with this ability again until you have rested for 8 hours.

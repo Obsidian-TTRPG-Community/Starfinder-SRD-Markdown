@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases: []
 
 Notetype: Weapon
 price: 
-tags: 
+tags: []
 type: Heavy Weapon
 ---
 
@@ -13,64 +13,64 @@ The sound waves a sonic bolter produces tightly focus in a brief but coherent li
 
 ### Sonic Weapons
 
-Sonic weapons emit sonar waves at frequencies that are designed to injure or incapacitate enemies. Many of them are termed “low-frequency devices” (LFDs) and “high-frequency devices” (HFDs) based on the frequencies at which they operate and damage foes.  
+Sonic weapons emit sonar waves at frequencies that are designed to injure or incapacitate enemies. Many of them are termed “low-frequency devices” (LFDs) and “high-frequency devices” (HFDs) based on the frequencies at which they operate and damage foes.
 
 ## Sonic Bolter, Assault
 
-**Source**:: _Starfinder Armory pg. 51_  
+**Source**:: _Starfinder Armory pg. 51_
 **Level**:: 12
-**Price**:: 38000  
+**Price**:: 38000
 **Hands**:: 2
-**Proficiency**:: Heavy  
-**Damage**:: 3d12 So 
+**Proficiency**:: Heavy
+**Damage**:: 3d12 So
 **Range**:: 80 ft.
-**Critical**:: Sicken  
-**Capacity**:: 20 charges 
-**Usage** 2  
+**Critical**:: Sicken
+**Capacity**:: 20 charges
+**Usage** 2
 **Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, light
 
-**Source**:: _Starfinder Armory pg. 51_  
+**Source**:: _Starfinder Armory pg. 51_
 **Level**:: 3
-**Price**:: 1480  
+**Price**:: 1480
 **Hands**:: 2
-**Proficiency**:: Heavy  
-**Damage**:: 1d10 So 
+**Proficiency**:: Heavy
+**Damage**:: 1d10 So
 **Range**:: 60 ft.
-**Critical**:: Sicken  
-**Capacity**:: 20 charges 
-**Usage** 2  
+**Critical**:: Sicken
+**Capacity**:: 20 charges
+**Usage** 2
 **Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, Heavy
 
-**Source**:: _Starfinder Armory pg. 51_  
+**Source**:: _Starfinder Armory pg. 51_
 **Level**:: 8
-**Price**:: 10100  
+**Price**:: 10100
 **Hands**:: 2
-**Proficiency**:: Heavy  
-**Damage**:: 2d10 So 
+**Proficiency**:: Heavy
+**Damage**:: 2d10 So
 **Range**:: 80 ft.
-**Critical**:: Sicken  
-**Capacity**:: 20 charges 
-**Usage** 2  
+**Critical**:: Sicken
+**Capacity**:: 20 charges
+**Usage** 2
 **Bulk**:: 2
 **Special**:: antibiological, line, unwieldy
 
 ## Sonic Bolter, Devastator
 
-**Source**:: _Starfinder Armory pg. 51_  
+**Source**:: _Starfinder Armory pg. 51_
 **Level**:: 18
-**Price**:: 398000  
+**Price**:: 398000
 **Hands**:: 2
-**Proficiency**:: Heavy  
-**Damage**:: 3d12 So 
+**Proficiency**:: Heavy
+**Damage**:: 3d12 So
 **Range**:: 90 ft.
-**Critical**:: Sicken  
-**Capacity**:: 20 charges 
-**Usage** 2  
+**Critical**:: Sicken
+**Capacity**:: 20 charges
+**Usage** 2
 **Bulk**:: 2
 **Special**:: antibiological, line, unwieldy

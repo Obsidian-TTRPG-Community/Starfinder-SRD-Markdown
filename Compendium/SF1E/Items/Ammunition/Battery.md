@@ -1,8 +1,8 @@
 ---
 aliases: 
-
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 

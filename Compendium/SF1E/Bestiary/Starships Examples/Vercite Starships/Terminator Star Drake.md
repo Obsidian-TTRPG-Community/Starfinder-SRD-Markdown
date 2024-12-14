@@ -12,17 +12,29 @@ type: Tiny racer
 >  [[Starship_TerminatorStarDrake.jpg]
 > 
 
-Tiny racer, **Tier** 1/4 
-**Speed** 14; **Maneuverability** perfect (turn 0); **Drift** —  
-**AC** 16; **TL** 13  
-**HP** 20; **DT** —; **CT** 4  
-**Shields** basic 10 (forward 3, port 2, starboard 2, aft 3)  
-**Attack (Forward)** light laser cannon (2d4)  
-**Power Core** Micron Light (50 PCU); **Drift Engine** none; **Systems** basic computer, basic short-range sensors, mk 3 armor;; **Expansion Bays** none; **Modifiers** +2 Computers; **Complement** 1
+Tiny racer, Tier 1/4 
+Speed: 14
+Maneuverability perfect (turn 0)
+Drift —  
+AC 16
+TL 13  
+HP: 20
+DT —
+CT 4  
+Shields basic 10 (forward 3, port 2, starboard 2, aft 3)  
+Attack (Forward) light laser cannon (2d4)  
+Power Core Micron Light (50 PCU)
+Drift Engine none
+Systems basic computer, basic short-range sensors, mk 3 armor
+
+Expansion Bays none
+Modifiers +2 Computers
+Complement 1
 
 ### Crew
 
-**Pilot** gunnery +5, Piloting +10 (1 rank)
+Pilot gunnery +5
+  - Piloting: +10 (1 rank)
 
 ## Description
 

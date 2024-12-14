@@ -1,9 +1,6 @@
 ---
 aliases: 
 ArmorType: Heavy, Powered
-Item:
-
-Note:
 Type: Armor
 price: 6500
 Slots: 1

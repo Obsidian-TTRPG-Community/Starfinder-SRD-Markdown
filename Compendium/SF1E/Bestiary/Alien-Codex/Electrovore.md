@@ -1,43 +1,4 @@
 ---
-aliases:
-  - electrovores
-cr: 2
-Environment: any
-hp: 23
-Initmod: 4
-name: Electrovore
-statblock: true
-tags: 
-alignment: N
-size: small
-type (subtype): magical beast
-init:
-  - name: Init
-    desc: "+4"
-senses:
-  - name: Senses
-    desc: "[[darkvision]] 60 ft., [[Low-Light Vision]]"
-perception:
-  - name: Perception
-    desc: "+12"
-HP: 23
-RP: 3
-EAC: 14
-KAC: 14
-saves:
-  - fort: 3 3 (1d20 + 3)
-  - ref: 7 7 (1d20 + 7)
-  - will: 1 1 (1d20 + 1)
-defabilities:
-  - name: Immunities
-    desc: electricity
-speed: 30 ft., fly 30ft. (ex, average)
-melee:
-  - name: Melee
-    desc: tail slap  +9 to hit (6 (1d4+3) B; critical siphon)
-offabilities:
-  - name: Offensive Abilities
-    desc: electrical discharge (6 (1d6+2) E plus staggered, Reflex DC 13 half)
 abilitymods:
   - str: "1"
   - dex: "4"
@@ -45,65 +6,61 @@ abilitymods:
   - int: "-4"
   - wis: "2"
   - cha: "-1"
-skills:
-  - Acrobatics: 7 7 (1d20 + 7)
-  - Athletics: 7 7 (1d20 + 7)
-  - Stealth: 12 12 (1d20 + 12)
-  - Survival: 12 12 (1d20 + 12)
-otherabil:
-  - name: Electrical Discharge (Ex)
-    desc: As a standard action, an electrovore can spend 1 Resolve Point to discharge some of its stored electrical energy as a powerful attack. All creatures within 10 feet of the electrovore take 1d6+2 electricity damage and are staggered for 1 round. A target can attempt a DC 13 Reflex save to take half this damage and negate the staggered effect.
-  - name: Siphon (Ex)
-    desc: Whenever an electrovore scores a critical hit against a living creature, a construct with the technological subtype, or a technological piece of gear, it siphons off a portion of the target’s electrical energy. This restores 1 Resolve Point (up to its maximum of 3).
+ac: "EAC: 14 KAC: 14"
+aliases: [electrovores]
+alignment: N
 combatType: expert
-environment: any
-climate: any
-planet:
-  - 
-organization:
-  - solitary
-  - pair
-  - nest(3-12)
-  - colony(16-32)
+cr: 2
+date created: Monday, January 1st 2024, 3:13:12 pm
+date modified: Tuesday, July 30th 2024, 10:08:07 pm
+defabilities:
+  - name: "[[Immunity (Ex or Su)|Immunities]]"
+    desc: "electricity"
+EAC: 14
+Environment: any
+hp: 23
+Init: 4
+KAC: 14
+Melee:
+  - name: "Melee"
+    desc: "tail slap +9 to hit (6 (1d4+3) B; critical siphon)"
+modifier: 4
+name: "Electrovore"
+image: "[[Electrovore.png]]"
+
+offabilities:
+  - name: "Offensive Abilities"
+    desc: "electrical [[Discharge]](6 (1d6+2) E plus staggered, Reflex DC 13 half)"
+otherabil:
+  - name: "Electrical Discharge (Ex)"
+    desc: "As a standard action, an electrovore can spend 1 Resolve Point to discharge some of its stored electrical energy as a powerful attack. All creatures within 10 feet of the electrovore take 1d6+2 electricity damage and are staggered for 1 round. A target can attempt a DC 13 Reflex save to take half this damage and negate the staggered effect."
+  - name: "Siphon (Ex)"
+    desc: "Whenever an electrovore scores a critical hit against a living creature, a construct with the technological subtype, or a technological piece of gear, it siphons off a portion of the target’s electrical energy. This restores 1 Resolve Point (up to its maximum of 3)."
+Perception: 12
+RP: 3
+saves:
+  - Fort: "+3 (`dice: 1d20+3`)"
+  - Ref: "+7 (`dice: 1d20+7`)"
+  - Will: "+1 (`dice: 1d20+1`)"
+Senses:
+  - name: "Senses"
+    desc: "[[[darkvision]]] 60 ft., [[Low-Light Vision]]"
+size: small
+Skills:
+  - Acrobatics: "+7 (`dice: 1d20+7`)"
+  - Athletics: "+7 (`dice: 1d20+7`)"
+  - Stealth: "+12 (`dice: 1d20+12`)"
+  - Survival: "+12 (`dice: 1d20+12`)"
 source: Alien Archive
+Speed: 30 ft., fly 30ft. (ex, average)
+statblock: true
+tags: [Neutral, small]
+type: Magical Beast
 ---
+
 ```statblock
 creature: Electrovore
-
 ```
-Cr 2
-**XP 600**  
-N Small magical beast  
-**Init** +4; **Senses** darkvision 60 ft., low-light vision; **Perception** +12  
-
-### Defense
-
-**HP** 23; **RP** 3  
-**EAC** 14; **KAC** 14  
-**Fort** +3; **Ref** +7; **Will** +1  
-**Immunities** electricity  
-
-### Offense
-
-**Speed** 30 ft., fly 30 ft. (Ex, average)  
-**Melee** tail slap +9 (1d4+3 B; critical siphon)  
-**Offensive Abilities** electrical discharge (1d6+2 E plus staggered, Reflex DC 13 half)
-
-### Statistics
-
-**STR** +1; **DEX** +4; **CON** +1; **INT** -4; **WIS** +2; **CHA** -1  
-**Skills** Acrobatics +7, Athletics +7, Stealth +12, Survival +12
-
-### Ecology
-
-**Environment** any  
-**Organization** solitary, pair, nest (3–12), or colony (13+)
-
-### Special Abilities
-
-**Electrical Discharge (Ex)** As a standard action, an electrovore can spend 1 Resolve Point to discharge some of its stored electrical energy as a powerful attack. All creatures within 10 feet of the electrovore take 1d6+2 electricity damage and are staggered for 1 round. A target can attempt a DC 13 Reflex save to take half this damage and negate the staggered effect.
-
-**Siphon (Ex)** Whenever an electrovore scores a critical hit against a living creature, a construct with the technological subtype, or a technological piece of gear, it siphons off a portion of the target’s electrical energy. This restores 1 Resolve Point (up to its maximum of 3).
 
 ## Description
 
@@ -119,8 +76,6 @@ In their new habitats, electrovores are incredibly fecund, doubling in number in
 
 In addition to the direct damage an electrovore colony can deal to a ship’s infrastructure, it can also wreak havoc on the vessel’s systems when threatened. Full of siphoned electrical energy, a startled or cornered electrovore discharges this stored potential, often resulting in even more damage to computer systems and organic matter than the creature could normally manage in twice the time. Luckily, it takes some time for an electrovore to gather enough energy to perform this devastating attack.
 
-Larger starships generally have enough redundancies built into their construction that it takes much longer for electrovore infestations to disable their key systems, though a sizable enough colony of the creatures can unleash incredible destruction in a surprisingly short amount of time in the right conditions. Even a starship with one electrovore on it is in danger of eventually being incapacitated. For each period of time for each size of starship listed in the table below, one of the vessel’s systems (determined randomly) takes critical damage (_Starfinder Core Rulebook_ 321). Of course, the more electrovores infesting a vessel, the faster they disable its systems, though it takes a minimum of 1 day for a starship to take a critical damage effect in this way.
+Larger starships generally have enough redundancies built into their construction that it takes much longer for electrovore infestations to disable their key systems, though a sizable enough colony of the creatures can unleash incredible destruction in a surprisingly short amount of time in the right conditions. Even a starship with one electrovore on it is in danger of eventually being incapacitated. For each period of time for each size of starship listed in the table below, one of the vessel’s systems (determined randomly) takes critical damage (Starfinder Core Rulebook 321). Of course, the more electrovores infesting a vessel, the faster they disable its systems, though it takes a minimum of 1 day for a starship to take a critical damage effect in this way.
 
 <table><tbody><tr><td><b>Starship Size</b></td><td><b>Time</b></td></tr><tr><td>Tiny</td><td>1d6 days – 1 day/2 electrovores</td></tr><tr><td>Small</td><td>2d6 days – 1 day/3 electrovores</td></tr><tr><td>Medium</td><td>2d10 days – 1 day/6 electrovores</td></tr><tr><td>Large</td><td>4d8 days – 1 day/12 electrovores</td></tr><tr><td>Huge</td><td>6d10 days – 1 day/30 electrovores</td></tr><tr><td>Gargantuan</td><td>3d12 weeks – 1 week/50 electrovores</td></tr><tr><td>Colossal</td><td>4d6 months – 1 month/100 electrovores</td></tr></tbody></table>
-
-

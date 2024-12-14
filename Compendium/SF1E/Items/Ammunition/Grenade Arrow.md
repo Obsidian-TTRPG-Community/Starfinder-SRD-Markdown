@@ -1,8 +1,8 @@
 ---
 aliases: 
-
 price: 
-tags: 
+tags:
+  - ammunition
 type: Ammo
 ---
 
@@ -17,7 +17,7 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Grenade Arrow, I
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 6;
+**Level**:: 6
 **Price**:: 875  
 **Hands**:: 1
 **Proficiency**:: Ammo  
@@ -30,8 +30,8 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Grenade Arrow, Ii
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 10;
-**Price**:: 5,450  
+**Level**:: 10
+**Price**:: 5450  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
@@ -43,8 +43,8 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Grenade Arrow, Iii
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 15;
-**Price**:: 32,050  
+**Level**:: 15
+**Price**:: 32050  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —
@@ -56,8 +56,8 @@ Special weapons resist classification into any other category. Some adventurers 
 ## Grenade Arrow, Iv
 
 **Source**:: _Starfinder Core Rulebook pg. 179_  
-**Level**:: 20;
-**Price**:: 245,000  
+**Level**:: 20
+**Price**:: 245000  
 **Hands**:: 1
 **Proficiency**:: Ammo  
 **Damage**:: —

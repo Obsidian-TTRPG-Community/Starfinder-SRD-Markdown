@@ -13,7 +13,7 @@ The PCU requirement and the Build Point costs of the expansion bay options can b
 ``` dataview
 TABLE
 BPCost as BP-Cost, PCU
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Starships/Starship Expansion Bays"
+FROM "Starfinder-SRD/Compendium/Items/Vehicles/Starships/Starship Expansion Bays"
 SORT BPCost ASC
 WHERE file.name != "Starship Expansion Bays"
 ```

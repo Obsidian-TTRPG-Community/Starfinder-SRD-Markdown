@@ -1,4 +1,5 @@
 ---
+cssclasses:
 aliases:
   - Multilevel Spells
 tags:

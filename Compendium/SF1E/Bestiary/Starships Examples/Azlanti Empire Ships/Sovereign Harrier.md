@@ -8,19 +8,28 @@ type: Tiny Fighter
 
 # Sovereign Harrier
 
-Tiny fighter, **Tier**  1 
-**Speed** 10; **Maneuverability** good (turn 1); **Drift** —  
-**AC** 16; **TL** 16  
-**HP** 35; **DT** —; **CT** 7  
-**Shields** basic 40 (forward 10, port 10, starboard 10, aft 10)  
-**Attack (Forward)** light particle beam (3d6), light torpedo launcher (2d8)  
-**Attack (Aft)** flak thrower (3d4)  
-**Power Core** Micron Ultra (80 PCU); **Drift Engine** none; **Systems** autodestruct system, basic computer, budget short-range sensors, mk 3 armor, mk 3 defenses; **Modifiers** +1 Piloting; **Complement** 2
+Tiny fighter, Tier  1 
+Speed: 10
+Maneuverability good (turn 1)
+Drift —  
+AC 16
+TL 16  
+HP: 35
+DT —
+CT 7  
+Shields basic 40 (forward 10, port 10, starboard 10, aft 10)  
+Attack (Forward) light particle beam (3d6), light torpedo launcher (2d8)  
+Attack (Aft) flak thrower (3d4)  
+Power Core Micron Ultra (80 PCU)
+Drift Engine none
+Systems autodestruct system, basic computer, budget short-range sensors, mk 3 armor, mk 3 defenses
+Modifiers +1 Piloting
+Complement 2
 
 ### Crew
 
-**Gunner** gunnery +5  
-**Pilot** Piloting +11 (1 rank)
+Gunner gunnery +5  
+Pilot Piloting +11 (1 rank)
 
 ## Description
 

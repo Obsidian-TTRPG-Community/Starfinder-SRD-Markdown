@@ -1,132 +1,86 @@
 ---
-columns: 2
-forceColumns: true
-
-columnHeight: 1000
-aliases: 
-cr: 4
-Environment: temperate or warm forests (Castrovel)
-HP: 52
-Initmod: 1
-name: Ksarik
-statblock: true
-tags: 
-Type: N Large plant
-combatType: combatant
+abilitymods:
+  - STR: 5
+  - DEX: 1
+  - CON: 3
+  - INT: -3
+  - WIS: 1
+  - CHA: -1 
+ac: "EAC: 16 KAC: 18" 
 alignment: N
-size: large
-type (subtype): plant
-environment: forests
 climate:
   - temperate
   - warm
-planet: Castrovel
-organization:
-  - solitary
-  - pack(2-5)
-  - infestation(6-11)
-source: Alien Archive
-XP: 1,200
-RP: 3
-init:
-  - name: Init
-    desc:  " 1"
-senses: 
-  - name: "Senses"
-    desc: "blindsense (scent) 30 ft., low-light vision"
-perception: 
-  - name: "Perception"
-    desc: " 10"
-EAC: 16
-KAC: 18
-saves:
-  - Fort: " 8"
-  - Ref: " 6"
-  - Will: " 3"
+combatType: combatant
+cr: 4
+date created: Monday, January 1st 2024, 3:13:12 pm
+date modified: Tuesday, July 30th 2024, 10:08:14 pm
 defabilities:
   - name: "Defensive Abilities"
     desc: "[[Fast Healing Ex|fast healing]] 2"
-  - name: "Immunities"
-    desc: "[[Plant Immunities Ex|plant immunities]]"
-speed: "40 ft., climb 40 ft."  
-melee:
+  - name: "[[Immunity (Ex or Su)|Immunities]]"
+    desc: "[[plant immunities]]"
+EAC: 16
+Ecology:
+  - name: "Environment"
+    desc: "temperate or warm forests (Castrovel)"
+  - name: "Organization"
+    desc: "solitary, pack (2–5), or infestation (6–11)"
+Environment: temperate or warm forests (Castrovel)
+environment: forests
+Init: 1
+KAC: 18
+Melee:
   - name: "Melee"
-    desc: "tentacle +12 to hit (12 (1d6+9) B plus ingested adaptation)"
-ranged:
-  - name: "Ranged"
-    desc: "acid spit +9 to hit (6 (1d4+4) A) or thorn dart +9 to hit (7 (1d6+4 P) plus [[Carrion Spores]])"
-  - name: "Space"
-    desc: "10 ft."
-  - name: "Reach"
-    desc: "10 ft."  
+    desc: "tentacle +12 to hit (1d6+9 B plus ingested adaptation)"
+modifier: 1
+name: "Ksarik"
+image: "[[Ksarik.png]]"
+
 offabilities:
   - name: "Offensive Abilities"
     desc: "ingested adaptation"
-abilitymods:
-  - STR: " 5"
-  - DEX: " 1"
-  - CON: " 3"
-  - INT: "-3"
-  - WIS: " 1"
-  - CHA: "-1"
-skills:
-  - Acrobatics: " 10"
-  - Athletics: " 15 (+23 when climbing)" 
-  - Survival: " 10"
-otherabil:
+Perception:
+  - name: "Perception"
+    desc: "10"
+planet: Castrovel
+Ranged:
+  - name: "Ranged"
+    desc: "acid spit +9 to hit (1d4+4 A) or thorn dart +9 to hit (1d6+4 P plus carrion spores)"
+reach: "10 ft."
+saves:
+  - Fort: "+8 (`dice: 1d20+8`)"
+  - Ref: "+6 (`dice: 1d20+6`)"
+  - Will: "+3 (`dice: 1d20+3`)" 
+Senses:
+  - name: "Senses"
+    desc: "[[blindsense]] (scent) 30 ft., [[low-light vision]]"
+size: large
+Skills:
+  - Acrobatics: "+10 (`dice: 1d20+10`)"
+  - Athletics: "+15 (`dice: 1d20+15`) (+23 when climbing)"
+  - Survival: "+10 (`dice: 1d20+10`)"
+source: Alien Archive
+space: "10 ft."
+specialabil:
   - name: "Acid Spit (Ex)"
     desc: "As a standard action once every 1d4 rounds, a ksarik can spit a glob of acid at a target within 60 feet."
-  - name: "Ingested Adaptation (Su)"
-    desc: "Whenever a ksarik deals damage to a living creature with its tentacles, it siphons off a portion of the target’s genetic code and psychic resonance, temporarily reshaping its own physiology and psychology to match its victim’s. This grants the ksarik one of the following abilities (provided the target has it) for 1 minute: blindsense (up to 60 feet), blindsight (up to 60 feet), darkvision (up to 60 feet), damage reduction (up to 5/—), resistance to one type of energy damage (up to 20 points), burrow (up to 40 feet), fly (up to 40 feet, with maximum average maneuverability), swim (up to 40 feet), or water breathing. Alternatively, the ksarik can gain the ability to understand (but not speak) up to three languages that the target knows, gain the target’s weapon proficiencies (its tentacles can operate two-handed weapons in this state), or change the damage dealt by its acid spit ability to any one energy type dealt by one of the target’s supernatural attacks. A ksarik can maintain only one adaptation at a time, and gaining a new adaptation ends the previous one. A ksarik can spend 1 Resolve Point to extend the duration of an ongoing benefit by 8 hours. It can also spend 1 Resolve Point to gain a second adaptation and sustain them both simultaneously."
   - name: "Thorn Dart (Ex)"
-    desc: "A ksarik can fire one of its thorns as a ranged attack. The dart has a range of 100 feet, deals piercing damage, and exposes the target to carrion spores."
+    desc: "A ksarik can fire one of its thorns as a ranged attack. The dart has a range of 100 feet, deals piercing damage, and exposes the target to [[Carrion Spores]]."
+  - name: "Ingested Adaptation (Su)"
+    desc: "Whenever a ksarik deals damage to a living creature with its tentacles, it siphons off a portion of the target’s genetic code and psychic resonance, temporarily reshaping its own physiology and psychology to match its victim’s. This grants the ksarik one of the following abilities (provided the target has it) for 1 minute: <ul><li>[[blindsense]] (up to 60 feet),</li><li> [[blindsight]] (up to 60 feet), </li><li> [[darkvision]] (up to 60 feet),</li><li>  [[Damage Reduction DR]] (up to 5/—), </li><li> [[Resistance Ex]] to one type of energy damage (up to 20 points), </li><li> burrow (up to 40 feet), </li><li> fly (up to 40 feet, with maximum average maneuverability), </li><li> swim (up to 40 feet), or </li><li> [[Water Breathing Ex]].</li></ul> Alternatively, the ksarik can gain the ability to understand (but not speak) up to three languages that the target knows, gain the target’s weapon proficiencies (its tentacles can operate two-handed weapons in this state), or change the damage dealt by its acid spit ability to any one energy type dealt by one of the target’s supernatural attacks. A ksarik can maintain only one adaptation at a time, and gaining a new adaptation ends the previous one. A ksarik can spend 1 Resolve Point to extend the duration of an ongoing benefit by 8 hours. It can also spend 1 Resolve Point to gain a second adaptation and sustain them both simultaneously."
+Speed: 40 ft., climb 40 ft. 
+statblock: true
+tags: [large, Neutral, plant]
+type: plant
+Xp: 1,200
 ---
 
 ```statblock
 creature: Ksarik
 ```
-# Ksarik
-Cr 4
 
-### Defense
-
-**HP** 52; **RP** 3  
-**EAC** 16; **KAC** 18  
-**Fort** +8; **Ref** +6; **Will** +3  
-**Defensive Abilities** fast healing 2; **Immunities** plant immunities  
-
-### Offense
-
-**Speed** 40 ft., climb 40 ft.  
-**Melee** tentacle +12 (1d6+9 B plus ingested adaptation)  
-**Ranged** acid spit +9 (1d4+4 A) or thorn dart +9 (1d6+4 P plus carrion spores)  
-**Space** 10 ft.; **Reach** 10 ft.  
-**Offensive Abilities** ingested adaptation
-
-### Statistics
-
-**STR** +5; **DEX** +1; **CON** +3; **INT** -3; **WIS** +1; **CHA** -1  
-**Skills** Acrobatics +10, Athletics +15 (+23 when climbing), Survival +10
-
-### Ecology
-
-**Environment** temperate or warm forests (Castrovel)  
-**Organization** solitary, pack (2–5), or infestation (6–11)
-
-### Special Abilities
-
-**Acid Spit (Ex)** As a standard action once every 1d4 rounds, a ksarik can spit a glob of acid at a target within 60 feet.
-
-**Ingested Adaptation (Su)** Whenever a ksarik deals damage to a living creature with its tentacles, it siphons off a portion of the target’s genetic code and psychic resonance, temporarily reshaping its own physiology and psychology to match its victim’s. This grants the ksarik one of the following abilities (provided the target has it) for 1 minute: blindsense (up to 60 feet), blindsight (up to 60 feet), darkvision (up to 60 feet), damage reduction (up to 5/—), resistance to one type of energy damage (up to 20 points), burrow (up to 40 feet), fly (up to 40 feet, with maximum average maneuverability), swim (up to 40 feet), or water breathing. Alternatively, the ksarik can gain the ability to understand (but not speak) up to three languages that the target knows, gain the target’s weapon proficiencies (its tentacles can operate two-handed weapons in this state), or change the damage dealt by its acid spit ability to any one energy type dealt by one of the target’s supernatural attacks. A ksarik can maintain only one adaptation at a time, and gaining a new adaptation ends the previous one. A ksarik can spend 1 Resolve Point to extend the duration of an ongoing benefit by 8 hours. It can also spend 1 Resolve Point to gain a second adaptation and sustain them both simultaneously.
-
-**Thorn Dart (Ex)** A ksarik can fire one of its thorns as a ranged attack. The dart has a range of 100 feet, deals piercing damage, and exposes the target to carrion spores.
-
-## Carrion Spores
-
-**Type** disease (injury); **Save** Fortitude DC 13  
-**Track** physical; **Frequency** 1/day  
-**Effect** When an infected creature reaches the comatose state, 1d10+10 Diminutive ksarik seedlings burrow out of its flesh and wriggle away. This ends the disease and deals 1 piercing damage for each ksarik seedling.  
-**Cure** 2 consecutive saves
+[[Carrion Spores]]
 
 ## Description
 
@@ -145,5 +99,3 @@ The most notable evidence of this cultural development is the lilting melodies k
 ## Adaptive Serum
 
 A handful of scientists who have spent countless hours studying the ksariks’ ingested adaptation ability have discovered a formula that provides a facsimile of that power when imbibed. This magical serum alters users at a genetic level, granting them the ability to withstand energy attacks.
-
-

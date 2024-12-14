@@ -8,33 +8,47 @@ type: N Huge starship magical beast
 
 # Vermelith
 
-**Source**:  _Alien Archive 2 pg. 130_
+source:  _Alien Archive 2 pg. 130_
 
-N Huge starship magical beast, **Tier** 9 
-**Speed** 4; **Maneuverability** poor (turn 3); **Drift** —  
-**AC** 25; **TL** 22; **Immunities** EMP, radiation, vacuum  
-**HP** 200; **DT** 5; **CT** 40  
-**Shields** none  
-**Attack (Forward)** gravity gun +13 (6d6), bite +13 (8d6 plus EMP and swallow starship)  
-**Attack (Turret)** tail whip +13 (8d6, ripper)  
-**Skills** Engineering +17, Piloting +18  
-**Power Core** vermelith heart (150 PCU); **Drift Engine** none; **Systems** mk 5 defenses, mk 8 armor; **Expansion Bays** swallow starship  
-**Other Abilities** encyst, extreme resistance, living starship, void adaptation
+N Huge starship magical beast, Tier 9 
+Speed: 4
+Maneuverability poor (turn 3)
+Drift —  
+AC 25
+TL 22
+  - name: "Immunities"
+    desc: "EMP, radiation, vacuum  
+HP: 200
+DT 5
+CT 40  
+Shields none  
+Attack (Forward) gravity gun +13 (6d6), bite +13 (8d6 plus EMP and swallow starship)  
+Attack (Turret) tail whip +13 (8d6, ripper)  
+Skills:
+  - Engineering +17
+  - Piloting: +18  
+Power Core vermelith heart (150 PCU)
+Drift Engine none
+Systems mk 5 defenses, mk 8 armor
+Expansion Bays swallow starship  
+otherabil:
+  - name: ""
+    desc: "encyst, extreme resistance, living starship, void adaptation"
 
 ### Ecology
 
-**Environment** any vacuum  
-**Organization** solitary
+Environment any vacuum  
+Organization solitary
 
 ### Special Abilities
 
-**Bite (Ex)** A vermelith can use its bite only against a ship in an adjacent hex. If the vermelith deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 28 Piloting check to break free of the jaws. While holding a starship in its jaws, the vermelith can’t move, turn, or use its gravity gun, but it can make tail attacks or attempt to bite or swallow the same starship. The vermelith and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
+Bite (Ex) A vermelith can use its bite only against a ship in an adjacent hex. If the vermelith deals damage with this attack to a ship of its size or smaller, it holds that ship in place. As an action, the pilot of the bitten starship can attempt a DC 28 Piloting check to break free of the jaws. While holding a starship in its jaws, the vermelith can’t move, turn, or use its gravity gun, but it can make tail attacks or attempt to bite or swallow the same starship. The vermelith and the ship it is holding take a –2 penalty to AC and TL and to Piloting checks to determine movement order in starship combat.
 
-**Encyst (Ex)** A vermelith can coil up and, over 6 hours, exude a rocky layer that resembles an asteroid. An encysted vermelith can take no actions, but it increases its AC and TL by 5 and its DT by 10. A creature that succeeds at a DC 28 Mysticism check can identify an encysted vermelith as a creature. A vermelith can remain encysted indefinitely. If awakened during starship combat, a vermelith bursts out of its cyst during the engineering phase and acts normally.
+Encyst (Ex) A vermelith can coil up and, over 6 hours, exude a rocky layer that resembles an asteroid. An encysted vermelith can take no actions, but it increases its AC and TL by 5 and its DT by 10. A creature that succeeds at a DC 28 Mysticism check can identify an encysted vermelith as a creature. A vermelith can remain encysted indefinitely. If awakened during starship combat, a vermelith bursts out of its cyst during the engineering phase and acts normally.
 
-**Extreme Resistance (Ex)** A vermelith gains a +4 bonus to its AC against direct fire weapons that have the EMP special property or use gravity, and its DT against such weapons is 15. A vermelith has a +5 bonus to Piloting checks it attempts due to gravity, such as escaping a tractor beam.
+Extreme Resistance (Ex) A vermelith gains a +4 bonus to its AC against direct fire weapons that have the EMP special property or use gravity, and its DT against such weapons is 15. A vermelith has a +5 bonus to Piloting checks it attempts due to gravity, such as escaping a tractor beam.
 
-**Living Starship (Ex)** A vermelith is a living creature that can engages only in starship combat. It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed in the Crew Actions section above. Modifiers for its size, speed, and maneuverability are already factored into its statistics. Use the table below when the vermelith takes critical damage. The vermelith’s brain can’t gain the wrecked condition.
+Living Starship (Ex) A vermelith is a living creature that can engages only in starship combat. It has no crew, but it can still take engineer, gunner, and pilot actions using the skill bonuses, ranks, and level listed in the Crew Actions section above. Modifiers for its size, speed, and maneuverability are already factored into its statistics. Use the table below when the vermelith takes critical damage. The vermelith’s brain can’t gain the wrecked condition.
 
 | D%     | System          | Effect                                                                         |
 |--------|-----------------|--------------------------------------------------------------------------------|
@@ -44,10 +58,10 @@ N Huge starship magical beast, **Tier** 9
 | 91–100 | Brain           | Condition applies to all actions                                               |
 
 
-  
-**Swallow Starship (Ex)** If a vermelith is holding a starship smaller than it in place, it can swallow that vessel by making a successful bite attack against it. A vermelith’s gullet can hold one Large ship, two Medium ships, four Small ships, or eight Tiny ships. A vermelith can take an action during the gunnery phase to crush starships inside it, dealing 4d6 damage (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise) and applying the EMP special property. A swallowed vessel can still attack. The vermelith’s interior has AC 21, TL 18, and DT 0. However, starship weapons deal half their damage to the firing ship through a combination of blowback and the vermelith’s physical reactions. If a swallowed starship deals 50 damage to the vermelith’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a Piloting check (DC 28, or DC 33 if the vermelith has no hole in it). On a failure, the starship remains within the vermelith.
+ 
+Swallow Starship (Ex) If a vermelith is holding a starship smaller than it in place, it can swallow that vessel by making a successful bite attack against it. A vermelith’s gullet can hold one Large ship, two Medium ships, four Small ships, or eight Tiny ships. A vermelith can take an action during the gunnery phase to crush starships inside it, dealing 4d6 damage (divide this damage equally across all arcs, starting with the forward arc and proceeding clockwise) and applying the EMP special property. A swallowed vessel can still attack. The vermelith’s interior has AC 21, TL 18, and DT 0. However, starship weapons deal half their damage to the firing ship through a combination of blowback and the vermelith’s physical reactions. If a swallowed starship deals 50 damage to the vermelith’s interior, the ship blows a hole in the creature big enough to attempt to fly through. During the helm phase, the pilot of a swallowed starship can attempt to fly free with a Piloting check (DC 28, or DC 33 if the vermelith has no hole in it). On a failure, the starship remains within the vermelith.
 
-**Tail Whip (Ex)** A vermelith can use its tail whip only against a starship in an adjacent hex. This attack has the ripper special property.
+Tail Whip (Ex) A vermelith can use its tail whip only against a starship in an adjacent hex. This attack has the ripper special property.
 
 ## Description
 

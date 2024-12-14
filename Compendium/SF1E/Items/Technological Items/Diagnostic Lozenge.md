@@ -1,17 +1,17 @@
 ---
-aliases: 
+aliases: []
 
 price: 175
-tags: 
+tags: []
 Type: Technological Item
 ---
 
 # Diagnostic Lozenge
 
-**Source**:: _Starfinder Armory pg. 101_  
+**Source**:: _Starfinder Armory pg. 101_
 **Level**:: 2
-**Price**::  175  
-**Capacity**:: 20 **Usage** 1/hour  
+**Price**::  175
+**Capacity**:: 20 **Usage** 1/hour
 **Hands** — 
 **Bulk**:: —
 

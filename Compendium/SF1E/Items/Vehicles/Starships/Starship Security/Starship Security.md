@@ -11,7 +11,7 @@ The additions below help to prevent unwanted scoundrels from absconding with a s
 ``` dataview
 TABLE
 BPCost as BP-Cost, PCU
-FROM "Starfinder-SRD/SF1E/Compendium/Items/Vehicles/Starships/Starship Security"
+FROM "Starfinder-SRD/Compendium/Items/Vehicles/Starships/Starship Security"
 SORT BPCost ASC
 WHERE file.name != "Starship Security"
 ```

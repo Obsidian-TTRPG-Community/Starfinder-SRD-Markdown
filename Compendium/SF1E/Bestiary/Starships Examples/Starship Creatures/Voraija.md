@@ -8,43 +8,58 @@ type: N Small starship magical beast
 
 # Voraija
 
-**Source**:  _Alien Archive 4 pg. 134_
+source:  _Alien Archive 4 pg. 134_
 
-N Small starship magical beast, **Tier** 1/2 
-**Speed** 10; **Maneuverability** perfect (turn 0); **Drift** —  
-**AC** 12; **TL** 12  
-**HP** 35; **DT** —; **CT** 7  
-**Shields** none  
-**Attack (Forward)** basic ramming prow (2d4; 0 hexes)  
-**Attack (Aft)** tail slap (1d4, ripper; 5 hexes)  
-**Attack (Turret)** vocalization (1d8 plus EMP; 20 hexes)  
-**Power Core** voraija heart (90 PCU); **Drift Engine** none; **Systems** basic computer, basic medium-range sensors, mk 1 armor, mk 1 defenses, extra weapon mount (aft arc); **Expansion Bays** none  
-**Other Abilities** living starship, pod synergy, void adaptation
+N Small starship magical beast, Tier 1/2 
+Speed: 10
+Maneuverability perfect (turn 0)
+Drift —  
+AC 12
+TL 12  
+HP: 35
+DT —
+CT 7  
+Shields none  
+Attack (Forward) basic ramming prow (2d4
+0 hexes)  
+Attack (Aft) tail slap (1d4, ripper
+5 hexes)  
+Attack (Turret) vocalization (1d8 plus EMP
+20 hexes)  
+Power Core voraija heart (90 PCU)
+Drift Engine none
+Systems basic computer, basic medium-range sensors, mk 1 armor, mk 1 defenses, extra weapon mount (aft arc)
+Expansion Bays none  
+otherabil:
+  - name: ""
+    desc: "living starship, pod synergy, void adaptation
 
 ### Crew
 
-**Gunner (1 action)** gunnery +3 (1st level)  
-**Pilot (1 action)** Piloting +10 (1 rank)  
-**Science Officer (1 action)** Computers +4 (1 rank)
+Gunner (1 action) gunnery +3 (1st level)  
+Pilot (1 action) Piloting +10 (1 rank)  
+Science Officer (1 action) Computers +4 (1 rank)"
 
 ### Ecology
 
-**Environment** any gas giant or vacuum  
-**Organization** solitary, pair, or pod (3–30)
+Environment any gas giant or vacuum  
+Organization solitary, pair, or pod (3–30)
 
 ### Special Abilities
 
-**Living Starship (Ex)** A voraija is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take crew actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the following table to determine the effects when the voraija takes critical damage.  
+Living Starship (Ex) A voraija is a living creature so immense that it functions as a starship (and thus engages only in starship combat). It has no crew, but it can still take crew actions using the skill bonuses, ranks, and level listed above. Modifiers for its size, speed, and maneuverability have already been factored into its statistics. Use the following table to determine the effects when the voraija takes critical damage.  
 
 | D%     | DAMAGE        | MINIMUM SIZE                                                                                                  |
 |--------|---------------|---------------------------------------------------------------------------------------------------------------|
 | 1–20   | Sensory Melon | Condition applies to all science officer actions.                                                             |
-| 21–51  | Weapons Array | Randomly determine one arc containing weapons; condition applies to gunner actions using weapons in that arc. |
+| 21–51  | Weapons Array | Randomly determine one arc containing weapons
+condition applies to gunner actions using weapons in that arc. |
 | 51–85  | Propulsion    | Condition applies to all pilot actions.                                                                       |
 | 86–100 | Brain         | During the next round, each of the creature’s attempted actions has a 25% chance of failure.                  |
 
-**Pod Synergy (Ex)** Members of a voraija pod communicate through microwave calls and can coordinate their attacks as a group. Treat all damage from vocalization attacks as if it came from a single attack for the purpose of overcoming a target’s damage threshold. In addition, a pod of three or more voraijas can choose to roll a single Piloting check during the helm phase to determine their movement order, gaining a +1 circumstance bonus to the check for every three participating voraijas (maximum +5); each participating voraija uses the check’s result.  
-**Spines (Ex)** A voraija’s fins and body bristle with defensive spines. When rammed by an enemy or struck by an attack whose maximum range is 1 hex, the voraija deals 1d4 damage to the attacker.
+Pod Synergy (Ex) Members of a voraija pod communicate through microwave calls and can coordinate their attacks as a group. Treat all damage from vocalization attacks as if it came from a single attack for the purpose of overcoming a target’s damage threshold. In addition, a pod of three or more voraijas can choose to roll a single Piloting check during the helm phase to determine their movement order, gaining a +1 circumstance bonus to the check for every three participating voraijas (maximum +5)
+each participating voraija uses the check’s result.  
+Spines (Ex) A voraija’s fins and body bristle with defensive spines. When rammed by an enemy or struck by an attack whose maximum range is 1 hex, the voraija deals 1d4 damage to the attacker.
 
 ## Description
 
@@ -54,7 +69,8 @@ Voraijas reach maturity at about 35 years of age, growing to lengths of 80 feet 
 
 This variant of echolocation and their whale-like forms caused biologists to mistakenly classify voraijas as a subspecies of oma, yet voraijas belong to a completely different species. Their version of starsong has only rudimentary telepathic undertones, conveying most of its power and meaning through electromagnetic waves. In contrast to omas’ ethereal, mournful sonatas, playful riffs and forceful shouts characterize voraija vocalizations, carrying a vibrational component that most creatures feel as buzzing or heat—or that most starship sensors read as overpowering static.
 
-This communication is key to voraijas’ survival, as they coordinate closely to hunt in pods, favoring organic creatures native to gas giants. Using bursts of high-frequency waves, voraijas corral and stun comparatively small prey like cloud rays (page 20) before swallowing their targets whole. Voraija have fairly small teeth, ill-suited to inflicting lethal wounds. However, eyewitnesses attest that voraijas occasionally team up to hunt large prey, such as space tardigrades or omas; during these efforts, voraijas kill their targets with microwave bursts before biting into the carcass and rolling away for added leverage. When driving off threats, voraijas turn to their powerful rostrums and tails, both of which can inflict terrible bludgeoning blows.
+This communication is key to voraijas’ survival, as they coordinate closely to hunt in pods, favoring organic creatures native to gas giants. Using bursts of high-frequency waves, voraijas corral and stun comparatively small prey like cloud rays (page 20) before swallowing their targets whole. Voraija have fairly small teeth, ill-suited to inflicting lethal wounds. However, eyewitnesses attest that voraijas occasionally team up to hunt large prey, such as space tardigrades or omas
+during these efforts, voraijas kill their targets with microwave bursts before biting into the carcass and rolling away for added leverage. When driving off threats, voraijas turn to their powerful rostrums and tails, both of which can inflict terrible bludgeoning blows.
 
 A visiting voraija pod’s songs can instigate serious communications disruption across a nearby planet’s surface, much like being hit by a solar flare. Technologically advanced societies often send starship escorts to shepherd voraijas before the creatures cause too much damage. However, these encounters often result in misunderstanding and violence due to the voraijas’ stubborn curiosity. Each death only enrages the creatures, for the emotional bonds within a family are powerful. The loss of an elder—especially a pod’s matriarch—can leave the group disoriented and angry, spurring the voraijas to vindictively hunt and destroy any starships they can find in a system.
 

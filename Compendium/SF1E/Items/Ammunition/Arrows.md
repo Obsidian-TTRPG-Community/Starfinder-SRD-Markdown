@@ -3,7 +3,7 @@ aliases:
   - Arrows
 price: 0
 tags:
-  - sf1e/items/ammunition
+  - ammunition
 type:
   - Ammo
 ---

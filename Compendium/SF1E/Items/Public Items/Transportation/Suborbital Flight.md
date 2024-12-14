@@ -1,13 +1,15 @@
 ---
-aliases: 
+cssclasses:
+aliases: []
 Category: Transportation
 price: 1/25 miles
-tags: 
+tags: []
 Type: Public Item
 ---
+
 **Source**:: _Starfinder Core Rulebook pg. 235_
-**Category** Transportation  
-**Price** 1 per 25 miles
+**Category**Transportation
+**Price**:: 1 per 25 miles
 
 ### Description
 

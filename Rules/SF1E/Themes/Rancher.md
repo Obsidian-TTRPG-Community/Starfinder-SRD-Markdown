@@ -1,0 +1,12 @@
+
+SFS Legal Rancher (+1 Str)
+Source Starfinder Enhanced pg. 16
+In a galaxy filled with faster-than-light travel, virtual reality, and space stations housing millions, many people forget where their food comes from. Even those who exclusively dine on MREs and whatever comes out of their culinary synthesizers don’t stop and consider the inspiration behind their food-like cuisine. Even for cultures who travel the stars, livestock are a critical part of the economy and remain a key component of many products. As a rancher, you have first-hand experience raising, protecting, and perhaps even rendering domestic animals. You are aware of the symbiotic nature of life throughout the universe and want to experience that sublime relationship for yourself, rather than waiting for the proverbial space cows to come home.
+Theme Knowledge (1st Level)
+You have spent many years as a rancher raising livestock and you have come to learn that all animals follow certain distinguishing behaviors. Reduce the DC of Survival checks to follow tracks or handle animal by 5. Life Science is a class skill for you, though if it is a class skill from the class you take at 1st level, you instead gain a +1 bonus to your Life Science checks. In addition, you gain an ability adjustment of +1 to Strength at character creation.
+Bring a Friend (6th Level)
+When you travel, you find that you miss being surrounded by the creatures you raised back home, and naturally adopt a companion to accompany you on your adventures. You gain the Creature Companion Adept feat, as well a free creature of your level or lower.
+Creature Whisperer (12th Level)
+Observing new species has helped develop your understanding of animals and animal behaviors, to the point where you have an intuitive understanding of what their behavior is communicating. You can spend 10 minutes attempting to communicate with an animal using the handle an animal check. If the creature is or becomes indifferent, helpful, or friendly, you can communicate basic information with the animal, such as the direction of a scent or where something might be buried. You can do this without an action if the creature is your companion animal.
+Caring Owner (18th Level)
+You have formed a close bond with your animal companion and the time you spend with them relaxes and nourishes your spirits. Up to twice per a day, when you are in an environment that is hospitable to your companion, you can take 10 minutes to care for them to recover 1 Resolve Point.

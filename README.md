@@ -15,9 +15,11 @@ This vault is usable, but there is still some cleaning up to do. Please do not m
 ### Plugins
 
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview) for the automated MOC's and Tables. 
-
+- Fantasy Statblocks to see alien data
+  
 ## Optional Plugins and CSS
 
 ### Plugins
 
 - [Folder Notes](https://github.com/LostPaul/obsidian-folder-notes) for automated Folder Note functionality.
+- Dice Roller for statblock dice functionality
